@@ -1,11 +1,11 @@
 # Notify Springfield that l10n files have updated, by pinging Springfield's Fluent-files
 # update pipeline at mozmeao/springfield-fluent-update
 
-name: Ping mozmeao/springfield-fluent-update when master changes
+name: Ping mozmeao/springfield-fluent-update when main changes
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch: # For manual runs, if needed
 
 concurrency:

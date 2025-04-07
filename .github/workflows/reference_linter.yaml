@@ -5,13 +5,13 @@ on:
       - 'en/**.ftl'
       - '.github/workflows/reference_linter.yaml'
     branches:
-      - master
+      - main
   pull_request:
     paths:
       - 'en/**.ftl'
       - '.github/workflows/reference_linter.yaml'
     branches:
-      - master
+      - main
   workflow_dispatch:
 jobs:
   linter:

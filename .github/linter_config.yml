@@ -25,14 +25,6 @@ CO01:
     exclusions:
         files: []
         messages:
-            # 404-locale.ftl
-            - not-found-locale-title
-            # firefox/browsers.ftl
-            - firefox-browsers-already-have-an-account-sign
             # firefox/developer.ftl
             - firefox-developer-monitor-network-requests
             - firefox-developer-learn-more-about-newtork-monitor
-            # firefox/features/translate.ftl
-            - features-translate-for-everyone
-            # newsletters/newsletters.ftl
-            - newsletters-former-university-program
