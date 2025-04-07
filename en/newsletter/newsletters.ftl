@@ -139,8 +139,6 @@ newsletters-this-email-address-is-not = This email address is not in our system.
 
 # Note: Bluesky is a brand name that shouldn't be translated
 newsletters-im-keeping-in-touch-v3 = I’m keeping in touch with { -brand-name-mozilla } on Bluesky instead.
-# Obsolete, remove after 2025-05-11
-newsletters-im-keeping-in-touch-v2 = I’m keeping in touch with { -brand-name-mozilla } on { -brand-name-twitter } instead.
 
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Sign up, read up,<br> stay informed.
