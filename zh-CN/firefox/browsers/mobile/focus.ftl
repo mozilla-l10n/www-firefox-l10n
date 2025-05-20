@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/mobile/focus/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }：隐私浏览器
@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = 移动端隐私浏览，如此简单
 mobile-focus-firefox-focus-dedicated-with-v2 = 有了自动跟踪保护加持，{ -brand-name-firefox-focus } 就是您的隐私专用浏览器。{ -brand-name-focus } 不但页面加载飞快，更可保护您的隐私数据。
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } 适用于 { -brand-name-ios } 和 { -brand-name-android } 设备。
 mobile-focus-get-firefox-focus = 下载 { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = 发送下载链接至您的手机。
 mobile-focus-scan-the-qr-code-to-get-started = 立即扫码
 mobile-focus-scan-alt-text = 扫码下载 { -brand-name-firefox-focus }
 mobile-focus-delete-your-history = 删除历史记录

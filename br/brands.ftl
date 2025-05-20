@@ -9,25 +9,21 @@
 
 ## Company names
 
--brand-name-amazon = Amazon
 -brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook = Facebook
 -brand-name-github = GitHub
 -brand-name-google = Google
--brand-name-hulu = Hulueg
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
--brand-name-mullvad = Mullvad
 -brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
 -brand-name-wireguard = WireGuard
 -brand-name-linkedin = LinkedIn
 -brand-name-tiktok = TikTok
 -brand-name-spotify = Spotify
--brand-name-mastodon = Mastodon
 
 ## Firefox browsers
 
@@ -36,8 +32,8 @@
 -brand-name-firefox-browser = Firefox Browser
 -brand-name-firefox-browsers =
     { $capitalization ->
-       *[lowercase] merdeerioù Firefox
         [uppercase] Merdeerioù Firefox
+       *[lowercase] merdeerioù Firefox
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
@@ -59,45 +55,31 @@
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = Aurora
--brand-name-firefox-daylight = Firefox Daylight
--brand-name-daylight = Daylight
 -brand-name-firefox-quantum = Firefox Quantum
--brand-name-firefox-lite = Firefox Lite
--brand-name-lite = Lite
--brand-name-firefox-reality = Firefox Reality
--brand-name-reality = Reality
 
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-relay = Firefox Relay
--brand-name-firefox-relay-premium = Firefox Relay Premium
--brand-name-firefox-sync = Firefox Sync
 -brand-name-firefox-translations = Troidigezhioù Firefox
 
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
 -brand-name-relay = Relay
--brand-name-relay-premium = Relay Premium
--brand-name-sync = Sync
 
 ## Firefox products (legacy)
 
 -brand-name-firefox-account = Kont Firefox
 -brand-name-firefox-accounts = Kontoù Firefox
--brand-name-firefox-better-web = Firefox Better Web
--brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox SO
--brand-name-firefox-send = Firefox Send
--brand-name-send = Send
 -brand-name-firefox-private-network = Kenrouedad Prevez Firefox
--brand-name-fpn = FPN
 
 ## Firefox projects
 
+-brand-name-firefox-labs = Firefox Labs
 
 ## Pocket
 
@@ -109,23 +91,26 @@
 
 ## Anonym
 
+-brand-name-anonym = Dizanv
 
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
+-brand-name-irl-podcast = Podskignañ IRL
+-brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
--brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-festival = Festival Mozilla
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = Kont Mozilla
 -brand-name-mozilla-accounts = Kontoù Mozilla
--brand-name-mozilla-social = Mozilla.social
-# Obsolete string (expires: 2025-01-05)
--brand-name-mozilla-ai = Mozilla IA
+-brand-name-mozilla-builders = Mozilla Builders
+-brand-name-mozilla-ai-v2 = Mozilla.ai
+-brand-name-mozilla-ventures = Mozilla Ventures
+-brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
@@ -133,22 +118,14 @@
 -brand-name-common-voice = Common Voice
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
--brand-name-vpn = VPN
 
 ## Mozilla projects (legacy)
 
--brand-name-mozilla-developer-network = Rouedad an diorroerien Mozilla
--brand-name-mozilla-labs = Mozilla Labs
--brand-name-hubs = Hubs
--brand-name-lockwise = Lockwise
--brand-name-lightbeam = Lightbeam
--brand-name-maker-party = Maker Party
 -brand-name-webmaker = Webmaker
 
 ## Open Source projects
 
 -brand-name-rust = Rust
--brand-name-webassembly = WebAssembly
 
 ## Other browsers
 
@@ -158,7 +135,6 @@
 -brand-name-ie = Internet Explorer
 -brand-name-opera = Opera
 -brand-name-safari = Safari
--brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
@@ -168,10 +144,7 @@
 -brand-name-linux = Linux
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
--brand-name-ubuntu = Ubuntu
--brand-name-vista = Vista
 -brand-name-windows = Windows
--brand-name-xp = XP
 
 ## Apple products
 
@@ -180,15 +153,10 @@
 -brand-name-iphone = iPhone
 -brand-name-test-flight = TestFlight
 
-## Amazon products
-
--brand-name-fire-tv = Fire TV
-
 ## Facebook products
 
 -brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
--brand-name-messenger = Messenger
 -brand-name-workplace = Workplace
 
 ## Google products

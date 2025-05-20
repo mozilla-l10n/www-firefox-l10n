@@ -1,6 +1,5 @@
 {
-    "locales": [
-        {
+    "locales": [{
             "smartling": "ar",
             "application": "ar"
         },
@@ -29,13 +28,11 @@
             "application": "ms"
         }
     ],
-    "resourceSets": [
-        {
-            "type": "FLUENT",
-            "authorizeContent": "false",
-            "pathRegex": "en\\/(?<path>.*)\\.ftl",
-            "translationPathExpression": "${locale}/${path}.${originalFile.extension}",
-            "translationCommitMessage": "Translate ${originalFile.fullName} to ${locale}"
-        }
-    ]
+    "resourceSets": [{
+        "type": "FLUENT",
+        "authorizeContent": "false",
+        "pathRegex": "en\\/(?<path>.*)\\.ftl",
+        "translationPathExpression": "${locale}/${path}.${originalFile.extension}",
+        "translationCommitMessage": "Translate ${originalFile.fullName} to ${locale}"
+    }]
 }

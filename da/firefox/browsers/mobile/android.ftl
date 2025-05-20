@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/mobile/android/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
 mobile-android-get-firefox-for = Hent { -brand-name-firefox } til { -brand-name-android }
 mobile-android-scan-the-qr-code-to-get-started = Skan QR-koden for at komme i gang

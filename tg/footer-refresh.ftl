@@ -2,12 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-discover-mozilla-products = Дар бораи маҳсулот ва ташаббусҳои «{ -brand-name-mozilla }»маълумот гиред. Мо ваъда медиҳем, ки нишонии почтаи электронии шуморо ба таври махфӣ ва бехатар нигоҳ медорем - онро мубодила намекунем ё намефурӯшем, танҳо барои навигариҳои ҷолиб истифода мебарем.
 footer-refresh-leadership = Роҳнамоӣ
 footer-refresh-advertise = Таблиғ тавассути «{ -brand-name-mozilla }»
+footer-refresh-mozilla-advertising = Рекламаи «{ -brand-name-mozilla }»
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = Маълумоти бештар <span>дар бораи { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Қайдҳои нашри «{ -brand-name-firefox }»
+footer-refresh-privacy-first = Пешниҳодҳои рекламавии дорои махфияти аввалиндараҷа барои тамғаҳои молӣ, ноширон ва платформаҳо.
+footer-refresh-mdn-v2 = { -brand-name-mdn }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Пайгирӣ кардани @{ -brand-name-mozilla }
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -22,8 +28,6 @@ footer-refresh-support = Дастгирӣ
 footer-refresh-product-help = Кумак барои маҳсулот
 footer-refresh-file-a-bug = Гузориш дар бораи хато
 footer-refresh-localize-mozilla = Маҳаллисозии «{ -brand-name-mozilla }»
-footer-refresh-resources = Манбаъҳо
-footer-refresh-brand-standards = Стандартҳои бренд
 footer-refresh-developers = Барномасозон
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

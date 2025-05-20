@@ -16,19 +16,11 @@ navigation-refresh-mozilla-manifesto-v2 = Stefnuskrá { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Taktu þátt
 navigation-refresh-get-involved-v2 = Taktu þátt
-navigation-refresh-innovation-projects = Nýsköpunarverkefni
-navigation-refresh-innovation-projects-v2 = Nýsköpunarverkefni
 navigation-refresh-blog = Blogg
 navigation-refresh-our-mission = Markmið okkar
 navigation-refresh-our-work = Starfið okkar
 navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = { -brand-name-mozilla }-gervigreind
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla }-auglýsingar
 

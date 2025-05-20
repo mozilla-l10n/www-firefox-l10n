@@ -62,16 +62,11 @@ firefox-developer-master-innovative-features = Innovatív funkciók
 firefox-developer-want-to-be-on-the-cutting-edge = Szeretné kipróbálni a legújabb dolgokat?
 firefox-developer-firefox-nightly-receives = A { -brand-name-firefox-nightly } naponta kap frissítéseket, és hónapokkal hamarabb hozzáférhet az új funkciókhoz, még mielőtt azok bekerülnének a főáramba.
 firefox-developer-firefox-is-the-only-browser = A { -brand-name-firefox } az egyetlen böngésző, amely olyan eszközökkel érkezik, amelyek kifejezetten CSS rácsok tervezésére és összeállítására lettek készítve. Ezekkel az eszközökkel vizualizálhatja a rácsot, megjelenítheti a hozzájuk tartozó területneveket, megtekintheti a transzformációk előnézetét a rácson, és ez még nem minden.
-firefox-developer-convenient-features = Kényelmes funkciók
-firefox-developer-shapes-editor = Alakzatszerkesztő
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = A { -brand-name-firefox-devtools } egy vadonatúj alakzatútvonal-szerkesztővel rendelkezik, amely megszünteti a találgatást a shape-outside és a clip-path alakzatok finomhangolása közben, lehetővé téve a beállítások egy vizuális szerkesztővel történő finomhangolását.
-firefox-developer-firefox-devtools-has-a-brand-new = A { -brand-name-firefox-devtools }ben szerepel egy vadonatúj alakzatszerkesztő, amely megszünteti a tippelgetést, ha finomhangolja az árnyékokat vagy a vágási útvonalakat, mivel könnyen finomhangolhatja a módosításokat a vizuális szerkesztővel.
 firefox-developer-faster-innovation = Gyorsabb információk
 firefox-developer-fonts-panel = Betűkészletek panel
 firefox-developer-the-new-fonts-panel = A { -brand-name-firefox-devtools }ben található új betűkészletek panel gyors hozzáférést ad a fejlesztőknek, hogy azonnal megkapják a szükséges információkat az elemben használt betűkészletekről. Hasznos információkat is tartalmaz, mint a betűkészlet forrása, súlya, stílusa és így tovább.
 firefox-developer-firefox-developer-edition-sends = A { -brand-name-firefox-developer-edition } automatikus visszajelzést küld a { -brand-name-mozilla(ending: "accented") }nak.
 firefox-developer-download-the-firefox-browser = Töltse le a fejlesztőknek készült { -brand-name-firefox } böngészőt
-firefox-developer-firefox-has-been-rebuilt = A { -brand-name-firefox(case: "accusative") } az alapoktól építettük újra, hogy gyorsabb, kecsesebb és hatékonyabb legyen, mint valaha.
 firefox-developer-welcome-to-firefox-developer-edition = Üdvözli a { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = A fejlesztők számára készített böngésző
 firefox-developer-all-the-latest-v2 = A legújabb béta verziójú fejlesztői eszközök, olyan funkciók mellett, mint a többsoros konzolszerkesztő és a WebSocket vizsgáló.
@@ -84,9 +79,21 @@ firefox-developer-view-the-release = Tekintse meg a <a { $attrs }>kiadási megje
 firefox-developer-developer-tools-user = Fejlesztői eszközök felhasználói dokumentációi
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Erőforrások fejlesztőknek, fejlesztőktől
+firefox-developer-mdn-playground = Játszótér
+firefox-developer-mdn-write-test-and-share = Írja meg, tesztelje és ossza meg a kódját. A játszótere, ahol tanulhat, és megoszthatja csodálatos munkáját a világgal.
+firefox-developer-mdn-blog = { -brand-name-mdn } Blog
+firefox-developer-mdn-unlock-the-world = Tekintsen be a webfejlesztés világába a { -brand-name-mdn } Bloggal – a szakértői meglátások, a legújabb webes szabványok és a kódolási tippek legjobb központja.
+firefox-developer-mdn-updates = Friss hírek
+firefox-developer-mdn-the-web-doesnt-have = A webnek nincs változásnaplója, de az { -brand-name-mdn } segíthet. Testre szabhatja és szűrheti az Önt érdeklő kompatibilitási változásokat a böngészője vagy a technológiai kategória alapján, legyen az JavaScript, CSS stb.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } hivatkozások
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = A { -brand-name-mdn } egy nyílt forráskódú, együttműködésen alapuló projekt, amely webes platformtechnológiákat dokumentál, beleértve a CSS-t, HTML-t, JavaScriptet és a webes API-kat.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn } tanterv
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = Strukturált útmutató a sikeres frontendfejlesztők létfontosságú készségeihez és gyakorlataihoz, az ajánlott tanulási erőforrásokkal együtt.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = Támogassa az { -brand-name-mdn(case: "accusative") }, és tegye a sajátjává a gyűjteményekkel, értesítésekkel és játszóterekkel.

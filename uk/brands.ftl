@@ -9,25 +9,21 @@
 
 ## Company names
 
--brand-name-amazon = Amazon
 -brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook = Facebook
 -brand-name-github = GitHub
 -brand-name-google = Google
--brand-name-hulu = Hulu
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
--brand-name-mullvad = Mullvad
 -brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
 -brand-name-wireguard = WireGuard
 -brand-name-linkedin = LinkedIn
 -brand-name-tiktok = TikTok
 -brand-name-spotify = Spotify
--brand-name-mastodon = Mastodon
 
 ## Firefox browsers
 
@@ -35,68 +31,68 @@
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Браузер Firefox
-                [lower] браузер Firefox
-            }
         [gen]
             { $capitalization ->
-               *[upper] Браузера Firefox
                 [lower] браузера Firefox
+               *[upper] Браузера Firefox
             }
         [dat]
             { $capitalization ->
-               *[upper] Браузеру Firefox
                 [lower] браузеру Firefox
+               *[upper] Браузеру Firefox
             }
         [acc]
             { $capitalization ->
-               *[upper] Браузер Firefox
                 [lower] браузер Firefox
+               *[upper] Браузер Firefox
             }
         [abl]
             { $capitalization ->
-               *[upper] Браузером Firefox
                 [lower] браузером Firefox
+               *[upper] Браузером Firefox
             }
         [loc]
             { $capitalization ->
-               *[upper] Браузері Firefox
                 [lower] браузері Firefox
+               *[upper] Браузері Firefox
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] браузер Firefox
+               *[upper] Браузер Firefox
             }
     }
 -brand-name-firefox-browsers =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Браузери Firefox
-                [lower] браузери Firefox
-            }
         [gen]
             { $capitalization ->
-               *[upper] Браузерів Firefox
                 [lower] браузерів Firefox
+               *[upper] Браузерів Firefox
             }
         [dat]
             { $capitalization ->
-               *[upper] Браузерам Firefox
                 [lower] браузерам Firefox
+               *[upper] Браузерам Firefox
             }
         [acc]
             { $capitalization ->
-               *[upper] Браузери Firefox
                 [lower] браузери Firefox
+               *[upper] Браузери Firefox
             }
         [abl]
             { $capitalization ->
-               *[upper] Браузерами Firefox
                 [lower] браузерами Firefox
+               *[upper] Браузерами Firefox
             }
         [loc]
             { $capitalization ->
-               *[upper] Браузерах Firefox
                 [lower] браузерах Firefox
+               *[upper] Браузерах Firefox
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] браузери Firefox
+               *[upper] Браузери Firefox
             }
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
@@ -119,148 +115,91 @@
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = Aurora
--brand-name-firefox-daylight = Firefox Daylight
--brand-name-daylight = Daylight
 -brand-name-firefox-quantum = Firefox Quantum
--brand-name-firefox-lite = Firefox Lite
--brand-name-lite = Lite
--brand-name-firefox-reality = Firefox Reality
--brand-name-reality = Reality
 
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-relay = Firefox Relay
--brand-name-firefox-relay-premium = Firefox Relay Premium
--brand-name-firefox-sync =
-    { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Синхронізація Firefox
-                [lower] синхронізація Firefox
-            }
-        [gen]
-            { $capitalization ->
-               *[upper] Синхронізації Firefox
-                [lower] синхронізації Firefox
-            }
-        [dat]
-            { $capitalization ->
-               *[upper] Синхронізації Firefox
-                [lower] синхронізації Firefox
-            }
-        [acc]
-            { $capitalization ->
-               *[upper] Синхронізацію Firefox
-                [lower] синхронізацію Firefox
-            }
-        [abl]
-            { $capitalization ->
-               *[upper] Синхронізацією Firefox
-                [lower] синхронізацією Firefox
-            }
-        [loc]
-            { $capitalization ->
-               *[upper] Синхронізації Firefox
-                [lower] синхронізації Firefox
-            }
-    }
 -brand-name-firefox-translations = Firefox Translations
 
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
 -brand-name-relay = Relay
--brand-name-relay-premium = Relay Premium
--brand-name-sync =
-    { $case ->
-       *[nominative] Синхронізація
-        [genitive] Синхронізації
-        [dative] Синхронізації
-        [accusative] Синхронізацію
-        [instrumental] Синхронізацією
-        [prepositional] Синхронізації
-        [vocative] Синхронізаціє
-        [verb] Синхронізуйте
-    }
 
 ## Firefox products (legacy)
 
 -brand-name-firefox-account =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Обліковий запис Firefox
-                [lower] обліковий запис Firefox
-            }
         [gen]
             { $capitalization ->
-               *[upper] Облікового запису Firefox
                 [lower] облікового запису Firefox
+               *[upper] Облікового запису Firefox
             }
         [dat]
             { $capitalization ->
-               *[upper] Обліковому запису Firefox
                 [lower] обліковому запису Firefox
+               *[upper] Обліковому запису Firefox
             }
         [acc]
             { $capitalization ->
-               *[upper] Обліковий запис Firefox
                 [lower] обліковий запис Firefox
+               *[upper] Обліковий запис Firefox
             }
         [abl]
             { $capitalization ->
-               *[upper] Обліковим записом Firefox
                 [lower] обліковим записом Firefox
+               *[upper] Обліковим записом Firefox
             }
         [loc]
             { $capitalization ->
-               *[upper] Обліковому записі Firefox
                 [lower] обліковому записі Firefox
+               *[upper] Обліковому записі Firefox
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] обліковий запис Firefox
+               *[upper] Обліковий запис Firefox
             }
     }
 -brand-name-firefox-accounts =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Облікові записи Firefox
-                [lower] облікові записи Firefox
-            }
         [gen]
             { $capitalization ->
-               *[upper] Облікових записів Firefox
                 [lower] облікових записів Firefox
+               *[upper] Облікових записів Firefox
             }
         [dat]
             { $capitalization ->
-               *[upper] Обліковим записам Firefox
                 [lower] обліковим записам Firefox
+               *[upper] Обліковим записам Firefox
             }
         [acc]
             { $capitalization ->
-               *[upper] Облікові записи Firefox
                 [lower] облікові записи Firefox
+               *[upper] Облікові записи Firefox
             }
         [abl]
             { $capitalization ->
-               *[upper] Обліковими записами Firefox
                 [lower] обліковими записами Firefox
+               *[upper] Обліковими записами Firefox
             }
         [loc]
             { $capitalization ->
-               *[upper] Облікових записах Firefox
                 [lower] облікових записах Firefox
+               *[upper] Облікових записах Firefox
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] облікові записи Firefox
+               *[upper] Облікові записи Firefox
             }
     }
--brand-name-firefox-better-web = Firefox Better Web
--brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
--brand-name-firefox-send = Firefox Send
--brand-name-send = Send
 -brand-name-firefox-private-network = Firefox Private Network
--brand-name-fpn = FPN
 
 ## Firefox projects
 
@@ -284,11 +223,10 @@
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
 -brand-name-irl-podcast = Подкаст IRL
--brand-name-llamafile = Llamafile
+-brand-name-solo-ai = Solo AI
 -brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
--brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-festival = Фестиваль Mozilla
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
@@ -358,9 +296,8 @@
                *[lower] облікові записи Mozilla
             }
     }
--brand-name-mozilla-social = Mozilla.social
-# Obsolete string (expires: 2025-01-05)
--brand-name-mozilla-ai = Mozilla AI
+-brand-name-mozilla-builders = Mozilla Builders
+-brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-rise25 = Rise25
@@ -371,22 +308,14 @@
 -brand-name-common-voice = Common Voice
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
--brand-name-vpn = VPN
 
 ## Mozilla projects (legacy)
 
--brand-name-mozilla-developer-network = Mozilla Developer Network
--brand-name-mozilla-labs = Mozilla Labs
--brand-name-hubs = Hubs
--brand-name-lockwise = Lockwise
--brand-name-lightbeam = Lightbeam
--brand-name-maker-party = Maker Party
 -brand-name-webmaker = Webmaker
 
 ## Open Source projects
 
 -brand-name-rust = Rust
--brand-name-webassembly = WebAssembly
 
 ## Other browsers
 
@@ -396,7 +325,6 @@
 -brand-name-ie = Internet Explorer
 -brand-name-opera = Opera
 -brand-name-safari = Safari
--brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
@@ -406,10 +334,7 @@
 -brand-name-linux = Linux
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
--brand-name-ubuntu = Ubuntu
--brand-name-vista = Vista
 -brand-name-windows = Windows
--brand-name-xp = XP
 
 ## Apple products
 
@@ -418,15 +343,10 @@
 -brand-name-iphone = iPhone
 -brand-name-test-flight = TestFlight
 
-## Amazon products
-
--brand-name-fire-tv = Fire TV
-
 ## Facebook products
 
 -brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
--brand-name-messenger = Messenger
 -brand-name-workplace = Workplace
 
 ## Google products

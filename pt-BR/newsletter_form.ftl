@@ -18,13 +18,12 @@ newsletter-form-join-the-community = Participe na comunidade
 newsletter-form-sign-up-to-receive = Inscreva-se para receber mensalmente novidades do { -brand-name-firefox } e tendências da internet que moldam sua vida online.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
-newsletter-form-im-okay-with-mozilla = Eu aceito que a { -brand-name-mozilla } manuseie minhas informações como explicado <a href="{ $url }">neste Aviso de privacidade</a>
+newsletter-form-im-okay-with-mozilla = Eu aceito que a { -brand-name-mozilla } trate minhas informações conforme explicado neste <a href="{ $url }">Aviso de privacidade</a>
 newsletter-form-we-will-only-send-v2 = Enviaremos somente informações relacionadas à { -brand-name-mozilla }. Você pode cancelar a inscrição quando quiser.
 newsletter-form-we-will-only-send-firefox-v2 = Enviaremos somente informações relacionadas ao { -brand-name-firefox }. Você pode cancelar a inscrição quando quiser.
-newsletter-form-if-you-havent-previously = Talvez seja necessário confirmar sua inscrição em um boletim de notícias relacionado a { -brand-name-mozilla } caso não tenha feito isso anteriormente. Por favor, confira na sua caixa de entrada ou filtros de spam por uma mensagem nossa.
+newsletter-form-if-you-havent-previously = Se você ainda não confirmou a inscrição em um boletim informativo relacionado à { -brand-name-mozilla }, pode precisar fazê-lo. Verifique se recebeu um email nosso em sua caixa de entrada ou filtro de spam.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Você
 newsletter-form-get-firefox-tips = Receba dicas, truques, novidades e muito mais do { -brand-name-firefox }
-newsletter-form-keep-up-with = Mantenha-se informado<br> sobre tudo do { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Receba notícias da { -brand-name-mozilla }
 newsletter-form-available-languages = Idiomas disponíveis
 newsletter-form-select-country = Selecione o país

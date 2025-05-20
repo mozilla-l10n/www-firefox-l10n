@@ -5,10 +5,15 @@
 footer-refresh-discover-mozilla-products = Scopri i prodotti e le iniziative di { -brand-name-mozilla }. Ci impegniamo a mantenere la tua email privata e sicura: nessuna condivisione, nessuna vendita, solo aggiornamenti interessanti.
 footer-refresh-leadership = Gruppo dirigente
 footer-refresh-advertise = Fai pubblicità con { -brand-name-mozilla }
+footer-refresh-mozilla-advertising = { -brand-name-mozilla } Advertising
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = Ulteriori informazioni <span>su { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Note di versione di { -brand-name-firefox }
+footer-refresh-privacy-first = Soluzioni pubblicitarie all’insegna della privacy per marchi, editori e piattaforme.
+footer-refresh-mdn-v2 = { -brand-name-mdn }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Segui @{ -brand-name-mozilla }
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -23,8 +28,6 @@ footer-refresh-support = Supporto
 footer-refresh-product-help = Supporto per i prodotti
 footer-refresh-file-a-bug = Segnala un errore
 footer-refresh-localize-mozilla = Localizzazione in { -brand-name-mozilla }
-footer-refresh-resources = Risorse
-footer-refresh-brand-standards = Uso del marchio
 footer-refresh-developers = Sviluppatori
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

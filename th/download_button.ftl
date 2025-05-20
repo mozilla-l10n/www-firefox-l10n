@@ -3,31 +3,12 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = ดาวน์โหลดทันที
-download-button-free-download = ดาวน์โหลดฟรี
 download-button-firefox-beta = { -brand-name-firefox-beta }
 download-button-firefox-aurora = { -brand-name-firefox-aurora }
 download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span> { -brand-name-developer-edition }
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
-download-button-supported-devices = อุปกรณ์ที่รองรับ
-download-button-whats-new = มีอะไรใหม่
 download-button-systems-languages = ระบบและภาษา
-download-button-recommended = แนะนำ
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } ไม่ปล่อยแพตซ์อัปเดตความปลอดภัยให้ { -brand-name-firefox } บน { -brand-name-windows } { -brand-name-xp } หรือ { -brand-name-vista } แล้ว</a> แต่คุณยังสามารถดาวน์โหลดเวอร์ชั่นสุดท้ายสำหรับ { -brand-name-windows } แบบ 32 บิตได้ข้างล่าง
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = โปรดทำตาม<a href="{ $url }">คำแนะนำนี้</a>เพื่อติดตั้ง { -brand-name-firefox }
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
-download-button-your-system-does-not = ระบบของคุณไม่ตรงกับ<a href="{ $url }">ความต้องการ</a>ที่ให้ { -brand-name-firefox } ใช้งานได้
-download-button-firefox-other-platforms = { -brand-name-firefox } สำหรับแพลตฟอร์มและภาษาอื่น
-download-button-update-your-firefox = อัปเดต { -brand-name-firefox } ของคุณ
-download-button-get-firefox-android = ติดตั้ง { -brand-name-firefox } สำหรับ { -brand-name-android }
-download-button-get-firefox-ios = รับ { -brand-name-firefox } สำหรับ { -brand-name-ios }
 download-button-google-play = รับบน { -brand-name-google-play }
-download-button-free-google-play = รับได้ฟรีบน { -brand-name-google-play }
-download-button-app-store = รับได้ฟรีบน { -brand-name-app-store }
 download-button-download-app-store = ดาวน์โหลดจาก { -brand-name-app-store }
 download-button-download-firefox = ดาวน์โหลด { -brand-name-firefox }
 download-button-your-system-may = เครื่องของคุณไม่รองรับกับข้อกำหนดสำหรับ { -brand-name-firefox } แต่คุณยังสามารถลองกับรุ่นเหล่านี้ได้:
@@ -60,3 +41,7 @@ download-button-linux-64-v2 = ดาวน์โหลดสำหรับ Linu
 download-button-using-debian = ใช้ Debian, Ubuntu หรือชุดเผยแพร่อื่นๆ ที่มีพื้นฐานจาก Debian อยู่ใช่ไหม?<br> คุณสามารถตั้งค่า<a { $attrs }>คลังแพคเกจ APT ของเราแทน</a>ได้
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = รับจาก Microsoft
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = แบ่งปันว่าคุณค้นพบ { -brand-name-firefox } ได้อย่างไร และคุณใช้งานข้อมูลนี้กับพันธมิตรด้านเทคโนโลยีการตลาดของ { -brand-name-mozilla } ข้อมูลนี้จะไม่ถูกขายหรือใช้เพื่อแสดงโฆษณาให้คุณเห็น <a { $attrs }>เรียนรู้วิธีที่เราใช้ข้อมูล</a>

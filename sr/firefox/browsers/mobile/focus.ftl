@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/mobile/focus/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: прегледач за приватност
@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = Једноставно, приватно м
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } је ваш прегледач намењен приватности са аутоматском заштитом од праћења. Уз { -brand-name-focus }, странице се учитавају брже, а подаци остају приватни.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } је доступан и за { -brand-name-ios } и { -brand-name-android } уређаје.
 mobile-focus-get-firefox-focus = Преузмите { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = Пошаљите везу за преузимање на телефон.
 mobile-focus-scan-the-qr-code-to-get-started = Скенирајте QR код да почнете
 mobile-focus-scan-alt-text = Скенирајте QR код да преузмете { -brand-name-firefox-focus }
 mobile-focus-delete-your-history = Обришите вашу историју

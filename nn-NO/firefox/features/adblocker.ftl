@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Slik blokkerer du irriterande annonsar med hjelp av ein annonseblokkerar
 features-adblocker-how-to-stop-seeing-too = Korleis du kan slutte å sjå for mange annonsar og hindre at selskap følgjer deg rundt om på nettet. Ein annonseblokkererguide frå nettlesaren { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Annonseblokkeraren – eit hemmeleg våpen mot irriterande annonsar.
 features-adblocker-so-many-ads-so-little = Så mange annonsar, så lite tolmod… Det er på tide å stoppe galskapen.
@@ -17,6 +16,10 @@ features-adblocker-an-ad-blocker-is-a-piece = Ein annonsblokkerar er ei programv
 features-adblocker-these-ads-might-be-loud = Desse annonsane kan vere høglydte videoannonsar, annonsar som følgjer deg på nettet, sporarar, infokapslar frå tredjepart og meir. Om du vil bruke ein annonseblokkerar kan du søkje etter tillegg for annonseblokkerarar som er tilgjengelege i nettlesaren din. <a href="{ $firefox }">{ -brand-name-firefox }</a> har til dømes <a href="{ $addons }">denne lista over godkjende tillegg for annonseblokkering</a>. Klikk på denne lista (eller annonseblokkerarar som er godkjende for nettlesaren din), og sjå kva for nokre som passar dine behov.
 features-adblocker-find-the-right-ad-blocker = Finn den rette annonseblokkeraren for deg
 features-adblocker-there-are-scores-of-content = Det er mange innholdsblokkerarar der ute, men her er nokre fantastiske alternativ valde ut og presenterte av { -brand-name-mozilla }…
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Desse utvidingane fungerer framifrå på både <a { $attrs1 }>{ -brand-name-firefox } for skrivebord</a> og <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Lag ei sporingsfri sone med innhaldsblokkering
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

@@ -14,6 +14,8 @@ ui-watch-the-video = Пабачыць відэя
 ui-replay = Перайграць
 ui-share = Падзяліцца
 ui-menu = Меню
+# Short for Table of Contents
+ui-contents = Змесціва
 ui-please-turn-on-javascript = Уключыце JavaScript для правільнага адлюстравання гэтай старонкі.
 ui-show-more = Паказаць больш
 ui-show-less = Паказаць менш
@@ -21,3 +23,7 @@ ui-show-all = Паказаць усё
 ui-hide-all = Не паказваць нічога
 ui-learn-more = Падрабязней
 ui-view = Прагляд
+ui-pause-animation = Прыпыніць анімацыю
+ui-play-animation = Прайграць анімацыю
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = Прасоўванне

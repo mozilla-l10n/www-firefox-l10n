@@ -62,16 +62,11 @@ firefox-developer-master-innovative-features = اختراعی خصوصیات
 firefox-developer-want-to-be-on-the-cutting-edge = نویں نکور تے رہݨ چاہندے او؟
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } روزانہ اپ ڈیٹاں حاصل کریندا ہے تے تہاکوں خصوصیات تائیں رسائی دی اجازت ݙیندا ہے جو او مرکزی دھارے وِچ ونڄݨ کنوں مہینے پہلے۔
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } کلھا براؤزر ہے جیندے وِچ خاص طور تے CSS گرڈ دے نال تعمیر تے ڈیزائننگ کیتے بݨائے ڳئے ٹولز ہن۔ ایہ ٹولز تہاکوں گرڈ کوں ݙیکھݨ، متعلقہ علاقے دے نانواں کوں ظاہر کرݨ، گرڈ تے تبدیلیاں دا پیش نظارہ کرݨ تے ٻہوں کجھ کرݨ دی اجازت ݙیندے ہن۔
-firefox-developer-convenient-features = سوکھیاں خصوصیات
-firefox-developer-shapes-editor = شکلاں دا مُدیر
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } وِچ ہک بالکل نویں شکل دا پاتھ ایڈیٹر ہے جیڑھا تہاݙی شکل دے ٻاہر تے کلپ پاتھ دیاں شکلاں کوں ٹھیک کرݨ کنوں اندازہ لیندا ہے تے تہاکوں بصری ایڈیٹر دے نال اپݨی ایڈجسٹمنٹ کوں ٻہوں آسانی نال ٹھیک کرݨ دی اجازت ݙیندا ہے۔
-firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } دے کول ہک بالکل نویں شکل دا پاتھ ایڈیٹر ہے جیڑھا تہاݙے پچھانویں دے ٻاہر تے کلپ پاتھ دیاں شکلاں کوں ٹھیک کرݨ کنوں اندازہ لیندا ہے تے تہاکوں بصری ایڈیٹر دے نال اپݨی ایڈجسٹمنٹ کوں ٻہوں آسانی نال ٹھیک کرݨ دی اجازت ݙیندا ہے۔
 firefox-developer-faster-innovation = تکھیری ڄاݨ کاری
 firefox-developer-fonts-panel = فونٹس پینل
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools } وِچ فوٹنس دا نواں پینل ڈویلپرز کوں انہاں تمام معلومات تائیں فوری رسائی فراہم کریندا ہے جنہاں دی انہاں کوں کہیں عنصر وِچ استعمال تھیوݨ والے فونٹس دے بارے ضرورت ہوندی ہے۔ ایندے وِچ قیمتی معلومات وی شامل ہن جیویں فونٹ دا ماخذ، وزن، انداز وغیرہ۔
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } آپݨے آپ فیڈ بیک { -brand-name-mozilla } کوں بھیڄیندا ہے۔
 firefox-developer-download-the-firefox-browser = ڈویلپرز کیتے بݨایا ڳیا { -brand-name-firefox } براؤزر ڈاؤن لوڈ کرو۔
-firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } کوں پہلے کنوں زیادہ تکھا، لیسواں تے زیادہ تکڑا بݨاوݨ کیتے زمین کنوں دوبارہ بݨایا ڳیا ہے۔
 firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-developer-edition } وچ ست بسم اللہ
 firefox-developer-made-for-developers = ڈویلپرز کیتے بݨایا ڳیا براؤزر
 firefox-developer-all-the-latest-v2 = ملٹی لائن کنسول ایڈیٹر اَتے ویب ساکٹ انسپکٹر جیہیں خاصیتاں کنوں اَن٘ج بِیٹا وِچ سبّھے جدید ڈویپلر ٹولز۔
@@ -84,9 +79,15 @@ firefox-developer-view-the-release = نواں کیا ہِے ݙیکھݨ کِیت�
 firefox-developer-developer-tools-user = ڈویپلر ٹولز یوزر ڈاکس
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = ڈویلپرز کیتے وسائل، ڈویلپرز دے ذریعے
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } حوالے
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } ہِک اوپن سورس، آپتی تعاون اُتے مبنی پراجیکٹ ہِے جہڑا ویب پلیٹ فارم ٹیکنالوجیز کوں دستاویز کرین٘دا ہِے، CSS, HTML, JavaScript اَتے web APIs سمیت۔
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn } نصآب
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = ہِک کامیاب فرنٹ اینڈ ڈویلپر بݨن کِیتے ضروری مہارتاں اَتے طریقیاں کِیتے ہِک منظم اڳواݨی، تجویز کِیتے ڳئے سِکّھݨ دے وسیلیاں دے نال۔
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = { -brand-name-mdn } دی حمایت کرو اَتے اِیکوں مجموعاں، اطلاعواں اَتے کھیݙ دے پِڑاں دے نال آپݨاں بݨاؤ۔

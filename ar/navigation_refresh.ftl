@@ -17,25 +17,14 @@ navigation-refresh-mozilla-manifesto-v2 = بيان { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = اشترك
 navigation-refresh-get-involved-v2 = شارِك
-navigation-refresh-innovation-projects = المشاريع المبتكرة
-navigation-refresh-innovation-projects-v2 = مشاريع الابتكار
 navigation-refresh-blog = المدوّنة
 navigation-refresh-our-mission = مهمّتنا
 navigation-refresh-our-work = عملُنا
 navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
-
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } الذكاء الاصطناعي
-
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
-
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } المشاريع
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } للإعلانات
+navigation-refresh-mozilla-new-products = منتجات { -brand-name-mozilla } الجديدة
 
 ## Firefox
 

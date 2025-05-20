@@ -3,6 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-refresh-mozilla = { -brand-name-mozilla }
+# An accessible label used to describe that the role of the element is the primary website navigation.
+navigation-refresh-landmark-label = Асосӣ
 
 ## About us
 
@@ -14,20 +16,14 @@ navigation-refresh-mozilla-manifesto-v2 = Санади асосии «{ -brand-n
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Ҳамроҳ шавед
 navigation-refresh-get-involved-v2 = Ҳамроҳ шудан
-navigation-refresh-innovation-projects = Лоиҳаҳои инноватсионӣ
-navigation-refresh-innovation-projects-v2 = Лоиҳаҳои инноватсионӣ
 navigation-refresh-blog = Блог
 navigation-refresh-our-mission = Рисолати мо
 navigation-refresh-our-work = Фаъолияти мо
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = Зеҳни сунъии «{ -brand-name-mozilla } AI»
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
+navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = Корхонаҳои «{ -brand-name-mozilla }»
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = Рекламаи «{ -brand-name-mozilla }»
+navigation-refresh-mozilla-new-products = Маҳсулоти навини «{ -brand-name-mozilla }»
 
 ## Firefox
 

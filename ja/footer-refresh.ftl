@@ -5,10 +5,15 @@
 footer-refresh-discover-mozilla-products = { -brand-name-mozilla } の製品と取り組みをご覧ください。Mozilla は、ユーザーのメールアドレスのプライバシーとセキュリティをお守りすることを約束します。共有や売却することはなく、ただ快適なアップデートのみをお届けします。
 footer-refresh-leadership = リーダーシップ
 footer-refresh-advertise = { -brand-name-mozilla } で広告掲載
+footer-refresh-mozilla-advertising = { -brand-name-mozilla } 広告
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = <span>{ footer-refresh-mozilla-advertising } について</span>詳しく知る
 footer-refresh-firefox-release-notes = { -brand-name-firefox } リリースノート
+footer-refresh-privacy-first = ブランド、パブリッシャー、プラットフォーム向けのプライバシー第一の広告ソリューション。
+footer-refresh-mdn-v2 = { -brand-name-mdn }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } をフォロー
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -23,8 +28,6 @@ footer-refresh-support = サポート
 footer-refresh-product-help = 製品ヘルプ
 footer-refresh-file-a-bug = バグを報告
 footer-refresh-localize-mozilla = { -brand-name-mozilla } をローカライズ
-footer-refresh-resources = リソース
-footer-refresh-brand-standards = ブランド基準
 footer-refresh-developers = デベロッパー
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

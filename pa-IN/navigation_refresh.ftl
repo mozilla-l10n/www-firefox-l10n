@@ -16,19 +16,11 @@ navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla } ਮੈਨੀ�
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = ਹਿੱਸਾ ਲਵੋ
 navigation-refresh-get-involved-v2 = ਸਾਥ ਦਿਓ
-navigation-refresh-innovation-projects = ਨਵੇਂ ਖੋਜੀ ਪ੍ਰੋਜੈਕਟ
-navigation-refresh-innovation-projects-v2 = ਨਵੇਂ ਖੋਜੀ ਪ੍ਰੋਜੈਕਟ
 navigation-refresh-blog = ਬਲੌਗ
 navigation-refresh-our-mission = ਸਾਡਾ ਮਕਸਦ
 navigation-refresh-our-work = ਸਾਡਾ ਕੰਮ
 navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } ਮੁਹਿੰਮਾਂ
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } ਇਸ਼ਤਿਹਾਰਬਾਜ਼ੀ
 

@@ -62,16 +62,11 @@ firefox-developer-master-innovative-features = مزايا مبتكرة
 firefox-developer-want-to-be-on-the-cutting-edge = أتود أن تكون مواكبًا للتطور والتحديث؟
 firefox-developer-firefox-nightly-receives = يتلقى { -brand-name-firefox-nightly } تحديثات يومية ويسمح لك بالوصول إلى الميزات قبل أشهر من تعميمها.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } هو المتصفح الوحيد الذي يحتوي على أدوات مُصممة خصيصًا للبناء والتصميم مع CSS Grid. تُتيح لك هذه الأدوات تصوّر الشبكة وعرض أسماء المناطق المرتبطة ومعاينة التحويلات على الشبكة وغير ذلك الكثير.
-firefox-developer-convenient-features = مزايا مريحة
-firefox-developer-shapes-editor = Shapes Editor
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = يحتوي { -brand-name-firefox-devtools } على مُحرر مسار شكل جديد تمامًا يُزيل التخمين من ضبط الشكل الخارجي وأشكال مسار القصاصة من خلال السماح لك بضبط تعديلاتك بسهولة باستخدام مُحرر مرئي.
-firefox-developer-firefox-devtools-has-a-brand-new = يحتوي { -brand-name-firefox-devtools } على مُحرر مسار شكل جديد تمامًا يزيل التخمين من ضبط أشكال الظل الخارجي ومسار القصاصة من خلال السماح لك بضبط تعديلاتك بسهولة باستخدام مُحرر مرئي.
 firefox-developer-faster-innovation = معلومات أسرع
 firefox-developer-fonts-panel = لوحة الخطوط
 firefox-developer-the-new-fonts-panel = توفر لوحة الخطوط في متصفّح { -brand-name-firefox-devtools } المُطورين وصولاً سريعًا إلى جميع المعلومات التي يحتاجونها حول الخطوط المستخدمة في عنصر ما. ويتضمن أيضًا معلومات قيمة، مثل مصدر الخط ووزنه ونمطه والمزيد.
 firefox-developer-firefox-developer-edition-sends = يُرسِل { -brand-name-firefox-developer-edition } تلقائيًا تعليقات إلى { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = تنزيل { -brand-name-firefox } المُصمم خصيصًا للمطوّرين
-firefox-developer-firefox-has-been-rebuilt = تمت إعادة بناء { -brand-name-firefox } من الألِف إلى الياء ليكون أسرع وأكثر أناقة وقوة من أي وقت مضى.
 firefox-developer-welcome-to-firefox-developer-edition = مرحبًا بك في { -brand-name-firefox-developer-edition }
 
 firefox-developer-made-for-developers = صُمم المتصفّح للمطوّرين
@@ -86,9 +81,21 @@ firefox-developer-view-the-release = يُرجى الاطلاع على <a { $attr
 firefox-developer-developer-tools-user = مستندات مستخدم أدوات المطوّرين
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = موارد للمُطورين ومن المُطورين.
+firefox-developer-mdn-playground = مساحة تجريبية
+firefox-developer-mdn-write-test-and-share = اكتب واختبر وشارك الكود الخاص بك. ملعبك للتعلّم ومشاركة أعمالك المُذهلة مع العالم.
+firefox-developer-mdn-blog = مدونة { -brand-name-mdn }
+firefox-developer-mdn-unlock-the-world = افتح عالم تطوير الويب مع مدونة { -brand-name-mdn } — مركزك الجاهز لِرؤى الخبراء وأحدث معايير الويب ونصائح البرمجة.
+firefox-developer-mdn-updates = التحديثات
+firefox-developer-mdn-the-web-doesnt-have = لا يحتوي الويب على سِجل تغيير، ولكن يستطيع { -brand-name-mdn } المساعدة. يُمكنك تخصيص وتصنيف تغييرات التوافق بناءً على المُتصفحات أو فئة التكنولوجيا التي تهُمك، سواءً كانت JavaScript أو CSS أو غير ذلك.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = مراجع { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = يُعتبر { -brand-name-mdn } مشروعًا تعاونيًا مفتوح المصدر يُوثّق تقنيات منصات الويب مثل CSS وHTML وJavaScript وWeb APIs.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = منهج { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = دليل مُنظّم للمهارات والممارسات الأساسية لتكون مطوّر واجهة ناجح، بالإضافة إلى موارد التعلّم المُوصى بها.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = ادعم { -brand-name-mdn } وخصّصه كما يحلو لك بالمجموعات والإشعارات والملاعب.

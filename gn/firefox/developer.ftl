@@ -62,16 +62,11 @@ firefox-developer-master-innovative-features = Hupytyha hekoambuéva
 firefox-developer-want-to-be-on-the-cutting-edge = ¿Eimesépa tenondete?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } hekopyahu ára ha ára ha péva rupi ikatu oike tembiapoitépe heta jasy og̃uahẽmbotápe ha oike mboyve pe tembiapokue tuichakueguávape.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } hína kundaha heñóiva omba’apo hag̃ua CSS renda ndive. Ko’ã tembiporu ohechauka ndéve ã tenda, ohechauka avei kora hesegua réra, ehecha ñepyrũháme umi ñemoambuepy pe tenda pegua ha hetave mba’e.
-firefox-developer-convenient-features = Tembiapoite oikóva
-firefox-developer-shapes-editor = Ysaja mbosako’iha
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } oguereko mbosako’iha pyahu ysaja rape omboguetéva je’erei omoĩporãvo ijysaja ha clip, omoneĩvo ñemoĩporã hasy’ỹva ijapo peteĩ mbosako’iha jehecháva ndive.
-firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } ysaja mbosako’iha rupive, natekotevẽvéima emoĩporã mba’emimi mba’éichapa emokuarahy’ãta okáguio térã eiporúta clip-path ysaja, emoneĩvo umi ñemoĩporã hasy’ỹ hag̃uáicha mbosako’iha jehecháva ndive.
 firefox-developer-faster-innovation = Marandu ipya’éva
 firefox-developer-fonts-panel = Teñoiha rupa
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools } tai’aty rupa pyahu ome’ẽ mboguatahárape jeike pya’e opaite marandúpe oikotevẽva tai’aty ojeporúva mba’eporúpe. Avei ome’ẽ marandu oikoitéva tai’aty reñoihápe, pohyikue, mba’eichagua ha hetave.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } omondo ijehegui { -brand-name-mozilla } remikotevẽ.
 firefox-developer-download-the-firefox-browser = Emboguejy { -brand-name-firefox } rembiapo omoheñóiva umi mboguatahára
-firefox-developer-firefox-has-been-rebuilt = Ojejapojey { -brand-name-firefox } iñepyrũha guive ipya’eve, hekoporã ha imbareteve hag̃ua opa ára.
 firefox-developer-welcome-to-firefox-developer-edition = Eg̃uahẽporã { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Kundahára ojejapóva mboguatahárape g̃uarã
 firefox-developer-all-the-latest-v2 = Tembiporukuéra mboguatahárape g̃uarã ipyahúva beta rehegua, avei tembiapoite mba’e’oka mbosako’iha ha WebSocket mbohekoha.
@@ -84,9 +79,19 @@ firefox-developer-view-the-release = Ehechajey <a { $attrs }>marandu’i peteĩv
 firefox-developer-developer-tools-user = Tembiporu mboguataha poruhárape g̃uarã kuatiaite
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Mba’eita mboguatahárape g̃uarã, mboguatahára rupi
+firefox-developer-mdn-playground = Tenda ñembosaraiha
+firefox-developer-mdn-write-test-and-share = Ehai, eiporu ha emoherakuã nde ayvu. Ne ñembosaraiha eikuaa ha emoherakuã ne rembiapo arapy ndive.
+firefox-developer-mdn-blog = { -brand-name-mdn } Blog
+firefox-developer-mdn-updates = Ñembohekopyahu
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } Jeikekuaaha
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } ha’e apopyrã juajugua ijayvu jurujáva ombokuatiáva tembiporupyahu ñanduti pyendavusu, oĩhápe CSS, HTML, JavaScript ha APIs.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn } Mbokatupyryrã
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = Peteĩ tape mba’ekuaa ha mba’eaporã eikuaa katueteva’erã reikoséramo mboguataháraramo front-end ikatupyrýva, opaite kuaapyrã kuave’ẽmby ndive.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = Oipytyvõ { -brand-name-mdn } ha emboavareko ñembyaty, ñemomarandu ha eiporukuaa hag̃uáme nde mba’eñemi.

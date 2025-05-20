@@ -62,16 +62,11 @@ firefox-developer-master-innovative-features = Inovativní funkce
 firefox-developer-want-to-be-on-the-cutting-edge = Chcete být na hraně inovací?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } dostává denně aktualizace a umožňuje vám používat funkce měsíce předtím, než se dostanou k ostatním.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } je jediný prohlížeč, který má nástroje speciálně vyvinuté pro tvorbu a návrh CSS Gridu. Tyto nástroje vám dovolují vizualizovat grid, zobrazovat přiřazená jména oblastí, kontrolovat transformace gridu a spoustu dalšího.
-firefox-developer-convenient-features = Užitečné funkce
-firefox-developer-shapes-editor = Editor tvarů
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = Nástroje pro vývojáře { -brand-name-firefox-devtools } mají nový vizuální editor tvarů, který vám usnadní ladit vaše vylepšení a úpravy.
-firefox-developer-firefox-devtools-has-a-brand-new = Nástroje pro vývojáře { -brand-name-firefox-devtools } mají nový vizuální editor tvarů, který vám usnadní ladit vaše vylepšení a úpravy.
 firefox-developer-faster-innovation = Rychlejší informace
 firefox-developer-fonts-panel = Panel písem
 firefox-developer-the-new-fonts-panel = Nový panel fontů v nástrojích pro vývojáře { -brand-name-firefox-devtools } umožňuje rychlí přístup k potřebným informacích o použitých fontech, jejich zdrojích, velikosti a dalším stylování.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } automaticky odesílá zpětnou vazbu { -brand-name-mozilla(case: "dat") }.
 firefox-developer-download-the-firefox-browser = Stáhněte si { -brand-name-firefox(case: "acc") } vytvořený pro vývojáře
-firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } byl upraven od základu, aby byl rychlejší, elegantnější a výkonnější než kdy předtím.
 firefox-developer-welcome-to-firefox-developer-edition = Vítá vás { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Prohlížeč určený pro vývojáře
 firefox-developer-all-the-latest-v2 = Kromě funkcí jako je Multi-line Console Editor a WebSocket Inspector také všechny nejnovější nástroje pro vývojáře obsažené v betaverzi.
@@ -84,9 +79,21 @@ firefox-developer-view-the-release = Pokud chcete vědět, co je nového, podív
 firefox-developer-developer-tools-user = Uživatelská dokumentace Nástrojů pro vývojáře
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Zdroje pro vývojáře, od vývojářů
+firefox-developer-mdn-playground = Hřiště
+firefox-developer-mdn-write-test-and-share = Pište, testujte a sdílejte svůj kód. Vaše hřiště, kde se můžete učit a sdílet svou úžasnou práci se světem.
+firefox-developer-mdn-blog = Blog { -brand-name-mdn }
+firefox-developer-mdn-unlock-the-world = Nahlédněte do světa vývoje webu s blogem { -brand-name-mdn } – vaším hlavním centrem pro postřehy odborníků, nejnovější webové standardy a tipy pro programování.
+firefox-developer-mdn-updates = Aktualizace
+firefox-developer-mdn-the-web-doesnt-have = Web nemá seznam změn, ale { -brand-name-mdn } vám může pomoci. Změny kompatibility si můžete přizpůsobit a filtrovat na základě prohlížečů nebo kategorií technologií, které vás zajímají, ať už jde o JavaScript, CSS atd.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Reference { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } je open source projekt dokumentující technologie webové platformy (CSS, HTML, JavaScript či webové rozhraní API).
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = Učební osnovy { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = Strukturovaný průvodce základními dovednostmi a postupy pro úspěšného front-endového vývojáře spolu s doporučenými studijními zdroji.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = Podpořte { -brand-name-mdn } a přizpůsobte si jej pomocí sbírek, upozornění a prostorů pro vyzkoušení.

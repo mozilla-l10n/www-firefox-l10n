@@ -17,25 +17,14 @@ navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla } घोषण�
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = शामिल हों
 navigation-refresh-get-involved-v2 = हमसे जुड़ें
-navigation-refresh-innovation-projects = इनोवेशन प्रोजेक्ट्स
-navigation-refresh-innovation-projects-v2 = इनोवेशन प्रोजेक्ट
 navigation-refresh-blog = ब्लॉग
 navigation-refresh-our-mission = हमारा मिशन
 navigation-refresh-our-work = हमारा कार्य
 navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
-
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
-
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
-
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } वेंचर
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } एडवर्टाइजिंग
+navigation-refresh-mozilla-new-products = { -brand-name-mozilla } के नए प्रोडक्ट
 
 ## Firefox
 
