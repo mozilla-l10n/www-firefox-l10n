@@ -2,11 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.springfield.moz.works/browsers/compare/
 
 compare-shared-compare-firefox = { -brand-name-firefox } の比較
 compare-shared-footer-cta-title = { -brand-name-firefox } で可能性が広がる
 compare-shared-footer-cta-desc = 非営利団体が支援し、すべてのデバイスで使える、高速で軽量、プライバシー重視のブラウザーをご利用ください。
+compare-shared-footer-cta-button = { -brand-name-firefox } をダウンロード
 compare-shared-we-also-offer-easy = Firefox は、次のような使いやすい機能も提供しています。
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } には次のようなツールも組み込まれています。
 

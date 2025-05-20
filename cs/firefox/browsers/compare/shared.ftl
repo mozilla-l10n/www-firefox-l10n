@@ -3,11 +3,12 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.springfield.moz.works/browsers/compare/
 
 compare-shared-compare-firefox = Porovnání { -brand-name-firefox(case: "gen") }
 compare-shared-footer-cta-title = Udělejte více s { -brand-name-firefox(case: "ins") }
 compare-shared-footer-cta-desc = Získejte rychlý, lehký prohlížeč zaměřený na ochranu soukromí, za kterým stojí nezisková organizace a který funguje na všech vašich zařízeních.
+compare-shared-footer-cta-button = Stáhnout { -brand-name-firefox }
 compare-shared-we-also-offer-easy = Nabízíme také snadno použitelné funkce jako:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } má také vestavěné nástroje jako:
 # Variables

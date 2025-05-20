@@ -3,11 +3,12 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.springfield.moz.works/browsers/compare/
 
 compare-shared-compare-firefox = Uporedite { -brand-name-firefox }
 compare-shared-footer-cta-title = Uradite više sa { -brand-name-firefox }om
 compare-shared-footer-cta-desc = Nabavite brz, lagan pretraživač fokusiran na privatnost koji podržava neprofitna organizacija i koji radi na svim vašim uređajima.
+compare-shared-footer-cta-button = Preuzmite { -brand-name-firefox }
 compare-shared-we-also-offer-easy = Nudimo i funkcije jednostavne za korištenje kao što su:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } također ima ugrađene alate kao što su:
 # Variables

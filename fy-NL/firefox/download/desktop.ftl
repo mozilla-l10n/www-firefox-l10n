@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/new/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -29,6 +29,23 @@ firefox-desktop-download-browser-support = Stipe foar { -brand-name-firefox-brow
 firefox-desktop-download-do-what-you-do-v2 = Doch wat jo online dogge. <br> { -brand-name-firefox-browser } hat jo <strong>dekt</strong>.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Doch wat jo online dogge. <br> { -brand-name-firefox-browser } Sjocht <strong>net</strong> mei.
+firefox-desktop-download-how-firefox-compares = Hoe { -brand-name-firefox } him ferhâldt ta oare browsers
+firefox-desktop-download-get-all-the-speed = Krij alle snelheid en helpmiddelen sûnder ynbreuk op jo privacy. { -brand-name-firefox-browser } sammelet sa min gegevens oer jo, dat wy jo e-mailadres net iens nedich hawwe om te downloaden. Dat komt omdat wy, yn tsjinstelling ta oare browsers, gjin finansjeel belang hawwe om jo op it web te folgjen.
+firefox-desktop-download-how-we-compare = Hoe’t wy ús ferhâlde ta oare browsers
+firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } fergelykje mei:
+firefox-desktop-download-compare-chrome = { -brand-name-chrome }
+firefox-desktop-download-compare-edge = { -brand-name-edge }
+firefox-desktop-download-compare-safari = { -brand-name-safari }
+firefox-desktop-download-yes = Ja
+firefox-desktop-download-no = Nee
+firefox-desktop-download-blocks-third-party = Blokkearret tracking-cookies fan tredden
+firefox-desktop-download-blocks-third-party-default = Blokkearret standert tracking-cookies fan tredden
+firefox-desktop-download-autoplay-blocking = Automatysk ôfspyljen blokkearje
+firefox-desktop-download-blocks-social-trackers = Blokkearret sosjale trackers
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = Beskikberheid op bestjoeringssystemen
+firefox-desktop-download-in-browser-screenshot = Helpmiddel foar skermôfdrukken yn de browser
+firefox-desktop-download-primary-password = Haadwachtwurd
 firefox-desktop-download-we-block-the-ad = Wy blokkearje de advertinsje-trackers. Jo sneupe flugger oer it ynternet.
 firefox-desktop-download-ads-are-distracting = Advertinsjes liede ôf en soargje derfoar dat websiden stadiger laden wurde, wylst harren trackers al jo online hannelingen folgje. De { -brand-name-firefox-browser } blokkearre de measte trackers automatysk, dus jo hoege jo befeiligingsynstellingen net troch te spitten.
 firefox-desktop-download-see-your-report = Jo beskermingsrapport besjen
@@ -132,8 +149,9 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Fragen? <a { $attrs }>{ -brand-name-mozilla }-stipe </a> is der foar jo.
+firefox-desktop-download-watch-for-hackers-with-v3 = Let op hackers mei { -brand-name-mozilla-monitor }, beskermje jo e-mailadres mei { -brand-name-firefox-relay }, en mear.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Hast dien!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -154,12 +172,18 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = As jo in melding sjogge wêryn steld wurdt dat de app dy’t jo probearje te ynstallearjen gjin troch { -brand-name-microsoft } ferifiearre app is, klik dan op ‘Toch installeren’ of <a { $attrs }>wizigje de ynstellingen foar app-oanrekommandaasjes</a>.
 firefox-desktop-download-visit-support-for-more = Besykje Stipe foar mear details
 # Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla }<a href="{ $url }">biedt gjin befeiligingsfernijingen mear oan</a> op { -brand-name-windows } { -brand-name-xp } of { -brand-name-vista }, mar jo kinne { -brand-name-firefox } noch hieltyd brûke.
+# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Jo download begjint automatysk. Wurket it net? <a id="{ $id }" href="{ $fallback_url }">Probearje nochris te downloaden.</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } is mear as in browser.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Jo download waard ûnderbrutsen. Mar alles is net ferlern.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Folgje <a href="{ $url }">dizze ynstruksjes</a> om { -brand-name-firefox } te ynstallearjen.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Jo systeem foldocht mooglik net oan de easken foar { -brand-name-firefox }, mar jo kinne ien fan <a href="{ $url }">dizze ferzjes</a> probearje.

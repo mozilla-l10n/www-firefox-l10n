@@ -3,10 +3,11 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.springfield.moz.works/browsers/compare/
 
 compare-shared-compare-firefox = Serwes { -brand-name-firefox }
 compare-shared-footer-cta-title = Eg ugar d { -brand-name-firefox }
+compare-shared-footer-cta-button = Sader { -brand-name-firefox }
 compare-shared-its-easy-to-switch = Yeshel ad tbeddleḍ
 # Used as a small link to a cited source
 compare-shared-source = aɣbalu

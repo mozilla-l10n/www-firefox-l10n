@@ -3,9 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.springfield.moz.works/browsers/compare/
 
 compare-shared-compare-firefox = Keñveriañ { -brand-name-firefox }
 compare-shared-footer-cta-title = Grit muioc’h gant { -brand-name-firefox }
+compare-shared-footer-cta-button = Pellgargañ { -brand-name-firefox }
 # Used as a small link to a cited source
 compare-shared-source = mammenn

@@ -3,10 +3,11 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.springfield.moz.works/browsers/compare/
 
 compare-shared-compare-firefox = Usporedi { -brand-name-firefox }
 compare-shared-footer-cta-title = Uradi više s { -brand-name-firefox }
+compare-shared-footer-cta-button = Preuzmi { -brand-name-firefox }
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } također sadrži ugrađene alate kao što su:
 # Variables
 # $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
