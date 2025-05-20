@@ -14,8 +14,6 @@ newsletter-form-select-country-or-region = Seleziona stato o regione
 newsletter-form-select-language = Scegli lingua
 newsletter-form-your-email-here = INSERISCI QUI LA TUA EMAIL
 newsletter-form-get-firefox-news = Ricevi le ultime notizie relative a { -brand-name-firefox }
-newsletter-form-join-the-community = Unisciti alla comunità
-newsletter-form-sign-up-to-receive = Iscriviti per ricevere ogni mese aggiornamenti da { -brand-name-firefox } e per scoprire le tendenze di Internet che modellano la tua vita digitale.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Acconsento al trattamento di queste informazioni da parte di { -brand-name-mozilla } secondo quanto indicato nell’<a href="{ $url }">informativa sulla privacy</a>
@@ -24,17 +22,13 @@ newsletter-form-we-will-only-send-firefox-v2 = Ti invieremo solo informazioni re
 newsletter-form-if-you-havent-previously = Potrebbe essere necessario confermare l’iscrizione se non sei già iscritto a una newsletter { -brand-name-mozilla }. Verifica se c’è un nostro messaggio nella posta in arrivo o nello spam.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + tu
 newsletter-form-get-firefox-tips = Ricevi suggerimenti, trucchi, notizie e altro ancora su { -brand-name-firefox }
-newsletter-form-get-mozilla-updates = Ricevi aggiornamenti su { -brand-name-mozilla }
 newsletter-form-available-languages = Lingue disponibili
 newsletter-form-select-country = Scegli la nazione
 newsletter-form-sign-me-up = Iscrivimi
 newsletter-form-sign-up-now = Iscrivimi
 newsletter-form-thanks = Grazie.
-newsletter-form-leave-this-field-empty = Lascia vuoto questo campo.
 newsletter-form-yes = Sì
 newsletter-form-no = No
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = Modulo di iscrizione alla newsletter
 multi-newsletter-form-checkboxes-legend = Vorrei ricevere informazioni su:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

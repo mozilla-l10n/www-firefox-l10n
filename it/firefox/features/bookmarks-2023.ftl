@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
 # page title
 bookmark-manager-bookmark-manager = Gestione segnalibri
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Organizza i tuoi segnalibri con cartelle ed etichette.
 # Variables:
-#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+#   $sync (url) - link to https://www.firefox.com/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = I segnalibri sono link ai tuoi siti preferiti sul Web che salvi nel tuo browser, così da poter tornare a a visitarli rapidamente e facilmente. { -brand-name-firefox } include un pratico strumento per la gestione dei segnalibri che ti consente di organizzare, cercare, aggiornare e <a { $sync }>sincronizzare tutti i link salvati in tutti i tuoi dispositivi</a>.
 bookmark-manager-organize-your-boomarks-into = Organizza i tuoi segnalibri in cartelle ricercabili
 bookmark-manager-collect-your-bookmarks-in-folders = Organizza i segnalibri in cartelle ed etichettali con ulteriori dettagli. Puoi anche ordinare i segnalibri per trovare più rapidamente ciò che ti serve.

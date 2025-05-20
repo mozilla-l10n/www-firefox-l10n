@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/eyedropper/
+### URL: https://www-dev.springfield.moz.works/features/eyedropper/
 
 features-eyedropper-eyedropper-tool = Strumento di prelievo colore
 features-eyedropper-select-colors-in-firefox = Seleziona i colori in { -brand-name-firefox } con lo strumento di prelievo colore

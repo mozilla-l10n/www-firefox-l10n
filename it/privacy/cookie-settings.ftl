@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
+### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = Impostazioni cookie
 cookie-settings-page-desc = Questa pagina descrive i diversi tipi di cookie che { -brand-name-mozilla } può utilizzare e ti permette di decidere quali tipi di dati { -brand-name-mozilla } è autorizzata a raccogliere.

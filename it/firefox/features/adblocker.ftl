@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = Come difendersi dall’eccesso di annunci pubblicitari e impedire alle aziende di tracciarti online. Dal browser { -brand-name-firefox }, una guida al blocco pubblicità.
 features-adblocker-the-ad-blocker-a-secret = Il blocco pubblicità: un’arma segreta contro i fastidiosi annunci.
@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Troppa pubblicità, poca pazienza… 
 features-adblocker-the-average-person-sees = L’utente medio visualizza circa 4.000 annunci pubblicitari al giorno. Se pensi siano troppi, un’applicazione di blocco pubblicità è la tua nuova migliore alleata.
 features-adblocker-an-ad-blocker-is-a-piece = Un’applicazione di blocco pubblicità è un software usato per impedire la comparsa di annunci pubblicitari e funziona in due modi. Il primo è bloccare il segnale dal server dell’inserzionista, impedendogli di mostrare annunci sulla tua pagina. Un’altra via di azione è bloccare le singole sezioni della pagina web che potrebbero contenere annunci.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Questi annunci potrebbero essere video ad alto volume, pubblicità che ti seguono per tutto il Web, elementi traccianti, cookie di terze parti e altro ancora. Se vuoi adottare un’applicazione di blocco pubblicità, cerca fra i componenti aggiuntivi disponibili per il tuo browser. <a href="{ $firefox }">{ -brand-name-firefox }</a>, ad esempio, offre <a href="{ $addons }">questa lista di componenti aggiuntivi blocca pubblicità approvati</a>. Scegli da quest’elenco (oppure da un elenco di componenti aggiuntivi approvati per il tuo browser) quello che si adatta meglio alle tue esigenze.
 features-adblocker-find-the-right-ad-blocker = Scopri il blocca pubblicità adatto alle tue esigenze
@@ -27,8 +27,8 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> è un’altra ottima scelta che non solo blocca gli annunci pubblicitari, ma offre ulteriori protezioni contro il tracciamento.
 # Variables:
-#   $attrs1 (string) - link to /firefox/new/ with other attributes
-#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Queste estensioni funzionano perfettamente sia su <a { $attrs1 }>{ -brand-name-firefox } per desktop</a> che su <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Crea una zona franca da elementi traccianti con Blocco contenuti
 # Variables:
@@ -39,7 +39,7 @@ features-adblocker-choose-your-level-of-protection = Scegli il tuo livello di pr
 features-adblocker-to-start-click-on-the-v2 = Per iniziare, fai clic sullo scudo a sinistra della barra degli indirizzi in qualsiasi pagina web e seleziona “Impostazioni protezione”. Il pannello Privacy e sicurezza delle impostazioni di { -brand-name-firefox } verrà aperto in una nuova scheda. Dovresti vedere una sezione evidenziata in blu con diverse opzioni.
 features-adblocker-go-easy-with-standard = Naviga tranquillo con il livello Normale
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
 features-adblocker-if-ads-dont-bother-you = Se gli annunci pubblicitari non ti infastidiscono, né ti preoccupa essere seguito da elementi traccianti e cookie di terze parti, allora la configurazione Normale dovrebbe fare al caso tuo. Per far perdere le tue tracce agli elementi traccianti con il livello di blocco Normale, apri una finestra in <a href="{ $url }">Navigazione anonima</a>.
 features-adblocker-get-tough-with-strict = Diventa intransigente con il livello Restrittivo
 features-adblocker-if-seeing-too-many-ads = Se vedere troppi annunci pubblicitari ti guasta l’umore, allora la scelta più adatta a te è la configurazione Restrittivo. Questo livello blocca infatti elementi traccianti e cookie noti di terze parti in tutte le finestre di { -brand-name-firefox }.
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = In { -brand-name-firefox }, puoi b
 features-adblocker-speed-up-thanks-to-ad = Più veloce grazie al blocco pubblicità
 features-adblocker-in-some-cases-an-ad-blocker = In alcuni casi un’applicazione di blocco pubblicità aiuta il browser ad andare più veloce: infatti il caricamento degli annunci pubblicitari può rallentare un sito web. Senza contare che impieghi di più a trovare ciò che ti interessa se prima di dedicarti al sito devi chiudere l’ennesimo pop-up pubblicitario.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/download/
 features-adblocker-if-you-want-to-learn-more-v2 = Se vuoi saperne di più sul blocco degli annunci, puoi scegliere tra centinaia di estensioni dedicate disponibili su { -brand-name-firefox } e altri browser. Se vuoi provare il blocco pubblicità integrato in { -brand-name-firefox }, <a href="{ $url }">scarica qui</a> il browser che mette la privacy al primo posto.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.springfield.moz.works/compare/
 
 compare-shared-compare-firefox = Confronta { -brand-name-firefox }
 compare-shared-footer-cta-title = Ottieni di più con { -brand-name-firefox }
@@ -11,10 +11,10 @@ compare-shared-footer-cta-desc = Ottieni il browser veloce, leggero e attento al
 compare-shared-we-also-offer-easy = Offriamo anche funzioni facili da usare come:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } ha anche strumenti integrati come:
 # Variables
-# $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
+# $pdf (url) - link to https://www.firefox.com/features/pdf-editor/
 compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Modifica dei PDF</a> direttamente nella finestra di { -brand-name-firefox }, senza bisogno di software aggiuntivo.
 # Variables
-# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+# $translate (url) - link to https://www.firefox.com/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>Traduzione delle pagine web</a> sul tuo dispositivo e in modo completamente riservato.
 compare-shared-its-easy-to-switch = Cambiare è facile
 compare-shared-since-we-dont-have-to-make = Dal momento che non dobbiamo rendere felici i nostri azionisti, possiamo concentrarci su di <strong>te</strong>, mettendo sempre la tua privacy e le tue necessità al primo posto.

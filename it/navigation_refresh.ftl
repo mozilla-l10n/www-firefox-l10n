@@ -19,11 +19,9 @@ navigation-refresh-get-involved-v2 = Collabora con noi
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = La nostra missione
 navigation-refresh-our-work = Il nostro lavoro
-navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } Advertising
-navigation-refresh-mozilla-new-products = Nuovi prodotti { -brand-name-mozilla }
 
 ## Firefox
 
