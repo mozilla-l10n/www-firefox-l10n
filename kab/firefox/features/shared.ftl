@@ -5,6 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-fingerprinter-blocking = Asewḥel n udsil umḍin
-features-shared-translate-the-web = Suqqqel web
-features-shared-picture-in-picture = Tugna-deg-tugna
+features-shared-firefox-features = Timahilin n { -brand-name-firefox }

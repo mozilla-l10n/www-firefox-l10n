@@ -5,6 +5,18 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Zdem-d { -brand-name-firefox } s Teqbaylit d wugar n 90 tutlayin-nniḍen
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Imdanen akk uklalen adduf ɣer Internet — tutlayt-ik⋅im ur ilaq ara ad tili d aɛewwiq. Ɣef waya — s tallalt n kra n yiwiziwen deg umaḍal s umata — nerra-d { -brand-name-firefox } yella s wugar n 90 n tutlayin.
+firefox-all-choose-browser = Fren iminig akken ad tkemmleḍ
+firefox-all-choose-platform = Fren tiɣerɣert akken ad tkemmleḍ
+firefox-all-choose-language = Fren tutlayt akken ad tkemmleḍ
+firefox-all-change-browser = Fren afaris nniḍen
+firefox-all-change-platform = Fren tiɣerɣert nniḍen
+firefox-all-change-language = Fren tutlayt-nniḍen
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Fren seg tebdart-a ddaw-a
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Awi tallelt
 firefox-all-browser-v2 = 1. Iminig:
@@ -29,7 +41,7 @@ firefox-all-check-the-system-requirements = Wali ayen ilaqen deg unagraw-ik
 firefox-all-release-notes = Iwenniten n lqem
 firefox-all-source-code = Tangalt aɣbalu
 firefox-all-need-help = Tesriḍ tallelt?
-firefox-all-choose-which-firefox = Fren anwa { -brand-name-firefox-browser } ara d-tsidreḍ deg tutlayt-ik
+firefox-all-choose-which-firefox = Fren anwa { -brand-name-firefox-browser } i tebɣiḍ ad tesidreḍ s tutlayt-ik⋅im
 firefox-all-firefox-privacy-notice = Tasertit tabaḍnit n { -brand-name-firefox }
 firefox-all-learn-about-firefox = Lmed ugar ɣef yiminigen { -brand-name-firefox }
 firefox-all-the-standard-firefox = Iminig n tziɣet { -brand-name-firefox } — d arurad u diɣ d aɣelsan. Ma yella ur tessineḍ ara ad tferneḍ, awi wagi.
@@ -42,14 +54,7 @@ firefox-all-product-send-link = Azen aseɣwen n usader ɣer tiliɣri-inek·inem
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Fren amsebdad 32 n yibiten i yiselkimen iteddun s usasfar 32 n yibiten — neɣ i yisilkimen iqbuṛen neɣ wid ur neǧhid ara. <a href="{ $url }">Ma yella ur teẓriḍ ara anwa lqem </a> gar umsebdad 64 n yibiten neɣ 32 n yibiten, ad k-nwelleh ad tesbeddeḍ Firefox 32 n yibiten.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Sader { $product_label } i { $platform } s { $locale }
 firefox-all-msi-installers = Imsebdaden MSI
-firefox-all-which-version = Anwa lqem ara tebɣuḍ?
-firefox-all-select-your-preferred-installer = Fren amsebdad i tebɣid
 firefox-all-select-your-preferred-language = Fren tutlayt-ik tasmenyaft
 firefox-all-learn-about-installers = Issin ɣef yimsebdaden
 firefox-all-product-firefox = { -brand-name-firefox }
@@ -61,3 +66,5 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } i iOS TestFlight
+firefox-all-download-esr-115 = Sider ESR 115

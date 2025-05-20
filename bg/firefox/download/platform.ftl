@@ -3,13 +3,12 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/windows/
+### URL: https://www-dev.allizom.org/firefox/windows/
 
 
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Безплатен уеб браузър
-new-platform-download-firefox = Изтеглете { -brand-name-firefox }
 new-platform-download-the-fastest = Изтеглете най-бързия { -brand-name-firefox }
 new-platform-faster-page-loading = По-бързо зареждане на страници, по-малко използване на паметта и пълен с функции, новият { -brand-name-firefox } е тук.
 new-platform-2x-faster = Два пъти по-бърз
@@ -19,8 +18,6 @@ new-platform-need-help = Имате нужда от помощ?
 
 # Linux
 
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } за { -brand-name-linux }
 new-platform-open-source = Отворен код
 
 ## Mac

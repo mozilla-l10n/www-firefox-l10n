@@ -21,29 +21,20 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = { -brand-name-firefox } yang lebih baru juga sudah tersedia. <a { $update_url }>Mutakhirkan ke versi terbaru</a>
 
 firefox-desktop-download-get-the-browser = Dapatkan peramban yang melindungi apa yang penting
-# shady is slang which suggests something is untrustworthy
+
+firefox-desktop-download-fast-reliable-private = Cepat, andal, dan pribadi — agar pikiran lebih tenang saat daring.
+
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Tanpa adanya kebijakan privasi yang menjebak ataupun pintu belakang bagi pengiklan. Hanya peramban secepat kilat yang tidak menjual Anda.
+
 firefox-desktop-download-download-options = Opsi unduhan dan bahasa lain
 firefox-desktop-download-browser-support = Dukungan { -brand-name-firefox-browser }
+
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Lakukan apa yang Anda lakukan saat daring.<br> { -brand-name-firefox-browser } siap <strong>membantu</strong> Anda.
+
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Lakukan apa yang Anda lakukan saat daring.<br> { -brand-name-firefox-browser } <strong>tidak akan</strong> memantaunya.
-firefox-desktop-download-how-firefox-compares = Bagaimana { -brand-name-firefox } dibandingkan dengan peramban lain
-firefox-desktop-download-get-all-the-speed = Dapatkan semua kecepatan dan alat tanpa adanya pelanggaran privasi. { -brand-name-firefox-browser } mengumpulkan sangat sedikit data mengenai Anda, kami bahkan tidak memerlukan surel Anda untuk mengunduh. Itu karena tidak seperti peramban lain, kami tidak memiliki kepentingan finansial untuk menguntit Anda di web.
-firefox-desktop-download-how-we-compare = Bagaimana kami dibandingkan dengan peramban lain
-firefox-desktop-download-compare-firefox-to = Bandingkan { -brand-name-firefox } dengan:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Ya
-firefox-desktop-download-no = Tidak
-firefox-desktop-download-blocks-third-party = Blokir pelacak kuki pihak ketiga
-firefox-desktop-download-blocks-third-party-default = Blokir pelacak kuki pihak ketiga secara default
-firefox-desktop-download-autoplay-blocking = Pemblokiran pemutar otomatis
-firefox-desktop-download-blocks-social-trackers = Blokir pelacak sosial
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Ketersediaan OS
-firefox-desktop-download-in-browser-screenshot = Alat penangkap layar dalam peramban
-firefox-desktop-download-primary-password = Sandi utama
 
 firefox-desktop-download-we-block-the-ad = Kami memblokir pelacak iklan. Anda menjelajahi internet lebih cepat.
 firefox-desktop-download-ads-are-distracting = Iklan itu mengganggu dan membuat laman web dimuat lebih lambat sementara pelacak mereka memantau setiap gerakan yang Anda lakukan saat daring. { -brand-name-firefox-browser } memblokir kebanyakan pelacak secara otomatis, jadi Anda tidak perlu mengutak-atik pengaturan keamanan.
@@ -134,6 +125,11 @@ firefox-desktop-download-from-security-to = Dari keamanan hingga berita dan perm
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } dibuat oleh <a { $attrs }>{ -brand-name-mozilla }</a> sebagai alternatif tercepat dan lebih pribadi dibanding peramban seperti { -brand-name-ie }, dan sekarang { -brand-name-chrome }. Hari ini, misi yang menggerakkan kami sebagai perusahaan dan komunitas sukarelawan ialah menempatkan privasi Anda di atas segalanya.
 
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Seiring bertumbuh dan berkembangnya internet, { -brand-name-firefox } terus berfokus pada hak Anda atas privasi — Itulah yang selalu kami lakukan. Pelajari lebih lanjut tentang praktik data kami di <a { $attrs }>Pemberitahuan Privasi</a> kami.
+
+# Obsolete string (expires: 2025-04-17)
+# Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Seiring bertumbuh dan berkembangnya internet, { -brand-name-firefox } terus berfokus pada hak Anda atas privasi — kami menyebutnya sebagai <a { $attrs }>Janji Data Pribadi</a>: Ambil lebih sedikit. Amankan. Tanpa rahasia. Data Anda, aktivitas web Anda, kehidupan daring Anda dilindungi dengan { -brand-name-firefox }.
 
@@ -152,8 +148,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } secara 
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Ada pertanyaan? <a { $attrs }>Dukungan { -brand-name-mozilla }</a> siap membantu Anda.
-
-firefox-desktop-download-watch-for-hackers-with-v3 = Waspadai peretas dengan { -brand-name-mozilla-monitor }, lindungi alamat email Anda dengan { -brand-name-firefox-relay }, dan masih banyak lagi.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -178,10 +172,6 @@ firefox-desktop-download-if-you-see-a-prompt = Jika Anda melihat pesan yang meny
 firefox-desktop-download-visit-support-for-more = Kunjungi Dukungan untuk Informasi Lebih Lanjut
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">tidak menyediakan lagi pembaruan keamanan</a> di { -brand-name-windows } { -brand-name-xp } atau { -brand-name-vista }, tetapi Anda masih dapat menggunakan { -brand-name-firefox }.
-
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Unduhan Anda akan dimulai secara otomatis. Tidak berhasil? <a id="{ $id }" href="{ $fallback_url }">Coba unduh lagi.</a>
@@ -189,10 +179,6 @@ firefox-desktop-download-your-firefox-new-should-begin = Unduhan Anda akan dimul
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } lebih dari sekadar peramban.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Unduhan Anda terhenti. Tapi semuanya tidak hilang.
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Ikuti <a href="{ $url }">instruksi ini</a> untuk menginstal { -brand-name-firefox }.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/

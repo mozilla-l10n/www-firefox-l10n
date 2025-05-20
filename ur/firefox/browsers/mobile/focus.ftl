@@ -3,9 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/mobile/focus/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = اپنے فون پر ڈاؤن لوڈ کا ربط  ارسال  کریں۔
 mobile-focus-scan-the-qr-code-to-get-started = شروع کرنے کیلئے QR کوڈ اسکین کریں
 mobile-focus-delete-your-history = اپنے سابقات حذف کریں

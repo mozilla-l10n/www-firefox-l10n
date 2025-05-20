@@ -20,29 +20,15 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Mae { -brand-name-firefox } mwy diweddar byth ar gael. <a { $update_url }>Diweddaru i'r fersiwn diweddaraf</a>
 firefox-desktop-download-get-the-browser = Cael y porwr sy'n diogelu'r hyn sy'n bwysig
-# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-fast-reliable-private = Cyflym, dibynadwy a phreifat - er tawelwch meddwl ar-lein.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Dim polisïau preifatrwydd amheus na drysau cefn i hysbysebwyr. Porwr cyflym iawn sydd ddim yn eich trin fel rhywbeth i'w werthu.
 firefox-desktop-download-download-options = Dewisiadau llwytho i lawr ac ieithoedd eraill
 firefox-desktop-download-browser-support = Cymorth { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Gwnewch beth rydych yn ei wneud ar-lein.<br> Mae { -brand-name-firefox-browser } yn eich <strong>diogelu</strong>.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Gwnewch beth bynnag hoffwch chi ar-lein. D'yw <br> { -brand-name-firefox-browser } <strong>ddim</strong> yn eich gwylio.
-firefox-desktop-download-how-firefox-compares = Sut mae { -brand-name-firefox } yn cymharu â phorwyr eraill
-firefox-desktop-download-get-all-the-speed = Cymrwch fantais o'r holl gyflymder ac offer sydd ar gael heb unrhyw dorri ar eich preifatrwydd. Mae { -brand-name-firefox-browser } yn casglu prin dim data amdanoch chi, dydyn ni ddim hyd yn oed yn gofyn am eich cyfeiriad e-bost i'w lwytho i lawr. Mae hynny oherwydd yn wahanol i borwyr eraill, nid oes gennym unrhyw reswm ariannol i'ch dilyn o amgylch y we.
-firefox-desktop-download-how-we-compare = Sut rydyn ni'n cymharu â phorwyr eraill
-firefox-desktop-download-compare-firefox-to = Cymharu { -brand-name-firefox } â:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Iawn
-firefox-desktop-download-no = Na
-firefox-desktop-download-blocks-third-party = Yn rhwystro cwcis tracio trydydd parti
-firefox-desktop-download-blocks-third-party-default = Wedi ei ragosod i rwystro cwcis tracio trydydd parti
-firefox-desktop-download-autoplay-blocking = Yn rhwystro awtochwarae
-firefox-desktop-download-blocks-social-trackers = Yn rhwystro tracwyr cymdeithasol
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Argaeledd OS
-firefox-desktop-download-in-browser-screenshot = Teclyn llun sgrin o fewn y porwr
-firefox-desktop-download-primary-password = Prif gyfrinair
 firefox-desktop-download-we-block-the-ad = Rydyn ni'n rhwystro tracwyr hysbysebion. Rydych chi'n crwydro'r rhyngrwyd yn gynt.
 firefox-desktop-download-ads-are-distracting = Mae hysbysebion yn blino pawb ac yn gwneud i dudalennau gwe lwytho'n arafach, tra bod eu tracwyr yn gwylio pob symudiad rydych chi'n ei wneud ar-lein. Mae'r { -brand-name-firefox-browser } yn rhwystro'r mwyafrif o dracwyr yn awtomatig, felly does dim angen i chi fynd i'ch gosodiadau diogelwch.
 firefox-desktop-download-see-your-report = Gweld eich adroddiad diogelu
@@ -128,6 +114,10 @@ firefox-desktop-download-from-security-to = O ddiogelwch i newyddion i gemau, ma
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = Crëwyd { -brand-name-firefox } gan <a { $attrs }>{ -brand-name-mozilla }</a> fel dewis arall cyflymach, mwy preifat i borwyr fel { -brand-name-ie }, a nawr { -brand-name-chrome }. Heddiw, mae ein cwmni sy'n cael ei yrru gan genhadaeth a'n cymuned wirfoddol yn parhau i roi eich preifatrwydd o flaen pob dim.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Wrth i'r rhyngrwyd dyfu a newid, mae { -brand-name-firefox } yn parhau i ganolbwyntio ar eich hawl i breifatrwydd - dyna fu ein peth ni erioed. Darllenwch ragor am ein harferion data yn ein <a { $attrs }>Hysbysiad Preifatrwydd</a>.
+# Obsolete string (expires: 2025-04-17)
+# Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Wrth i'r rhyngrwyd dyfu a newid, mae { -brand-name-firefox } yn parhau i ganolbwyntio ar eich hawl i breifatrwydd - rydyn ni'n ei alw'n <a { $attrs }>Addewid Data Personol</a>: Cymerwch lai. Cadwch e'n ddiogel. Dim cyfrinachau. Mae eich data, eich gweithgaredd gwe, eich bywyd ar-lein wedi'i warchod gyda { -brand-name-firefox }.
 # Variables:
@@ -142,7 +132,6 @@ firefox-desktop-download-firefox-automatically = Mae { -brand-name-firefox } yn 
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Cwestiynau? Mae gan <a { $attrs }>Cymorth { -brand-name-mozilla }</a> yr atebion.
-firefox-desktop-download-watch-for-hackers-with-v3 = Gwyliwch am hacwyr gyda { -brand-name-mozilla-monitor }, gwarchodwch eich cyfeiriad e-bost gyda { -brand-name-firefox-relay }, a mwy.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -165,18 +154,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = Os ydych chi'n gweld anogyn yn nodi nad yw'r ap rydych chi'n ceisio ei osod yn ap wedi'i ddilysu gan { -brand-name-microsoft }, cliciwch "Gosod beth bynnag" neu <a { $attrs }> newid gosodiadau argymhelledig yr ap </a>.
 firefox-desktop-download-visit-support-for-more = Ewch i Cymorth am Ragor o Fanylion
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = Nid yw { -brand-name-mozilla } <a href="{ $url }"> bellach yn darparu diweddariadau diogelwch </a> ar { -brand-name-windows } { -brand-name-xp } na { -brand-name-vista }, ond gallwch barhau i ddefnyddio { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Dylai'r llwytho ddigwydd yn awtomatig. Heb weithio? <a id="{ $id }" href="{ $fallback_url }">Ceisiwch eto</a>.
 firefox-new-firefox-is-more-than-a-browser = Mae { -brand-name-firefox } yn fwy na phorwr.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Cafodd eich llwytho i lawr ei darfu. Ond nid yw popeth wedi'i golli.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Dilynwch <a href="{ $url }">y cyfarwyddiadau hyn</a> er mwyn gosod { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Efallai nad yw eich system yn cwrdd â gofynion { -brand-name-firefox }, ond mae modd i chi brofi un o'r <a href="{ $url }">rhain</a>:

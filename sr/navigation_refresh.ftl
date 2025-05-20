@@ -14,15 +14,9 @@ navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla } манифес
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Прикључите се
 navigation-refresh-get-involved-v2 = Прикључите се
-navigation-refresh-innovation-projects = Иновациони пројекти
-navigation-refresh-innovation-projects-v2 = Иновациони пројекти
 navigation-refresh-blog = Блог
 navigation-refresh-our-mission = Наша мисија
 navigation-refresh-our-work = Наш рад
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } оглашавање
 
 ## Firefox

@@ -16,21 +16,14 @@ navigation-refresh-mozilla-manifesto-v2 = Manifest { -brand-name-mozilla(case: "
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Zapojte sa
 navigation-refresh-get-involved-v2 = Zapojte sa
-navigation-refresh-innovation-projects = Inovačné projekty
-navigation-refresh-innovation-projects-v2 = Inovačné projekty
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Naša misia
 navigation-refresh-our-work = Naša práca
 navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = Reklama v { -brand-name-mozilla(case: "loc") }
+navigation-refresh-mozilla-new-products = Nové produkty od { -brand-name-mozilla(case: "gen") }
 
 ## Firefox
 

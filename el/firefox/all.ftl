@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = Κάντε λήψη του { -brand-name-firefox } στα ελληνικά και σε περισσότερες από 90 άλλες γλώσσες
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Όλοι αξίζουν πρόσβαση στο διαδίκτυο και η γλώσσα σας δεν θα πρέπει ποτέ να αποτελεί εμπόδιο. Για τον λόγο αυτό, με τη βοήθεια αφοσιωμένων εθελοντών από όλο τον κόσμο, διαθέτουμε το { -brand-name-firefox } σε πάνω από 90 γλώσσες.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Σαρώστε τον κωδικό QR για να λάβετε το <em>{ $product_name }</em>
 firefox-all-choose-browser = Επιλέξτε ένα πρόγραμμα περιήγησης για να συνεχίσετε
 firefox-all-choose-platform = Επιλέξτε μια πλατφόρμα για να συνεχίσετε
 firefox-all-choose-language = Επιλέξτε μια γλώσσα για να συνεχίσετε
@@ -69,14 +66,7 @@ firefox-all-product-send-link = Αποστολή συνδέσμου λήψης �
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Επιλέξτε ένα πρόγραμμα εγκατάστασης 32-bit για υπολογιστές με επεξεργαστές 32-bit — ή για πιο παλιούς/αδύναμους υπολογιστές. <a href="{ $url }">Αν δεν ξέρετε σίγουρα</a> ποιο πρόγραμμα εγκατάστασης να επιλέξετε, προτείνουμε την έκδοση 32-bit.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Λήψη του { $product_label } για { $platform } στα { $locale }
 firefox-all-msi-installers = Προγράμματα εγκατάστασης MSI
-firefox-all-which-version = Ποια έκδοση θα θέλατε;
-firefox-all-select-your-preferred-installer = Επιλέξτε το προτιμώμενο πρόγραμμα εγκατάστασής σας
 firefox-all-select-your-preferred-language = Επιλέξτε την προτιμώμενη γλώσσα σας
 firefox-all-learn-about-installers = Μάθετε για τα προγράμματα εγκατάστασης
 firefox-all-product-firefox = { -brand-name-firefox }
@@ -90,4 +80,4 @@ firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-n
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
 firefox-all-download-esr-115 = Λήψη του ESR 115
-firefox-all-note-unsupported = Σημείωση: Αν χρησιμοποιείτε Windows 7, Windows 8, Windows 8.1 ή macOS 10.12, 10.13, 10.14, παρακαλούμε κάντε λήψη της ESR 115 για να χρησιμοποιήσετε το { -brand-name-firefox }.
+firefox-all-note-unsupported = Σημείωση: Αν χρησιμοποιείτε Windows 7, Windows 8, Windows 8.1 ή macOS 10.12, 10.13, 10.14, κάντε λήψη της ΄΄έκδοσης ESR 115 για να χρησιμοποιήσετε το { -brand-name-firefox }.

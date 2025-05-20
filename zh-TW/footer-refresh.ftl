@@ -5,10 +5,15 @@
 footer-refresh-discover-mozilla-products = 探索 { -brand-name-mozilla } 產品與倡議。我們保證確保您的 E-Mail 隱私與安全 — 不分享、不推銷，只有最新消息。
 footer-refresh-leadership = 領導團隊
 footer-refresh-advertise = 使用 { -brand-name-mozilla } 投放廣告
+footer-refresh-mozilla-advertising = { -brand-name-mozilla } 廣告
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = 了解 <span>{ footer-refresh-mozilla-advertising }的更多資訊</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 發行公告
+footer-refresh-privacy-first = 隱私第一的廣告解決方案，可供品牌、發布商與平台商使用。
+footer-refresh-mdn-v2 = { -brand-name-mdn }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = 關注 @{ -brand-name-mozilla }
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -23,8 +28,6 @@ footer-refresh-support = 技術支援
 footer-refresh-product-help = 產品說明
 footer-refresh-file-a-bug = 回報 Bug
 footer-refresh-localize-mozilla = 在地化 { -brand-name-mozilla }
-footer-refresh-resources = 資源
-footer-refresh-brand-standards = 品牌設計準則
 footer-refresh-developers = 開發者
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

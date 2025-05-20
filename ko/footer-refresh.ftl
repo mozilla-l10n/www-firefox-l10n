@@ -2,12 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-discover-mozilla-products = { -brand-name-mozilla } 제품과 계획에 대해 알아보세요. 이메일은 안전하게 보호됩니다. 공유하거나 판매하지 않고 최신의 정보만 제공합니다.
 footer-refresh-leadership = 리더쉽
 footer-refresh-advertise = { -brand-name-mozilla }로 광고하기
+footer-refresh-mozilla-advertising = { -brand-name-mozilla } 광고
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = <span>{ footer-refresh-mozilla-advertising }</span> 알아보기
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 출시 노트
+footer-refresh-privacy-first = 브랜드, 퍼블리셔 및 플랫폼을 위한 개인 정보 보호 우선 광고 솔루션입니다.
+footer-refresh-mdn-v2 = { -brand-name-mdn }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } 팔로우
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -22,8 +28,6 @@ footer-refresh-support = 지원
 footer-refresh-product-help = 제품 도움말
 footer-refresh-file-a-bug = 버그 신고
 footer-refresh-localize-mozilla = { -brand-name-mozilla } 지역화
-footer-refresh-resources = 자원
-footer-refresh-brand-standards = 브랜드 가이드
 footer-refresh-developers = 개발자
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
@@ -36,4 +40,5 @@ footer-refresh-websites-cookies = 쿠키
 footer-refresh-websites-legal = 법적 고지
 footer-refresh-community-participation-guidelines = 커뮤니티 참여 가이드라인
 footer-refresh-about-this-site = 이 사이트 정보
+footer-refresh-all-languages = 모든 언어
 footer-refresh-language = 언어

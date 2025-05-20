@@ -20,29 +20,15 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Ka të gatshëm një { -brand-name-firefox } edhe më të ri. <a { $update_url }>Përditësojeni me versionin më të ri</a>
 firefox-desktop-download-get-the-browser = Merrni shfletuesin që mbron çka është e rëndësishme
-# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-fast-reliable-private = I shpejtë, i qëndrueshëm dhe privat — për mendje të fjetur në internet.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Pa rregulla privatësie me hije, apo deriçka të pasme për reklamues. Thjesht një shfletues të shpejtë si rrufe, që nuk ju shet te të tjerët.
 firefox-desktop-download-download-options = Mundësi shkarkimi dhe gjuhë të tjera
 firefox-desktop-download-browser-support = Asistencë për { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Bëni ç’të doni në internet.<br> { -brand-name-firefox-browser } ju mbron<strong>krahët</strong>.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Bëni ato çka bëni në internet.<br> { -brand-name-firefox-browser } <strong>s’ju</strong> vëzhgon.
-firefox-desktop-download-how-firefox-compares = Si del { -brand-name-firefox } në krahasim me shfletues të tjerë
-firefox-desktop-download-get-all-the-speed = Përfitoni krejt shpejtësinë dhe mjetet pa asnjë prej shkeljeve të privatësisë. { -brand-name-firefox-browser } grumbullon kaq pak të dhëna rreth jush, sa as që ju kërkojmë adresë email për ta shkarkuar. Kjo vjen ngaqë, ndryshe nga shfletues të tjerë, s’kemi interesa financiare për ndjekjen tuaj nëpër internet.
-firefox-desktop-download-how-we-compare = Si dalim në krahasim me shfletues të tjerë
-firefox-desktop-download-compare-firefox-to = Krahasojeni { -brand-name-firefox }-in me:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Po
-firefox-desktop-download-no = Jo
-firefox-desktop-download-blocks-third-party = Bllokon cookie-t nga palë gjurmuese të treta
-firefox-desktop-download-blocks-third-party-default = Bllokon, si parazgjedhje, cookie-t nga palë gjurmuese të treta
-firefox-desktop-download-autoplay-blocking = Bllokim vetëluajtjesh
-firefox-desktop-download-blocks-social-trackers = Bllokon gjurmues shoqërorësh
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Pasje në OS
-firefox-desktop-download-in-browser-screenshot = Mjet fotografimi ekrani brenda shfletuesit
-firefox-desktop-download-primary-password = Fjalëkalim parësor
 firefox-desktop-download-we-block-the-ad = Ne bllokojmë gjurmues reklamash. Ju eksploroni internetin më shpejt.
 firefox-desktop-download-ads-are-distracting = Reklamat të tërheqin vëmendjen dhe bëjnë që faqet web të ngarkohen më ngadalë, teksa gjurmuesit që përmbajnë ndjekin çdo lëvizje që bëni në internet. { -brand-name-firefox-browser }-i bllokon automatikisht shumicën e gjurmuesve, ndaj s’keni pse të zhyteni në rregullimet tuaja të sigurisë.
 firefox-desktop-download-see-your-report = Shihni raportin tuaj të mbrojtjes
@@ -128,6 +114,10 @@ firefox-desktop-download-from-security-to = Nga siguria te lajmet, e më tej te 
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } u krijua nga <a { $attrs }>{ -brand-name-mozilla }</a> si një alternativë më e shpejtë, më private ndaj shfletuesish të tillë si { -brand-name-ie } dhe tani { -brand-name-chrome }. Sot, shoqëria jonë edhe bashkësia e vullnetarëve të shtyrë përpara nga një mision vazhdojnë ta vënë privatësinë tuaj mbi gjithçka.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Teksa interneti rritet dhe ndryshon, { -brand-name-firefox }-i vazhdon të përqendrohet te e drejta juaj për privatësi — kjo ka qenë përherë shenjë e jona. Mësoni më tepër mbi praktikat tona me të dhënat, te <a { $attrs }>Shënimi ynë i Privatësisë</a>.
+# Obsolete string (expires: 2025-04-17)
+# Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Teksa interneti rritet dhe ndryshon, { -brand-name-firefox } vazhdon të përqendrohet te e drejta juaj për privatësi — e quajmë <a { $attrs }>Premtimi rreth të Dhënave Personale</a>: Merr më pak. Mbaji të parrezikuara. Pa të fshehta. Të dhënat tuaja, veprimtaria juaj në internet, jeta juaj internetore janë të mbrojtura me { -brand-name-firefox }.
 # Variables:
@@ -142,7 +132,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Pyetje? Mbulohen për ju nga <a { $attrs }>asistenca e { -brand-name-mozilla }</a>.
-firefox-desktop-download-watch-for-hackers-with-v3 = Vëzhgoni për hacker-a me { -brand-name-mozilla-monitor }, mbroni adresën tuaj email me { -brand-name-firefox-relay }, etj.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -165,18 +154,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = Nëse shihni një njoftim që thotë se aplikacioni që po provoni të instaloni s’është aplikacion i verifikuar nga { -brand-name-microsoft }, klikoni mbi “Instaloje, sido qoftë” ose <a { $attrs }>ndryshoni rregullime mbi rekomandim aplikacionesh</a>.
 firefox-desktop-download-visit-support-for-more = Për Më Tepër Hollësi, Vizitoni Asistencën
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">s’furnizon më përditësime sigurie</a> për { -brand-name-windows } { -brand-name-xp } apo { -brand-name-vista }, por prapë mundeni ta përdorni { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Shkarkimi juaj do të duhej të fillonte vetvetiu. S’ndodhi? <a id="{ $id }" href="{ $fallback_url }">Provoni sërish ta shkarkoni</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }-i është më shumë se një shfletues.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Shkarkimi juaj u ndërpre. Por jo gjithçka humbi.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Që të instaloni { -brand-name-firefox }-in, ju lutemi, ndiqni <a href="{ $url }">këto udhëzime</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Sistemi juaj mund të mos i plotësojë domosdoshmëritë e { -brand-name-firefox }-it, por mund të provoni një nga <a href="{ $url }">këto versione</a>.

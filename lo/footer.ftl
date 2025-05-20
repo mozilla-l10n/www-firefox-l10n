@@ -2,14 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = { -brand-name-mozilla } Manifesto
 footer-privacy-hub = ສູນກາງຄວາມເປັນສ່ວນຕົວ
 footer-privacy = ຄວາມເປັນສ່ວນໂຕ
 footer-press = ກົດ
-footer-browser-comparison = ການປຽບທຽບຕົວທ່ອງເວັບ
-footer-brand-standards = ມາດຕະຖານຍີ່ຫໍ້
-footer-browsers = ຕົວທ່ອງເວັບ
+footer-mozilla-blog = { -brand-name-mozilla } ບົດຄວາມ
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = ນັກພັດທະນາ
 footer-developer-edition = { -brand-name-developer-edition }
@@ -37,7 +34,6 @@ footer-websites-legal = ຖືກກົດຫມາຍ
 footer-language = ພາສາ
 footer-go = ໄປ
 footer-donate = ບໍລິຈາກ
-footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }
@@ -46,3 +42,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = ຕິດຕາມ @{ -brand-name-mozilla }
 footer-follow-firefox = ຕິດຕາມ @{ -brand-name-firefox }
 footer-about-this-site = ກ່ຽວກັບເວັບໄຊນີ້
+footer-advertise = ໂຄສະນາກັບ { -brand-name-mozilla }

@@ -14,6 +14,8 @@ ui-watch-the-video = ვიდეოს ნახვა
 ui-replay = გამეორება
 ui-share = გაზიარება
 ui-menu = მენიუ
+# Short for Table of Contents
+ui-contents = მასალები
 ui-please-turn-on-javascript = ამ გვერდის უშეცდომოდ საჩვენებლად, გთხოვთ, ჩართეთ JavaScript.
 ui-show-more = ვრცლად
 ui-show-less = შემოკლებულად
@@ -21,7 +23,7 @@ ui-show-all = ყველას გამოჩენა
 ui-hide-all = ყველას დამალვა
 ui-learn-more = ვრცლად
 ui-view = ნახვა
-ui-pause-animation = ანიმაციის შეჩერება
-ui-play-animation = ანიმაციის გაშვება
+ui-pause-animation = მოძრაობის შეჩერება
+ui-play-animation = ამოძრავება
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = ხელშეწყობა

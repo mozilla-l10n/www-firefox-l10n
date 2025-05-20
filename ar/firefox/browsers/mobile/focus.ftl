@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.springfield.moz.works/browsers/mobile/focus/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: مُتصفح الخصوصية
@@ -18,7 +18,6 @@ mobile-focus-firefox-focus-dedicated-with-v2 = يُعتبر { -brand-name-firefo
 mobile-focus-firefox-focus-is-available = مُتصفح { -brand-name-firefox-focus } مُتوفر للأجهزة التي تعمل بنظام التشغيل { -brand-name-ios } أو { -brand-name-android }.
 
 mobile-focus-get-firefox-focus = نزِّل متصفح { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = أرسِل رابط تنزيل إلى هاتفك.
 mobile-focus-scan-the-qr-code-to-get-started = امسح رمز الاستجابة السريعة (QR) ضوئيًا للبدء
 mobile-focus-scan-alt-text = امسح رمز الاستجابة السريعة (QR) ضوئيًا لتنزيل متصفح { -brand-name-firefox-focus }
 

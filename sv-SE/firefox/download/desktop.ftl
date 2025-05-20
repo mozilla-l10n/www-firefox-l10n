@@ -20,29 +20,15 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = En ännu nyare { -brand-name-firefox } är tillgänglig. <a { $update_url }>Uppdatera till den senaste versionen</a>
 firefox-desktop-download-get-the-browser = Skaffa webbläsaren som skyddar det som är viktigt
-# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-fast-reliable-private = Snabb, pålitlig och privat — för sinnesfrid online.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Inga konstiga sekretesspolicyer eller bakdörrar för annonsörer. Bara en blixtsnabb webbläsare som inte säljer din data.
 firefox-desktop-download-download-options = Nedladdningsalternativ och andra språk
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } support
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Gör vad du vill online.<br> { -brand-name-firefox-browser } <strong>skyddar</strong> dig.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Gör vad du vill på internet.<br> { -brand-name-firefox-browser } <strong>tittar inte</strong> på.
-firefox-desktop-download-how-firefox-compares = Hur { -brand-name-firefox } jämförs med andra webbläsare
-firefox-desktop-download-get-all-the-speed = Få hastighet och verktyg utan att kränka integriteten. { -brand-name-firefox-browser } samlar in så lite data om dig så vi inte ens behöver din e-postadress för att hämtas. Det beror på att vi, till skillnad från andra webbläsare, inte har någon ekonomisk fördel av att följa dig på nätet.
-firefox-desktop-download-how-we-compare = Hur vi står oss jämfört med andra webbläsare
-firefox-desktop-download-compare-firefox-to = Jämför { -brand-name-firefox } med:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Ja
-firefox-desktop-download-no = Nej
-firefox-desktop-download-blocks-third-party = Blockerar spårningskakor från tredje part
-firefox-desktop-download-blocks-third-party-default = Blockerar spårningskakor från tredje part som standard
-firefox-desktop-download-autoplay-blocking = Autoplay-blockering
-firefox-desktop-download-blocks-social-trackers = Blockerar sociala spårare
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = OS tillgänglighet
-firefox-desktop-download-in-browser-screenshot = Skärmdumpsverktyg i webbläsaren
-firefox-desktop-download-primary-password = Huvudlösenord
 firefox-desktop-download-we-block-the-ad = Vi blockerar annonsspårarna. Du utforskar internet snabbare.
 firefox-desktop-download-ads-are-distracting = Annonser är distraherande och gör att webbsidor laddar långsammare medan deras spårare tittar på varje drag du gör online. { -brand-name-firefox-browser } blockerar de flesta spårare automatiskt, så det finns inget behov av att kontrollera dina säkerhetsinställningar.
 firefox-desktop-download-see-your-report = Visa din säkerhetsrapport
@@ -128,6 +114,10 @@ firefox-desktop-download-from-security-to = Från säkerhet till nyheter till sp
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } skapades av <a { $attrs }>{ -brand-name-mozilla }</a> som en snabbare, mer privat alternativ till webbläsare som { -brand-name-ie } och nu { -brand-name-chrome }. Idag fortsätter vårt uppdragsdrivna företag och vår volontärgrupp att sätta din integritet framför allt annat.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = När internet växer och förändras fortsätter { -brand-name-firefox } att fokusera på din rätt till integritet — det har alltid varit vår grej. Läs mer om vår datapraxis i vårt <a { $attrs }>sekretessmeddelande</a>.
+# Obsolete string (expires: 2025-04-17)
+# Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Eftersom internet växer och förändras fortsätter { -brand-name-firefox } att fokusera på din rätt till integritet  — vi kallar det <a { $attrs }>Löfte om personlig data</a>: Ta mindre. Förvara det säkert. Inga hemligheter. Dina data, din webbaktivitet, ditt liv online är skyddat med { -brand-name-firefox }.
 # Variables:
@@ -142,7 +132,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Frågor? <a { $attrs }>{ -brand-name-mozilla } support</a> kan hjälpa dig.
-firefox-desktop-download-watch-for-hackers-with-v3 = Håll utkik efter hackare med { -brand-name-mozilla-monitor }, skydda din e-postadress med { -brand-name-firefox-relay } och mer.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -165,18 +154,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = Om du får en uppmaning om att appen du försöker installera inte är en { -brand-name-microsoft }-verifierad app, klickar du på "Installera ändå" eller <a { $attrs }>ändra inställningar för apprekommendationer</ a >.
 firefox-desktop-download-visit-support-for-more = Besök support för mer information
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">tillhandahåller inte längre säkerhetsuppdateringar</a> för { -brand-name-windows } { -brand-name-xp } eller { -brand-name-vista }, men du kan fortfarande använda { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Din nedladdning bör starta automatiskt. Fungerade det inte? <a id="{ $id }" href="{ $fallback_url }">Försök att ladda ner igen.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } är mer än en webbläsare.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Din nedladdning avbröts. Men allt är inte förlorat.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Följ <a href="{ $url }">dessa instruktioner</a> för att installera { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Ditt system uppfyller kanske inte kraven för { -brand-name-firefox }, men du kan prova en av <a href="{ $url }">dessa versioner</a>.

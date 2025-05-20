@@ -3,13 +3,12 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/windows/
+### URL: https://www-dev.allizom.org/firefox/windows/
 
 
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Gú len? Internet
-new-platform-download-firefox = B-là { -brand-name-firefox }
 new-platform-2x-faster = 2x Gúe
 new-platform-download-in-another = B-là=y tá thîb dízh
 new-platform-need-help = This lí chél thíb yá

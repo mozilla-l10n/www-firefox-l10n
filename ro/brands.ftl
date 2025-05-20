@@ -9,7 +9,6 @@
 
 ## Company names
 
--brand-name-amazon = Amazon
 -brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook = Facebook
@@ -28,36 +27,36 @@
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
     { $case ->
-       *[indefinite-article]
-            { $capitalization ->
-               *[lower] browser Firefox
-                [upper] Browser Firefox
-            }
         [definite-article]
             { $capitalization ->
-               *[lower] browserul Firefox
                 [upper] Browserul Firefox
+               *[lower] browserul Firefox
             }
         [genitive-or-dative]
             { $capitalization ->
                *[lower] browserului Firefox
             }
+       *[indefinite-article]
+            { $capitalization ->
+                [upper] Browser Firefox
+               *[lower] browser Firefox
+            }
     }
 -brand-name-firefox-browsers =
     { $case ->
-       *[indefinite-article]
-            { $capitalization ->
-               *[lower] browsere Firefox
-                [upper] Browsere Firefox
-            }
         [definite-article]
             { $capitalization ->
-               *[lower] browserele Firefox
                 [upper] Browserele Firefox
+               *[lower] browserele Firefox
             }
         [genitive-or-dative]
             { $capitalization ->
                *[lower] browserelor Firefox
+            }
+       *[indefinite-article]
+            { $capitalization ->
+                [upper] Browsere Firefox
+               *[lower] browsere Firefox
             }
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
@@ -80,73 +79,60 @@
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = Aurora
--brand-name-firefox-daylight = Firefox Daylight
--brand-name-daylight = Daylight
 -brand-name-firefox-quantum = Firefox Quantum
--brand-name-firefox-lite = Firefox Lite
--brand-name-lite = Lite
--brand-name-firefox-reality = Firefox Reality
--brand-name-reality = Reality
 
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-relay = Firefox Relay
--brand-name-firefox-sync = Firefox Sync
 
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
 -brand-name-relay = Relay
--brand-name-sync = Sync
 
 ## Firefox products (legacy)
 
 -brand-name-firefox-account =
     { $case ->
-       *[indefinite-article]
-            { $capitalization ->
-               *[lower] cont Firefox
-                [upper] Cont Firefox
-            }
         [definite-article]
             { $capitalization ->
-               *[lower] contul Firefox
                 [upper] Contul Firefox
                 [upper-and-you] Contul tău Firefox
+               *[lower] contul Firefox
             }
         [genitive-or-dative]
             { $capitalization ->
-               *[lower] contului Firefox
                 [lower-and-you] contului tău Firefox
+               *[lower] contului Firefox
+            }
+       *[indefinite-article]
+            { $capitalization ->
+                [upper] Cont Firefox
+               *[lower] cont Firefox
             }
     }
 -brand-name-firefox-accounts =
     { $case ->
-       *[indefinite-article]
-            { $capitalization ->
-               *[lower] conturi Firefox
-                [upper] Conturi Firefox
-            }
         [definite-article]
             { $capitalization ->
-               *[lower] conturile Firefox
                 [upper] Conturile Firefox
+               *[lower] conturile Firefox
             }
         [genitive-or-dative]
             { $capitalization ->
                *[lower] conturilor Firefox
             }
+       *[indefinite-article]
+            { $capitalization ->
+                [upper] Conturi Firefox
+               *[lower] conturi Firefox
+            }
     }
--brand-name-firefox-better-web = Firefox Better Web
--brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
--brand-name-firefox-send = Firefox Send
--brand-name-send = Send
 -brand-name-firefox-private-network = Firefox Private Network
--brand-name-fpn = FPN
 
 ## Firefox projects
 
@@ -165,7 +151,6 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-mdn-web-docs = MDN Web Docs
--brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
@@ -178,18 +163,11 @@
 
 ## Mozilla projects (legacy)
 
--brand-name-mozilla-developer-network = Mozilla Developer Network
--brand-name-mozilla-labs = Mozilla Labs
--brand-name-hubs = Hubs
--brand-name-lockwise = Lockwise
--brand-name-lightbeam = Lightbeam
--brand-name-maker-party = Maker Party
 -brand-name-webmaker = Webmaker
 
 ## Open Source projects
 
 -brand-name-rust = Rust
--brand-name-webassembly = WebAssembly
 
 ## Other browsers
 
@@ -199,7 +177,6 @@
 -brand-name-ie = Internet Explorer
 -brand-name-opera = Opera
 -brand-name-safari = Safari
--brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
@@ -209,10 +186,7 @@
 -brand-name-linux = Linux
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
--brand-name-ubuntu = Ubuntu
--brand-name-vista = Vista
 -brand-name-windows = Windows
--brand-name-xp = XP
 
 ## Apple products
 
@@ -221,15 +195,10 @@
 -brand-name-iphone = iPhone
 -brand-name-test-flight = TestFlight
 
-## Amazon products
-
--brand-name-fire-tv = Fire TV
-
 ## Facebook products
 
 -brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
--brand-name-messenger = Messenger
 -brand-name-workplace = Workplace
 
 ## Google products

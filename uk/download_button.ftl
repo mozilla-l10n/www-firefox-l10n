@@ -3,31 +3,12 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Завантажити зараз
-download-button-free-download = Завантажити
 download-button-firefox-beta = { -brand-name-firefox-beta }
 download-button-firefox-aurora = { -brand-name-firefox-aurora }
 download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span> { -brand-name-developer-edition }
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
-download-button-supported-devices = Підтримувані пристрої
-download-button-whats-new = Що нового
 download-button-systems-languages = Системи та мови
-download-button-recommended = Рекомендовані
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } більше не підтримує оновлення безпеки для { -brand-name-firefox } на { -brand-name-windows } { -brand-name-xp } та { -brand-name-vista }</a>, але ви досі можете завантажити останню версію для 32-розрядної { -brand-name-windows } внизу.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = Дотримуйтесь <a href="{ $url }">цих настанов</a> для встановлення { -brand-name-firefox }.
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
-download-button-your-system-does-not = Ваша система не задовольняє <a href="{ $url }">вимог</a> для роботи { -brand-name-firefox }.
-download-button-firefox-other-platforms = { -brand-name-firefox } для інших платформ та мов
-download-button-update-your-firefox = Оновити свій { -brand-name-firefox }
-download-button-get-firefox-android = Отримати { -brand-name-firefox } для { -brand-name-android }
-download-button-get-firefox-ios = Отримати { -brand-name-firefox } для { -brand-name-ios }
 download-button-google-play = Отримати його на { -brand-name-google-play }
-download-button-free-google-play = Завантажити з { -brand-name-google-play }
-download-button-app-store = Завантажити з { -brand-name-app-store }
 download-button-download-app-store = Завантажити з { -brand-name-app-store }
 download-button-download-firefox = Завантажити { -brand-name-firefox }
 download-button-your-system-may = Ваша система може не задовольняти вимог для { -brand-name-firefox }, але ви можете спробувати одну з цих версій:
@@ -60,3 +41,7 @@ download-button-linux-64-v2 = Завантажити для 64-розрядно�
 download-button-using-debian = Користуєтеся Debian, Ubuntu чи будь-яким іншим дистрибутивом на основі Debian?<br> Натомість ви можете налаштувати наш <a { $attrs }>репозиторій APT</a>.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Отримати від Microsoft
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = Розкажіть партнерам { -brand-name-mozilla } з маркетингових технологій, як ви дізналися про { -brand-name-firefox } та як ви ним користуєтеся. Ці дані не продаватимуться та не використовуватимуться для показу вам реклами. <a { $attrs }>Дізнайтеся, як ми використовуємо ці дані</a>.

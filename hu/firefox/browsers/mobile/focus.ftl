@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/mobile/focus/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: az adatvédelmi böngésző
@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = Egyszerű, privát mobilböngészés
 mobile-focus-firefox-focus-dedicated-with-v2 = A { -brand-name-firefox-focus } az Ön kifejezetten az adatvédelmet előtérbe helyező böngészője, automatikus követésvédelemmel. A { -brand-name-focus(case: "instrumental") } az oldalak gyorsabban töltődnek be, és az adatai privátak maradnak.
 mobile-focus-firefox-focus-is-available = A { -brand-name-firefox-focus } elérhető mind { -brand-name-ios }-es, mind { -brand-name-android(cap: "lower") }os eszközökre.
 mobile-focus-get-firefox-focus = { -brand-name-firefox-focus } beszerzése
-mobile-focus-send-a-download-link-to-your = Küldjön egy letöltési hivatkozást a telefonjára.
 mobile-focus-scan-the-qr-code-to-get-started = Olvassa le a QR-kódot, és kezdjen neki
 mobile-focus-scan-alt-text = Olvassa le a QR-kódot, hogy beszerezze a { -brand-name-firefox-focus }t
 mobile-focus-delete-your-history = Törölje az előzményeket

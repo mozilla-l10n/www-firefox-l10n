@@ -16,21 +16,14 @@ navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla }-manifestet
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Engagera dig
 navigation-refresh-get-involved-v2 = Engagera dig
-navigation-refresh-innovation-projects = Innovationsprojekt
-navigation-refresh-innovation-projects-v2 = Innovationsprojekt
 navigation-refresh-blog = Blogg
 navigation-refresh-our-mission = Vårt uppdrag
 navigation-refresh-our-work = Vårt arbete
 navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } Annonsering
+navigation-refresh-mozilla-new-products = { -brand-name-mozilla } Nya produkter
 
 ## Firefox
 

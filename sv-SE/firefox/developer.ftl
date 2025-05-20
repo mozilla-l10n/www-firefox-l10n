@@ -62,16 +62,11 @@ firefox-developer-master-innovative-features = Innovativa funktioner
 firefox-developer-want-to-be-on-the-cutting-edge = Vill du vara i framkant?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } tar emot dagliga uppdateringar och låter dig komma åt funktioner månader innan de går ut till alla andra.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } är den enda webbläsaren med verktyg som är konstruerade speciellt för att bygga och designa med CSS-rutnät. Med dessa verktyg kan du visualisera rutnätet, visa associerade områdesnamn, förhandsgranska transformering på rutnätet och mycket mer.
-firefox-developer-convenient-features = Praktiska funktioner
-firefox-developer-shapes-editor = Formeditor
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } har en ny formeditor som gör det enklare att redigera 'shape-outside' och 'clip-path' figurer genom att göra justeringar med en visuell redigerare.
-firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } har en ny formeditor som gör det enklare att redigera 'shadow-outside' och 'clip-path' figurer genom att göra justeringar med en visuell redigerare.
 firefox-developer-faster-innovation = Snabbare information
 firefox-developer-fonts-panel = Teckensnittspanel
 firefox-developer-the-new-fonts-panel = Den nya teckensnittspanelen i { -brand-name-firefox-devtools } ger utvecklare snabb åtkomst till all information de behöver om de teckensnitt som används i ett element. Den innehåller också värdefull information som teckensnittskälla, vikt, stil och mer.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } skickar automatiskt återkoppling till { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Ladda ner webbläsaren { -brand-name-firefox } gjord för utvecklare
-firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } har byggts om från grunden till att bli snabbare, snyggare och kraftfullare än någonsin.
 firefox-developer-welcome-to-firefox-developer-edition = Välkommen till { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Webbläsaren gjord för utvecklare
 firefox-developer-all-the-latest-v2 = Alla de senaste utvecklingsverktygen i beta utöver funktioner som konsolredigeraren med flera rader och WebSocket-inspektören.
@@ -84,9 +79,21 @@ firefox-developer-view-the-release = Visa <a { $attrs }>versionsfakta</a> (endas
 firefox-developer-developer-tools-user = Dokumentation för utvecklingsverktyg
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resurser för utvecklare, av utvecklare
+firefox-developer-mdn-playground = Testområde
+firefox-developer-mdn-write-test-and-share = Skriv, testa och dela din kod. Ett testområde för att lära dig och dela ditt fantastiska arbete med världen.
+firefox-developer-mdn-blog = { -brand-name-mdn } blogg
+firefox-developer-mdn-unlock-the-world = Lås upp världen av webbutveckling med bloggen { -brand-name-mdn } — ditt nav för expertinsikter, senaste webbstandarder och kodningstips.
+firefox-developer-mdn-updates = Uppdateringar
+firefox-developer-mdn-the-web-doesnt-have = Webben har ingen ändringslogg, men { -brand-name-mdn } kan hjälpa. Du kan anpassa och filtrera kompatibilitetsförändringar baserat på webbläsare eller den tekniska kategorin du är intresserad av, oavsett om det är JavaScript, CSS, etc.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Referenser { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } är ett samarbetsprojekt med öppen källkod som dokumenterar webbplattformstekniker, inklusive CSS, HTML, JavaScript och webb-API:er.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = Läroplan { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = En strukturerad guide till de grundläggande färdigheterna och metoderna för att vara en framgångsrik front-end utvecklare, tillsammans med rekommenderade inlärningsresurser.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = Stöd { -brand-name-mdn } och anpassa den med samlingar, meddelanden och områden för att testa din kod.

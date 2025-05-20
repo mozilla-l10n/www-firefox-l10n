@@ -17,25 +17,14 @@ navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla } のマニフ�
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = 参加する
 navigation-refresh-get-involved-v2 = 参加する
-navigation-refresh-innovation-projects = イノベーションプロジェクト
-navigation-refresh-innovation-projects-v2 = イノベーションプロジェクト
 navigation-refresh-blog = ブログ
 navigation-refresh-our-mission = Mozilla のミッションを読む
 navigation-refresh-our-work = Mozilla の活動
 navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
-
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
-
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
-
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } ベンチャー
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } 広告
+navigation-refresh-mozilla-new-products = { -brand-name-mozilla } の新製品
 
 ## Firefox
 

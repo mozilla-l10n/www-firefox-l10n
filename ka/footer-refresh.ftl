@@ -2,13 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-discover-mozilla-products = გაეცანით { -brand-name-mozilla }-ს პროდუქტებსა და წამოწყებებს. გპირდებით, რომ თქვენი ელფოსტა დარჩება პირადი და ხელშეუხებელი – არავითარი გაზიარება და გაყიდვა, მხოლოდ შესანიშნავი სიახლეები.
+footer-refresh-discover-mozilla-products = გაეცანით { -brand-name-mozilla }-ს პროდუქტებსა და წამოწყებებს. გპირდებით, რომ თქვენი ელფოსტა დარჩება პირადი და ხელშეუხებელი – ყოველგვარი გაზიარებისა და გაყიდვის გარეშე, მხოლოდ შესანიშნავი სიახლეების მოსაწოდებლად.
 footer-refresh-leadership = ხელმძღვანელობა
 footer-refresh-advertise = რეკლამა { -brand-name-mozilla }-სთან ერთად
-footer-refresh-firefox-release-notes = { -brand-name-firefox }-ის გამოშვების შენიშვნები
+footer-refresh-mozilla-advertising = { -brand-name-mozilla } – სარეკლამო
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = იხილეთ ვრცლად <span>{ footer-refresh-mozilla-advertising }</span>
+footer-refresh-firefox-release-notes = { -brand-name-firefox } – გამოშვების შენიშვნები
+footer-refresh-privacy-first = პირადულობის უწინარესობის გათვალისწინებით რეკლამა ბრენდების, გამომცემლებისა და პლატფორმებისთვის.
+footer-refresh-mdn-v2 = { -brand-name-mdn }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = გამოიწერეთ @{ -brand-name-mozilla }
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -23,8 +28,6 @@ footer-refresh-support = მხარდაჭერა
 footer-refresh-product-help = დახმარების მიღება
 footer-refresh-file-a-bug = ხარვეზის მოხსენება
 footer-refresh-localize-mozilla = თარგმნეთ { -brand-name-mozilla }
-footer-refresh-resources = მასალები
-footer-refresh-brand-standards = სავაჭრო ნიშნები
 footer-refresh-developers = შემმუშავებლები
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

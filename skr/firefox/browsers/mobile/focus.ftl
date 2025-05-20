@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/mobile/focus/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: رازداری براؤزر
@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = بس نجی موبائل براؤزنگ
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } تہاݙا سرشار رازداری براؤزر ہے جیندے وِچ آپوں ڄاݨ ٹریکنگ تحفظ ہے۔ { -brand-name-focus } دے نال تہاݙے ورقے تکھاجی نال لوڈ تھیندے ہن تے تہاݙا ڈیٹا نجی رہندا ہے۔
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } ݙوہیں { -brand-name-ios } تے { -brand-name-android }{ -brand-name-android } ڈیوائساں کیتے دستیاب ہے۔
 mobile-focus-get-firefox-focus = { -brand-name-firefox-focus } گھنو
-mobile-focus-send-a-download-link-to-your = آپݨے فون تے ہک ڈاؤن لوڈ لنک پٹھو۔
 mobile-focus-scan-the-qr-code-to-get-started = شروع کرݨ کیتے QR کوڈ سکین کرو
 mobile-focus-scan-alt-text = { -brand-name-firefox-focus } حاصل کرݨ کیتے QR کوڈ سکین کرو۔
 mobile-focus-delete-your-history = آپݨی تاریخ مٹاؤ

@@ -2,12 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.springfield.moz.works/windows/
+### URL: https://www-dev.allizom.org/firefox/windows/
 
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = kostenloser Browser
-new-platform-download-firefox = { -brand-name-firefox } herunterladen
 new-platform-download-the-fastest = Jetzt den schnellsten { -brand-name-firefox } aller Zeiten herunterladen
 new-platform-faster-page-loading = Der neue { -brand-name-firefox }: schnellere Seitenladezeiten, weniger Speicherverbrauch und vollgepackt mit neuen Funktionen.
 new-platform-2x-faster = 2x schneller als vorher
@@ -26,9 +25,6 @@ new-platform-download-the-fastest-linux = Jetzt den schnellsten { -brand-name-fi
 
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Der neue { -brand-name-firefox } für { -brand-name-linux }: schnellere Seitenladezeiten, weniger Speicherverbrauch und vollgepackt mit neuen Funktionen.
-
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } für { -brand-name-linux }
 
 new-platform-privacy-more-than = Privatsphäre ist unsere Einstellung
 new-platform-your-life-your-business = Was du online machst, geht nur dich etwas an. { -brand-name-firefox } blockiert in { -brand-name-linux } Cookies von Drittanbietern.

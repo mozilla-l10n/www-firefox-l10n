@@ -20,29 +20,15 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = 더 새로운 { -brand-name-firefox }를 사용할 수 있습니다. <a { $update_url }>최신 버전으로 업데이트</a>
 firefox-desktop-download-get-the-browser = 여러분에게 중요한 것을 먼저 생각하는 브라우저
-# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-fast-reliable-private = 빠르고, 안정적이며, 사생활 보호 — 온라인에서 마음의 평화를
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = 광고주를 위한 복잡한 개인 정보 보호 정책이나 백도어가 없습니다. 여러분을 상품으로 취급하는 브라우저가 아닙니다.
 firefox-desktop-download-download-options = 다운로드 선택 및 기타 언어
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } 도움말
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = 온라인에서 어떤 일을 하든지 <br>{ -brand-name-firefox-browser } 가 <strong>도와드리겠습니다</strong>.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = 여러분이 온라인에서 무엇을 하든지<br> { -brand-name-firefox-browser }는 <strong>지켜보지 않습니다!</strong>
-firefox-desktop-download-how-firefox-compares = { -brand-name-firefox }와 다른 브라우저 비교
-firefox-desktop-download-get-all-the-speed = 개인 정보 침해 없이 빠른 속도의 경험을 만끽하세요. { -brand-name-firefox-browser }는 여러분에 대한 데이터를 거의 수집하지 않으므로, 다운로드 할 때도 이메일 주소가 필요하지 않습니다. 다른 브라우저와 달리 온라인에서 여러분을 수익의 한 부분으로 보지 않기 때문입니다.
-firefox-desktop-download-how-we-compare = 다른 브라우저와 비교하기
-firefox-desktop-download-compare-firefox-to = { -brand-name-firefox }와 비교:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = 예
-firefox-desktop-download-no = 아니오
-firefox-desktop-download-blocks-third-party = 제3자 추적 쿠키 차단
-firefox-desktop-download-blocks-third-party-default = 기본적으로 제3자 추적 쿠키 차단
-firefox-desktop-download-autoplay-blocking = 자동 재생 차단
-firefox-desktop-download-blocks-social-trackers = 소셜 추적기 차단
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = 사용 가능 OS
-firefox-desktop-download-in-browser-screenshot = 브라우저 내 스크린샷 도구
-firefox-desktop-download-primary-password = 기본 비밀번호
 firefox-desktop-download-we-block-the-ad = 저희는 광고 추적기를 차단합니다. 여러분은 인터넷을 더 빨리 탐험할 수 있습니다.
 firefox-desktop-download-ads-are-distracting = 온라인 광고는 주의를 산만하게 하고 웹 페이지 로딩 속도를 느리게 만듭니다. 광고에 있는 추적기는 온라인에서 이루어지는 여러분의 모든 활동을 감시합니다. { -brand-name-firefox-browser }는 대부분의 추적기를 자동으로 차단하므로 데이터 보안에 뛰어납니다.
 firefox-desktop-download-see-your-report = 보호 대시보드 살펴보기
@@ -128,6 +114,10 @@ firefox-desktop-download-from-security-to = 뉴스, 게임에서 보안에 이�
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox }는 <a { $attrs }>{ -brand-name-mozilla }</a>에 의해 과거 가장 많이 사용하던 { -brand-name-ie }와 오늘날 { -brand-name-chrome } 같은 상업용 브라우저에 대한 대안으로 만들어졌습니다. 우리는 사용자 중심의 사명과 자원 봉사 커뮤니티를 기반으로 개인 정보 보호를 다른 무엇보다 우선하고 있습니다.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = 인터넷이 성장하고 변화함에 따라 { -brand-name-firefox }는 계속해서 사용자의 개인 정보를 보호할 권리에 초점을 맞추고 있습니다. 이는 항상 저희의 관심사였습니다. <a { $attrs }>개인정보 보호정책</a>에서 데이터가 다루어지는 방법에 대해 자세히 알아보세요.
+# Obsolete string (expires: 2025-04-17)
+# Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = 인터넷이 변화하고 성장함에 따라 { -brand-name-firefox }는 계속해서 개인 정보 보호 권리에 초점을 맞추고 있습니다. 이를 <a { $attrs }>개인 데이터 보호 약속</a>이라고 합니다. { -brand-name-firefox }는 투명하게 데이터 수집을 최소화 하면서 개인 정보를 보호하고 있습니다.
 # Variables:
@@ -142,7 +132,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox }는 자�
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = 질문이 있으십니까? <a { $attrs }>{ -brand-name-mozilla } 도움말</a>을 참고하세요.
-firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor }로 해커를 감시하고 { -brand-name-firefox-relay }로 이메일 주소를 보호하는 등의 일을 할 수 있습니다.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -165,18 +154,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = 실행할 때 설치한 앱이 { -brand-name-microsoft }가 확인한 앱이 아니라는 표시가 나오면 “계속 설치”를 누르거나 <a { $attrs }>앱 추천 설정 변경</a>을 누르세요.
 firefox-desktop-download-visit-support-for-more = 더 자세한 내용을 위해 지원 방문
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla }는 { -brand-name-windows } { -brand-name-xp }나 { -brand-name-vista }에서 <a href="{ $url }">더 이상 보안 업데이트를 제공하지 않습니다</a>. 하지만 아직 { -brand-name-firefox }를 계속 사용할 수는 있습니다.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = 다운로드가 자동으로 시작됩니다. 그렇지 않다면 <a id="{ $id }" href="{ $fallback_url }">다시 시도해 보세요</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }는 브라우저 그 이상입니다.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = 다운로드가 중단되었습니다. 하지만 모두 손실되지는 않았습니다.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = { -brand-name-firefox } 설치를 위해 <a href="{ $url }">설치 방법</a>을 확인하세요.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = 시스템이 { -brand-name-firefox } 설치 요구 사항을 충족하지 않지만 <a href="{ $url }">이 버전</a> 중 하나를 사용할 수 있습니다.

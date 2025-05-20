@@ -16,21 +16,14 @@ navigation-refresh-mozilla-manifesto-v2 = Η Διακήρυξη της { -brand-
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Συμμετοχή
 navigation-refresh-get-involved-v2 = Συμμετοχή
-navigation-refresh-innovation-projects = Έργα καινοτομίας
-navigation-refresh-innovation-projects-v2 = Έργα καινοτομίας
 navigation-refresh-blog = Ιστολόγιο
 navigation-refresh-our-mission = Η αποστολή μας
 navigation-refresh-our-work = Το έργο μας
 navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } Advertising
+navigation-refresh-mozilla-new-products = Νέα προϊόντα της { -brand-name-mozilla }
 
 ## Firefox
 

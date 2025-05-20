@@ -62,16 +62,11 @@ firefox-developer-master-innovative-features = Functionalitates innovative
 firefox-developer-want-to-be-on-the-cutting-edge = Vole tu esser al vanguarda?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } es actualisate quotidianmente e te permitte de acceder al nove functionalitates menses ante le disponibilitate general.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } es le sol navigator con applicationes integrate specificamente designate pro le projecto e le production con le grillia CSS. Iste utensiles te permitte de visualisar le grillia, monstrar le nomine de area associate, le pre-visualisation del transformationes sur le grillia e multo de plus.
-firefox-developer-convenient-features = Functionalitates conveniente
-firefox-developer-shapes-editor = Editor de formas
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = Gratias al nove editor pro traciar formas de { -brand-name-firefox-devtools }, es finite le necessitate de divinar quando tu tracia le trajectorias precise de contorno e de retalio de tu objectos. Iste adjustamentos es facile e intuitive con le nove editor visual.
-firefox-developer-firefox-devtools-has-a-brand-new = Gratias al nove editor pro traciar formas de { -brand-name-firefox-devtools }, es finite le necessitate de divinar quando tu tracia le trajectorias precise de umbra e de retalio de tu objectos. Iste adjustamentos es facile e intuitive con le nove editor visual.
 firefox-developer-faster-innovation = Informationes plus rapide
 firefox-developer-fonts-panel = Pannello de typos de litteras
 firefox-developer-the-new-fonts-panel = Le nove quadro de typos de litteras in { -brand-name-firefox-devtools } da al disveloppatores rapide accesso a tote le informationes que illos require sur le typos de litteras a usar in un elemento. Illo etiam include importante informationes como le fonte del typo de litteras, peso, stilo e multo plus.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } invia automaticamente feedback a { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Discarga le navigator { -brand-name-firefox } dedicate al disveloppatores
-firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } ha essite reconstruite ab ovo pro ser plus rapide, elegante, e plus potente que mais.
 firefox-developer-welcome-to-firefox-developer-edition = Benvenite in { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Le navigator dedicate a disveloppatores
 firefox-developer-all-the-latest-v2 = Tote le ultime utensiles de disveloppator in beta in addition a functionalitates como le Redactor de consola multilinea e le Inspector de WebSocket.
@@ -84,9 +79,21 @@ firefox-developer-view-the-release = Vider le <a { $attrs }>notas de version</a>
 firefox-developer-developer-tools-user = Documentation pro usator de utensiles de disveloppator
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Ressources pro disveloppatores, per disveloppatores.
+firefox-developer-mdn-playground = Corte de joco
+firefox-developer-mdn-write-test-and-share = Scribe, verifica e comparti tu codice. Tu corte de joco pro apprender e compartir tu stupende labor con le mundo.
+firefox-developer-mdn-blog = Blog de { -brand-name-mdn }
+firefox-developer-mdn-unlock-the-world = Disbloca le mundo del disveloppamento del web con le blog de { -brand-name-mdn }, tu centro de referentia pro discernimentos experte, ultime standards web, e consilios pro le codification.
+firefox-developer-mdn-updates = Actualisationes
+firefox-developer-mdn-the-web-doesnt-have = Le web non ha un lista del modificationes, ma { -brand-name-mdn } pote adjutar. Tu pote personalisar e filtrar le cambiamentos de compatibilitate in base al navigatores o al categoria technologic que te interessa sia que es JavaScript, CSS, etc.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Referentias { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } es un projecto in collaboration open-source que documenta technologias de platteforma web, includite CSS, HTML, JavaScript e APIs web.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = Curriculum de { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = Un guida structurate al competentias e practicas essential pro esser un succedite disveloppator de interfacie anterior, insimul con ressources recommendate de erudition.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = Supporta { -brand-name-mdn } e personalisa lo con collectiones, notificationes, e areas de joco.

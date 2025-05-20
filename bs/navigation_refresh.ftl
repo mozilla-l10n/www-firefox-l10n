@@ -16,21 +16,14 @@ navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla } Manifesto
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Uključite se
 navigation-refresh-get-involved-v2 = Uključite se
-navigation-refresh-innovation-projects = Inovacijski projekti
-navigation-refresh-innovation-projects-v2 = Inovacijski projekti
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Naša misija
 navigation-refresh-our-work = Naš rad
 navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } poduhvati
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } oglašavanje
+navigation-refresh-mozilla-new-products = { -brand-name-mozilla } novi proizvodi
 
 ## Firefox
 

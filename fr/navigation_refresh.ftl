@@ -17,25 +17,14 @@ navigation-refresh-mozilla-manifesto-v2 = Le Manifeste { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Contribuer
 navigation-refresh-get-involved-v2 = Participer
-navigation-refresh-innovation-projects = Projets d’innovation
-navigation-refresh-innovation-projects-v2 = Projets d’innovation
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Notre mission
 navigation-refresh-our-work = Notre travail
 navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
-
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } IA
-
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
-
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = Projets { -brand-name-mozilla }
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } publicité
+navigation-refresh-mozilla-new-products = Nouveaux produits { -brand-name-mozilla }
 
 ## Firefox
 

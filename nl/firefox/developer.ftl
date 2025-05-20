@@ -62,16 +62,11 @@ firefox-developer-master-innovative-features = Innovatieve functies
 firefox-developer-want-to-be-on-the-cutting-edge = Wilt u vooruit blijven lopen?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } ontvangt dagelijks updates en biedt vroege toegang tot functies voordat ze worden vrijgegeven.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } is de enige browser met hulpmiddelen die specifiek zijn gemaakt voor het bouwen en ontwerpen met CSS Grid. Met deze hulpmiddelen kunt u het raster visualiseren, gekoppelde gebiedsnamen weergeven, voorbeelden van transformaties op het raster bekijken, en veel meer.
-firefox-developer-convenient-features = Handige functies
-firefox-developer-shapes-editor = Vormen-editor
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } heeft een hagelnieuwe ‘shape path editor’ die giswerk uit het fijnafstemmen van uw ‘shape-outside’- en ‘clip-path’-vormen haalt doordat u aanpassingen eenvoudig kunt optimaliseren met een visuele editor.
-firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } heeft een hagelnieuwe ‘shape path editor’ die giswerk uit het fijnafstemmen van uw ‘shape-outside’- en ‘clip-path’-vormen haalt doordat u aanpassingen eenvoudig kunt optimaliseren met een visuele editor.
 firefox-developer-faster-innovation = Snellere informatie
 firefox-developer-fonts-panel = Paneel Lettertypen
 firefox-developer-the-new-fonts-panel = Het nieuwe paneel Lettertypen in { -brand-name-firefox-devtools } geeft ontwikkelaars snelle toegang tot alle nodige informatie over de in een element gebruikte lettertypen. Het bevat ook waardevolle informatie zoals de bron, stijl en het gewicht van een lettertype, en meer.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } verzendt automatisch feedback naar { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Download de { -brand-name-firefox }-browser die gemaakt is voor ontwikkelaars
-firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } is volledig opnieuw opgebouwd om sneller, strakker en krachtiger te zijn dan ooit tevoren.
 firefox-developer-welcome-to-firefox-developer-edition = Welkom bij { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = De browser gemaakt voor ontwikkelaars
 firefox-developer-all-the-latest-v2 = Alle nieuwste ontwikkelaarstools in beta, naast functies zoals de Multi-line Console Editor en WebSocket Inspector.
@@ -84,9 +79,21 @@ firefox-developer-view-the-release = Bekijk de <a { $attrs }>uitgaveopmerkingen<
 firefox-developer-developer-tools-user = Ontwikkelaarshulpmiddelen-gebruikersdocumenten
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Hulpbronnen voor ontwikkelaars, door ontwikkelaars
+firefox-developer-mdn-playground = Playground
+firefox-developer-mdn-write-test-and-share = Schrijf, test en deel uw code. Uw speeltuin om te leren en uw geweldige werk met de wereld te delen.
+firefox-developer-mdn-blog = { -brand-name-mdn }-blog
+firefox-developer-mdn-unlock-the-world = Ontgrendel de wereld van webontwikkeling met de { -brand-name-mdn }-blog – uw favoriete plek voor inzichten van experts, de nieuwste webstandaarden en codetips.
+firefox-developer-mdn-updates = Updates
+firefox-developer-mdn-the-web-doesnt-have = Het web heeft geen wijzigingsoverzicht, maar { -brand-name-mdn } kan helpen. U kunt compatibiliteitswijzigingen personaliseren en filteren op basis van browsers of de technische categorie waarin u bent geïnteresseerd, of dat nu JavaScript, CSS, enz. is.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn }-referenties
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } is een opensource samenwerkingsproject dat webplatformtechnologieën documenteert, waaronder CSS, HTML, JavaScript en web-API’s.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn }-curriculum
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = Een gestructureerde gids voor de essentiële vaardigheden en praktijken om een succesvolle front-end-ontwikkelaar te zijn, samen met aanbevolen leerbronnen.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = Ondersteun { -brand-name-mdn } en maak het van uzelf met collecties, notificaties en speelterreinen.

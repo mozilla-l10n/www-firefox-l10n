@@ -19,28 +19,14 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Samo nowši { -brand-name-firefox } je k dispoziciji. <a { $update_url }>Na najnowšu wersiju aktualizować</a>
 firefox-desktop-download-get-the-browser = Wobstarajće sej wobhladowak, kotryž škita, štož je wažne.
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Žane dwělomne prawidła priwatnosće abo zadnje durčki za wabjerjow. Jenož błyskospěšny wobhladowak, kotryž was njewobšudźa.
 firefox-desktop-download-download-options = Sćehnjenske móžnosće a druhe rěče
 firefox-desktop-download-browser-support = Pomoc wo { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Čińće online, štož chceće.<br> { -brand-name-firefox-browser } was <strong>škita</strong>.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Čińće online, štož chceće.<br> { -brand-name-firefox-browser } <strong>nje</strong>přihladuje.
-firefox-desktop-download-how-firefox-compares = Přirunanje mjez { -brand-name-firefox } a druhimi wobhladowakami
-firefox-desktop-download-how-we-compare = Kak porno druhim wobhladowakam wotrězujemy
-firefox-desktop-download-compare-firefox-to = Přirunajće { -brand-name-firefox } z:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Haj
-firefox-desktop-download-no = Ně
-firefox-desktop-download-blocks-third-party = Blokuje slědowanske placki třećich poskićowarjow
-firefox-desktop-download-blocks-third-party-default = Blokuje slědowanske placki třećich poskićowarjow po standardźe
-firefox-desktop-download-autoplay-blocking = Blokowanje awtomatiskeho wothrawanja
-firefox-desktop-download-blocks-social-trackers = Blokuje přesćěhowaki socialnych syćow
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Disponujomnosć dźěłowych systemow
-firefox-desktop-download-in-browser-screenshot = Nastroj za fota wobrazowki we wobhladowaku
-firefox-desktop-download-primary-password = Hłowne hesło
 firefox-desktop-download-we-block-the-ad = My blokujemy wabjenske přesćěhowaki. Wy přeslědźeće internet spěšnišo.
 firefox-desktop-download-ads-are-distracting = Wabjenje wotwjedźe a wjedźe k tomu, zo so webstrony pomałšo začituja, mjeztym zo přesćěhowaki kóždy pohib wobkedźbuja, kotryž online činiće. { -brand-name-firefox-browser } najwjace přesćěhowakow awtomatisce blokuje, tohodla njetrjebaće so do swojich wěstotnych nastajenjow zaryć.
 firefox-desktop-download-see-your-report = Wašu škitnu rozprawu pokazać
@@ -65,7 +51,7 @@ firefox-desktop-download-sync-across-devices = Synchronizacija mjez gratami
 firefox-desktop-download-reader-mode = Čitanski modus
 firefox-desktop-download-spell-check = Prawopisna kontrola
 firefox-desktop-download-pinned-tabs = Připjate rajtarki
-firefox-desktop-download-stream-share-play = Prudźić, dźělić a hrać
+firefox-desktop-download-stream-share-play = Streamować, dźělić a hrać
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Awtomatiske wothrawanje widejow a awdio blokować
 # Picture-in-Picture is a feature names and so is capitalized in English
@@ -125,6 +111,7 @@ firefox-desktop-download-from-security-to = Wot wěstoty přez powěsće do hra�
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } je so wot <a { $attrs }>{ -brand-name-mozilla }</a> jako spěšniša, bóle priwatna alternatiwa k wobhladowakam kaž { -brand-name-ie }, a nětko { -brand-name-chrome } wutworił. Dźensa naše předewzaće a zhromadźenstwo dobrowólnikow hišće našej misiji slědujetej, zo byštej waš priwatnosć nade wšěm stajiłoj.
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Mjeztym zo internet rosće a so měnja, staja { -brand-name-firefox } dale swój fokus na waše prawo na priwatnosć – mjenujemy to <a { $attrs }>slubjenje na wosobinske daty</a>: Hromadźće mjenje. Dźeržće jón wěsty. Žane potajnstwa. Waše daty, waša webaktiwita, waše žiwjenje online so přez { -brand-name-firefox } škitaja.
@@ -140,7 +127,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Maće prašenja? <a { $attrs }>Pomoc { -brand-name-mozilla }</a> budźe wam pomhać.
-firefox-desktop-download-watch-for-hackers-with-v3 = Wobkedźbujće hackerow z { -brand-name-mozilla-monitor }, škitajće swoju e-mejlowu adresu z { -brand-name-firefox-relay } a wjace.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -163,18 +149,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = Jeli namołwu widźiće, kotraž zdźěla, zo nałoženje, kotrež chceće instalować, njeje wot { -brand-name-microsoft } přepruwowane, klikńće na „Najebać toho instalować“ abo <a { $attrs }>změńće doporučenske nastajenja nałoženja</a>.
 firefox-desktop-download-visit-support-for-more = Wopytajće strony pomocy za dalše podrobnosće
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">hižo wěstotne aktualizacije</a> na { -brand-name-windows } { -brand-name-xp } abo { -brand-name-vista } njeposkića, ale móžeće hišće { -brand-name-firefox } wužiwać.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Waše sćehnjenje dyrbjało so awtomatisce započeć. Njefunguje? <a id="{ $id }" href="{ $fallback_url }">Sćehńće znowa</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je wjace hač wobhladowak.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Waše sćehnjenje je so přetorhnyło. Ale wšitko zhubjene njeje.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Prošu slědujće <a href="{ $url }">tutym instrukcijam</a> za instalowanje { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Waš system najskerje žadanjam { -brand-name-firefox } njewotpowěduje, ale móžeće jednu z <a href="{ $url }">tutych wersijow</a> wupytać.

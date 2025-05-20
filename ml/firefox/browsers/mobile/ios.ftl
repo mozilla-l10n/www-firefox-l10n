@@ -3,6 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/mobile/ios/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
 
 mobile-ios-your-browsing-history = താങ്ങളുടെ തിരച്ചിൽ നാൾവഴി പഴപ്പാടാണു്

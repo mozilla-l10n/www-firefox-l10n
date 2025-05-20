@@ -3,6 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-refresh-mozilla = { -brand-name-mozilla }
+# An accessible label used to describe that the role of the element is the primary website navigation.
+navigation-refresh-landmark-label = 주요 항목
 
 ## About us
 
@@ -14,20 +16,14 @@ navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla } 선언문
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = 참여하기
 navigation-refresh-get-involved-v2 = 참여하기
-navigation-refresh-innovation-projects = 혁신 프로젝트
-navigation-refresh-innovation-projects-v2 = 혁신 프로젝트
 navigation-refresh-blog = 블로그
 navigation-refresh-our-mission = 사명
 navigation-refresh-our-work = 주요 업무
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
+navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } 벤처스
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } 광고
+navigation-refresh-mozilla-new-products = { -brand-name-mozilla } 새 제품
 
 ## Firefox
 

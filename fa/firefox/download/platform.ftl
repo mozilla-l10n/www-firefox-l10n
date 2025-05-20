@@ -3,13 +3,12 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/windows/
+### URL: https://www-dev.allizom.org/firefox/windows/
 
 
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = مرورگر وب رایگان
-new-platform-download-firefox = دریافت { -brand-name-firefox }
 new-platform-download-the-fastest = سریع‌ترین { -brand-name-firefox } را دریافت کنید
 new-platform-faster-page-loading = بارگیری سریع‌تر صفحات، استفاده کمتر از مموری و مملو از امکانات جدید، { -brand-name-firefox } جدید اینجاست.
 new-platform-2x-faster = ۲ برابر سریع‌تر

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/mobile/focus/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Webbläsaren med integritet
@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = Enkel, privat, mobilsurfning
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } är din dedikerade integritetswebbläsare med automatiskt spårningsskydd. Med { -brand-name-focus } laddas dina sidor snabbare och din data förblir privat.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } är tillgänglig för både { -brand-name-ios } och { -brand-name-android }-enheter.
 mobile-focus-get-firefox-focus = Hämta { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = Skicka en nedladdningslänk till din telefon.
 mobile-focus-scan-the-qr-code-to-get-started = Skanna QR-koden för att komma igång
 mobile-focus-scan-alt-text = Skanna QR-koden för att hämta { -brand-name-firefox-focus }
 mobile-focus-delete-your-history = Ta bort din historik

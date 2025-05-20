@@ -16,18 +16,11 @@ navigation-refresh-mozilla-manifesto-v2 = Manifesti i { -brand-name-mozilla }-s
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Përfshihuni
 navigation-refresh-get-involved-v2 = Përfshihuni
-navigation-refresh-innovation-projects = Projekte risore
-navigation-refresh-innovation-projects-v2 = Projekte Risore
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Misioni Ynë
 navigation-refresh-our-work = Puna Jonë
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = IA { -brand-name-mozilla }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
+navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = Reklama { -brand-name-mozilla }
 

@@ -21,29 +21,20 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Es gibt eine noch neuere Version von { -brand-name-firefox }. <a { $update_url }>Auf die neueste Version aktualisieren</a>
 
 firefox-desktop-download-get-the-browser = Der Browser, der das schützt, was dir wichtig ist
-# shady is slang which suggests something is untrustworthy
+
+firefox-desktop-download-fast-reliable-private = Schnell, verlässlich und privat – sorgenfrei online.
+
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Keine zwielichtigen Datenschutzhinweise oder Hintertürchen für Werbetreibende. Nur ein blitzschneller Browser, der deine Privatsphäre respektiert.
+
 firefox-desktop-download-download-options = Download-Optionen und weitere Sprachen
 firefox-desktop-download-browser-support = Hilfe zu { -brand-name-firefox-browser }
+
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Tu online, was du online tun willst.<br> { -brand-name-firefox-browser } <strong>kümmert</strong> sich um dich.
+
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Tue online, was du online tun willst.<br> { -brand-name-firefox-browser } schaut dabei <strong>nicht</strong> zu.
-firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } im Vergleich zu anderen Browsern
-firefox-desktop-download-get-all-the-speed = Hol dir Geschwindigkeit und smarte Tools, ohne an Privatsphäre einzubüßen. Der { -brand-name-firefox-browser } sammelt nur sehr wenige Daten von dir – du musst nicht einmal deine E-Mail-Adresse hergeben, um den Browser herunterzuladen. Im Gegensatz zu anderen Browsern haben wir kein finanzielles Interesse daran, deine Aktivitäten im Web zu verfolgen.
-firefox-desktop-download-how-we-compare = Wie wir im Vergleich zu anderen Browsern dastehen
-firefox-desktop-download-compare-firefox-to = Vergleiche { -brand-name-firefox } mit:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Ja
-firefox-desktop-download-no = Nein
-firefox-desktop-download-blocks-third-party = Blockt Tracking-Cookies von Drittanbietern
-firefox-desktop-download-blocks-third-party-default = Blockiert standardmäßig Tracking-Cookies von Drittanbietern
-firefox-desktop-download-autoplay-blocking = Blockt von Autoplay
-firefox-desktop-download-blocks-social-trackers = Blockt Social-Media-Tracker
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Verfügbarkeit für Betriebssysteme
-firefox-desktop-download-in-browser-screenshot = Bildschirmfoto-Werkzeug im Browser
-firefox-desktop-download-primary-password = Hauptpasswort
 
 firefox-desktop-download-we-block-the-ad = Wir blocken Werbe-Tracker. Du surfst schneller durchs Web.
 firefox-desktop-download-ads-are-distracting = Werbung nervt, verlangsamt das Laden von Webseiten und trackt deine Aktivitäten im Internet. Der { -brand-name-firefox-browser } blockt die meisten dieser Tracker einfach automatisch, ohne dass du es selbst noch einstellen musst.
@@ -134,6 +125,11 @@ firefox-desktop-download-from-security-to = Für jeden was dabei: egal, ob Siche
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } wurde von <a { $attrs }>{ -brand-name-mozilla } </a> als schnellere, privatere Alternative zu Browsern wie { -brand-name-ie } und jetzt { -brand-name-chrome } entwickelt. Unser Unternehmen und unsere Community folgen auch heute noch der Mission, Menschen über Profit zu stellen.
 
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Das Internet wächst und verändert sich, aber bei { -brand-name-firefox } dreht sich weiter alles um dein Recht auf Datenschutz – so war es schon immer. Erfahre in unserem Datenschutzhinweis mehr über unsere <a { $attrs }>Datenschutzpraktiken</a>.
+
+# Obsolete string (expires: 2025-04-17)
+# Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Während das Internet wächst und sich verändern, konzentriert sich { -brand-name-firefox } weiterhin auf den Schutz Ihrer Daten – wir nennen das unser <a { $attrs }>Versprechen für Ihre personenbezogenen Daten</a>: Weniger sammeln. Sicher aufbewahren. Keine Geheimnisse. Ihre Daten, Ihre Webaktivitäten, Ihre Leben online ist mit { -brand-name-firefox } geschützt.
 
@@ -152,8 +148,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Hast du Fragen? Die <a { $attrs }>{ -brand-name-mozilla }-Hilfe</a> ist für dich da.
-
-firefox-desktop-download-watch-for-hackers-with-v3 = Halten Sie mit { -brand-name-mozilla-monitor } nach Hackern Ausschau, schützen Sie Ihre E-Mail-Adresse mit { -brand-name-firefox-relay } und mehr.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -178,10 +172,6 @@ firefox-desktop-download-if-you-see-a-prompt = Wenn du aufgefordert wirst, anzug
 firefox-desktop-download-visit-support-for-more = Weitere Informationen erhältst du beim Support
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">bietet keine Sicherheitsaktualisierungen</a> auf { -brand-name-windows } { -brand-name-xp } oder { -brand-name-vista } mehr an, du kannst { -brand-name-firefox } aber weiterhin nutzen.
-
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Dein Download startet automatisch. Klappt nicht? <a id="{ $id }" href="{ $fallback_url }">Starte den Download erneut</a>.
@@ -189,10 +179,6 @@ firefox-desktop-download-your-firefox-new-should-begin = Dein Download startet a
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ist mehr als nur ein Browser.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Ihr Download wurde unterbrochen. Aber es ist nicht alles verloren.
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Bitte folgen Sie <a href="{ $url }">dieser Anleitung</a>, um { -brand-name-firefox } zu installieren.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/

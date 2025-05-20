@@ -16,18 +16,10 @@ navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla } manifest
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Uključi se
 navigation-refresh-get-involved-v2 = Uključi se
-navigation-refresh-innovation-projects = Projekti inovacija
-navigation-refresh-innovation-projects-v2 = Projekti inovacija
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Naša misija
 navigation-refresh-our-work = Naš rad
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } UI
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } investicijski fondovi
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } oglašavanje
 

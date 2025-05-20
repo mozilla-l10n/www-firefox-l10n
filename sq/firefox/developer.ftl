@@ -62,16 +62,11 @@ firefox-developer-master-innovative-features = Veçori Risore
 firefox-developer-want-to-be-on-the-cutting-edge = Doni të jeni në pararojë?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } merr përditësime të përditshme dhe ju lejon të përdorni veçori muaj më parë se të bëhen pronë e kujtdo.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox }-i është shfletuesi i vetëm me mjete të krijuara posaçërisht për hartim dhe krijim me Rrjetë CSS. Këto mjete ju lejojnë të vizualizoni rrjetën, të shfaqni emra fushash, të parashihni transformime në rrjetë dhe shumë të tjera.
-firefox-developer-convenient-features = Veçoritë të Volitshme
-firefox-developer-shapes-editor = Përpunues Formash
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } ka një përpunues shtigjesh formash fringo të ri, që i heq hamendësimet përimtimit të formave tuaja shape-outside dhe clip-path, duke ju lejuar të përimtoni fare kollaj përshtatjet tuaja përmes një përpunuesi pamor.
-firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } ka një përpunues shtigjesh formash fringo të ri, që i heq hamendësimet përimtimit të formave tuaja shadow-outside dhe clip-path, duke ju lejuar të përimtoni fare kollaj përshtatjet tuaja përmes një përpunuesi pamor.
 firefox-developer-faster-innovation = Informacion Më i Shpejtë
 firefox-developer-fonts-panel = Panel Shkronjash
 firefox-developer-the-new-fonts-panel = Paneli i ri i shkronjave te { -brand-name-firefox-devtools } në Firefox u jep zhvilluesve hyrje të shpejtë në krejt të dhënat që ata kanë nevojë mbi shkronjat e përdorura në një element. Në të përfshihen edhe të dhëna të dobishme të tilla si burimi, madhësia, stili i shkronjave, etj .
 firefox-developer-firefox-developer-edition-sends = Versioni { -brand-name-firefox-developer-edition } dërgon vetvetiu të dhëna te { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Shkarkoni shfletuesin { -brand-name-firefox } të krijuar për zhvillues
-firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox }-i është rikrijuar nga e para për të qenë më i shpejtë, më i zhdërvjellët dhe më i fuqishëm se kurrë.
 firefox-developer-welcome-to-firefox-developer-edition = Mirë se vini te { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Shfletuesi i ndërtuar për zhvilluesit
 firefox-developer-all-the-latest-v2 = Krejt mjetet më të reja të zhvillimit në beta, plus veçori si Multi-line Console Editor dhe WebSocket Inspector.
@@ -84,9 +79,19 @@ firefox-developer-view-the-release = Për të parë çka të re, shihni <a { $at
 firefox-developer-developer-tools-user = Dokumentime për Përdorues Mjetesh Zhvilluesi
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Burime nga Zhvillues, për Zhvillues
+firefox-developer-mdn-playground = Laborator
+firefox-developer-mdn-write-test-and-share = Shkruani, testoni dhe ndan me të tjerë kodin tuaj. Bankëprova juaj për të mësuar dhe ndarë me botën punën tuaj mahnitëse.
+firefox-developer-mdn-blog = Blogu i { -brand-name-mdn }
+firefox-developer-mdn-updates = Përditësime
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Referenca { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } është një projekt me burim të hapët, që zhvillohet përmes bashkëpunimi, për dokumentim teknologjish platformash web, përfshi CSS, HTML, JavaScript dhe API web.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = Curriculum { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = Një udhërrëfyes i strukturuar rreth aftësish thelbësore dhe praktikash për të filluar të jeni një zhvillues i suksesshëm <em>front-end</em>, tok me burime të rekomanduara të nxëni.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = Përkrahni { -brand-name-mdn } dhe bëjeni si e doni, me koleksione, njoftime dhe bankëprova eksperimentesh.

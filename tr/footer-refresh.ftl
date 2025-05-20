@@ -5,10 +5,15 @@
 footer-refresh-discover-mozilla-products = { -brand-name-mozilla } ürünlerini ve girişimlerini keşfedin. E-postanızı gizli ve güvende tutacağımıza söz veriyoruz: E-postanızı asla paylaşmıyor ve satmıyor, sadece haber göndermek için kullanıyoruz.
 footer-refresh-leadership = Yönetim
 footer-refresh-advertise = { -brand-name-mozilla } ile Reklam Verin
+footer-refresh-mozilla-advertising = { -brand-name-mozilla } Advertising
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = <span>{ footer-refresh-mozilla-advertising } hakkında</span> bilgi alın
 footer-refresh-firefox-release-notes = { -brand-name-firefox } Sürüm Notları
+footer-refresh-privacy-first = Markalar, yayıncılar ve platformlar için gizliliğe önem veren reklamcılık çözümleri.
+footer-refresh-mdn-v2 = { -brand-name-mdn }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla }’yı takip edin
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -23,8 +28,6 @@ footer-refresh-support = Destek
 footer-refresh-product-help = Ürün Yardımı
 footer-refresh-file-a-bug = Hata Bildirin
 footer-refresh-localize-mozilla = { -brand-name-mozilla }’yı Yerelleştirin
-footer-refresh-resources = Kaynaklar
-footer-refresh-brand-standards = Marka Standartları
 footer-refresh-developers = Geliştiriciler
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

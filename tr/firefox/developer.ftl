@@ -62,16 +62,11 @@ firefox-developer-master-innovative-features = Yenilikçi özellikler
 firefox-developer-want-to-be-on-the-cutting-edge = En son teknolojiye sahip olmak ister misin?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } günlük güncellemeler alarak yeni özellikleri son kullanıcıya sunulmadan aylar önce denemenizi sağlar.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox }, CSS Grid ile tasarım yapmak için özel olarak geliştirilmiş araçları içeren tek tarayıcı. Bu araçlarla grid’i görselleştirebilir, ilgili alan adlarını görebilir, dönüşümleri ön izleyebilir ve çok daha fazlasını yapabilirsin.
-firefox-developer-convenient-features = Kullanışlı özellikler
-firefox-developer-shapes-editor = Şekil editörü
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools }nda artık yepyeni bir şekil editörü var: shape-outside ve clip-path şekillerine ince ayar yapmak için deneme yanılmaya gerek kalmadı. Görsel bir editörle düzenlemelerini yapabilirsin.
-firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools }’a yeni eklenen şekil yolu editörü, gölgeli ve clip-path’li şekillerine ince ayar yaparken deneme yanılma yapmak yerine görsel bir editörle kolayca her şeyi ayarlamanı sağlıyor.
 firefox-developer-faster-innovation = Daha hızlı bilgi
 firefox-developer-fonts-panel = Yazı tipleri paneli
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools }’a yeni eklenen yazı tipleri paneli, geliştiricilerin, sayfadaki bir elemanda kullanılan yazı tipleriyle ilgili tüm bilgilere kolayca ulaşmasını sağlıyor. Ayrıca yazı tipi kaynağı, ağırlığı, stili gibi önemli bilgileri de içeriyor.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } otomatik olarak { -brand-name-mozilla }’ya geri bildirim gönderir.
 firefox-developer-download-the-firefox-browser = Geliştiriciler için geliştirdiğimiz { -brand-name-firefox } tarayıcısını indir
-firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } hiç olmadığı kadar hızlı, çekici ve daha güçlü olması için sıfırdan inşa edildi.
 firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-developer-edition }’a hoş geldiniz
 firefox-developer-made-for-developers = Geliştiriciler için inşa edilmiş tarayıcı
 firefox-developer-all-the-latest-v2 = Betadaki tüm geliştirici araçlarının yanı sıra çok satırlı konsol editörü ve WebSocket denetçisi gibi ek özellikler.
@@ -84,9 +79,21 @@ firefox-developer-view-the-release = Yenilikleri görmek için <a { $attrs }>sü
 firefox-developer-developer-tools-user = Geliştirici Araçları Kullanıcı Belgeleri
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Geliştiriciler için, geliştiriciler tarafından hazırlanan kaynaklar
+firefox-developer-mdn-playground = Oyun alanı
+firefox-developer-mdn-write-test-and-share = Kodunuzu yazın, test edin ve paylaşın. Yeni şeyler öğrenmek ve çalışmalarınızı paylaşmak için kullanabileceğiniz bir oyun alanı.
+firefox-developer-mdn-blog = { -brand-name-mdn } Blog
+firefox-developer-mdn-unlock-the-world = { -brand-name-mdn } Blog ile web geliştirme dünyasını keşfe çıkın. Uzman içgörüleri, en yeni web standartları ve kodlama ipuçları sizi bekliyor.
+firefox-developer-mdn-updates = Güncellemeler
+firefox-developer-mdn-the-web-doesnt-have = Web’in changelog’u yok ama { -brand-name-mdn } size yardımcı olabilir. Uyumluluk değişikliklerini tarayıcılara veya ilgilendiğiniz teknoloji kategorisine (JavaScript, CSS vb.) göre kişiselleştirebilir ve filtreleyebilirsiniz.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } Belgeleri
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn }; CSS, HTML, JavaScript ve web API’leri dahil olmak üzere web platformu teknolojilerini belgeleyen açık kaynaklı, işbirliğine dayalı bir projedir.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn } Müfredatı
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = Başarılı bir front-end geliştiricisi olmak için temel beceri ve uygulamaların yanı sıra önerilen öğrenme kaynaklarını da içeren yapılandırılmış bir rehber.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = { -brand-name-mdn }’i destekleyin; koleksiyonlar, bildirimler ve oyun alanlarıyla kişiselleştirin.

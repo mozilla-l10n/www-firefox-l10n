@@ -5,10 +5,15 @@
 footer-refresh-discover-mozilla-products = Temukan produk dan inisiatif { -brand-name-mozilla }. Kami berkomitmen untuk menjaga privasi dan keamanan email Anda — tidak ada berbagi data, tidak ada penjualan informasi, hanya pembaruan yang bermanfaat.
 footer-refresh-leadership = Kepemimpinan
 footer-refresh-advertise = Beriklan dengan { -brand-name-mozilla }
+footer-refresh-mozilla-advertising = { -brand-name-mozilla } Advertising
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = Pelajari lebih lanjut <span>mengenai { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Catatan Rilis { -brand-name-firefox }
+footer-refresh-privacy-first = Solusi periklanan yang mengutamakan privasi untuk merek, penerbit, dan platform.
+footer-refresh-mdn-v2 = { -brand-name-mdn }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Ikuti @{ -brand-name-mozilla }
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -23,8 +28,6 @@ footer-refresh-support = Dukungan
 footer-refresh-product-help = Bantuan Produk
 footer-refresh-file-a-bug = Laporkan Masalah
 footer-refresh-localize-mozilla = Lokalkan { -brand-name-mozilla }
-footer-refresh-resources = Sumber Daya
-footer-refresh-brand-standards = Standar Merek
 footer-refresh-developers = Pengembang
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

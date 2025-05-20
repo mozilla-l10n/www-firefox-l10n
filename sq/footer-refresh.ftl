@@ -5,10 +5,15 @@
 footer-refresh-discover-mozilla-products = Zbuloni produkte dhe nisma { -brand-name-mozilla }. Premtojmë ta mbajmë privat dhe të parrezik email-in tuaj — pa ndarje me të tjerë, pa shitje, thjesht përditësime të bukura.
 footer-refresh-leadership = Udhëheqje
 footer-refresh-advertise = Reklamoni me { -brand-name-mozilla }-n
+footer-refresh-mozilla-advertising = Reklama { -brand-name-mozilla }
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = Mësoni më tepër <span>rreth { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Shënime Hedhjesh Në Qarkullim { -brand-name-firefox }-i
+footer-refresh-privacy-first = Zgjidhje reklamash që mbajnë privatësinë të parën, për marka, botues dhe platforma.
+footer-refresh-mdn-v2 = { -brand-name-mdn }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Ndiqni @{ -brand-name-mozilla }
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -23,8 +28,6 @@ footer-refresh-support = Asistencë
 footer-refresh-product-help = Ndihmë mbi Produkte
 footer-refresh-file-a-bug = Parashtroni një të Metë
 footer-refresh-localize-mozilla = Përktheni { -brand-name-mozilla }-n
-footer-refresh-resources = Burime
-footer-refresh-brand-standards = Standarde Marke
 footer-refresh-developers = Zhvillues
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

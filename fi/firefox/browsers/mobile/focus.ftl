@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/mobile/focus/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Yksityisyysselain
@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = Yksityistä mobiiliselailua yksinkertaisest
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } on tietosuojaan erikoistunut selain, jossa on automaattinen seurantasuojaus. { -brand-name-focus }illa sivut latautuvat nopeammin ja tietosi pysyvät yksityisinä.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } on saatavilla { -brand-name-ios }- ja { -brand-name-android }-laitteille.
 mobile-focus-get-firefox-focus = Lataa { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = Lähetä latauslinkki puhelimeesi.
 mobile-focus-scan-the-qr-code-to-get-started = Aloita skannaamalla QR-koodi
 mobile-focus-scan-alt-text = Skannaa QR-koodi saadaksesi { -brand-name-firefox-focus }
 mobile-focus-delete-your-history = Poista historia

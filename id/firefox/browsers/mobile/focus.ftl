@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.springfield.moz.works/browsers/mobile/focus/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Peramban privasi
@@ -18,7 +18,6 @@ mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } ada
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } tersedia untuk perangkat { -brand-name-ios } dan { -brand-name-android }.
 
 mobile-focus-get-firefox-focus = Dapatkan { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = Kirim tautan unduhan ke ponsel Anda.
 mobile-focus-scan-the-qr-code-to-get-started = Pindai kode QR untuk memulai
 mobile-focus-scan-alt-text = Pindai kode QR untuk mendapatkan { -brand-name-firefox-focus }
 

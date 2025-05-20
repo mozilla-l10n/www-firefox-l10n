@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/windows/
+### URL: https://www-dev.allizom.org/firefox/windows/
 
 
 ## Shared between Linux, Mac and Windows
@@ -15,8 +15,6 @@ new-platform-need-help = ¿Precises ayuda?
 
 # Linux
 
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } pa { -brand-name-linux }
 new-platform-privacy-more-than = Privacidá, más qu'una política
 
 ## Mac

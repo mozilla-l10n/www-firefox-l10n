@@ -15,29 +15,12 @@ firefox-desktop-download-og-title = Descargar o { -brand-name-firefox } máis r�
 firefox-desktop-download-og-desc = O novo { -brand-name-firefox } xa está aquí: carga as páxinas máis rápido, consome menos memoria e ten unha morea de características.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Obtén o navegador que protexe o que é importante
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Non hai políticas de privacidade sospeitosas nin portas traseiras para os anunciantes. Só un navegador que vai a fume de carozo e que non vende os teus datos.
 firefox-desktop-download-download-options = Opcións de descarga e outros idiomas
 firefox-desktop-download-browser-support = Asistencia do { -brand-name-firefox-browser }
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Fai o que queiras na rede.<br> O { -brand-name-firefox-browser } <strong>non</strong> te vixía.
-firefox-desktop-download-how-firefox-compares = Comparación do { -brand-name-firefox } con outros navegadores
-firefox-desktop-download-get-all-the-speed = Consigue a máxima velocidade e todas as ferramentas sen ningunha invasión na privacidade. O { -brand-name-firefox-browser } recompila tan poucos datos que incluso non precisamos do enderezo de correo electrónico para facer a descarga. Isto débese a que, a diferenza doutros navegadores, nós non temos ningún interese no teu recorrido pola rede.
-firefox-desktop-download-how-we-compare = Comparación con outros navegadores
-firefox-desktop-download-compare-firefox-to = Comparar o { -brand-name-firefox } con:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Si
-firefox-desktop-download-no = Non
-firefox-desktop-download-blocks-third-party = Bloqueo dos testemuños de rastrexo de terceiros
-firefox-desktop-download-blocks-third-party-default = Bloqueo dos testemuños de rastrexo de terceiros por defecto
-firefox-desktop-download-autoplay-blocking = Bloqueo de reprodución automática
-firefox-desktop-download-blocks-social-trackers = Bloqueo de rastrexadores de redes sociais
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Dispoñibilidade para sistemas operativos
-firefox-desktop-download-in-browser-screenshot = Ferramenta de captura de pantalla no navegador
-firefox-desktop-download-primary-password = Contrasinal principal
 firefox-desktop-download-we-block-the-ad = Nós bloqueamos a publicidade que te rastrexa e ti navegas máis rápido.
 firefox-desktop-download-ads-are-distracting = A publicidade molesta e impide que as páxinas carguen rápido. Ademais, os rastrexadores vixían cada movemento que fas na Internet. O { -brand-name-firefox-browser } bloquea automaticamente a maioría de rastrexadores, sen ter que indagar na configuración de seguridade.
 firefox-desktop-download-see-your-report = Consulta o informe de protección
@@ -122,6 +105,7 @@ firefox-desktop-download-from-security-to = Seguridade, novas ou xogos, hai <a {
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a> creou o { -brand-name-firefox } como unha alternativa máis rápida e privada a outros navegadores como o { -brand-name-ie } e, agora, o { -brand-name-chrome }. Na actualidade, a comunidade de voluntarios e empresas que busca cumprir a nosa misión continúa a priorizar a privacidade por enriba de calquera outra cousa.
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = A pesar de que Internet segue medrando e cambiando, o { -brand-name-firefox } continúa a centrarse no dereito á privacidade. Nós chamámoslle <a { $attrs }>Compromiso cos datos persoais</a>: recoller menos datos, mantelos a salvo e sen segredos. O { -brand-name-firefox } é o único que protexe os datos, a actividade e a vida en liña.
@@ -153,18 +137,12 @@ firefox-desktop-download-in-another-language = Descargar noutro idioma ou para o
 firefox-desktop-download-if-you-see-a-prompt = Se che aparece un aviso de que a aplicación que estás a intentar descargar non está verificada por { -brand-name-microsoft }, preme «Instalar de todas formas» ou <a { $attrs }>cambia a configuración de recomendación de aplicacións</a>.
 firefox-desktop-download-visit-support-for-more = Para máis información, consulta a páxina de Asistencia
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">xa non ofrece máis actualizacións de seguridade</a> para { -brand-name-windows } { -brand-name-xp } e { -brand-name-vista }, pero poderás seguir usando o { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = A descarga debería iniciarse automaticamente. Non se iniciou? <a id="{ $id }" href="{ $fallback_url }">Téntao de novo.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } é máis do que un simple navegador.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Interrompeuse a descarga, pero non está todo perdido.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Para instalar { -brand-name-firefox }, sigue <a href="{ $url }">estas instrucións</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Poida que o teu sistema non cumpra cos requisitos para instalar { -brand-name-firefox }, pero podes probar unha <a href="{ $url }">destas versións</a>.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/mobile/android/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
 # HTML page title
 mobile-android-firefox-browser-android = { -brand-name-firefox-browser } para { -brand-name-android }

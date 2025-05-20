@@ -16,19 +16,11 @@ navigation-refresh-mozilla-manifesto-v2 = U manifestu di { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Cullàbbura cu nuiautri
 navigation-refresh-get-involved-v2 = Cullàbbura cu nuiautri
-navigation-refresh-innovation-projects = Pruggetti dâ squatra Innovation
-navigation-refresh-innovation-projects-v2 = Pruggetti dâ squatra Innovation
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = A nostra missioni
 navigation-refresh-our-work = U nostru travagghiu
 navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = NA di { -brand-name-mozilla }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = Pubblicità di { -brand-name-mozilla }
 

@@ -2,11 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-privacy = פרטיות
 footer-press = עיתונות
-footer-browser-comparison = השוואת דפדפנים
-footer-browsers = דפדפנים
+footer-mozilla-blog = הבלוג של { -brand-name-mozilla }
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = מפתחים
 footer-developer-edition = { -brand-name-developer-edition(case: "the") }
@@ -32,7 +30,6 @@ footer-websites-cookies = עוגיות
 footer-websites-legal = מידע משפטי
 footer-language = שפה
 footer-donate = תרומה
-footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }
@@ -41,3 +38,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = עקבו אחרי ‎@{ -brand-name-mozilla }
 footer-follow-firefox = עקבו אחרי ‎@{ -brand-name-firefox }
 footer-about-this-site = על אודות אתר זה
+footer-advertise = פרסום עם { -brand-name-mozilla }
