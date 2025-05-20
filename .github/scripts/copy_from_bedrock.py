@@ -49,6 +49,7 @@ def main():
         "firefox/download/desktop.ftl": "firefox/new/desktop.ftl",
         "firefox/download/download.ftl": "firefox/new/download.ftl",
         "firefox/download/platform.ftl": "firefox/new/platform.ftl",
+        "firefox/browsers/mobile/get-app.ftl": "firefox/mobile.ftl",
         "newsletter/nwesletters.ftl": "mozorg/newsletters.ftl",
     }
     www_path = Path(args.www_path)
