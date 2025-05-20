@@ -3,24 +3,38 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/new/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Sider { -brand-name-firefox-browser } — D arurad, d uslig & baṭel sɣur { -brand-name-mozilla }
-firefox-desktop-download-meta-title-v2 = Sider { -brand-name-firefox } i tnarit — seg { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Awi { -brand-name-firefox }, iminig n web ilelli s lmendad n { -brand-name-mozilla }, d takebbanit ur nettnadi ara ɣef tedrimt yettwamudd i tezmert d ummesten deg internet. Yella akka tura deg { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } d { -brand-name-ios }.
 firefox-desktop-download-og-title = Sader-d { -brand-name-firefox } arurad i lebda
 firefox-desktop-download-og-desc = Asali n usebter arurad, drus n tkatut n useqdec yerna yeččur d timahilin, { -brand-name-firefox } amaynut dagi.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Awi iminig ara yemmestnen ayen yesεan azal
-firefox-desktop-download-fast-reliable-private = D arurad, d anaflas, d uslig — i talwit n uqeṛruy deg Internet.
 firefox-desktop-download-download-options = Sader iɣewwaṛen d tutlayin-nniḍen
 firefox-desktop-download-browser-support = Asefrek { -brand-name-firefox-browser }
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Xdem ayen tebɣiḍ srid. <br> { -brand-name-firefox-browser } <strong>ur d-yettwali ara</strong>.
+firefox-desktop-download-how-firefox-compares = Amek yesserwas { -brand-name-firefox } d yiminigen-nniḍen
+firefox-desktop-download-how-we-compare = Amek i nesserwas ɣer yiminigen-nniḍen
+firefox-desktop-download-compare-firefox-to = Serwes { -brand-name-firefox } d:
+firefox-desktop-download-compare-chrome = { -brand-name-chrome }
+firefox-desktop-download-compare-edge = { -brand-name-edge }
+firefox-desktop-download-compare-safari = { -brand-name-safari }
+firefox-desktop-download-yes = Ih
+firefox-desktop-download-no = Uhu
+firefox-desktop-download-blocks-third-party = Yessewḥal inagan n tuqqna n uḍfar n wis kraḍ
+firefox-desktop-download-blocks-third-party-default = Issewḥal inagan n tuqqna n uḍfar n uḥric wis kraḍ s wudem amezwer
+firefox-desktop-download-autoplay-blocking = Asewḥel n tɣuri tawurmant
+firefox-desktop-download-blocks-social-trackers = Yessewḥal ineḍfaren n yizeḍwan inmettiyen
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = Tilin n unagraw n wammud
+firefox-desktop-download-in-browser-screenshot = Afecku n tuṭṭfa n ugdil deg yiminig
+firefox-desktop-download-primary-password = Awal uffir agejdan
 firefox-desktop-download-we-block-the-ad = Nessewḥal ineḍfaren n udellel. Kečč·kemm tesnirimeḍ internet s urured.
 firefox-desktop-download-see-your-report = Wali aneqqis-inek·inem n tɣellist
 firefox-desktop-download-for-everyone = { -brand-name-firefox } i yal yiwen
@@ -99,7 +113,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ꞌa <a
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Asteqsi? <a { $attrs }>{ -brand-name-mozilla } tallalt</a> tesseḥbaber fell-ak·am.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Qrib ad tawḍeḍ!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -108,8 +122,6 @@ firefox-desktop-download-now-else = Tura fakk <strong>asali</strong> n { -brand-
 firefox-desktop-download-now-windows = Tura <strong>selkem</strong> amsebdad i d-tsuliḍ kan akka tura.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Tura <strong>ldi</strong> afaylu i d-tsuliḍ kan akka tura.
-# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-select-linux = Fren taxtiṛt n <strong>wezdam</strong> ddaw-a
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Tesεuḍ ugur? <a { $attrs }>Awi tallalt i usebded-inek·inem</a>.
@@ -120,12 +132,18 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = Ma yella twalaḍ alɣu i d-yeskanayen asnas i tettaɛraḍeḍ ad tesbeddeḍ mačči d asnas yettusneqden { -brand-name-microsoft }, sit ɣef “Sebded ɣas akken” neɣ <a { $attrs }>senfel iɣewwaren n uwelleh n usnas</a>.
 firefox-desktop-download-visit-support-for-more = Rzu ɣer tallalt i wugar n telɣut
 # Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla }<a href="{ $url }">dayen ur d-yettmuddu ara akk ileqman n tɣellist</a> ɣef { -brand-name-windows } { -brand-name-xp } neɣ { -brand-name-vista }, maca mazal tzemreḍ ad tesqedceḍ { -brand-name-firefox }.
+# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Asider-ik.im ad yekker s wudem awurman. Ur yeddi ara? <a id="{ $id }" href="{ $fallback_url }">Ɛreḍ asider i tikkelt-nniḍen</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } mačči d iminig kan.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Asader-inek·inem yettuḥbes . Maca cemma ur iruḥ.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Ma ulac aɣilif, ḍfer <a href="{ $url }">iwellihen-agi</a> i wakken ad tesbeddeḍ { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Anagraw-ik·im ur igbir ara ayen i iwulmen i { -brand-name-firefox }, acu kan ɛreḍ yiwen seg <a href="{ $url }">yileqman-a</a>.

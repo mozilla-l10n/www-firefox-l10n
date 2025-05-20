@@ -3,11 +3,12 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.springfield.moz.works/browsers/compare/
 
 compare-shared-compare-firefox = Cumparegliar { -brand-name-firefox }
 compare-shared-footer-cta-title = Fa dapli cun { -brand-name-firefox }
 compare-shared-footer-cta-desc = Va per il navigatur svelt, lev ed orientà a la protecziun da datas che vegn sustegnì dad ina organisaziun senza finamira da profit e che funcziunescha sin tut tes apparats.
+compare-shared-footer-cta-button = Telechargiar { -brand-name-firefox }
 compare-shared-we-also-offer-easy = Nus offrin era funcziuns simplas d’utilisar sco:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } ha era utensils integrads sco:
 # Variables

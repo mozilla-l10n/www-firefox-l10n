@@ -3,11 +3,12 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.springfield.moz.works/browsers/compare/
 
 compare-shared-compare-firefox = Vertaa { -brand-name-firefox }ia
 compare-shared-footer-cta-title = Tee enemmän { -brand-name-firefox }illa
 compare-shared-footer-cta-desc = Hanki nopea, kevyt, yksityisyyteen keskittyvä selain, joka toimii kaikilla laitteillasi, ja jota tukee voittoa tavoittelematon taho.
+compare-shared-footer-cta-button = Lataa { -brand-name-firefox }
 compare-shared-we-also-offer-easy = Tarjoamme helppokäyttöisiä ominaisuuksia:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } sisältää myös sisäänrakennettuja työkaluja, kuten:
 # Variables

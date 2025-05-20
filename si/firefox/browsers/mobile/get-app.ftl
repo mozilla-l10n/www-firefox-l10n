@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/mobile/
 
 firefox-mobile-download-the-firefox-browser = { -brand-name-android } සහ { -brand-name-ios } සඳහා ඔබගේ ජංගම දුරකථනයෙන් { -brand-name-firefox-browser } බාගන්න.
 firefox-mobile-firefox = { -brand-name-firefox }

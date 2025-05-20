@@ -3,11 +3,20 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/new/
 
 firefox-desktop-download-og-title = Descarcă cel mai rapid { -brand-name-firefox } care a existat vreodată
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-download-options = Opțiuni de descărcare și alte limbi
+firefox-desktop-download-how-we-compare = Cum ne comparăm cu alte browsere
+firefox-desktop-download-compare-chrome = { -brand-name-chrome }
+firefox-desktop-download-compare-edge = { -brand-name-edge }
+firefox-desktop-download-compare-safari = { -brand-name-safari }
+firefox-desktop-download-yes = Da
+firefox-desktop-download-no = Nu
+firefox-desktop-download-blocks-third-party = Blochează cookie-urile de urmărire de la terți
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = Disponibilitate pentru sistemul de operare
 firefox-desktop-download-see-your-report = Vezi raportul tău de protecție
 firefox-desktop-download-for-everyone = { -brand-name-firefox } este pentru toți
 firefox-desktop-download-review-system-req = Verifică cerințele de sistem
@@ -23,7 +32,7 @@ firefox-desktop-download-picture-in-picture = Imagine în imagine
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser(case: "definite-article", capitalization: "upper") }
 firefox-desktop-download-get-firefox-android = Obține { -brand-name-firefox-browser } pentru <strong>{ -brand-name-android }</strong>
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Încă puțin.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

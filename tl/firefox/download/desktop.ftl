@@ -3,10 +3,15 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/new/
 
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-compare-chrome = { -brand-name-chrome }
+firefox-desktop-download-compare-edge = { -brand-name-edge }
+firefox-desktop-download-compare-safari = { -brand-name-safari }
+firefox-desktop-download-yes = Oo
+firefox-desktop-download-no = Hindi
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 

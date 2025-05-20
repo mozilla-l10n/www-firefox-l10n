@@ -3,15 +3,15 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/compare/chrome/
+### URL: https://www-dev.springfield.moz.works/browsers/compare/chrome/
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
 # HTML page description
 compare-chome-read-our-comparison = Leggi il nostro confronto tra { -brand-name-firefox } e Chrome riguardo a funzionalità, privacy e facilità d’uso.
 # Variables:
-# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
-# $adblocker (url) - link to https://www.firefox.com/features/adblocker/
+# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
+# $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
 compare-chrome-firefoxs-default-privacy-settings = Le impostazioni predefinite per la privacy di { -brand-name-firefox } sono molto più efficaci di quelle di Chrome. Abbiamo anche funzionalità aggiuntive per impedire ai siti web di tracciarti, come il <a { $fingerprint }>blocco dei fingerprinter</a>, e un’ampia scelta di componenti aggiuntivi per il <a { $adblocker }>blocco degli annunci pubblicitari</a>.
 compare-chrome-we-block-trackers-by-default = Noi blocchiamo gli elementi traccianti per impostazione predefinita. Chrome non lo fa.
 compare-chrome-in-fact-by-default-chrome-monitors = Al contrario, per impostazione predefinita Chrome monitora i siti web che visiti e la tua attività online, in modo da poter identificare “argomenti pubblicitari” per inviarti annunci più mirati. Puoi bloccare fino a tre argomenti, ma non puoi impedirgli di identificare altri argomenti pubblicitari per te.
