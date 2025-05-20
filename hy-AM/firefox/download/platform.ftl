@@ -3,13 +3,12 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/windows/
+### URL: https://www-dev.allizom.org/firefox/windows/
 
 
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Անվճար վեբ դիտարկիչ
-new-platform-download-firefox = Ներբեռնել { -brand-name-firefox }-ը
 new-platform-download-the-fastest = Ներբեռնեք ամենարագ { -brand-name-firefox }-ը, որ երբևէ եղել է
 new-platform-faster-page-loading = էջերի արագ բեռնում, հիշողության քիչ օգտագործում և նորանոր յուրահատկություններ { -brand-name-firefox }-ում: Այն արդեն այստեղ է:
 new-platform-2x-faster = Կրկնակի արագ

@@ -9,245 +9,225 @@
 
 ## Company names
 
--brand-name-amazon =
-    { $case ->
-       *[nom] Amazon
-        [gen] Amazona
-        [dat] Amazonowi
-        [acc] Amazona
-        [ins] Amazonem
-        [loc] Amazonie
-    }
 -brand-name-apple =
     { $case ->
-       *[nom] Apple
         [gen] Apple’a
         [dat] Apple’owi
         [acc] Apple’a
         [ins] Apple’em
         [loc] Apple’u
+       *[nom] Apple
     }
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook =
     { $case ->
-       *[nom] Facebook
         [gen] Facebooka
         [dat] Facebookowi
         [acc] Facebooka
         [ins] Facebookiem
         [loc] Facebooku
+       *[nom] Facebook
     }
 -brand-name-github =
     { $case ->
-       *[nom] GitHub
         [gen] GitHuba
         [dat] GitHubowi
         [acc] GitHuba
         [ins] GitHubem
         [loc] GitHubie
+       *[nom] GitHub
     }
 -brand-name-google =
     { $case ->
-       *[nom] Google
         [gen] Google’a
         [dat] Google’owi
         [acc] Google’a
         [ins] Google’em
         [loc] Google’u
+       *[nom] Google
     }
--brand-name-hulu = Hulu
 -brand-name-microsoft =
     { $case ->
-       *[nom] Microsoft
         [gen] Microsoftu
         [dat] Microsoftowi
         [acc] Microsoft
         [ins] Microsoftem
         [loc] Microsofcie
+       *[nom] Microsoft
     }
 -brand-name-mozilla =
     { $case ->
-       *[nom] Mozilla
         [gen] Mozilli
         [dat] Mozilli
         [acc] Mozillę
         [ins] Mozillą
         [loc] Mozilli
+       *[nom] Mozilla
     }
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
--brand-name-mullvad = Mullvad
 -brand-name-netscape = Netscape
 -brand-name-twitter =
     { $case ->
-       *[nom] Twitter
         [gen] Twittera
         [dat] Twitterowi
         [acc] Twittera
         [ins] Twitterem
         [loc] Twitterze
+       *[nom] Twitter
     }
 -brand-name-wireguard = WireGuard
 -brand-name-linkedin = LinkedIn
 -brand-name-tiktok =
     { $case ->
-       *[nom] TikTok
         [gen] TikToka
         [dat] TikTokowi
         [acc] TikToka
         [ins] TikTokiem
         [loc] TikToku
+       *[nom] TikTok
     }
 -brand-name-spotify = Spotify
--brand-name-mastodon =
-    { $case ->
-        [gen] Mastodona
-        [dat] Mastodonowi
-        [acc] Mastodona
-        [ins] Mastodonem
-        [loc] Mastodonie
-       *[nom] Mastodon
-    }
 
 ## Firefox browsers
 
 -brand-name-firefox =
     { $case ->
-       *[nom] Firefox
         [gen] Firefoksa
         [dat] Firefoksowi
         [acc] Firefoksa
         [ins] Firefoksem
         [loc] Firefoksie
+       *[nom] Firefox
     }
 -brand-name-firefox-beta =
     { $case ->
-       *[nom] Firefox Beta
         [gen] Firefoksa Beta
         [dat] Firefoksowi Beta
         [acc] Firefoksa Beta
         [ins] Firefoksem Beta
         [loc] Firefoksie Beta
+       *[nom] Firefox Beta
     }
 -brand-name-firefox-browser =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Przeglądarka Firefox
-                [lower] przeglądarka Firefox
-            }
         [gen]
             { $capitalization ->
-               *[upper] Przeglądarki Firefox
                 [lower] przeglądarki Firefox
+               *[upper] Przeglądarki Firefox
             }
         [dat]
             { $capitalization ->
-               *[upper] Przeglądarce Firefox
                 [lower] przeglądarce Firefox
+               *[upper] Przeglądarce Firefox
             }
         [acc]
             { $capitalization ->
-               *[upper] Przeglądarkę Firefox
                 [lower] przeglądarkę Firefox
+               *[upper] Przeglądarkę Firefox
             }
         [ins]
             { $capitalization ->
-               *[upper] Przeglądarką Firefox
                 [lower] przeglądarką Firefox
+               *[upper] Przeglądarką Firefox
             }
         [loc]
             { $capitalization ->
-               *[upper] Przeglądarce Firefox
                 [lower] przeglądarce Firefox
+               *[upper] Przeglądarce Firefox
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] przeglądarka Firefox
+               *[upper] Przeglądarka Firefox
             }
     }
 -brand-name-firefox-browsers =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Przeglądarki Firefox
-                [lower] przeglądarki Firefox
-            }
         [gen]
             { $capitalization ->
-               *[upper] Przeglądarek Firefox
                 [lower] przeglądarek Firefox
+               *[upper] Przeglądarek Firefox
             }
         [dat]
             { $capitalization ->
-               *[upper] Przeglądarkom Firefox
                 [lower] przeglądarkom Firefox
+               *[upper] Przeglądarkom Firefox
             }
         [acc]
             { $capitalization ->
-               *[upper] Przeglądarki Firefox
                 [lower] przeglądarki Firefox
+               *[upper] Przeglądarki Firefox
             }
         [ins]
             { $capitalization ->
-               *[upper] Przeglądarkami Firefox
                 [lower] przeglądarkami Firefox
+               *[upper] Przeglądarkami Firefox
             }
         [loc]
             { $capitalization ->
-               *[upper] Przeglądarkach Firefox
                 [lower] przeglądarkach Firefox
+               *[upper] Przeglądarkach Firefox
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] przeglądarki Firefox
+               *[upper] Przeglądarki Firefox
             }
     }
 -brand-name-firefox-developer-edition =
     { $case ->
-       *[nom] Firefox Developer Edition
         [gen] Firefoksa Developer Edition
         [dat] Firefoksowi Developer Edition
         [acc] Firefoksa Developer Edition
         [ins] Firefoksem Developer Edition
         [loc] Firefoksie Developer Edition
+       *[nom] Firefox Developer Edition
     }
 -brand-name-firefox-enterprise =
     { $case ->
-       *[nom] Firefox Enterprise
         [gen] Firefoksa Enterprise
         [dat] Firefoksowi Enterprise
         [acc] Firefoksa Enterprise
         [ins] Firefoksem Enterprise
         [loc] Firefoksie Enterprise
+       *[nom] Firefox Enterprise
     }
 -brand-name-firefox-esr =
     { $case ->
-       *[nom] Firefox ESR
         [gen] Firefoksa ESR
         [dat] Firefoksowi ESR
         [acc] Firefoksa ESR
         [ins] Firefoksem ESR
         [loc] Firefoksie ESR
+       *[nom] Firefox ESR
     }
 -brand-name-firefox-extended-support-release =
     { $case ->
-       *[nom] Firefox Extended Support Release
         [gen] Firefoksa Extended Support Release
         [dat] Firefoksowi Extended Support Release
         [acc] Firefoksa Extended Support Release
         [ins] Firefoksem Extended Support Release
         [loc] Firefoksie Extended Support Release
+       *[nom] Firefox Extended Support Release
     }
 -brand-name-firefox-focus =
     { $case ->
-       *[nom] Firefox Focus
         [gen] Firefoksa Focus
         [dat] Firefoksowi Focus
         [acc] Firefoksa Focus
         [ins] Firefoksem Focus
         [loc] Firefoksie Focus
+       *[nom] Firefox Focus
     }
 -brand-name-firefox-nightly =
     { $case ->
-       *[nom] Firefox Nightly
         [gen] Firefoksa Nightly
         [dat] Firefoksowi Nightly
         [acc] Firefoksa Nightly
         [ins] Firefoksem Nightly
         [loc] Firefoksie Nightly
+       *[nom] Firefox Nightly
     }
 
 ## Firefox browsers (short names)
@@ -263,282 +243,179 @@
 
 -brand-name-firefox-aurora =
     { $case ->
-       *[nom] Firefox Aurora
         [gen] Firefoksa Aurora
         [dat] Firefoksowi Aurora
         [acc] Firefoksa Aurora
         [ins] Firefoksem Aurora
         [loc] Firefoksie Aurora
+       *[nom] Firefox Aurora
     }
 -brand-name-aurora =
     { $case ->
-       *[nom] Aurora
         [gen] Aurory
         [dat] Aurorze
         [acc] Aurorę
         [ins] Aurorą
         [loc] Aurorze
+       *[nom] Aurora
     }
--brand-name-firefox-daylight =
-    { $case ->
-       *[nom] Firefox Daylight
-        [gen] Firefoksa Daylight
-        [dat] Firefoksowi Daylight
-        [acc] Firefoksa Daylight
-        [ins] Firefoksem Daylight
-        [loc] Firefoksie Daylight
-    }
--brand-name-daylight = Daylight
 -brand-name-firefox-quantum =
     { $case ->
-       *[nom] Firefox Quantum
         [gen] Firefoksa Quantum
         [dat] Firefoksowi Quantum
         [acc] Firefoksa Quantum
         [ins] Firefoksem Quantum
         [loc] Firefoksie Quantum
+       *[nom] Firefox Quantum
     }
--brand-name-firefox-lite =
-    { $case ->
-       *[nom] Firefox Lite
-        [gen] Firefoksa Lite
-        [dat] Firefoksowi Lite
-        [acc] Firefoksa Lite
-        [ins] Firefoksem Lite
-        [loc] Firefoksie Lite
-    }
--brand-name-lite = Lite
--brand-name-firefox-reality =
-    { $case ->
-       *[nom] Firefox Reality
-        [gen] Firefoksa Reality
-        [dat] Firefoksowi Reality
-        [acc] Firefoksa Reality
-        [ins] Firefoksem Reality
-        [loc] Firefoksie Reality
-    }
--brand-name-reality = Reality
 
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-devtools =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Narzędzia dla programistów Firefoksa
-                [lower] narzędzia dla programistów Firefoksa
-            }
         [gen]
             { $capitalization ->
-               *[upper] Narzędzi dla programistów Firefoksa
                 [lower] narzędzi dla programistów Firefoksa
+               *[upper] Narzędzi dla programistów Firefoksa
             }
         [dat]
             { $capitalization ->
-               *[upper] Narzędziom dla programistów Firefoksa
                 [lower] narzędziom dla programistów Firefoksa
+               *[upper] Narzędziom dla programistów Firefoksa
             }
         [acc]
             { $capitalization ->
-               *[upper] Narzędzia dla programistów Firefoksa
                 [lower] narzędzia dla programistów Firefoksa
+               *[upper] Narzędzia dla programistów Firefoksa
             }
         [ins]
             { $capitalization ->
-               *[upper] Narzędziami dla programistów Firefoksa
                 [lower] narzędziami dla programistów Firefoksa
+               *[upper] Narzędziami dla programistów Firefoksa
             }
         [loc]
             { $capitalization ->
-               *[upper] Narzędziach dla programistów Firefoksa
                 [lower] narzędziach dla programistów Firefoksa
+               *[upper] Narzędziach dla programistów Firefoksa
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] narzędzia dla programistów Firefoksa
+               *[upper] Narzędzia dla programistów Firefoksa
             }
     }
 -brand-name-firefox-relay = Firefox Relay
--brand-name-firefox-relay-premium = Firefox Relay Premium
--brand-name-firefox-sync =
-    { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Synchronizacja Firefoksa
-                [lower] synchronizacja Firefoksa
-            }
-        [gen]
-            { $capitalization ->
-               *[upper] Synchronizacji Firefoksa
-                [lower] synchronizacji Firefoksa
-            }
-        [dat]
-            { $capitalization ->
-               *[upper] Synchronizacji Firefoksa
-                [lower] synchronizacji Firefoksa
-            }
-        [acc]
-            { $capitalization ->
-               *[upper] Synchronizację Firefoksa
-                [lower] synchronizację Firefoksa
-            }
-        [ins]
-            { $capitalization ->
-               *[upper] Synchronizacją Firefoksa
-                [lower] synchronizacją Firefoksa
-            }
-        [loc]
-            { $capitalization ->
-               *[upper] Synchronizacji Firefoksa
-                [lower] synchronizacji Firefoksa
-            }
-    }
 -brand-name-firefox-translations = Firefox Translations
 
 ## Firefox products (short names)
 
 -brand-name-devtools =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Narzędzia dla programistów
-                [lower] narzędzia dla programistów
-            }
         [gen]
             { $capitalization ->
-               *[upper] Narzędzi dla programistów
                 [lower] narzędzi dla programistów
+               *[upper] Narzędzi dla programistów
             }
         [dat]
             { $capitalization ->
-               *[upper] Narzędziom dla programistów
                 [lower] narzędziom dla programistów
+               *[upper] Narzędziom dla programistów
             }
         [acc]
             { $capitalization ->
-               *[upper] Narzędzia dla programistów
                 [lower] narzędzia dla programistów
+               *[upper] Narzędzia dla programistów
             }
         [ins]
             { $capitalization ->
-               *[upper] Narzędziami dla programistów
                 [lower] narzędziami dla programistów
+               *[upper] Narzędziami dla programistów
             }
         [loc]
             { $capitalization ->
-               *[upper] Narzędziach dla programistów
                 [lower] narzędziach dla programistów
+               *[upper] Narzędziach dla programistów
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] narzędzia dla programistów
+               *[upper] Narzędzia dla programistów
             }
     }
 -brand-name-relay = Relay
--brand-name-relay-premium = Relay Premium
--brand-name-sync =
-    { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Synchronizacja
-                [lower] synchronizacja
-            }
-        [gen]
-            { $capitalization ->
-               *[upper] Synchronizacji
-                [lower] synchronizacji
-            }
-        [dat]
-            { $capitalization ->
-               *[upper] Synchronizacji
-                [lower] synchronizacji
-            }
-        [acc]
-            { $capitalization ->
-               *[upper] Synchronizację
-                [lower] synchronizację
-            }
-        [ins]
-            { $capitalization ->
-               *[upper] Synchronizacją
-                [lower] synchronizacją
-            }
-        [loc]
-            { $capitalization ->
-               *[upper] Synchronizacji
-                [lower] synchronizacji
-            }
-    }
 
 ## Firefox products (legacy)
 
 -brand-name-firefox-account =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Konto Firefoksa
-                [lower] konto Firefoksa
-            }
         [gen]
             { $capitalization ->
-               *[upper] Konta Firefoksa
                 [lower] konta Firefoksa
+               *[upper] Konta Firefoksa
             }
         [dat]
             { $capitalization ->
-               *[upper] Kontu Firefoksa
                 [lower] kontu Firefoksa
+               *[upper] Kontu Firefoksa
             }
         [acc]
             { $capitalization ->
-               *[upper] Konto Firefoksa
                 [lower] konto Firefoksa
+               *[upper] Konto Firefoksa
             }
         [ins]
             { $capitalization ->
-               *[upper] Kontem Firefoksa
                 [lower] kontem Firefoksa
+               *[upper] Kontem Firefoksa
             }
         [loc]
             { $capitalization ->
-               *[upper] Koncie Firefoksa
                 [lower] koncie Firefoksa
+               *[upper] Koncie Firefoksa
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] konto Firefoksa
+               *[upper] Konto Firefoksa
             }
     }
 -brand-name-firefox-accounts =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Konta Firefoksa
-                [lower] konta Firefoksa
-            }
         [gen]
             { $capitalization ->
-               *[upper] Kont Firefoksa
                 [lower] kont Firefoksa
+               *[upper] Kont Firefoksa
             }
         [dat]
             { $capitalization ->
-               *[upper] Kontom Firefoksa
                 [lower] kontom Firefoksa
+               *[upper] Kontom Firefoksa
             }
         [acc]
             { $capitalization ->
-               *[upper] Konta Firefoksa
                 [lower] konta Firefoksa
+               *[upper] Konta Firefoksa
             }
         [ins]
             { $capitalization ->
-               *[upper] Kontami Firefoksa
                 [lower] kontami Firefoksa
+               *[upper] Kontami Firefoksa
             }
         [loc]
             { $capitalization ->
-               *[upper] Kontach Firefoksa
                 [lower] kontach Firefoksa
+               *[upper] Kontach Firefoksa
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] konta Firefoksa
+               *[upper] Konta Firefoksa
             }
     }
--brand-name-firefox-better-web = Firefox Better Web
--brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
--brand-name-firefox-send = Firefox Send
--brand-name-send = Send
 -brand-name-firefox-private-network = Firefox Private Network
--brand-name-fpn = FPN
 
 ## Firefox projects
 
@@ -560,12 +437,12 @@
 
 -brand-name-bugzilla =
     { $case ->
-       *[nom] Bugzilla
         [gen] Bugzilli
         [dat] Bugzilli
         [acc] Bugzillę
         [ins] Bugzillą
         [loc] Bugzilli
+       *[nom] Bugzilla
     }
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
@@ -602,7 +479,7 @@
                *[upper] Podcast IRL
             }
     }
--brand-name-llamafile = Llamafile
+-brand-name-solo-ai = Solo AI
 -brand-name-lumigator =
     { $case ->
         [gen] Lumigatora
@@ -615,38 +492,37 @@
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Dokumentacja MDN
-                [lower] dokumentacja MDN
-            }
         [gen]
             { $capitalization ->
-               *[upper] Dokumentacji MDN
                 [lower] dokumentacji MDN
+               *[upper] Dokumentacji MDN
             }
         [dat]
             { $capitalization ->
-               *[upper] Dokumentacji MDN
                 [lower] dokumentacji MDN
+               *[upper] Dokumentacji MDN
             }
         [acc]
             { $capitalization ->
-               *[upper] Dokumentację MDN
                 [lower] dokumentację MDN
+               *[upper] Dokumentację MDN
             }
         [ins]
             { $capitalization ->
-               *[upper] Dokumentacją MDN
                 [lower] dokumentacją MDN
+               *[upper] Dokumentacją MDN
             }
         [loc]
             { $capitalization ->
-               *[upper] Dokumentacji MDN
                 [lower] dokumentacji MDN
+               *[upper] Dokumentacji MDN
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] dokumentacja MDN
+               *[upper] Dokumentacja MDN
             }
     }
--brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
@@ -716,21 +592,19 @@
                *[upper] Konta Mozilli
             }
     }
--brand-name-mozilla-social = Mozilla.social
 -brand-name-mozilla-builders = Mozilla Builders
-# Obsolete string (expires: 2025-01-05)
--brand-name-mozilla-ai = Mozilla AI
+-brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-rise25 = Rise25
 -brand-name-thunderbird =
     { $case ->
-       *[nom] Thunderbird
         [gen] Thunderbirda
         [dat] Thunderbirdowi
         [acc] Thunderbirda
         [ins] Thunderbirdem
         [loc] Thunderbirdzie
+       *[nom] Thunderbird
     }
 
 ## Mozilla projects (short names)
@@ -738,22 +612,14 @@
 -brand-name-common-voice = Common Voice
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
--brand-name-vpn = VPN
 
 ## Mozilla projects (legacy)
 
--brand-name-mozilla-developer-network = Mozilla Developer Network
--brand-name-mozilla-labs = Mozilla Labs
--brand-name-hubs = Hubs
--brand-name-lockwise = Lockwise
--brand-name-lightbeam = Lightbeam
--brand-name-maker-party = Maker Party
 -brand-name-webmaker = Webmaker
 
 ## Open Source projects
 
 -brand-name-rust = Rust
--brand-name-webassembly = WebAssembly
 
 ## Other browsers
 
@@ -762,101 +628,84 @@
 -brand-name-edge = Edge
 -brand-name-ie =
     { $case ->
-       *[nom] Internet Explorer
         [gen] Internet Explorera
         [dat] Internet Explorerowi
         [acc] Internet Explorera
         [ins] Internet Explorerem
         [loc] Internet Explorerze
+       *[nom] Internet Explorer
     }
 -brand-name-opera =
     { $case ->
-       *[nom] Opera
         [gen] Opery
         [dat] Operze
         [acc] Operę
         [ins] Operą
         [loc] Operze
+       *[nom] Opera
     }
 -brand-name-safari = Safari
--brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
 -brand-name-android =
     { $case ->
-       *[nom] Android
         [gen] Androida
         [dat] Androidowi
         [acc] Androida
         [ins] Androidem
         [loc] Androidzie
+       *[nom] Android
     }
 -brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux =
     { $case ->
-       *[nom] Linux
         [gen] Linuksa
         [dat] Linuksowi
         [acc] Linuksa
         [ins] Linuksem
         [loc] Linuksie
+       *[nom] Linux
     }
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
--brand-name-ubuntu = Ubuntu
--brand-name-vista = Vista
 -brand-name-windows = Windows
--brand-name-xp = XP
 
 ## Apple products
 
 -brand-name-app-store = App Store
 -brand-name-ipad =
     { $case ->
-       *[nom] iPad
         [gen] iPada
         [dat] iPadowi
         [acc] iPada
         [ins] iPadem
         [loc] iPadzie
+       *[nom] iPad
     }
 -brand-name-iphone =
     { $case ->
-       *[nom] iPhone
         [gen] iPhone’a
         [dat] iPhone’owi
         [acc] iPhone’a
         [ins] iPhone’em
         [loc] iPhonie
+       *[nom] iPhone
     }
 -brand-name-test-flight = TestFlight
-
-## Amazon products
-
--brand-name-fire-tv = Fire TV
 
 ## Facebook products
 
 -brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram =
     { $case ->
-       *[nom] Instagram
         [gen] Instagrama
         [dat] Instagramowi
         [acc] Instagrama
         [ins] Instagramem
         [loc] Instagramie
-    }
--brand-name-messenger =
-    { $case ->
-       *[nom] Messenger
-        [gen] Messengera
-        [dat] Messengerowi
-        [acc] Messengera
-        [ins] Messengerem
-        [loc] Messengerze
+       *[nom] Instagram
     }
 -brand-name-workplace = Workplace
 
@@ -866,19 +715,19 @@
 -brand-name-google-play = Google Play
 -brand-name-youtube =
     { $case ->
-       *[nom] YouTube
         [gen] YouTube’a
         [dat] YouTube’owi
         [acc] YouTube’a
         [ins] YouTube’em
         [loc] YouTubie
+       *[nom] YouTube
     }
 -brand-name-chromebook =
     { $case ->
-       *[nom] Chromebook
         [gen] Chromebooka
         [dat] Chromebookowi
         [acc] Chromebooka
         [ins] Chromebookiem
         [loc] Chromebooku
+       *[nom] Chromebook
     }

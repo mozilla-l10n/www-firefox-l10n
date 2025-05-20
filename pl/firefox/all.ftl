@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = Pobierz { -brand-name-firefox(case: "acc") } w języku polskim i ponad 90 innych językach
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Wszyscy zasługują na dostęp do Internetu — Twój język nigdy nie powinien być przeszkodą. Właśnie dlatego — z pomocą oddanych wolontariuszy z całego świata — udostępniamy { -brand-name-firefox(case: "acc") } w ponad 90 językach.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Zeskanuj kod QR, aby pobrać: <em>{ $product_name }</em>
 firefox-all-choose-browser = Wybierz przeglądarkę, aby kontynuować
 firefox-all-choose-platform = Wybierz system, aby kontynuować
 firefox-all-choose-language = Wybierz język, aby kontynuować
@@ -37,9 +34,19 @@ firefox-all-64-bit-installers = Instalatory 64-bitowe
 firefox-all-choose-a-64-bit-installer = Wybierz 64-bitowy instalator dla komputerów z procesorami 64-bitowymi, które umożliwiają przydzielenie większej ilości pamięci RAM dla poszczególnych programów — co jest szczególnie ważne w przypadku gier i innych wymagających aplikacji.
 firefox-all-32-bit-installers = Instalatory 32-bitowe
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Ta opcja spowoduje otwarcie strony produktu { -brand-name-firefox } w witrynie Microsoft Store. Jeśli używasz systemu Windows 10 lub Windows 11, będziesz mieć możliwość otwarcia Microsoft Store z tej strony i zainstalowania przeglądarki { -brand-name-firefox }. Jeśli instalujesz z Microsoft Store, aktualizacje do { -brand-name-firefox(case: "gen") } będą również obsługiwane przez Microsoft Store. Istnieją drobne różnice w zachowaniach i możliwościach { -brand-name-firefox(case: "gen") } po zainstalowaniu z Microsoft Store, ale dla większości użytkowników te różnice nie są zauważalne.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Pobierz { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Jesteśmy w okresie przejściowym pomiędzy głównymi wersjami ESR { $esr_next_major } i { $esr_current_major }.
+firefox-all-esr-when-there-is = Kiedy pojawia się aktualizacja wersji głównej, zawsze następuje faza nałożenia się kilku wydań { -brand-name-firefox-esr }, w obu liniach zwiększając numer wersji po kropce, aby umożliwić osobom korzystającym ze starej wersji przygotowanie się do przejścia na nową.
+firefox-all-esr-if-you-choose = Jeśli zdecydujesz się na pobranie starszej wersji ESR, po zakończeniu okresu przejściowego nastąpi automatyczna aktualizacja do nowej wersji.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Przeczytaj więcej o cyklu wydań <a { $attrs }>{ -brand-name-firefox-esr }</a>.
 firefox-all-check-the-system-requirements = Wymagania systemowe
 firefox-all-release-notes = Informacje o wydaniu
 firefox-all-source-code = Kod źródłowy
@@ -59,14 +66,7 @@ firefox-all-product-send-link = Wyślij odnośnik do pobrania na swój telefon
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Wybierz 32-bitowy instalator dla komputerów z procesorami 32-bitowymi — lub dla starszych albo słabszych komputerów. <a href="{ $url }">Jeśli nie masz pewności</a>, który instalator wybrać, to zalecamy skorzystanie z 32-bitowego.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Pobierz przeglądarkę { $product_label } dla systemu { $platform } w języku: { $locale }
 firefox-all-msi-installers = Instalatory MSI
-firefox-all-which-version = Którą wersję chcesz?
-firefox-all-select-your-preferred-installer = Wybierz preferowany instalator
 firefox-all-select-your-preferred-language = Wybierz preferowany język
 firefox-all-learn-about-installers = Więcej informacji o instalatorach
 firefox-all-product-firefox = { -brand-name-firefox }
@@ -79,3 +79,5 @@ firefox-all-product-firefox-android-beta = { -brand-name-firefox } na { -brand-n
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } na { -brand-name-android(case: "acc") } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } na { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } na iOS z TestFlight
+firefox-all-download-esr-115 = Pobierz ESR 115
+firefox-all-note-unsupported = Uwaga: Jeśli używasz systemu Windows 7, Windows 8, Windows 8.1 lub macOS 10.12, 10.13 lub 10.14, aby móc korzystać z { -brand-name-firefox(case: "gen") }, pobierz wersję ESR 115.

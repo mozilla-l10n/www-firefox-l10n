@@ -62,16 +62,11 @@ firefox-developer-master-innovative-features = Inovativne funkcije
 firefox-developer-want-to-be-on-the-cutting-edge = Želiš koristiti najnoviju tehnologiju?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } se dnevno aktualizira i omogućuje pristup funkcijama, mjesecima prije nego što su dostupni široj javnosti.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } je jedini preglednik s alatima za izgradnju i dizajn stranica pomoću CSS mreže. Ovi alati omogućuju vizualiziranje mreže, prikaz imena područja u mreži, pregled transformacija u mreži i još mnogo toga.
-firefox-developer-convenient-features = Praktične funkcije
-firefox-developer-shapes-editor = Uređivač oblika
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = „{ -brand-name-firefox-devtools }” ima potpuno novi uređivač oblika staza koji eliminira nagađanja prilikom uređivanja „shape-outside” i „clip-path” elemenata, omogućujući fino vizualno podešavanje.
-firefox-developer-firefox-devtools-has-a-brand-new = „{ -brand-name-firefox-devtools }” ima potpuno novi uređivač oblika staza koji eliminira nagađanja prilikom uređivanja „shape-outside” i „clip-path” elemenata, omogućujući fino vizualno podešavanje.
 firefox-developer-faster-innovation = Brže informacije
 firefox-developer-fonts-panel = Ploča s fontovima
 firefox-developer-the-new-fonts-panel = Nova ploča za fontove u „{ -brand-name-firefox-devtools }” omogućuje programerima brz pristup svim podacima o korištenim fontovima u elementu. Ploča uključuje korisne podatke kao što su izvor fonta, debljina, stil i drugo.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } automatski šalje povratne informacije organizaciji { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Preuzmi { -brand-name-firefox } preglednik namijenjen programerima
-firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } je kompletno obnovljen kako bi bio brži, elegantniji i moćniji nego ikad.
 firefox-developer-welcome-to-firefox-developer-edition = Dobro došao, dobro došla u { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Preglednik izrađen za programere
 firefox-developer-all-the-latest-v2 = Svi najnoviji alati za programere u beta verziji uz funkcije kao što su uređivač višeredne konzole i WebSocket inspektor.
@@ -84,9 +79,17 @@ firefox-developer-view-the-release = Pogledaj <a { $attrs }>napomene o izdanju</
 firefox-developer-developer-tools-user = Korisnički dokumenti alata za programere
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resursi za programere, od programera.
+firefox-developer-mdn-blog = { -brand-name-mdn } blog
+firefox-developer-mdn-updates = Aktualiziranja
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } reference
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } je kolaborativni projekt otvorenog koda koji dokumentira tehnologije web platformi, uključujući CSS, HTML, JavaScript i web API-je.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn } kurikulum
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = Strukturirani vodič za bitne vještine i prakse za uspješno programiranje sučelja, zajedno s preporučenim resursima za učenje.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = Podrži { -brand-name-mdn } i učini ga svojim sa zbirkama, obavijestima i igralištima.

@@ -9,69 +9,60 @@
 
 ## Company names
 
--brand-name-amazon = Amazon
 -brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook = Facebook
 -brand-name-github = GitHub
 -brand-name-google =
     { $sklon ->
-       *[imenovalnik] Google
         [rodilnik] Googla
         [dajalnik] Googlu
         [tozilnik] Google
         [mestnik] Googlu
         [orodnik] Googlom
+       *[imenovalnik] Google
     }
--brand-name-hulu = Hulu
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla =
     { $sklon ->
-       *[imenovalnik] Mozilla
         [rodilnik] Mozille
         [dajalnik] Mozilli
         [tozilnik] Mozillo
         [mestnik] Mozilli
         [orodnik] Mozillo
+       *[imenovalnik] Mozilla
     }
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
--brand-name-mullvad = Mullvad
 -brand-name-netscape =
     { $sklon ->
-       *[imenovalnik] Netscape
         [rodilnik] Netscapa
         [dajalnik] Netscapu
         [tozilnik] Netscape
         [mestnik] Netscapu
         [orodnik] Netscapom
+       *[imenovalnik] Netscape
     }
 -brand-name-twitter = Twitter
 -brand-name-wireguard = WireGuard
 -brand-name-linkedin = LinkedIn
 -brand-name-tiktok = TikTok
 -brand-name-spotify = Spotify
--brand-name-mastodon = Mastodon
 
 ## Firefox browsers
 
 -brand-name-firefox =
     { $sklon ->
-       *[imenovalnik] Firefox
         [rodilnik] Firefoxa
         [dajalnik] Firefoxu
         [tozilnik] Firefox
         [mestnik] Firefoxu
         [orodnik] Firefoxom
+       *[imenovalnik] Firefox
     }
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
     { $sklon ->
-       *[imenovalnik]
-            { $zacetnica ->
-                [velika] Brskalnik Firefox
-               *[mala] brskalnik Firefox
-            }
         [rodilnik]
             { $zacetnica ->
                 [velika] Brskalnika Firefox
@@ -97,14 +88,14 @@
                 [velika] Brskalnikom Firefox
                *[mala] brskalnikom Firefox
             }
+       *[imenovalnik]
+            { $zacetnica ->
+                [velika] Brskalnik Firefox
+               *[mala] brskalnik Firefox
+            }
     }
 -brand-name-firefox-browsers =
     { $sklon ->
-       *[imenovalnik]
-            { $zacetnica ->
-                [velika] Brskalniki Firefox
-               *[mala] brskalniki Firefox
-            }
         [rodilnik]
             { $zacetnica ->
                 [velika] Brskalnikov Firefox
@@ -130,6 +121,11 @@
                 [velika] Brskalniki Firefox
                *[mala] brskalniki Firefox
             }
+       *[imenovalnik]
+            { $zacetnica ->
+                [velika] Brskalniki Firefox
+               *[mala] brskalniki Firefox
+            }
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
@@ -146,12 +142,12 @@
 -brand-name-esr = ESR
 -brand-name-focus =
     { $sklon ->
-       *[imenovalnik] Focus
         [rodilnik] Focusa
         [dajalnik] Focusu
         [tozilnik] Focus
         [mestnik] Focusu
         [orodnik] Focusom
+       *[imenovalnik] Focus
     }
 -brand-name-nightly = Nightly
 
@@ -159,42 +155,27 @@
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = Aurora
--brand-name-firefox-daylight = Firefox Daylight
--brand-name-daylight = Daylight
 -brand-name-firefox-quantum = Firefox Quantum
--brand-name-firefox-lite = Firefox Lite
--brand-name-lite = Lite
--brand-name-firefox-reality = Firefox Reality
--brand-name-reality = Reality
 
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-relay = Firefox Relay
--brand-name-firefox-relay-premium = Firefox Relay Premium
--brand-name-firefox-sync = Firefox Sync
 -brand-name-firefox-translations = Firefox Translations
 
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
 -brand-name-relay = Relay
--brand-name-relay-premium = Relay Premium
--brand-name-sync = Sync
 
 ## Firefox products (legacy)
 
 -brand-name-firefox-account = Firefox Račun
 -brand-name-firefox-accounts = Firefox Računi
--brand-name-firefox-better-web = Firefox Better Web
--brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
--brand-name-firefox-send = Firefox Send
--brand-name-send = Send
 -brand-name-firefox-private-network = Firefox Private Network
--brand-name-fpn = FPN
 
 ## Firefox projects
 
@@ -216,12 +197,12 @@
 
 -brand-name-bugzilla =
     { $sklon ->
-       *[imenovalnik] Bugzilla
         [rodilnik] Bugzille
         [dajalnik] Bugzilli
         [tozilnik] Bugzillo
         [mestnik] Bugzilli
         [orodnik] Bugzillo
+       *[imenovalnik] Bugzilla
     }
 -brand-name-gecko =
     { $sklon ->
@@ -234,19 +215,18 @@
     }
 -brand-name-glean =
     { $sklon ->
-       *[imenovalnik] Glean
         [rodilnik] Gleana
         [dajalnik] Gleanu
         [tozilnik] Glean
         [mestnik] Gleanu
         [orodnik] Gleanom
+       *[imenovalnik] Glean
     }
 -brand-name-irl-podcast = Podkast IRL
--brand-name-llamafile = Llamafile
+-brand-name-solo-ai = Solo AI
 -brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
--brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-festival = Mozillin festival
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
@@ -316,10 +296,8 @@
                *[mala] računi Mozilla
             }
     }
--brand-name-mozilla-social = Mozilla.social
 -brand-name-mozilla-builders = Mozilla Builders
-# Obsolete string (expires: 2025-01-05)
--brand-name-mozilla-ai = Mozilla UI
+-brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-rise25 = Rise25
@@ -330,40 +308,31 @@
 -brand-name-common-voice = Common Voice
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
--brand-name-vpn = VPN
 
 ## Mozilla projects (legacy)
 
--brand-name-mozilla-developer-network = Mozilla Developer Network
--brand-name-mozilla-labs = Mozilla Labs
--brand-name-hubs = Hubs
--brand-name-lockwise = Lockwise
--brand-name-lightbeam = Lightbeam
--brand-name-maker-party = Maker Party
 -brand-name-webmaker = Webmaker
 
 ## Open Source projects
 
 -brand-name-rust = Rust
--brand-name-webassembly = WebAssembly
 
 ## Other browsers
 
 -brand-name-brave = Brave
 -brand-name-chrome =
     { $sklon ->
-       *[imenovalnik] Chrome
         [rodilnik] Chroma
         [dajalnik] Chromu
         [tozilnik] Chrome
         [mestnik] Chromu
         [orodnik] Chromom
+       *[imenovalnik] Chrome
     }
 -brand-name-edge = Edge
 -brand-name-ie = Internet Explorer
 -brand-name-opera = Opera
 -brand-name-safari = Safari
--brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
@@ -373,10 +342,7 @@
 -brand-name-linux = Linux
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
--brand-name-ubuntu = Ubuntu
--brand-name-vista = Vista
 -brand-name-windows = Windows
--brand-name-xp = XP
 
 ## Apple products
 
@@ -385,15 +351,10 @@
 -brand-name-iphone = iPhone
 -brand-name-test-flight = TestFlight
 
-## Amazon products
-
--brand-name-fire-tv = Fire TV
-
 ## Facebook products
 
 -brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
--brand-name-messenger = Messenger
 -brand-name-workplace = Workplace
 
 ## Google products
@@ -402,11 +363,11 @@
 -brand-name-google-play = Google Play
 -brand-name-youtube =
     { $sklon ->
-       *[imenovalnik] YouTube
         [rodilnik] YouTuba
         [dajalnik] YouTubu
         [tozilnik] YouTube
         [mestnik] YouTubu
         [orodnik] YouTubom
+       *[imenovalnik] YouTube
     }
 -brand-name-chromebook = Chromebook

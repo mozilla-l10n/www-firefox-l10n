@@ -16,21 +16,14 @@ navigation-refresh-mozilla-manifesto-v2 = Tuyên ngôn { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Tham gia đóng góp
 navigation-refresh-get-involved-v2 = Tham gia
-navigation-refresh-innovation-projects = Những dự án sáng tạo
-navigation-refresh-innovation-projects-v2 = Những dự án sáng tạo
 navigation-refresh-blog = Nhật ký
 navigation-refresh-our-mission = Sứ mệnh của chúng tôi
 navigation-refresh-our-work = Công việc của chúng tôi
 navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = Quảng cáo với { -brand-name-mozilla }
+navigation-refresh-mozilla-new-products = Sản phẩm mới của { -brand-name-mozilla }
 
 ## Firefox
 

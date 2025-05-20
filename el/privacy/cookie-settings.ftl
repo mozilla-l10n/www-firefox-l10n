@@ -16,7 +16,7 @@ cookie-settings-save-changes = Αποθήκευση αλλαγών
 cookie-settings-your-cookie-settings-have = Οι ρυθμίσεις cookie σας έχουν ενημερωθεί.
 cookie-settings-i-agree = Συμφωνώ
 cookie-settings-i-do-not-agree = Δεν συμφωνώ
-cookie-settings-turn-on-javascript = Παρακαλούμε ενεργοποιήστε τη JavaScript για να ενημερώσετε τις ρυθμίσεις cookie σας.
+cookie-settings-turn-on-javascript = Ενεργοποιήστε τη JavaScript για να ενημερώσετε τις ρυθμίσεις cookie σας.
 
 ## Necessary cookies section
 
@@ -38,11 +38,6 @@ cookie-settings-category-analytics-heading = Ανάλυσης
 cookie-settings-category-analytics-what-are-subheading = Τι είναι τα cookie ανάλυσης;
 cookie-settings-category-analytics-what-are-desc = Αυτές οι τεχνολογίες συλλέγουν πληροφορίες σχετικά με το πώς οι χρήστες χρησιμοποιούν τους ιστοτόπους, όπως σελίδες που επισκέφθηκαν, συνδέσμους στους οποίους έκαναν κλικ και από ποιους άλλους ιστοτόπους προέρχονται από επισκέψεις.
 cookie-settings-category-analytics-how-does-desc = Η { -brand-name-mozilla } χρησιμοποιεί τις πληροφορίες ανάλυσης για να κατανοήσει πώς αλληλεπιδρούν οι χρήστες με τους ιστοτόπους μας, ώστε να μπορέσουμε να τους βελτιώσουμε και να διορθώσουμε τυχόν προβλήματα. Ενδέχεται επίσης να χρησιμοποιήσουμε τα δεδομένα από τα cookie, πληροφορίες συσκευών και διευθύνσεις IP για να κατανοήσουμε πώς αλληλεπιδρούν οι χρήστες με τα προϊόντα, τις υπηρεσίες, τις μεθόδους επικοινωνίας, τους ιστοτόπους, τις διαδικτυακές εκστρατείες, τις συσκευές και άλλες πλατφόρμες μας. Συλλέγουμε πληροφορίες ανάλυσης και αποθηκεύουμε cookie ανάλυσης μόνο με τη συναίνεσή σας.
-
-## Consent section
-
-cookie-settings-your-consent-heading = Η συγκατάθεσή σας
-cookie-settings-your-consent-desc = Με την αποδοχή των cookie, δίνετε τη συγκατάθεσή σας για την ακόλουθη λίστα ιστοτόπων της { -brand-name-mozilla }, οι οποίοι τηρούν τα ίδια, αυστηρά πρότυπα για το απόρρητο των δεδομένων. Σημειώστε ότι αυτή η λίστα ενδέχεται να ενημερώνεται με την πάροδο του χρόνου.
 
 ## Privacy section
 

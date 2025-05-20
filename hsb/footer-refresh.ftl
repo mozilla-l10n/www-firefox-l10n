@@ -2,12 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-discover-mozilla-products = Wuslědźće produkty a iniciatiwy { -brand-name-mozilla }. Lubimy, zo wašu e-mejl priwatnu a wěstu dźeržimy – žane dźělenje, žane předawanje, jenož wulkotne aktualizacije.
 footer-refresh-leadership = Nawodnistwo
 footer-refresh-advertise = Z { -brand-name-mozilla } wabić
+footer-refresh-mozilla-advertising = Wabjenje { -brand-name-mozilla }
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = Zhońće wjace <span>wo { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Wersijowe informacije { -brand-name-firefox }
+footer-refresh-privacy-first = Wabjenske rozrisanja za marki, wudawaćelow a platformy, kotrež priwatnosć na prěnje městno stajeja.
+footer-refresh-mdn-v2 = { -brand-name-mdn }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } slědować
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -22,8 +28,6 @@ footer-refresh-support = Pomoc
 footer-refresh-product-help = Pomoc wo produkće
 footer-refresh-file-a-bug = Zmylkowu rozprawu pisać
 footer-refresh-localize-mozilla = { -brand-name-mozilla } lokalizować
-footer-refresh-resources = Resursy
-footer-refresh-brand-standards = Markowe standardy
 footer-refresh-developers = Wuwiwarjo
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

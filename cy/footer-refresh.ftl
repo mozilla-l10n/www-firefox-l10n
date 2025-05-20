@@ -5,10 +5,15 @@
 footer-refresh-discover-mozilla-products = Darganfod cynnyrch a mentrau { -brand-name-mozilla }. Rydym yn addo cadw'ch e-bost yn breifat ac yn ddiogel — dim rhannu, dim gwerthu, dim ond diweddariadau gwych.
 footer-refresh-leadership = Arweinyddiaeth
 footer-refresh-advertise = Hysbysebu gyda { -brand-name-mozilla }
+footer-refresh-mozilla-advertising = Hysbysebu { -brand-name-mozilla }
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = Dysgwch fwy <span>am { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Nodiadau Rhyddhau { -brand-name-firefox }
+footer-refresh-privacy-first = Atebion hysbysebu preifatrwydd yn gyntaf ar gyfer brandiau, cyhoeddwyr a llwyfannau.
+footer-refresh-mdn-v2 = { -brand-name-mdn }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Dilyn @ { -brand-name-mozilla }
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -23,8 +28,6 @@ footer-refresh-support = Cefnogaeth
 footer-refresh-product-help = Cymorth Cynnyrch
 footer-refresh-file-a-bug = Cofnodi Mater
 footer-refresh-localize-mozilla = Lleoleiddiwch { -brand-name-mozilla }
-footer-refresh-resources = Adnoddau
-footer-refresh-brand-standards = Safonau'r Brand
 footer-refresh-developers = Datblygwyr
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

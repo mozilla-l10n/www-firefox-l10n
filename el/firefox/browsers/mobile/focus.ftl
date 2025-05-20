@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/mobile/focus/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Ιδιωτική περιήγηση
@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = Απλά ιδιωτική περιήγησ�
 mobile-focus-firefox-focus-dedicated-with-v2 = Το { -brand-name-firefox-focus } είναι το πρόγραμμα περιήγησης απορρήτου σας με αυτόματη προστασία από καταγραφή. Με το { -brand-name-focus }, οι σελίδες σας φορτώνονται ταχύτερα και τα δεδομένα σας παραμένουν ιδιωτικά.
 mobile-focus-firefox-focus-is-available = Το { -brand-name-firefox-focus } είναι διαθέσιμο για συσκευές { -brand-name-ios } και { -brand-name-android }.
 mobile-focus-get-firefox-focus = Λήψη του { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = Στείλτε έναν σύνδεσμο λήψης στο τηλέφωνό σας.
 mobile-focus-scan-the-qr-code-to-get-started = Σαρώστε τον κωδικό QR για να ξεκινήσετε
 mobile-focus-scan-alt-text = Σαρώστε τον κωδικό QR για να αποκτήσετε το { -brand-name-firefox-focus }
 mobile-focus-delete-your-history = Διαγράψτε το ιστορικό σας

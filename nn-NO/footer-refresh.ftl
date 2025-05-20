@@ -2,12 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-discover-mozilla-products = Oppdag produkt og initiativ frå { -brand-name-mozilla }. Vi lovar å halde e-postadressa di privat og sikker – inga deling, ikkje noko sal, berre gode nyheiter.
 footer-refresh-leadership = Leiarskap
 footer-refresh-advertise = Annonser med { -brand-name-mozilla }
+footer-refresh-mozilla-advertising = { -brand-name-mozilla }-annonsering
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = Lær meir <span>om { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } versjonsnotat
+footer-refresh-privacy-first = Personvern-først annonseringsløysingar for merkevarer, utgivarar og plattformer.
+footer-refresh-mdn-v2 = { -brand-name-mdn }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Følg @{ -brand-name-mozilla }
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -22,8 +28,6 @@ footer-refresh-support = Brukarstøtte
 footer-refresh-product-help = Produkthjelp
 footer-refresh-file-a-bug = Rapporter ein feil
 footer-refresh-localize-mozilla = Omset { -brand-name-mozilla }
-footer-refresh-resources = Resursar
-footer-refresh-brand-standards = Merkestandardar
 footer-refresh-developers = Utviklarar
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

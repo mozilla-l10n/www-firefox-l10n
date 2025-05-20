@@ -20,29 +20,15 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = 已推出新版本的 { -brand-name-firefox }。<a { $update_url }>更新到最新版本</a>
 firefox-desktop-download-get-the-browser = 使用會保護重要資料的瀏覽器
-# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-fast-reliable-private = 快速、可靠、有隱私 — 讓您上網無後顧之憂。
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = 沒有諱莫如深的隱私權保護政策，更不留下後門給廣告商，純屬一套光速快，又不出賣您的瀏覽器。
 firefox-desktop-download-download-options = 下載其他平台與語言版本
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser }技術支援
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = 用您習慣的方式上網。<br>{ -brand-name-firefox-browser } <strong>會保護您</strong>。
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = 用您習慣的方式上網。<br>{ -brand-name-firefox-browser }<strong>不會</strong>偷看。
-firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } 與其他瀏覽器比較
-firefox-desktop-download-get-all-the-speed = 不用拿隱私出來交換，就能有最佳的使用速度與各種好用工具。{ -brand-name-firefox-browser }只會收集關於您非常少的資料，甚至不用輸入 E-Mail 就能下載。在網路上追蹤您對我們來說沒有好處—這是我們與其他瀏覽器最大的不同。
-firefox-desktop-download-how-we-compare = 我們與其他瀏覽器的差別
-firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } 與下列瀏覽器：
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = 有
-firefox-desktop-download-no = 沒有
-firefox-desktop-download-blocks-third-party = 封鎖第三方追蹤 Cookie
-firefox-desktop-download-blocks-third-party-default = 自動封鎖第三方追蹤 Cookie
-firefox-desktop-download-autoplay-blocking = 封鎖自動播放
-firefox-desktop-download-blocks-social-trackers = 封鎖社交追蹤器
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = 不同作業系統皆有提供
-firefox-desktop-download-in-browser-screenshot = 內建畫面擷圖工具
-firefox-desktop-download-primary-password = 主控密碼
 firefox-desktop-download-we-block-the-ad = 交給我們封鎖廣告追蹤器，您就可以更快速悠遊上網。
 firefox-desktop-download-ads-are-distracting = 廣告讓人分心，當中的追蹤器會監控您在網路上的一舉一動，也讓網頁更慢載入。{ -brand-name-firefox-browser }會自動封鎖網路上大部分的追蹤器，這樣就不必深入研究到底有哪些安全性設定需要調整。
 firefox-desktop-download-see-your-report = 檢視您的保護報告
@@ -50,7 +36,7 @@ firefox-desktop-download-for-everyone = 任何人都能使用 { -brand-name-fire
 firefox-desktop-download-available-in-over = 不論您在何處，使用哪種電腦，{ -brand-name-firefox } 有超過 90 種語言版本，並且與 { -brand-name-windows }、{ -brand-name-mac-short }、{ -brand-name-linux } 都相容。請確保您的作業系統已經升級到最新版，以獲得最佳使用體驗。
 firefox-desktop-download-review-system-req = 確認系統需求
 firefox-desktop-download-all-your-devices = 將 { -brand-name-firefox } 安裝到您所有的裝置上
-firefox-desktop-download-take-your-privacy = 隨時隨地都有最佳隱私保護。{ -brand-name-firefox-browsers } for { -brand-name-ios } 與 { -brand-name-android } 有跟桌面版一樣的強大隱私權保護設定，不讓追蹤器在網路上追蹤您的行為。
+firefox-desktop-download-take-your-privacy = 隨時隨地都有最佳隱私保護。{ -brand-name-ios } 與 { -brand-name-android } 版 { -brand-name-firefox-browsers }有跟桌面版一樣的強大隱私權保護設定，不讓追蹤器在網路上追蹤您的行為。
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = { -brand-name-firefox } <strong>有下列功能</strong>
 firefox-desktop-download-search-smarter = 搜尋更聰明、更快
@@ -128,6 +114,10 @@ firefox-desktop-download-from-security-to = 從安全性、新聞、到網路遊
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } 一開始是由 <a { $attrs }>{ -brand-name-mozilla }</a> 打造，希望成為在 { -brand-name-ie }（現在則是 { -brand-name-chrome }）之外，更快、更有隱私的瀏覽器。而現在，我們由以使命驅動的公司與全球志工社群組合而成，持續將您的隱私放在第一位。
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = 隨著網際網路的發展與變化，{ -brand-name-firefox } 持續關注您的隱私權 — 我們總是這麼認為的。請參考<a { $attrs }>隱私權公告</a>了解我們的資料處理方式。
+# Obsolete string (expires: 2025-04-17)
+# Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = 隨著網路環境發展改變，{ -brand-name-firefox } 持續著重於保護您的隱私權 — 我們稱為 <a { $attrs }>Personal Data Promise</a>：資料拿得越少越好、確保資料安全、絕不祕而不宣。{ -brand-name-firefox } 承諾保護您的資料、在網路上的行為、線上生活。
 # Variables:
@@ -142,7 +132,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } 會自�
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = 有問題嗎？讓 <a { $attrs }>{ -brand-name-mozilla } 技術支援站</a>來幫幫您。
-firefox-desktop-download-watch-for-hackers-with-v3 = 使用 { -brand-name-mozilla-monitor } 監控駭客、使用 { -brand-name-firefox-relay } 保護您的信箱，還有更多功能。
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -165,18 +154,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = 若您看到「您正要安裝的應用程式未經 { -brand-name-microsoft } 驗證」，請點擊「還是要安裝」或<a { $attrs }>更改應用程式推薦設定</a>。
 firefox-desktop-download-visit-support-for-more = 到技術支援站了解更多資訊
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">不再針對 { -brand-name-windows } { -brand-name-xp } 或 { -brand-name-vista } 平台提供安全性更新</a>，但您還是可以使用已安裝的 { -brand-name-firefox }。
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = 將自動開始下載，若沒有的話請<a id="{ $id }" href="{ $fallback_url }">點擊此處再試一次。</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } 不只是瀏覽器。
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = 下載已中斷，但已下載的部分將保留。
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = 請依照<a href="{ $url }">此步驟</a>安裝 { -brand-name-firefox }。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = 您的系統可能不符合執行 { -brand-name-firefox } 的最低需求，但還是可以試試<a href="{ $url }">這些版本</a>。

@@ -20,36 +20,22 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Một phiên bản mới của { -brand-name-firefox } đã có sẵn. <a { $update_url }>Cập nhật lên phiên bản mới nhất</a>
 firefox-desktop-download-get-the-browser = Tải trình duyệt bảo vệ những gì quan trọng
-# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-fast-reliable-private = Nhanh chóng, đáng tin cậy và riêng tư — để bạn yên tâm khi trực tuyến.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Không có chính sách bảo mật mờ ám hoặc cửa sau cho các nhà quảng cáo. Chỉ cần một trình duyệt nhanh như chớp mà không bán bất kỳ thứ gì của bạn.
 firefox-desktop-download-download-options = Tùy chọn tải xuống và các ngôn ngữ khác
 firefox-desktop-download-browser-support = Hỗ trợ { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Làm những gì bạn làm trực tuyến.<br> { -brand-name-firefox-browser } sẽ <strong>bảo vệ</strong> bạn.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Làm những gì bạn làm trực tuyến.<br> { -brand-name-firefox-browser } <strong>sẽ không</strong> theo dõi.
-firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } so với các trình duyệt khác như thế nào
-firefox-desktop-download-get-all-the-speed = Nhận tất cả các tốc độ và công cụ mà không có sự xâm phạm quyền riêng tư. { -brand-name-firefox-browser } thu thập rất ít dữ liệu về bạn, chúng tôi thậm chí không yêu cầu địa chỉ email của bạn để tải xuống. Điều đó vì không giống như các trình duyệt khác, chúng tôi không có cổ phần tài chính để theo dõi bạn trên web.
-firefox-desktop-download-how-we-compare = Chúng tôi so sánh với các trình duyệt khác như thế nào
-firefox-desktop-download-compare-firefox-to = So sánh { -brand-name-firefox } với:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Có
-firefox-desktop-download-no = Không
-firefox-desktop-download-blocks-third-party = Chặn cookie theo dõi của bên thứ ba
-firefox-desktop-download-blocks-third-party-default = Chặn cookie theo dõi của bên thứ ba theo mặc định
-firefox-desktop-download-autoplay-blocking = Chặn tự động phát
-firefox-desktop-download-blocks-social-trackers = Chặn trình theo dõi xã hội
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Hệ điều hành khả dụng
-firefox-desktop-download-in-browser-screenshot = Công cụ chụp màn hình trong trình duyệt
-firefox-desktop-download-primary-password = Mật khẩu chính
 firefox-desktop-download-we-block-the-ad = Chúng tôi chặn trình theo dõi quảng cáo. Bạn khám phá internet nhanh hơn.
 firefox-desktop-download-ads-are-distracting = Quảng cáo gây mất tập trung và làm cho các trang web tải chậm hơn trong khi trình theo dõi của họ theo dõi mọi di chuyển bạn thực hiện trực tuyến. { -brand-name-firefox-browser } tự động chặn hầu hết các trình theo dõi, do đó, không cần phải đào sâu vào cài đặt bảo mật của bạn.
 firefox-desktop-download-see-your-report = Xem báo cáo bảo vệ của bạn
 firefox-desktop-download-for-everyone = { -brand-name-firefox } dành cho tất cả mọi người
 firefox-desktop-download-available-in-over = Có sẵn trong hơn 90 ngôn ngữ và tương thích với { -brand-name-windows }, { -brand-name-mac-short } và { -brand-name-linux }, { -brand-name-firefox } hoạt động bất kể những gì bạn đang sử dụng hoặc bạn đang ở đâu. Đảm bảo hệ điều hành của bạn được cập nhật để có trải nghiệm tốt nhất.
 firefox-desktop-download-review-system-req = Xem các yêu cầu hệ thống
-firefox-desktop-download-all-your-devices = Đặt { -brand-name-firefox } trên tất cả các thiết bị của bạn
+firefox-desktop-download-all-your-devices = Sử dụng { -brand-name-firefox } trên tất cả các thiết bị của bạn
 firefox-desktop-download-take-your-privacy = Mang theo sự riêng tư của bạn ở khắp mọi nơi. { -brand-name-firefox-browsers } dành cho { -brand-name-ios } và { -brand-name-android } có cùng cài đặt quyền riêng tư để chặn trình theo dõi của bạn trên web, bất kể bạn ở đâu.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Làm <strong>tất cả</strong> với { -brand-name-firefox }
@@ -76,8 +62,8 @@ firefox-desktop-download-curated-content-on = Hiển thị nội dung nổi bậ
 firefox-desktop-download-share-links = Chia sẻ liên kết
 firefox-desktop-download-protect-your-privacy = Bảo vệ sự riêng tư của bạn
 firefox-desktop-download-third-party-cookie = Chặn cookie của bên thứ ba
-firefox-desktop-download-fingerprinter-blocking = Chặn vân tay
-firefox-desktop-download-cryptominer-blocking = Chặn tiền điện tử
+firefox-desktop-download-fingerprinter-blocking = Chặn trình lấy dấu vết
+firefox-desktop-download-cryptominer-blocking = Chặn trình đào tiền điện tử
 firefox-desktop-download-private-browsing-mode = Chế độ duyệt web riêng tư
 firefox-desktop-download-individual-protections-report = Báo cáo bảo vệ cá nhân
 firefox-desktop-download-secure-your-personal = Bảo mật thông tin cá nhân của bạn
@@ -128,6 +114,10 @@ firefox-desktop-download-from-security-to = Từ bảo mật đến tin tức đ
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } được tạo bởi <a { $attrs }>{ -brand-name-mozilla }</a> dưới dạng thay thế nhanh hơn, riêng tư hơn cho các trình duyệt như { -brand-name-ie }, và bây giờ { -brand-name-chrome }. Hôm nay, công ty và cộng đồng tình nguyện điều hành nhiệm vụ của chúng tôi tiếp tục đặt quyền riêng tư của bạn lên trên tất cả.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Khi internet phát triển và thay đổi, { -brand-name-firefox } tiếp tục tập trung vào quyền riêng tư của bạn — đó luôn là điều mà chúng tôi quan tâm. Tìm hiểu thêm về các hoạt động dữ liệu của chúng tôi trong <a { $attrs }>thông báo về quyền riêng tư</a>.
+# Obsolete string (expires: 2025-04-17)
+# Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Khi internet phát triển và thay đổi, { -brand-name-firefox } tiếp tục tập trung vào quyền riêng tư của bạn  — chúng tôi gọi đó là <a { $attrs }>Lời hứa dữ liệu cá nhân</a>: Lấy ít hơn. Giữ nó an toàn. Không có bí mật. Dữ liệu của bạn, hoạt động web của bạn, cuộc sống trực tuyến của bạn được bảo vệ với { -brand-name-firefox }.
 # Variables:
@@ -142,7 +132,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } tự đ
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Có câu hỏi? <a { $attrs }>Hỗ trợ { -brand-name-mozilla }</a> sẽ giúp ích cho bạn.
-firefox-desktop-download-watch-for-hackers-with-v3 = Theo dõi tin tặc với { -brand-name-mozilla-monitor }, bảo vệ địa chỉ email của bạn với { -brand-name-firefox-relay }, và hơn thế nữa.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -165,18 +154,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = Nếu bạn thấy lời nhắc cho biết ứng dụng bạn đang cố gắng cài đặt không phải là ứng dụng đã được xác minh của { -brand-name-microsoft }, hãy nhấp vào “Install anyway” hoặc <a { $attrs }>thay đổi cài đặt đề xuất ứng dụng</a>.
 firefox-desktop-download-visit-support-for-more = Truy cập hỗ trợ để biết thêm chi tiết
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">không còn cung cấp các bản cập nhật bảo mật</a> trên { -brand-name-windows } { -brand-name-xp } và { -brand-name-vista }, nhưng bạn vẫn có thể sử dụng { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Việc tải xuống sẽ diễn ra tự động. Nếu không, hãy <a id="{ $id }" href="{ $fallback_url }">nhấp vào đây.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } không chỉ là một trình duyệt.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Quá trình tải xuống của bạn bị gián đoạn, nhưng mọi thứ chưa bị mất.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Vui lòng làm theo <a href="{ $url }">hướng dẫn này</a> để cài đặt { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Hệ thống của bạn có thể không đáp ứng các yêu cầu của { -brand-name-firefox }, nhưng bạn có thể thử một trong <a href="{ $url }">các phiên bản này</a>.

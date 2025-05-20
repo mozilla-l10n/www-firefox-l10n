@@ -62,16 +62,11 @@ firefox-developer-master-innovative-features = Inovativne mogućnosti
 firefox-developer-want-to-be-on-the-cutting-edge = Želite ostati uz najnovije tehnologije?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } prima dnevno ažuriranje i omogućava vam pristup mogućnostima mjesecima prije nego budu dostupni široj javnosti.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } je jedini pretraživač s alatima napravljenim posebno za izgradnju i dizajniranje s CSS mrežom. Ovi alati omogućavaju vam vizualizaciju mreže, prikaz naziva pridruženih lokacija, pregled transformacije na mreži i još mnogo toga.
-firefox-developer-convenient-features = Korisne mogućnosti
-firefox-developer-shapes-editor = Urednik oblika
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } su opremljeni potpuno novim uređivačem oblika, koji uz intuitivno vizualno uređivanje štedi nagađanja o usavršavanju oblika "shape-outside" in "clip-path".
-firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } su opremljeni potpuno novim uređivačem oblika, koji uz intuitivno vizualno uređivanje štedi nagađanja o usavršavanju oblika "shadow-outside" in "clip-path".
 firefox-developer-faster-innovation = Brže informacije
 firefox-developer-fonts-panel = Panel za fontove
 firefox-developer-the-new-fonts-panel = Novi panel za fontove u programu { -brand-name-firefox-devtools } daje razvojnim inženjerima brz pristup svim informacijama koje su im potrebne o korištenju fontova u elementu. Ona takođe uključuje vrijedne informacije kao što su izvor fonta, težina, stil i još mnogo toga.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } automatski šalje povratnu informaciju { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Preuzmite { -brand-name-firefox } pretraživač napravljen za programere
-firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } je izgrađen iznova da bi bio brži, uglađeniji i moćniji nego ikad.
 firefox-developer-welcome-to-firefox-developer-edition = Dobrodošli u { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Pretraživač napravljen za programere
 firefox-developer-all-the-latest-v2 = Svi najnoviji alati za programere u beta verziji, pored funkcija kao što su uređivač višelinijskih konzola i WebSocket inspektor.
@@ -84,9 +79,21 @@ firefox-developer-view-the-release = Pogledajte <a { $attrs }>napomene o izdanju
 firefox-developer-developer-tools-user = Korisnički dokumenti alata za programere
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resursi za programere, od strane programera
+firefox-developer-mdn-playground = Igralište
+firefox-developer-mdn-write-test-and-share = Napišite, testirajte i podijelite svoj kod. Vaše igralište za učenje i dijeljenje svog nevjerovatnog rada sa svijetom.
+firefox-developer-mdn-blog = { -brand-name-mdn } blog
+firefox-developer-mdn-unlock-the-world = Otključajte svijet web razvoja uz { -brand-name-mdn } blog — vaš centar za stručne uvide, najnovije web standarde i savjete za kodiranje.
+firefox-developer-mdn-updates = Nadogradnje
+firefox-developer-mdn-the-web-doesnt-have = Web nema dnevnik promjena, ali { -brand-name-mdn } može pomoći. Možete personalizirati i filtrirati promjene kompatibilnosti na osnovu pretraživača ili tehničke kategorije koja vas zanima da li je to JavaScript, CSS, itd.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } reference
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } je open-source, kolaborativni projekat koji dokumentuje tehnologije web platforme, uključujući CSS, HTML, JavaScript i web API-je.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn } plan i program
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = Strukturirani vodič za osnovne vještine i prakse za uspješnog front-end programera, zajedno s preporučenim resursima za učenje.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = Podržite { -brand-name-mdn } i učinite ga svojim s kolekcijama, obavještenjima i igralištima.

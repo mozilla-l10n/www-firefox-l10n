@@ -5,10 +5,15 @@
 footer-refresh-discover-mozilla-products = Objevte produkty a iniciativy { -brand-name-mozilla(case: "gen") }. Slibujeme, že udržíme váš e-mail v soukromí a bezpečí – žádné sdílení, žádný prodej, jen skvělé novinky.
 footer-refresh-leadership = Vedení
 footer-refresh-advertise = Inzerujte s { -brand-name-mozilla(case: "ins") }
+footer-refresh-mozilla-advertising = { -brand-name-mozilla } Advertising
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = Další informace <span>o { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Poznámky k vydání { -brand-name-firefox(case: "gen") }
+footer-refresh-privacy-first = Reklamní řešení pro značky, vydavatele a platformy s ohledem na ochranu soukromí.
+footer-refresh-mdn-v2 = { -brand-name-mdn }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Sledujte @{ -brand-name-mozilla }
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -23,8 +28,6 @@ footer-refresh-support = Podpora
 footer-refresh-product-help = Nápověda k produktům
 footer-refresh-file-a-bug = Nahlásit chybu
 footer-refresh-localize-mozilla = Přeložit { -brand-name-mozilla(case: "acc") }
-footer-refresh-resources = Zdroje
-footer-refresh-brand-standards = Zásady obchodní značky
 footer-refresh-developers = Vývojáři
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

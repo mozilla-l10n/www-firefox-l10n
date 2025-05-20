@@ -3,6 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-refresh-mozilla = { -brand-name-mozilla }
+# An accessible label used to describe that the role of the element is the primary website navigation.
+navigation-refresh-landmark-label = Ñepyrũgua
 
 ## About us
 
@@ -14,20 +16,14 @@ navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla } He’ipyre
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Eike pype
 navigation-refresh-get-involved-v2 = Eike pype
-navigation-refresh-innovation-projects = Apopyrã tekopyahurã
-navigation-refresh-innovation-projects-v2 = Apopyrã tekopyahurã
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Ore Rembipota
 navigation-refresh-our-work = Ore rembiapo
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
+navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } Momarandu
+navigation-refresh-mozilla-new-products = { -brand-name-mozilla } Apopyre pyahu
 
 ## Firefox
 

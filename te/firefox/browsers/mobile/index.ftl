@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/mobile/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
 
 browsers-mobile-firefox-for-android = { -brand-name-android } కోసం  { -brand-name-firefox }
 browsers-mobile-firefox-for-ios = { -brand-name-ios } కొరకు { -brand-name-firefox }

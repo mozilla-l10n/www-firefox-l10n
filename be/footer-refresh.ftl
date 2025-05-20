@@ -4,9 +4,9 @@
 
 footer-refresh-leadership = Кіраўніцтва
 footer-refresh-firefox-release-notes = Заўвагі да выпуску { -brand-name-firefox }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Падпісацца на @{ -brand-name-mozilla }
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -21,8 +21,6 @@ footer-refresh-support = Падтрымка
 footer-refresh-product-help = Даведка пра прадукт
 footer-refresh-file-a-bug = Паведаміць пра памылку
 footer-refresh-localize-mozilla = Лакалізаваць { -brand-name-mozilla }
-footer-refresh-resources = Рэсурсы
-footer-refresh-brand-standards = Стандарты брэнда
 footer-refresh-developers = Распрацоўшчыкам
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

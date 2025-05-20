@@ -5,10 +5,15 @@
 footer-refresh-discover-mozilla-products = Fedezze fel a { -brand-name-mozilla } termékeit és kezdeményezéseit. Ígérjük, hogy az e-mail-címét bizalmasan és biztonságosan tároljuk – nem osztjuk meg, nem adjuk el, csak nagyszerű híreket küldünk.
 footer-refresh-leadership = Vezetés
 footer-refresh-advertise = Hirdessen a { -brand-name-mozilla(ending: "accented") }val
+footer-refresh-mozilla-advertising = { -brand-name-mozilla } hirdetések
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = Tudjon meg többet a <span>{ footer-refresh-mozilla-advertising }ről</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } kiadási megjegyzések
+footer-refresh-privacy-first = Adatvédelmet előtérbe helyező hirdetési megoldások márkák, kiadók és platformok számára.
+footer-refresh-mdn-v2 = { -brand-name-mdn }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Kövesse a következőt: @{ -brand-name-mozilla }
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -23,8 +28,6 @@ footer-refresh-support = Támogatás
 footer-refresh-product-help = Termék súgó
 footer-refresh-file-a-bug = Hiba bejelentése
 footer-refresh-localize-mozilla = A { -brand-name-mozilla } honosítása
-footer-refresh-resources = Erőforrások
-footer-refresh-brand-standards = Márkaszabványok
 footer-refresh-developers = Fejlesztők
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

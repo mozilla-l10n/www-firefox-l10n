@@ -16,21 +16,14 @@ navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla } Manifestosu
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Bize katılın
 navigation-refresh-get-involved-v2 = Bize Katılın
-navigation-refresh-innovation-projects = İnovasyon projeleri
-navigation-refresh-innovation-projects-v2 = İnovasyon Projeleri
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Misyonumuz
 navigation-refresh-our-work = Çalışmalarımız
 navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } Advertising
+navigation-refresh-mozilla-new-products = { -brand-name-mozilla } Yeni Ürünler
 
 ## Firefox
 

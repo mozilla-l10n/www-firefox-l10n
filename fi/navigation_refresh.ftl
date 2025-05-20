@@ -15,13 +15,9 @@ navigation-refresh-mozilla-manifesto = { -brand-name-mozilla }-manifesti
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Tule mukaan
 navigation-refresh-get-involved-v2 = Tule mukaan
-navigation-refresh-innovation-projects = Innovaatioprojektit
-navigation-refresh-innovation-projects-v2 = Innovaatioprojektit
 navigation-refresh-blog = Blogi
 navigation-refresh-our-mission = Tehtävämme
 navigation-refresh-our-work = Työmme
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 

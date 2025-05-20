@@ -3,31 +3,12 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Hemen indir
-download-button-free-download = Ücretsiz indir
 download-button-firefox-beta = { -brand-name-firefox-beta }
 download-button-firefox-aurora = { -brand-name-firefox-aurora }
 download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span> { -brand-name-developer-edition }
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
-download-button-supported-devices = Desteklenen Aygıtlar
-download-button-whats-new = Neler yeni?
 download-button-systems-languages = Sistemler ve Diller
-download-button-recommended = Önerilen
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } artık { -brand-name-windows } { -brand-name-xp } ve { -brand-name-vista } için { -brand-name-firefox } güvenlik güncellemeleri yayımlamıyor</a> ama son çıkan { -brand-name-windows } 32 bit sürümünü aşağıdan indirebilirsiniz.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = { -brand-name-firefox }’u yüklemek için lütfen <a href="{ $url }">bu yönergeleri</a> izle.
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
-download-button-your-system-does-not = Sisteminiz { -brand-name-firefox }’u çalıştırmanın <a href="{ $url }">gereksinimlerini</a> karşılamıyor.
-download-button-firefox-other-platforms = Diğer platformlar ve diller için { -brand-name-firefox }
-download-button-update-your-firefox = { -brand-name-firefox }’u güncelle
-download-button-get-firefox-android = { -brand-name-android } için { -brand-name-firefox }’u indir
-download-button-get-firefox-ios = { -brand-name-ios } için { -brand-name-firefox }’u indir
 download-button-google-play = { -brand-name-google-play }’den indir
-download-button-free-google-play = { -brand-name-google-play }’den ücretsiz indir
-download-button-app-store = { -brand-name-app-store }’dan ücretsiz indir
 download-button-download-app-store = { -brand-name-app-store }’dan indir
 download-button-download-firefox = { -brand-name-firefox }’u indir
 download-button-your-system-may = Sisteminiz { -brand-name-firefox }’un gereksinimlerini karşılamıyor olabilir ama şu sürümlerden birini deneyebilirsiniz:
@@ -60,3 +41,7 @@ download-button-linux-64-v2 = 64 bit Linux sürümünü indir
 download-button-using-debian = Debian, Ubuntu veya herhangi bir Debian tabanlı dağıtım mı kullanıyorsunuz?<br> Bunun yerine <a { $attrs }>APT depomuzu</a> kurabilirsiniz.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Microsoft’tan indir
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = { -brand-name-firefox }’u nasıl keşfettiğinizi ve kullandığınızı { -brand-name-mozilla }’nın pazarlama teknolojileri iş ortaklarıyla paylaşın. Bu veriler asla satılmaz veya size reklam göstermek için kullanılmaz. <a { $attrs }>Verileri nasıl kullandığımızı öğrenin</a>.

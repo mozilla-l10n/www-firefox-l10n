@@ -20,29 +20,15 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = K dispozícii je ešte novšia verzia { -brand-name-firefox(case: "gen") }. <a { $update_url }>Aktualizovať na najnovšiu verziu</a>.
 firefox-desktop-download-get-the-browser = Získajte prehliadač, ktorý chráni to, čo je dôležité
-# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-fast-reliable-private = Rýchly, spoľahlivý a súkromný – pre pokoj online.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Žiadne zahmlievacie pravidlá ochrany osobných údajov ani zadné vrátka pre inzerentov. Len bleskovo rýchly prehliadač, ktorý vás nepredáva.
 firefox-desktop-download-download-options = Možnosti sťahovania a iné jazyky
 firefox-desktop-download-browser-support = Podpora pre { -brand-name-firefox-browser(capitalization: "lower") }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Robte to, čo robíte online.<br> { -brand-name-firefox-browser } vám <strong>kryje</strong> chrbát.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Robte to, čo robíte online.<br> { -brand-name-firefox-browser } sa <strong>nepozerá</strong>.
-firefox-desktop-download-how-firefox-compares = Aký je { -brand-name-firefox } v porovnaní s inými prehliadačmi
-firefox-desktop-download-get-all-the-speed = Získajte všetku rýchlosť a nástroje bez narušenia súkromia. { -brand-name-firefox-browser } o vás zhromažďuje tak málo údajov, že na stiahnutie nepotrebujeme ani vašu e‑mailovú adresu. Je to preto, že na rozdiel od iných prehliadačov nemáme žiadny finančný záujem na tom, aby sme vás sledovali na webe.
-firefox-desktop-download-how-we-compare = Ako sme na tom v porovnaní s inými prehliadačmi
-firefox-desktop-download-compare-firefox-to = Porovnať { -brand-name-firefox } s:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Áno
-firefox-desktop-download-no = Nie
-firefox-desktop-download-blocks-third-party = Blokovanie sledovacích cookies tretích strán
-firefox-desktop-download-blocks-third-party-default = Blokovanie sledovacích cookies tretích strán v predvolenom nastavení
-firefox-desktop-download-autoplay-blocking = Blokovanie automatického prehrávania
-firefox-desktop-download-blocks-social-trackers = Blokovanie sledovacích prvkov sociálnych sietí
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Dostupnosť na OS
-firefox-desktop-download-in-browser-screenshot = Nástroj na snímanie obrazovky v prehliadači
-firefox-desktop-download-primary-password = Hlavné heslo
 firefox-desktop-download-we-block-the-ad = Blokujeme sledovacie prvky reklám. Internet preto preskúmate rýchlejšie.
 firefox-desktop-download-ads-are-distracting = Reklamy rušia a spomaľujú načítanie webových stránok, zatiaľ čo ich sledovače sledujú každý váš pohyb online. { -brand-name-firefox-browser } blokuje väčšinu sledovačov automaticky, takže nie je potrebné hrabať sa v nastaveniach zabezpečenia.
 firefox-desktop-download-see-your-report = Pozrite sa na hlásenie o ochrane vášho súkromia
@@ -128,6 +114,10 @@ firefox-desktop-download-from-security-to = Od zabezpečenia cez správy až po 
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } bol vytvorený <a { $attrs }>{ -brand-name-mozilla(case: "ins") }</a> ako rýchlejšia a súkromnejšia alternatíva k prehliadačom ako { -brand-name-ie } a teraz { -brand-name-chrome }. Dnes naša spoločnosť riadená poslaním v spojení s komunitou dobrovoľníkov naďalej uprednostňujú vaše súkromie.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Ako sa internet rozrastá a mení, { -brand-name-firefox } sa naďalej zameriava na vaše právo na súkromie – to bolo vždy naším cieľom. Ďalšie informácie o našich postupoch v oblasti údajov nájdete v našom <a { $attrs }>Oznámení o ochrane osobných údajov</a>.
+# Obsolete string (expires: 2025-04-17)
+# Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Ako sa internet rozrastá a mení, { -brand-name-firefox } sa naďalej zameriava na vaše právo na súkromie – nazývame to <a { $attrs }>prísľub týkajúci sa osobných údajov</a>: Vziať si menej. Udržovať to v bezpečí. Žiadne tajomstvá. Vaše údaje, vaša webová aktivita, váš život online sú chránené vďaka { -brand-name-firefox(case: "dat") }.
 # Variables:
@@ -142,7 +132,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automat
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Máte otázky? <a { $attrs }>Stránky podpory pre produkty { -brand-name-mozilla(gen: "gen") }</a> vám pomôžu.
-firefox-desktop-download-watch-for-hackers-with-v3 = Sledujte hackerov pomocou služby { -brand-name-mozilla-monitor }, chráňte svoju e‑mailovú adresu pomocou služby  { -brand-name-firefox-relay }, a podobne.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -165,18 +154,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = Ak sa zobrazí výzva s informáciou, že aplikácia, ktorú sa pokúšate nainštalovať, nie je overená spoločnosťou { -brand-name-microsoft }, kliknite na tlačidlo „Aj tak nainštalovať“ alebo <a { $attrs }>zmeňte nastavenia odporúčaní aplikácií</a >.
 firefox-desktop-download-visit-support-for-more = Ďalšie podrobnosti nájdete na stránke podpory
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = Aj keď môžete { -brand-name-firefox } naďalej používať, { -brand-name-mozilla } už pre { -brand-name-windows } { -brand-name-xp } ani { -brand-name-vista } <a href="{ $url }">nebude vydávať bezpečnostné aktualizácie</a>.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Sťahovanie by malo začať automaticky. Nezačalo? <a id="{ $id }" href="{ $fallback_url }">Skúste to znova</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je viac ako prehliadač.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Vaše sťahovanie bolo prerušené. Nič však nie je stratené.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Pri inštalácií { -brand-name-firefox(case: "gen") } postupujte, prosím, podľa <a href="{ $url }">týchto inštrukcií</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Váš systém nemusí spĺňať požiadavky pre { -brand-name-firefox }. Môžete však skúsiť niektorú z <a href="{ $url }">týchto verzií</a>.

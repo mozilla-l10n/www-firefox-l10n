@@ -16,21 +16,14 @@ navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla } 宣言
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = 參與我們
 navigation-refresh-get-involved-v2 = 參與我們
-navigation-refresh-innovation-projects = 創新專案
-navigation-refresh-innovation-projects-v2 = 創新專案
 navigation-refresh-blog = 部落格
 navigation-refresh-our-mission = 我們的使命
 navigation-refresh-our-work = 我們的努力
 navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } 廣告
+navigation-refresh-mozilla-new-products = { -brand-name-mozilla } 新產品
 
 ## Firefox
 

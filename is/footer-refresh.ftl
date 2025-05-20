@@ -5,10 +5,15 @@
 footer-refresh-discover-mozilla-products = Uppgötvaðu hugbúnað og verkefni sem { -brand-name-mozilla } stendur fyrir. Við lofum að halda tölvupóstinum þínum einka og öruggum - engin miðlun, engin sala, bara áreiðanlegar uppfærslur.
 footer-refresh-leadership = Forysta
 footer-refresh-advertise = Auglýstu með { -brand-name-mozilla }
+footer-refresh-mozilla-advertising = { -brand-name-mozilla }-auglýsingar
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = Frekari upplýsingar <span>um { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Útgáfuskýringar { -brand-name-firefox }
+footer-refresh-privacy-first = Auglýsingalausnir með persónuvernd í fyrsta sæti, fyrir vörumerki, útgefendur og vettvanga.
+footer-refresh-mdn-v2 = { -brand-name-mdn }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Fylgstu með @{ -brand-name-mozilla }
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -23,8 +28,6 @@ footer-refresh-support = Aðstoð
 footer-refresh-product-help = Aðstoð með hugbúnað
 footer-refresh-file-a-bug = Skrá villu
 footer-refresh-localize-mozilla = Staðfæra { -brand-name-mozilla }
-footer-refresh-resources = Tilföng
-footer-refresh-brand-standards = Vörumerkjastaðlar
 footer-refresh-developers = Forritarar
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

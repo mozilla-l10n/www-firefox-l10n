@@ -16,19 +16,11 @@ navigation-refresh-mozilla-manifesto-v2 = Il manifest da { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Collavurescha cun nus
 navigation-refresh-get-involved-v2 = Ta participescha
-navigation-refresh-innovation-projects = Projects d’innovaziun
-navigation-refresh-innovation-projects-v2 = Projects d’innovaziun
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Nossa persvasiun
 navigation-refresh-our-work = Nossa lavur
 navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = Reclama { -brand-name-mozilla }
 

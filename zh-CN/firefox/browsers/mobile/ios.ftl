@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/mobile/ios/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
 
 # HTML page title
 mobile-ios-firefox-browser-ios = 适用于 { -brand-name-ios }（{ -brand-name-iphone } 和 { -brand-name-ipad }）的 { -brand-name-firefox-browser }

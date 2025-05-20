@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/mobile/focus/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: ਪਰਦੇਦਾਰੀ ਬਰਾਊਜ਼ਰ
@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = ਸਿਰਫ਼ ਪ੍ਰਾਈਵੇਟ ਮ�
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } ਪਰਦੇਦਾਰੀ ਨੂੰ ਸਮਰਪਿਤ ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਰ ਹੈ, ਜੋ ਕਿ ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ ਆਪਣੇ-ਆਪ ਲਾਉਂਦਾ ਹੈ। { -brand-name-focus } ਨਾਲ ਤੁਹਾਡੇ ਸਫ਼ੇ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਲੋਡ ਹੁੰਦੇ ਹਨ ਅਤੇ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਰੱਖਦੇ ਹਨ।
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } { -brand-name-ios } ਅਤੇ { -brand-name-android } ਦੋਵੇਂ ਕਿਸਮ ਦੇ ਡਿਵਾਈਸਾਂ ਲਈ ਮੌਜੂਦ ਹੈ।
 mobile-focus-get-firefox-focus = { -brand-name-firefox-focus } ਲਵੋ
-mobile-focus-send-a-download-link-to-your = ਆਪਣੇ ਫ਼ੋਨ ਉੱਤੇ ਡਾਊਨਲੋਡ ਲਿੰਕ ਭੇਜੋ।
 mobile-focus-scan-the-qr-code-to-get-started = ਸ਼਼ੁਰੂ ਕਰਨ ਲਈ QR ਕੋਡ ਸਕੈਨ ਕਰੋ
 mobile-focus-scan-alt-text = { -brand-name-firefox-focus } ਲੈਣ ਲਈ QR ਕੋਡ ਸਕੈਨ ਕਰੋ
 mobile-focus-delete-your-history = ਆਪਣੇ ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ

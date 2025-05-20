@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/mobile/focus/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Kundahára hekoñemíva
@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = Ñeikundaha pumbyry ñemiguápe
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } ha’e kundahára hekoñemíva orekóva tapykuehoha ñemo’ã ijeheguíva. { -brand-name-focus } ndive kuatiaroguekuéra henyhẽ pya’eve ha mba’ekuaarã hekoñemi.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } eiporukuaa mba’e’okápe { -brand-name-ios } ndive ha { -brand-name-android }.
 mobile-focus-get-firefox-focus = Erekóke { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = Emondo juajuha mboguejyrã ne pumbyrýpe.
 mobile-focus-scan-the-qr-code-to-get-started = Emoha’ãnga QR ayvu eñepyrũ hag̃ua
 mobile-focus-scan-alt-text = Emoha’ãnga QR ayvu ereko hag̃ua { -brand-name-firefox-focus }
 mobile-focus-delete-your-history = Embogue ne rembiasakue

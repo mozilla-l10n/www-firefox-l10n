@@ -62,25 +62,38 @@ firefox-developer-master-innovative-features = ຄຸນະສົມບັດທ
 firefox-developer-want-to-be-on-the-cutting-edge = ຕ້ອງການໃຊ້ເຕັກໂນໂລຊີຫຼ້າສຸດ?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } ໄດ້ຮັບການອັບເດດປະຈໍາວັນ ແລະອະນຸຍາດໃຫ້ທ່ານເຂົ້າເຖິງຄຸນສົມບັດຫຼາຍເດືອນກ່ອນທີ່ພວກມັນຈະເຂົ້າສູ່ກະແສຫຼັກ.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } ເປັນບຣາວເຊີດຽວທີ່ມີເຄື່ອງມືທີ່ສ້າງຂຶ້ນໂດຍສະເພາະສໍາລັບການກໍ່ສ້າງ ແລະການອອກແບບດ້ວຍ CSS Grid. ເຄື່ອງ​ມື​ເຫຼົ່າ​ນີ້​ອະ​ນຸ​ຍາດ​ໃຫ້​ທ່ານ​ສາ​ມາດ​ເບິ່ງ​ຕາ​ຂ່າຍ​ໄຟ​ຟ້າ​, ສະ​ແດງ​ຊື່​ພື້ນ​ທີ່​ທີ່​ກ່ຽວ​ຂ້ອງ​, ເບິ່ງ​ຕົວ​ຢ່າງ​ການ​ຫັນ​ເປັນ​ຕາ​ຂ່າຍ​ໄຟ​ຟ້າ​ແລະ​ມີ​ຫຼາຍ​ຫຼາຍ​.
-firefox-developer-convenient-features = ຄຸນນະສົມບັດສະດວກ
-firefox-developer-shapes-editor = ຕົວແກ້ໄຂຮູບຮ່າງ
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } ມີຕົວແກ້ໄຂເສັ້ນທາງຮູບຮ່າງອັນໃໝ່ທີ່ເອົາການຄາດເດົາອອກຈາກການປັບແຕ່ງຮູບຮ່າງ-ນອກ ແລະຮູບຮ່າງທາງຄລິບຂອງທ່ານ ໂດຍການໃຫ້ທ່ານສາມາດປັບແຕ່ງການປັບຕົວຂອງທ່ານໄດ້ຢ່າງງ່າຍດາຍດ້ວຍຕົວແກ້ໄຂພາບ .
-firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } ມີຕົວແກ້ໄຂເສັ້ນທາງຮູບຮ່າງອັນໃໝ່ທີ່ເອົາການຄາດເດົາອອກຈາກການປັບແຕ່ງຮູບຊົງເງົາ-ນອກ ແລະຮູບຊົງຂອງຄລິບໂດຍການໃຫ້ທ່ານສາມາດປັບແຕ່ງການປັບຕົວຂອງທ່ານໄດ້ຢ່າງງ່າຍດາຍດ້ວຍຕົວແກ້ໄຂພາບ .
 firefox-developer-faster-innovation = ຂໍ້ມູນໄວຂຶ້ນ
 firefox-developer-fonts-panel = ກະດານຕົວອັກສອນ
 firefox-developer-the-new-fonts-panel = ແຜງຟອນໃໝ່ໃນ { -brand-name-firefox-devtools } ຊ່ວຍໃຫ້ນັກພັດທະນາເຂົ້າເຖິງຂໍ້ມູນທັງໝົດທີ່ພວກເຂົາຕ້ອງການໄດ້ໄວກ່ຽວກັບຕົວອັກສອນທີ່ໃຊ້ໃນອົງປະກອບໃດໜຶ່ງ. ມັນຍັງປະກອບມີຂໍ້ມູນທີ່ມີຄຸນຄ່າເຊັ່ນ: ແຫຼ່ງຕົວອັກສອນ, ນ້ໍາຫນັກ, ຮູບແບບແລະອື່ນໆ.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } ະສົ່ງຜົນຕອບຮັບໄປຍັງ { -brand-name-mozilla } ໂດຍອັດຕະໂນມັດ.
 firefox-developer-download-the-firefox-browser = ດາວໂຫຼດບຣາວເຊີ { -brand-name-firefox } ທີ່ສ້າງຂຶ້ນສຳລັບນັກພັດທະນາ
-firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } ໄດ້​ຮັບ​ການ​ສ້າງ​ຄືນ​ໃໝ່​ຈາກ​ພື້ນ​ຖານ​ເພື່ອ​ໃຫ້​ໄວ, ລຽບ​ກວ່າ, ແລະ​ມີ​ພະ​ລັງ​ແຮງ​ກວ່າ​ທີ່​ເຄີຍ​ມີ​ມາ.
 firefox-developer-welcome-to-firefox-developer-edition = ຍິນດີຕ້ອນຮັບສູ່ { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = ຕົວທ່ອງເວັບທີ່ສ້າງຂຶ້ນສໍາລັບນັກພັດທະນາ
+firefox-developer-all-the-latest-v2 = ເຄື່ອງມືພັດທະນາຫຼ້າສຸດທັງໝົດໃນເບຕ້ານອກເໜືອໄປຈາກຄຸນສົມບັດຕ່າງໆ ເຊັ່ນ: Multi-line Console Editor ແລະ WebSocket Inspector.
 firefox-developer-a-separate-profile = ເປັນ <strong>ໂປຣໄຟລ໌ ແລະເສັ້ນທາງທີ່ແຍກຕ່າງຫາກ</strong> ເພື່ອໃຫ້ທ່ານສາມາດແລ່ນມັນໄປພ້ອມກັບ Release ຫຼື { -brand-name-beta } { -brand-name-firefox } .
 firefox-developer-preferences-tailored = ການຕັ້ງຄ່າ <strong>ປັບແຕ່ງສໍາລັບຜູ້ພັດທະນາເວັບ</strong>: ຕົວທ່ອງເວັບແລະການດີບັກທາງໄກຖືກເປີດໃຊ້ໂດຍຄ່າເລີ່ມຕົ້ນ, ຄືກັນກັບປຸ່ມແຖບເຄື່ອງມືຂອງນັກພັດທະນາ.
 firefox-developer-congrats-you-now-have-latest-v2 = ຕອນນີ້ທ່ານມີເວີຊັນຫຼ້າສຸດຂອງ { -brand-name-firefox-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = ເບິ່ງ <a { $attrs }>ບັນທຶກການປ່ອຍຕົວ</a> (ພາສາອັງກິດເທົ່ານັ້ນ) ເພື່ອເບິ່ງວ່າມີຫຍັງໃໝ່.
 firefox-developer-developer-tools-user = Developer Tools User Docs
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = ຊັບພະຍາກອນສໍາລັບນັກພັດທະນາ, ໂດຍນັກພັດທະນາ
+firefox-developer-mdn-playground = Playground
+firefox-developer-mdn-write-test-and-share = ຂຽນ, ທົດສອບ ແລະ ແບ່ງປັນລະຫັດຂອງທ່ານ. ສະຫນາມເດັກຫຼິ້ນຂອງທ່ານເພື່ອຮຽນຮູ້ ແລະ ແບ່ງປັນການເຮັດວຽກທີ່ຫນ້າປະຫລາດໃຈຂອງທ່ານກັບໂລກ.
+firefox-developer-mdn-blog = { -brand-name-mdn } ບົດຄວາມ
+firefox-developer-mdn-unlock-the-world = ປົດລັອກໂລກຂອງການພັດທະນາເວັບດ້ວຍບລັອກ { -brand-name-mdn } — ສູນກາງການໄປເຖິງຂອງທ່ານສຳລັບຄວາມເຂົ້າໃຈຂອງຜູ້ຊ່ຽວຊານ, ມາດຕະຖານເວັບຫຼ້າສຸດ ແລະ ຄໍາແນະນໍາການເຂົ້າລະຫັດ.
+firefox-developer-mdn-updates = ອັບເດດ
+firefox-developer-mdn-the-web-doesnt-have = ເວັບໄຊຕ໌ບໍ່ມີ changelog, ແຕ່ { -brand-name-mdn } ສາມາດຊ່ວຍໄດ້. ທ່ານສາມາດປັບແຕ່ງສ່ວນບຸກຄົນ ແລະ ການກັ່ນຕອງການປ່ຽນແປງທີ່ເຂົ້າກັນໄດ້ໂດຍອີງໃສ່ຕົວທ່ອງເວັບ ຫຼື ປະເພດເຕັກໂນໂລຢີທີ່ທ່ານສົນໃຈບໍ່ວ່າຈະເປັນ JavaScript, CSS, ແລະ ອື່ນໆ.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } ການອ້າງອີງ
+# Obsolete string (expires 18-04-2025)
+firefox-developer-mdn-is-a = { -brand-name-mdn } ເປັນ open-source, ໂຄງການຮ່ວມມືທີ່ບັນທຶກເທັກໂນໂລຍີເວທີເວັບ, ລວມທັງ CSS, HTML, JavaScript ແລະ web APIs.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn } ຫຼັກສູດ
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = ຄູ່ມືທີ່ມີໂຄງສ້າງສໍາລັບທັກສະ ແລະ ການປະຕິບັດທີ່ຈໍາເປັນສໍາລັບການເປັນຜູ້ພັດທະນາຊັ້ນຫນ້າທີ່ປະສົບຜົນສໍາເລັດ, ພ້ອມກັບແຫຼ່ງການຮຽນຮູ້ທີ່ແນະນໍາ.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
+firefox-developer-support-mdn-and = ສະຫນັບສະຫນູນ { -brand-name-mdn } ແລະ ເຮັດໃຫ້ມັນເປັນຂອງຕົນເອງດ້ວຍການເກັບລວບລວມ, ການແຈ້ງເຕືອນ, ແລະ ບ່ອນຫຼິ້ນ.

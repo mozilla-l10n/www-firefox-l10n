@@ -16,29 +16,12 @@ firefox-desktop-download-og-title = Baixeu el { -brand-name-firefox } més ràpi
 firefox-desktop-download-og-desc = El nou { -brand-name-firefox } ja és aquí: carrega les pàgines més ràpid, consumeix menys memòria i està farcit de noves funcions.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Trieu el navegador que protegeix allò que és important
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Sense polítiques de privadesa tèrboles ni portes del darrere per als anunciants. Tan sols un navegador extremadament ràpid que no vendrà les vostres dades.
 firefox-desktop-download-download-options = Opcions de baixada i altres idiomes
 firefox-desktop-download-browser-support = Assistència del { -brand-name-firefox-browser }
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Feu allò que vulgueu a la xarxa.<br>El { -brand-name-firefox-browser } <strong>no us espia</strong>.
-firefox-desktop-download-how-firefox-compares = Compareu el { -brand-name-firefox } amb altres navegadors
-firefox-desktop-download-get-all-the-speed = Obteniu tota la velocitat i totes les eines sense cap invasió a la vostra privadesa. El { -brand-name-firefox-browser } recull tan poques dades vostres que ni tan sols demanem una adreça electrònica per baixar-lo. Això és perquè, a diferència d'altres navegadors, no tenim cap interès econòmic en seguir-vos mentre navegueu.
-firefox-desktop-download-how-we-compare = Vegeu la comparació amb altres navegadors
-firefox-desktop-download-compare-firefox-to = Compareu el { -brand-name-firefox } amb:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Sí
-firefox-desktop-download-no = No
-firefox-desktop-download-blocks-third-party = Bloca galetes de seguiment de tercers
-firefox-desktop-download-blocks-third-party-default = Bloca galetes de seguiment de tercers per defecte
-firefox-desktop-download-autoplay-blocking = Bloca la reproducció automàtica
-firefox-desktop-download-blocks-social-trackers = Bloca els elements de seguiment social
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Disponibilitat per a sistemes operatius
-firefox-desktop-download-in-browser-screenshot = Eina de captura de pantalla integrada
-firefox-desktop-download-primary-password = Contrasenya principal
 firefox-desktop-download-we-block-the-ad = Bloquem els elements de seguiment de publicitat. Navegareu més ràpidament per Internet.
 firefox-desktop-download-ads-are-distracting = Els anuncis distreuen i fan que les pàgines web es carreguin més lentament i alhora els seus elements de seguiment vigilen tots els moviments que feu a la xarxa. El { -brand-name-firefox-browser } bloca la majoria dels elements de seguiment automàticament, així no cal que us endinseu en els paràmetres de seguretat.
 firefox-desktop-download-see-your-report = Vegeu el vostre informe de protecció
@@ -123,6 +106,7 @@ firefox-desktop-download-from-security-to = De seguretat, de notícies o de jocs
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = El { -brand-name-firefox } està creat per <a { $attrs }>{ -brand-name-mozilla }</a> com una alternativa més ràpida i privada a navegadors com el { -brand-name-ie }, i ara el { -brand-name-chrome }. Avui, la nostra empresa guiada per una missió i la comunitat de voluntaris continuen posant la vostra privadesa per sobre de tot.
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = A mesura que Internet creix i canvia, el { -brand-name-firefox } continua centrant-se en el vostre dret a la privadesa (l'anomenem  <a { $attrs }>Compromís sobre les dades personals</a>): recollir menys dades, mantenir-les segures i sense secrets. Les vostres dades, la vostra activitat al Web i la vostra vida digital estan protegides amb el { -brand-name-firefox }.
@@ -151,18 +135,12 @@ firefox-desktop-download-get-help = Teniu problemes? <a { $attrs }>Obteniu ajuda
 firefox-desktop-download-in-another-language = Baixeu la versió per a una altra llengua o sistema operatiu.
 firefox-desktop-download-windows = { -brand-name-windows }
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }"> ja no ofereix cap actualització de seguretat</a> per al { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }, però encara podeu utilitzar el { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = La baixada s'iniciarà automàticament. No funciona? <a id="{ $id }" href="{ $fallback_url }">Proveu de baixar-lo de nou-.</a>
 firefox-new-firefox-is-more-than-a-browser = El { -brand-name-firefox } és més que un navegador.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = La baixada s'ha interromput. Però no està tot perdut.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Seguiu <a href="{ $url }">aquestes instruccions</a> per instal·lar el { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = El vostre sistema no compleix els requisits per al { -brand-name-firefox }, però podeu provar alguna d'<a href="{ $url }">aquestes versions</a>.

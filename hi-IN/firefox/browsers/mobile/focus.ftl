@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.springfield.moz.works/browsers/mobile/focus/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: गोपनीयता ब्राउज़र
@@ -18,7 +18,6 @@ mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } स
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } की उपलब्धता { -brand-name-ios } और { -brand-name-android } दोनों प्रकार की डिवाइसों के लिए है।
 
 mobile-focus-get-firefox-focus = { -brand-name-firefox-focus } प्राप्त करें
-mobile-focus-send-a-download-link-to-your = अपने फ़ोन पर एक डाउनलोड लिंक भेजें।
 mobile-focus-scan-the-qr-code-to-get-started = शुरू करने के लिए QR कोड को स्कैन करें
 mobile-focus-scan-alt-text = { -brand-name-firefox-focus } पाने के लिए QR कोड स्कैन करें
 

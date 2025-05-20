@@ -62,20 +62,15 @@ firefox-developer-master-innovative-features = 創新功能
 firefox-developer-want-to-be-on-the-cutting-edge = 想要尋求尖端科技？
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } 每天都會收到更新，讓您可在正式版推出前幾個月就搶先試用新功能。
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } 是唯一一套內建 CSS Grid 開發與設計工具的瀏覽器。這些工具有格線視覺化、顯示相關區域名稱、預覽格線變型效果等功能。
-firefox-developer-convenient-features = 方便的功能
-firefox-developer-shapes-editor = 形狀編輯器
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } 開發者工具有全新的圖形路徑編輯器，讓您可以用視覺化編輯器非常簡單地就對圖形的 shape-outside 與 clip-path 進行微調。
-firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } 有全新的圖形路徑編輯器，可讓您透過視覺化編輯器，很簡單就微調圖型的 shadow-outside 與 clip-path。
 firefox-developer-faster-innovation = 更快的資訊
 firefox-developer-fonts-panel = 字型面板
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools } 當中全新的字體面板，讓開發者可以快速存取某個元素中，使用到的字體的相關資訊。面板中也包含了字體來源、字重、樣式等重要資訊。
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } 會自動回傳資料給 { -brand-name-mozilla }。
 firefox-developer-download-the-firefox-browser = 下載為開發者設計的 { -brand-name-firefox } 瀏覽器
-firefox-developer-firefox-has-been-rebuilt = 這是從頭開始重新打造的 { -brand-name-firefox }，更快、更輕盈、威力更強大。
 firefox-developer-welcome-to-firefox-developer-edition = 歡迎使用 { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = 為了開發者打造的瀏覽器
 firefox-developer-all-the-latest-v2 = 所有仍在 Beta 測試中的最新開發者工具，再加上主控台多行編輯器與 WebSocket 檢測器等功能。
-firefox-developer-a-separate-profile = 使用<strong>獨立設定擋</strong>，讓您可以與 { -brand-name-firefox } 正式版或 { -brand-name-beta } 版同時使用。
+firefox-developer-a-separate-profile = 使用<strong>獨立設定檔</strong>，讓您可以與 { -brand-name-firefox } 正式版或 { -brand-name-beta } 版同時使用。
 firefox-developer-preferences-tailored = <strong>為網頁開發者量身打造的偏好設定</strong>：預設開啟瀏覽器與遠端除錯功能，以及暗色佈景主題，還有開發者工具列按鈕。
 firefox-developer-congrats-you-now-have-latest-v2 = 您已經安裝了最新版的 { -brand-name-firefox-developer-edition }。
 # Variables:
@@ -84,9 +79,21 @@ firefox-developer-view-the-release = 看看<a { $attrs }>有什麼新鮮事</a>�
 firefox-developer-developer-tools-user = 開發者工具使用者文件
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = 由開發者撰寫，提供開發者的相關資源
+firefox-developer-mdn-playground = 程式開發場
+firefox-developer-mdn-write-test-and-share = 撰寫、測試並分享您的程式碼。這是讓您可學習、與世界分享您超棒作品的平台。
+firefox-developer-mdn-blog = { -brand-name-mdn } 部落格
+firefox-developer-mdn-unlock-the-world = 到 { -brand-name-mdn } 部落格解鎖網頁開發的世界 — 這是一個提供專家意見、最新網頁標準與程式碼寫作秘訣的必去平台。
+firefox-developer-mdn-updates = 最新資訊
+firefox-developer-mdn-the-web-doesnt-have = 網路技術沒有更新紀錄，但 { -brand-name-mdn } 可以協助。您可以依照使用的瀏覽器或有興趣的技術分類（不論是 JavaScript、CSS，或其他技術）等來過濾出相容性的變化。
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } 參考資料
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } 是一套開放原始碼、包含 CSS、HTML、JavaScript 及 Web API 等網頁平台技術文件的協作專案。
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn } 課程
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = 關於成為成功的前端開發者必須具備的能力、實踐方式以及推薦的學習資源的結構化指南。
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = 支援 { -brand-name-mdn } 並透過收藏集、通知與 Playground 來打造您自己的風格。

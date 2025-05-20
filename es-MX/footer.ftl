@@ -2,14 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Manifiesto de { -brand-name-mozilla }
 footer-privacy-hub = Centro de privacidad
 footer-privacy = Privacidad
 footer-press = Prensa
-footer-browser-comparison = Comparación de navegadores
-footer-brand-standards = Estándares de marca
-footer-browsers = Navegadores
+footer-mozilla-blog = Blog de { -brand-name-mozilla }
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = Desarrolladores
 footer-developer-edition = { -brand-name-developer-edition }
@@ -29,6 +26,7 @@ footer-contact = Contacto
 footer-product-help = Ayuda del producto
 footer-support = Ayuda
 footer-file-a-bug = Informar un error
+footer-localize-mozilla = Localizar { -brand-name-mozilla }
 footer-community-participation-guidelines = Pautas para la participación en la comunidad
 footer-websites-privacy-notice = Política de Privacidad del sitio web
 footer-websites-cookies = Cookies
@@ -36,7 +34,6 @@ footer-websites-legal = Aviso legal
 footer-language = Idioma
 footer-go = Ir
 footer-donate = Donar
-footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }
@@ -45,3 +42,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Seguir @{ -brand-name-mozilla }
 footer-follow-firefox = Seguir @{ -brand-name-firefox }
 footer-about-this-site = Acerca de este sitio
+footer-advertise = Publicidad con { -brand-name-mozilla }

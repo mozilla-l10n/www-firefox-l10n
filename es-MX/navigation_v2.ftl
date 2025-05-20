@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = Descargar { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Obtener { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menú
 
@@ -29,6 +28,7 @@ navigation-v2-view-all-firefox-browsers = Ver todos los { -brand-name-firefox-br
 
 navigation-v2-products = Productos
 navigation-v2-close-products-menu = Cerrar el menú de productos
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
 navigation-v2-see-if-your-email-has = Comprueba si tu correo electrónico apareció en la filtración de datos de una empresa.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Guarda y descubre las mejores historias de toda la web.
@@ -42,6 +42,8 @@ navigation-v2-sign-up-for-new-accounts = Regístrate para tener nuevas cuentas s
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Nuevas funciones y herramientas para una experiencia personalizada de { -brand-name-mdn }
 navigation-v2-view-all-products = Todos los productos
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = Utiliza la IA para detectar reseñas falsas y estafas
 
 ## Who We Are menu
 
@@ -60,6 +62,8 @@ navigation-v2-work-for-a-mission-driven-updated = Trabaja para una organización
 navigation-v2-mozilla-blog = Blog de { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Conoce más sobre { -brand-name-mozilla } y los problemas que nos importan.
 navigation-v2-more-about-mozilla = Más acerca de { -brand-name-mozilla }
+navigation-v2-impact = Impacto
+navigation-v2-find-out-how = Descubre cómo hacemos que Internet sea más inclusivo y sostenible
 
 ## Innovation menu
 
@@ -69,9 +73,7 @@ navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-editio
 navigation-v2-get-the-firefox-browser-built = Obtén el navegador { -brand-name-firefox } creado solo para desarrolladores.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = Revisa la página principal de los recursos para el desarrollador web.
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
-navigation-v2-explore-the-web-with-the = Explora la web con el navegador { -brand-name-firefox } para la realidad virtual.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Dona tu voz para que el futuro de la web pueda escuchar a todos.
-navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-learn-more-about-the-new = Conoce más sobre el nuevo lenguaje de bajo nivel, parecido a ensamblador.
+navigation-v2-mozilla-innovation-projects = Proyectos de innovación { -brand-name-mozilla }
+navigation-v2-discover-ways-to-bring = Descubra formas de hacer realidad ideas brillantes.

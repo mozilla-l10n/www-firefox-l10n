@@ -12,7 +12,7 @@ firefox-all-change-language = വേറൊരു ഭാഷ തിരഞ്ഞെ
 # Used as an accessible label for an image that points down
 firefox-all-down-arrow = ഈ പട്ടിക നിന്നു് തിരഞ്ഞെടുക്കുക
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
-firefox-all-get-help = സഹായം തേടുക
+firefox-all-get-help = പിന്തുണ നേടുക
 firefox-all-browser-v2 = 1. അന്വേഷിയന്ത്രം:
 firefox-all-platform-v2 = 2. മഞ്ചം:
 firefox-all-language-v2 = 3. ഭാഷ:
@@ -21,10 +21,12 @@ firefox-all-desktop = ഉപരിഫലകം
 firefox-all-mobile = മൊബൈല്‍
 firefox-all-recommended = (ശുപാർശപ്പെട്ടതു്)
 firefox-all-lang-multi = പെരുക്കമായ ഭാഷകൾ
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = { $esr_version } ഇറക്കിവയ്ക്കുക
 firefox-all-release-notes = വെളിപ്പെടുത്തല്കുറിപ്പുകൾ
 firefox-all-source-code = ഉറവിടസങ്കേതം
-firefox-all-need-help = സഹായം വേണോ?
-firefox-all-which-version = താങ്ങൾക്കു് ഏതു് പതിപ്പു് വേണം?
+firefox-all-need-help = തുണ വേണോ?
 firefox-all-select-your-preferred-language = ഇഷ്ഠപെട്ട ഭാഷ തിരഞ്ഞെടുക്കുക
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
