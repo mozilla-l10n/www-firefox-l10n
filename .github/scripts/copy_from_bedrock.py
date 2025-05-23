@@ -44,12 +44,19 @@ def main():
     ]
     locales.sort()
 
-    # Some files were moved in the new repository
+    # Some files were moved compared to Bedrock
+    # springfield_path -> bedrock_path
     file_mapping = {
+        "firefox/browsers/mobile/get-app.ftl": "firefox/mobile.ftl",
         "firefox/download/desktop.ftl": "firefox/new/desktop.ftl",
         "firefox/download/download.ftl": "firefox/new/download.ftl",
         "firefox/download/platform.ftl": "firefox/new/platform.ftl",
-        "firefox/browsers/mobile/get-app.ftl": "firefox/mobile.ftl",
+        "firefox/more/best-browser.ftl": "firefox/browsers/best-browser.ftl",
+        "firefox/more/browser-history.ftl": "firefox/browsers/history/browser-history.ftl",
+        "firefox/more/faq.ftl": "firefox/faq.ftl",
+        "firefox/more/more.ftl": "firefox/more.ftl",
+        "firefox/more/what-is-a-browser.ftl": "firefox/browsers/history/what-is-a-browser.ftl",
+        "firefox/more/windows-64-bit.ftl": "firefox/browsers/windows-64-bit.ftl",
         "newsletter/nwesletters.ftl": "mozorg/newsletters.ftl",
     }
     www_path = Path(args.www_path)
