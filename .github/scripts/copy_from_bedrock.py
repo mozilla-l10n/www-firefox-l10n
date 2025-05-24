@@ -5,8 +5,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 import argparse
-import os
 import shutil
+import sys
 from pathlib import Path
 
 
@@ -25,6 +25,12 @@ def main():
         dest="www_path",
         help="Path to the www-l10n local clone",
     )
+    parser.add_argument(
+        "--locales",
+        nargs="*",
+        dest="locales",
+        help="List of locales to copy files to",
+    )
     args = parser.parse_args()
 
     # Get list of files in en folder of www-firefox-l10n
@@ -35,13 +41,23 @@ def main():
 
     # Get a list of locales in www-firefox-l10n
     firefox_path = Path(args.firefox_path)
-    locales = [
-        str(folder)
-        for folder in firefox_path.iterdir()
-        if folder.is_dir()
-        and folder.name not in ("en", "en-US")
-        and not folder.name.startswith(".")
-    ]
+
+    if args.locales:
+        # Check that locales exist
+        locales = [loc for loc in args.locales if (firefox_path / loc).is_dir()]
+        invalid_locales = set(args.locales) - set(locales)
+        if invalid_locales:
+            print(f"Ignored locales: {', '.join(invalid_locales)}")
+        if not locales:
+            sys.exit("No valid locales found in the list provided.")
+    else:
+        locales = [
+            str(folder)
+            for folder in firefox_path.iterdir()
+            if folder.is_dir()
+            and folder.name not in ("en", "en-US", "it")
+            and not folder.name.startswith(".")
+        ]
     locales.sort()
 
     # Some files were moved compared to Bedrock
