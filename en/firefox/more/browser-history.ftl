@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.springfield.moz.works/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = Browser History: Epic power struggles that brought us modern browsers
 browser-history-the-browser-wars-underdogs-giants = The browser wars, underdogs vs giants, and moments that changed the world. Read about the history of the web browser.
@@ -66,4 +66,3 @@ browser-history-in-the-future-the-v2 = In the future, the web will likely stray 
 
 browser-history-whatever-the-future = Whatever the future of the web holds, { -brand-name-mozilla } and { -brand-name-firefox } will be there for users, ensuring that they have powerful tools to experience the web and all it has to offer. The web is for everyone, and everyone should have control of their online experience. That’s why we give { -brand-name-firefox } tools to protect user privacy and we never sell user data to advertisers.
 browser-history-resources = Resources
-browser-history-take-control-of = Take control of your browser.
