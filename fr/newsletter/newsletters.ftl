@@ -137,6 +137,8 @@ newsletters-fxa-error-retry = Toutes nos excuses, un problème est survenu lors 
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Cette adresse électronique ne fait pas partie de nos registres. Vérifiez votre adresse ou <a href="{ $url }">abonnez-vous à nos lettres d’informations</a>.
 
+# Note: Bluesky is a brand name that shouldn't be translated
+newsletters-im-keeping-in-touch-v3 = Je suis déjà les nouvelles concernant { -brand-name-mozilla } sur Bluesky.
 # Obsolete, remove after 2025-05-11
 newsletters-im-keeping-in-touch-v2 = Je suis déjà les nouvelles concernant { -brand-name-mozilla } sur { -brand-name-twitter }.
 
@@ -223,12 +225,6 @@ newsletters-take-action = Agir pour Internet
 
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
 newsletters-add-your-voice = Participez aux pétitions, évènements et initiatives qui luttent pour l’avenir du Web.
-
-# Name for the newsletter in Newsletter subscription page
-newsletters-new-product-testing = Test de nouveaux produits
-
-# Description for the newsletter in Newsletter subscription page (New Product Testing)
-newsletters-help-us-make-a-better-v2 = Aidez-nous à améliorer { -brand-name-mozilla } pour vous en testant nos derniers produits et fonctionnalités.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Communauté { -brand-name-mozilla }

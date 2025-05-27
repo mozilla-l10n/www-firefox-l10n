@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = მონახეთ საუკეთესო ბრაუზერი, სწრაფი, პირადი და დაცული.
 best-browser-so-many-browser-options = უამრავი არჩევანია ბრაუზერების, თუმცა მხოლოდ ერთია, რომელიც სრულად მოერგება თქვენს საჭიროებებს. საუკეთესო ბრაუზერი თქვენთვის, უნდა იყოს სწრაფიც და პირადი მონაცემების დამცველიც.

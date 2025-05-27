@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/browser-history/
+### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = Historia dos navegadores: loitas de poder épicas que nos trouxeron os navegadores modernos
 browser-history-the-browser-wars-underdogs-giants = As guerras dos navegadores, os menores contra os xigantes e os momentos que cambiaron o mundo. Lea sobre historia dos navegadores web.

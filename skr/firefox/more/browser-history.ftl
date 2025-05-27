@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/browser-history/
+### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = براؤزر دی تاریخ: زبردست طاقت دی جدوجہد جئیں اساݙے کول جدید براؤزر آندے
 browser-history-the-browser-wars-underdogs-giants = براؤزر دیاں بھڑانداں، انڈر ڈاگز بمقابلہ جنات، تے لمحے جنہاں دنیا کوں بدل ݙتا۔ ویب براؤزر دی تاریخ دے بارے وِچ پڑھو۔

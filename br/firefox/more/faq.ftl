@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/faq/
+### URL: https://www-dev.allizom.org/firefox/faq/
 
 # HTML page title
 firefox-faq = FAG { -brand-name-firefox }
@@ -37,8 +37,6 @@ is-firefox-safe = Ha diogel eo { -brand-name-firefox }?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = Daoust ha gwerzhañ a ra { -brand-name-firefox } ho roadennoù personel?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = Tawila' ri ütz okik'amaya'l, ri aninäq, ichinan chuqa' jikïl.
 best-browser-so-many-browser-options = K'ïy okik'amaya'l e k'o, xa xe jun ri ütz xtisamäj chawäch. Ri ütz okik'amaya'l, ja ri nisamäj aninäq chuqa' ri nuchajij ri ab'anikil.

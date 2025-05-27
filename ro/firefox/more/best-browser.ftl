@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = Găsiți cel mai bun browser pentru viteză, confidențialitate și securitate.
 best-browser-so-many-browser-options = Atât de multe browsere, dar există doar unul care funcționează cel mai bine pentru nevoile tale. Cel mai bun browser pentru tine ar trebui să îți ofere atât viteză cât și protecția confidențialității.

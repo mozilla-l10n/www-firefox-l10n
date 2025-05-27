@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = Af-d iminig arurad, abaḍni daɣen d aɣelsan meṛṛa i tikkelt.
 best-browser-so-many-browser-options = Llan ddeqs n yiminigen, maca ala yiwen i ilaqen i sekra n wayen teḥwaǧeḍ. Iminig-ik ufrin yessefk ad yili d arurad, daɣen ad yeḍmen aqadeṛ n tudert tabaḍnit.

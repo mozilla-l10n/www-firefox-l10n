@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/browser-history/
+### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = История браузеров: Эпичная борьба за лидерство, которая привела к появлению современных браузеров
 browser-history-the-browser-wars-underdogs-giants = Браузерные войны, небольшие компании против технологических гигантов, и моменты, которые изменили мир. Читайте об истории появления веб-браузеров.

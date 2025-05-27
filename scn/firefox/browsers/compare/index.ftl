@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/compare/
+### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
 compare-index-firefox-versus-google-chrome = { -brand-name-firefox } vs Google Chrome
 compare-index-firefox-versus-microsoft-edge = { -brand-name-firefox } vs Microsoft Edge

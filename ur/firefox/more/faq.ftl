@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/faq/
+### URL: https://www-dev.allizom.org/firefox/faq/
 
 # HTML page title
 firefox-faq = { -brand-name-firefox }عمومی سوالات
@@ -37,8 +37,6 @@ is-firefox-safe = کیا { -brand-name-firefox } محفوظ ہے؟
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = کیا { -brand-name-firefox } آپ کا ذاتی ڈیٹا فروخت کرتا ہے؟
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/

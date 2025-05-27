@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = Poiščite najboljši brskalnik za hitrost, zasebnost in varnost.
 best-browser-so-many-browser-options = Toliko različnih brskalnikov, vendar obstaja samo en, ki najbolje ustreza vašim potrebam. Najboljši brskalnik bi vam moral ponuditi hitrost in zaščito zasebnosti.

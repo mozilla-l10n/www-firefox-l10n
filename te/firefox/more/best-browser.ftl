@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-privacy-speed-and-security = అంతరంగికత, వేగం, భద్రత.
 best-browser-how-to-choose-the-best = మీ కోసం అత్యుత్తమ విహారిణిని ఎలా ఎంచుకోవాలి.

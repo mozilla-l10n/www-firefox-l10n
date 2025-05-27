@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/browser-history/
+### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = ਬਰਾਊਜ਼ਰ ਅਤੀਤ: ਵੱਡੇ ਸੰਘਰਸ਼ ਨੇ ਸਾਨੂੰ ਆਧੁਨਿਕ ਬਰਾਊਜ਼ਰਾਂ ਤੱਕ ਲਿਆਂਦਾ ਹੈ
 browser-history-the-history-of-web = ਵੈੱਬ ਬਰਾਊਜ਼ਰਾਂ ਦਾ ਇਤਿਹਾਸ

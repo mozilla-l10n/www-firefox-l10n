@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = Trova le melior navigator pro velocitate, confidentialitate e securitate.
 best-browser-so-many-browser-options = Tante optiones de navigator web, ma solo uno il ha, que functiona melio pro tu besonios. Le melior navigator pro te deberea offerer ambe: velocitate e protection del confidentialitate.

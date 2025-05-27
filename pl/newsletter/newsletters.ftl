@@ -107,6 +107,8 @@ newsletters-fxa-error-retry = Wystąpił problem podczas przekierowywania do pre
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Ten adres e-mail nie jest obecny w naszym systemie. Proszę sprawdzić poprawność adresu lub przejść do <a href="{ $url }">subskrypcji biuletynu</a>.
+# Note: Bluesky is a brand name that shouldn't be translated
+newsletters-im-keeping-in-touch-v3 = Wolę śledzić { -brand-name-mozilla(case: "acc") } na Bluesky.
 # Obsolete, remove after 2025-05-11
 newsletters-im-keeping-in-touch-v2 = Wolę śledzić { -brand-name-mozilla(case: "acc") } na { -brand-name-twitter(case: "loc") }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
@@ -167,10 +169,6 @@ newsletters-former-university-program-v2 = Dawny program University z lat 2008-
 newsletters-take-action = Podejmij działania na rzecz Internetu
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
 newsletters-add-your-voice = Dodaj swój głos do petycji, wydarzeń i inicjatyw walczących o przyszłość Internetu.
-# Name for the newsletter in Newsletter subscription page
-newsletters-new-product-testing = Testowanie nowych produktów
-# Description for the newsletter in Newsletter subscription page (New Product Testing)
-newsletters-help-us-make-a-better-v2 = Pomóż nam ulepszać { -brand-name-mozilla(case: "acc") } dla Ciebie, testując nasze najnowsze produkty i funkcje.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Społeczność { -brand-name-mozilla(case: "gen") }
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)

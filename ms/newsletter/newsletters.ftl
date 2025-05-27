@@ -137,6 +137,8 @@ newsletters-fxa-error-retry = Maaf, ada masalah yang menghalang anda mengakses t
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Alamat e-mel ini tidak ada di dalam sistem kami. Sila periksa semula alamat anda atau <a href="{ $url }">melanggan buletin kami.</a>
 
+# Note: Bluesky is a brand name that shouldn't be translated
+newsletters-im-keeping-in-touch-v3 = Saya kekal berhubung dengan { -brand-name-mozilla } di Bluesky.
 # Obsolete, remove after 2025-05-11
 newsletters-im-keeping-in-touch-v2 = Saya kekal berhubung dengan { -brand-name-mozilla } di { -brand-name-twitter } pula.
 
@@ -223,12 +225,6 @@ newsletters-take-action = Ambil Tindakan demi Internet
 
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
 newsletters-add-your-voice = Benarkan suara anda didengari dalam petisyen, acara dan usaha bagi memperjuangkan masa hadapan internet.
-
-# Name for the newsletter in Newsletter subscription page
-newsletters-new-product-testing = Ujian Produk Baru
-
-# Description for the newsletter in Newsletter subscription page (New Product Testing)
-newsletters-help-us-make-a-better-v2 = Bantu kami menghasilkan { -brand-name-mozilla } yang lebih baik untuk anda dengan menguji produk dan ciri-ciri kami yang terkini.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Komuniti { -brand-name-mozilla }

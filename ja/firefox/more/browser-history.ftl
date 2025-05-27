@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.springfield.moz.works/browsers/browser-history/
+### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = ブラウザー史: 現代のブラウザーを生み出したせめぎ合い
 browser-history-the-browser-wars-underdogs-giants = ブラウザー戦争、弱者 vs 巨人、そして世界を変えた瞬間。ウェブブラウザーの歴史についてご覧ください。

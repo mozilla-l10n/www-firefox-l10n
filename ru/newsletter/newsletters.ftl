@@ -108,7 +108,7 @@ newsletters-fxa-error-retry = Приносим извинения, но при �
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = В базе данных нет этого адреса. Пожалуйста, проверьте свой адрес или <a href="{ $url }">подпишитесь на наши рассылки.</a>
 # Note: Bluesky is a brand name that shouldn't be translated
-newsletters-im-keeping-in-touch-v3 = Я держу связь с { -brand-name-mozilla } по Bluetooth.
+newsletters-im-keeping-in-touch-v3 = Вместо этого я поддерживаю связь с { -brand-name-mozilla } на Bluesky.
 # Obsolete, remove after 2025-05-11
 newsletters-im-keeping-in-touch-v2 = Я буду на связи с { -brand-name-mozilla } через { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
@@ -169,10 +169,6 @@ newsletters-former-university-program-v2 = Университетская про
 newsletters-take-action = Защитите Интернет
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
 newsletters-add-your-voice = Поддержите петиции, мероприятия и инициативы, которые борются за будущее Интернета.
-# Name for the newsletter in Newsletter subscription page
-newsletters-new-product-testing = Тестирование новых продуктов
-# Description for the newsletter in Newsletter subscription page (New Product Testing)
-newsletters-help-us-make-a-better-v2 = Помогите сделать { -brand-name-mozilla } ещё лучше, тестируя наши новые продукты и функции.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Сообщество { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)

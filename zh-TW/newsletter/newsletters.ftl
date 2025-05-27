@@ -33,7 +33,7 @@ newsletters-to-update-your-email-preferences = 請稍候再回來更新收信的
 newsletters-we-love-sharing-updates = 我們喜歡分享在 { -brand-name-mozilla } 到底都發生了哪些超棒的事情。
 newsletters-set-your-preferences-below = 在下方調整偏好，確保您總是能收到您想要的資訊。
 # Form field label
-newsletters-your-email-address = 您的電子郵件地址:
+newsletters-your-email-address = 您的電子郵件地址：
 # Form field label
 newsletters-country-or-region = 國家或地區:
 # Form field label
@@ -169,10 +169,6 @@ newsletters-former-university-program-v2 = 2008-2011 年的 University 專案，
 newsletters-take-action = 為網際網路採取行動
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
 newsletters-add-your-voice = 在我們為網際網路的未來而戰的請願、活動、倡議中，加入您的聲音。
-# Name for the newsletter in Newsletter subscription page
-newsletters-new-product-testing = 新產品測試報
-# Description for the newsletter in Newsletter subscription page (New Product Testing)
-newsletters-help-us-make-a-better-v2 = 透過測試最新的產品與功能來協助我們為您打造更好的 { -brand-name-mozilla }。
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = { -brand-name-mozilla } 社群
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)

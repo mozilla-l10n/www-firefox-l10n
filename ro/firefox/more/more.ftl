@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/more/
+### URL: https://www-dev.allizom.org/firefox/more/
 
 learn-more-faq = Întrebări frecvente despre { -brand-name-firefox }
 choose-which-firefox = Alege ce { -brand-name-firefox-browser } să descarci în limba ta

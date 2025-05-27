@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = গতি, গোপনীয়তা এবং সুরক্ষার জন্য আপনার সেরা ব্রাউজারটি সন্ধান করুন।
 best-browser-privacy-speed-and-security = গোপনীয়তা, গতি এবং সুরক্ষা।

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = Scuvra il meglier navigatur per tai: cun sveltezza, protecziun da datas e segirezza.
 best-browser-so-many-browser-options = I dat plunas da navigaturs. Tranter quels s'adatta dentant mo in optimalmain a tes basegns. Il meglier navigatur per tai duess ta garantir tant sveltezza sco era proteger tia sfera privata.

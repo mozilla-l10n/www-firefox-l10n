@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = Yiytu wanngorde maa ɓurnde ndee saɓu jaawgol, suturo e kisal.
 best-browser-so-many-browser-options = Cuɓe banngorɗe ina keewi no feewi, kono ko wanngorde wootere tan ɓuri hawrude e soklaaji maa. Wanngorde ɓurnde moƴƴude ndee foti ko addan'de ko jaawgol kam e ndeenka suturo.

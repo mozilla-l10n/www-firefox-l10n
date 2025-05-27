@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/compare/
+### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
 # Page title
 compare-index-compare-firefox-with-other = { -brand-name-firefox }’u diğer tarayıcılarla karşılaştırın

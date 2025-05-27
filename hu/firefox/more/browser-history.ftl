@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/browser-history/
+### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = Böngészőtörténelem: Epikus hatalmi harcok, amelyek elhozták a modern böngészőket
 browser-history-the-browser-wars-underdogs-giants = A böngészőháborúk, törpék az óriások ellen, és pillanatok, melyek megváltoztatták a világot. Olvasson a webböngésző történelméről.

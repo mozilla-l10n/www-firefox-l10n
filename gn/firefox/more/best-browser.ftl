@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = Ejuhu ne  kundaha ipya’e, ñemigua ha hekorosãva.
 best-browser-so-many-browser-options = Heta jeporavorã kundahápe g̃uarã, hákatu peteĩ pe oikóva eikotevẽvape g̃uarã. Pe kundaha iporãvéva ndéve g̃uarã ipya’e, hekorosã ha  omo’ãva’erã nde rekoñemi.

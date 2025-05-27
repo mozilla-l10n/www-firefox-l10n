@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = رفتار، رازداری تے سلامتی کیتے آپݨاں بہترین براؤزر لبھو۔
 best-browser-so-many-browser-options = ٻہوں سارے براؤزر اختیارات ، لیکن صرف ہک ای تہاݙیاں ضرورتاں کیتے بہترین کم کریندا ہے۔ تہاݙے کیتے بہترین براؤزر رفتار تے رازداری تحفظ ݙوہیں فراہم کرے۔.

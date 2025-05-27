@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/browser-history/
+### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = L'istorgia dals navigaturs: Ina lutga epica per la pussanza ch'ans ha purtà ils navigaturs moderns
 browser-history-the-browser-wars-underdogs-giants = La guerra dals navigaturs, ils nanins cunter ils gigants e muments che han vieut il mund. Ve a savair dapli davart l'istorgia dal navigatur-web.

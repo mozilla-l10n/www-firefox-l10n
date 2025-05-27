@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = वेग, गोपनीयता आणि सुरक्षिततेसाठी सर्वोत्तम ब्राउझर शोधा.
 best-browser-so-many-browser-options = इतके ब्राउझर पर्याय असतानाही आपल्या गरजांसाठी एकाच सार्थ ठरतो. आपल्यासाठीच्या सर्वोत्तम ब्राऊझरने वेग आणि गोपनीयता संरक्षण पुरावावयास हवे.

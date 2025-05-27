@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/more/
+### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = { -brand-name-firefox } hugbúnaður er hannaður til að vernda friðhelgi þína
 learn-more-faq = Algengar spurningar { -brand-name-firefox }

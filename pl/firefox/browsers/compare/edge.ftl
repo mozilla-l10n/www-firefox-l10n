@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/compare/edge/
+### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
 # Page title
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } kontra Microsoft Edge

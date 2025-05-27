@@ -3,12 +3,11 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/compare/
+### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
 compare-shared-compare-firefox = { -brand-name-firefox } ਦੀ ਤੁਲਨਾ ਕਰੋ
 compare-shared-footer-cta-title = { -brand-name-firefox } ਨਾਲ ਹੋਰ ਕਰੋ
 compare-shared-footer-cta-desc = ਤੇਜ਼, ਹਲਕਾ, ਪਰਦੇਦਾਰੀ ਉੱਤੇ ਅਧਾਰਿਤ ਬਰਾਊਜ਼ਰ ਲਵੋ, ਜਿਸ ਪਿੱਛੇ ਇੱਕ ਗ਼ੈਰ-ਮੁਨਾਫ਼ਾ ਸੰਗਠਨ ਖੜ੍ਹਾ ਹੈ ਅਤੇ ਜੋ ਤੁਹਾਡੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਕੰਮ ਕਰਦਾ ਹੈ।
-compare-shared-footer-cta-button = { -brand-name-firefox } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
 compare-shared-we-also-offer-easy = ਅਸੀਂ ਇੰਝ ਦੇ ਵਰਤਣ ਲਈ ਸੌਖੇ ਫ਼ੀਚਰ ਵੀ ਦਿੰਦੇ ਹਾਂ:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } ਵਿੱਚ ਅੱਗੇ ਦਿੱਤੇ ਟੂਲ ਵੀ ਮੌਜੂਦ ਹਨ:
 # Variables

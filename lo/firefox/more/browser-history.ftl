@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/browser-history/
+### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = ປະຫວັດສາດຂອງຕົວທ່ອງເວັບ: ການຕໍ່ສູ້ພະລັງງານແບບ Epic ທີ່ນໍາເອົາຕົວທ່ອງເວັບທີ່ທັນສະໄຫມໃຫ້ພວກເຮົາ
 browser-history-the-browser-wars-underdogs-giants = ສົງຄາມຂອງຕົວທ່ອງເວັບ, underdogs vs giants, ແລະຊ່ວງເວລາທີ່ປ່ຽນແປງໂລກ. ອ່ານກ່ຽວກັບປະຫວັດຂອງຕົວທ່ອງເວັບ.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/faq/
+### URL: https://www-dev.allizom.org/firefox/faq/
 
 # HTML page title
 firefox-faq = Саволҳои роиҷ дар бораи «{ -brand-name-firefox }» (FAQ)
@@ -23,6 +23,7 @@ how-do-i = Чӣ тавр браузери «{ -brand-name-firefox-browser }»-р
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = Браузери «{ -brand-name-firefox }» ройгон аст?
+related-questions-free = Саволҳои марбут: Оё «{ -brand-name-firefox-browser }» ройгон аст? Оё «{ -brand-name-firefox }» ягон пул меарзад?
 is-chrome-better = Оё браузери «{ -brand-name-chrome }» нисбат ба браузери «{ -brand-name-firefox }» беҳтар аст?
 
 # Variables:
@@ -39,8 +40,6 @@ is-firefox-safe = Браузери «{ -brand-name-firefox }» бехатар а
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = Оё «{ -brand-name-firefox }» маълумоти шахсии шуморо мефурӯшад?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/

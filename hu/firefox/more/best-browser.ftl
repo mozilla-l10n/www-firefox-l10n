@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = Találja meg a legjobb böngészőt a sebesség, az adatvédelem és a biztonság szempontjából.
 best-browser-so-many-browser-options = Számos böngészőlehetőség, de csak egy van, amelyik a legjobban megfelel az igényeinek. A legjobb böngésző egyszerre kínál sebességet és adatvédelmet.

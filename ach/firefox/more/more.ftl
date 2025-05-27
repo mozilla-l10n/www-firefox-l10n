@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/more/
+### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-has-been = { -brand-name-firefox } obedo tye nicake wa i cok ki acaki.
 choose-which-firefox = Yer { -brand-name-firefox-browser } mene me agama i leb mamegi

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/browser-history/
+### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = Amazray n yiminig: Imennuɣen imeqqranen n udabu i aɣ-d-yewwi iminigen atraren
 browser-history-the-browser-wars-underdogs-giants = Ṭṭradat n yiminig, imeɣban mgal imeqqranen akked tegnatin i ibeddlen amaḍal. Ɣer ɣef ymazray n yiminig web.

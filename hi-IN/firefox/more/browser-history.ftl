@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.springfield.moz.works/browsers/browser-history/
+### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = ब्राउज़र इतिहास : भीषण सत्ता संघर्ष जो कि हमें आधुनिक वेब ब्राउज़र्स तक लेकर आया
 browser-history-the-browser-wars-underdogs-giants = ब्राउज़र युद्ध, दमित बनाम दिग्गज और वे लम्हे जिन्होंने दुनिया को बदल दिया। वेब ब्राउज़र्स के इतिहास के बारे में पढ़ें।

@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = गति, निजता और सुरक्षा के लिए अपना सर्वश्रेष्ठ ब्राउज़र खोजें।
 best-browser-so-many-browser-options = ब्राउज़रों के ढेर सारे विकल्प, लेकिन एक ही है जो कि आपकी ज़रूरतों के मुताबिक सबसे बेहतर काम करता है। बेहतरीन ब्राउज़र को गति और निजता सुरक्षा दोनों चीज़ें देनी चाहिए।

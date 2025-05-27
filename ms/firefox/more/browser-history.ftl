@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.springfield.moz.works/browsers/browser-history/
+### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = Sejarah Pelayar: Perebutan kuasa epik yang membawa pelayar moden kepada kita
 browser-history-the-browser-wars-underdogs-giants = Pertarungan pelayar, bukan pilihan vs gergasi dan detik yang mengubah dunia. Baca tentang sejarah pelayar web.

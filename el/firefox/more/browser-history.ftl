@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/browser-history/
+### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = Ιστορία φυλλομετρητών: Επικοί αγώνες που μας έφεραν τους σύγχρονους φυλλομετρητές
 browser-history-the-browser-wars-underdogs-giants = Οι πόλεμοι των φυλλομετρητών, η μάχη αδύναμων εναντίον δυνατών και οι στιγμές που άλλαξαν τον κόσμο. Διαβάστε για την ιστορία των φυλλομετρητών.

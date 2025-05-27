@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = Temukan peramban terbaik Anda untuk kecepatan, privasi, dan keamanan.
 best-browser-so-many-browser-options = Begitu banyak pilihan peramban, tetapi hanya ada satu yang paling sesuai dengan kebutuhan Anda. Peramban terbaik untuk Anda harus menawarkan kecepatan dan perlindungan privasi.

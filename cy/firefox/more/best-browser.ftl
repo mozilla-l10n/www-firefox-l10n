@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = Dewch o hyd i'ch porwr gorau ar gyfer cyflymder, preifatrwydd a diogelwch.
 best-browser-so-many-browser-options = Cynifer o opsiynau porwr, ond dim ond un sy'n gweithio orau i'ch anghenion. Dylai'r porwr gorau i chi gynnig cyflymder a diogelwch i'ch preifatrwydd.

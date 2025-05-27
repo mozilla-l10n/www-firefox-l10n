@@ -3,6 +3,5 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/more/
+### URL: https://www-dev.allizom.org/firefox/more/
 
-firefox-more-a-guide-to = Ръководство за по-безопасни регистрации и пароли

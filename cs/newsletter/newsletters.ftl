@@ -170,10 +170,6 @@ newsletters-take-action = Bojujte za internet
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
 newsletters-add-your-voice = Připojte se k peticím, událostem a iniciativám, které bojují za budoucnost webu.
 # Name for the newsletter in Newsletter subscription page
-newsletters-new-product-testing = Testování nových produktů
-# Description for the newsletter in Newsletter subscription page (New Product Testing)
-newsletters-help-us-make-a-better-v2 = Pomozte nám vytvořit lepší { -brand-name-mozilla(case: "acc") } pro vás tím, že vyzkoušíte naše nejnovější produkty a funkce.
-# Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Komunita { -brand-name-mozilla(case: "gen") }
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
 newsletters-join-mozillians-all-around = Přidejte se ke komunitě po celém světě a dozvíte se o možnostech, jak podpořit misi { -brand-name-mozilla(case: "gen") }.
@@ -278,7 +274,7 @@ newsletters-update-your-browser = Pro použití tuto stránky prosím aktualizuj
 # Name for the newsletter in Newsletter subscription page
 newsletters-security-and-privacy-news = Novinky o bezpečnosti a soukromí
 # Description for the newsletter in Newsletter subscription page (Security & Privacy News)
-newsletters-stay-informed-of-the-latest = Buďte informováni o nejnovějších trendech v oblasti ochrany soukromí a zabezpečení od { -brand-name-mozilla(case: "acc") }, tvůrců { -brand-name-firefox("case:gen") }.
+newsletters-stay-informed-of-the-latest = Buďte informováni o nejnovějších trendech v oblasti ochrany soukromí a zabezpečení od { -brand-name-mozilla(case: "acc") }, tvůrců { -brand-name-firefox(case: "gen") }.
 # Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-get-security-and-privacy-news-and-tips = Získávejte novinky a aktualizace produktů z oblasti zabezpečení a ochrany osobních údajů od společnosti { -brand-name-mozilla } a buďte v bezpečí a informováni o všem, co dělá web zdravějším místem.
 newsletters-opt-out-delay = Zpracování vaší žádosti o odhlášení může trvat 1-2 pracovní dny, během nichž můžete obdržet další e-mail.

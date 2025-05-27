@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = Γνωρίστε το καλύτερο πρόγραμμα περιήγησης για ταχύτητα, απόρρητο και ασφάλεια.
 best-browser-so-many-browser-options = Τόσες επιλογές σε προγράμματα περιήγησης, αλλά μόνο ένα καλύπτει καλύτερα τις ανάγκες σας. Το ιδανικό πρόγραμμα περιήγησης θα πρέπει να προσφέρει ταχύτητα και προστασία απορρήτου.

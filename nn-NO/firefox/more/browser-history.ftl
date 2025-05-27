@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/browser-history/
+### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = Nettlesarhistorikk: Episke maktkampar som gav oss moderne nettlesarar
 browser-history-the-browser-wars-underdogs-giants = Nettlesarkrig, dei svakare mot kjempene og stunder som endra verda. Les om historia til nettlesaren.

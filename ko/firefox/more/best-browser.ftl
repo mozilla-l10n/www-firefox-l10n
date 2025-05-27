@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = 속도, 개인 정보 보호 및 보안을 위한 최상의 브라우저를 찾으세요.
 best-browser-so-many-browser-options = 선택할 수 있는 브라우저가 많지만 사용자에가 가장 잘 맞는 브라우저는 하나입니다. 사용자에게 가장 적합한 브라우저는 속도와 개인 정보 보호를 모두 제공해야 합니다.

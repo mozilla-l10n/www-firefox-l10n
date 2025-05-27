@@ -3,13 +3,12 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/more/
+### URL: https://www-dev.allizom.org/firefox/more/
 
 learn-more-about = { -brand-name-firefox } අතිරික්සු සහ ඔබ මාර්ගගතව යන ඕනෑම තැනක පෞද්ගලිකත්‍වය සඳහා තනා තිබෙන ඔබගේ දත්ත ගෞරවයෙන් හසුරුවන නිෂ්පාදන ගැන තව දැනගන්න.
 learn-more-faq = { -brand-name-firefox } නිති පැණ
 what-is-a = අතිරික්සුවක් යනු කුමක්ද?
 get-the-browsers = පෞද්ගලිකත්‍වයට මුල් තැන දෙන අතිරික්සු ගන්න — සහ සැමවිට තිබෙන
-get-the-privacy = ඔබට යෝග්‍ය පෞද්ගලිකත්‍වය ලබා ගන්න. ඔබ අතිරික්සුව විවෘත කරන සෑම විටම වැඩිදියුණු කළ ලුහුබැඳීමේ රැකවරණය ස්වයංක්‍රීයව ක්‍රියාත්මක වේ.
 choose-which-firefox = ඔබගේ භාෂාවෙන් { -brand-name-firefox-browser } බාගැනීමට තෝරන්න
 firefox-more-firefox-chromebook = { -brand-name-chromebook } සඳහා { -brand-name-firefox-browser }
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }

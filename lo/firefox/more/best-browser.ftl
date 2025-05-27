@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = ຊອກຫາຕົວທ່ອງເວັບທີ່ດີທີ່ສຸດຂອງທ່ານສໍາລັບຄວາມໄວ, ຄວາມເປັນສ່ວນຕົວແລະຄວາມປອດໄພ.
 best-browser-so-many-browser-options = ມີຫຼາຍທາງເລືອກຂອງຕົວທ່ອງເວັບ, ແຕ່ມີອັນດຽວທີ່ເຮັດວຽກທີ່ດີທີ່ສຸດສໍາລັບຄວາມຕ້ອງການຂອງທ່ານ. ຕົວທ່ອງເວັບທີ່ດີທີ່ສຸດສໍາລັບທ່ານຄວນຈະສະຫນອງທັງຄວາມໄວແລະການປົກປ້ອງຄວາມເປັນສ່ວນຕົວ.

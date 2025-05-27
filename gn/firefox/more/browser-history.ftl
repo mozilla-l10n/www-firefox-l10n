@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/browser-history/
+### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = Kundahára rembiasakue: ñorairõ guasu pokatúre oguerúva kundahára pyahu
 browser-history-the-browser-wars-underdogs-giants = Umi kundahára ñorairõ, umi michĩvéva tuichavéva rovake ha omoambuéva arapy. Emoñe’ẽ ñanduti kundahára rembiasakue.

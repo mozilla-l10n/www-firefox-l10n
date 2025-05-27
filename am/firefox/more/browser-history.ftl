@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/browser-history/
+### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = የአሳሽ ታሪክ፡ ዘመናዊ አሳሾችን ያመጣን ዝርዝር የሃይል ትግል
 browser-history-the-history-of-web = የድር አሳሾች ታሪክ

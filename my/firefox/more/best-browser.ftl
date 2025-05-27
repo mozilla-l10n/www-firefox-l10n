@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = သီးသန့်လုံခြုံမှု၊မြန်ဆန်မှုနှင့် စိတ်ချလုံခြုံမှုအတွက် အကောင်းဆုံးဘရောက်ဇာကို ရှာပါ။
 best-browser-so-many-browser-options = များစွာသောဘရောက်ဇာရွေးချယ်မှုများရှိသော်လည်းသင့်လိုအပ်ချက်အရတစ်ခုတည်းသာလျှင်လည်းအသုံးပြုနိုင်ပါသည်။သင့်အတွက်အကောင်းဆုံးဘရောက်ဇာသည် လျင်မြန်မှုသာမကကိုယ်ပိုင်လုံခြုံရေးကိုလည်းထောက်ပံ့ပေးနိုင်ရမည်။

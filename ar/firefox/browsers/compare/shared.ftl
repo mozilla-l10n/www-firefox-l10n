@@ -2,12 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.springfield.moz.works/browsers/compare/
+### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
 compare-shared-compare-firefox = قارن { -brand-name-firefox }
 compare-shared-footer-cta-title = أنجِز المزيد مع { -brand-name-firefox }
 compare-shared-footer-cta-desc = احصل على مُتصفح سريع وخفيف يُركز على الخصوصية ومدعوم من مؤسسة غير ربحية ويعمل على جميع الأجهزة.
-compare-shared-footer-cta-button = تحميل { -brand-name-firefox }
 compare-shared-we-also-offer-easy = كما نُقدّم مزايا سهلة الاستخدام مثل:
 compare-shared-firefox-also-has-built-in = مُتصفح { -brand-name-firefox } لديه أيضًا أدوات مدمجة مثل:
 

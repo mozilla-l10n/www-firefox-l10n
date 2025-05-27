@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = 寻找对您来说，速度、隐私和安全性表现最佳的浏览器。
 best-browser-so-many-browser-options = 浏览器百家争鸣，但只有一款最适合您。最佳的浏览器应该上网超快，又可保护您的隐私。

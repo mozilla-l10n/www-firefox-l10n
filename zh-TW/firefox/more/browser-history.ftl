@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/browser-history/
+### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = 瀏覽器簡史: 帶來現代瀏覽器的史詩級大戰
 browser-history-the-browser-wars-underdogs-giants = 小蝦米與大鯨魚對抗的瀏覽器戰爭改變了這個世界。了解網頁瀏覽器歷史。

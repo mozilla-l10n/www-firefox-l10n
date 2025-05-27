@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works//firefox/browsers/best-browser/
+### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = Išsirinkite geriausią naršyklę sparčiam, privačiam ir saugiam naršymui.
 best-browser-so-many-browser-options = Yra daugybė įvairių naršyklių, bet tik viena geriausiai tenkinanti jūsų poreikius. Geriausia – tai ta, kuri ne tik pasižymi sparta, bet ir saugo jūsų privatumą.
