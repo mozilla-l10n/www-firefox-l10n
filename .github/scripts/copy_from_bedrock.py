@@ -63,6 +63,7 @@ def main():
     # Some files were moved compared to Bedrock
     # springfield_path -> bedrock_path
     file_mapping = {
+        "firefox/browsers/desktop/chromebook.ftl": "firefox/browsers/chromebook.ftl",
         "firefox/browsers/mobile/get-app.ftl": "firefox/mobile.ftl",
         "firefox/download/desktop.ftl": "firefox/new/desktop.ftl",
         "firefox/download/download.ftl": "firefox/new/download.ftl",
@@ -73,7 +74,7 @@ def main():
         "firefox/more/more.ftl": "firefox/more.ftl",
         "firefox/more/what-is-a-browser.ftl": "firefox/browsers/history/what-is-a-browser.ftl",
         "firefox/more/windows-64-bit.ftl": "firefox/browsers/windows-64-bit.ftl",
-        "newsletter/nwesletters.ftl": "mozorg/newsletters.ftl",
+        "newsletter/newsletters.ftl": "mozorg/newsletters.ftl",
     }
     www_path = Path(args.www_path)
 
