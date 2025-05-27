@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = La storia dei browser: epiche lotte di potere che hanno portato ai browser moderni
 browser-history-the-browser-wars-underdogs-giants = Le guerre tra browser, piccole realtà contro giganti, e i momenti che hanno cambiato il mondo. Scopri la storia dei browser web.
@@ -51,4 +51,3 @@ browser-history-in-the-future-the = In futuro, probabilmente il Web si allontane
 browser-history-in-the-future-the-v2 = In futuro, probabilmente il Web si allontanerà ulteriormente dalle sue radici ipertestuali per diventare un vasto mare di esperienze interattive. La realtà virtuale è all’orizzonte da decenni (almeno dall’uscita di Lawnmower Man nel 1992 e di Nintendo Virtual Boy nel 1995), ma il Web potrebbe finalmente renderla disponibile per tutti. { -brand-name-firefox } ora supporta WebVR e A-Frame, che consentono agli sviluppatori di creare rapidamente e facilmente siti web di realtà virtuale. La maggior parte dei dispositivi mobili moderni supporta WebVR e possono essere facilmente utilizzati come cuffie con semplici custodie di cartone. Un Web di realtà virtuale 3D come quello immaginato dall’autore di fantascienza Neal Stephenson potrebbe essere proprio dietro l’angolo. In tal caso, il browser web stesso potrebbe scomparire completamente e diventare una vera finestra su un altro mondo.
 browser-history-whatever-the-future = Qualunque sia il futuro del Web, { -brand-name-mozilla } e { -brand-name-firefox } saranno a disposizione degli utenti, assicurando loro potenti strumenti per sperimentare il Web e tutto ciò che offre. Il Web è per tutti e tutti dovrebbero avere il controllo della propria esperienza online. Ecco perché offriamo { -brand-name-firefox } con strumenti per proteggere la privacy degli utenti e non venderemo mai i loro dati a inserzionisti.
 browser-history-resources = Risorse
-browser-history-take-control-of = Prendi il controllo del tuo browser.
