@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
+### URL: https://www-dev.springfield.moz.works/browsers/opera/
 
 # Page title
 compare-opera-firefox-vs-opera = { -brand-name-firefox } vs Opera
 # HTML page description
 compare-opera-read-our-comparison = 閱讀我們對 { -brand-name-firefox } 與 Opera 瀏覽器的功能、隱私權、易用性比較。
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
 compare-opera-firefoxs-default-privacy-settings = { -brand-name-firefox } 的預設隱私權設定比 Opera 更強大，我們也提供<a { $fingerprint }>指紋封鎖</a>等更多功能來防止網站追蹤您。
 compare-opera-firefox-offers-a-wide-range-of = { -brand-name-firefox } 提供一系列自訂選項，包含將選單與工具列移動到瀏覽器視窗中的不同位置的功能。Opera 的介面可自訂性較低。
 # Variables:

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/
 
 # HTML page title
 browsers-mobile-firefox-mobile-browsers-put = { -brand-name-firefox } 移动浏览器将您的隐私放在首位

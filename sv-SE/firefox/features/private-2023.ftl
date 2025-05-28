@@ -3,13 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/private/
+### URL: https://www-dev.springfield.moz.works/features/private/
 
 features-private-is-firefox-a-private-browser = Är { -brand-name-firefox } en privat webbläsare?
 # HTML description
 features-private-were-focused-on-your-right-to = Vi fokuserar på din rätt till integritet. Din data, din webbaktivitet, ditt liv online skyddas med { -brand-name-firefox }.
 # Variables:
-#   $url (url) = link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) = link to https://www.firefox.com/features/private-browsing/
 features-private-yes-firefox-protects-your = Ja. { -brand-name-firefox } skyddar din integritet med funktioner som <a href="{ $url }">Privat surfning</a>. Det låter dig hålla din webbhistorik och dina lösenord privata, även när du använder en enhet som du delar med andra människor, till exempel en hemdator eller { -brand-name-ipad }.
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
@@ -17,7 +17,7 @@ features-private-firefox-also-protects-your = { -brand-name-firefox } skyddar oc
 features-private-sidenote-we-are-not-big-tech = <em>Notera:</em> Vi är inte stora tekniker. Vi gör saker annorlunda. Genom att vara oberoende (inga aktieägare) kan vi sätta människor först, före vinst. Till skillnad från andra företag säljer vi inte åtkomst till din data.
 features-private-what-information-does-firefox = Vilken information samlar { -brand-name-firefox } in?
 # Variables:
-#   $url (url) = link to https://www.mozilla.org/firefox/privacy/
+#   $url (url) = link to https://www.mozilla.org/privacy/
 features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } (tillverkaren av { -brand-name-firefox }) tar integritet på största allvar. <strong>Mycket allvarligt</strong>. Faktum är att varje { -brand-name-firefox }-produkt vi gör hedrar vårt <a href="{ $url }">löfte om personliga uppgifter</a>: Ta mindre. Förvara det säkert. Inga hemligheter.
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/privacy/firefox/

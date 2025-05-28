@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.springfield.moz.works/compare/
 
 compare-shared-compare-firefox = { -brand-name-firefox }  fergelykje
 compare-shared-footer-cta-title = Doch mear mei { -brand-name-firefox }
@@ -11,10 +11,10 @@ compare-shared-footer-cta-desc = Untfang de rappe, ljochtgewicht, op privacy rjo
 compare-shared-we-also-offer-easy = Wy biede ek maklik te brûken funksjes, lykas:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } hat ek ynboud ark, lykas:
 # Variables
-# $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
+# $pdf (url) - link to https://www.firefox.com/features/pdf-editor/
 compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Bewurkje PDF’s</a> ûnderweis yn jo { -brand-name-firefox }-browserfinster – gjin ekstra software nedich.
 # Variables
-# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+# $translate (url) - link to https://www.firefox.com/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>Set in webside oer</a> lokaal en privee.
 compare-shared-its-easy-to-switch = Oerstappe is ienfâldich
 compare-shared-since-we-dont-have-to-make = Omdat wy oandielhâlders net lokkich hoege te meitsjen, kinne wy ús rjochtsje op it lokkich meitsjen fan <strong>jo</strong> en altyd jo privacy en gemak foarop sette.

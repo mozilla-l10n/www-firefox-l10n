@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = 已推出新版本的 { -brand-name-firefox }。<a { $update_url }>更新到最新版本</a>
 firefox-desktop-download-get-the-browser = 使用會保護重要資料的瀏覽器
 firefox-desktop-download-fast-reliable-private = 快速、可靠、有隱私 — 讓您上網無後顧之憂。
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-no-shady = 沒有諱莫如深的隱私權保護政策，更不留下後門給廣告商，純屬一套光速快，又不出賣您的瀏覽器。
 firefox-desktop-download-download-options = 下載其他平台與語言版本
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser }技術支援
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = 用您習慣的方式上網。<br>{ -brand-name-firefox-browser } <strong>會保護您</strong>。
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = 用您習慣的方式上網。<br>{ -brand-name-firefox-browser }<strong>不會</strong>偷看。
 firefox-desktop-download-we-block-the-ad = 交給我們封鎖廣告追蹤器，您就可以更快速悠遊上網。
 firefox-desktop-download-ads-are-distracting = 廣告讓人分心，當中的追蹤器會監控您在網路上的一舉一動，也讓網頁更慢載入。{ -brand-name-firefox-browser }會自動封鎖網路上大部分的追蹤器，這樣就不必深入研究到底有哪些安全性設定需要調整。
@@ -116,9 +116,9 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } 一開始
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = 隨著網際網路的發展與變化，{ -brand-name-firefox } 持續關注您的隱私權 — 我們總是這麼認為的。請參考<a { $attrs }>隱私權公告</a>了解我們的資料處理方式。
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = 隨著網路環境發展改變，{ -brand-name-firefox } 持續著重於保護您的隱私權 — 我們稱為 <a { $attrs }>Personal Data Promise</a>：資料拿得越少越好、確保資料安全、絕不祕而不宣。{ -brand-name-firefox } 承諾保護您的資料、在網路上的行為、線上生活。
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
@@ -133,7 +133,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } 會自�
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = 有問題嗎？讓 <a { $attrs }>{ -brand-name-mozilla } 技術支援站</a>來幫幫您。
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = 快完成了！
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -155,11 +155,11 @@ firefox-desktop-download-if-you-see-a-prompt = 若您看到「您正要安裝的
 firefox-desktop-download-visit-support-for-more = 到技術支援站了解更多資訊
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = 將自動開始下載，若沒有的話請<a id="{ $id }" href="{ $fallback_url }">點擊此處再試一次。</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } 不只是瀏覽器。
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = 下載已中斷，但已下載的部分將保留。
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = 您的系統可能不符合執行 { -brand-name-firefox } 的最低需求，但還是可以試試<a href="{ $url }">這些版本</a>。

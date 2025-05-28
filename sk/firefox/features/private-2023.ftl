@@ -3,13 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/private/
+### URL: https://www-dev.springfield.moz.works/features/private/
 
 features-private-is-firefox-a-private-browser = Je { -brand-name-firefox } súkromným prehliadačom?
 # HTML description
 features-private-were-focused-on-your-right-to = Zameriavame sa na vaše právo na súkromie. Vaše údaje, vaša webová aktivita, váš život online sú pri používaní { -brand-name-firefox(case: "gen") } chránené.
 # Variables:
-#   $url (url) = link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) = link to https://www.firefox.com/features/private-browsing/
 features-private-yes-firefox-protects-your = Áno. { -brand-name-firefox } chráni vaše súkromie pomocou funkcií, ako je <a href="{ $url }">Súkromné prehliadanie</a>. Umožňuje vám zachovať súkromie vašej histórie prehliadania a hesiel, a to aj pri používaní zariadenia, ktoré zdieľate s inými ľuďmi, ako je napríklad domáci počítač alebo { -brand-name-ipad }.
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
@@ -17,7 +17,7 @@ features-private-firefox-also-protects-your = { -brand-name-firefox } tiež chr�
 features-private-sidenote-we-are-not-big-tech = <em>Poznámka:</em> Nie sme veľká korporácia. Robíme veci inak. Nezávislosť (žiadni akcionári) nám umožňuje uprednostňovať ľudí pred ziskom. Na rozdiel od iných spoločností nepredávame prístup k vašim údajom.
 features-private-what-information-does-firefox = Aké informácie { -brand-name-firefox } zhromažďuje?
 # Variables:
-#   $url (url) = link to https://www.mozilla.org/firefox/privacy/
+#   $url (url) = link to https://www.mozilla.org/privacy/
 features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } (tvorca prehliadača { -brand-name-firefox }) berie súkromie veľmi vážne. <strong>Veľmi vážne</strong>. V skutočnosti každý produkt { -brand-name-firefox(case: "gen") }, ktorý robíme, ctí náš <a href="{ $url }">prísľub týkajúci sa ochrany osobných údajov</a>: Vziať si menej. Udržovať to v bezpečí. Žiadne tajomstvá.
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/privacy/firefox/

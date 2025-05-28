@@ -14,8 +14,6 @@ newsletter-form-select-country-or-region = Dewiswch wlad neu ardal
 newsletter-form-select-language = Dewiswch Iaith
 newsletter-form-your-email-here = EICH E-BOST YMA
 newsletter-form-get-firefox-news = Derbyn newyddion { -brand-name-firefox }
-newsletter-form-join-the-community = Ymunwch Ã¢'r Gymuned
-newsletter-form-sign-up-to-receive = Cofrestrwch i dderbyn diweddariadau misol gan { -brand-name-firefox } a thueddiadau rhyngrwyd sy'n siapio'ch bywyd ar-lein.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Rwy'n fodlon i { -brand-name-mozilla } drin fy manylion fel mae'n cael ei esbonio yn y <a href="{ $url }">Datganiad Preifatrwydd hwn</a>
@@ -24,17 +22,13 @@ newsletter-form-we-will-only-send-firefox-v2 = Dim ond gwybodaeth sy'n ymwneud Ã
 newsletter-form-if-you-havent-previously = Os nad ydych eisoes wedi cadarnhau tanysgrifiad i gylchlythyr yn perthyn i { -brand-name-mozilla }, rhaid i chi wneud hynny nawr. Gwiriwch eich blwch derbyn neu eich hidl sbam am e-bost gennym ni.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Chi
 newsletter-form-get-firefox-tips = Cewch gynghorion, triciau, newyddion { -brand-name-firefox } a rhagor
-newsletter-form-get-mozilla-updates = Derbyn diweddariadau { -brand-name-mozilla }
 newsletter-form-available-languages = Ieithoedd Sydd ar Gael
 newsletter-form-select-country = Dewis gwlad
 newsletter-form-sign-me-up = Cofrestru
 newsletter-form-sign-up-now = Cofrestrwch nawr
 newsletter-form-thanks = Diolch!
-newsletter-form-leave-this-field-empty = Gadewch y maes hwn yn wag.
 newsletter-form-yes = Iawn
 newsletter-form-no = Na
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = Ffurflen gofrestru ar gyfer y cylchlythyr
 multi-newsletter-form-checkboxes-legend = Rwyf eisiau gwybodaeth am:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-find-your-best-browser = Scuvra il meglier navigatur per tai: cun sveltezza, protecziun da datas e segirezza.
 best-browser-so-many-browser-options = I dat plunas da navigaturs. Tranter quels s'adatta dentant mo in optimalmain a tes basegns. Il meglier navigatur per tai duess ta garantir tant sveltezza sco era proteger tia sfera privata.
@@ -41,4 +41,3 @@ best-browser-choosing-the-best-browser = La schelta dal meglier navigatur per ta
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = Nus da <a href="{ $firefox }">{ -brand-name-firefox }</a> avain lavurà sco nars per sviluppar in navigatur ch'è dubel uschè svelt sco avant e che permetta al medem mument als utilisaders la controlla sur da lur vita online.
-best-browser-take-control-of-your = Tegna sut controlla tes navigatur.

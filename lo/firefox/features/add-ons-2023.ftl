@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/add-ons/
+### URL: https://www-dev.springfield.moz.works/features/add-ons/
 
 features-add-ons-firefox-add-ons = { -brand-name-firefox } add-ons
 features-add-ons-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } ສ່ວນເສີມ ແລະ ສ່ວນຂະຫຍາຍຂອງຕົວທ່ອງເວັບ

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-find-your-best-browser = Γνωρίστε το καλύτερο πρόγραμμα περιήγησης για ταχύτητα, απόρρητο και ασφάλεια.
 best-browser-so-many-browser-options = Τόσες επιλογές σε προγράμματα περιήγησης, αλλά μόνο ένα καλύπτει καλύτερα τις ανάγκες σας. Το ιδανικό πρόγραμμα περιήγησης θα πρέπει να προσφέρει ταχύτητα και προστασία απορρήτου.
@@ -41,4 +41,3 @@ best-browser-choosing-the-best-browser = Η επιλογή του καλύτερ
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = Στο <a href="{ $firefox }">{ -brand-name-firefox }</a>, εργαζόμαστε σκληρά για να αναπτύξουμε ένα πρόγραμμα περιήγηση που είναι δύο φορές πιο γρήγορο από πριν και προσφέρει στους χρήστες περισσότερο έλεγχο για τη διαδικτυακή τους ζωή.
-best-browser-take-control-of-your = Πάρτε τον έλεγχο του προγράμματος περιήγησής σας.

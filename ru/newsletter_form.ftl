@@ -14,8 +14,6 @@ newsletter-form-select-country-or-region = Выберите страну или 
 newsletter-form-select-language = Выберите язык
 newsletter-form-your-email-here = ВАШ АДРЕС ЭЛЕКТРОННОЙ ПОЧТЫ
 newsletter-form-get-firefox-news = Получайте новости { -brand-name-firefox }
-newsletter-form-join-the-community = Присоединиться к сообществу
-newsletter-form-sign-up-to-receive = Подпишитесь, чтобы получать ежемесячные новости о { -brand-name-firefox } и интернет-тенденциях, которые определяют вашу жизнь в Интернете.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Я соглашаюсь с тем, как { -brand-name-mozilla } обращается с моей информацией согласно <a href="{ $url }">этому Уведомлению о приватности</a>
@@ -24,17 +22,13 @@ newsletter-form-we-will-only-send-firefox-v2 = Мы будем отправля�
 newsletter-form-if-you-havent-previously = Если вы ранее не подтверждали подписку на новостные рассылки { -brand-name-mozilla }, то вам может понадобится сделать это. Пожалуйста, проверьте вашу папку «Входящие» или «Спам» на наличие письма от нас.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Вы
 newsletter-form-get-firefox-tips = Получайте советы, хитрости и новости { -brand-name-firefox } и даже больше
-newsletter-form-get-mozilla-updates = Получайте новости { -brand-name-mozilla }
 newsletter-form-available-languages = Доступные языки
 newsletter-form-select-country = Выберите страну
 newsletter-form-sign-me-up = Подписаться
 newsletter-form-sign-up-now = Подписаться сейчас
 newsletter-form-thanks = Спасибо!
-newsletter-form-leave-this-field-empty = Оставьте это поле пустым.
 newsletter-form-yes = Да
 newsletter-form-no = Нет
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = Форма подписки на новостную рассылку
 multi-newsletter-form-checkboxes-legend = Я хочу получать информацию про:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Dostupan je još noviji { -brand-name-firefox }. <a { $update_url }>Ažurirajte na najnoviju verziju</a>
 firefox-desktop-download-get-the-browser = Nabavite pretraživač koji štiti ono što je važno
 firefox-desktop-download-fast-reliable-private = Brzo, pouzdano i privatno — za bezbrižnost na mreži.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-no-shady = Bez nejasnih pravila o privatnosti ili oglašivača iz zaleđa. Samo brz pretraživač koji ne trguje vašim podacima.
 firefox-desktop-download-download-options = Opcije preuzimanja i drugi jezici
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } podrška
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Radite ono što radite na mreži.<br> { -brand-name-firefox-browser } vas <strong>pokriva</strong>.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = Radite ono što želite online.<br> { -brand-name-firefox-browser } <strong>ne</strong> gleda.
 firefox-desktop-download-we-block-the-ad = Blokiramo oglase za praćenje. Brže istražujete internet.
 firefox-desktop-download-ads-are-distracting = Oglasi odvlače pažnju i usporavaju učitavanje web stranica, dok njihovi pratioci prate svaki vaš pokret na mreži. { -brand-name-firefox-browser } automatski blokira većinu pratilaca, tako da nema potrebe da kopate po vašim sigurnosnim postavkama.
@@ -116,9 +116,9 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } je naprav
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Kako internet raste i mijenja se, { -brand-name-firefox } nastavlja da se fokusira na vaše pravo na privatnost — to je uvijek bila naša stvar. Saznajte više o našoj praksi podataka u našem <a { $attrs }>Obaveštenju o privatnosti</a>.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = Kako internet raste i mijenja se, { -brand-name-firefox } nastavlja da se fokusira na vaše pravo na privatnost  — nazivamo ga <a { $attrs }>obećanje o ličnim podacima</a>: manje uzimaj. Bolje čuvaj. Bez tajni. Vaši podaci, web aktivnosti i online život su zaštićeni uz { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
@@ -133,7 +133,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automat
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Pitanja? <a { $attrs }>{ -brand-name-mozilla } podrška</a> vam stoji na usluzi.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Skoro smo gotovi!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -155,11 +155,11 @@ firefox-desktop-download-if-you-see-a-prompt = Ako vidite upit u kojem se navodi
 firefox-desktop-download-visit-support-for-more = Posjetite podršku za više detalja
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = Vaše preuzimanje bi trebalo početi automatski. Nije uspjelo? <a id="{ $id }" href="{ $fallback_url }">Pokušajte ponovo preuzeti.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je više od pretraživača.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Vaše preuzimanje je prekinuto. Ali nije sve izgubljeno.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Vaš sistem možda ne ispunjava zahtjeve za { -brand-name-firefox }, ali možete isprobati jednu od <a href="{ $url }">ovih verzija</a>.

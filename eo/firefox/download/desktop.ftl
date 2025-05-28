@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -12,5 +12,5 @@
 firefox-desktop-download-meta-title = Elŝutu { -brand-name-firefox-browser } el { -brand-name-mozilla }. Rapida, privata kaj senpaga.
 firefox-desktop-download-meta-title-v2 = Elŝutu { -brand-name-firefox } por komputiloj — el { -brand-name-mozilla }
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 

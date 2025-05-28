@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/all/
+### URL: https://www-dev.springfield.moz.works/download/all/
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = 영어(미국) 및 기타 90개 이상의 언어로 { -brand-name-firefox }를 다운로드하세요.

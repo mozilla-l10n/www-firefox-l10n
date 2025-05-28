@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = حاصل کرو { -brand-name-firefox } اپݨے انٹرپرائز کیتے { -brand-name-esr } تے ریپڈ ریلیز دے نال
 firefox-enterprise-get-unmatched-data-protection = انٹرپرائز کیتے { -brand-name-firefox } دے نال ریلیز کیڈنس تے بے مثال ڈیٹا تحفظ حاصل کرو۔ ڈاؤن لوڈ کرو { -brand-name-esr } تے ریپڈ ریلیز۔
@@ -42,5 +42,5 @@ firefox-enterprise-sample-plist-for-configuration = نمونہ <a href="{ $url }
 firefox-enterprise-pkg-installer = PKG انسٹالر
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-بٹ
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = { -brand-name-firefox-esr } ڈاؤن لوڈ کرو یا <br> <a href="{ $firefox_all }">ہک ٻئی زبان یا پلیٹ فارم </a> کیتے تیز رفتار ریلیز۔

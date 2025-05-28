@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Advertinsjeblokkearring
@@ -15,7 +15,7 @@ features-adblocker-the-ad-blocker-a-tool = De adblocker – in helpmiddel foar i
 features-adblocker-in-todays-digital-world = Yn de hjoeddeiske digitale wrâld kin it web drok en rommelich wêze. Adblokkers is krêftige ark dy’t jo yn kontrôle bringe oer jo sneupûnderfining, wêrtroch jo kinne beslute wat der op jo skerm ferskynt.
 features-adblocker-ad-blockers-work = Adblokkers wurkje op twa wichtige manieren: troch it laden fan ynhâld, lykas advertinsjes, foar te kommen en seksjes fan websiden te blokkearjen dy’t dizze eleminten hostje. Dit kin fideo-advertinsjes omfetsje, personaliseare advertinsjes dy’t jo folgje oer it web, en sels trackers fan tredden.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = It brûken fan in advertinsjeblokker is ienfâldich. In protte fertroude opsjes binne beskikber as add-ons foar browsers, wêrtroch it maklik is om in oplossing te finen dy’t wurket foar jo behoeften. Bygelyks, <a href="{ $firefox }">{ -brand-name-firefox }</a> biedt <a href="{ $addons }">in list mei goedkarde útwreidingen</a> ûntwurpen om jo sneupûnderfining te ferbetterjen mei respekt foar jo privacy.
 features-adblocker-finding-the-right = De krekte advertinsjeblokker foar jo fine
@@ -36,5 +36,5 @@ features-adblocker-to-adjust = Klik om dizze ynstellingen oan te passen op elke 
 features-adblocker-why-use = Wêrom in adblokker brûke?
 features-adblocker-ad-blockers-do-more = Adblokkers dogge mear as advertinsjes beheare – se kinne jo sneupsnelheid en -befeiliging ferbetterje troch ûnnedige ynhâld te ferminderjen. Se stelle jo yn steat om in op maat makke, ôfliedingsfrije webûnderfining te meitsjen, wêrtroch jo jo konsintrearje kinne op wat it wichtichste is.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/download/
 features-adblocker-explore-hundreds = Ferken hûnderten privacy rjochte add-ons dy’t beskikber binne foar { -brand-name-firefox } en fyn it krekte ark foar jo. <a href="{ $url }">Download { -brand-name-firefox }</a> hjoed noch om in browser te belibjen dy’t ûntwurpen is mei jo privacy en prestaasjes yn gedachten.

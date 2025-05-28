@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/more/
+### URL: https://www-dev.springfield.moz.works/more/
 
 firefox-products-are = Os produtos do { -brand-name-firefox } están deseñados para protexer a túa privacidade
 learn-more-about-firefox = Descubre máis sobre o { -brand-name-firefox }, a súa historia, funcionalidades e misión
@@ -15,14 +15,8 @@ what-is-a = Que é un navegador web?
 a-web-browser = Os navegadores web lévante a calquera lugar da Internet, xa for ver un texto, unha imaxe ou un vídeo desde calquera lugar do planeta.
 update-your-browser = Troca o teu navegador para o { -brand-name-firefox } e gaña velocidade, seguridade e protección.
 the-firefox-browser = O navegador { -brand-name-firefox } foi creado para protexer a túa privacidade en cada momento xa que é o método máis veloz de liberarte de cargas lentas, anuncios ruíns e rastrexadores.
-firefox-is-more = O { -brand-name-firefox } é máis que un simple navegador.
-get-the-browsers = Instala os navegadores que levan primando a túa privacidade desde os inicios
-choose-which-firefox = Escolle o { -brand-name-firefox-browser } que descargar na túa lingua
 firefox-more-firefox-chromebook = O { -brand-name-firefox-browser } para o { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Aínda que o { -brand-name-chromebook } xa ten o { -brand-name-chrome } instalado, descargares e utilizares o { -brand-name-firefox } como o teu navegador predeterminado fornéceche varias vantaxes.
-firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
-firefox-more-quantum-was-revolution = O { -brand-name-firefox-quantum } foi unha revolución no desenvolvemento do { -brand-name-firefox }. En 2017, creamos un novo navegador que mellora constantemente e que vai a fume de carozo. O { -brand-name-firefox-quantum } é o { -brand-name-firefox-browser }.
-we-believe-everyone = Cremos que todo o mundo debería ter acceso á Internet. Por iso tornamos dispoñíbel o { -brand-name-firefox-browser } en máis de 90 linguas coa axuda de voluntarios de todo o mundo. Tamén en galego!
 firefox-fights-for = O { -brand-name-firefox } loita por ti en { -brand-name-windows }
 easy-migration-of = Ao descargares o { -brand-name-firefox } para { -brand-name-windows }, poderás migrar de maneira sinxela as preferencias e os marcadores.
 firefox-respects-your = O { -brand-name-firefox } respecta a túa privacidade en { -brand-name-mac-short }.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-find-your-best-browser = Hız, gizlilik ve güvenlik için size en uygun tarayıcıyı bulun.
 best-browser-so-many-browser-options = Birçok tarayıcı seçeneğiniz var, ancak ihtiyaçlarınıza en iyi karşılık verebilecek bunlardan yalnız biri. Sizin için en uygun tarayıcı hız, gizlilik ve güvenliği bir arada sunmalıdır.
@@ -41,4 +41,3 @@ best-browser-choosing-the-best-browser = En doğru tarayıcıyı seçmek, eviniz
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = <a href="{ $firefox }">{ -brand-name-firefox }</a> olarak, öncesine göre iki kat daha hızlı çalışan bir tarayıcı yaratmak için çok çalıştık ve kullanıcılara çevrimiçi dünyalarını daha fazla kontrol etme imkanı sağladık.
-best-browser-take-control-of-your = Tarayıcınızın kontrolünü elinize alın.

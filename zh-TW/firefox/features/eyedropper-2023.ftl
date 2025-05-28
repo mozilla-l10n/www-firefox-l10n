@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/eyedropper/
+### URL: https://www-dev.springfield.moz.works/features/eyedropper/
 
 features-eyedropper-eyedropper-tool = 滴管工具
 features-eyedropper-select-colors-in-firefox = 在 { -brand-name-firefox } 中使用滴管工具選擇顏色

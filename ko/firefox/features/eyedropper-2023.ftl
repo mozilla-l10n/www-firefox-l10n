@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/eyedropper/
+### URL: https://www-dev.springfield.moz.works/features/eyedropper/
 
 features-eyedropper-eyedropper-tool = 스포이트 도구
 features-eyedropper-select-colors-in-firefox = 스포이트 도구로 { -brand-name-firefox }에서 색상을 선택하세요.

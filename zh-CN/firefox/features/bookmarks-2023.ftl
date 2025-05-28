@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
 # page title
 bookmark-manager-bookmark-manager = 书签管理器
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = 使用文件夹和标签来整理您的书签。
 # Variables:
-#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+#   $sync (url) - link to https://www.firefox.com/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = 书签是您保存在浏览器中的链接，可以通过它来轻松快捷地打开您的常用网站。{ -brand-name-firefox } 自带易用的书签管理器，便于整理、搜索、更新并<a { $sync }>跨设备同步您保存的所有链接</a>。
 bookmark-manager-organize-your-boomarks-into = 将书签整理到可搜索的文件夹中
 bookmark-manager-collect-your-bookmarks-in-folders = 将书签收纳到文件夹中，并根据详细信息打上标签，方便寻找。您还可以对书签进行排序，以快速找到需要的书签。

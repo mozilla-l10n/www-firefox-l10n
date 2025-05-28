@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
+### URL: https://www-dev.springfield.moz.works/browsers/opera/
 
 # Page title
 compare-opera-firefox-vs-opera = { -brand-name-firefox } თუ Opera
 # HTML page description
 compare-opera-read-our-comparison = გაეცანით ჩვენს შედარებას, თუ რით განსხვავდება { -brand-name-firefox } და Opera შესაძლებლობების, პირადულობისა და მოხერხებულობის კუთხით.
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
 compare-opera-firefoxs-default-privacy-settings = { -brand-name-firefox } პირადულობის ნაგულისხმევი პარამეტრებით მეტად მძლავრია, ვიდრე Opera – და ჩვენ დამატებითი შესაძლებლობებიც გვაქვს, ვებსაიტებს თქვენი თვალთვალის საშუალება რომ არ მივცეთ, თუნდაც <a { $fingerprint }>მომხმარებლის ამოცნობის არიდებით</a>.
 compare-opera-firefox-offers-a-wide-range-of = { -brand-name-firefox } გთავაზობთ მორგების საშუალებების ფართო არჩევანს, მენიუსა და ხელსაწყოთა ზოლების ბრაუზერის ფანჯრის სხვადასხვა ადგილას გადატანით. Opera მეტად შეზღუდულია სამუშაო გარსის მორგების შესაძლებლობებით.
 # Variables:

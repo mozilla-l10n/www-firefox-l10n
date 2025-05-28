@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
+### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = Kakinställningar
 cookie-settings-page-desc = Den här sidan beskriver de olika typer av kakor som { -brand-name-mozilla } kan använda och ger dig kontroll över vilka typer av data du samtycker till att { -brand-name-mozilla } samlar in.

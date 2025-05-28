@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
+### URL: https://www-dev.springfield.moz.works/browsers/opera/
 
 # Page title
 compare-opera-firefox-vs-opera = { -brand-name-firefox } vs Opera
 # HTML page description
 compare-opera-read-our-comparison = Pročitajte naše poređenje { -brand-name-firefox } i Opera pretraživača o funkcijama, privatnosti i jednostavnosti korištenja.
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
 compare-opera-firefoxs-default-privacy-settings = Zadane postavke privatnosti { -brand-name-firefox } su jače od Opere – i imamo više funkcija za sprječavanje web stranica da vas prate, kao što je <a { $fingerprint }>blokiranje otiskom prsta</a>.
 compare-opera-firefox-offers-a-wide-range-of = { -brand-name-firefox } nudi širok spektar opcija prilagođavanja, uključujući mogućnost pomicanja menija i traka sa alatima na različite lokacije u prozoru pretraživača. Interfejs Opera je manje prilagodljiv.
 # Variables:

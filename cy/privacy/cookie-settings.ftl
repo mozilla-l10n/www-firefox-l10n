@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
+### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = Gosodiadau'r cwcis
 cookie-settings-page-desc = Mae'r dudalen hon yn disgrifio'r gwahanol fathau o Gwcis y gall { -brand-name-mozilla } eu defnyddio, ac yn gadael i chi reoli ba fathau o ddata rydych yn cytuno i { -brand-name-mozilla } ei gasglu.

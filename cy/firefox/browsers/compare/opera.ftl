@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
+### URL: https://www-dev.springfield.moz.works/browsers/opera/
 
 # Page title
 compare-opera-firefox-vs-opera = { -brand-name-firefox } o'i gymharu ag Opera
 # HTML page description
 compare-opera-read-our-comparison = Darllenwch ein cymhariaeth o borwyr { -brand-name-firefox } ac Opera ar nodweddion, preifatrwydd a rhwyddineb eu defnyddio.
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
 compare-opera-firefoxs-default-privacy-settings = Mae gosodiadau preifatrwydd rhagosodedig { -brand-name-firefox } yn gryfach na rhai Opera – ac mae gennym fwy o nodweddion i atal gwefannau rhag eich tracio, fel <a { $fingerprint }>rhwystro bysbrintio</a>.
 compare-opera-firefox-offers-a-wide-range-of = Mae { -brand-name-firefox } yn cynnig ystod eang o ddewisiadau cyfaddasu, gan gynnwys y gallu i symud dewislenni a bariau offer i leoliadau gwahanol ar ffenestr y porwr. Mae rhyngwyneb Opera yn llai cyfaddasadwy.
 # Variables:

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/add-ons/
+### URL: https://www-dev.springfield.moz.works/features/add-ons/
 
 features-add-ons-firefox-add-ons = Extras do { -brand-name-firefox }
 features-add-ons-firefox-add-ons-and-browser-extensions = Extras e extensões do navegador { -brand-name-firefox }
@@ -12,6 +12,6 @@ features-add-ons-extensions-also-known-as-add-ons = As extensões – também co
 #   $fbcontainer (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 #   $translate (url) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
 #   $language (url) - link to https://addons.mozilla.org/firefox/addon/languagetool/
-#   $customize (url) - link to https://www.mozilla.org/firefox/features/customize/
+#   $customize (url) - link to https://www.firefox.com/features/customize/
 #   $amo (url) - link to https://addons.mozilla.org
 features-add-ons-there-are-firefox-add-ons-that = Existem extras do { -brand-name-firefox } que <a { $fbcontainer }>impedem que seja monitorizado pelo Facebook na Internet</a>, <a { $translate }>traduzem texto para outros idiomas</a> , <a { $language }>verificam a sua ortografia ou gramática</a> ou <a { $customize }>melhoram a aparência do seu navegador</a>. Irá encontrar estas e milhares de outras extensões gratuitas em <a { $amo }>addons.mozilla.org</a>.

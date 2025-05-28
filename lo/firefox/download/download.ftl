@@ -6,27 +6,23 @@
 # Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 firefox-new-download-firefox = ດາວໂຫລດ { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = ດາວໂຫຼດ { -brand-name-firefox } ທີ່ໄວທີ່ສຸດເທົ່າທີ່ເຄີຍມີມາ
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = ການໂຫຼດຫນ້າເວັບທີ່ໄວ, ໃຊ້ຫນ່ວຍຄວາມຈໍາຫນ້ອຍ ແລະ ບັນຈຸຄຸນນະສົມບັດທີ່ຄັບແໜ້ນ, { -brand-name-firefox } ໃຫມ່ແມ່ນຢູ່ທີ່ນີ້ແລ້ວ.
 firefox-new-get-the-latest-firefox = ຕິດຕັ້ງໂປແກຼມທ່ອງເວັບ { -brand-name-firefox } ລ້າສຸດ.
-# span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = ດາວໂຫລດ { -brand-name-firefox } <br>ສຳລັບ { -brand-name-windows }
-firefox-new-download-firefox-for-macos = ດາວໂຫລດ { -brand-name-firefox } <br>ສຳລັບ { -brand-name-mac }
-firefox-new-download-firefox-for-linux = ດາວໂຫລດ { -brand-name-firefox } <br>ສຳລັບ { -brand-name-linux }
 firefox-new-free-web-browser = ເວັບບຣາວເຊີຟຣີ
 firefox-new-advanced-install-options = ຕົວເລືອກການຕິດຕັ້ງຂັ້ນສູງ ແລະ ແພັດຟອມອື່ນໆ
 firefox-new-download-in-another-language = ດາວໂຫລດເປັນພາສາອື່ນ
 firefox-new-need-help = ຕ້ອງການຄວາມຊ່ວຍເຫລືອບໍ?
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-firefox-new-should-begin = ການດາວໂຫຼດຂອງທ່ານຄວນຈະເລີ່ມຕົ້ນໂດຍອັດຕະໂນມັດ. ບໍ່ໄດ້ຜົນບໍ? <a id="{ $id }" href="{ $fallback_url }">ລອງດາວໂຫລດອີກຄັ້ງ</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ເປັນຫຼາຍກວ່າບຣາວເຊີ.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
@@ -34,7 +30,7 @@ firefox-new-download-interrupted = ການດາວໂຫຼດຂອງທ່
 firefox-new-download-almost-there = ໃກ້ແລ້ວ!
 firefox-new-download-select-linux = ເລືອກຕົວເລືອກດາວໂຫຼດຂ້າງລຸ່ມນີ້
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-system-may-not = ລະບົບຂອງທ່ານອາດຈະບໍ່ຕອບສະໜອງໄດ້ຂໍ້ກຳນົດຂອງ { -brand-name-firefox }, ແຕ່ທ່ານສາມາດລອງໃຊ້ <a href="{ $url }">ເວີຊັນເຫຼົ່ານີ້</a>.
 firefox-new-windows = { -brand-name-windows }
 # Variables:
@@ -45,7 +41,7 @@ firefox-new-visit-support-for-more = ເຂົ້າໄປເບິ່ງກາ�
 # Not-Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = ດາວໂຫລດ { -brand-name-firefox-browser }

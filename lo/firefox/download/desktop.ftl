@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = ມີ { -brand-name-firefox } ທີ່ໃໝ່ກວ່ານີ້. <a { $update_url }>ອັບເດດເປັນເວີຊັນຫຼ້າສຸດ</a>
 firefox-desktop-download-get-the-browser = ເອົາຕົວທ່ອງເວັບທີ່ປົກປ້ອງສິ່ງທີ່ສໍາຄັນ
 firefox-desktop-download-fast-reliable-private = ໄວ, ເຊື່ອຖືໄດ້ ແລະ ເປັນສ່ວນຕົວ — ເພື່ອຄວາມສະຫງົບທາງອອນໄລນ໌.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-no-shady = ບໍ່ມີນະໂຍບາຍຄວາມເປັນສ່ວນຕົວທີ່ຮົ່ມຫຼືປະຕູຫລັງສໍາລັບຜູ້ໂຄສະນາ. ພຽງແຕ່ເປັນຕົວທ່ອງເວັບໄວຟ້າຜ່າທີ່ບໍ່ຂາຍຂໍ້ມູນທ່ານ.
 firefox-desktop-download-download-options = ທາງເລືອກໃນການດາວໂຫຼດ ແລະພາສາອື່ນໆ
 firefox-desktop-download-browser-support = ຮອງຮັບ { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = ເຮັດສິ່ງທີ່ທ່ານເຮັດອອນໄລນ໌.<br> { -brand-name-firefox-browser } ໄດ້ໃຫ້ທ່ານ <strong>ຄຸ້ມຄອງ</strong>.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = ເຮັດສິ່ງທີ່ທ່ານເຮັດອອນໄລນ໌.<br> { -brand-name-firefox-browser } <strong>ບໍ່ໄດ້</strong> ເບິ່ງ.
 firefox-desktop-download-we-block-the-ad = ພວກເຮົາສະກັດຕົວຕິດຕາມການໂຄສະນາ. ເຈົ້າຄົ້ນຫາອິນເຕີເນັດໄວຂຶ້ນ.
 firefox-desktop-download-ads-are-distracting = ໂຄສະນາລົບກວນແລະເຮັດໃຫ້ຫນ້າເວັບໂຫຼດຊ້າລົງໃນຂະນະທີ່ຜູ້ຕິດຕາມຂອງພວກເຂົາເບິ່ງທຸກໆການເຄື່ອນໄຫວທີ່ທ່ານເຮັດອອນໄລນ໌. { -brand-name-firefox-browser } ບລັອກຕົວຕິດຕາມສ່ວນໃຫຍ່ໂດຍອັດຕະໂນມັດ, ສະນັ້ນບໍ່ຈຳເປັນຕ້ອງເຈາະເຂົ້າໄປໃນການຕັ້ງຄ່າຄວາມປອດໄພຂອງທ່ານ.
@@ -113,9 +113,9 @@ firefox-desktop-download-from-security-to = ຈາກຄວາມປອດໄພ
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ຖືກສ້າງຂື້ນໂດຍ <a { $attrs }>{ -brand-name-mozilla }</a> ເປັນທາງເລືອກທີ່ໄວກວ່າ ແລະເປັນສ່ວນຕົວກວ່າຂອງຕົວທ່ອງເວັບເຊັ່ນ { -brand-name-ie }, ແລະ ດຽວນີ້ { -brand-name-chrome }. ໃນມື້ນີ້, ບໍລິສັດທີ່ຂັບເຄື່ອນພາລະກິດຂອງພວກເຮົາແລະຊຸມຊົນອາສາສະຫມັກຍັງສືບຕໍ່ເຮັດໃຫ້ຄວາມເປັນສ່ວນຕົວຂອງທ່ານເຫນືອສິ່ງອື່ນໃດ.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = ເມື່ອອິນເຕີເນັດເຕີບໃຫຍ່ ແລະປ່ຽນແປງ, { -brand-name-firefox } ຍັງສືບຕໍ່ເນັ້ນໃສ່ສິດທິສ່ວນຕົວຂອງເຈົ້າ - ພວກເຮົາເອີ້ນວ່າ <a { $attrs }>ສັນຍາຂໍ້ມູນສ່ວນຕົວ</a>: ໃຊ້ໜ້ອຍລົງ. ຮັກສາຄວາມປອດໄພ. ບໍ່ມີຄວາມລັບ. ຂໍ້​ມູນ​ຂອງ​ທ່ານ, ກິດ​ຈະ​ກໍາ​ເວັບ​ໄຊ​ຕ​໌​ຂອງ​ທ່ານ, ຊີ​ວິດ​ອອນ​ໄລ​ນ​໌​ຂອງ​ທ່ານ​ໄດ້​ຮັບ​ການ​ປົກ​ປ້ອງ​ດ້ວຍ { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
@@ -127,7 +127,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ອັ�
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ຄໍາຖາມ? <a { $attrs }>{ -brand-name-mozilla } ສະຫນັບສະຫນູນ</a> ທ່ານໄດ້ກວມເອົາ.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = ໃກ້ແລ້ວ!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -149,11 +149,11 @@ firefox-desktop-download-if-you-see-a-prompt = ຖ້າ​ຫາກ​ທ່າ
 firefox-desktop-download-visit-support-for-more = ເຂົ້າໄປເບິ່ງການຊ່ວຍເຫຼືອສຳລັບລາຍລະອຽດເພີ່ມເຕີມ
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = ການດາວໂຫຼດຂອງທ່ານຄວນຈະເລີ່ມຕົ້ນໂດຍອັດຕະໂນມັດ. ບໍ່ໄດ້ຜົນບໍ? <a id="{ $id }" href="{ $fallback_url }">ລອງດາວໂຫລດອີກຄັ້ງ.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ເປັນຫຼາຍກວ່າບຣາວເຊີ.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = ການດາວໂຫຼດຂອງທ່ານຖືກຂັດຈັງຫວະ. ແຕ່ທັງຫມົດບໍ່ໄດ້ສູນເສຍ.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = ລະບົບຂອງທ່ານອາດຈະບໍ່ຕອບສະໜອງໄດ້ຂໍ້ກຳນົດຂອງ { -brand-name-firefox }, ແຕ່ທ່ານສາມາດລອງໃຊ້ <a href="{ $url }">ເວີຊັນເຫຼົ່ານີ້</a>.

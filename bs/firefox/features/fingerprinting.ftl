@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
+### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Otisak prsta je vrsta online praćenja koja je invazivnija od običnog praćenja zasnovanog na kolačićima - zato ga { -brand-name-firefox-browser } blokira.
@@ -27,5 +27,5 @@ features-fingerprinting-the-practice-of = Čak i ako obrišete lokalnu memoriju 
 features-fingerprinting-the-latest-firefox = Najnoviji pretraživač { -brand-name-firefox } štiti vas od otiska prsta blokiranjem zahtjeva trećih strana prema kompanijama za koje se zna da učestvuju u uzimanju otisaka prstiju. Naporno smo radili da omogućimo ovu zaštitu privatnosti, a da pritom ne narušimo web stranice koje rado posjećujete. (Pročitajte više ovdje, ako želite <a { $url_details }>tehničke detalje</a>.)
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = I to nije duboka postavka koju trebate kopati da biste pronašli. U najnovijem pretraživaču { -brand-name-firefox }, blokiranje otiska prsta je standardna, zadana postavka. Posjetite svoju <a { $url_protections }>kontrolnu tablu zaštite privatnosti</a> da vidite kako vas prate iza kulisa i kako to { -brand-name-firefox } sprječava.
-# $url_download (string) - link to firefox/new
+# $url_download (string) - link to https://www.firefox.com/download/
 features-fingerprinting-you-probably-wouldnt = Vjerovatno ne biste cijenili da neko prati vaše pokrete u stvarnom životu. Nema razloga da to prihvatite na mreži. Ako već nemate { -brand-name-firefox }, <a { $url_download }>preuzmite i zaštitite se</a> od digitalnog otiska prsta.

@@ -14,8 +14,6 @@ newsletter-form-select-country-or-region = Επιλέξτε χώρα ή περι
 newsletter-form-select-language = Επιλογή γλώσσας
 newsletter-form-your-email-here = ΤΟ EMAIL ΣΑΣ ΕΔΩ
 newsletter-form-get-firefox-news = Λάβετε τα νέα του { -brand-name-firefox }
-newsletter-form-join-the-community = Συμμετοχή στην κοινότητα
-newsletter-form-sign-up-to-receive = Εγγραφείτε για να λαμβάνετε μηνιαίες ενημερώσεις από το { -brand-name-firefox } και τις τάσεις του διαδικτύου που διαμορφώνουν τη ζωή σας στο διαδίκτυο.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Δέχομαι την επεξεργασία των πληροφοριών μου από τη { -brand-name-mozilla }, όπως εξηγεί η <a href='{ $url }'>Σημείωση απορρήτου</a>.
@@ -24,17 +22,13 @@ newsletter-form-we-will-only-send-firefox-v2 = Θα σας στέλνουμε μ
 newsletter-form-if-you-havent-previously = Αν δεν έχετε επιβεβαιώσει ήδη τη συνδρομή σας σε κάποιο ενημερωτικό δελτίο της { -brand-name-mozilla }, ίσως χρειαστεί να το κάνετε. Ελέγξτε τα εισερχόμενα ή τον φάκελο ανεπιθύμητων μηνυμάτων σας για ένα email από εμάς.
 newsletter-form-firefox-and-you = <span>Το { -brand-name-firefox }</span> + Εσείς
 newsletter-form-get-firefox-tips = Λάβετε συμβουλές, κόλπα, ειδήσεις και πολλά άλλα για το { -brand-name-firefox }
-newsletter-form-get-mozilla-updates = Λάβετε ενημερώσεις από το έργο { -brand-name-mozilla }
 newsletter-form-available-languages = Διαθέσιμες γλώσσες
 newsletter-form-select-country = Επιλογή χώρας
 newsletter-form-sign-me-up = Εγγραφή
 newsletter-form-sign-up-now = Εγγραφή τώρα
 newsletter-form-thanks = Ευχαριστούμε!
-newsletter-form-leave-this-field-empty = Αφήστε αυτό το πεδίο κενό.
 newsletter-form-yes = Ναι
 newsletter-form-no = Όχι
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = Φόρμα εγγραφής στο ενημερωτικό δελτίο
 multi-newsletter-form-checkboxes-legend = Θέλω πληροφορίες σχετικά με:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

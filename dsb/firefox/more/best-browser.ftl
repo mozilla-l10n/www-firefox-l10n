@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-find-your-best-browser = Namakajśo swój nejlěpšy wobglědowak za malsnosć, priwatnosć a wěstotu.
 best-browser-so-many-browser-options = Jo wjele wobglědowakow, ale jano jaden wašym pótrjebnosćam nejlěpjej wótpowědujo. Nejlěpšy wobglědowak za was měł malsnosć a teke šćit priwatnosći bitowaś.
@@ -41,4 +41,3 @@ best-browser-choosing-the-best-browser = Wuběranje nejlěpšego wobglědowaka z
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = Pśi <a href="{ $firefox }">{ -brand-name-firefox }</a> smy śěžko źěłali, aby my wobglědowak napórali, kótaryž jo dwójcy tak malsny ako do togo a wužywarjam wěcej kontrole wó jich žywjenju online dawa.
-best-browser-take-control-of-your = Kontrolěrujśo swój wobglědowak.

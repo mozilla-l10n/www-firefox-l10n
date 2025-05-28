@@ -6,17 +6,17 @@
 # Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 firefox-new-free-web-browser = స్వేచ్ఛా జాల విహారిణి
 firefox-new-download-in-another-language = మరొక భాషలో దించుకోండి
 firefox-new-need-help = సహాయం కావాలా?
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
 
 
 # Not-Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 

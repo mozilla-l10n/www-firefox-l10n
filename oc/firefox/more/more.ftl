@@ -3,6 +3,5 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/more/
+### URL: https://www-dev.springfield.moz.works/more/
 
-choose-which-firefox = Causissètz quin { -brand-name-firefox-browser } volètz telecargar dins vòstra lenga

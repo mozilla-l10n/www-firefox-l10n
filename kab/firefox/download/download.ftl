@@ -6,34 +6,30 @@
 # Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 firefox-new-download-firefox = Sider { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Sider lqem arurad { -brand-name-firefox }
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = Asali n yisebtar arurad ugar, asuder n tkatut yenɣes, d ddeqs n tmahilin, { -brand-name-firefox } amaynut yewweḍ-d.
 firefox-new-get-the-latest-firefox = Awi lqem aneggaru n { -brand-name-firefox }
-# span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = Sider { -brand-name-firefox } <br> i { -brand-name-windows }
-firefox-new-download-firefox-for-macos = Sider { -brand-name-firefox } <br> i { -brand-name-mac }i
-firefox-new-download-firefox-for-linux = Sider { -brand-name-firefox } <br> i { -brand-name-linux }
 firefox-new-free-web-browser = Iminig web ilelli
 firefox-new-advanced-install-options = Iγewwaṛen n telqayt n usbeddi & inagrawen-nniḍen
 firefox-new-download-in-another-language = Sider s tutlayt-nniḍen
 firefox-new-need-help = Tesriḍ tallelt?
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-firefox-new-should-begin = Asider-ik ad yekker s wudem awurman. Ur yeddi ara? <a id="{ $id }" href="{ $fallback_url }">Ɛreḍ asider tikkelt nniḍen</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } mačči d iminig kan.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Asader-inek·inem yettuḥbes . Maca cemma ur iruḥ.
 firefox-new-download-select-linux = Fren taxtiṛt n usider ddaw-a
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-system-may-not = Anagraw-ik·im ur igbir ara ayen i iwulmen i { -brand-name-firefox }, acu kan ɛreḍ yiwen seg <a href="{ $url }">yileqman-a</a>.
 firefox-new-windows = { -brand-name-windows }
 # Variables:
@@ -44,7 +40,7 @@ firefox-new-visit-support-for-more = Rzu ɣer tallalt i wugar n telɣut
 # Not-Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Sader { -brand-name-firefox-browser }

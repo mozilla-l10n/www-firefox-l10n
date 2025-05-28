@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-find-your-best-browser = Scopri u megghiu navicaturi pi listizza, privatizza e sicurizza.
 best-browser-so-many-browser-options = Cci sunnu assai navicaturi pedi pedi, ma cci nn'è sulu unu chi è megghiu pi tia. U megghiu navicaturi pi tia avissi a èssiri lestu e avissi a prutèggiri a to privatizza.
@@ -18,4 +18,3 @@ best-browser-if-youre-wondering = Se ti stai addumannannu chi veni a diri aviri 
 best-browser-a-browser-built-for = Un navicaturi custrujutu pi èssiri lestu.
 best-browser-a-browser-that-puts = Un navicaturi chi metti a sicurizza ô primu postu.
 best-browser-a-browser-that-minds = Un navicaturi chi si fa i fatti so.
-best-browser-take-control-of-your = Pigghia u cuntrollu dû to navicaturi.

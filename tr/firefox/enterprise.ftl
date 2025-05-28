@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = { -brand-name-firefox }'un işletmelere özel { -brand-name-esr } veya Hızlı Sürüm'ünü indirin
 firefox-enterprise-get-unmatched-data-protection = Kurumsal { -brand-name-firefox } sürümleri, eşsiz veri korumasını beklentilerinize uygun sürüm takvimiyle birleştiriyor. { -brand-name-esr } veya Hızlı Sürüm’ü indirin.
@@ -42,5 +42,5 @@ firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }">Yapıland
 firefox-enterprise-pkg-installer = PKG yükleyici
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 bit
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = { -brand-name-firefox-esr } veya Hızlı Sürüm’ü<br><a href="{ $firefox_all }">başka bir dil veya platform</a> için indirin.

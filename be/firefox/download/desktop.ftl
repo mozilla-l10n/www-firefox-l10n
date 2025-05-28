@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -17,11 +17,11 @@ firefox-desktop-download-og-title = Сцягніце найхутчэйшы ў �
 firefox-desktop-download-og-desc = Хутчэйшая загрузка старонак, меншае спажыванне памяці, і мноства функцый, новы { -brand-name-firefox } ужо тут.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Атрымайце браўзер, які ахоўвае тое, што важна
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-no-shady = Ніякіх прыхаваных палітык прыватнасці ці чорных хадоў для рэкламадаўцаў. Проста бліскавічна хуткі браўзер, які не прадае вас.
 firefox-desktop-download-download-options = Варыянты сцягвання і іншыя мовы
 firefox-desktop-download-browser-support = Падтрымка { -brand-name-firefox-browser }
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = Рабіце ў сеціве, што робіце.<br> { -brand-name-firefox-browser } <strong>не</strong> глядзіць.
 firefox-desktop-download-we-block-the-ad = Мы блакуем рэкламныя трэкеры. Вы хутчэй аглядаеце Інтэрнэт.
 firefox-desktop-download-ads-are-distracting = Рэклама адцягвае ўвагу і прымушае вэб-старонкі загружацца павольней, а іх трэкеры сочаць за кожным вашым крокам у Інтэрнэце. { -brand-name-firefox-browser } аўтаматычна блакуе большасць трэкераў, таму няма патрэбы рыцца у наладах бяспекі.
@@ -107,9 +107,9 @@ firefox-desktop-download-from-security-to = Ад бяспекі да навін 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } быў створаны <a { $attrs }>{ -brand-name-mozilla }</a> як больш хуткая, прыватная альтэрнатыва такім браўзерам, як { -brand-name-ie }, а цяпер { -brand-name-chrome }. Сёння наша скіраваная місіяй кампанія і добраахвотная супольнасць працягваюць ставіць вашу прыватнасць вышэй за ўсё.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = Разам з ростам і змяненнем інтэрнэту, { -brand-name-firefox } працягвае засяроджвацца на вашым праве на прыватнасць  — мы называем гэта <a { $attrs }>абяцаннем асабістых дадзеных</a>: Збіраць менш. Захоўваць у бяспецы. Ніякіх сакрэтаў. Вашы дадзеныя, ваша дзейнасць у Інтэрнэце і ваша сеціўнае жыццё абаронены { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
@@ -121,7 +121,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } аўт�
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Пытанні? <a { $attrs }>Падтрымка { -brand-name-mozilla }</a> мае адказы.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Амаль гатова!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -141,11 +141,11 @@ firefox-desktop-download-if-you-see-a-prompt = Калі вы бачыце пад
 firefox-desktop-download-visit-support-for-more = Каб даведацца больш, наведайце службу падтрымкі
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = Ваша сцягванне пачнецца аўтаматычна. Не робіць? <a id="{ $id }" href="{ $fallback_url }">Паспрабуйце яшчэ раз</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } - гэта больш, чым браўзер.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Сцягванне была перарвана. Але яшчэ не ўсё страчана.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Ваша сістэма можа не задавальняць патрабаванням { -brand-name-firefox }, але вы можаце паспрабаваць адну з <a href="{ $url }">гэтых версій</a>:

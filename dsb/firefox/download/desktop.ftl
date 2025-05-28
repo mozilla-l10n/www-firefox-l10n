@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -19,13 +19,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Samo nowšy { -brand-name-firefox } jo k dispoziciji. <a { $update_url }>Na nejnowšu wersiju aktualizěrowaś</a>
 firefox-desktop-download-get-the-browser = Wobstarajśo se wobglědowak, kótaryž šćita, což jo wažne.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-no-shady = Žedne póchmurne pšawidła priwatnosći abo slězne źuŕka za wabjarje. Jano spěšnučki wobglědowak, kótaryž was njewobšuźujo.
 firefox-desktop-download-download-options = Ześěgnjeńske móžnosći a druge rěcy
 firefox-desktop-download-browser-support = Pomoc wó { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Cyńśo online, což cośo.<br> { -brand-name-firefox-browser } was <strong>šćita</strong>.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = Cyńśo online, což cośo.<br> { -brand-name-firefox-browser } <strong>nje</strong>pśiglědujo.
 firefox-desktop-download-we-block-the-ad = My blokěrujomy wabjeńske pśeslědowaki. Wy pśeslěźujośo internet malsnjej.
 firefox-desktop-download-ads-are-distracting = Wabjenje móli a wjeźo k tomu, až se webboki pómałčej zacytuju, mjaztym až pśeslědowaki kužde pógib wobglěduju, kótaryž online cyniśo. { -brand-name-firefox-browser } nejwěcej pśeslědowakow awtomatiski blokěrujo, togodla njetrjebaśo se do swójich wěstotnych nastajenjow zaryś.
@@ -111,9 +111,9 @@ firefox-desktop-download-from-security-to = Wót wěstoty pśez powěsći do gra
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } jo se napórał wót <a { $attrs }>{ -brand-name-mozilla }</a> ako malsnjejša, priwatnjejša alternatiwa k wobglědowakam ako { -brand-name-ie }, a něnto { -brand-name-chrome }. Źinsa našo pśedewześe a zgromaźeństwo dobrowólnikow hyšći našej misiji slědujotej, aby waš priwatnosć nade wšym stajiłej.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = Mjaztym až internet rosćo a se změnja, staja { -brand-name-firefox } dalej swój fokus na wašo pšawo na priwatnosć – pomjenijomy to <a { $attrs }>zlubjenje za wósobinske daty</a>: Gromaźćo mjenjej. Źaržćo jen wěsty. Žedne pótajmstwa. Waše daty, waša webaktiwita, wašo žywjenje online se pśez { -brand-name-firefox } šćitaju.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
@@ -128,7 +128,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Maśo pšašanja? <a { $attrs }>Pomoc { -brand-name-mozilla }</a> buźo wam pomagaś.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Pśisamem zwónoźone!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -150,11 +150,11 @@ firefox-desktop-download-if-you-see-a-prompt = Jolic napominanje wiźiśo, kóta
 firefox-desktop-download-visit-support-for-more = Woglědajśo se k bokam pomocy za dalšne drobnostki
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = Wašo ześěgnjenje dejało se awtomatiski zachopiś. Njefunkcioněrujo? <a id="{ $id }" href="{ $fallback_url }">Ześěgniśo znowego</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } oe wěcej ako wobglědowak.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Wašo ześěgnjenje jo se pśetergnuło. Ale wšykno njejo zhubjone.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Waš system nejskerjej njewótpowědujo pominanjam { -brand-name-firefox }, ale móžośo jadnu z <a href="{ $url }">toś tych wersijow</a> wopytowaś.

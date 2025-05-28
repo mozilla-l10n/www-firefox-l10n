@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-find-your-best-browser = Hanapin ang iyong pinakamabisang browser para sa bilis, pagkapribado at seguridad.
 best-browser-so-many-browser-options = Napakaraming mga pagpipilian na browser, ngunit may isa lamang na pinakamahusay na gumagana para sa iyong mga pangangailangan. Ang pinakamahusay na browser para sa iyo ay dapat mag-alok ng parehong bilis at proteksyon sa privacy.
@@ -19,4 +19,3 @@ best-browser-a-browser-built-for = Ang browser na binuo para sa bilis.
 best-browser-a-browser-is-still = Ang isang browser ay isang tool pa rin, kaya makatuwiran na gugustuhin mong piliin ang pinakamahusay para sa trabaho. Kung ikaw ay isang tao na kailangang magtrabaho upang mabuhay, kakailanganin mo ng isang mabilis na browser ng internet. Ang isang bagay na dapat tandaan ay ang isang browser na nagpapatakbo ng mga tracker ng third-party na mas malamang na mas mabagal kaysa sa isang browser na hindi. Ang mga tracker ng third-party ay cookies, at habang hindi mo sila nakikita, tumatakbo sila sa likudan ng site, na kumukuha ng mahalagang oras. Kapag mas maraming naharangan ang browser na mga tracker ng third party , mas mabilis itong tumakbo.
 best-browser-this-is-one-of-the = Ito ang isa sa maraming mga kadahilanan upang piliin ang browser na { -brand-name-firefox }: Hinaharang ng { -brand-name-firefox } ang mga tracker ng third-party bilang default. Mayroon kaming iba pang mga kadahilanan at makakapunta tayo sa mga iyon sa paglaon.
 best-browser-a-browser-that-puts = Ang browser na inu-una ang iyong kaligtasan.
-best-browser-take-control-of-your = Kontrolin ang iyong browser.

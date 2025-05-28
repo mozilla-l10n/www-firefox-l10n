@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/404/
+### URL: https://www-dev.springfield.moz.works/404/
 
 not-found-page-not-found-page-page-not-found = 404: ገጽ አልተገኘም
 not-found-page-sorry-we-cant-find-that-page = ይቅርታ፣ ያንን ገጽ ማግኘት አልቻልንም
@@ -13,5 +13,5 @@ not-found-page-go-back = ወደኋላ ተመለስ
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = ስለ { -brand-name-mozilla }፣ ከ{ -brand-name-firefox } በስተጀርባ ያለው ለትርፍ ያልተቋቋመው <a href="{ $about }">ይማር</a>።
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/new/
+#   $download (url) - link to https://www.mozilla.org/firefox/download/
 not-found-page-download-the-firefox-browser = { -brand-name-firefox } አሳሽን ለተንቀሳቃሽ ስልክ ወይም ደስክቶፕ <a href={ $download }> ያውርዱ</a>

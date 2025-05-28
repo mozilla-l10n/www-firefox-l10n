@@ -14,8 +14,6 @@ newsletter-form-select-country-or-region = Tscherner il pajais u la regiun
 newsletter-form-select-language = Tscherner la lingua
 newsletter-form-your-email-here = ENDATAR TIA ADRESSA D'E-MAIL
 newsletter-form-get-firefox-news = Retschaiver novitads da { -brand-name-firefox }
-newsletter-form-join-the-community = Daventa part da la cuminanza
-newsletter-form-sign-up-to-receive = T’annunzia per retschaiver actualisaziuns mensilas da { -brand-name-firefox } e trends da l’internet che furman tia vita online.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Jau accept che { -brand-name-mozilla } tracta mias infurmaziuns tenor <a href="{ $url }">questas reglas da la protecziun da datas</a>
@@ -24,17 +22,13 @@ newsletter-form-we-will-only-send-firefox-v2 = Nus ta tramettain be infurmaziuns
 newsletter-form-if-you-havent-previously = Sche ti has anc mai confermà in abunament d'in newsletter davart { -brand-name-mozilla } stos ti forsa ussa far quai. Controllescha sche tia posta entrada u tes filter da spam cuntegna in e-mail da nus.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + ti
 newsletter-form-get-firefox-tips = Ve a savair tips, trics e novas davart { -brand-name-firefox }
-newsletter-form-get-mozilla-updates = Retschaiver novitads da { -brand-name-mozilla }
 newsletter-form-available-languages = Linguas disponiblas
 newsletter-form-select-country = Tscherna in pajais
 newsletter-form-sign-me-up = Abunar
 newsletter-form-sign-up-now = Ta registrescha ussa
 newsletter-form-thanks = Grazia!
-newsletter-form-leave-this-field-empty = Betg emplenir quest champ.
 newsletter-form-yes = Gea
 newsletter-form-no = Na
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = Formular d’annunzia per la newsletter
 multi-newsletter-form-checkboxes-legend = Jau vuless infurmaziuns davart:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

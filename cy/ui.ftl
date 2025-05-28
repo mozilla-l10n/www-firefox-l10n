@@ -14,8 +14,6 @@ ui-watch-the-video = Gwylio'r fideo
 ui-replay = Chwarae eto
 ui-share = Rhannu
 ui-menu = Dewislen
-# Short for Table of Contents
-ui-contents = Cynnwys
 ui-please-turn-on-javascript = Cychwynnwch JavaScript i ddangos y dudalen yn iawn.
 ui-show-more = Dangos Mwy
 ui-show-less = Dangos Llai

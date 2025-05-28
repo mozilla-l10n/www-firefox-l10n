@@ -23,6 +23,3 @@ sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly }-യും { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-android }-യും { -brand-name-nightly }-യും { -brand-name-beta }
 sub-navigation-ios-test-flight = { -brand-name-ios } { -brand-name-test-flight }
-sub-navigation-what-is-a-browser = അന്വേഷിയന്ത്രം പറഞ്ഞാൽ എന്താണു്?
-sub-navigation-browsing-history = തിരച്ചിൽ നാൾവഴി
-sub-navigation-browser-history = തിരച്ചിൽ നാൾവഴി

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Bllokim Reklamash
@@ -15,7 +15,7 @@ features-adblocker-the-ad-blocker-a-tool = Bllokuesi i reklamave – një mjet p
 features-adblocker-in-todays-digital-world = Në botën dixhitale të sotme, web-i mund të jetë i zënë me punë dhe me rrëmujë. Bllokuesit e reklamave janë mjete të fuqishme që ju vënë ju në kontroll të funksionimit të shfletimit, duke ju lënë të vendosni ç’shfaqet në ekranin tuaj.
 features-adblocker-ad-blockers-work = Bllokuesit e reklamave funksionojnë në dy rrugë bazë të ndryshme: duke penguar ngarkim lënde, fjala vjen, reklama dhe duke bllokuar pjesë sajtesh që strehojnë këto elemente. Këtu mund të përfshihen reklama video, reklama të personalizuara që ju ndjekin nëpër web dhe madje gjurmues prej palësh të treta.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = Përdorimi i një bllokuese reklamash është i thjeshtë. Shumë mundësi të besuara mund të kihen në trajtën e shtesave të shfletuesit, duke e bërë të lehtë gjetjen e një zgjidhje që bën punë për nevojat tuaja. Për shembull, <a href="{ $firefox }">{ -brand-name-firefox }</a> ofron <a href="{ $addons }">një listë zgjerimesh të miratuara</a>, të konceptuara të përmirësojnë funksionimin e shfletimit për ju, teksa respektohet privatësia juaj.
 features-adblocker-finding-the-right = Gjetja e Bllokuesit të Duhur të Reklamave për Ju
@@ -36,5 +36,5 @@ features-adblocker-to-adjust = Që të përimtoni këto rregullime, klikoni ikon
 features-adblocker-why-use = Pse të Përdoret një Bllokues Reklamash?
 features-adblocker-ad-blockers-do-more = Bllokuesit e reklamave bëjnë më tepër se sa thjesht administrim reklamash – ata mund të thellojnë shpejtësinë dhe sigurinë e shfletimit tuaj, duke zvogëluar sasinë e lëndës së panevojshme. Ju japin fuqi të krijoni një funksionim të përshtatur, pa shpërqendrim të web-it, duke ju lejuar të përqendroheni në atë që ka më tepër rëndësi.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/download/
 features-adblocker-explore-hundreds = Eksploroni me qindra shtesa që merren me privatësinë, të gatshme për { -brand-name-firefox }-in dhe gjeni mjetet e duhura për ju. <a href="{ $url }">Shkarkojeni { -brand-name-firefox }-in</a> që sot, që të punoni me një shfletues të konceptuar me privatësinë tuaj në mendje.

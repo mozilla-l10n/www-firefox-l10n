@@ -3,11 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-the-history-of-web = ویب براؤزرز کی تاریخ
 browser-history-before-web-era = ویب دور سے پہلے
 browser-history-the-browser-wars = براؤزر کی جنگیں
 browser-history-browsing-the-web = آج ویب کو براؤز کرنا
 browser-history-resources = وسائل
-browser-history-take-control-of = اپنے براؤزر کا کنٹرول حاصل کریں۔

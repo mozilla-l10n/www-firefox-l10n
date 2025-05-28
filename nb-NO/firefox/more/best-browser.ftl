@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-find-your-best-browser = Finn din beste nettleser for hastighet, personvern og sikkerhet.
 best-browser-so-many-browser-options = Det er mange nettlesere å velge mellom, men bare en som dekker alle dine behov. Den optimale nettleseren bør tilby både hastighet og personvern.
@@ -19,4 +19,3 @@ best-browser-a-browser-built-for = En nettleser utviklet for hastighet.
 best-browser-a-browser-is-still = En nettleser er fortsatt et verktøy, så det er fornuftig at du vil velge den beste for jobben. Hvis du er et menneske som trenger å jobbe for å overleve, trenger du en rask nettleser. En ting å huske på er at en nettleser som kjører tredjepartssporere er mer sannsynlig å være tregere enn en nettleser som ikke gjør det. Tredjepartssporere er infokapsler, og selv om du ikke kan se dem, kjører de i bakgrunnen på nettstedet, og tar opp dyrebar tid. Jo flere tredjepartssporere en nettleser blokkerer, jo raskere kan den kjøres.
 best-browser-a-browser-that-puts = En nettleser som setter sikkerheten først.
 best-browser-a-browser-that-minds = En nettleser, som passer sine egne saker.
-best-browser-take-control-of-your = Ta kontroll over nettleseren din.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/products/vpn/?geo=de
+### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
 consent-banner-heading = ช่วยเราปรับปรุงประสบการณ์ใช้งาน { -brand-name-mozilla } ของคุณ
 consent-banner-body-v2 = นอกเหนือจากคุกกี้ที่จำเป็นต่อการทำงานของไซต์นี้แล้ว เราต้องการขออนุญาตจากคุณในการตั้งค่าคุกกี้เพิ่มเติมเพื่อทำความเข้าใจความต้องการในการเรียกดูของคุณได้ดีขึ้นและปรับปรุงประสบการณ์ใช้งานของคุณ โปรดวางใจได้ว่าเราให้ความสำคัญกับความเป็นส่วนตัวของคุณ

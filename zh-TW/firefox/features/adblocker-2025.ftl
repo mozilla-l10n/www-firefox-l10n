@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = 廣告封鎖
@@ -15,7 +15,7 @@ features-adblocker-the-ad-blocker-a-tool = 廣告封鎖器是一套可讓您有�
 features-adblocker-in-todays-digital-world = 現今的數位世界網路可能很忙碌也可能雜亂。廣告封鎖器是可讓您自行控制上網體驗的強大工具讓您可自行決定要在畫面上顯示哪些內容。
 features-adblocker-ad-blockers-work = 廣告封鎖器主要有兩種方式: 一是防止廣告等內容被載入二是封鎖網站中的某些版塊。這可能包含在網路上追踪您的視訊廣告、個人化廣告甚至是第三方追踪器。
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = 使用廣告封鎖器很簡單。許多受信任的選項提供瀏覽器附加元件讓您很簡單就能找到符合您需求的解決方案。舉例來說<a href="{ $firefox }">{ -brand-name-firefox }</a> 提供了<a href="{ $addons }">通過審核的擴充套件</a>來改善尊重您的隱私的同時改善您的上網體驗。
 features-adblocker-finding-the-right = 尋找最合適您的廣告封鎖器
@@ -36,5 +36,5 @@ features-adblocker-to-adjust = 若要調整這些設定請點下網頁網址列�
 features-adblocker-why-use = 為什麼要使用廣告封鎖器？
 features-adblocker-ad-blockers-do-more = 廣告封鎖器不只管理廣告 – 還可以減少不必要的內容來加速上網與安全性。它們讓您能夠打造量身打造的、不受分心的網頁體驗讓您可以專注於最重要的事情。
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/download/
 features-adblocker-explore-hundreds = 探索數以百計的 { -brand-name-firefox } 附加元件找出最適合您的工具。立刻<a href="{ $url }">下載 { -brand-name-firefox }</a> 即可體驗在設計時著重保護您的隱私與效能的瀏覽器。

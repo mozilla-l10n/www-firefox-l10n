@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/fast/
+### URL: https://www-dev.springfield.moz.works/features/fast/
 
 features-fast-firefox-keeps-getting-faster = { -brand-name-firefox } không ngừng nhanh hơn
 # HTML description
@@ -18,5 +18,5 @@ features-fast-firefox-is-powered-by-the-world = { -brand-name-firefox } được
 features-fast-all-browsers-had-to-make = Tất cả các trình duyệt phải cải tiến để hoạt động tốt trong các bài kiểm tra Speedometer 3 mới. { -brand-name-firefox } nói riêng đã có những bước tiến vượt bậc, <a { $link }>nhanh hơn đáng kể</a> cho người dùng của chúng tôi là kết quả trực tiếp của công việc này. { -brand-name-firefox } nhanh hơn bao giờ hết, với tốc độ mà bạn thực sự có thể cảm nhận được, bao gồm tải trang nhanh hơn và tương tác mượt mà hơn.
 features-fast-towards-a-faster-web = Hướng tới một trang web nhanh hơn
 # Variables
-#   $link (url) - link to /about/webvision/full/#performance
+#   $link (url) - link to https://www.mozilla.org/about/webvision/full/#performance
 features-fast-theres-been-an-encouraging = { -brand-name-mozilla } <a { $link }>tận tụy</a> để liên tục cải thiện trình duyệt của chúng tôi cũng như toàn bộ trang web. Đó là lý do tại sao chúng tôi đầu tư vào việc hợp tác để phát triển Speedometer 3 để cải thiện hiệu suất của tất cả các trình duyệt. Vì vậy, bất kể trình duyệt nào bạn chọn, { -brand-name-mozilla } muốn nó nhanh nhất có thể.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
+### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Zbieranie informacji o konfiguracji to rodzaj śledzenia w Internecie, który jest bardziej inwazyjny niż zwykłe śledzenie na podstawie ciasteczek — dlatego { -brand-name-firefox-browser(case: "nom", capitalization: "lower") } je blokuje.
@@ -27,5 +27,5 @@ features-fingerprinting-the-practice-of = Praktyka zbierania informacji o konfig
 features-fingerprinting-the-latest-firefox = Najnowszy { -brand-name-firefox } chroni Cię przed zbieraniem informacji o konfiguracji, blokując żądania stron trzecich od firm, o których wiadomo, że uczestniczą w skanowaniu konfiguracji. Pracowaliśmy ciężko, aby umożliwić tę ochronę prywatności, nie psując jednocześnie stron internetowych, które lubisz odwiedzać. (<a { $url_details }>Szczegóły techniczne</a> znajdziesz tutaj.)
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = I nie jest to ukryte w ustawieniach, nie trzeba głęboko kopać, aby je znaleźć. W najnowszej przeglądarce { -brand-name-firefox } blokowanie śledzenia przez zbieranie informacji o konfiguracji jest standardowym, domyślnym ustawieniem. Otwórz swój <a { $url_protections }>panel ochrony prywatności</a>, aby zobaczyć, jak jesteś śledzony i jak { -brand-name-firefox } temu zapobiega.
-# $url_download (string) - link to firefox/new
+# $url_download (string) - link to https://www.firefox.com/download/
 features-fingerprinting-you-probably-wouldnt = Prawdopodobnie nie spodobałoby Ci się, że ktoś śledzi twoje ruchy w prawdziwym życiu. Nie ma powodu, by akceptować to w Internecie. Jeśli nie masz jeszcze przeglądarki { -brand-name-firefox }, <a { $url_download }>pobierz ją i chroń się</a> przed zbieraniem cyfrowych odcisków palców.

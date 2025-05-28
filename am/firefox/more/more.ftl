@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/more/
+### URL: https://www-dev.springfield.moz.works/more/
 
 firefox-products-are = { -brand-name-firefox } ምርቶች የእርስዎን ግላዊነት ለመጠበቅ የተነደፉ ናቸው
 learn-more-about-firefox = ስለ { -brand-name-firefox }፣ ታሪኩ፣ ባህሪያቱ እና ተልዕኮው የበለጠ ይወቁ
@@ -15,14 +15,8 @@ what-is-a = የድር አሳሽ ምንድን ነው?
 a-web-browser = የድር አሳሽ በይነመረብ ላይ ወደ የትኛውም ቦታ ይወስድዎታል፣ ይህም ጽሑፍን፣ ምስሎችን እና ተንቀሳቃሽ ምስሎችን ከየትኛውም የዓለም ክፍል እንዲያዩ ያስችልዎታል።
 update-your-browser = አሳሽዎን ወደ ፈጣን፣ አስተማማኝ እና ደህንነቱ የተጠበቀ { -brand-name-firefox } ያዘምኑ።
 the-firefox-browser = የ{ -brand-name-firefox } አሳሽ የተገነባው በእያንዳንዱ ዙር የእርስዎን ግላዊነት ለመጠበቅ ነው - ምክንያቱም ያ እርስዎን ከዘገምተኛ ጭነቶች፣ መጥፎ ማስታወቂያዎች እና መከታተያዎች የሚያላቅቁበት ፈጣኑ መንገድ ነው።
-firefox-is-more = { -brand-name-firefox } ከአሳሽ በላይ ነው
-get-the-browsers = የእርስዎን ግላዊነት የሚያስቀድሙ አሳሾችን ያግኙ — ሁልጊዜም
-choose-which-firefox = በራስዋ ቋንቋ የፈለጉትን ዓይነት { -brand-name-firefox-browser } ለማውረድ ይምረጡ
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } ለ{ -brand-name-chromebook }
 firefox-more-while-on-chromebook = የ{ -brand-name-chromebook } አስቀድሞ { -brand-name-chrome } ተጭኖ እያለ { -brand-name-firefox }ን አውርደው እና ዋና አሳሽዎ አድርገው መጠቀም ጥቂት ጥቅሞችን ይሰጥዎታል
-firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
-firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } በ{ -brand-name-firefox } ልማት ውስጥ አብዮት ነበር። እ.ኤ.አ. በ 2017 ፣ በየጊዜው የሚሻሻል አዲስ ፣ እንደ መብረቅ ፈጣን አሳሽ ፈጠርን። { -brand-name-firefox-quantum } { -brand-name-firefox-browser } ነው።
-we-believe-everyone = ሁሉም ሰው የበይነመረብ መዳረሻ ሊኖረው ይገባል ብለን እናምናለን - ለዛ ነው { -brand-name-firefox-browser }ን በዓለም ዙሪያ ባሉ በጎ ፈቃደኞች በመታገዝ ከ90 በላይ ቋንቋዎች እንዲገኝ የምናደርገው።
 firefox-fights-for = { -brand-name-firefox } በ{ -brand-name-windows } ላይ ለእርስዎ ይታገላል
 easy-migration-of = { -brand-name-firefox }ን ለ{ -brand-name-windows } ሲያወርዱ ቀላል የምርጫዎች እና የእልባቶች ዝውውር።
 firefox-respects-your = { -brand-name-firefox } በ{ -brand-name-mac-short } ላይ የእርስዎን ግላዊነት ያከብራል።

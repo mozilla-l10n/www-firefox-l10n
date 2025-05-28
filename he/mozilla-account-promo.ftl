@@ -4,7 +4,7 @@
 
 # Variables
 #   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
+#   $learn_more_url - link to https://www.mozilla.org/accounts/
 moz-account-already-have-v2 = כבר יש לך חשבון? <a { $sign_in_url }>כניסה לחשבון</a> או <a { $learn_more_url }>מידע נוסף</a> על הצטרפות ל־{ -brand-name-mozilla }.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }

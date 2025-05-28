@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/fast/
+### URL: https://www-dev.springfield.moz.works/features/fast/
 
 features-fast-firefox-keeps-getting-faster = { -brand-name-firefox } postaje sve brži
 # HTML description
@@ -18,5 +18,5 @@ features-fast-firefox-is-powered-by-the-world = { -brand-name-firefox } pokreće
 features-fast-all-browsers-had-to-make = Svi pretraživači su morali da naprave poboljšanja kako bi se dobro pokazali na novim testovima Speedometer 3. { -brand-name-firefox } posebno je napravio ogromne korake, <a { $link }>postajući primjetno brži</a> za naše korisnike kao direktan rezultat ovog rada. { -brand-name-firefox } je brži nego ikada prije, sa brzinom koju zaista možete osjetiti, uključujući brže učitavanje stranica i glatkiju interakciju.
 features-fast-towards-a-faster-web = Prema bržem webu
 # Variables
-#   $link (url) - link to /about/webvision/full/#performance
+#   $link (url) - link to https://www.mozilla.org/about/webvision/full/#performance
 features-fast-theres-been-an-encouraging = { -brand-name-mozilla } je <a { $link }>predan</a> kontinuiranom poboljšanju našeg pretraživača kao i cijelog weba. Zbog toga smo uložili u saradnju na razvoju Speedometer 3 koji je, zauzvrat, poboljšao performanse svih pretraživača. Dakle, koji god pretraživač da odaberete, { -brand-name-mozilla } želi da bude brz.

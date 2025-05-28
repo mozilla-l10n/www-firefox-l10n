@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = ਹੋਰ ਵੀ ਨਵਾਂ { -brand-name-firefox } ਮੌਜੂਦ ਹੈ। <a { $update_url }>ਨਵੇਂ ਵਰਜ਼ਨ ਲਈ ਅੱਪਡੇਟ ਕਰੋ।</a>
 firefox-desktop-download-get-the-browser = ਉਹ ਬਰਾਊਜ਼ਰ ਲਵੋ, ਜੋ ਕਿ ਜ਼ਰੂਰੀ ਚੀਜ਼ਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਦਾ ਹੈ
 firefox-desktop-download-fast-reliable-private = ਤੇਜ਼, ਭਰੋਸੇਯੋਗ ਅਤੇ ਪ੍ਰਾਈਵੇਟ — ਆਨਲਾਈਨ ਮਨ ਦੇ ਸਕੂਨ ਲਈ।
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-no-shady = ਕੋਈ ਵੀ ਸ਼ੱਕੀ ਪਰਦੇਦਾਰੀ ਨੀਤੀਆਂ ਨਹੀਂ ਨਾ ਹੀ ਇਸ਼ਤਿਹਾਰ ਦੇਣ ਵਾਲਿਆਂ ਲਈ ਚੋਰ ਮੋਰੀਆਂ ਹਨ। ਸਿਰਫ਼ ਬਹੁਤ ਤੇਜ਼ ਬਰਾਊਜ਼ਰ ਹੈ, ਜੋ ਤੁਹਾਨੂੰ ਵੇਚਦਾ ਨਹੀਂ ਹੈ।
 firefox-desktop-download-download-options = ਡਾਊਨਲੋਡ ਚੋਣਾਂ ਤੇ ਹੋਰ ਭਾਸ਼ਾਵਾਂ
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } ਸਹਿਯੋਗ
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = ਜੋ ਤੁਸੀਂ ਆਨਲਾਈਨ ਕਰਦੇ ਹੋ, ਉਹੀ ਕਰੋ।<br> { -brand-name-firefox-browser } ਤੁਹਾਡੇ ਲਈ<strong>ਢਾਲ</strong> ਹੈ।
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = ਜੋ ਤੁਸੀਂ ਆਨਲਾਈਨ ਕਰਦੇ ਹੋ, ਉਹੀ ਕਰੋ।<br> { -brand-name-firefox-browser } ਵੇਖ <strong>ਨਹੀਂ ਰਿਹਾ</strong> ਹੈ।
 firefox-desktop-download-we-block-the-ad = ਅਸੀਂ ਇਸ਼ਤਿਹਾਰੀ ਟਰੈਕਰਾਂ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦੇ ਹਾਂ। ਤੁਸੀਂ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਇੰਟਰਨੈੱਟ ਵਰਤਦੇ ਹੋ।
 firefox-desktop-download-ads-are-distracting = ਇਸ਼ਤਿਹਾਰ ਧਿਆਨ ਭਟਕਾਉਂਦੇ ਅਤੇ ਵੈੱਬ ਸਫ਼ਿਆਂ ਨੂੰ ਲੋਡ ਕਰਨਾ ਹੌਲੀ ਕਰ ਦਿੰਦੇ ਹਨ, ਜਦੋਂ ਕਿ ਟਰੈਕਰ ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਦੀ ਸੂਹ ਲੈਂਦੇ ਹਨ। { -brand-name-firefox-browser } ਆਪਣੇ-ਆਪ ਹੀ ਬਹੁਤੇ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਹੈ, ਤਾਂ ਕਿ ਤੁਹਾਨੂੰ ਆਪਣੀ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ ਦੀ ਜਾਂਚ ਨਾ ਕਰਨੀ ਪਵੇ।
@@ -113,9 +113,9 @@ firefox-desktop-download-from-security-to = ਸੁਰੱਖਿਆ ਤੋਂ ਖ�
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ਨੂੰ  <a { $attrs }>{ -brand-name-mozilla }</a> ਵਲੋਂ { -brand-name-ie } ਅਤੇ ਹੁਣ { -brand-name-chrome } ਵਰਗੇ ਬਰਾਊਜ਼ਰਾਂ ਦੇ ਮੁਕਾਬਲੇ ਵੱਧ ਤੇਜ਼, ਵੱਧ ਪ੍ਰਾਈਵੇਟ ਬਦਲ ਵਜੋਂ ਬਣਾਇਆ ਗਿਆ ਹੈ। ਅੱਜ ਮਕਸਦ ਲਈ ਪ੍ਰਨਾਈ ਕੰਪਨੀ ਅਤੇ ਵਲੰਟੀਅਰ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਸਭ ਤੋਂ ਪਹਿਲਾਂ ਰੱਖਣਾ ਜਾਰੀ ਰੱਖਦੇ ਹਨ।
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = ਜਿਵੇਂ ਇੰਟਰਨੈੱਟ ਵੱਧਦਾ ਅਤੇ ਬਦਲਦਾ ਹੈ ਤਾਂ { -brand-name-firefox } ਪਰਦੇਦਾਰੀ ਦੇ ਤੁਹਾਡੇ ਹੱਕ ਉੱਤੇ ਕੇਂਦਰਿਤ ਰਹਿੰਦਾ ਹੈ — ਅਸੀਂ ਇਸ ਨੂੰ <a { $attrs }>ਨਿੱਜੀ ਡਾਟੇ ਦਾ ਵਾਅਦਾ</a> ਕਹਿੰਦੇ ਹਾਂ: ਘੱਟ ਲਵੋ, ਉਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖੋ। ਕੋਈ ਭੇਤ ਨਹੀਂ। ਤੁਹਾਡਾ ਡਾਟਾ, ਤੁਹਾਡੀ ਵੈੱਬ ਸਰਗਰਮੀ, ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਜ਼ਿੰਦਗੀ { -brand-name-firefox } ਨਾਲ ਸੁਰੱਖਿਅਤ ਹੈ।
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
@@ -130,7 +130,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ਆਪ�
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ਕੋਈ ਸਵਾਲ? <a { $attrs }>{ -brand-name-mozilla } ਸਹਿਯੋਗ</a> ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ।
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = ਲਗਭਗ ਹੋ ਗਿਆ!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -152,11 +152,11 @@ firefox-desktop-download-if-you-see-a-prompt = ਜੇ ਤੁਹਾਨੂੰ ਐ�
 firefox-desktop-download-visit-support-for-more = ਹੋਰ ਵੇਰਵਿਆਂ ਲਈ ਸਹਾਇਤਾ ਨੂੰ ਵੇਖੋ
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = ਤੁਹਾਡਾ ਡਾਊਨਲੋਡ ਆਪਣੇ-ਆਪ ਸ਼ੁਰੂ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ। ਨਹੀਂ ਹੋਇਆ? <a id="{ $id }" href="{ $fallback_url }">ਮੁੜ ਡਾਊਨਲੋਡ ਕਰਕੇ ਵੇਖੋ।</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਤੋਂ ਵਧਕੇ ਹੈ।
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = ਤੁਹਾਡੇ ਡਾਊਨਲੋਡ ਵਿੱਚ ਰੁਕਾਵਟ ਆਈ ਹੈ। ਪਰ ਸਭ ਖ਼ਤਮ ਨਹੀਂ ਹੋਇਆ।
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = { -brand-name-firefox } ਲਈ ਤੁਹਾਡਾ ਸਿਸਟਮ ਲੋੜਾਂ ਪੂਰੀਆਂ ਨਹੀਂ ਕਰਦਾ ਹੈ, ਪਰ ਤੁਹਾਨੂੰ <a href="{ $url }">ਇਹਨਾਂ ਵਰਜ਼ਨਾਂ</a> ਵਿੱਚੋਂ ਇੱਕ ਵਰਤ ਕੇ ਵੇਖਣਾ ਚਾਹੀਦਾ ਹੈ।

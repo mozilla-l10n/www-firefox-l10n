@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = 為您的企業取得 { -brand-name-firefox } { -brand-name-esr } 或快速發行版本
 firefox-enterprise-get-unmatched-data-protection = 透過符合您的企業需求的更新步調，獲得無與倫比的資料保護。下載 { -brand-name-firefox } { -brand-name-esr } 或快速發行版本。
@@ -42,5 +42,5 @@ firefox-enterprise-sample-plist-for-configuration = 設定檔的<a href="{ $url 
 firefox-enterprise-pkg-installer = PKG 格式安裝程式
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 位元
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = <a href="{ $firefox_all }">下載其他語言或平台</a>的<br>{ -brand-name-firefox-esr } 或快速發行版本。

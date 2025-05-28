@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-find-your-best-browser = Löydä paras selain nopeuden, yksityisyyden ja turvallisuuden takaamiseksi.
 best-browser-so-many-browser-options = Niin monia selainvaihtoehtoja, mutta on vain yksi, joka toimii parhaiten tarpeisiisi. Parhaan selaimen tulisi tarjota nopeutta ja suojata yksityisyyttä.
@@ -41,4 +41,3 @@ best-browser-choosing-the-best-browser = Parhaan selaimen valitseminen on samanl
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = Me <a href="{ $firefox }">{ -brand-name-firefox }</a>illa olemme tehneet kovasti töitä rakentaaksemme selaimen, joka on kaksi kertaa nopeampi kuin ennen ja antaaksemme käyttäjille enemmän hallintaa tekemisiinsä verkossa.
-best-browser-take-control-of-your = Ota ohjat selaimestasi.

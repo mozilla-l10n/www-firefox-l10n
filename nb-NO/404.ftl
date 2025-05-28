@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/404/
+### URL: https://www-dev.springfield.moz.works/404/
 
 not-found-page-not-found-page-page-not-found = 404: Side ikke funnet
 not-found-page-sorry-we-cant-find-that-page = Beklager, vi kan ikke finne den siden
@@ -13,5 +13,5 @@ not-found-page-go-back = Gå tilbake
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Les</a> mer om { -brand-name-mozilla }, den ideelle organisasjonen bak { -brand-name-firefox }.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/new/
+#   $download (url) - link to https://www.mozilla.org/firefox/download/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Last ned</a> { -brand-name-firefox }-nettleseren for din mobile enhet eller din datamaskin

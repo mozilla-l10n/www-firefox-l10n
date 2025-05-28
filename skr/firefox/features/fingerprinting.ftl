@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
+### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = فنگر پرنٹنگ آن لائن ٹریکنگ دی ہک ونکی ہے جیڑھی عام کوکی تے مبنی ٹریکنگ کنوں زیادہ ناگوار ہے — ایں سانگے { -brand-name-firefox-browser } اونکوں روکیندا ہے۔
@@ -27,5 +27,5 @@ features-fingerprinting-the-practice-of = فنگر پرنٹنگ دی مشق تہ
 features-fingerprinting-the-latest-firefox = تازہ ترین { -brand-name-firefox } براؤزر تہاکوں فنگر پرنٹنگ کنوں بچیندا ہے تے انہاں کمپنیاں دیاں تریجھے فریق درخواستاں کوں روک تے جیڑھا فنگر پرنٹنگ وِچ حصہ گھنݨ کیتے ڄاتیاں ویندیاں ہن۔ اساں اوں رازداری دے تحفظ کوں فعال کرݨ کیتے سخت محنت کیتی ہے جݙاں جو انہاں ویب سائٹاں کوں تروڑیا نہیں جنہاں دا تساں ملاحظہ کرݨ کنوں لطف اندوز تھیندے او۔ (اتھاں ودھیک پڑھو، جے تساں <a { $url_details }> تکنیکی تفصیلاں </a> چاہندے او۔)
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = تے ایہ کوئی گہری ترتیب کائنی جینکوں ڳولݨ کیتے تہاکوں ٹٹولݨ دی ضرورت ہے۔ تازہ ترین { -brand-name-firefox } براؤزر وِچ، فنگر پرنٹ بلاک کرݨ معیاری، ڈیفالٹ ترتیب ہے۔ اپݨے  <a { $url_protections }> پرائیویسی پروٹیکشنز ڈیش بورڈ </a> تے ونڄو ایہ ݙیکھݨ کیتے جو پردے دے پچھوں تہاکوں کیویں ٹریک کیتا ویندا پیا ہے تے کیویں { -brand-name-firefox } اونکوں روکیندا ہے۔
-# $url_download (string) - link to firefox/new
+# $url_download (string) - link to https://www.firefox.com/download/
 features-fingerprinting-you-probably-wouldnt = تساں شاید کہیں اینجھے ڄݨے دی تعریف نہ کریسو جیڑھا حقیقی زندگی وِچ تہاݙی ٹور تے نظر رکھے۔ اونکوں آن لائن قبول کرݨ دی کوئی وجہ کائنی۔ جے تہاݙے کول پہلے کنوں { -brand-name-firefox } کائنی، تاں <a { $url_download }> کرو تے اپݨے آپ کوں ڈیجیٹل فنگر پرنٹنگ کنوں محفوظ رکھو </a>۔

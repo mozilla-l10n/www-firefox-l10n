@@ -14,8 +14,6 @@ ui-watch-the-video = Videoyu izleyin
 ui-replay = Tekrar oynat
 ui-share = Paylaş
 ui-menu = Menü
-# Short for Table of Contents
-ui-contents = İçindekiler
 ui-please-turn-on-javascript = Bu sayfayı doğru şekilde görmek için lütfen JavaScript'i açın.
 ui-show-more = Daha fazla göster
 ui-show-less = Daha az göster

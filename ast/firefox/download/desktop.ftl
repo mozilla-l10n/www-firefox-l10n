@@ -3,11 +3,11 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 firefox-desktop-download-get-the-browser = Consigui'l restolador que protexe lo que ye importante
 firefox-desktop-download-download-options = Opciones de descarga y otres llingües
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = Fai lo que quieras en llinia.<br>El { -brand-name-firefox-browser } <strong>nun</strong> t'escluca.
 firefox-desktop-download-for-everyone = { -brand-name-firefox } ye pa tol mundu
 firefox-desktop-download-all-your-devices = Pon { -brand-name-firefox } en tolos preseos
@@ -27,6 +27,6 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ¿Tienes entrugues? <a { $attrs }>Sofitu de { -brand-name-mozilla }</a> respuéndete.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ye más qu'un restolador.

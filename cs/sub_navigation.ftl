@@ -24,6 +24,3 @@ sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly } a { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-nightly } a { -brand-name-beta } pro { -brand-name-android(case: "acc") }
 sub-navigation-ios-test-flight = { -brand-name-ios } { -brand-name-test-flight }
-sub-navigation-what-is-a-browser = Co je webový prohlížeč?
-sub-navigation-browsing-history = Historie prohlížení
-sub-navigation-browser-history = Historie prohlížeče

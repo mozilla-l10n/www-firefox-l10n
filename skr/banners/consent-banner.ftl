@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/products/vpn/?geo=de
+### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
 consent-banner-heading = آپݨاں { -brand-name-mozilla } تجربہ بہتر بݨاؤ، ساݙی مدد کرو
 consent-banner-button-reject = ساریاں وادھوں کوکیاں مسترد کرو

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.springfield.moz.works/compare/
 
 compare-shared-compare-firefox = ປຽບທຽບກັບ { -brand-name-firefox }
 compare-shared-footer-cta-title = ເຮັດໄດ້ຫຼາຍຂຶ້ນກັບ { -brand-name-firefox }
@@ -11,10 +11,10 @@ compare-shared-footer-cta-desc = ຮັບເອົາຕົວທ່ອງເ�
 compare-shared-we-also-offer-easy = ພວກເຮົາຍັງໃຫ້ຄຸນສົມບັດທີ່ງ່າຍຕໍ່ການໃຊ້ເຊັ່ນ:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } ຍັງມີເຄື່ອງມືໃນຕົວເຊັ່ນ:
 # Variables
-# $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
+# $pdf (url) - link to https://www.firefox.com/features/pdf-editor/
 compare-shared-edit-pdfs-on-the-go = <a { $pdf }>ແກ້ໄຂ PDFs</a> ໃນເວລາເດີນທາງພາຍໃນໜ້າຕ່າງບຣາວເຊີ { -brand-name-firefox } ຂອງທ່ານ - ບໍ່ຈໍາເປັນຕ້ອງມີຊອບແວເພີ່ມເຕີມ.
 # Variables
-# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+# $translate (url) - link to https://www.firefox.com/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>ແປໜ້າເວັບ</a> ຢູ່ໃນທ້ອງຖິ່ນ ແລະ ສ່ວນຕົວ.
 compare-shared-its-easy-to-switch = ມັນງ່າຍທີ່ຈະປ່ຽນ
 compare-shared-since-we-dont-have-to-make = ເນື່ອງຈາກພວກເຮົາບໍ່ຈຳເປັນຕ້ອງເຮັດໃຫ້ຜູ້ຖືຫຸ້ນມີຄວາມສຸກ, ພວກເຮົາສາມາດສຸມໃສ່ການເຮັດໃຫ້ <strong>ທ່ານ</strong> ມີຄວາມສຸກ ແລະ ເອົາໃຈໃສ່ຄວາມເປັນສ່ວນຕົວ ແລະ ຄວາມສະດວກສະບາຍຂອງທ່ານໄວ້ກ່ອນສະເໝີ.

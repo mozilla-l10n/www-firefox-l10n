@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
 # page title
 bookmark-manager-bookmark-manager = Yer imi yöneticisi
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Yer imlerinizi klasörler ve etiketlerle düzenleyin.
 # Variables:
-#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+#   $sync (url) - link to https://www.firefox.com/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = Yer imleri, web'deki en sevdiğiniz yerlere hızlıca ve kolayca dönebilmeniz için tarayıcınıza kaydettiğiniz bağlantılardır. { -brand-name-firefox }’ta kullanışlı bir yer imi yöneticisi var. Böylece kayıtlı bağlantılarınızı organize edebilir, arayabilir, güncelleyebilir ve <a { $sync }>tüm cihazlarınız arasında eşitleyebilirsiniz</a>.
 bookmark-manager-organize-your-boomarks-into = Yer imlerinizi aranabilir klasörler halinde düzenleyin
 bookmark-manager-collect-your-bookmarks-in-folders = Yer imlerinizi dizinlerde toplayın ve daha fazla ayrıntıyla etiketleyin. Ayrıca ihtiyacınız olanları hızlı bir şekilde bulmak için yer imlerinizi sıralayabilirsiniz.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -17,11 +17,11 @@ firefox-desktop-download-og-title = ከመቼውም ጊዜ ፈጣኑን { -brand
 firefox-desktop-download-og-desc = ፈጣን ገጽ መጫን፣ አነስተኛ የማህደረ ትውስታ አጠቃቀም እና በባህሪያት የታጨቀ፣ አዲሱ { -brand-name-firefox } እዚህ አለ።
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = አስፈላጊ የሆነውን የሚጠብቅ አሳሽ ያግኙ
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-no-shady = ለአስተዋዋቂዎች ፍንጭ የሚሰጥ የግላዊነት መተዳደሪያ ወይም የኋላ በሮች የሉትም። እርስዎን የማይሸጥ መብረቅ የሆነ ፈጣን አሳሽ ብቻ።
 firefox-desktop-download-download-options = አማራጮችን እና ሌሎች ቋንቋዎችን አውርድ
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } ድጋፍ
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = በመስመር ላይ የሚያደርጉትን ያድርጉ።<br> { -brand-name-firefox-browser } <strong>አያይም</strong>።
 firefox-desktop-download-we-block-the-ad = እኛ የማስታወቂያ መከታተያዎችን እናግዳለን። እርስዎ በይነመረቡን በፍጥነት ያስሱ።
 firefox-desktop-download-ads-are-distracting = ማስታወቂያዎች ትኩረት የሚከፋፍሉ እና ድረ-ገጾች በዝግታ እንዲጫኑ ሲያደርጉ ተከታታዮቻቸው ደሞ በመስመር ላይ የሚያደርጉትን እያንዳንዱን እንቅስቃሴ ይመለከታሉ። { -brand-name-firefox-browser } ብዙ መከታተያዎችን በራስ ሰር ያግዳል፣ ስለዚህ የደህንነት ቅንብሮችዎ ውስጥ መቆፈር አያስፈልግም።
@@ -107,9 +107,9 @@ firefox-desktop-download-from-security-to = ከደህንነት እስከ ዜና 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } የተፈጠረው በ<a { $attrs }>{ -brand-name-mozilla }</a> እንደ ፈጣን እና የበለጠ የግል አሳሾች እንደ { -brand-name-ie }፣ እና አሁን { -brand-name-chrome }። ዛሬ፣ በተልዕኮ የሚመራ ኩባንያችን እና የበጎ ፈቃደኞች ማህበረሰቦች የእርስዎን ግላዊነት ከምንም በላይ ማስቀደማቸውን ቀጥለዋል።
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = በይነመረቡ ሲያድግ እና ሲቀየር { -brand-name-firefox } በእርስዎ የግላዊነት መብት ላይ ማተኮር ይቀጥላል - እኛ <a { $attrs }>የግል ውሂብ ቃል ኪዳን</a> እንለዋን፡- ትንሽ ይውሰዱ። ደህንነቱ የተጠበቀ ያድርጉት። ምንም ሚስጥሮች የሉም። የእርስዎ ውሂብ፣ የእርስዎ የድር እንቅስቃሴ፣ የመስመር ላይ ህይወትዎ በ{ -brand-name-firefox } የተጠበቀ ነው።
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
@@ -121,7 +121,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } በራ�
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ጥያቄዎች? <a { $attrs }>{ -brand-name-mozilla } ድጋፍ</a> ያግዝዎታል።
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = ሊያልቅ ነው!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -141,11 +141,11 @@ firefox-desktop-download-if-you-see-a-prompt = ለመጫን እየሞከሩት �
 firefox-desktop-download-visit-support-for-more = ለተጨማሪ ዝርዝሮች ድጋፍን ይጎብኙ
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = ማውረድዎ በራስ-ሰር መጀመር አለበት። አልሰራም? <a id="{ $id }" href="{ $fallback_url }">እንደገና ለማውረድ ይሞክሩ።</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ከአሳሽም በላይ ነው።
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = ማውረድዎ ታጉሏል። ግን ሁሉም ነገር አልጠፋም።
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = የእርስዎ ስርዓት ለ{ -brand-name-firefox } መስፈርቶችን ላያሟላ ይችላል፣ነገር ግን ከ<a href="{ $url }">እነዚህ ስሪቶች</a> አንዱን መሞከር ይችላሉ።

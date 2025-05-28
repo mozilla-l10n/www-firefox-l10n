@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Blokowanie reklam
@@ -15,7 +15,7 @@ features-adblocker-the-ad-blocker-a-tool = Bloker reklam – narzędzie umożliw
 features-adblocker-in-todays-digital-world = W dzisiejszym cyfrowym świecie sieć może być zatłoczona i zagracona. Blokery reklam to potężne narzędzia, które dają Ci kontrolę nad przeglądaniem, pozwalając Ci decydować, co pojawia się na Twoim ekranie.
 features-adblocker-ad-blockers-work = Blokery reklam mają dwa kluczowe zastosowania: zapobiegają ładowaniu treści, takich jak reklamy, oraz blokują sekcje stron internetowych, które zawierają te elementy. Może to obejmować reklamy wideo, spersonalizowane reklamy, które monitorują ruch użytkownika w sieci, a także elementy śledzące innych firm.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = Korzystanie z blokera reklam jest proste. Wiele zaufanych opcji jest dostępnych jako dodatki do przeglądarki, dzięki czemu łatwo jest znaleźć rozwiązanie, które odpowiada Twoim potrzebom. Na przykład <a href="{ $firefox }">{ -brand-name-firefox }</a> oferuje <a href="{ $addons }">listę sprawdzonych rozszerzeń</a>, zaprojektowanych w celu poprawy komfortu przeglądania przy jednoczesnym poszanowaniu prywatności.
 features-adblocker-finding-the-right = Znalezienie odpowiedniego dla siebie blokera reklam
@@ -36,5 +36,5 @@ features-adblocker-to-adjust = Aby dostosować te ustawienia, kliknij ikonę tar
 features-adblocker-why-use = Dlaczego warto używać blokera reklam?
 features-adblocker-ad-blockers-do-more = Blokery reklam robią więcej niż tylko wycinanie reklam – mogą zwiększyć szybkość przeglądania i bezpieczeństwo, redukując niepotrzebne treści. Umożliwiają tworzenie dostosowanego, pozbawionego rozpraszaczy środowiska internetowego, pozwalając skupić się na tym, co najważniejsze.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/download/
 features-adblocker-explore-hundreds = Zapoznaj się z setkami dodatków do przeglądarki { -brand-name-firefox }, ukierunkowanych na ochronę prywatności, i znajdź odpowiednie dla siebie narzędzia. <a href="{ $url }">Pobierz { -brand-name-firefox(case: "gen") }</a> już dziś i poznaj przeglądarkę zaprojektowaną z myślą o prywatności i wydajności.

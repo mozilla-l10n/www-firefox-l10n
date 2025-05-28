@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = Browsergeschiedenis: epische machtsstrijd die ons moderne browsers heeft gebracht
 browser-history-the-browser-wars-underdogs-giants = De browseroorlogen, underdogs tegen reuzen en momenten die de wereld veranderden. Lees over de geschiedenis van de webbrowser.
@@ -51,4 +51,3 @@ browser-history-in-the-future-the = In de toekomst zal het web waarschijnlijk ve
 browser-history-in-the-future-the-v2 = In de toekomst zal het web waarschijnlijk verder van zijn hypertekstwortels afdwalen en een enorm aanbod van interactieve ervaringen worden. Virtual reality is al tientallen jaren een opkomende technologie (in ieder geval sinds de uitgave van Lawnmower Man in 1992 en de Nintendo Virtual Boy in 1995), maar het internet kan het eindelijk naar de massa brengen. { -brand-name-firefox } biedt nu ondersteuning voor WebVR en A-Frame, waarmee ontwikkelaars snel en eenvoudig virtual reality-websites kunnen bouwen. De meeste moderne mobiele apparaten ondersteunen WebVR en kunnen met eenvoudige kartonnen doosjes gemakkelijk worden gebruikt als headsets. Een 3D virtual reality-web zoals dat door sciencefictionauteur Neal Stephenson werd voorgesteld, ligt misschien om de hoek. Als dat het geval is, kan de webbrowser zelf volledig verdwijnen en een echt venster naar een andere wereld worden.
 browser-history-whatever-the-future = Wat de toekomst van het web ook in petto heeft, { -brand-name-mozilla } en { -brand-name-firefox } zullen er zijn voor gebruikers, zodat ze over krachtige hulpmiddelen beschikken om het internet en alles wat het te bieden heeft te ervaren. Het internet is voor iedereen, en iedereen zou grip moeten hebben op zijn of haar online ervaring. Daarom geven we { -brand-name-firefox } hulpmiddelen om de privacy van gebruikers te beschermen en verkopen we nooit gebruikersgegevens aan adverteerders.
 browser-history-resources = Bronnen
-browser-history-take-control-of = Neem de controle over uw browser.

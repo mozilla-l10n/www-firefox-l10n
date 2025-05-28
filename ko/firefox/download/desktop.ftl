@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = 더 새로운 { -brand-name-firefox }를 사용할 수 있습니다. <a { $update_url }>최신 버전으로 업데이트</a>
 firefox-desktop-download-get-the-browser = 여러분에게 중요한 것을 먼저 생각하는 브라우저
 firefox-desktop-download-fast-reliable-private = 빠르고, 안정적이며, 사생활 보호 — 온라인에서 마음의 평화를
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-no-shady = 광고주를 위한 복잡한 개인 정보 보호 정책이나 백도어가 없습니다. 여러분을 상품으로 취급하는 브라우저가 아닙니다.
 firefox-desktop-download-download-options = 다운로드 선택 및 기타 언어
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } 도움말
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = 온라인에서 어떤 일을 하든지 <br>{ -brand-name-firefox-browser } 가 <strong>도와드리겠습니다</strong>.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = 여러분이 온라인에서 무엇을 하든지<br> { -brand-name-firefox-browser }는 <strong>지켜보지 않습니다!</strong>
 firefox-desktop-download-we-block-the-ad = 저희는 광고 추적기를 차단합니다. 여러분은 인터넷을 더 빨리 탐험할 수 있습니다.
 firefox-desktop-download-ads-are-distracting = 온라인 광고는 주의를 산만하게 하고 웹 페이지 로딩 속도를 느리게 만듭니다. 광고에 있는 추적기는 온라인에서 이루어지는 여러분의 모든 활동을 감시합니다. { -brand-name-firefox-browser }는 대부분의 추적기를 자동으로 차단하므로 데이터 보안에 뛰어납니다.
@@ -116,9 +116,9 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox }는 <a { $
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = 인터넷이 성장하고 변화함에 따라 { -brand-name-firefox }는 계속해서 사용자의 개인 정보를 보호할 권리에 초점을 맞추고 있습니다. 이는 항상 저희의 관심사였습니다. <a { $attrs }>개인정보 보호정책</a>에서 데이터가 다루어지는 방법에 대해 자세히 알아보세요.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = 인터넷이 변화하고 성장함에 따라 { -brand-name-firefox }는 계속해서 개인 정보 보호 권리에 초점을 맞추고 있습니다. 이를 <a { $attrs }>개인 데이터 보호 약속</a>이라고 합니다. { -brand-name-firefox }는 투명하게 데이터 수집을 최소화 하면서 개인 정보를 보호하고 있습니다.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
@@ -133,7 +133,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox }는 자�
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = 질문이 있으십니까? <a { $attrs }>{ -brand-name-mozilla } 도움말</a>을 참고하세요.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = 거의 다 완료되었습니다!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -155,11 +155,11 @@ firefox-desktop-download-if-you-see-a-prompt = 실행할 때 설치한 앱이 { 
 firefox-desktop-download-visit-support-for-more = 더 자세한 내용을 위해 지원 방문
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = 다운로드가 자동으로 시작됩니다. 그렇지 않다면 <a id="{ $id }" href="{ $fallback_url }">다시 시도해 보세요</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }는 브라우저 그 이상입니다.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = 다운로드가 중단되었습니다. 하지만 모두 손실되지는 않았습니다.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = 시스템이 { -brand-name-firefox } 설치 요구 사항을 충족하지 않지만 <a href="{ $url }">이 버전</a> 중 하나를 사용할 수 있습니다.

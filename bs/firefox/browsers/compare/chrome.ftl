@@ -3,15 +3,15 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
+### URL: https://www-dev.springfield.moz.works/compare/chrome/
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } u odnosu na Google Chrome
 # HTML page description
 compare-chome-read-our-comparison = Pročitajte naše poređenje { -brand-name-firefox } i Chrome pretraživača o funkcijama, privatnosti i jednostavnosti korištenja.
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
-# $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
+# $adblocker (url) - link to https://www.firefox.com/features/adblocker/
 compare-chrome-firefoxs-default-privacy-settings = Zadane postavke privatnosti { -brand-name-firefox } su mnogo jače od Chromeovih – i imamo dodatne funkcije koje sprječavaju da vas web stranice prate, kao što je <a { $fingerprint }>blokiranje otiskom prsta</a>, kao i vaš izbor dodataka za <a { $adblocker }>blokiranje oglasa</a>.
 compare-chrome-we-block-trackers-by-default = Zadano blokiramo tragače. Chrome ne.
 compare-chrome-in-fact-by-default-chrome-monitors = Zapravo, Chrome prema zadanim postavkama prati koje web stranice posjećujete i što radite kako bi mogao identificirati “teme oglasa” kako bi vam slao bolje ciljane oglase. Možete blokirati tri teme, ali ih ne možete natjerati da prestanu identificirati druge teme oglasa umjesto vas.

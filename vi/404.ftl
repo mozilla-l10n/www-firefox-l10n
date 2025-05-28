@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/404/
+### URL: https://www-dev.springfield.moz.works/404/
 
 not-found-page-not-found-page-page-not-found = 404: Không tìm thấy trang này
 not-found-page-sorry-we-cant-find-that-page = Xin lỗi, chúng tôi không thể tìm thấy trang đó
@@ -13,7 +13,7 @@ not-found-page-go-back = Quay lại
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Tìm hiểu</a> về { -brand-name-mozilla }, tổ chức phi lợi nhuận đằng sau { -brand-name-firefox }.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/new/
+#   $download (url) - link to https://www.mozilla.org/firefox/download/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Tải xuống</a> trình duyệt { -brand-name-firefox } cho thiết bị di động hoặc máy tính để bàn của bạn
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404

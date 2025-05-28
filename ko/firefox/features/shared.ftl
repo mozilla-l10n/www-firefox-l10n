@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/
+### URL: https://www-dev.springfield.moz.works/features/
 
 features-shared-firefox-features = { -brand-name-firefox } 기능
 features-shared-footer-cta-title = { -brand-name-firefox }로 더 많은 것 하기

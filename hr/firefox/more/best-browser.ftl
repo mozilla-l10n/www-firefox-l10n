@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-find-your-best-browser = Pronađi svoj najbolji preglednik za brzinu, privatnost i sigurnost.
 best-browser-so-many-browser-options = Postoje mnoge opcije preglednika, ali samo je jedna, koja najbolje funkcionira za tvoje potrebe. Najbolji preglednik bi trebao pružiti i brzinu i zaštitu privatnosti.
@@ -18,4 +18,3 @@ best-browser-a-browser-that-minds = Preglednik koji se brine o svom poslu.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = Ekipa <a href="{ $firefox }">{ -brand-name-firefox }a</a> je naporno radila na stvaranju dvostruko bržeg preglednika od prethodnog te sad pruža korisnicima još veću kontrolu nad internetskim životom.
-best-browser-take-control-of-your = Preuzmi kontrolu nad svojim preglednikom.

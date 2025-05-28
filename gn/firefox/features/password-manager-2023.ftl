@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/password-manager
+### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
 password-manager-free-password-manager = Ñe’ẽñemi reigua ñangarekoha
@@ -11,7 +11,7 @@ password-manager-free-password-manager = Ñe’ẽñemi reigua ñangarekoha
 password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } ñe’ẽñemi ñangarekoha oñongatu ne ñe’ẽñemi peteĩ tendápe eñepyrũ hag̃ua ne rembiapo ñanduti ijeheguíva térã orujey ñe’ẽñemi ñongatupyre.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } ombyaty tekorosãme poruhára réra ha ñe’ẽñemi oike hag̃ua ñandutípe, omoĩmba ijehegui eikejey vove peteĩva ñandutípe ha omoneĩ ndéve eñangarekóvo nde rerarenda ñongatupyre hembiapoite ñe’ẽñemi ñangarekoha moĩmbyre ndive.
 # Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+#   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = <a { $fxa }>{ -brand-name-mozilla-account } reigua reheve</a> embojuehekuaa tekorosãme ne ñe’ẽñemi opaite ne mba’e’okápe. Avei eikukuaa opaite ambue apopyre { -brand-name-mozilla } mba’évape omomba’éva tekoñemi.
 password-manager-password-autofill-for-easy-logins = Ñe’ẽñemi myanyhẽ jehegui tembiapo ñepyrũrã
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } omyanyhẽkuaa ijehegui nde poruhára réra ha ñe’ẽñemi ñongatupyre. Eguerekovéramo peteĩgui tembiapo ñepyrũpyre tendápe, eiporavokuaa oimeraẽva mba’ete ha oĩma.

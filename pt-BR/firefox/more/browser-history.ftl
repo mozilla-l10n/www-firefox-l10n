@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = História dos navegadores: lutas épicas por poder que nos trouxeram navegadores modernos
 browser-history-the-browser-wars-underdogs-giants = As guerras dos navegadores, desfavorecidos contra gigantes e momentos que mudaram o mundo. Leia sobre a história dos navegadores web.
@@ -51,4 +51,3 @@ browser-history-in-the-future-the = No futuro, a web provavelmente vai se afasta
 browser-history-in-the-future-the-v2 = No futuro, a web provavelmente vai se afastar ainda mais de suas origens de hipertexto para se tornar um vasto oceano de experiências interativas. A realidade virtual tem estado no horizonte há décadas (pelo menos desde o lançamento do Lawnmower Man em 1992 e do Nintendo Virtual Boy em 1995), mas a web pode finalmente trazê-la às massas. Agora o { -brand-name-firefox } tem suporte para WebVR e A-Frame, que permitem aos desenvolvedores construir sites de realidade virtual, com facilidade e rapidez. A maioria dos dispositivos móveis modernos tem suporte a WebVR, podendo ser facilmente usados como headsets com simples caixas de papelão. Uma web de realidade virtual 3D como a imaginada pelo autor de ficção científica Neal Stephenson pode estar chegando em breve. Se for o caso, o próprio navegador web pode desaparecer completamente e se tornar uma verdadeira janela para outro mundo.
 browser-history-whatever-the-future = Qualquer que seja o futuro da web, a { -brand-name-mozilla } e o { -brand-name-firefox } estarão lá para os usuários, garantindo que tenham ferramentas poderosas para experienciar a web e tudo que ela tem a oferecer. A web é para todos, e todos deveriam ter controle sobre sua experiência online. É por isso que damos ao { -brand-name-firefox } ferramentas para proteger a privacidade dos usuários e nunca vendemos dados de usuários a anunciantes.
 browser-history-resources = Recursos
-browser-history-take-control-of = Assuma o controle do seu navegador.

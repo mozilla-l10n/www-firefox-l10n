@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-the-ad-blocker-a-secret = Reklam engelleyici: Sinir bozucu reklamlara karşı gizli bir silah.
 features-adblocker-so-many-ads-so-little = Reklam çok, sabrınız az… Artık bu çılgınlığı durdurmanın zamanı geldi.
@@ -11,14 +11,14 @@ features-adblocker-the-average-person-sees = Ortalama bir kişi günde yaklaşı
 features-adblocker-find-the-right-ad-blocker = Size en uygun reklam engelleyiciyi bulun
 features-adblocker-there-are-scores-of-content = Kullanabileceğiniz birçok içerik engelleyici var ama işte { -brand-name-mozilla }’nın seçtiği birkaç harika seçenek…
 # Variables:
-#   $attrs1 (string) - link to /firefox/new/ with other attributes
-#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Bu uzantılar { -brand-name-firefox }’un hem <a { $attrs1 }>bilgisayar</a> hem de <a { $attrs2 }>Android</a> sürümlerinde çalışır.
 features-adblocker-create-a-tracker-free = İçerik engelleme sayesinde takip kodlarından arınmış bir bölge yaratın
 features-adblocker-choose-your-level-of-protection = Koruma düzeyinizi seçin
 features-adblocker-go-easy-with-standard = Standart mod ile ağırdan alın
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
 features-adblocker-if-ads-dont-bother-you = Reklamlar sizi rahatsız etmiyorsa, takip kodları ve üçüncü taraf çerezleri tarafından takip edilmek umrunuzda değilse "standart" ayar size göre. Standart modda takip kodlarının peşinizi bırakmasını istediğinizde <a href="{ $url }">gizli gezinti</a> penceresi açabilirsiniz.
 features-adblocker-get-tough-with-strict = Sıkı modla sert olun
 features-adblocker-if-seeing-too-many-ads = Çok fazla reklam görmek gününüzü mahvediyorsa "katı" mod sizin için daha uygun. Bu mod, bilinen üçüncü taraf takip kodlarını ve çerezleri tüm { -brand-name-firefox } pencerelerinde engeller.

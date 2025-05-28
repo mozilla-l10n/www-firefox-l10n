@@ -3,15 +3,15 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
+### URL: https://www-dev.springfield.moz.works/compare/chrome/
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
 # HTML page description
 compare-chome-read-our-comparison = Lees onze vergelijking van { -brand-name-firefox }- en Chrome-browsers op functies, privacy en gebruiksgemak.
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
-# $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
+# $adblocker (url) - link to https://www.firefox.com/features/adblocker/
 compare-chrome-firefoxs-default-privacy-settings = De standaard privacyinstellingen van { -brand-name-firefox } zijn veel sterker dan die van Chrome – en we hebben extra functies om te voorkomen dat websites u volgen, zoals <a { $fingerprint }>fingerprintblokkering</a>, en uw keuze van add-ons voor <a { $adblocker }>advertentieblokkering</a>.
 compare-chrome-we-block-trackers-by-default = We blokkeren trackers standaard. Chrome niet.
 compare-chrome-in-fact-by-default-chrome-monitors = Chrome volgt standaard zelfs welke websites u bezoekt en wat u doet, zodat het ‘advertentie-onderwerpen’ kan identificeren en u meer gerichte advertenties kan sturen. U kunt drie onderwerpen blokkeren, maar u kunt ze niet laten stoppen met het identificeren van andere advertentie-onderwerpen voor u.

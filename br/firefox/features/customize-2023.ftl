@@ -3,6 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/customize/
+### URL: https://www-dev.springfield.moz.works/features/customize/
 
 features-customize-customize-your-firefox = Personelait ho merdeer { -brand-name-firefox }

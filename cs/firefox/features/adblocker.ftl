@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = Jak zatočit s reklamami a zabránit společnostem ve sledování? Návod od { -brand-name-firefox(case: "gen") } na blokování reklam.
 features-adblocker-the-ad-blocker-a-secret = Blokování reklam je tajná zbraň proti otravným reklamám.
@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Tak moc reklam a tak málo trpělivos
 features-adblocker-the-average-person-sees = Průměrný člověk vidí v průměru 4 000 reklam denně. Pokud myslíte, že je to až příliš, blokování reklam je váš nový nejlepší přítel.
 features-adblocker-an-ad-blocker-is-a-piece = Blokátor reklam je software, který lze použít k blokování reklam, a funguje dvěma způsoby. První způsob je blokování signálu ze serveru inzerenta, takže se reklama na stránce ani nezobrazí. Druhý způsob je zablokování prvků webových stránek, které by mohly být reklamami.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Těmito prvky mohou být hlasité videoreklamy, reklamy, které vás sledují po celém webu, sledovací prvky, cookies třetích stran aj. Chcete-li používat blokátor reklam, můžete se podívat po vhodných doplňcích pro váš prohlížeč. Například <a href="{ $firefox }">{ -brand-name-firefox }</a> má <a href="{ $addons }">tento seznam schválených doplňků fungujících jako blokátory reklam</a>. Klikněte na tento seznam (nebo na blokátory reklam, které jsou schváleny pro váš prohlížeč) a podívejte se, které vyhovují vašim potřebám.
 features-adblocker-find-the-right-ad-blocker = Najděte si pro vás ten pravý blokátor reklam
@@ -27,8 +27,8 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> je další skvělá volba, která nejen blokuje reklamy, ale poskytuje další výhody proti sledování.
 # Variables:
-#   $attrs1 (string) - link to /firefox/new/ with other attributes
-#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Tato rozšíření fungují skvěle jak ve <a { $attrs1 }>{ -brand-name-firefox(case: "loc") }</a>, tak na <a { $attrs2 }>Androidu</a>.
 features-adblocker-create-a-tracker-free = Vytvořte zónu oproštěnou od sledovacích prvků pomocí funkce Blokování obsahu
 # Variables:
@@ -39,7 +39,7 @@ features-adblocker-choose-your-level-of-protection = Vyberte si úroveň ochrany
 features-adblocker-to-start-click-on-the-v2 = Chcete-li začít, klepněte na štít vlevo od adresního řádku na jakékoli webové stránce a vyberte možnost "Nastavení ochrany". Tím se otevře v novém panelu nastavení Soukromí a zabezpečení { -brand-name-firefox(case: "gen") }. Mělo by se zobrazit modré vyskakovací okno s různými možnostmi výběru.
 features-adblocker-go-easy-with-standard = Vše povoleno ve standardním režimu
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
 features-adblocker-if-ads-dont-bother-you = Pokud vás reklamy neobtěžují a nevadí vám, že vás sledují sledovací prvky a cookies třetích stran, pak by vám mělo vyhovovat nastavení Standardní. Chcete-li se ve standardním režimu zbavit sledovacích prvků, použijte okno <a href="{ $url }">anonymního prohlížení</a>.
 features-adblocker-get-tough-with-strict = Vše zakázáno v přísném režimu
 features-adblocker-if-seeing-too-many-ads = Pokud vám koukání na příliš mnoho reklam kazí den, bude pro vás přísné nastavení vhodnější. Tento režim zablokuje známé sledovací prvky a cookies třetích stran ve všech oknech { -brand-name-firefox(case: "gen") }.
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = Ve { -brand-name-firefox(case: "lo
 features-adblocker-speed-up-thanks-to-ad = Zrychlete díky blokátorům reklam
 features-adblocker-in-some-cases-an-ad-blocker = V některých případech může blokátor reklam pomoci váš prohlížeč zrychlit. Když se načítá reklama, může to celou stránku zpomalit. A zároveň bude trvat déle, než najdete to, co hledáte, jestliže jste příliš zaneprázdněni zavíráním zase další reklamy.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/download/
 features-adblocker-if-you-want-to-learn-more-v2 = Pokud se chcete o blokování reklam dozvědět více, jsou pro { -brand-name-firefox } a další prohlížeče k dispozici stovky rozšíření pro blokování reklam. Pokud si chcete vyzkoušet blokátory reklam, které { -brand-name-firefox } používá, <a href="{ $url }">klepněte zde a stáhněte si prohlížeč</a>, u kterého je soukromí na prvním místě.

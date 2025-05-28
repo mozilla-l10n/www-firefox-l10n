@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
+### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = ਫਿੰਗਰ-ਪਰਿੰਟਿੰਗ ਆਨਲਾਈਨ ਸੂਹਾਂ ਲੈਣ ਦੀ ਕਿਸਮ ਹੈ, ਜੋ ਕਿ ਆਮ ਕੂਕੀਜ਼ ਅਧਾਰਿਤ ਟਰੈਕਿੰਗ ਤੋਂ ਕਿਤੇ ਵੱਧ ਖ਼ਤਰਨਾਕ ਹੈ — ਇਸਕਰਕੇ { -brand-name-firefox-browser } ਇਸ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦਾ ਹੈ।
@@ -14,5 +14,5 @@ features-fingerprinting-fingerprinting-is-a = ਫਿੰਗਰ-ਪਰਿੰਟਿ
 features-fingerprinting-fingerprinting-is-bad = ਫਿੰਗਰ-ਪਰਿੰਟਿੰਗ ਵੈੱਬ ਲਈ ਬੁਰੀ ਹੈ
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = ਅਤੇ ਇਹ ਕੋਈ ਲੁਕੀ ਛਪੀ ਸੈਟਿੰਗ ਨਹੀਂ ਹੈ, ਜੋ ਤੁਹਾਨੂੰ ਲੱਭਣੀ ਪਵੇ। ਨਵੇਂ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਫਿੰਗਰ-ਪਰਿੰਟ ਪਾਬੰਦੀ ਮਿਆਰੀ, ਮੂਲ ਸੈਟਿੰਗ ਹੈ। ਪੜਦੇ ਦੇ ਓਹਲੇ ਤੁਹਾਨੂੰ ਕਿਵੇਂ ਟਰੈਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਅਤੇ ਕਿਵੇਂ { -brand-name-firefox } ਇਸ ਨੂੰ ਰੋਕਦਾ ਹੈ, ਇਸ ਬਾਰੇ ਜਾਣਨ ਲਈ ਆਪਣੇ <a { $url_protections }>ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ ਡੈਸ਼ਬੋਰਡ</a> ਨੂੰ ਵੇਖੋ।
-# $url_download (string) - link to firefox/new
+# $url_download (string) - link to https://www.firefox.com/download/
 features-fingerprinting-you-probably-wouldnt = ਤੁਸੀਂ ਸ਼ਾਇਦ ਕਿਸੇ ਵਲੋਂ ਤੁਹਾਡੀ ਅਸਲ ਜ਼ਿੰਦਗੀ ਦੀਆਂ ਕਨਸੋਆਂ ਲੈਣ ਦੀ ਕਦੇ ਵੀ ਸ਼ਲਾਘਾ ਨਾ ਕਰੋ। ਬੇਸ਼ੱਕ ਆਨਲਾਈਨ ਵੀ ਇਦ ਕਰਨ ਦੇਣ ਦਾ ਕੋਈ ਕਾਰਨ ਨਹੀਂ ਹੈ। ਜੇ ਤੁਹਾਡੇ ਕੋਲ { -brand-name-firefox } ਪਹਿਲਾਂ ਹੀ ਨਹੀਂ ਹੈ ਤਾਂ <a { $url_download }>ਡਾਊਨਲੋਡ ਕਰੋ ਅਤੇ  </a>ਖੁਦ ਨੂੰ ਫਿੰਗਰ-ਪਰਿੰਟਿੰਗ ਤੋਂ ਬਚਾਓ।

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/add-ons/
+### URL: https://www-dev.springfield.moz.works/features/add-ons/
 
 features-add-ons-firefox-add-ons = { -brand-name-firefox } eklentileri
 features-add-ons-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } eklentileri ve tarayıcı uzantıları
@@ -12,6 +12,6 @@ features-add-ons-extensions-also-known-as-add-ons = { -brand-name-firefox } Ekle
 #   $fbcontainer (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 #   $translate (url) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
 #   $language (url) - link to https://addons.mozilla.org/firefox/addon/languagetool/
-#   $customize (url) - link to https://www.mozilla.org/firefox/features/customize/
+#   $customize (url) - link to https://www.firefox.com/features/customize/
 #   $amo (url) - link to https://addons.mozilla.org
 features-add-ons-there-are-firefox-add-ons-that = <a { $fbcontainer }>Facebook’un web’de sizi izlemesini engelleyen</a>, <a { $translate }>metinleri başka dillere çeviren</a>, <a { $language }>yazım ve dilbilgisi denetimi yapan</a>, <a { $customize }>tarayıcınızın görünümünü değiştiren</a> birçok { -brand-name-firefox } eklentisi var. Bunları ve binlerce farklı ücretsiz uzantıyı <a { $amo }>addons.mozilla.org</a> adresinde bulabilirsiniz.

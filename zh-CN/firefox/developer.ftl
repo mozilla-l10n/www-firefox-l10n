@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition }不但迅捷如火，还提供最先进的开发者工具，并支持 CSS 网格和调试框架等最新特性
@@ -67,33 +64,7 @@ firefox-developer-fonts-panel = 字体面板
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools }中全新的字体面板，让开发者可以快速访问某元素使用的字体的所有信息。面板中也包含了字体来源、字重、样式等重要信息。
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition }会自动向 { -brand-name-mozilla } 发送反馈信息。
 firefox-developer-download-the-firefox-browser = 下载 { -brand-name-firefox } 为开发者打造的浏览器
-firefox-developer-welcome-to-firefox-developer-edition = 欢迎使用 { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = 专为开发者构建的浏览器
 firefox-developer-all-the-latest-v2 = 包含 Beta 版中所有最新的开发者工具，并加入了多行控制台编辑器和 WebSocket 检查器等功能。
 firefox-developer-a-separate-profile = <strong>单独的配置文件和路径</strong>，因此可以轻松与 { -brand-name-firefox } 稳定版或 { -brand-name-beta } 版共存。
 firefox-developer-preferences-tailored = <strong>为 Web 开发者量身定制的首选项</strong>：默认启用浏览器的远程调试、深色主题和开发者工具栏按钮。
-firefox-developer-congrats-you-now-have-latest-v2 = 已安装最新版 { -brand-name-firefox-developer-edition }
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = 查看<a { $attrs }>发行说明</a>（仅提供英文版），了解新版变化。
-firefox-developer-developer-tools-user = 开发者工具用户文档
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = 庞大资源库。源于开发者，服务开发者。
-firefox-developer-mdn-playground = 演练场
-firefox-developer-mdn-write-test-and-share = 编写、测试、分享您的代码。这是属于您的演练场，您可从中学习知识，更能与世界分享杰作。
-firefox-developer-mdn-blog = { -brand-name-mdn } 博客
-firefox-developer-mdn-unlock-the-world = 通过 { -brand-name-mdn } 博客探索 Web 开发的世界，这里是您了解专业见解、最新 Web 标准、编程技巧的智库。
-firefox-developer-mdn-updates = 更新
-firefox-developer-mdn-the-web-doesnt-have = Web 没有更新日志，但 { -brand-name-mdn } 可以帮到您。您可以按照浏览器和感兴趣的技术类别（例如 JavaScript 和 CSS）来个性化查看及筛选兼容性更改。
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn } 参考文档
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } 是提供 Web 平台技术相关文档的协作式开源项目，内容涵盖 CSS、HTML、JavaScript 以及 Web API。
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } 课程
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = 体例完善的指南中包含基础技能和实践，再配以推荐的学习资源，助您成为优秀的前端开发者。
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = 为 { -brand-name-mdn } 提供支持，并借助收藏集、通知、演练场，将 { -brand-name-mdn } 化为己用。

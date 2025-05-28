@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } је невероватно брз и пружа најновије програмерске алате и могућности као што је CSS Grid и framework debugging
@@ -66,10 +63,6 @@ firefox-developer-fonts-panel = Панел за фонтове
 firefox-developer-the-new-fonts-panel = Нови панел за фонтове у { -brand-name-firefox-devtools }-у даје програмерима брз приступ свим подацима који су им потребни о коришћењу фонтова у елементу. Он такође садржи корисне податке као што су извор фонта, тежина, стил и још много тога.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } аутоматски шаље повратне информације { -brand-name-mozilla }-и.
 firefox-developer-download-the-firefox-browser = Преузмите { -brand-name-firefox } направљен за програмере
-firefox-developer-welcome-to-firefox-developer-edition = Добродошли у { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Прегледач направљен за програмере
 firefox-developer-a-separate-profile = <strong>Одвојен профил и путања</strong> за лако покретање уз стандардну или { -brand-name-beta } { -brand-name-firefox } верзију.
 firefox-developer-preferences-tailored = Подешавања <strong>скројена за веб програмере</strong>: Отклањање грешака у прегледачу и удаљено су подразумевано омогућени, као и тамна тема и брз приступ алаткама за програмере.
-firefox-developer-congrats-you-now-have-latest-v2 = Сада имате најновију { -brand-name-firefox-developer-edition } верзију.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }

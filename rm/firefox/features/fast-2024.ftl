@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/fast/
+### URL: https://www-dev.springfield.moz.works/features/fast/
 
 features-fast-firefox-keeps-getting-faster = { -brand-name-firefox } daventa adina pli svelt
 # HTML description
@@ -18,5 +18,5 @@ features-fast-firefox-is-powered-by-the-world = { -brand-name-firefox } utilises
 features-fast-all-browsers-had-to-make = Tut ils navigaturs han stuì sa meglierar per pudair far buns resultats en il test dal Speedometer 3. { -brand-name-firefox } ha fatg spezialmain gronds pass ed è daventà <a { $link }>accurschiblamain pli svelt</a> per nossas utilisadras e noss utilisaders, grazia a questa lavur. { -brand-name-firefox } è pli spert che mai, cun meglieraziuns da la sveltezza che ti sentas effectivamain. Quai includa che las paginas chargian pli svelt e las interacziuns èn pli fluidas.
 features-fast-towards-a-faster-web = Vers in web pli svelt
 # Variables
-#   $link (url) - link to /about/webvision/full/#performance
+#   $link (url) - link to https://www.mozilla.org/about/webvision/full/#performance
 features-fast-theres-been-an-encouraging = { -brand-name-mozilla } <a { $link }>s’impegna</a> da meglierar cuntinuadamain tant l’agen navigatur sco era l’entir web. Perquai ans essan nus engaschads cun collavurar al svilup da Speedometer 3. Questa lavur ha da l’autra vart meglierà la prestaziun da tut ils navigaturs. Independentamain da tia tscherna dal navigatur – { -brand-name-mozilla } vul che tes navigatur saja svelt.

@@ -3,13 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/
+### URL: https://www-dev.springfield.moz.works/
 
 firefox-browsers-desktop = Kompiuteriams
 firefox-browsers-download-for-desktop = Parsisiųsti kompiuteriui
-firefox-browsers-mobile = Mobiliesiems
-firefox-browsers-download-for-mobile = Parsisiųsti mobiliajam
-firefox-browsers-learn-more-about-devtools = Sužinoti daugiau apie „{ -brand-name-devtools }“
-firefox-browsers-android = { -brand-name-android }
-firefox-browsers-ios = { -brand-name-ios }
-firefox-browsers-developer-edition = { -brand-name-developer-edition }

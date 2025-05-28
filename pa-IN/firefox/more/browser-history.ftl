@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = ਬਰਾਊਜ਼ਰ ਅਤੀਤ: ਵੱਡੇ ਸੰਘਰਸ਼ ਨੇ ਸਾਨੂੰ ਆਧੁਨਿਕ ਬਰਾਊਜ਼ਰਾਂ ਤੱਕ ਲਿਆਂਦਾ ਹੈ
 browser-history-the-history-of-web = ਵੈੱਬ ਬਰਾਊਜ਼ਰਾਂ ਦਾ ਇਤਿਹਾਸ
@@ -12,4 +12,3 @@ browser-history-web-era = ਵੈੱਬ ਦਾ ਦੌਰ
 browser-history-the-browser-wars = ਬਰਾਊਜ਼ਰਾਂ ਦਾ ਸੰਘਰਸ਼
 browser-history-browsing-the-web = ਅੱਜ ਵੈੱਬ ਬਰਾਊਜ਼ ਕਰਨਾ
 browser-history-resources = ਸਰੋਤ
-browser-history-take-control-of = ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦਾ ਕੰਟਰੋਲ ਆਪਣੇ ਹੱਥ ਲਵੋ।

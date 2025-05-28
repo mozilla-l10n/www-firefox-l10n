@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
+### URL: https://www-dev.springfield.moz.works/features/picture-in-picture/
 
 # HTML page title
 features-pip-firefox-picture-in-picture-get-more = ภาพที่เล่นควบคู่ใน { -brand-name-firefox }: ทำสิ่งต่าง ๆ ให้เสร็จได้มากขึ้นด้วยวิดีโอแบบป็อปเอาท์

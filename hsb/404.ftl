@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/404/
+### URL: https://www-dev.springfield.moz.works/404/
 
 not-found-page-not-found-page-page-not-found = 404: Strona njeje so namakała
 not-found-page-sorry-we-cant-find-that-page = Bohužel njemóžemy tu stronu namakać
@@ -13,7 +13,7 @@ not-found-page-go-back = Wróćo
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Zhońće</a> wjace wo { -brand-name-mozilla }, powšitkownosći słužacej organizaciji za { -brand-name-firefox }.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/new/
+#   $download (url) - link to https://www.mozilla.org/firefox/download/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Sćehńće</a> wobhladowak { -brand-name-firefox } za swój mobilny grat abo desktop
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404

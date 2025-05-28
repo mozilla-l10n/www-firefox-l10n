@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.springfield.moz.works/compare/
 
 compare-shared-compare-firefox = Embojoja { -brand-name-firefox }
 compare-shared-footer-cta-title = Ejapove { -brand-name-firefox } ndive
@@ -11,10 +11,10 @@ compare-shared-footer-cta-desc = Erekóke kundahára ipya’e, ivevýi ha hekoñ
 compare-shared-we-also-offer-easy = Roikuave’ẽ avei tembiapoite hasy’ỹva ijeporu:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } oreko avei tembiporu ijehevoi:
 # Variables
-# $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
+# $pdf (url) - link to https://www.firefox.com/features/pdf-editor/
 compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Embosako’i PDF</a> pya’e ne mohendaha rovetã ryepýpe { -brand-name-firefox }, eikotevẽ’ỹre ambue software.
 # Variables
-# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+# $translate (url) - link to https://www.firefox.com/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>Omoñe’ẽasa ñanduti rogue</a> pypegua ha tekoñemíme.
 compare-shared-its-easy-to-switch = Ndahasýi eva hag̃ua
 compare-shared-since-we-dont-have-to-make = Norombovy’aséiramo jepe jarakuérape, ikatu roma’ẽ nde vy’arã rehe <strong>ndéve</strong> romoĩvo nde rekoñemi ha nde rekoporã tenonderãite.

@@ -7,7 +7,7 @@
 moz-account-promo-title = Yksi kirjautuminen. <br> <span { $class }>Kaikki</span> { -brand-name-mozilla }lta.
 # Variables
 #   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
+#   $learn_more_url - link to https://www.mozilla.org/accounts/
 moz-account-already-have-v2 = Onko sinulla jo tili? <a { $sign_in_url }>Kirjaudu sisään</a> tai <a { $learn_more_url }>lue lisää</a> { -brand-name-mozilla }an liittymisestä.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }

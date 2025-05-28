@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = Webbläsarhistorik: Episka maktkamper som gav oss moderna webbläsare
 browser-history-the-browser-wars-underdogs-giants = Webbläsarkrig, underdogs mot jättar och stunder som förändrade världen. Läs om webbläsarens historia.
@@ -51,4 +51,3 @@ browser-history-in-the-future-the = I framtiden kommer webben sannolikt att avvi
 browser-history-in-the-future-the-v2 = I framtiden kommer webben sannolikt att avvika längre från sina hypertext-rötter för att bli ett stort hav av interaktiva upplevelser. Virtuell verklighet har varit i horisonten i årtionden (åtminstone sedan släppet av Lawnmower Man 1992 och Nintendo Virtual Boy 1995), men webben kan äntligen ge den till folket. { -brand-name-firefox } har nu stöd för WebVR och A-Frame, som låter utvecklare snabbt och enkelt bygga virtual reality-webbplatser. De flesta moderna mobila enheter stöder WebVR och kan enkelt användas som headset med enkla kartongfodral. En 3D-virtuell verklighetswebb som den som science fiction-författaren Neal Stephenson föreställer sig kan vara precis runt hörnet. Om så är fallet kan webbläsaren i sig helt försvinna och bli ett sant fönster till en annan värld.
 browser-history-whatever-the-future = Oavsett vilken framtid som finns för webben kommer { -brand-name-mozilla } och { -brand-name-firefox } att finnas där för användarna, vilket säkerställer att de har kraftfulla verktyg för att uppleva nätet och allt det har att erbjuda. Nätet är för alla och alla bör ha kontroll över sin onlineupplevelse. Därför ger vi { -brand-name-firefox } verktyg för att skydda användarnas integritet och vi säljer aldrig användardata till annonsörer.
 browser-history-resources = Resurser
-browser-history-take-control-of = Ta kontroll över din webbläsare.

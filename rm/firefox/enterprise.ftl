@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Telechargia { -brand-name-firefox } per tia interpresa cun { -brand-name-esr } u la versiun cun la cadenza da publicaziun rapida
 firefox-enterprise-get-unmatched-data-protection = Profitescha dad ina protecziun da datas insuperada e la cadenza da novas versiuns che ta correspunda cun { -brand-name-firefox } per interpresas. Telechargia { -brand-name-esr } e la versiun cun la cadenza da publicaziun rapida (Rapid Release)
@@ -42,5 +42,5 @@ firefox-enterprise-sample-plist-for-configuration = Exempel da <a href="{ $url }
 firefox-enterprise-pkg-installer = Program d'installaziun PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 bits
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = Telechargia { -brand-name-firefox-esr } u la versiun cun ina cadenza dad actualisaziuns rapida<br><a href="{ $firefox_all }">en in'autra lingua u per in'autra plattafurma</a>.

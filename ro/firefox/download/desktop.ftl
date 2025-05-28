@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 firefox-desktop-download-og-title = Descarcă cel mai rapid { -brand-name-firefox } care a existat vreodată
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -23,7 +23,7 @@ firefox-desktop-download-picture-in-picture = Imagine în imagine
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser(case: "definite-article", capitalization: "upper") }
 firefox-desktop-download-get-firefox-android = Obține { -brand-name-firefox-browser } pentru <strong>{ -brand-name-android }</strong>
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Încă puțin.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -34,5 +34,5 @@ firefox-desktop-download-get-help = Ai probleme? <a { $attrs }>Obține ajutor cu
 firefox-desktop-download-in-another-language = Descarcă în altă limbă sau pentru alt sistem de operare.
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = Descărcarea ar trebui să înceapă automat. Nu a mers? <a id="{ $id }" href="{ $fallback_url }">Încearcă să descarci din nou.</a>

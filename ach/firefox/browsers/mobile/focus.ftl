@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/focus/
 
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } tye nonge pi nyonyo me { -brand-name-ios } ki { -brand-name-android }.

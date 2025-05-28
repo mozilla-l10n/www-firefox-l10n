@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/eyedropper/
+### URL: https://www-dev.springfield.moz.works/features/eyedropper/
 
 features-eyedropper-eyedropper-tool = Pipettityökalu
 features-eyedropper-select-colors-in-firefox = Valitse värejä { -brand-name-firefox }in pipettityökalulla

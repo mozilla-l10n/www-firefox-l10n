@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = Co sa defender cunter memia bleras reclamas e co evitar che interpresas ta persequiteschan en l'internet. In manual per bloccar reclamas dal navigatur { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Il bloccader da reclamas – in'arma secreta cunter reclamas stentusas.
@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Uschè bleras reclamas, uschè pauca 
 features-adblocker-the-average-person-sees = Ina persuna vesa en media 4'000 reclamas per di. Sche ti es da l'avis che quai saja memia bler è il bloccader da reclamas tes nov meglier ami.
 features-adblocker-an-ad-blocker-is-a-piece = In bloccader da reclamas è ina software che po bloccar reclamas e funcziunescha en duas modas. L'emprima: Il bloccader blochescha il signal dad in server da reclama uschia che la reclama na cumpara mai sin tia pagina. La segunda: I vegnan bloccadas secziuns da la website che pudessan esser reclamas.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Questas reclamas pon esser videos cun tun dad aut, reclamas che ta persequiteschan en l'internet, fastizaders, cookies da terzas partidas e dapli. Per utilisar in bloccader, tschertgar supplements ad blocker disponibels en tes navigatur. <a href="{ $firefox }">{ -brand-name-firefox }</a> ha per exempel <a href="{ $addons }">questa glista da supplements da bloccaders approvads</a>. Tscherna da questa glista (u da bloccaders ch'èn approvads per tes navigatur) quel che ta correspunda il pli fitg.
 features-adblocker-find-the-right-ad-blocker = Chatta il bloccader da reclamas che va a prà cun tai
@@ -27,8 +27,8 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> è in’autra buna tscherna che na blochescha betg mo reclamas, ma porscha era anc pussaivladads per evitar il fastizar.
 # Variables:
-#   $attrs1 (string) - link to /firefox/new/ with other attributes
-#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Questas extensiuns funcziunan perfectamain sin <a { $attrs1 }>{ -brand-name-firefox } per computers desktop</a> e per apparats mobils <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Creescha ina zona libra da fastizaders cun la bloccada da cuntegn
 # Variables:
@@ -39,7 +39,7 @@ features-adblocker-choose-your-level-of-protection = Tscherna tes nivel da prote
 features-adblocker-to-start-click-on-the-v2 = Per cumenzar, clicca sin il scut a sanestra da la trav d'adressas dad x-ina pagina-web e tscherna «Parameters da protecziun». Quai vegn ad avrir la panela «Sfera privata e segirezza» dals parameters da { -brand-name-firefox } en in nov tab. Ti stuessas vesair in pop-up blau cun diversas opziuns.
 features-adblocker-go-easy-with-standard = Cun il modus da standard vai magari simpel
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
 features-adblocker-if-ads-dont-bother-you = Sche las reclamas na ta disturban betg e sch'igl è tuttina che fastizaders e cookies da terzas partidas ta suondan, stuessan las configuraziuns da standard tanscher per tes basegns. Utilisescha ina fanestra en il <a href="{ $url }">modus privat</a> per che fastizaders ta laschian en pasch en il modus da standard.
 features-adblocker-get-tough-with-strict = Rinforza tia defensiun cun il modus strict
 features-adblocker-if-seeing-too-many-ads = Sche memia bleras reclamas ruinan tes di, correspunda il modus strict meglier a tes basegns. Quest modus vegn a bloccar ils fastizaders enconuschents da terzas partidas e cookies en tut las fanestras da { -brand-name-firefox }.
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = En { -brand-name-firefox } pos ti 
 features-adblocker-speed-up-thanks-to-ad = Tempo grazia a bloccadas da reclama
 features-adblocker-in-some-cases-an-ad-blocker = En tscherts cas po ina bloccada da reclamas accelerar tes navigatur. Sch'ina reclama vegn chargiada po quai ralentar ina website. Il medem mument duri pli ditg da chattar quai che ti tschertgas sche ti es fatschentà cun serrar anc ina reclama.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/download/
 features-adblocker-if-you-want-to-learn-more-v2 = Sche ti vuls savair dapli davart la bloccada da reclamas, i dat tschients dad extensiuns per { -brand-name-firefox } ed auters navigaturs che blocheschan reclamas. Sche ti vuls empruvar la bloccada da reclamas che { -brand-name-firefox } utilisescha, <a href="{ $url }">clicca qua per telechargiar</a> in navigatur per il qual la protecziun da datas ha la prioritad.

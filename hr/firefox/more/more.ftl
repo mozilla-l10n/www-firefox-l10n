@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/more/
+### URL: https://www-dev.springfield.moz.works/more/
 
 firefox-products-are = { -brand-name-firefox } proizvodi su dizajnirani da štite tvoju privatnost
 learn-more-about-firefox = Saznaj više o { -brand-name-firefox } pregledniku, njegovoj povijesti, funkcijama i misiji
@@ -15,14 +15,8 @@ what-is-a = Što je web preglednik?
 a-web-browser = Web preglednik te vodi kroz internet te omogućuje da vidiš tekstove, slike i videa s bilo kojeg mjesta na svijetu.
 update-your-browser = Aktualiziraj svoj preglednik na brz i siguran { -brand-name-firefox }.
 the-firefox-browser = { -brand-name-firefox } preglednik je izgrađen za zaštitu tvoje privatnosti pri svakom koraku – jer je to najbrži način da te oslobodimo sporog učitavanja, loših oglasa i programa za praćenje.
-firefox-is-more = { -brand-name-firefox } je više od samog preglednika
-get-the-browsers = Nabavi preglednike koji stavljaju tvoju privatnost na prvo mjesto – i već uvijek jesu
-choose-which-firefox = Odaberi i preuzmi { -brand-name-firefox-browser } na tvom jeziku
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } za { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Mada { -brand-name-chromebook } već ima { -brand-name-chrome }, preuzimanje i korištenje { -brand-name-firefox } preglednika pruža nekoliko pogodnosti.
-firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
-firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } je bila revolucija u razvoju { -brand-name-firefox }a. 2017. smo stvorili nov, munjevito brz preglednik koji se stalno poboljšava. { -brand-name-firefox-quantum } je { -brand-name-firefox-browser }.
-we-believe-everyone = Vjerujemo da bi svatko trebao imati pristup internetu – zato izrađujemo { -brand-name-firefox-browser } dostupnim na više od 90 jezika uz pomoć predanih volontera diljem svijeta.
 firefox-fights-for = { -brand-name-firefox } se bori za tebe na { -brand-name-windows }u
 easy-migration-of = Jednostavna migracija postavki i zabilježaka prilikom preuzimanja { -brand-name-firefox }a za { -brand-name-windows }.
 firefox-respects-your = { -brand-name-firefox } poštuje tvoju privatnost na { -brand-name-mac-short }u.
@@ -37,5 +31,3 @@ firefox-more-fingerprinter-blocking = Blokiranje digitalnih otisaka
 firefox-more-fingerprinting-is-a = Prikupljanje digitalnih otisaka je vrsta online praćenja koja je invazivnija od običnog praćenja pomoću kolačića – zato ga { -brand-name-firefox-browser } blokira.
 firefox-more-translate-the-web = Prevedi web
 firefox-more-translate-more-than = Prevedi više od 100 jezika na svoj jezik izravno u svom { -brand-name-firefox-browser } – lakše nego ikada.
-firefox-more-avoid-misinformation-heading = Izbjegni netočne informacije na internetu – { -brand-name-firefox } ti pri tome pomaže
-firefox-more-avoid-misinformation-desc = Pogledaj savjete kako vidjeti manje netočnih informacija i kako se usredotočiti na ono što ti je važno.

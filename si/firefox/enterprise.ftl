@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = { -brand-name-esr } සහ ශ්‍රීඝ්‍ර නිකුතු සමඟින් ඔබගේ ව්‍යාපාරය සඳහා { -brand-name-firefox } ගන්න
 firefox-enterprise-get-unmatched-data-protection = ව්‍යවසාය සඳහා { -brand-name-firefox } සමඟ ඔබට ඔබින නිකුතු අවරෝහය මත අසමසම දත්ත රැකවරණයක් අත්විඳින්න. { -brand-name-esr } සහ ශ්‍රීඝ‍්‍ර නිකුතු බාගන්න.
@@ -42,5 +42,5 @@ firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }">වින
 firefox-enterprise-pkg-installer = PKG ස්ථාපකය
 firefox-enterprise-windows-32-bit = { -brand-name-windows } බිටු-32
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = <a href="{ $firefox_all }">වෙනත් භාෂාවක් හෝ වේදිකාවක්</a> සඳහා<br> { -brand-name-firefox-esr } හෝ ශ්‍රීඝ්‍ර නිකුතුවක් බාගන්න.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/password-manager
+### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
 password-manager-free-password-manager = Bezplatný správca hesiel
@@ -11,7 +11,7 @@ password-manager-free-password-manager = Bezplatný správca hesiel
 password-manager-firefox-password-manager-saves-all = Správca hesiel vo { -brand-name-firefox(case: "loc") } ukladá všetky vaše heslá na jednom mieste, aby ste sa mohli jednoducho prihlásiť na stránky alebo obnoviť uložené heslá.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } bezpečne ukladá vaše používateľské mená a heslá na prístup na webové stránky, automaticky ich vyplní pri ďalšej návšteve webovej stránky a umožňuje vám spravovať uložené prihlasovacie údaje pomocou vstavanej funkcie správy hesiel.
 # Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+#   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = S <a { $fxa }>bezplatným { -brand-name-mozilla-account(case: "ins", capitalization: "lower") }</a> môžete bezpečne synchronizovať svoje heslá na všetkých svojich zariadeniach. Môžete tiež pristupovať ku všetkým ďalším produktom { -brand-name-mozilla(case: "gen") }, ktoré rešpektujú vaše súkromie.
 password-manager-password-autofill-for-easy-logins = Automatické dopĺňanie hesla pre jednoduché prihlásenie
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } môže automaticky vyplniť vaše uložené používateľské meno a heslo. Ak máte pre stránku viac ako jedno prihlásenie, stačí si vybrať účet, ktorý chcete, a my údaje vyplníme.

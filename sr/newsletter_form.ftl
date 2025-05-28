@@ -14,8 +14,6 @@ newsletter-form-select-country-or-region = Изаберите државу ил�
 newsletter-form-select-language = Изаберите језик
 newsletter-form-your-email-here = ВАША АДРЕСА Е-ПОШТЕ ОВДЕ
 newsletter-form-get-firefox-news = Примите новости о { -brand-name-firefox }-у
-newsletter-form-join-the-community = Придружите се заједници
-newsletter-form-sign-up-to-receive = Пријавите се да бисте примали месечна ажурирања од { -brand-name-firefox }-а и интернет трендова који обликују ваш живот на мрежи.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Не смета ми да { -brand-name-mozilla } рукује мојим подацима као што је објашњено у <a href="{ $url }">овој Изјави приватности</a>
@@ -24,17 +22,13 @@ newsletter-form-we-will-only-send-firefox-v2 = Слаћемо вам само и
 newsletter-form-if-you-havent-previously = Мораћете да потврдите пријаву на један од { -brand-name-mozilla } билтена ако већ нисте. Проверите вашу сандуче е-поште или филтер за непожељну пошту.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + ти
 newsletter-form-get-firefox-tips = Примајте савете, трикове, новости и још много тога за { -brand-name-firefox }
-newsletter-form-get-mozilla-updates = Пријавите се за месечни { -brand-name-mozilla } билтен
 newsletter-form-available-languages = Доступни језици
 newsletter-form-select-country = Одаберите државу
 newsletter-form-sign-me-up = Претплати ме
 newsletter-form-sign-up-now = Пријавите се сада
 newsletter-form-thanks = Хвала!
-newsletter-form-leave-this-field-empty = Оставите ово поље празним
 newsletter-form-yes = Да
 newsletter-form-no = Не
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = Образац за претплату
 multi-newsletter-form-checkboxes-legend = Желим информације о:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

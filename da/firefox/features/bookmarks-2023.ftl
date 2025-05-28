@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
 bookmark-manager-organize-your-boomarks-into = Organiser dine bogmærker i søgbare mapper
 bookmark-manager-easily-import-bookmarks = Importer nemt bogmærker

@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
+### URL: https://www-dev.springfield.moz.works/browsers/opera/
 
 # Page title
 compare-opera-firefox-vs-opera = { -brand-name-firefox } vs Opera
 # HTML page description
 compare-opera-read-our-comparison = Legia nossa cumparegliaziun dals navigaturs { -brand-name-firefox } ed Opera areguard funcziuns, protecziun da datas e favuraivladad per las utilisadras ed ils utilisaders.
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
 compare-opera-firefoxs-default-privacy-settings = La configuraziun standard da { -brand-name-firefox } per la protecziun da datas è pli severa che quella dad Opera – e nus avain dapli funcziuns per impedir che websites ta persequiteschian, p.ex. la <a { $fingerprint }>bloccada dad improntas</a>.
 compare-opera-firefox-offers-a-wide-range-of = { -brand-name-firefox } offrescha ina paletta vasta dad opziuns da persunalisaziun, inclusiv la pussaivladad da spustar menus e travs d’utensils en autras posiziuns da la fanestra dal navigatur. L’interfatscha dad Opera na sa lascha betg persunalisar uschè fitg.
 # Variables:

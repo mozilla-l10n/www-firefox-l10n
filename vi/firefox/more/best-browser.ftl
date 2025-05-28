@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-find-your-best-browser = Tìm trình duyệt tốt nhất của bạn cho tốc độ, sự riêng tư và bảo mật.
 best-browser-so-many-browser-options = Vì vậy, nhiều tùy chọn trình duyệt, nhưng chỉ có một tùy chọn phù hợp nhất với nhu cầu của bạn. Trình duyệt tốt nhất cho bạn nên cung cấp cả tốc độ và bảo vệ quyền riêng tư.
@@ -41,4 +41,3 @@ best-browser-choosing-the-best-browser = Chọn trình duyệt tốt nhất cho 
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = Tại <a href="{ $firefox }">{ -brand-name-firefox }</a>, chúng tôi đã làm việc chăm chỉ để xây dựng một trình duyệt nhanh gấp đôi so với trước đây và giúp người dùng kiểm soát nhiều hơn cuộc sống trực tuyến của họ.
-best-browser-take-control-of-your = Kiểm soát trình duyệt của bạn.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-find-your-best-browser = رفتار، رازداری تے سلامتی کیتے آپݨاں بہترین براؤزر لبھو۔
 best-browser-so-many-browser-options = ٻہوں سارے براؤزر اختیارات ، لیکن صرف ہک ای تہاݙیاں ضرورتاں کیتے بہترین کم کریندا ہے۔ تہاݙے کیتے بہترین براؤزر رفتار تے رازداری تحفظ ݙوہیں فراہم کرے۔.
@@ -41,4 +41,3 @@ best-browser-choosing-the-best-browser = تہاݙے کیتے بہترین برا
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = <a href="{ $firefox }"> { -brand-name-firefox }</a> میں ، اساں یک ایجھا براؤزر بݨاوݨ کیتے سخت محنت کیتی ہے جیڑھا پہلے دی نسبت دوگنا تکھا ہے تے صارفین کوں اوندی آن لائن زندگی تے زیادہ کنٹرول فراہم کریندا ہے۔
-best-browser-take-control-of-your = آپݨے براؤزر دا کنٹرول گھنو۔

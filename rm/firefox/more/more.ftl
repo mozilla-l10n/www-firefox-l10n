@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/more/
+### URL: https://www-dev.springfield.moz.works/more/
 
 firefox-products-are = Ils products { -brand-name-firefox } èn concepids per proteger tia sfera privata
 learn-more-about-firefox = T'infurmescha davart { -brand-name-firefox }, sia istorgia, sias funcziuns e sia filosofia
@@ -15,14 +15,8 @@ what-is-a = Tge è in navigatur-web?
 a-web-browser = In navigatur-web ta maina dapertut per l'internet enturn e ta pussibilitescha da leger texts e da guardar maletgs e videos da tut il mund.
 update-your-browser = Actualisescha tes navigatur { -brand-name-firefox } per navigar svelt ed en segirezza.
 the-firefox-browser = Il navigatur { -brand-name-firefox } è concepì per proteger mintga mument tia sfera privata. Quai è numnadamain la furma la pli svelta da ta liberar da telechargiadas plaunas, reclamas mulestusas e fastizaders.
-firefox-is-more = { -brand-name-firefox } è dapli ch'in navigatur
-get-the-browsers = Va per ils navigaturs che respectan tia sfera privata – da bell'entschatta
-choose-which-firefox = Tscherna tge { -brand-name-firefox-browser } telechargiar en tia lingua
 firefox-more-firefox-chromebook = Il { -brand-name-firefox-browser } per { -brand-name-chromebook }
 firefox-more-while-on-chromebook = In { -brand-name-chromebook } ha bain gia installà { -brand-name-chrome }, ma l'installaziun e l'utilisaziun da { -brand-name-firefox } sco navigatur da standard porscha in pèr avantatgs:
-firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
-firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } è stà ina revoluziun en il svilup da { -brand-name-firefox }. L'onn 2017 avain nus sviluppà in nov navigatur ch'è svelt sco ina frizza e che sa meglierescha cuntinuadamain. { -brand-name-firefox-quantum } è il { -brand-name-firefox-browser }.
-we-believe-everyone = Nus essan persvas che mintgin duess avair access a l'internet – perquai procurain nus per la disponibilitad dal { -brand-name-firefox-browser } en passa 90 linguas, grazia a l'agid da voluntaris engaschads en tut il mund.
 firefox-fights-for = { -brand-name-firefox } cumbatta per tai sin { -brand-name-windows }
 easy-migration-of = La migraziun da preferenzas e segnapaginas è simpla sche ti telechargias { -brand-name-firefox } per { -brand-name-windows }.
 firefox-respects-your = { -brand-name-firefox } respecta tia sfera privata sin { -brand-name-mac-short }.
@@ -37,5 +31,3 @@ firefox-more-fingerprinter-blocking = Bloccada dad improntaders
 firefox-more-fingerprinting-is-a = Improntaders (fingerprinting) èn tscherts fastizaders online ch'èn pli invasivs ch'ils fastizaders usitads che sa basan sin cookies – perquai als blochescha { -brand-name-firefox-browser }.
 firefox-more-translate-the-web = Translatar il web
 firefox-more-translate-more-than = Translatescha passa 100 linguas en tia lingua, directamain en tes navigatur { -brand-name-firefox-browser }. Quai n'è anc mai stà uschè simpel sco ussa.
-firefox-more-avoid-misinformation-heading = Evitescha dischinfurmaziuns en la rait – { -brand-name-firefox } ta gida qua
-firefox-more-avoid-misinformation-desc = Dà in'egliada als cussegls per evitar dischinfurmaziun e ta concentrar a quai che ta stat a cor.

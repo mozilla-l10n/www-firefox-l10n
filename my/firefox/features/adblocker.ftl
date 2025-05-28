@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = အွန်လိုင်ပေါ်တွင် များစွာသောကြော်ငြာများကို { -brand-name-firefox }ဝဘ်ဘရောက်ဇာမှ ကြော်ငြာပိတ်ဆို့ခြင်းအညွှန်း
 features-adblocker-the-ad-blocker-a-secret = ကြော်ငြာပိတ်ဆို့ခြင်း – အနှောင့်အယှက်ဖြစ်စေသောကြော်ငြာများကိုပိတ်ဆို့သောအရာ
@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = ကြော်ငြာများ�
 features-adblocker-the-average-person-sees = ပျမ်းမျှအားဖြင့် လူတစ်ယောက်သည်တစ်ရက်တာအတွက် ကြော်ငြာ 4,000 မြင်သည်။ သင့်အတွက် အလွန်များသည်ထင်လျှင် ကြော်ငြာပိတ်ဆို့ခြင်းကို ရယူပါ။
 features-adblocker-an-ad-blocker-is-a-piece = ကြော်ငြာပိတ်ဆို့ခြင်းသည် ကြော်ငြာများကို မမြင်အောင်သုံးစွဲသော ဆော့ဝဲလ်အသေးစားသာဖြစ်ပြီး နည်းလမ်းနှစ်မျိုးဖြင့် အလုပ်လုပ်သည်။ ပထမနည်းလမ်းမှာ ကြော်ငြာဆာဗာမှ လာသောအညွှန်းများကို ပိတ်ခြင်းဖြင့် သင့်စာမျက်နှာပေါ်တွင် ဖျောက်ခြင်းဖြစ်ပြီး ဒုတိယနည်းလမ်းမှာ ကြော်ငြာဖြစ်လာနိုင်သော ဝဘ်ဆိုက်အပိုင်းများကို ပိတ်ဆို့ခြင်းဖြစ်သည်။
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = ဤကြော်ငြာများသည် အသံကျယ်ဗီဒီယိုပါရှိနိုင်သည့်အပြင် သင့်အားဝဘ်ပေါ်တွင် ခြေရာခံမှုများများ၊ကွတ်ကီးများနှင့်အခြားအရာများပါနိုင်သည်။ ကြော်ငြာဖျောက်ဖျက်မှုအားသုံးလိုလျှင် ဘရောက်ဇာတွင်ရနိုင်သောအက်အွန်များကိုရှာဖွေ၍သုံးပါ။ <a href="{ $firefox }">{ -brand-name-firefox }</a>ဥပမာအားဖြင့်<a href="{ $addons }">ကြော်ငြာဖျောက်ဖျက်မှုစာရင်းများ</a> ဤစာရင်းများကို သင့်လိုအပ်သလိုရွေးချယ်၍နှိပ်ပါ။
 features-adblocker-find-the-right-ad-blocker = သင့်အတွက် သင့်လျော်သောကြော်ငြာဖျောက်ဖျက်မှုကို ရှာဖွေပါ။
@@ -23,7 +23,7 @@ features-adblocker-on-firefox-you-can-use = { -brand-name-firefox }တွင် 
 features-adblocker-choose-your-level-of-protection = သင့်လုံခြုံရေးကာကွယ်မှုအဆင့်ကို ရွေးပါ
 features-adblocker-go-easy-with-standard = စံပုံစံအနေအထားဖြင့်သုံးစွဲပါ
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
 features-adblocker-if-ads-dont-bother-you = ကြော်ငြာများသည် သင့်ကိုနှောင့်ယှက်သည်ဟု မသတ်မှတ်လျှင် ပုံမှန်စက်တင်ဖြင့်အသုံးပြုနိုင်သည်။ ခြေရာခံမှုပိတ်လိုလျှင်<a href="{ $url }">Private Browsing</a>ဝင်းဒိုးဖြင့်သုံးပါ။
 features-adblocker-get-tough-with-strict = တားမြစ်သောအနေအထားဖြင့် သုံးစွဲပါ
 features-adblocker-if-seeing-too-many-ads = ကြော်ငြာများသည်သင်၏နေ့စဉ်သုံးစွဲမှုကိုအနှောင့်အယှက်ဖြစ်လျှင်တားမြစ်ခြင်းအခြေအနေကိုရွေးချယ်မှပိုကောင်းမည်။ဤအခြေအနေသည်{ -brand-name-firefox }တွင်ပြင်ပကွတ်ကီးခြေရာခံမှုများကိုပိတ်ပင်နိုင်သည်။

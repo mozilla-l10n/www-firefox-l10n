@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/translate/
+### URL: https://www-dev.springfield.moz.works/features/translate/
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = 使用 { -brand-name-firefox } 翻譯網頁
@@ -20,5 +20,5 @@ features-translate-the-languages-below-are-what-v2 = { -brand-name-firefox-trans
 features-translate-and-more-languages-are-in = 更多語言正在開發中！
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } 會說您的語言
 # Variables:
-#   $download (url) = link to https://www.mozilla.org/firefox/new/
+#   $download (url) = link to https://www.firefox.com/download/
 features-translate-the-firefox-translations-feature-v2 = { -brand-name-mozilla } 維護您的隱私，同時讓網際網路符合您的需求，{ -brand-name-firefox-translations } 功能不會追蹤您翻譯的網頁。全球有數以百萬的 { -brand-name-firefox } 使用者，{ -brand-name-mozilla } 想要確保大家能夠以自己的方式學習、溝通、分享、掌握最新資訊。<a { $download }>立即下載您的語言的 { -brand-name-firefox }。</a>

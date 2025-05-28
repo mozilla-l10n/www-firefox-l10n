@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/all/
+### URL: https://www-dev.springfield.moz.works/download/all/
 
 firefox-all-choose-browser = തുടരാൻ ഒരു അന്വേഷിയന്ത്രത്തിനെ തിരഞ്ഞെടുക്കുക
 firefox-all-choose-platform = തുടരാൻ ഒരു മഞ്ചം തിരഞ്ഞെടുക്കുക

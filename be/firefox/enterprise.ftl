@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Атрымайце { -brand-name-firefox } { -brand-name-esr } і хуткі выпуск для вашага прадпрыемства
 firefox-enterprise-get-unmatched-data-protection = Атрымайце непараўнальную ахову дадзеных з перыядычнасцю выпускаў, якая вам падыходзіць, з { -brand-name-firefox } для прадпрыемстваў. Сцягніце { -brand-name-esr } і хуткі выпуск.
@@ -42,5 +42,5 @@ firefox-enterprise-sample-plist-for-configuration = Прыклад <a href="{ $u
 firefox-enterprise-pkg-installer = Усталявальнік PKG
 firefox-enterprise-windows-32-bit = 32-разрадная { -brand-name-windows }
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = Сцягніце { -brand-name-firefox-esr } або рэгулярны выпуск для<br> <a href="{ $firefox_all }">іншай мовы ці платформы.</a>

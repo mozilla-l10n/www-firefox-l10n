@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = Amek ara ad txedmeḍ akken ur tettwaliḍ ara aṭas n udellel akked uḍfar n tkebaniyen mi ara teqneḍ. atan wamek ara tesqedceḍ amsewḥal n udellel seg iminig web { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Amsewḥel n udellel – abeckiḍ uffir mgal adellel yeɛekkumen.
@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Ddeqs n udellel, ihi drus n ṣṣbe�
 features-adblocker-the-average-person-sees = Amdan n menwala yettwali azal n 4,000 n udellel deg wass. Ma tɣileḍ ddeqs, amsewḥel n udellel ad yuɣal d ameddakel-ik amaynut.
 features-adblocker-an-ad-blocker-is-a-piece = Amsewḥel n udellel d aseɣzan i izemren ad yettwaseqdec i usewḥel n udellel, daɣen iteddu s nat n tarrayin. Tamezwarut d asewḥel n telɣut n uqeddac aberraḥ akken adellel ur itezzi ara ad iban ɣef usebter-ik. Tis snat d asewḥel n tnegzumin n usmel web i izemren ad ilint d adellel.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Adellel-a izmer ad yili d tividyutin iẓeddmen, d adellel izemren ad k-yedfeṛ deg Web, d ineḍfaṛen, d inagan n tuqqna, atg. Akken ad tesqedceḍ imsewḥalen n udellel, tzemreḍ ad tnadiḍ izegrar yellan deg yiminig-nneɣ. <a href="{ $firefox }">{ -brand-name-firefox }</a>, d amedya kan, yesɛa <a href="{ $addons }">tabdart-a n yizegrar n usewḥel yettwaqeblen</a>. Sit ɣef tebdart-a (neɣ ɣef imsewḥalen n udellel yettwaqeblen i yiminig-ik) daɣen wali anwa i icudden ɣer wayen teḥwaǧeḍ.
 features-adblocker-find-the-right-ad-blocker = Af amsewḥel n udellel i k-m-iwulmen
@@ -23,7 +23,7 @@ features-adblocker-on-firefox-you-can-use = Deg { -brand-name-firefox }, tzemre�
 features-adblocker-choose-your-level-of-protection = Fren aswir n taɣellist
 features-adblocker-go-easy-with-standard = Ddu s wudem fessusen ɣer uskar n tizeɣt
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
 features-adblocker-if-ads-dont-bother-you = Ma yella iberriḥen ur tt-ṭuṛṛun ara daɣen ma yella ineḍfaṛen akked inagan n tuqqna ur sluɣuyen ara lxaṭer, aɣewwaṛ amezwer yessek ad k-iqadd. Akken ad tekkseḍ ineḍfaṛen deg uskar amezwer, seqdec asfaylu <a href="{ $url }">Tunigin tusligt</a>.
 features-adblocker-get-tough-with-strict = Sali taɣect-ik s uskar uǧhid
 features-adblocker-if-seeing-too-many-ads = Ma yella ddeqs n udellel yessexseṛ ass-ik, aska uǧhid ilaq-ak. Askar-a ad isewḥel ineḍfaṛen yettwassnen akked inagan n tuqqna deg yisfuyla meṛṛa n { -brand-name-firefox }.

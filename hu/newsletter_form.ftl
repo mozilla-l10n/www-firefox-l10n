@@ -14,8 +14,6 @@ newsletter-form-select-country-or-region = Válasszon országot vagy régiót
 newsletter-form-select-language = Válasszon nyelvet
 newsletter-form-your-email-here = SAJÁT E-MAIL CÍM
 newsletter-form-get-firefox-news = { -brand-name-firefox } hírek
-newsletter-form-join-the-community = Csatlakozzon a közösséghez
-newsletter-form-sign-up-to-receive = Iratkozzon fel, hogy havonta értesüljön a { -brand-name-firefox } híreiről és azokról az internetes trendekről, amelyek meghatározzák az online életét.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Elfogadom, hogy a { -brand-name-mozilla } az <a href="{ $url }">adatvédelmi nyilatkozatnak</a> megfelelően kezelje az adataimat
@@ -24,17 +22,13 @@ newsletter-form-we-will-only-send-firefox-v2 = Csak a { -brand-name-firefox(case
 newsletter-form-if-you-havent-previously = Ha korábban nem erősítette meg a { -brand-name-mozilla }-hírlevél feliratkozását, akkor lehet hogy meg kell tennie. Ellenőrizze a Beérkezett üzenetek mappáját vagy a spam-szűrőjét az e-mailünk után.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Ön
 newsletter-form-get-firefox-tips = { -brand-name-firefox } tippek, trükkök, hírek és továbbiak
-newsletter-form-get-mozilla-updates = Kapjon { -brand-name-mozilla }-híreket
 newsletter-form-available-languages = Elérhető nyelvek
 newsletter-form-select-country = Válasszon országot
 newsletter-form-sign-me-up = Feliratkozás
 newsletter-form-sign-up-now = Feliratkozás most
 newsletter-form-thanks = Köszönjük!
-newsletter-form-leave-this-field-empty = Hagyja üresen ezt a mezőt.
 newsletter-form-yes = Igen
 newsletter-form-no = Nem
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = Hírlevél-feliratkozási űrlap
 multi-newsletter-form-checkboxes-legend = Információt szeretnék ezekről:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

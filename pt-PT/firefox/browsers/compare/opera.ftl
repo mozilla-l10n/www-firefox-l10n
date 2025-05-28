@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
+### URL: https://www-dev.springfield.moz.works/browsers/opera/
 
 # Page title
 compare-opera-firefox-vs-opera = { -brand-name-firefox } vs Opera
 # HTML page description
 compare-opera-read-our-comparison = Consulte a nossa análise comparativa entre os navegadores { -brand-name-firefox } e Opera, abordando funcionalidades, privacidade e facilidade de utilização.
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
 compare-opera-firefoxs-default-privacy-settings = As definições de privacidade predefinidas do { -brand-name-firefox } são mais robustas do que as do Opera – e nós temos mais funcionalidades para impedir que os sites o monitorizem, como o <a { $fingerprint }>bloqueio de identificadores digitais</a>.
 compare-opera-firefox-offers-a-wide-range-of = O { -brand-name-firefox } oferece uma vasta gama de opções de personalização, incluindo a capacidade de mover menus e barras de ferramentas para diferentes localizações na janela do navegador. A interface do Opera é menos personalizável.
 # Variables:

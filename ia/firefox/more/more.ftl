@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/more/
+### URL: https://www-dev.springfield.moz.works/more/
 
 firefox-products-are = Le productos { -brand-name-firefox } es designate pro proteger tu confidentialitate
 learn-more-about-firefox = Saper plus re { -brand-name-firefox }, su historia, functionalitates e mission
@@ -15,14 +15,8 @@ what-is-a = Que es un navigator del Web?
 a-web-browser = Un navigator del Web te porta ubique sur internet, te consenti vider texto, imagines e video non importa ubi tu es in le mundo.
 update-your-browser = Actualisa tu navigator al veloce, secur e fidabile { -brand-name-firefox }.
 the-firefox-browser = Le navigator { -brand-name-firefox } es producite pro proteger tu confidentialitate a cata torno — perque illo es le plus veloce maniera de liberar te de cargamentos lente, mal avisos publicitari e traciatores.
-firefox-is-more = { -brand-name-firefox } es plus que un navigator
-get-the-browsers = Installa le navigatores que antepone tu confidentialitate e sempre lo ha facite
-choose-which-firefox = Selige que { -brand-name-firefox-browser } discargar in tu lingua
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } pro { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Ben que un { -brand-name-chromebook } jam ha { -brand-name-chrome } installate, discargar e usar { -brand-name-firefox } como tu navigator quotidian te da plure beneficios:
-firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
-firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } ha essite un revolution in le disveloppamento de { -brand-name-firefox }. In 2017, nos creava un nove, ultra veloce navigator que constantemente meliora. { -brand-name-firefox-quantum } es le { -brand-name-firefox-browser }.
-we-believe-everyone = Nos crede que totes deberea haber accesso a Internet — pro isto nos rende le { -brand-name-firefox-browser } disponibile in plus de 90 linguas con le auxilio de devote voluntarios de tote le mundo.
 firefox-fights-for = { -brand-name-firefox } lucta pro te sur { -brand-name-windows }
 easy-migration-of = Facile migration de preferentias e marcapaginas quando tu discarga { -brand-name-firefox } pro { -brand-name-windows }.
 firefox-respects-your = { -brand-name-firefox } respecta tu confidentialitate sur { -brand-name-mac-short }.
@@ -37,5 +31,3 @@ firefox-more-fingerprinter-blocking = Blocada de dactylogrammatores
 firefox-more-fingerprinting-is-a = Dactylogrammatores es un typo de traciamento online plus invasive que ordinari traciamento basate sur cookie: pro isto { -brand-name-firefox-browser } lo bloca.
 firefox-more-translate-the-web = Traducer le web
 firefox-more-translate-more-than = Traduce plus de 100 linguas a tu lingua directemente in tu { -brand-name-firefox-browser }: plus facilemente que mais.
-firefox-more-avoid-misinformation-heading = Evitar le information errate online – { -brand-name-firefox } es hic pro adjutar
-firefox-more-avoid-misinformation-desc = Discoperi le suggestiones pro vider minus information errate e concentrar te sur lo que es importante pro te.

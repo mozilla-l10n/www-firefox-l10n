@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = Jak zmniejszyć liczbę reklam na stronach i uniemożliwić firmom śledzenie Cię w Internecie. Poradnik blokowania reklam od przeglądarki internetowej { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Bloker reklam — tajna broń przeciwko irytującym reklamom.
@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Tyle reklam, tak mało cierpliwości�
 features-adblocker-the-average-person-sees = Przeciętny człowiek widzi średnio cztery tysiące reklam dziennie. Jeśli sądzisz, że to za dużo, to bloker reklam jest Twoim nowym najlepszym przyjacielem.
 features-adblocker-an-ad-blocker-is-a-piece = Bloker reklam to oprogramowanie, którego można używać do blokowania reklam, działające na dwa sposoby. Pierwszy polega na tym, że bloker blokuje sygnał z serwera reklamodawcy, więc reklama nigdy nie pojawia się na stronie. Drugi sposób blokuje części stron, które mogą być reklamami.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Mogą to być głośne reklamy wideo, reklamy śledzące Cię w Internecie, elementy śledzące, ciasteczka zewnętrznych witryn i wiele więcej. Aby używać blokera reklam, możesz wyszukać dodatki blokujące reklamy dostępne w używanej przeglądarce. <a href="{ $firefox }">{ -brand-name-firefox }</a>, na przykład, ma <a href="{ $addons }">listę zatwierdzonych dodatków blokujących reklamy</a>. Kliknij tę listę (lub blokery reklam zatwierdzone dla Twojej przeglądarki) i sprawdź, który pasuje do Twoich potrzeb.
 features-adblocker-find-the-right-ad-blocker = Znajdź odpowiedni bloker reklam dla siebie
@@ -24,7 +24,7 @@ features-adblocker-choose-your-level-of-protection = Wybierz swój poziom ochron
 features-adblocker-to-start-click-on-the-v2 = Aby zacząć, kliknij tarczę po lewej stronie paska adresu na dowolnej stronie i wybierz „Ustawienia ochrony”. Spowoduje to otwarcie w nowej karcie panelu prywatności i bezpieczeństwa ustawień { -brand-name-firefox(case: "gen") }. Powinno wyświetlić się niebieskie okno z różnymi opcjami do wyboru.
 features-adblocker-go-easy-with-standard = Łagodne traktowanie w trybie standardowym
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
 features-adblocker-if-ads-dont-bother-you = Jeśli reklamy Ci nie przeszkadzają i nie masz nic przeciwko śledzeniu przez elementy śledzące i ciasteczka zewnętrznych witryn, to ustawienie standardowe powinno Ci wystarczyć. Aby zbić elementy śledzące z Twojego tropu, użyj <a href="{ $url }">okna w trybie prywatnym</a>.
 features-adblocker-get-tough-with-strict = Bez kompromisów w trybie ścisłym
 features-adblocker-if-seeing-too-many-ads = Jeśli widok zbyt wielu reklam psuje Ci dzień, to tryb ścisły jest lepszym rozwiązaniem. Ten tryb blokuje znane elementy śledzące i ciasteczka witryn zewnętrznych we wszystkich oknach { -brand-name-firefox(case: "gen") }.
@@ -40,5 +40,5 @@ features-adblocker-in-firefox-you-can-block = W { -brand-name-firefox(case: "lo
 features-adblocker-speed-up-thanks-to-ad = Przyspiesz dzięki blokerom reklam
 features-adblocker-in-some-cases-an-ad-blocker = W niektórych przypadkach bloker reklam może przyspieszyć przeglądarkę. Wczytywanie reklamy może spowolnić stronę. Poza tym znalezienie tego, co szukasz zajmuje więcej czasu, jeśli musisz poświęcić go na zamykanie kolejnej reklamy.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/download/
 features-adblocker-if-you-want-to-learn-more-v2 = Jeśli chcesz dowiedzieć się więcej o blokowaniu reklam, dla { -brand-name-firefox(case: "gen") } i innych przeglądarek dostępne są setki rozszerzeń blokujących reklamy. Jeśli chcesz wypróbować blokery reklam używane przez { -brand-name-firefox(case: "acc") }, to <a href="{ $url }">kliknij tutaj, aby pobrać</a> przeglądarkę stawiającą prywatność na pierwszym miejscu.

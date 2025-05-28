@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
 # page title
 bookmark-manager-bookmark-manager = نشانی منیجر
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = فولڈراں تے ٹیگاں نال آپݨیاں نشانیاں منظم کرو۔
 # Variables:
-#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+#   $sync (url) - link to https://www.firefox.com/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = بُک مارکس اُوہ لنکس ہِن جِنّھاں کوں تُساں آپݨے براؤزر وِچ محفوظ کرین٘دے ہِیوے تاں جو تُساں ویب اُتے آپݨی مَن بھان٘دیاں جائیں اُتے جَلتی اَتے سَوکھ نال وَل ون٘ڄ سڳو۔ { -brand-name-firefox }وِچ ہِک سَوکھا بُک مارک مینیجر شامل ہِے تاں جو تُساں ترتیب ݙے سڳو، ڳویڑ کر سڳو، اَپ ڈیٹ کر سڳو اَتے <a { $sync }>آپݨے سارے محفوظ کِیتے ڳئے لنکاں کوں آپݨے سبّھے ڈیوائساں اُتّے ہم وقت کر سڳو</a>۔
 bookmark-manager-organize-your-boomarks-into = آپݨے بُک مارکس کوں لبّھݨ دے قابل فولڈرز وِچ ترتیب ݙیؤ
 bookmark-manager-collect-your-bookmarks-in-folders = آپݨے بُک مارکس کوں فولڈرز وِچ کَٹّھا کرو اَتے ودھیک تفصیلاں دے نال ٹیگ کرو۔ تُساں آپݨے بُک مارکس کوں تِکھائی نال ڳویڑ کرݨ کِیتے ترتیب ݙے سڳدے ہِیوے جِنّھاں دی تُہاکوں لوڑ ہِے۔

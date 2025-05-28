@@ -14,8 +14,6 @@ newsletter-form-select-country-or-region = მიუთითეთ ქვეყ
 newsletter-form-select-language = ენის არჩევა
 newsletter-form-your-email-here = თქვენი ელფოსტა
 newsletter-form-get-firefox-news = { -brand-name-firefox } სიახლეების გამოწერა
-newsletter-form-join-the-community = შემოუერთდით ერთობას
-newsletter-form-sign-up-to-receive = გამოიწერეთ, რომ გაეცნოთ ყოველთვიურად { -brand-name-firefox }-ის სიახლეებსა და ინტერნეტში მიმდინარე მისწრაფებებს, რომლებიც ზემოქმედებს თქვენს ციფრულ ცხოვრებაზე.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = თანხმობა, რომ { -brand-name-mozilla } ჩემს მონაცემებს განკარგავს <a href="{ $url }">პირადულობის დაცვის დებულების</a> შესაბამისად
@@ -24,17 +22,13 @@ newsletter-form-we-will-only-send-firefox-v2 = ჩვენ მხოლოდ {
 newsletter-form-if-you-havent-previously = თუ ჯერ არ დაგიმოწმებიათ { -brand-name-mozilla }-ს სიახლეების ცნობარი, ამის გაკეთება ახლაც შეგიძლიათ. გთხოვთ, მონახოთ ჩვენი გზავნილი მიღებული წერილების ან ჯართის საქაღალდეში.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + თქვენ
 newsletter-form-get-firefox-tips = გაეცანით { -brand-name-firefox }-სთან დაკავშირებულ რჩევებს, მითითებებს, სიახლეებს და სხვ.
-newsletter-form-get-mozilla-updates = გაეცანით { -brand-name-mozilla }-ს სიახლეებს
 newsletter-form-available-languages = ხელმისაწვდომი ენები
 newsletter-form-select-country = ქვეყნის არჩევა
 newsletter-form-sign-me-up = გამოწერა
 newsletter-form-sign-up-now = გამოწერა
 newsletter-form-thanks = გმადლობთ!
-newsletter-form-leave-this-field-empty = ამ ველის ცარიელად დატოვება.
 newsletter-form-yes = დიახ
 newsletter-form-no = არა
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = სიახლეთა ცნობარის გამოსაწერი კითხვარი
 multi-newsletter-form-checkboxes-legend = მსურს, შევიტყო:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

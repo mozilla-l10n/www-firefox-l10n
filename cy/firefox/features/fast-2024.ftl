@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/fast/
+### URL: https://www-dev.springfield.moz.works/features/fast/
 
 features-fast-firefox-keeps-getting-faster = Mae { -brand-name-firefox } yn mynd yn gynt ac yn gynt
 # HTML description
@@ -18,5 +18,5 @@ features-fast-firefox-is-powered-by-the-world = Mae { -brand-name-firefox } yn c
 features-fast-all-browsers-had-to-make = Roedd yn rhaid i bob porwr wneud gwelliannau er mwyn perfformio'n dda ar y profion Speedometer 3 newydd. Mae { -brand-name-firefox } yn arbennig wedi cymryd camau breision, <a { $link }>yn dod yn gynt o lawer</a> i'n defnyddwyr o ganlyniad uniongyrchol i'r gwaith hwn. Mae { -brand-name-firefox } yn gyflymach nag erioed o'r blaen, gyda chyflymder y gallwch ei deimlo, gan gynnwys llwytho tudalennau cyflymach a rhyngweithiadau llyfnach.
 features-fast-towards-a-faster-web = Tuag at we cyflymach
 # Variables
-#   $link (url) - link to /about/webvision/full/#performance
+#   $link (url) - link to https://www.mozilla.org/about/webvision/full/#performance
 features-fast-theres-been-an-encouraging = Mae { -brand-name-mozilla } <a { $link }>wedi ymrwymo</a> i barhau i wella ein porwr ein hunain yn ogystal â'r we gyfan. Dyna pam y gwnaethom fuddsoddi yn y cydweithrediad i ddatblygu Speedometer 3 sydd, yn ei dro, wedi gwella perfformiad pob porwr. Felly pa bynnag borwr rydych yn ei ddewis, mae { -brand-name-mozilla } am iddo fod yn gyflym.

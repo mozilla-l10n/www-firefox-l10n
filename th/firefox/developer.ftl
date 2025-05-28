@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } เร็วมาก มาพร้อมกับเครื่องมือล่าสุดสำหรับนักพัฒนาและคุณสมบัติล่าสุด เช่น การรองรับ CSS Grid และการดีบั๊กเฟรมเวิร์ค
@@ -67,33 +64,7 @@ firefox-developer-fonts-panel = แผงแบบอักษร
 firefox-developer-the-new-fonts-panel = แผงแบบอักษรใหม่ใน { -brand-name-firefox-devtools } ช่วยให้นักพัฒนาสามารถเข้าถึงข้อมูลทั้งหมดที่พวกเขาต้องการเกี่ยวกับแบบอักษรที่ใช้ในองค์ประกอบ นอกจากนี้ยังมีข้อมูลที่มีค่าเช่นแหล่งที่มาของแบบอักษร, น้ำหนัก, ลักษณะ และอื่น ๆ
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } จะส่งผลตอบรับกลับไปยัง { -brand-name-mozilla } โดยอัตโนมัติ
 firefox-developer-download-the-firefox-browser = ดาวน์โหลดเบราว์เซอร์ { -brand-name-firefox } ที่สร้างมาสำหรับนักพัฒนา
-firefox-developer-welcome-to-firefox-developer-edition = ยินดีต้อนรับสู่ { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = เบราว์เซอร์ที่สร้างขึ้นสำหรับนักพัฒนา
 firefox-developer-all-the-latest-v2 = เครื่องมือสำหรับนักพัฒนาล่าสุดทั้งหมดในรุ่นเบต้า นอกเหนือจากคุณลักษณะต่างๆ เช่น ตัวแก้ไขคอนโซลแบบหลายบรรทัด และตัวตรวจสอบ WebSocket
 firefox-developer-a-separate-profile = <strong>โปรไฟล์และเส้นทางจะแยกออกจากกัน</strong>เพื่อให้คุณสามารถเรียกใช้งานควบคู่ไปกับ { -brand-name-firefox } รุ่นเปิดตัวหรือ { -brand-name-beta } ได้อย่างง่ายดาย
 firefox-developer-preferences-tailored = การกำหนดลักษณะที่<strong>ปรับแต่งมาสำหรับนักพัฒนาเว็บ</strong>: เบราว์เซอร์และการดีบั๊กระยะไกลจะถูกเปิดใช้งานตามค่าเริ่มต้น เช่นเดียวกับชุดรูปแบบมืดและปุ่มแถบเครื่องมือนักพัฒนา
-firefox-developer-congrats-you-now-have-latest-v2 = ตอนนี้คุณกำลังใช้ { -brand-name-firefox-developer-edition } รุ่นล่าสุด
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = อ่าน<a { $attrs }>บันทึกการออกรุ่น</a> (เฉพาะภาษาอังกฤษเท่านั้น) เพื่อดูว่ามีอะไรใหม่
-firefox-developer-developer-tools-user = คู่มือผู้ใช้สำหรับเครื่องมือนักพัฒนา
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = แหล่งข้อมูลสำหรับนักพัฒนา โดยนักพัฒนา
-firefox-developer-mdn-playground = Playground
-firefox-developer-mdn-write-test-and-share = เขียน ทดสอบ และแบ่งปันโค้ดของคุณ สนามเด็กเล่นของคุณสำหรับเรียนรู้และแบ่งปันผลงานอันน่าทึ่งของคุณกับคนทั่วโลก
-firefox-developer-mdn-blog = บล็อก { -brand-name-mdn }
-firefox-developer-mdn-unlock-the-world = ปลดล็อกโลกแห่งการพัฒนาเว็บด้วยบล็อก { -brand-name-mdn } — ศูนย์กลางสำหรับข้อมูลเชิงลึกจากผู้เชี่ยวชาญ มาตรฐานเว็บล่าสุด และเคล็ดลับการเขียนโค้ด
-firefox-developer-mdn-updates = ข่าวสารล่าสุด
-firefox-developer-mdn-the-web-doesnt-have = เว็บไซต์ไม่มีบันทึกการเปลี่ยนแปลง แต่ { -brand-name-mdn } สามารถช่วยได้ คุณสามารถปรับแต่งและกรองการเปลี่ยนแปลงความเข้ากันได้ตามเบราว์เซอร์หรือหมวดหมู่เทคโนโลยีที่คุณสนใจ ไม่ว่าจะเป็น JavaScript, CSS เป็นต้น
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = เอกสารอ้างอิง { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } เป็นโครงการร่วมมือแบบโอเพนซอร์สที่จัดทำคู่มือเกี่ยวกับเทคโนโลยีแพลตฟอร์มเว็บ รวมถึง CSS, HTML, JavaScript และ Web API
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = หลักสูตร { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = คู่มือที่เป็นระบบเกี่ยวกับทักษะและแนวทางปฏิบัติที่จำเป็นสำหรับการเป็นนักพัฒนาฝั่งฟรอนต์เอนด์ที่ประสบความสำเร็จ พร้อมด้วยแหล่งข้อมูลการเรียนรู้ที่แนะนำ
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = ร่วมสนับสนุน { -brand-name-mdn } และปรับแต่งในแบบของคุณด้วยคอลเลกชัน การแจ้งเตือน และเพลย์กราวด์

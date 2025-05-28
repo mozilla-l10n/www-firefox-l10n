@@ -22,6 +22,3 @@ sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly } chuqa' { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-android } { -brand-name-nightly } chuqa' { -brand-name-beta }
 sub-navigation-ios-test-flight = { -brand-name-ios } { -brand-name-test-flight }
-sub-navigation-what-is-a-browser = ¿Achike ri jun Okik'amaya'l?
-sub-navigation-browsing-history = Runatab'al Okem pa K'amaya'l
-sub-navigation-browser-history = Runatab'al Okem pa K'amaya'l

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Αποκτήστε το { -brand-name-firefox } για την επιχείρησή σας με την έκδοση { -brand-name-esr } και την έκδοση ταχείας κυκλοφορίας.
 firefox-enterprise-get-unmatched-data-protection = Λάβετε απαράμιλλη προστασία δεδομένων στο ρυθμό κυκλοφορίας που σας ταιριάζει με το { -brand-name-firefox } για επιχειρήσεις. Λήψη της έκδοσης { -brand-name-esr } και της έκδοσης ταχείας κυκλοφορίας.
@@ -42,5 +42,5 @@ firefox-enterprise-sample-plist-for-configuration = Δείγμα <a href="{ $url
 firefox-enterprise-pkg-installer = Πρόγραμμα εγκατάστασης PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = Λήψη της έκδοσης { -brand-name-firefox-esr } ή της έκδοσης ταχείας κυκλοφορίας για<br> <a href="{ $firefox_all }">άλλη γλώσσα ή πλατφόρμα.</a>

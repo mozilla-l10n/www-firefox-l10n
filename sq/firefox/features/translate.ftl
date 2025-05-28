@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/translate/
+### URL: https://www-dev.springfield.moz.works/features/translate/
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Përktheni një faqe web me { -brand-name-firefox }
@@ -20,5 +20,5 @@ features-translate-the-languages-below-are-what-v2 = Nga veçoria e Përkthimeve
 features-translate-and-more-languages-are-in = Janë duke u zhvilluar dhe më tepër gjuhë!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox }-i flet gjuhën tuaj
 # Variables:
-#   $download (url) = link to https://www.mozilla.org/firefox/new/
+#   $download (url) = link to https://www.firefox.com/download/
 features-translate-the-firefox-translations-feature-v2 = Veçoria e Përkthimi në { -brand-name-firefox-translations } është një tjetër mënyrë me të cilën { -brand-name-mozilla } e mban internetin tuaj të personalizuar dhe më privat. { -brand-name-mozilla } nuk ndjek cilat faqe përktheni. Me miliona përdorues anembanë botës, { -brand-name-mozilla } dëshiron të bëjë të mundur që ata që përdorin { -brand-name-firefox }-in, të jenë duke mësuar, komunikuar, ndarë me të tjerët dhe të jenë të informuar sipas kushteve zgjedhur prej tyre. <a { $download }>Fillojani në gjuhën tuaj të parapëlqyer, duke shkarkuar { -brand-name-firefox }-in.</a>

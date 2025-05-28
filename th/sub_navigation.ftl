@@ -23,6 +23,3 @@ sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly } และ { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-android } { -brand-name-nightly } และ { -brand-name-beta }
 sub-navigation-ios-test-flight = { -brand-name-ios } { -brand-name-test-flight }
-sub-navigation-what-is-a-browser = เบราว์เซอร์คืออะไร?
-sub-navigation-browsing-history = ประวัติการเรียกดู
-sub-navigation-browser-history = ประวัติเบราว์เซอร์

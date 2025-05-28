@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/404/
+### URL: https://www-dev.springfield.moz.works/404/
 
 not-found-page-not-found-page-page-not-found = 404: Hindi Makita ang Pahina
 not-found-page-sorry-we-cant-find-that-page = Paumanhin, di po namin makita ang pahinang yan
@@ -13,5 +13,5 @@ not-found-page-go-back = Bumalik
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Matuto pa</a> tungkol sa { -brand-name-mozilla }, ang non-for-profit na nasa likod ng { -brand-name-firefox }.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/new/
+#   $download (url) - link to https://www.mozilla.org/firefox/download/
 not-found-page-download-the-firefox-browser = <a href={ $download }>I-download</a> ang { -brand-name-firefox } browser para sa mobile device o sa desktop mo

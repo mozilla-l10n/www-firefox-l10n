@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = Hol no nattirtaa yiyde ɓaŋŋine ɓurtuɗe etee kaɗaa gollorɗe woosaade e maa e enternet oo. Ɗowirde daaƴgol ɓaŋŋine ummoraade e wanngorde geese { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Daaƴoowo ɓaŋŋine oo – kaɓirgal cuuɗingal feewde e ɓaŋŋine cekniide.

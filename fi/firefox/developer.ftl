@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } on loistavan nopea selain, joka tarjoaa huippuluokan kehittäjätyökaluja ja uusimpia ominaisuuksia, kuten CSS Grid -tuen ja sovelluskehyksen virheenkorjauksen
@@ -67,15 +64,6 @@ firefox-developer-fonts-panel = Fonttipaneeli
 firefox-developer-the-new-fonts-panel = Uusi fonttipaneeli { -brand-name-firefox-devtools }issa antaa kehittäjille nopean pääsyn kaikkiin elementissä käytettäviin kirjasimiin liittyviin tietoihin. Se sisältää myös arvokasta tietoa, kuten fontin lähteen, painon, tyylin ja paljon muuta.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } lähettää palautetta { -brand-name-mozilla }lle automaattisesti.
 firefox-developer-download-the-firefox-browser = Lataa kehittäjille suunnattu { -brand-name-firefox }-selain
-firefox-developer-welcome-to-firefox-developer-edition = Tervetuloa { -brand-name-firefox-developer-edition }iin
 firefox-developer-made-for-developers = Kehittäjille tehty selain
 firefox-developer-a-separate-profile = <strong>Erillinen profiili ja polku</strong>, jotta voit käyttää sitä { -brand-name-firefox }in julkaisu- tai { -brand-name-beta }-version rinnalla.
 firefox-developer-preferences-tailored = Asetukset <strong>räätälöitynä verkkokehittäjille</strong>: Selain ja etävirheenkorjaus ovat oletuksena käytössä, samoin kuin tumma teema ja kehittäjän työkalupalkin painike.
-firefox-developer-congrats-you-now-have-latest-v2 = Sinulla on nyt { -brand-name-firefox-developer-edition }in uusin versio.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Katso <a { $attrs }>julkaisutiedot</a> (vain englanniksi) nähdäksesi uutuudet.
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Resursseja kehittäjille - kehittäjiltä
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }

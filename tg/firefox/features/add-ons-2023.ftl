@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/add-ons/
+### URL: https://www-dev.springfield.moz.works/features/add-ons/
 
 features-add-ons-firefox-add-ons = Ҷузъҳои иловагии «{ -brand-name-firefox }»
 features-add-ons-firefox-add-ons-and-browser-extensions = Ҷузъҳои иловагӣ ва васеъшавиҳои браузери «{ -brand-name-firefox }»
@@ -12,6 +12,6 @@ features-add-ons-extensions-also-known-as-add-ons = Васеъшавиҳо — �
 #   $fbcontainer (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 #   $translate (url) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
 #   $language (url) - link to https://addons.mozilla.org/firefox/addon/languagetool/
-#   $customize (url) - link to https://www.mozilla.org/firefox/features/customize/
+#   $customize (url) - link to https://www.firefox.com/features/customize/
 #   $amo (url) - link to https://addons.mozilla.org
 features-add-ons-there-are-firefox-add-ons-that = Ҷузъҳои иловагии «{ -brand-name-firefox }» мавҷуданд, ки метавонанд <a { $fbcontainer }>фаъолияти пайгирии «Facebook»-ро дар Интернет қатъ кунанд</a>, <a { $translate }>матнро ба забонҳои дигар тарҷума намоянд</a>, <a { $language }>имло ё грамматикаро тафтиш кунанд</a>, ё <a { $customize }>намуди зоҳирии браузери шуморо зеботар гардонанд</a>. Шумо метавонед ин васеъшавиҳо ва ҳазорон ҷузъи иловагии ройгони дигарро дар сомонаи <a { $amo }>addons.mozilla.org</a> пайдо намоед.

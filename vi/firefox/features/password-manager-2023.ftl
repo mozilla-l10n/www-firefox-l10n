@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/password-manager
+### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
 password-manager-free-password-manager = Trình quản lý mật khẩu miễn phí
@@ -11,7 +11,7 @@ password-manager-free-password-manager = Trình quản lý mật khẩu miễn p
 password-manager-firefox-password-manager-saves-all = Trình quản lý mật khẩu { -brand-name-firefox } lưu tất cả các mật khẩu của bạn tại một chỗ do đó bạn có thể tự động đăng nhập vào các trang web, hoặc lấy ra các mật khẩu đã lưu.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } lưu trữ an toàn tên người dùng và mật khẩu của bạn để truy cập trang web, tự động điền chúng cho bạn vào lần tiếp theo bạn truy cập trang web và cho phép bạn quản lý thông tin đăng nhập được lưu trữ của mình bằng tính năng quản lý mật khẩu tích hợp.
 # Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+#   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Với một <a { $fxa }>{ -brand-name-mozilla-account } miễn phí</a> bạn có thể đồng bộ hóa mật khẩu một cách an toàn trên tất cả các thiết bị của mình. Bạn cũng có thể truy cập tất cả các sản phẩm tôn trọng quyền riêng tư khác của { -brand-name-mozilla }.
 password-manager-password-autofill-for-easy-logins = Tự động điền mật khẩu để đăng nhập dễ dàng
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } có thể tự động điền tên người dùng và mật khẩu đã lưu của bạn. Nếu bạn có nhiều thông tin đăng nhập cho một trang web, bạn chỉ cần chọn tài khoản bạn muốn và chúng tôi sẽ lấy tài khoản đó từ đó.

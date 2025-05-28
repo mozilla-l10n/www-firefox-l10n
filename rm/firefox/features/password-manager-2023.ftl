@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/password-manager
+### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
 password-manager-free-password-manager = Administraziun da pleds-clav gratuita
@@ -11,7 +11,7 @@ password-manager-free-password-manager = Administraziun da pleds-clav gratuita
 password-manager-firefox-password-manager-saves-all = L'administraziun da pleds-clav da { -brand-name-firefox } memorisescha tut tes pleds-clav en in lieu, uschia che ti pos t'annunziar automaticamain sin paginas u simplamain consultar tes pleds-clav memorisads.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } memorisescha a moda segira tes nums d'utilisader e pleds-clav per acceder a websites, emplenescha automaticamain las das datas d'annunzia la proxima giada che ti visitas ina website e ta pussibilitescha dad administrar tias datas d'annunzia memorisadas cun la funcziun integrada per l'administraziun da pleds-clav.
 # Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+#   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Cun in <a { $fxa }>{ -brand-name-mozilla-account } gratuit</a> pos ti sincronisar a moda segira tes pleds-clav sin tut tes apparats. En pli pos ti acceder a tut tschels products da { -brand-name-mozilla } che respectan tuts tia sfera privata.
 password-manager-password-autofill-for-easy-logins = Endataziun automatica da pleds-clav per s'annunziar pli svelt
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } po endatar automaticamain tes num d'utilisader e pled-clav memorisà. Sche ti has pliras datas d'annunzia per ina website, pos ti simplamain tscherner il conto che ti vuls e nus cuntinuain cun quel.

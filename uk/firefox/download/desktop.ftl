@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Доступний ще новіший { -brand-name-firefox }. <a { $update_url }>Оновіться до найновішої версії</a>
 firefox-desktop-download-get-the-browser = Отримайте браузер, який захищає все важливе
 firefox-desktop-download-fast-reliable-private = Швидкий, надійний і приватний — для спокійного користування інтернетом.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-no-shady = Жодних прихованих політик приватності чи потаємних лазів для рекламодавців. Просто блискавичний браузер, який не продає вас.
 firefox-desktop-download-download-options = Параметри завантаження та інші мови
 firefox-desktop-download-browser-support = Підтримка { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Робіть в Інтернеті що завгодно.<br> { -brand-name-firefox-browser } <strong>захищає</strong> вас.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = Робіть в Інтернеті що завгодно.<br> { -brand-name-firefox-browser } <strong>не</strong> стежить.
 firefox-desktop-download-we-block-the-ad = Ми блокуємо елементи стеження оголошень. Ви швидше переглядаєте в Інтернеті.
 firefox-desktop-download-ads-are-distracting = Оголошення відвертають увагу та сповільнюють завантаження вебсторінок, а їхні елементи стеження слідкують за кожним вашим кроком в Інтернеті. { -brand-name-firefox-browser } блокує більшість елементів стеження автоматично, тому не потрібно заглиблюватися в налаштування безпеки.
@@ -116,9 +116,9 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ство�
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Зі зростанням та змінами інтернету, { -brand-name-firefox } продовжує зосереджуватися на вашій приватності — це завжди було нашим пріоритетом. Дізнайтеся більше про наші методи обробки даних у нашому <a { $attrs }>Положенні про приватність</a>.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = Разом зі зростанням та зміною Інтернету, { -brand-name-firefox } продовжує зосереджуватись на вашому праві на приватність  — ми називаємо це <a { $attrs }>Зобов'язанням щодо персональних даних</a>: Отримуємо менше. Зберігаємо безпечно. Жодних секретів. Ваші дані, ваші дії в Мережі, ваше життя в Інтернеті захищено { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
@@ -133,7 +133,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } авт�
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Маєте питання? <a { $attrs }>Підтримка { -brand-name-mozilla }</a> має для вас відповіді.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Майже готово!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -155,11 +155,11 @@ firefox-desktop-download-if-you-see-a-prompt = Якщо ви бачите під
 firefox-desktop-download-visit-support-for-more = Відвідайте службу підтримки, щоб отримати подробиці
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = Завантаження розпочнеться автоматично. Не почалося? <a id="{ $id }" href="{ $fallback_url }">Спробуйте ще раз.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } - це більше, ніж браузер.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Завантаження було перервано. Але нічого не втрачено.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Ваша система може не задовольняти вимог для { -brand-name-firefox }, але ви можете спробувати одну з <a href="{ $url }">цих версій</a>.

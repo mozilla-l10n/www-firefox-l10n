@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = Historija pretraživača: Epske borbe za moć koje su nam donijele moderne pretraživače
 browser-history-the-browser-wars-underdogs-giants = Ratovi pretraživača, autsajderi protiv divova i trenuci koji su promijenili svijet. Pročitajte o historiji web pretraživača.
@@ -51,4 +51,3 @@ browser-history-in-the-future-the = U budućnosti će se web vjerovatno udaljiti
 browser-history-in-the-future-the-v2 = U budućnosti će se web vjerovatno udaljiti dalje od svojih hipertekstualnih korijena i postati ogromno more interaktivnih iskustava. Virtuelna stvarnost je na horizontu decenijama (barem od objavljivanja Lawnmower Man-a 1992. i Nintendo Virtual Boy-a 1995.), ali internet bi je konačno mogao donijeti masama. { -brand-name-firefox } sada ima podršku za WebVR i A-Frame, koji programerima omogućavaju da brzo i jednostavno grade web stranice virtuelne stvarnosti. Većina modernih mobilnih uređaja podržava WebVR i lahko se mogu koristiti kao slušalice sa jednostavnim kartonskim kućištima. Mreža 3D virtuelne stvarnosti kakvu je zamislio pisac naučne fantastike Neal Stephenson možda je iza ugla. Ako je to slučaj, sam web pretraživač bi mogao potpuno nestati i postati pravi prozor u drugi svijet.
 browser-history-whatever-the-future = Bez obzira na budućnost weba, { -brand-name-mozilla } i { -brand-name-firefox } će biti tu za korisnike, osiguravajući da imaju moćne alate za iskustvo weba i sve što on može ponuditi. Web je za svakoga i svako bi trebao imati kontrolu nad svojim online iskustvom. Zato dajemo { -brand-name-firefox } alate za zaštitu privatnosti korisnika i nikada ne prodajemo korisničke podatke oglašivačima.
 browser-history-resources = Resursi
-browser-history-take-control-of = Preuzmite kontrolu nad vašim pretraživačem.

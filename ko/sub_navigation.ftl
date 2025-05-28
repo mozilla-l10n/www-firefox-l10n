@@ -24,6 +24,3 @@ sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly }와 { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-android } { -brand-name-nightly }와 { -brand-name-beta }
 sub-navigation-ios-test-flight = { -brand-name-ios } { -brand-name-test-flight }
-sub-navigation-what-is-a-browser = 브라우저란 무엇인가요?
-sub-navigation-browsing-history = 방문 기록
-sub-navigation-browser-history = 브라우저의 역사

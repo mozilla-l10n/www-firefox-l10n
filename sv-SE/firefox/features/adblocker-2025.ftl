@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Annonsblockering
@@ -15,7 +15,7 @@ features-adblocker-the-ad-blocker-a-tool = Annonsblockeraren – ett verktyg fö
 features-adblocker-in-todays-digital-world = I dagens digitala värld kan webben vara full och rörig. Annonsblockerare är kraftfulla verktyg som ger dig kontroll över din webbupplevelse och låter dig bestämma vad som ska visas på din skärm.
 features-adblocker-ad-blockers-work = Annonsblockerare fungerar på två viktiga sätt: genom att förhindra innehåll, som annonser, från att laddas och genom att blockera delar av webbplatser som är värd för dessa element. Detta kan inkludera videoannonser, anpassade annonser som följer dig på webben och till och med spårare från tredje part.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = Det är enkelt att använda en annonsblockerare. Många pålitliga alternativ är tillgängliga som webbläsartillägg, vilket gör det enkelt att hitta en lösning som fungerar för dina behov. Till exempel erbjuder <a href="{ $firefox }">{ -brand-name-firefox }</a> <a href="{ $addons }">en lista över godkända tillägg</a> som är utformade för att förbättra din webbupplevelse samtidigt som de respekterar din integritet.
 features-adblocker-finding-the-right = Hitta rätt annonsblockerare för dig
@@ -36,5 +36,5 @@ features-adblocker-to-adjust = För att justera dessa inställningar, klicka på
 features-adblocker-why-use = Varför använda en annonsblockerare?
 features-adblocker-ad-blockers-do-more = Annonsblockerare gör mer än att hantera annonser – de kan förbättra din surfhastighet och säkerhet genom att minska onödigt innehåll. De ger dig möjlighet att skapa en skräddarsydd, distraktionsfri webbupplevelse, så att du kan fokusera på det som är viktigast.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/download/
 features-adblocker-explore-hundreds = Utforska hundratals integritetsfokuserade tillägg tillgängliga för { -brand-name-firefox } och hitta rätt verktyg för dig. <a href="{ $url }">Ladda ned { -brand-name-firefox }</a> idag för att uppleva en webbläsare som är designad med din integritet och prestanda i åtanke.

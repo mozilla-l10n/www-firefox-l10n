@@ -3,11 +3,11 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/404/
+### URL: https://www-dev.springfield.moz.works/404/
 
 not-found-page-not-found-page-page-not-found = 404: పేజీ కనబడలేదు
 not-found-page-sorry-we-cant-find-that-page = క్షమించండి, ఆ పేజీని కనుగొనలేకపోయాం
 not-found-page-go-back = వెనుకకు వెళ్ళు
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/new/
+#   $download (url) - link to https://www.mozilla.org/firefox/download/
 not-found-page-download-the-firefox-browser = { -brand-name-firefox } విహారిణిని మీ మొబైలు లేదా డెస్క్‌టాప్ కొరకు <a href={ $download }>దించుకోండి</a>

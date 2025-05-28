@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Преузмите { -brand-name-firefox } за ваше предузеће уа { -brand-name-esr } и Rapid Release
 firefox-enterprise-get-unmatched-data-protection = Преузмите { -brand-name-firefox } за предузећа за побољшану заштиту података кроз кораке преузимања које вам одговарају. Преузмите { -brand-name-esr } и Rapid Release.
@@ -42,5 +42,5 @@ firefox-enterprise-sample-plist-for-configuration = Пример <a href="{ $url
 firefox-enterprise-pkg-installer = PKG инсталација
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-битни
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = Преузмите { -brand-name-firefox-esr } или Rapid Release за<br> <a href="{ $firefox_all }">други језик или платформу.</a>

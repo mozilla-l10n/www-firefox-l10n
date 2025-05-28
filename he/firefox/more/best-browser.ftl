@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-privacy-speed-and-security = פרטיות, מהירות ואבטחה.
 best-browser-how-to-choose-the-best = כיצד לבחור את הדפדפן הטוב ביותר עבורך.

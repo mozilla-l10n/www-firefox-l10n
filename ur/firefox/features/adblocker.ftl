@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-the-ad-blocker-a-secret = اشتہار  بلاکر - پریشان کن اشتہاروں کے خلاف ایک خفیہ ہتھیار۔
 features-adblocker-so-many-ads-so-little = بہت سارے اشتہار ، بہت کم صبر… جنون کو روکنے کا وقت آگیا ہے۔

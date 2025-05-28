@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Blokovanie reklám
@@ -15,7 +15,7 @@ features-adblocker-the-ad-blocker-a-tool = Blokovanie reklám – nástroj na pr
 features-adblocker-in-todays-digital-world = V dnešnom digitálnom svete môže byť web zaneprázdnený a neprehľadný. Blokovače reklám sú výkonné nástroje, ktoré vám umožňujú ovládať prehliadanie a umožňujú vám rozhodnúť sa, čo sa zobrazí na obrazovke.
 features-adblocker-ad-blockers-work = Blokovače reklám fungujú dvoma kľúčovými spôsobmi: bránia načítaniu obsahu, ako sú reklamy, a blokovaním častí webových stránok, ktoré tieto prvky hosťujú. Môže to zahŕňať videoreklamy, prispôsobené reklamy, ktoré vás sledujú na webe, a dokonca aj sledovacie prvky tretích strán.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = Používanie blokovačov reklám je jednoduché. Mnohé dôveryhodné možnosti sú k dispozícii ako doplnky prehliadača, vďaka čomu je ľahké nájsť riešenie, ktoré vyhovuje vašim potrebám. Napríklad <a href="{ $firefox }">{ -brand-name-firefox }</a> ponúka <a href="{ $addons }">zoznam schválených rozšírení</a> navrhnutých tak, aby zlepšili vaše prehliadanie a zároveň rešpektovali vaše súkromie.
 features-adblocker-finding-the-right = Nájdite pre vás ten správny blokovač reklám
@@ -36,5 +36,5 @@ features-adblocker-to-adjust = Ak chcete upraviť tieto nastavenia, kliknite na 
 features-adblocker-why-use = Prečo používať blokovač reklám?
 features-adblocker-ad-blockers-do-more = Blokátory reklám dokážu viac než len spravovať reklamy – môžu zvýšiť rýchlosť a bezpečnosť vášho prehliadania znížením zbytočného obsahu. Umožňujú vám vytvoriť si prispôsobený webový zážitok bez rozptyľovania, ktorý vám umožní sústrediť sa na to, na čom najviac záleží.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/download/
 features-adblocker-explore-hundreds = Preskúmajte stovky doplnkov zameraných na ochranu osobných údajov dostupných pre { -brand-name-firefox } a nájdite tie správne nástroje pre vás. <a href="{ $url }">Stiahnite si { -brand-name-firefox }</a> ešte dnes a vyskúšajte prehliadač navrhnutý s ohľadom na vaše súkromie a výkon.

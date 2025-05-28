@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/password-manager
+### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
 password-manager-free-password-manager = 免费的密码管理器
@@ -11,7 +11,7 @@ password-manager-free-password-manager = 免费的密码管理器
 password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } 的密码管理器可助您将密码集中保存，方便自动登录网站及检索已保存的密码。
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } 可以安全地存储您的用户名和密码，待您下次访问网站时自动填写。您可以通过内置的密码管理功能来管理存储的登录信息。
 # Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+#   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = 借助<a { $fxa }>免费的 { -brand-name-mozilla-account }</a>，您可以在所有设备间安全地同步密码，还可以使用 { -brand-name-mozilla } 其余全部尊重隐私的产品。
 password-manager-password-autofill-for-easy-logins = 自动填写密码，让登录更轻松
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } 可以自动填写您保存的用户名和密码。如果您在一个网站上有多条登录信息，那么只需选择您想要使用的账户，即可填写对应账户的登录信息。

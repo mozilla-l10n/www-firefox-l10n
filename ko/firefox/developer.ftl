@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition }은 최첨단 개발자 도구와 CSS Grid 지원 및 프레임 워크 디버깅과 같은 최신 기능을 제공하는 초고속 브라우저입니다.
@@ -67,33 +64,7 @@ firefox-developer-fonts-panel = 글꼴 패널
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools }의 새 글꼴 패널은 한 요소에 어떤 글꼴이 사용되었는지에 관한 정보에 빠르게 접근할 수 있게 해줍니다. 이 도구는 글꼴 출처, 굵기, 스타일 등 여러 정보를 같이 제공합니다.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition }은 자동적으로 { -brand-name-mozilla }에 사용 의견을 전송합니다.
 firefox-developer-download-the-firefox-browser = 개발자를 위한 { -brand-name-firefox } 브라우저 다운로드
-firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-developer-edition }에 오신 것을 환영합니다
 firefox-developer-made-for-developers = 개발자를 위한 브라우저
 firefox-developer-all-the-latest-v2 = 베타 버전에서는 최신 개발자 도구를 제공하며 멀티 라인 콘솔 편집기, 웹소켓 인스펙터 등의 기능도 갖추고 있습니다.
 firefox-developer-a-separate-profile = <strong>별도의 프로필과 경로를 사용해</strong> 정식 배포 버전 또는 { -brand-name-beta }{ -brand-name-firefox }와 함께 쉽게 실행할 수 있습니다.
 firefox-developer-preferences-tailored = <strong>웹 개발자를 위한 맞춤</strong> 환경 설정: 브라우저와 원격 디버깅이 기본적으로 활성화되어 있으며, 어두운 테마와 개발자 도구 모음 버튼도 있습니다.
-firefox-developer-congrats-you-now-have-latest-v2 = 이제 { -brand-name-firefox-developer-edition } 최신 버전을 사용하고 있습니다.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = 새로운 기능을 살펴보려면 <a { $attrs }>출시 정보</a>(영문)를 확인하세요.
-firefox-developer-developer-tools-user = 개발자 도구 사용자 문서
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = 개발자에 의한, 개발자를 위한 리소스
-firefox-developer-mdn-playground = 플레이그라운드
-firefox-developer-mdn-write-test-and-share = 코드를 작성하고 테스트하고 공유해 보세요. 이곳은 여러분의 놀라운 작품을 전 세계 사람들과 공유할 수 있는 놀이터입니다.
-firefox-developer-mdn-blog = { -brand-name-mdn } 블로그
-firefox-developer-mdn-unlock-the-world = { -brand-name-mdn } 블로그와 함께 웹 개발의 세계를 열어보세요 — 전문적인 통찰력, 최신 웹 표준 및 코딩 팁을 확인할 수 있는 허브입니다.
-firefox-developer-mdn-updates = 업데이트
-firefox-developer-mdn-the-web-doesnt-have = 웹에는 변경 로그가 없지만 { -brand-name-mdn }이 도움이 될 수 있습니다. JavaScript, CSS 등 관심 있는 기술 카테고리에 따라 웹 브라우저 호환성 변경 사항을 맞춤형으로 필터링 할 수 있습니다.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn } 참조
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn }은 CSS와 HTML, JavaScript, web API 등의 웹 플랫폼 기술을 문서화하는 오픈 소스 협업 프로젝트입니다.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } 교육 과정
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = 성공적인 프론트엔드 개발자가 되기 위한 필수 기술과 실습에 대한 구조화된 가이드와 권장 학습 리소스입니다.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = { -brand-name-mdn }을 지원하고 콜렉션과 알림, 플레이그라운드를 통해 나만의 것으로 만드세요.

@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } është një shfletues i shpejtë si rrufe që ofron mjete zhvilluesish të fjalës së fundit dhe veçoritë më të reja, të tilla mbulim për Rrjetë CSS dhe diagnostikim platformash
@@ -67,31 +64,7 @@ firefox-developer-fonts-panel = Panel Shkronjash
 firefox-developer-the-new-fonts-panel = Paneli i ri i shkronjave te { -brand-name-firefox-devtools } në Firefox u jep zhvilluesve hyrje të shpejtë në krejt të dhënat që ata kanë nevojë mbi shkronjat e përdorura në një element. Në të përfshihen edhe të dhëna të dobishme të tilla si burimi, madhësia, stili i shkronjave, etj .
 firefox-developer-firefox-developer-edition-sends = Versioni { -brand-name-firefox-developer-edition } dërgon vetvetiu të dhëna te { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Shkarkoni shfletuesin { -brand-name-firefox } të krijuar për zhvillues
-firefox-developer-welcome-to-firefox-developer-edition = Mirë se vini te { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Shfletuesi i ndërtuar për zhvilluesit
 firefox-developer-all-the-latest-v2 = Krejt mjetet më të reja të zhvillimit në beta, plus veçori si Multi-line Console Editor dhe WebSocket Inspector.
 firefox-developer-a-separate-profile = Një <strong>profil dhe shteg më vete</strong>, që të mund ta xhironi kollaj me version të hedhur në qarkullim ose { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Parapëlqime <strong>të qepura për zhvillues web</strong>: Diagnostikim shfletuesi dhe së largëti janë të aktivizuara si parazgjedhje, siç është edhe tema e errët dhe butoni i panelit të zhvilluesit.
-firefox-developer-congrats-you-now-have-latest-v2 = Tani keni versionin më të ri të { -brand-name-firefox-developer-edition }.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Për të parë çka të re, shihni <a { $attrs }>shënime hedhjeje në qarkullim</a> (vetëm në anglisht).
-firefox-developer-developer-tools-user = Dokumentime për Përdorues Mjetesh Zhvilluesi
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Burime nga Zhvillues, për Zhvillues
-firefox-developer-mdn-playground = Laborator
-firefox-developer-mdn-write-test-and-share = Shkruani, testoni dhe ndan me të tjerë kodin tuaj. Bankëprova juaj për të mësuar dhe ndarë me botën punën tuaj mahnitëse.
-firefox-developer-mdn-blog = Blogu i { -brand-name-mdn }
-firefox-developer-mdn-updates = Përditësime
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = Referenca { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } është një projekt me burim të hapët, që zhvillohet përmes bashkëpunimi, për dokumentim teknologjish platformash web, përfshi CSS, HTML, JavaScript dhe API web.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = Curriculum { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Një udhërrëfyes i strukturuar rreth aftësish thelbësore dhe praktikash për të filluar të jeni një zhvillues i suksesshëm <em>front-end</em>, tok me burime të rekomanduara të nxëni.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Përkrahni { -brand-name-mdn } dhe bëjeni si e doni, me koleksione, njoftime dhe bankëprova eksperimentesh.

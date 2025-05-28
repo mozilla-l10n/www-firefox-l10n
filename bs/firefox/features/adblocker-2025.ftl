@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Blokiranje oglasa
@@ -15,7 +15,7 @@ features-adblocker-the-ad-blocker-a-tool = Blokator oglasa – alat za personali
 features-adblocker-in-todays-digital-world = U današnjem digitalnom svijetu, web može biti zauzet i pretrpan. Blokatori oglasa su moćni alati koji vam daju kontrolu nad vašim iskustvom pregledavanja, omogućavajući vam da odlučite šta će se pojaviti na vašem ekranu.
 features-adblocker-ad-blockers-work = Blokatori oglasa djeluju na dva ključna načina: sprječavanjem učitavanja sadržaja, poput oglasa, i blokiranjem dijelova web stranica na kojima se ti elementi nalaze. To može uključivati video oglase, personalizirane oglase koji vas prate na cijelom webu, pa čak i praćenje trećih strana.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = Korištenje blokatora oglasa je jednostavno. Mnoge pouzdane opcije dostupne su kao dodaci pretraživača, što olakšava pronalaženje rješenja koje odgovara vašim potrebama. Na primjer, <a href="{ $firefox }">{ -brand-name-firefox }</a> nudi <a href="{ $addons }">listu odobrenih ekstenzija</a> dizajniranih da poboljšaju vaše iskustvo pregledavanja uz poštovanje vaše privatnosti.
 features-adblocker-finding-the-right = Pronalaženje pravog blokatora oglasa za vas
@@ -36,5 +36,5 @@ features-adblocker-to-adjust = Da biste prilagodili ove postavke, kliknite na ik
 features-adblocker-why-use = Zašto koristiti blokator oglasa?
 features-adblocker-ad-blockers-do-more = Blokatori oglasa ne samo da upravljaju oglasima – oni mogu poboljšati brzinu i sigurnost vašeg pregledavanja smanjujući nepotreban sadržaj. Oni vas osnažuju da kreirate prilagođeno web iskustvo bez ometanja, omogućavajući vam da se fokusirate na ono što je najvažnije.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/download/
 features-adblocker-explore-hundreds = Istražite stotine dodataka fokusiranih na privatnost dostupnih za { -brand-name-firefox } i pronađite prave alate za vas. <a href="{ $url }">Preuzmite { -brand-name-firefox }</a> danas da iskusite preglednik dizajniran s obzirom na vašu privatnost i performanse.

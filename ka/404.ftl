@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/404/
+### URL: https://www-dev.springfield.moz.works/404/
 
 not-found-page-not-found-page-page-not-found = 404: გვერდი ვერ  მოიძებნა
 not-found-page-sorry-we-cant-find-that-page = სამწუხაროდ, მოთხოვნილი გვერდი ვერ მოიძებნა
@@ -13,7 +13,7 @@ not-found-page-go-back = უკან დაბრუნება
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">გაიცანით</a> უკეთ { -brand-name-mozilla }, არამომგებიანი დაწესებულება, რომლის ქმნილებაცაა { -brand-name-firefox }.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/new/
+#   $download (url) - link to https://www.mozilla.org/firefox/download/
 not-found-page-download-the-firefox-browser = <a href={ $download }>ჩამოტვირთეთ</a> { -brand-name-firefox }-ბრაუზერი მობილურ მოწყობილობაზე ან კომპიუტერზე
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404

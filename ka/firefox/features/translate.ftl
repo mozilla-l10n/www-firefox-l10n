@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/translate/
+### URL: https://www-dev.springfield.moz.works/features/translate/
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = თარგმნეთ ვებგვერდი { -brand-name-firefox }-ით
@@ -20,5 +20,5 @@ features-translate-the-languages-below-are-what-v2 = ქვემოთ მო�
 features-translate-and-more-languages-are-in = და კიდევ მეტი ენა დამუშავების სტადია!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } ფლობს თქვენს ენას
 # Variables:
-#   $download (url) = link to https://www.mozilla.org/firefox/new/
+#   $download (url) = link to https://www.firefox.com/download/
 features-translate-the-firefox-translations-feature-v2 = { -brand-name-firefox-translations } კიდევ ერთი საშუალებაა, რომლითაც { -brand-name-mozilla } გეხმარებათ, უფრო მეტად მოირგოთ ვებსივრცე თანაც ისე, რომ შეინარჩუნოთ პირადულობა. { -brand-name-mozilla } არ ადევნებს თვალს, რომელ ვებგვერდებს თარგმნით. { -brand-name-mozilla } თავის მილიონობით მომხმარებელთან ერთად მსოფლიო მასშტაბით ცდილობს უზრუნველყოს, რომ მათ, ვისაც ადგება { -brand-name-firefox } სწავლაში, ურთიერთობაში, მონაცემთა გაზიარებაში, კარგად ესმოდეთ საკუთარი უფლებები. <a { $download }>სასურველ ენაზე მოხმარების დასაწყებად ჩამოტვირთეთ { -brand-name-firefox }.</a>

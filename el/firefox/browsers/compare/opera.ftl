@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
+### URL: https://www-dev.springfield.moz.works/browsers/opera/
 
 # Page title
 compare-opera-firefox-vs-opera = { -brand-name-firefox } εναντίον Opera
 # HTML page description
 compare-opera-read-our-comparison = Διαβάστε τη σύγκριση του { -brand-name-firefox } με το Opera, όσον αφορά τις λειτουργίες, το απόρρητο και την ευκολία χρήσης.
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
 compare-opera-firefoxs-default-privacy-settings = Οι προεπιλεγμένες ρυθμίσεις απορρήτου του { -brand-name-firefox } είναι ισχυρότερες από αυτές του Opera και διαθέτουμε περισσότερες λειτουργίες για να εμποδίσουμε την καταγραφή σας από ιστοτόπους, όπως ο <a { $fingerprint }>αποκλεισμός fingerprinting</a>.
 compare-opera-firefox-offers-a-wide-range-of = Το { -brand-name-firefox } προσφέρει ένα ευρύ φάσμα επιλογών προσαρμογής, όπως η δυνατότητα μετακίνησης των μενού και των γραμμών εργαλείων σε διαφορετικές τοποθεσίες του παραθύρου του προγράμματος περιήγησης. Το περιβάλλον χρήστη του Opera είναι λιγότερο προσαρμόσιμο.
 # Variables:

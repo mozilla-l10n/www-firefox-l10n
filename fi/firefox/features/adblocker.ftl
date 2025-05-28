@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = Estä liiallisten mainosten näkeminen ja estä yrityksiä seuraamasta verkossa. Mainosteneston opas { -brand-name-firefox }-selaimelle.
 features-adblocker-the-ad-blocker-a-secret = Mainostenesto - salainen ase ärsyttäviä mainoksia vastaan.
@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Niin paljon mainoksia, niin lyhyt pin
 features-adblocker-the-average-person-sees = Keskimääräinen henkilö näkee noin 4000 mainosta päivässä. Jos arvelet sen olevan liikaa, mainosten estäjä on uusi paras ystäväsi.
 features-adblocker-an-ad-blocker-is-a-piece = Mainosten estolla voidaan estää mainoksia, ja se toimii kahdella tavalla. Ensiksi mainosten esto estää signaalin mainostajan palvelimelta, jolloin mainos ei koskaan näy sivulla. Toiseksi mainosten esto piilottaa sellaisia verkkosivuston osia, joita se arvelee mainoksiksi.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Nämä mainokset voivat olla äänekäitä videomainoksia, mainoksia, jotka seuraavat sinua verkossa, seuraimia, kolmansien osapuolten evästeitä tai muita vastaavia. Voit käyttää mainosten estäjää etsimällä selaimessa käytettävissä olevia mainosten eston lisäosia. Esimerkiksi <a href="{ $firefox }">{ -brand-name-firefox }illa</a> on <a href="{ $addons }">tämä hyväksi katsottujen lisäosien luettelo</a>. Napsauta tätä luetteloa (tai selaimesi suosittelemia mainosten estäjiä) ja harkitse, mikä sopii tarpeisiisi.
 features-adblocker-find-the-right-ad-blocker = Löydä sinulle sopivin mainosten estäjä
@@ -23,7 +23,7 @@ features-adblocker-on-firefox-you-can-use = { -brand-name-firefox }issa voit kä
 features-adblocker-choose-your-level-of-protection = Valitse suojaustasosi
 features-adblocker-go-easy-with-standard = Tyydy Tavalliseen
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
 features-adblocker-if-ads-dont-bother-you = Jos mainokset eivät häiritse sinua ja et ajattele, että seuraimet ja kolmansien osapuolien evästeet seuraavat sinua liikaa, normaaliasetusten pitäisi riittää. Voit karistaa seuraimet kannoiltasi <a href="{ $url }">Yksityisessä ikkunassa</a>.
 features-adblocker-get-tough-with-strict = Ole kovanamma Tiukan tilan avulla
 features-adblocker-if-seeing-too-many-ads = Jos liian runsas mainosten näkeminen pilaa päiväsi, Tiukka-tila sopii paremmin. Tämä tila estää tunnettujen kolmansien osapuolien jäljittäjät ja evästeet kaikissa { -brand-name-firefox }-ikkunoissa.

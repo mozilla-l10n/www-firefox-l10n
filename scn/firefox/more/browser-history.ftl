@@ -3,9 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-the-browser-wars = I guerri dî navicatura
 browser-history-browsing-the-web = Navicari nnâ riti oji
 browser-history-resources = Risursi
-browser-history-take-control-of = Pigghia u cuntrollu dû to navicaturi.

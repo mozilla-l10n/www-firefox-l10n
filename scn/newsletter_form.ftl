@@ -14,8 +14,6 @@ newsletter-form-select-country-or-region = Scarta un pajisi o na riggiuni
 newsletter-form-select-language = Scarta a lingua
 newsletter-form-your-email-here = U TO NNIRIZZU CCA
 newsletter-form-get-firefox-news = Ricivi i nutizzi di { -brand-name-firefox }
-newsletter-form-join-the-community = Jùnciti â cumunità
-newsletter-form-sign-up-to-receive = Scrìviti pi ricìviri ogni misi attualizzi di { -brand-name-firefox } e dî tinnenzi 'n riti chi càncianu a to vita diggitali.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Mi sta bonu chi { -brand-name-mozilla } manija i me dati, comu schicatu nni <a href="{ $url }">stu abbisu di privatizza</a>
@@ -24,17 +22,13 @@ newsletter-form-we-will-only-send-firefox-v2 = Ti mannamu sulu nfurmazzioni ncap
 newsletter-form-if-you-havent-previously = Si nun cunfirmasti già n'abbunamentu ôn bullittinu di { -brand-name-mozilla }, putissi avìrilu a fari ora. Pi favuri cuntrolla a to posta si ricivisti na littra di nuiautri.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> e tu
 newsletter-form-get-firefox-tips = Ricivi suggirimenti, trucchi, nutizzi e autru ncapu a { -brand-name-firefox }
-newsletter-form-get-mozilla-updates = Ricivi l'attualizzi di { -brand-name-mozilla }
 newsletter-form-available-languages = Lingui dispunìbbili
 newsletter-form-select-country = Scarta u pajisi
 newsletter-form-sign-me-up = Scrìvimi
 newsletter-form-sign-up-now = Scrìviti ora
 newsletter-form-thanks = Grazzi!
-newsletter-form-leave-this-field-empty = Lassa stu campu vacanti.
 newsletter-form-yes = Se
 newsletter-form-no = No
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = Mòdulu di scrizzioni ô bullittinu
 multi-newsletter-form-checkboxes-legend = Vogghiu nfurmazzioni ncapu a:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

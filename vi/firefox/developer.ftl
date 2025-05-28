@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } là trình duyệt nhanh, cung cấp các công cụ phát triển tiên tiến và các tính năng mới nhất như hỗ trợ gỡ lỗi lưới CSS
@@ -67,33 +64,7 @@ firefox-developer-fonts-panel = Bảng điều khiển phông chữ
 firefox-developer-the-new-fonts-panel = Bảng điều khiển phông chữ mới trong { -brand-name-firefox-devtools } cho phép các nhà phát triển truy cập nhanh vào tất cả thông tin họ cần về các phông chữ được sử dụng trong một phần tử. Nó cũng bao gồm các thông tin có giá trị như nguồn phông chữ, trọng lượng, kiểu dáng và nhiều hơn nữa.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } tự động gửi các phản hồi đến { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Tải xuống trình duyệt { -brand-name-firefox } dành cho nhà phát triển
-firefox-developer-welcome-to-firefox-developer-edition = Chào mừng đến với { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Trình duyệt dành cho nhà phát triển
 firefox-developer-all-the-latest-v2 = Tất cả các công cụ mới nhất dành cho nhà phát triển trong bản beta cùng các tính năng như trình chỉnh sửa bảng điều khiển nhiều dòng và trình kiểm tra WebSocket.
 firefox-developer-a-separate-profile = Một <strong>hồ sơ và đường dẫn riêng biệt</strong> để bạn có thể dễ dàng chạy nó cùng với { -brand-name-firefox } bản phát hành chính thức hoặc { -brand-name-beta }.
 firefox-developer-preferences-tailored = Tùy chọn <strong>phù hợp với nhà phát triển web</strong>: Trình duyệt và gỡ lỗi từ xa được bật theo mặc định, cũng như nút thanh công cụ dành cho nhà phát triển và chủ đề tối.
-firefox-developer-congrats-you-now-have-latest-v2 = Bây giờ bạn đã có phiên bản mới nhất của { -brand-name-firefox-developer-edition }.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Xem <a { $attrs }>ghi chú phát hành</a> (chỉ bằng Tiếng Anh) để xem có gì mới.
-firefox-developer-developer-tools-user = Tài liệu người dùng của Công cụ dành cho nhà phát triển
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Tài nguyên cho các lập trình viên, được tạo nên bởi các lập trình viên.
-firefox-developer-mdn-playground = Playground
-firefox-developer-mdn-write-test-and-share = Viết, kiểm tra và chia sẻ mã của bạn. Playground của bạn để học hỏi và chia sẻ công việc tuyệt vời của bạn với thế giới.
-firefox-developer-mdn-blog = { -brand-name-mdn } Blog
-firefox-developer-mdn-unlock-the-world = Mở khóa thế giới phát triển web với Blog { -brand-name-mdn } — trung tâm cung cấp cho bạn về thông tin chuyên sâu, tiêu chuẩn web mới nhất và mẹo lập trình.
-firefox-developer-mdn-updates = Cập nhật
-firefox-developer-mdn-the-web-doesnt-have = Web không có nhật ký thay đổi, nhưng { -brand-name-mdn } có thể hỗ trợ. Bạn có thể cá nhân hóa và lọc các thay đổi của chủ đề về khả năng tương thích dựa trên trình duyệt hoặc danh mục công nghệ mà bạn quan tâm, cho dù đó là JavaScript, CSS và nhiều ngôn ngữ khác.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = Tài liệu tham khảo { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } là một dự án hợp tác, mã nguồn mở ghi lại các công nghệ nền tảng web, bao gồm CSS, HTML, JavaScript và API web.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = Chương trình giảng dạy { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Hướng dẫn có cấu trúc về các kỹ năng và phương pháp thực hành cần thiết để trở thành nhà phát triển front-end thực thụ, cùng với các tài nguyên học tập được đề xuất.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Hỗ trợ { -brand-name-mdn } và biến nó thành của riêng bạn với các bộ sưu tập, thông báo và playground.

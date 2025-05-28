@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-find-your-best-browser = Găsiți cel mai bun browser pentru viteză, confidențialitate și securitate.
 best-browser-so-many-browser-options = Atât de multe browsere, dar există doar unul care funcționează cel mai bine pentru nevoile tale. Cel mai bun browser pentru tine ar trebui să îți ofere atât viteză cât și protecția confidențialității.
@@ -38,4 +38,3 @@ best-browser-choosing-the-best-browser = Alegerea celui mai bun browser pentru t
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = La <a href="{ $firefox }">{ -brand-name-firefox }</a>, am lucrat din greu ca să realizăm un browser de două ori mai rapid ca înainte și care dă utilizatorilor un control mai mare asupra vieții lor online.
-best-browser-take-control-of-your = Preia controlul browserului tău.

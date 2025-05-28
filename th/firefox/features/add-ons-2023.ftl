@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/add-ons/
+### URL: https://www-dev.springfield.moz.works/features/add-ons/
 
 features-add-ons-firefox-add-ons = ส่วนเสริม { -brand-name-firefox }
 features-add-ons-firefox-add-ons-and-browser-extensions = ส่วนเสริมและส่วนขยายเบราว์เซอร์ { -brand-name-firefox }
@@ -12,6 +12,6 @@ features-add-ons-extensions-also-known-as-add-ons = ส่วนขยาย ห
 #   $fbcontainer (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 #   $translate (url) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
 #   $language (url) - link to https://addons.mozilla.org/firefox/addon/languagetool/
-#   $customize (url) - link to https://www.mozilla.org/firefox/features/customize/
+#   $customize (url) - link to https://www.firefox.com/features/customize/
 #   $amo (url) - link to https://addons.mozilla.org
 features-add-ons-there-are-firefox-add-ons-that = ส่วนเสริม { -brand-name-firefox } มีทั้งส่วนเสริมที่สามารถ<a { $fbcontainer }>หยุดไม่ให้ Facebook ติดตามคุณบนเว็บ</a> <a { $translate }>แปลข้อความเป็นภาษาอื่น</a> <a { $language }>ตรวจสอบการสะกดคำหรือไวยากรณ์ของคุณ</a> หรือ<a { $customize }>ปรับแต่งรูปลักษณ์ของเบราว์เซอร์ของคุณ</a>ได้ คุณจะพบส่วนขยายเหล่านี้และส่วนขยายฟรีอื่นๆ อีกนับพันได้ที่ <a { $amo }>addons.mozilla.org</a>

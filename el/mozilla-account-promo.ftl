@@ -7,7 +7,7 @@
 moz-account-promo-title = Μία σύνδεση. <br> <span { $class }>Όλες</span> οι υπηρεσίες { -brand-name-mozilla }.
 # Variables
 #   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
+#   $learn_more_url - link to https://www.mozilla.org/accounts/
 moz-account-already-have-v2 = Έχετε ήδη λογαριασμό; <a { $sign_in_url }>Συνδεθείτε</a> ή <a { $learn_more_url }>μάθετε περισσότερα</a> σχετικά με την εγγραφή στη { -brand-name-mozilla }.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }

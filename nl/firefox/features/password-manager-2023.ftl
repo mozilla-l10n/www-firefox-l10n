@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/password-manager
+### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
 password-manager-free-password-manager = Gratis wachtwoordenbeheerder
@@ -11,7 +11,7 @@ password-manager-free-password-manager = Gratis wachtwoordenbeheerder
 password-manager-firefox-password-manager-saves-all = De wachtwoordenbeheerder van { -brand-name-firefox } bewaart al uw wachtwoorden op één plek, zodat u zich automatisch bij websites kunt aanmelden of opgeslagen wachtwoorden kunt ophalen.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } slaat uw gebruikersnamen en wachtwoorden voor toegang tot websites veilig op, vult ze automatisch voor u in de volgende keer dat u een website bezoekt, en laat u uw opgeslagen aanmeldingen beheren met de ingebouwde functie voor wachtwoordbeheer.
 # Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+#   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Met een <a { $fxa }>gratis { -brand-name-mozilla-account }</a> kunt u uw wachtwoorden veilig tussen al uw apparaten synchroniseren. U krijgt ook toegang tot alle andere privacyrespecterende producten van { -brand-name-mozilla }.
 password-manager-password-autofill-for-easy-logins = Automatisch wachtwoorden invullen voor eenvoudige aanmelding
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } kan automatisch uw opgeslagen gebruikersnaam en wachtwoord invullen. Als u meer dan één aanmelding voor een website hebt, kunt u gewoon de gewenste account selecteren, waarna wij het overnemen.

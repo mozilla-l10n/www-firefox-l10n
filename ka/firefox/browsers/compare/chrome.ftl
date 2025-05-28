@@ -3,15 +3,15 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
+### URL: https://www-dev.springfield.moz.works/compare/chrome/
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } თუ Google Chrome
 # HTML page description
 compare-chome-read-our-comparison = გაეცანით ჩვენს შედარებას, რით განსხვავდება { -brand-name-firefox } და Chrome შესაძლებლობების, პირადულობისა და მოხერხებულობის კუთხით.
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
-# $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
+# $adblocker (url) - link to https://www.firefox.com/features/adblocker/
 compare-chrome-firefoxs-default-privacy-settings = { -brand-name-firefox } პირადულობის ნაგულისხმევი პარამეტრებით მეტად მძლავრია, ვიდრე Chrome – და ჩვენ დამატებითი შესაძლებლობებიც გვაქვს, ვებსაიტებს თქვენი თვალთვალის საშუალება რომ არ მივცეთ, თუნდაც <a { $fingerprint }>მომხმარებლის ამოცნობის არიდებითა</a> და, ამასთანავე, სურვილისამებრ შერჩეული <a { $adblocker }>რეკლამის შემზღუდავი</a> დამატებების თანხლებით.
 compare-chrome-we-block-trackers-by-default = ჩვენ ნაგულისხმევად ვზღუდავთ მეთვალყურეებს. Chrome კი – არა.
 compare-chrome-in-fact-by-default-chrome-monitors = სინამდვილეში, Chrome ნაგულისხმევად თვალს ადევნებს, რომელ საიტებს ეწვევით და რას საქმიანობთ, რომ შეძლოს „სარეკლამო თემების“ დადგენა და თქვენთვის გამიზნული რეკლამების ჩვენება. შეგიძლიათ სამი მათგანი შეზღუდოთ, სხვა სარეკლამო თემების დადგენის საშუალებას კი ვერ აღკვეთთ.

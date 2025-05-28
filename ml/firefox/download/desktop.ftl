@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 firefox-desktop-download-download-options = ഇറക്കിവയ്ക്കൽ സാധ്യതകളും മറ്റെ ഭാഷകളും
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } പിന്തുണ
@@ -23,7 +23,7 @@ firefox-desktop-download-sync-your-devices = നിങ്ങളുടെ ഉപ�
 firefox-desktop-download-screenshots = പ്രതലപ്പിളൎപ്പുകൾ
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = തീരാറായി
 firefox-desktop-download-windows = { -brand-name-windows }

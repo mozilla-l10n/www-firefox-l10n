@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
 # page title
 bookmark-manager-bookmark-manager = Upravitelj zaznamkov
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Organizirajte si zaznamke po mapah in oznakah.
 # Variables:
-#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+#   $sync (url) - link to https://www.firefox.com/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = Zaznamki so povezave, ki jih shranite v brskalnik kot bližnjice do svojih priljubljenih mest na spletu. { -brand-name-firefox } vključuje priročnega upravitelja zaznamkov, s katerim lahko organizirate, iščete, posodabljate in <a { $sync }>sinhronizirate shranjene zaznamke med vsemi svojimi napravami</a>.
 bookmark-manager-organize-your-boomarks-into = Organizirajte si zaznamke v pregledne mape
 bookmark-manager-collect-your-bookmarks-in-folders = Uredite svoje zaznamke po mapah in jim pripnite oznake s podrobnostmi. Zaznamke lahko tudi razvrščate in hitro najdete tiste, ki jih potrebujete.

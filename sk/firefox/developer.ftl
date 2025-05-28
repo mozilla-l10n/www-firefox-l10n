@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } je rýchly prehliadač, ktorý ponúka moderné vývojárske nástroje a podporu najnovších funkcií, ako je CSS Grid či ladenie frameworku
@@ -67,33 +64,7 @@ firefox-developer-fonts-panel = Panel písiem
 firefox-developer-the-new-fonts-panel = Nový panel písiem vo { -brand-name-firefox-devtools } poskytuje vývojárom rýchly prístup k informáciám o písmach použitých v prvkoch. Obsahuje taktiež užitočné informácie, ako napríklad zdroj písma, štýl a ďalšie.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } automaticky odosiela spätnú väzbu { -brand-name-mozilla(case: "dat") }.
 firefox-developer-download-the-firefox-browser = Stiahnite si { -brand-name-firefox } vytvorený pre vývojárov
-firefox-developer-welcome-to-firefox-developer-edition = Víta vás { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Prehliadač vytvorený pre vývojárov
 firefox-developer-all-the-latest-v2 = Všetky najnovšie vývojárske nástroje v beta verzii spolu s funkciami, ako je viacriadkový editor v konzole a WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>Samostatný profil a cesta</strong>, takže ho môžete jednoducho spustiť spolu s klasickým vydaním alebo s verziou { -brand-name-firefox } { -brand-name-beta }.
 firefox-developer-preferences-tailored = Predvoľby <strong>prispôsobené webovým vývojárom</strong>: prehliadač a vzdialené ladenie sú predvolene povolené, rovnako ako tmavá téma a tlačidlo pre vývojárov na paneli s nástrojmi.
-firefox-developer-congrats-you-now-have-latest-v2 = Teraz máte najnovšiu verziu { -brand-name-firefox-developer-edition(case: "gen") }.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Ak chcete vedieť, čo je nové, pozrite si <a { $attrs }>poznámky k vydaniu</a> (iba v angličtine).
-firefox-developer-developer-tools-user = Používateľské dokumenty pre vývojárske nástroje
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Zdroje pre vývojárov, od vývojárov
-firefox-developer-mdn-playground = Ihrisko
-firefox-developer-mdn-write-test-and-share = Napíšte, otestujte a zdieľajte svoj kód. Vaše ihrisko, kde sa môžete učiť a zdieľať svoju úžasnú prácu so svetom.
-firefox-developer-mdn-blog = Blog { -brand-name-mdn }
-firefox-developer-mdn-unlock-the-world = Odomknite svet vývoja webu s blogom { -brand-name-mdn } – vaším hlavným centrom pre odborné poznatky, najnovšie webové štandardy a tipy na kódovanie.
-firefox-developer-mdn-updates = Aktualizácie
-firefox-developer-mdn-the-web-doesnt-have = Na webe nie je dostupný zoznam zmien, ale { -brand-name-mdn } vám môže pomôcť. Zmeny v kompatibilite môžete prispôsobiť a filtrovať na základe prehliadačov alebo kategórie, ktorá vás zaujíma, či už ide o JavaScript, CSS atď.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = Referencie { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } je open source projekt dokumentujúci technológie webových platforiem vrátane CSS, HTML, JavaScriptu a webových rozhraní API.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = Učebné osnovy { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Štruktúrovaný sprievodca základnými zručnosťami a postupmi pre úspešného front-end vývojára spolu s odporúčanými vzdelávacími zdrojmi.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Podporte { -brand-name-mdn } a prispôsobte si ju pomocou kolekcií, upozornení a ihrísk.

@@ -24,6 +24,3 @@ sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly } και { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-android } { -brand-name-nightly } και { -brand-name-beta }
 sub-navigation-ios-test-flight = { -brand-name-ios } { -brand-name-test-flight }
-sub-navigation-what-is-a-browser = Τι είναι ένα πρόγραμμα περιήγησης;
-sub-navigation-browsing-history = Ιστορικό περιήγησης
-sub-navigation-browser-history = Ιστορικό περιήγησης

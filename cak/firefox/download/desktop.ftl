@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -15,11 +15,11 @@ firefox-desktop-download-og-title = Tiqasäx ri { -brand-name-firefox }, ri yala
 firefox-desktop-download-og-desc = Ri rusamajib'exik ri aninäq ruxaq, rokisaxik jub'a' tzatzq'ob'äl chuqa' nojinäq chi b'anikil, wawe' k'o wi ri k'ak'a' { -brand-name-firefox }.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Tak'ulu' ri okik'amaya'l ri nuto' ri yalan k'atzinel
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-no-shady = Majun itzel runa'ojil ichinanem o rij ruchi' jay chi kiwa ri eltzijonela'. Xa xe jun nïm anin okik'amaya'l, ri man yatruk'ayij ta.
 firefox-desktop-download-download-options = Rucha'oj qasanïk chuqa' ch'aqa' taq ch'ab'äl
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } tob'äl
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = Kasamäj pa k'amab'ey. <br> { -brand-name-firefox-browser } <strong> man </strong> yatrutz'ët ta.
 firefox-desktop-download-we-block-the-ad = Yeqaq'ät ojqanela'. Ruma ri' anin ri k'amaya'l.
 firefox-desktop-download-ads-are-distracting = Ri eltzijol nuk'äm atzub'al chuqa' nub'än eqal richin yesamajïx ri taq ruxaq, chi ri' toq ri rojqanela' nikitz'ët ronojel ri nab'än pa k'amab'ey. Ri { -brand-name-firefox-browser } ruyonil yeruq'ät konojel ri ojqanela', ruma ri' man k'atzinel ta nakanoj rub'eyal pa ri runuk'ulem jikomal.
@@ -105,9 +105,9 @@ firefox-desktop-download-from-security-to = Rik'in ri jikomal chuqa' ri taq rutz
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } xnuk' ruma <a { $attrs }>{ -brand-name-mozilla }</a> achi'el jun retal anin chuqa' ichinan okik'amaya'l chi kiwa ri { -brand-name-ie }, wakami chuqa' ri { -brand-name-chrome }. Wakami, ri molaj qato'onela' chuqa' ajk'ayij moloj toq nikitz'ët ri qarayib'al nikiya' rejqalem ri awichinanem.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = Rik'in ri nik'ïy chuqa' nijalatäj ri k'amaya'l, { -brand-name-firefox } nuya' retal ri ach'ojib'al chi rij ri awichinanem  — niqab'ij ri <a { $attrs }>Ya'oj Qatzij Chi Rij Qatzij</a>: Jub'a' numöl. Jeb'ël nuchajij. Majun ewäl. Ri atzij, asamaj pa ajk'amaya'l, ri ak'aslem pa k'amab'ey yechajïx rik'in { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
@@ -119,7 +119,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ruyon <
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ¿Nak'utuj chawe? <a { $attrs }>{ -brand-name-mozilla } tob'äl</a> at k'o chupam.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = !Nik'achoj yan!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -138,11 +138,11 @@ firefox-desktop-download-if-you-see-a-prompt = We natz'ët jun rutzijol akuchi' 
 firefox-desktop-download-visit-support-for-more = Tatz'eta' Tob'äl richin Ch'aqa' Rub'anikil
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = Ruyonil xtutikirisaj ri aqasanik. ¿La man nub'än ta? <a id="{ $id }" href="{ $fallback_url }">Titojtob'ëx niqasäx chik.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } man choj ta jun okik'amaya'l.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Xq'at ri aqasanik. Man ronojel ta sachel.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Ri aq'inoj rik'in jub'a' man nuq'i' ta ri taq rajowaxik { -brand-name-firefox }, chuqa' ütz nitikirisäx nitojtob'ëx jun chi ke re <a href="{ $url }"> taq ruwäch re'</a>.

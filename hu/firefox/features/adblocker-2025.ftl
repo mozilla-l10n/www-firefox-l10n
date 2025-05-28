@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Reklámblokkolás
@@ -15,7 +15,7 @@ features-adblocker-the-ad-blocker-a-tool = A reklámblokkoló – az egyénre sz
 features-adblocker-in-todays-digital-world = A mai digitális világban a web forgalmas és zsúfolt lehet. A reklámblokkolók hatásos eszközök, melyek az Ön kezébe adják a böngészési élménye feletti irányítást, így eldöntheti, hogy mi jelenjen meg a képernyőjén.
 features-adblocker-ad-blockers-work = A reklámblokkolók két kulcsfontosságú módon működnek: megakadályozzák a tartalmak, például a hirdetések, betöltését, és blokkolják a webhelyek azon részeit, amelyek ezeket az elemeket tartalmazzák. Ez tartalmazhat videóhirdetéseket, személyre szabott hirdetéseket, amelyek követik az interneten, és akár harmadik féltől származó követőket is.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = Egy reklámblokkoló használata egyszerű. Számos megbízható lehetőség érhető el böngészőkiegészítőként, így könnyű olyan megoldást találni, amely megfelel az igényeinek. Például, a <a href="{ $firefox }">{ -brand-name-firefox }</a> <a href="{ $addons }">számos jóváhagyott kiegészítőt</a> kínál, melyek célja, hogy jobbá tegyék a böngészési élményét, miközben tiszteletben tartják a magánszféráját.
 features-adblocker-finding-the-right = Találja meg a megfelelő reklámblokkolót
@@ -36,5 +36,5 @@ features-adblocker-to-adjust = Ezen beállítások módosításához kattintson 
 features-adblocker-why-use = Miért használjon reklámblokkolót?
 features-adblocker-ad-blockers-do-more = A reklámblokkolók többet tesznek a hirdetések kezelésénél – a felesleges tartalmak számának csökkentésével növelhetik a böngészés sebességét és a biztonságot. Testreszabott, figyelemeltereléstől mentes webes élményt nyújtanak, így a legfontosabbra koncentrálhat.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/download/
 features-adblocker-explore-hundreds = Fedezze fel a { -brand-name-firefox(case: "allative") } elérhető több száz adatvédelem-központú kiegészítőt, és találja meg az Önnek megfelelő eszközöket. <a href="{ $url }">Töltse le a { -brand-name-firefox(case: "accusative") }</a> még ma, és próbálja ki azt a böngészőt, amelyet az adatvédelmet és a teljesítményt figyelembe véve tervezték.

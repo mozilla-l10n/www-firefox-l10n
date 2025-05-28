@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = သင်အကြိုက်ဆုံး ဘရောက်ဇာအသစ်မှကြိုဆိုပါသည်။ ပွင့်လင်းသောဝဘ်အတွက်တည်ဆောက်ရန်လိုအပ်သည့်နောက်ဆုံးပေါ်လုပ်ဆောင်ချက်များ၊ မြန်ဆန်သောစွမ်းဆောင်ချက်နှင့်ကောင်းမွန်သောကိရိယာများကိုရယူပါ။

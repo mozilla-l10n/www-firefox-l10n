@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = ഏറ്റവും പുതിയ ഡെവലപ്പർ ഉപകരണങ്ങളും CSS ഗ്രിഡ് പിന്തുണ, ഫ്രെയിംവർക്ക് ഡീബഗ്ഗിങ്ങ് എന്നിങ്ങനെ ഏറ്റവും പുതിയ സവിശേഷതകളും നൽകുന്ന മിന്നൽ വേഗതയുള്ള ബ്രൗസറാണ് ഫയർഫോക്സ് ഡെവലപ്പർ എഡിഷൻ
@@ -63,8 +60,3 @@ firefox-developer-fonts-panel = ഫോണ്ടുകളുടെ പാനൽ
 firefox-developer-the-new-fonts-panel = ഫയർഫോക്സ് DevTools ലെ പുതിയ ഫോണ്ടുകളുടെ പാനൽ ഡവലപ്പർമാർക്ക് ഒരു എലമെന്റില്‍ ഉപയോഗിച്ചിരിക്കുന്ന ഫോണ്ടുകളെക്കുറിച്ച് അവർക്കാവശ്യമായ എല്ലാ വിവരങ്ങളും വേഗത്തിൽ നല്‍കുന്നു. ഇതിൽ ഫോണ്ട് ഉറവിടം, വലുപ്പം, ശൈലി തുടങ്ങിയ മൂല്യവത്തായ വിവരങ്ങളും ഉൾപ്പെടുന്നു.
 firefox-developer-firefox-developer-edition-sends = ഫയര്‍ഫോക്സ് ഡെവലപ്പര്‍ എഡീഷന്‍ ഓട്ടോമാറ്റിക്കായി മോസില്ലയിലേക്ക് ഫീഡ്ബാക്ക് അയയ്ക്കുന്നു.
 firefox-developer-download-the-firefox-browser = ഡെവലപ്പര്‍മാര്‍ക്കുള്ള ഫയര്‍ഫോക്സ് ബ്രൌസര്‍ ഡൌണ്‍ലോഡ് ചെയ്യുക
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-mdn-playground = കളിയിടം
-firefox-developer-mdn-updates = പുതുക്കലുകൾ
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }

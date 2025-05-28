@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
 # page title
 bookmark-manager-bookmark-manager = Menedżer zakładek
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Zorganizuj swoje zakładki przy użyciu folderów i etykiet.
 # Variables:
-#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+#   $sync (url) - link to https://www.firefox.com/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = Zakładki to linki, które zapisujesz w przeglądarce, dzięki czemu możesz szybko i łatwo powrócić do ulubionych miejsc w sieci. { -brand-name-firefox } zawiera poręczny menedżer zakładek, dzięki któremu możesz organizować, wyszukiwać, aktualizować i <a { $sync }>synchronizować wszystkie zapisane linki na wszystkich swoich urządzeniach</a>.
 bookmark-manager-organize-your-boomarks-into = Zorganizuj swoje zakładki w przeszukiwalnych folderach
 bookmark-manager-collect-your-bookmarks-in-folders = Zbierz swoje zakładki w folderach i oznacz je bardziej szczegółowo. Możesz również sortować zakładki, aby szybko znaleźć te, których potrzebujesz.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/translate/
+### URL: https://www-dev.springfield.moz.works/features/translate/
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Prevedite web stranicu sa { -brand-name-firefox }om
@@ -20,5 +20,5 @@ features-translate-the-languages-below-are-what-v2 = Dolje navedeni jezici su tr
 features-translate-and-more-languages-are-in = I još jezika je u razvoju!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } govori vaš jezik
 # Variables:
-#   $download (url) = link to https://www.mozilla.org/firefox/new/
+#   $download (url) = link to https://www.firefox.com/download/
 features-translate-the-firefox-translations-feature-v2 = Funkcija { -brand-name-firefox-translations } je još jedan način na koji { -brand-name-mozilla } održava vaš internet personaliziranim i privatnijim. { -brand-name-mozilla } ne prati koje web stranice prevodite. Sa milionima korisnika širom svijeta, { -brand-name-mozilla } želi osigurati da oni koji koriste { -brand-name-firefox } uče, komuniciraju, dijele i ostaju informisani pod svojim uslovima. <a { $download }>Započnite na željenom jeziku preuzimanjem { -brand-name-firefox }.</a>

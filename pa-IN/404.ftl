@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/404/
+### URL: https://www-dev.springfield.moz.works/404/
 
 not-found-page-not-found-page-page-not-found = 404: ਸਫ਼ਾ ਨਹੀਂ ਲੱਭਿਆ
 not-found-page-sorry-we-cant-find-that-page = ਅਫ਼ਸੋਸ, ਸਾਨੂੰ ਉਹ ਸਫ਼ਾ ਨਹੀਂ ਲੱਭਿਆ
@@ -13,7 +13,7 @@ not-found-page-go-back = ਪਿੱਛੇ ਜਾਓ
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = { -brand-name-mozilla }, { -brand-name-firefox } ਨੂੰ ਬਣਾਉਣ ਵਾਲੇ ਗ਼ੈਰਫਾਇਦਾ ਸੰਗਠਨ ਬਾਰੇ <a href="{ $about }">ਸਿੱਖੋ</a>।
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/new/
+#   $download (url) - link to https://www.mozilla.org/firefox/download/
 not-found-page-download-the-firefox-browser = ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਜਾਂ ਡੈਸਕਟਾਪ ਲਈ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ <a href={ $download }>ਡਾਊਨਲੋਡ</a> ਕਰੋ
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404

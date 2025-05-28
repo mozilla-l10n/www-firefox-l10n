@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = Sut i beidio â gweld gormod o hysbysebion chadw cwmnïau rhag eich dilyn o gwmpas ar-lein. Canllaw rhwystrydd hysbysebion gan y porwr gwe { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Rhwystrydd hysbysebion - arf dirgel yn erbyn hysbysebion blin.
@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Lot o hysbysebion, llai o amynedd… 
 features-adblocker-the-average-person-sees = Mae'r person cyffredin yn gweld 4,000 o hysbysebion y dydd ar gyfartaledd. Os ydych chi'n meddwl bod hynny'n ormod, y rhwystrydd hysbysebion yw'ch ffrind gorau newydd.
 features-adblocker-an-ad-blocker-is-a-piece = Mae rhwystrydd hysbysebion yn ddarn o feddalwedd y mae modd ei ddefnyddio i atal hysbysebion, ac maen nhw'n gweithio mewn dwy ffordd. Y ffordd gyntaf yw pan fydd rhwystrydd hysbysebion yn rhwystro'r signal gan weinyddwr yr hysbysebwr, felly nid yw'r hysbyseb byth yn ymddangos ar eich tudalen. Ffordd arall mae'r rhwystrydd hysbysebion yn gweithio yw drwy rwystro rhannau o wefan a allai fod yn hysbysebion.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Gall yr hysbysebion hyn fod yn hysbysebion fideo swnllyd, hysbysebion sy'n eich dilyn o gwmpas y we, tracwyr, cwcis trydydd parti, a mwy. I ddefnyddio rhwystrydd hysbysebion, gallwch chwilio am rwystrydd hysbysebion sydd ar gael yn eich porwr. Mae gan <a href="{ $firefox }">{ -brand-name-firefox }</a>, er enghraifft, <a href="{ $addons }">y rhestr hon o ychwanegion rheolyddion hysbysebion cymeradwy</a>. Cliciwch ar y rhestr hon (neu reolyddion hysbysebion cymeradwy ar gyfer eich porwr) a gweld pa un sy'n gweddu i'ch anghenion.
 features-adblocker-find-the-right-ad-blocker = Dod o hyd i'r rheolydd hysbysebion cywir i chi
@@ -27,8 +27,8 @@ features-adblocker-adguard-adblocker-blunts = Mae <a { $attrs1 }>AdGuard AdBlock
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = Mae <a { $attrs }>Ghostery</a> yn ddewis gwych arall sydd nid yn unig yn rhwystro hysbysebion ond hefyd yn darparu buddion gwrth-dracio ychwanegol.
 # Variables:
-#   $attrs1 (string) - link to /firefox/new/ with other attributes
-#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Mae'r estyniadau hyn yn gweithio'n wych ar <a { $attrs1 }>{ -brand-name-firefox } ar gyfer y bwrdd gwaith</a> ac <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Creu parth dim tracio gyda Rhwystro Cynnwys
 # Variables:
@@ -39,7 +39,7 @@ features-adblocker-choose-your-level-of-protection = Dewiswch eich lefel o ddiog
 features-adblocker-to-start-click-on-the-v2 = I ddechrau, cliciwch ar y darian i'r chwith o'r bar cyfeiriad ar unrhyw dudalen we a dewis "Gosodiadau Diogelu." Bydd hyn yn agor y panel Gosodiadau Preifatrwydd a Diogelwch { -brand-name-firefox } mewn tab newydd. Dylech weld llamlen las gyda gwahanol ddewisiadau.
 features-adblocker-go-easy-with-standard = Cymryd hi'n hawdd gyda'r modd Safonol
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
 features-adblocker-if-ads-dont-bother-you = Os nad yw hysbysebion yn eich poeni ac nad ydych chi'n meddwl eich bod yn cael eich dilyn gan dracwyr a chwcis trydydd parti, yna dylai'r gosodiad Safon weithio i chi. I gael offer tracio oddi ar eich cefn yn y modd Safonol, defnyddiwch y ffenestr <a href="{ $url }">>Pori Preifat</a>.
 features-adblocker-get-tough-with-strict = Mynd yn galed gyda'r modd Llym
 features-adblocker-if-seeing-too-many-ads = Os yw gweld gormod o hysbysebion yn difa eich diwrnod, yna mae'r modd Llym yn well. Bydd y modd hwn yn rhwystro hysbyswyr a chwcis trydydd parti hysbys ym mhob ffenestr { -brand-name-firefox }.
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = Yn { -brand-name-firefox }, gallwc
 features-adblocker-speed-up-thanks-to-ad = Cyflymu diolch i rwystryddion hysbysebion
 features-adblocker-in-some-cases-an-ad-blocker = Mewn rhai achosion, gall rhwystrydd hysbysebion helpu'ch porwr i fynd yn gyflymach. Pan fydd hysbyseb yn llwytho, gall arafu gwefan. Ar yr un pryd, mae'n cymryd mwy o amser i ddod o hyd i'r hyn rydych chi'n chwilio amdano os ydych chi'n rhy brysur yn cau hysbysebion.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/download/
 features-adblocker-if-you-want-to-learn-more-v2 = Os hoffech chi wybod rhagor am rhwystro hysbysebion, mae cannoedd o estyniadau atal hysbysebion ar gael ar gyfer { -brand-name-firefox } a phorwyr eraill. Os ydych chi am roi cynnig ar yr atalwyr hysbysebion mae { -brand-name-firefox } yn ei ddefnyddio, <a href="{ $url }">cliciwch yma i lwytho i lawr</a> porwr sy'n rhoi preifatrwydd yn gyntaf.

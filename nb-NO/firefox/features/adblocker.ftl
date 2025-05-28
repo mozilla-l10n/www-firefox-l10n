@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = Hvordan du kan slutte å se for mange annonser og forhindre at selskaper følger deg rundt på nettet. En annonseblokkererguide fra { -brand-name-firefox } nettleser.
 features-adblocker-the-ad-blocker-a-secret = Annonseblokkeren – et hemmelig våpen mot irriterende annonser.

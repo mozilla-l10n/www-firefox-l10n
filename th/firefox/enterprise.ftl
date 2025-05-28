@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = รับ { -brand-name-firefox } สำหรับองค์กรของคุณด้วย { -brand-name-esr } และ Rapid Release
 firefox-enterprise-get-unmatched-data-protection = ปกป้องข้อมูลชนิดต่าง ๆ บนจังหวะการออกรุ่นที่เหมาะกับคุณด้วย { -brand-name-firefox } สำหรับองค์กร ดาวน์โหลด { -brand-name-esr } และ Rapid Release
@@ -42,5 +42,5 @@ firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }">plist ต
 firefox-enterprise-pkg-installer = ตัวติดตั้ง PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 บิต
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = ดาวน์โหลด { -brand-name-firefox-esr } หรือ Rapid Release ใน<br> <a href="{ $firefox_all }">ภาษาหรือแพลตฟอร์มอื่น</a>

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
+### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Dấu vết là một loại theo dõi trực tuyến xâm lấn hơn so với theo dõi dựa trên cookie thông thường — đó là lý do tại sao { -brand-name-firefox-browser } chặn nó.
@@ -27,5 +27,5 @@ features-fingerprinting-the-practice-of = Dấu vết sẽ khiến bạn <a { $u
 features-fingerprinting-the-latest-firefox = Trình duyệt { -brand-name-firefox } mới nhất bảo vệ bạn chống lại dấu vết bằng cách chặn các yêu cầu của bên thứ ba đối với các công ty được biết là tham gia vào việc lấy dấu vết. Chúng tôi đã làm việc chăm chỉ để kích hoạt tính năng bảo vệ quyền riêng tư này trong khi không phá vỡ các trang web bạn muốn truy cập. (Đọc thêm ở đây, nếu bạn muốn <a { $url_details }>chi tiết kỹ thuật</a>.)
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = Và đó không phải là một bối cảnh sâu sắc mà bạn cần phải đào sâu để tìm. Trình duyệt { -brand-name-firefox } mới nhất, chặn dấu vết là tiêu chuẩn, là cài đặt mặc định. Xem <a { $url_protections }>bảng điều khiển bảo vệ quyền riêng tư</a> của bạn để xem bạn bị theo dõi hậu trường như thế nào và cạc { -brand-name-firefox } ngăn nó.
-# $url_download (string) - link to firefox/new
+# $url_download (string) - link to https://www.firefox.com/download/
 features-fingerprinting-you-probably-wouldnt = Bạn có thể sẽ không đánh giá cao ai đó theo dõi các bước di chuyển của bạn trong cuộc sống thực. Không có lý do gì để chấp nhận nó trực tuyến. Nếu bạn chưa có { -brand-name-firefox }, <a { $url_download }>tải về và bảo vệ chính bạn</a> từ dấu vết kỹ thuật số.

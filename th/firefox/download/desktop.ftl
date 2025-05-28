@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = { -brand-name-firefox } รุ่นใหม่มีให้ใช้แล้ว <a { $update_url }>อัปเดตเป็นรุ่นล่าสุด</a>
 firefox-desktop-download-get-the-browser = รับเบราว์เซอร์ที่ปกป้องสิ่งที่สำคัญ
 firefox-desktop-download-fast-reliable-private = รวดเร็ว เชื่อถือได้ และเป็นส่วนตัว เพื่อความอุ่นใจทางออนไลน์
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-no-shady = ไม่มีนโยบายความเป็นส่วนตัวที่คลุมเครือหรือประตูหลังสำหรับผู้โฆษณา มีเพียงเบบราว์เซอร์ที่เร็วสุด ๆ ที่ไม่เอาข้อมูลของคุณไปขาย
 firefox-desktop-download-download-options = ตัวเลือกการดาวน์โหลดและภาษาอื่น ๆ
 firefox-desktop-download-browser-support = การสนับสนุน { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = ให้คุณทำสิ่งที่คุณต้องการออนไลน์<br> { -brand-name-firefox-browser } จะ<strong>ไม่แอบดู</strong>คุณ
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = ให้คุณทำสิ่งที่คุณต้องการออนไลน์<br> { -brand-name-firefox-browser } จะ<strong>ไม่</strong>แอบดูคุณ
 firefox-desktop-download-we-block-the-ad = เราจะปิดกั้นตัวติดตามเว็บเพื่อให้คุณสำรวจอินเทอร์เน็ตได้เร็วขึ้น
 firefox-desktop-download-ads-are-distracting = โฆษณาทำให้เสียสมาธิและทำให้หน้าเว็บโหลดช้าลงในขณะที่ตัวติดตามของพวกเขาจะคอยจับตาดูทุกการเคลื่อนไหวของคุณบนโลกออนไลน์ { -brand-name-firefox-browser } จะปิดกั้รตัวติดตามส่วนใหญ่โดยอัตโนมัติ ดังนั้นจึงไม่จำเป็นต้องเจาะการตั้งค่าความปลอดภัยของคุณ
@@ -116,9 +116,9 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ถูก
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = เนื่องจากอินเทอร์เน็ตเติบโตและเปลี่ยนแปลง { -brand-name-firefox } ยังคงให้ความสำคัญกับสิทธิความเป็นส่วนตัวของคุณ ซึ่งถือเป็นสิ่งที่เราให้ความสำคัญมาโดยตลอด เรียนรู้เพิ่มเติมเกี่ยวกับแนวทางปฏิบัติด้านข้อมูลของเราใน <a { $attrs }>ประกาศเรื่องความเป็นส่วนตัว</a>
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = ในขณะที่อินเทอร์เน็ตเติบโตและเปลี่ยนแปลง { -brand-name-firefox } ยังคงมุ่งเน้นเรื่องสิทธิ์เกี่ยวกับความเป็นส่วนตัวของคุณอยู่เสมอ ซึ่งเราเรียกว่า <a { $attrs }>คำมั่นสัญญาเกี่ยวกับข้อมูลส่วนตัว</a>: เก็บให้น้อย รักษาให้ปลอดภัย ไม่มีความลับ ข้อมูลของคุณ กิจกรรมบนเว็บของคุณ ชีวิตบนโลกออกไลน์ของคุณจะถูกปกป้องด้วย { -brand-name-firefox }
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
@@ -133,7 +133,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } จะ<
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = มีคำถามใช่หรือไม่ <a { $attrs }>ฝ่ายสนับสนุนของ { -brand-name-mozilla }</a> พร้อมช่วยเหลือคุณในทุกเรื่อง
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = เกือบเสร็จแล้ว!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -155,11 +155,11 @@ firefox-desktop-download-if-you-see-a-prompt = ถ้าคุณเห็นข
 firefox-desktop-download-visit-support-for-more = เยี่ยมชมฝ่ายสนับสนุนสำหรับรายละเอียดเพิ่มเติม
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = การดาวน์โหลดของคุณควรเริ่มโดยอัตโนมัติ ยังไม่เริ่มใช่หรือไม่ <a id="{ $id }" href="{ $fallback_url }">ลองดาวน์โหลดอีกครั้ง</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } เป็นมากกว่าเบราว์เซอร์
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = การดาวน์โหลดของคุณถูกขัดจังหวะ แต่ส่วนที่ดาวน์โหลดไปแล้วไม่ได้หายไปไหน
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = เครื่องของคุณไม่รองรับกับข้อกำหนดสำหรับ { -brand-name-firefox } แต่คุณยังสามารถลองกับ<a href="{ $url }">รุ่นเหล่านี้</a>ได้

@@ -24,6 +24,3 @@ sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly } és { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-android }os { -brand-name-nightly } és { -brand-name-beta }
 sub-navigation-ios-test-flight = { -brand-name-ios } { -brand-name-test-flight }
-sub-navigation-what-is-a-browser = Mi az a webböngésző?
-sub-navigation-browsing-history = Böngészési előzmények
-sub-navigation-browser-history = Böngészési előzmények

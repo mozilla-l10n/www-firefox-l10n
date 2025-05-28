@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Enn nýrri útgáfa { -brand-name-firefox } er fáanleg. <a { $update_url }>Uppfærðu í nýjustu útgáfuna</a>
 firefox-desktop-download-get-the-browser = Fáðu þér vafrann sem verndar það sem er mikilvægt
 firefox-desktop-download-fast-reliable-private = Hraðvirkt, áreiðanlegt og verndar friðhelgi þína - fyrir hugarró á netinu.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-no-shady = Engar loðnar persónuverndarstefnur eða bakdyr fyrir auglýsendur. Bara leifturhraður vafri sem selur þig ekki.
 firefox-desktop-download-download-options = Valkostir við niðurhal og önnur tungumál
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } aðstoð
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Gerðu það sem þú gerir á netinu.<br> { -brand-name-firefox-browser } <strong>verndar</strong> þig.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = Gerðu það sem þú gerir á netinu.<br> { -brand-name-firefox-browser } <strong>er ekki</strong> að glápa.
 firefox-desktop-download-we-block-the-ad = Við lokum á auglýsinganjósnirnar. Þú kannar netið hraðar.
 firefox-desktop-download-ads-are-distracting = Auglýsingar eru truflandi og láta vefsíður hlaðast hægar á meðan rekjararnir í þeim fylgjast með hverri hreyfingu sem þú gerir á netinu. { -brand-name-firefox-browser } lokar sjálfkrafa á flesta rekjara, svo það er engin þörf á að grafa eftir þessu í öryggisstillingarnar þínar.
@@ -116,9 +116,9 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } var búi�
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Eftir því sem internetið stækkar og breytist heldur { -brand-name-firefox } áfram að einbeita sér að rétti þínum til friðhelgi einkalífs – það hefur alltaf verið okkar markmið. Frekari upplýsingar um meðhöndlun okkar á gögnum má sjá í <a { $attrs }>persónuverndaryfirlýsingu</a> okkar.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = Eftir því sem internetið stækkar og breytist heldur { -brand-name-firefox } áfram að einbeita sér að rétti þínum til friðhelgi einkalífs – við köllum það <a { $attrs }>loforð um persónuupplýsingar</a>: Taka minna. Geyma öruggt. Engin leyndarmál. Gögnin þín, vefvirkni þín, líf þitt á netinu er verndað með { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
@@ -133,7 +133,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Spurningar? <a { $attrs }>{ -brand-name-mozilla } aðstoðin</a> hefur flest sem þú þarft.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Næstum komið!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -155,11 +155,11 @@ firefox-desktop-download-if-you-see-a-prompt = Ef þú sérð vísbendingu um a�
 firefox-desktop-download-visit-support-for-more = Heimsæktu aðstoðargáttina fyrir frekari upplýsingar
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = Niðurhalið þitt ætti að hefjast sjálfkrafa. Virkaði það ekki? <a id="{ $id }" href="{ $fallback_url }">Reyndu aftur að sækja.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } er meira en bara vafri.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Niðurhalið þitt var truflað. En ekki er allt alveg glatað.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Kerfið þitt uppfyllir mögulega ekki þær kröfur sem þarf fyrir { -brand-name-firefox }, en þú getur prófað einhverja af <a href="{ $url }">þessum útgáfum</a>.

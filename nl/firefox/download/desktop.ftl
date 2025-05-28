@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Er is een nog nieuwere { -brand-name-firefox } beschikbaar. <a { $update_url }>Bijwerken naar de nieuwste versie</a>
 firefox-desktop-download-get-the-browser = Download de browser die beschermt wat belangrijk is
 firefox-desktop-download-fast-reliable-private = Snel, betrouwbaar en privé – voor gemoedsrust online.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-no-shady = Geen schimmig privacybeleid of achterdeurtjes voor adverteerders. Gewoon een razendsnelle browser die u niet bedriegt.
 firefox-desktop-download-download-options = Downloadopties en andere talen
 firefox-desktop-download-browser-support = Ondersteuning voor { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Doe wat u online doet. <br> { -brand-name-firefox-browser } heeft u <strong>gedekt</strong>.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = Doe wat u online doet. <br> { -brand-name-firefox-browser } kijkt <strong>niet</strong> mee.
 firefox-desktop-download-we-block-the-ad = Wij blokkeren de advertentietrackers. U surft sneller over het internet.
 firefox-desktop-download-ads-are-distracting = Advertenties leiden af en zorgen ervoor dat webpagina’s langzamer worden geladen, terwijl hun trackers al uw online handelingen volgen. De { -brand-name-firefox-browser } blokkeert de meeste trackers automatisch, dus u hoeft uw beveiligingsinstellingen niet door te spitten.
@@ -116,9 +116,9 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } werd door
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Terwijl het internet groeit en verandert, blijft { -brand-name-firefox } zich richten op uw recht op privacy – dat is altijd ons ding geweest. Lees meer over onze gegevenspraktijken in onze <a { $attrs }>Privacyverklaring</a>.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = Terwijl het internet groeit en verandert, blijft { -brand-name-firefox } zich concentreren op uw recht op privacy – we noemen het de <a { $attrs }>Persoonlijke Gegevensbelofte</a>: Neem minder. Houd het veilig. Geen geheimen. Uw gegevens, uw webactiviteit en uw online leven worden beschermd met { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
@@ -133,7 +133,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Vragen? <a { $attrs }>{ -brand-name-mozilla }-ondersteuning </a> is er voor u.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Bijna klaar!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -155,11 +155,11 @@ firefox-desktop-download-if-you-see-a-prompt = Als u een melding ziet waarin wor
 firefox-desktop-download-visit-support-for-more = Bezoek Ondersteuning voor meer details
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = Uw download begint automatisch. Werkt het niet? <a id="{ $id }" href="{ $fallback_url }">Probeer nogmaals te downloaden.</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } is meer dan een browser.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Uw download is onderbroken. Maar er is nog hoop.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Uw systeem voldoet mogelijk niet aan de vereisten voor { -brand-name-firefox }, maar u kunt een van <a href="{ $url }">deze versies</a> proberen.

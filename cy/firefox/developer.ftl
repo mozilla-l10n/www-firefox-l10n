@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = Mae { -brand-name-firefox-developer-edition } yn borwr eithriadol o gyflym sy'n cynnig offer datblygwyr blaengar a'r nodweddion diweddaraf fel cefnogaeth i CSS Grid a fframwaith dadfygio
@@ -67,33 +64,7 @@ firefox-developer-fonts-panel = Panel Ffontiau
 firefox-developer-the-new-fonts-panel = Mae'r panel ffontiau newydd yn { -brand-name-firefox-devtools } yn rhoi i ddatblygwyr fynediad cyflym i'r holl wybodaeth sydd ei angen arnynt am ffontiau sy'n cael eu defnyddio mewn elfennau. Mae hefyd yn cynnwys gwybodaeth werthfawr, fel ffynhonnell ffontiau, pwysau, arddull a rhagor.
 firefox-developer-firefox-developer-edition-sends = Mae { -brand-name-firefox-developer-edition } yn anfon adborth yn awtomatig i { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Llwythwch i lawr y porwr { -brand-name-firefox } sydd wedi ei greu ar gyfer datblygwyr
-firefox-developer-welcome-to-firefox-developer-edition = Croeso i { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Y porwr ar gyfer datblygwyr
 firefox-developer-all-the-latest-v2 = Yr holl offer datblygwr diweddaraf o fewn y beta yn ogystal â nodweddion fel y Golygydd Consol Aml-lein ac Arolygydd WebSocket.
 firefox-developer-a-separate-profile = A <strong>proffil a llwybr ar wahân</strong> fel y gallwch chi ei redeg yn hawdd ochr yn ochr â Rhyddhau neu { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Dewisiadau <strong>wedi'u teilwra ar gyfer datblygwyr gwe</strong>: Mae porwr a dadfygio o bell yn cael eu galluogi'n rhagosodedig, yn ogystal a'r thema dywyll a botwm bar offer y datblygwr.
-firefox-developer-congrats-you-now-have-latest-v2 = Nawr mae gennych y fersiwn diweddaraf o { -brand-name-firefox-developer-edition }.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Gweld y <a { $attrs }>nodiadau rhyddhau</a> (Saesneg yn unig) i weld beth sy'n newydd.
-firefox-developer-developer-tools-user = Dogfennau Defnyddiwr Offer Datblygwr
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Adnoddau i Ddatblygwyr, gan Ddatblygwyr
-firefox-developer-mdn-playground = Maes chwarae
-firefox-developer-mdn-write-test-and-share = Ysgrifennwch, profwch a rhannwch eich cod. Eich maes chwarae i ddysgu a rhannu eich gwaith anhygoel gyda'r byd.
-firefox-developer-mdn-blog = Blog { -brand-name-mdn }
-firefox-developer-mdn-unlock-the-world = Datglowch fyd datblygu gwe gyda Blog { -brand-name-mdn } — eich canolbwynt ar gyfer mewnwelediadau arbenigol, safonau gwe diweddaraf, ac awgrymiadau codio.
-firefox-developer-mdn-updates = Diweddariadau
-firefox-developer-mdn-the-web-doesnt-have = Nid oes gan y we gofnod newid, ond gall { -brand-name-mdn } eich helpu. Gallwch bersonoli a hidlo newidiadau cydnawsedd yn seiliedig ar borwyr neu'r categori technoleg y mae gennych ddiddordeb ynddo, p'un ai'n JavaScript, CSS, ac ati.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = Cyfeiriadau { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = Mae { -brand-name-mdn } yn broject cod agored, cydweithredol sy'n dogfennu technolegau llwyfannau gwe, gan gynnwys CSS, HTML, JavaScript ac APIs gwe.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = Cwricwlwm { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Canllaw strwythuredig i'r sgiliau a'r arferion hanfodol ar gyfer bod yn ddatblygwr blaen llwyddiannus, ynghyd a'r adnoddau dysgu sy'n cael ei  argymell.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Cefnogwch { -brand-name-mdn } a gwnewch ef yn un eich hun gyda chasgliadau, hysbysiadau a meysydd chwarae.

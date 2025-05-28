@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/fast/
+### URL: https://www-dev.springfield.moz.works/features/fast/
 
 features-fast-firefox-keeps-getting-faster = { -brand-name-firefox } je stále rychlejší
 # HTML description
@@ -18,5 +18,5 @@ features-fast-firefox-is-powered-by-the-world = { -brand-name-firefox } je pohá
 features-fast-all-browsers-had-to-make = Všechny prohlížeče se musely zlepšit, aby v nových testech Speedometer 3 dosáhly dobrých výsledků. Obzvláště { -brand-name-firefox } udělal obrovský pokrok a <a { $link }>přímo díky této práci se pro naše uživatele znatelně zrychlil</a>. { -brand-name-firefox } je rychlejší než kdykoli předtím, rychlost je skutečně cítit, včetně rychlejšího načítání stránek a plynulejší interakce.
 features-fast-towards-a-faster-web = Na cestě k rychlejšímu webu
 # Variables
-#   $link (url) - link to /about/webvision/full/#performance
+#   $link (url) - link to https://www.mozilla.org/about/webvision/full/#performance
 features-fast-theres-been-an-encouraging = { -brand-name-mozilla } se <a { $link }>zavázala</a> neustále zlepšovat náš vlastní prohlížeč i celý web. Proto jsme investovali do spolupráce na vývoji Speedometeru 3, který zase zlepšil výkon všech prohlížečů. Ať už si tedy vyberete jakýkoli prohlížeč, { -brand-name-mozilla } chce, aby byl rychlý.

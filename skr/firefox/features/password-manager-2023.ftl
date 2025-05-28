@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/password-manager
+### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
 password-manager-free-password-manager = مفت پاس ورڈ منیجر
@@ -11,7 +11,7 @@ password-manager-free-password-manager = مفت پاس ورڈ منیجر
 password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } پاس ورڈ مینیجر تہاݙے تمام پاس ورڈز کوں ہک جاہ محفوظ کریندا ہے تاں جو تساں آپوں ڄاݨ سائٹاں تے لاگ ان تھی سڳو، یا ہتھیکڑے پاس ورڈز کوں بازیافت کر سڳو۔
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } ویب سائٹاں تئیں رسائی کِیتے تُہاݙے صارف ناواں اَتے پاس ورڈز کوں محفوظ طریقے نال ذخیرہ کرین٘دا ہِے، اڳلی واری جہڑیلے تُساں کئیں ویب سائٹ اُتے ویسو تاں خود کار طریقے نال اُنّھاں کوں تُہاݙے کِیتے بھر ݙین٘دا ہِے، اُتے تُہاکوں اِین٘دے بِلٹ اِن پاس ورڈ مُرتّب کرݨ دی خاصیت دے نال آپݨے محفوظ تھئے ہوئے لاگ اِن دا انتظام کرݨ ݙین٘دا ہِے۔
 # Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+#   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = <a { $fxa }>مُفت{ -brand-name-mozilla-account }</a> دے نال تُساں آپݨے سبّھے ڈیوائساں اُتے آپݨے پاس ورڈز کوں محفوظ طریقے نال ہم وقت کر سڳدے ہِیوے۔ تُساں { -brand-name-mozilla }’ایس دی رازداری دا احترام کرݨ آلیاں ٻئے سبّھے مصنوعات تئیں وی رسائی حاصل کر سڳدے ہِیوے۔
 password-manager-password-autofill-for-easy-logins = سوکھے لاگ اناں کیتے آٹو فل پاس ورڈ
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } تُہاݙے محفوظ کِیتے ڳئے صارف ناں اَتے پاس ورڈ کوں خود کار طریقے نال پُر کر سڳدا ہِے۔ ڄیکر تُہاݙے کول کئیں سائٹ کِیتے ہِک کنوں وَدھ لاگ اِن ہِن، تاں تُساں صرف آپݨاں مطلوبہ اکاؤنٹ چُݨ سڳدے ہِیوے اَتے اَساں اِیکوں اُتُّھوں کنوں گِھن گِھنسُوں۔

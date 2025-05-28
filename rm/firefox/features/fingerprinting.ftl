@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
+### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Improntaders èn fastizaders anc pli invasivs che solits fastizaders che sa basan sin cookies – perquai als blochescha { -brand-name-firefox-browser }.
@@ -27,5 +27,5 @@ features-fingerprinting-the-practice-of = Improntaders pon ta suandar <a { $url_
 features-fingerprinting-the-latest-firefox = Il nov navigatur{ -brand-name-firefox } ta protegia cunter improntaders cun bloccar dumondas da terzas partidas dad interpresas da las qualas igl è enconuschent ch'ellas utiliseschan improntaders. Nus avain lavurà intensivamain per pussibilitar questa protecziun da datas senza tangar il funcziunament da las paginas-web che ti visitas gugent. (Ve a savair dapli sch'ils <a { $url_details }>detagls tecnics</a> t'interessan.)
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = Igl è facil da chattar las configuraziuns correspundentas. En la versiun la pli actuala dal navigatur { -brand-name-firefox } è la bloccada dad improntaders gia activada en la configuraziun da standard. Avra tia <a { $url_protections }>survista da la protecziun da datas</a> per reconstruir co che ti vegns fastizà davos las culissas e co { -brand-name-firefox } impedescha quai.
-# $url_download (string) - link to firefox/new
+# $url_download (string) - link to https://www.firefox.com/download/
 features-fingerprinting-you-probably-wouldnt = Probablamain n'avessas ti betg gugent sch'insatgi ta suandass dapertut en la vita reala. I na dat era nagin motiv dad acceptar quai en la rait. Sche ti n'utiliseschas betg anc { -brand-name-firefox }, <a { $url_download } >telechargia e ta protegia</a> cunter improntaders.

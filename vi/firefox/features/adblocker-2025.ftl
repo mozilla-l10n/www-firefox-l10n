@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Chặn quảng cáo
@@ -15,7 +15,7 @@ features-adblocker-the-ad-blocker-a-tool = Trình chặn quảng cáo - Một c�
 features-adblocker-in-todays-digital-world = Trong thế giới kỹ thuật số ngày nay, web có thể rất lộn xộn. Trình chặn quảng cáo là những công cụ mạnh mẽ giúp bạn kiểm soát trải nghiệm duyệt web của bạn, cho phép bạn quyết định những gì xuất hiện trên màn hình của bạn.
 features-adblocker-ad-blockers-work = Trình chặn quảng cáo hoạt động theo hai cách chính: bằng cách ngăn chặn nội dung, chẳng hạn như quảng cáo, tải và chặn các phần của các trang web lưu trữ các yếu tố đó. Điều này có thể bao gồm quảng cáo video, quảng cáo được cá nhân hóa theo dõi bạn trên web và thậm chí cả trình theo dõi của bên thứ ba.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = Sử dụng trình chặn quảng cáo để đơn giản hoá. Nhiều tùy chọn đáng tin cậy có sẵn dưới dạng các tiện ích mở rộng trình duyệt, giúp bạn dễ dàng tìm thấy một giải pháp phù hợp với nhu cầu của bạn. Ví dụ, <a href="{ $firefox }">{ -brand-name-firefox }</a> cung cấp <a href="{ $addons }">một danh sách các tiện ích mở rộng được phê duyệt</a> được thiết kế để cải thiện trải nghiệm duyệt của bạn trong khi tôn trọng quyền riêng tư của bạn.
 features-adblocker-finding-the-right = Tìm trình chặn quảng cáo phù hợp cho bạn
@@ -36,5 +36,5 @@ features-adblocker-to-adjust = Để điều chỉnh các cài đặt này, nh�
 features-adblocker-why-use = Tại sao sử dụng trình chặn quảng cáo?
 features-adblocker-ad-blockers-do-more = Trình chặn quảng cáo làm nhiều hơn quản lý quảng cáo – nó có thể tăng cường tốc độ duyệt và bảo mật của bạn bằng cách giảm nội dung không cần thiết. Họ trao quyền cho bạn để tạo ra một trải nghiệm web phù hợp, không phân tâm, cho phép bạn tập trung vào những gì quan trọng nhất.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/download/
 features-adblocker-explore-hundreds = Khám phá hàng trăm tiện ích mở rộng tập trung vào quyền riêng tư có sẵn cho { -brand-name-firefox } và tìm các công cụ phù hợp cho bạn. <a href="{ $url }">Tải xuống { -brand-name-firefox }</a> Hôm nay để trải nghiệm trình duyệt được thiết kế với sự riêng tư và hiệu suất của bạn trong tâm trí.

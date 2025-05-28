@@ -7,7 +7,7 @@
 moz-account-promo-title = Một lần đăng nhập. <br> <span { $class }>Có mọi thứ</span> từ { -brand-name-mozilla }.
 # Variables
 #   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
+#   $learn_more_url - link to https://www.mozilla.org/accounts/
 moz-account-already-have-v2 = Đã có một tài khoản? <a { $sign_in_url }>Đăng nhập</a> hoặc <a { $learn_more_url }>tìm hiểu thêm</a> về cách tham gia { -brand-name-mozilla }.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = Achike rub'eyal man ye'atz'ët ta chik k'ïy taq eltzijol chuqa' ye'aq'ät ri ajk'ayij yatkojqaj pa k'amab'ey. Jun rucholajem chi kij q'atonela' eltzijol, richin ri { -brand-name-firefox } ajk'amaya'l.
 features-adblocker-the-ad-blocker-a-secret = El q'atoy eltzijol – jun ewan samajib'äl yeruq'ät itzel taq eltzijol.
@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = ¿La man nawïl ta achike nab'än kik
 features-adblocker-the-average-person-sees = Jun winäq yerutz'ët jun 4,000 eltzijol q'ij q'ij. We nana'ojij chi yalan k'ïy, xtiqa chawäch ri q'atöy taq eltzijol.
 features-adblocker-an-ad-blocker-is-a-piece = Jun q'atöy eltzijol, jun kema' nokisäx richin niq'at kitzijik ri eltzijol, ka'i' rub'eyal nisamäj. Ri nab'ey, nuq'ät akuchi' nitikïr pe ri ruk'u'x eltzijol, richin man niq'alajin ta pe pa ri ruxaq. Ri jun chik yerelesaj ri taq peraj k'o eltzijol chi kipam.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Re eltzijol re' rik'in jub'a' e silowäch yetararyax, yatrojqaj pa k'ïy ruxaq, ojqanela', taq kikuki aj rox winäq, chuqa' juley chik. Richin nawokisaj jun q'atöy, yatikïr ye'akanoj taq tz'aqat e k'o richin ri awokik'amaya'l. <a href="{ $firefox }">{ -brand-name-firefox }</a>, achi'el ri <a href="{ $addons }">ke'anik'oj re kitz'aqat taq q'atöy re'</a>. Tapitz'a' pa re rucholajem re' (o tacha' jun chik ri ütz chi re ri awokik'amaya'l) achike na ri awajowaxik.
 features-adblocker-find-the-right-ad-blocker = Tawila' ri ütz kiq'atb'al eltzijol
@@ -23,7 +23,7 @@ features-adblocker-on-firefox-you-can-use = Pa { -brand-name-firefox } yatikïr 
 features-adblocker-choose-your-level-of-protection = Tacha' ri runimilem achajinik
 features-adblocker-go-easy-with-standard = Eqal tab'ana' rik'in ri pa Rub'eyal b'anikil
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
 features-adblocker-if-ads-dont-bother-you = We majun nub'än chawe ri eltzijol chuqa' man naya' ta rejqalem achi'el ojqanela' chuqa' taq kikuki aj rox winäq nikiya' retal ri rub'i' awäch, xtik'atzin chawe ri Pa Rub'eyal cha'oj. Richin man yatkojqaj ta chik, pa ri pa Rub'eyal rub'anikil tawokisaj jun rutzuwäch <a href="{ $url }">Ichinan Okik'amaya'l</a>.
 features-adblocker-get-tough-with-strict = Jikïl kak'oje' rik'in ri Jikïl rub'anikil
 features-adblocker-if-seeing-too-many-ads = Wi ri eltzijol nutz'ila' ri aq'ij, rik'in ri Jikïl rub'anikil yatrutzilaj. Re rub'anikil re' yeruq'ät ri ojqanela' chuqa' ri taq kikuki aj rox winäq, ri etaman kiwäch pa ronojel rutzuwäch { -brand-name-firefox }.

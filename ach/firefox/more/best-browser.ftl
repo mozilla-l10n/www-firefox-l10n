@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-find-your-best-browser = Nong layeny mamegi maber loyo pi dwiro, mung ki ber bedo.
 best-browser-so-many-browser-options = Kwai layeny mapol me ayera, ento tye acel keken ma tiyo maber loyo pi miti mamegi. Layeny maber loyo piri myero omii dwiro kacel ki gwokke me mung.
@@ -25,4 +25,3 @@ best-browser-choosing-the-best-browser = Yero layeny maber cal tutwal ki yero ga
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = I <a href="{ $firefox }">{ -brand-name-firefox }</a>, watiyo matek me yubo layeny ma dwiro ne tye kiryo kato macon ki miyo loc mapol bot lutic kwede pi kwo gi me wiyamo.
-best-browser-take-control-of-your = Gam loc me layeny mamegi.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = Kinatab'al taq Okik'amaya'l: Junamaxïk uchuq'a' ri xkik'äm pe ri k'ak'a' taq okik'amaya'l
 browser-history-the-browser-wars-underdogs-giants = Kijunamaxik taq okik'amaya'l, ri e koköj chi kiwäch ri nima'q chuqa' ri ramaj xujäl ri ruwach'ulew. Tasik'ij kib'anob'al rokik'amaya'l ajk'amaya'l.
@@ -18,4 +18,3 @@ browser-history-web-era = Ajk'amaya'l Q'ijul
 browser-history-the-browser-wars = Kilab'enïk Okik'amaya'l
 browser-history-browsing-the-web = Okem pa K'amaya'l Wakami
 browser-history-resources = Taq Tob'äl
-browser-history-take-control-of = Tak'waj rub'ey ri akanob'al.

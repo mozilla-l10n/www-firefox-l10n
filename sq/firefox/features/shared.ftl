@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/
+### URL: https://www-dev.springfield.moz.works/features/
 
 features-shared-firefox-features = Veçori të { -brand-name-firefox }-it
 features-shared-footer-cta-title = Bëni më tepër gjëra me { -brand-name-firefox }-in

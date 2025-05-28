@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
+### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
 
 cookie-settings-how-mozilla-heading = Kako { -brand-name-mozilla } koristi kolačiće
 cookie-settings-how-does-mozilla-use-subheading = Kako { -brand-name-mozilla } koristi ove podatke?

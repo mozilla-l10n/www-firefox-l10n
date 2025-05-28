@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/404/
+### URL: https://www-dev.springfield.moz.works/404/
 
 not-found-page-not-found-page-page-not-found = 404: Stránka nebyla nalezena
 not-found-page-sorry-we-cant-find-that-page = Jejda, tuto stránku nemůžeme najít
@@ -13,7 +13,7 @@ not-found-page-go-back = Zpátky
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Zjistěte více</a> o { -brand-name-mozilla(case: "loc") }, neziskové organizaci, která je autorem { -brand-name-firefox(case: "gen") }.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/new/
+#   $download (url) - link to https://www.mozilla.org/firefox/download/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Stáhněte si</a> { -brand-name-firefox(case: "acc") } do svého mobilního zařízení nebo počítače
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404

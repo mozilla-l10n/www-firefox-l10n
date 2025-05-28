@@ -14,8 +14,6 @@ newsletter-form-select-country-or-region = Valitse maa tai alue
 newsletter-form-select-language = Valitse kieli
 newsletter-form-your-email-here = KIRJOITA SÄHKÖPOSTIOSOITTEESI TÄHÄN
 newsletter-form-get-firefox-news = Tilaa { -brand-name-firefox }-uutiset
-newsletter-form-join-the-community = Liity yhteisöön
-newsletter-form-sign-up-to-receive = Rekisteröidy saadaksesi kuukausittaiset uutiset { -brand-name-firefox }ista ja elämää verkossa muokkaavista trendeistä.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Minulle sopii, että { -brand-name-mozilla } käsittelee tietojani <a href="{ $url }">tietosuojaselosteen</a> mukaisesti
@@ -24,17 +22,13 @@ newsletter-form-we-will-only-send-firefox-v2 = Lähetämme sinulle vain { -brand
 newsletter-form-if-you-havent-previously = Voit joutua vahvistamaan tilauksen, jos et ole aiemmin vahvistanut { -brand-name-mozilla }an liittyvän uutiskirjeen tilausta. Tarkista sähköpostisi ja roskapostisuodattimesi viestimme varalta.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + sinä
 newsletter-form-get-firefox-tips = Saa { -brand-name-firefox }-vinkkejä, -niksejä, -uutisia ynnä muuta
-newsletter-form-get-mozilla-updates = Tilaa { -brand-name-mozilla }-tiedotteet
 newsletter-form-available-languages = Valitse kieli
 newsletter-form-select-country = Valitse maa
 newsletter-form-sign-me-up = Tilaa
 newsletter-form-sign-up-now = Tilaa nyt
 newsletter-form-thanks = Kiitos!
-newsletter-form-leave-this-field-empty = Jätä tämä kenttä tyhjäksi.
 newsletter-form-yes = Kyllä
 newsletter-form-no = Ei
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = Uutiskirjeen tilauslomake
 multi-newsletter-form-checkboxes-legend = Haluan tietoa aiheesta:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

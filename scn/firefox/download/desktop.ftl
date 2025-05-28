@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -20,11 +20,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Cc'è na virsioni ancora cchiù nova di { -brand-name-firefox }. <a { $update_url }>Attualizza a l'ùrtima virsioni</a>
 firefox-desktop-download-get-the-browser = Pigghia u navicaturi chi pruteggi soccu è mpurtanti
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-no-shady = Senza pulìtichi di privatizza trùbbuli o lassapassari pi cu' fa pubblicità. Sulu un navicaturi lestu comu na sajitta chi nun ti vinni a nuḍḍu.
 firefox-desktop-download-download-options = Scartati di scarricamentu e autri lingui
 firefox-desktop-download-browser-support = Supportu di { -brand-name-firefox-browser }
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = Fai soccu voi 'n linia.<br>U { -brand-name-firefox-browser } <strong>nun</strong> ti talìa.
 firefox-desktop-download-we-block-the-ad = Bluccamu i trazzatura dî pubblicità, e tu nàvighi cchiù lestu.
 firefox-desktop-download-ads-are-distracting = I pubblicità distràjinu e fannu i pàggini cchiù lenti di carricari, mentri chi i trazzatura talìanu tuttu chiḍḍu chi fai 'n linia. U { -brand-name-firefox-browser } blocca di manera autumàtica a majurìa dî trazzatura, senza chi metti manu nnê mpustazzioni di sicurizza.
@@ -110,9 +110,9 @@ firefox-desktop-download-from-security-to = Dâ sicurizza, ê nutizzi ê jòcura
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } fu criatu di <a { $attrs }>{ -brand-name-mozilla }</a> comu un navicaturi cchiù lestu e privatu di autri, a tipu { -brand-name-ie } e { -brand-name-chrome }. Oji a nostra cumpagnìa e a nostra cumunità di vuluntari ànnu na missioni: a to privatizza veni prima di tuttu.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = Sicutannu a riti chi crisci e cancia, { -brand-name-firefox } cuntinua a cuncintràrisi ncapu ô to dirittu â privatizza — a chiamamu <a { $attrs }>Prumisa dî Dati Pirsunali</a>: ricògghiri cchiù picca dati, tinìrili ô sicuru, nuḍḍu sicritu. I to dati, a to attività e a to vita 'n linia sunnu prutetti di { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
@@ -127,7 +127,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } di mane
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Ài dumanni? Cc'è l'<a { $attrs }>assistenza di { -brand-name-mozilla }</a> pi tia.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Quasi agghicasti!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -149,11 +149,11 @@ firefox-desktop-download-if-you-see-a-prompt = Si t'affaccia n'abbisu chi stai p
 firefox-desktop-download-visit-support-for-more = Vai â pàggina di l'assistenza p'aviri cchiù assai minutagghi
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = U to scarricamentu s'abbiarà ntra picca. Nun funziunau? <a id="{ $id }" href="{ $fallback_url }">Torna a prova.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } è cchiù assai d'un navicaturi.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = U to scarricamentu fu firmatu, ma nun ti frasturnari.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Putissi èssiri ca u to sistema nun è bastanti putenti pi { -brand-name-firefox }, ma po' pruvari una di <a href="{ $url }">sti virsioni</a>.

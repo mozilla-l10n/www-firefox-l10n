@@ -7,7 +7,7 @@
 moz-account-promo-title = Un mewngofnod. <br> <span { $class }>Popeth</span> { -brand-name-mozilla }.
 # Variables
 #   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
+#   $learn_more_url - link to https://www.mozilla.org/accounts/
 moz-account-already-have-v2 = Oes gennych chi gyfrif yn barod? <a { $sign_in_url }>Mewngofnodwch</a> neu <a { $learn_more_url }>ddysgu rhagor</a> am ymuno â { -brand-name-mozilla }.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }

@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
 # page title
 bookmark-manager-bookmark-manager = Blêdwizerbehearder
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Organisearje jo blêdwizers mei mappen en labels.
 # Variables:
-#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+#   $sync (url) - link to https://www.firefox.com/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = Blêdwizers binne keppelingen dy’t jo yn jo browser bewarje, sadat jo fluch en maklik werom kinne nei jo favorite plakken op it ynternet. { -brand-name-firefox } omfettet in handige blêdwizerbehearder, sadat jo al jo bewarre keppelingen op al jo apparaten organisearje, sykje, bywurkje en <a { $sync }>syngronisearje</a> kinne.
 bookmark-manager-organize-your-boomarks-into = Organisearje jo blêdwizers yn trochsykbere mappen
 bookmark-manager-collect-your-bookmarks-in-folders = Sammelje jo blêdwizers yn mappen en label se mei mear details. Jo kinne jo blêdwizers ek sortearje om fluch dyjingen te finen dy’t jo nedich binne.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-the-browser-wars-underdogs-giants = Ratovi preglednika, autsajderi protiv divova i trenuci koji su promijenili svijet. Pročitaj povijest web preglednika.
 browser-history-the-history-of-web = Povijest web preglednika
@@ -14,4 +14,3 @@ browser-history-the-browser-wars = Ratovi preglednika
 browser-history-other-competitors = Drugi konkurenti su se pojavili tijekom kasnih 1990-ih i ranih 2000-ih, uključujući { -brand-name-opera }, { -brand-name-safari } i { -brand-name-google } { -brand-name-chrome }. { -brand-name-microsoft } { -brand-name-edge } je 2015. zamijenio { -brand-name-ie } s izdanjem { -brand-name-windows } 10.
 browser-history-browsing-the-web = Pregledavanje weba danas
 browser-history-resources = Resursi
-browser-history-take-control-of = Preuzmi kontrolu nad svojim preglednikom.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/fast/
+### URL: https://www-dev.springfield.moz.works/features/fast/
 
 features-fast-firefox-keeps-getting-faster = { -brand-name-firefox } 越來越快
 # HTML description
@@ -18,5 +18,5 @@ features-fast-firefox-is-powered-by-the-world = { -brand-name-firefox } 使用�
 features-fast-all-browsers-had-to-make = 所有瀏覽器必須持續改進才能在 Speedometer 3 測試中獲得良好成績。尤其是 { -brand-name-firefox } 也有長足的進步<a { $link }>而變得更快</a>，直接讓使用者從中受益。您實際使用 { -brand-name-firefox } 的速度體驗變得更快，載入頁面與互動體驗也更順暢。
 features-fast-towards-a-faster-web = 打造更快的網路環境
 # Variables
-#   $link (url) - link to /about/webvision/full/#performance
+#   $link (url) - link to https://www.mozilla.org/about/webvision/full/#performance
 features-fast-theres-been-an-encouraging = { -brand-name-mozilla } <a { $link }>致力於</a>不斷改善我們的瀏覽器與整個 Web 環境。這也是為什麼我們持續投資開發 Speedometer 3，改善所有瀏覽器的效能。因此，無論您選擇哪套瀏覽器，{ -brand-name-mozilla } 都希望它的速度能持續變快。

@@ -6,27 +6,23 @@
 # Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox }’u indir
 firefox-new-download-the-fastest-firefox = Bugüne kadarki en hızlı { -brand-name-firefox }'u indirin
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = Daha hızlı açılan sayfalar, daha az bellek kullanımı ve bir sürü özelliğiyle yeni { -brand-name-firefox } burada.
 firefox-new-get-the-latest-firefox = En yeni { -brand-name-firefox } tarayıcısını indirin.
-# span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = { -brand-name-windows } için <br>{ -brand-name-firefox }’u indir
-firefox-new-download-firefox-for-macos = { -brand-name-mac } için <br>{ -brand-name-firefox }’u indir
-firefox-new-download-firefox-for-linux = { -brand-name-linux } için <br>{ -brand-name-firefox }’u indir
 firefox-new-free-web-browser = Ücretsiz Web Tarayıcısı
 firefox-new-advanced-install-options = Gelişmiş yükleme seçenekleri ve diğer platformlar
 firefox-new-download-in-another-language = Başka bir dilde indir
 firefox-new-need-help = Yardım mı lazım?
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-firefox-new-should-begin = İndirme işlemi birazdan kendiliğinden başlayacak. Başlamazsa <a id="{ $id }" href="{ $fallback_url }">yeniden deneyin</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } yalnızca bir tarayıcı değil.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
@@ -34,7 +30,7 @@ firefox-new-download-interrupted = İndirmeniz kesintiye uğradı.
 firefox-new-download-almost-there = Az kaldı!
 firefox-new-download-select-linux = Aşağıdan bir indirme seçeneği seçin
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-system-may-not = Sisteminiz { -brand-name-firefox }’un gereksinimlerini karşılamıyor olabilir ama <a href="{ $url }">şu sürümlerden</a> birini deneyebilirsiniz.
 firefox-new-windows = { -brand-name-windows }
 # Variables:
@@ -45,7 +41,7 @@ firefox-new-visit-support-for-more = Daha fazla bilgi için destek sitemize baka
 # Not-Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = { -brand-name-firefox-browser }nı indir

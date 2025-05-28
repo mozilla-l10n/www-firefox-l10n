@@ -14,8 +14,6 @@ newsletter-form-select-country-or-region = เลือกประเทศห�
 newsletter-form-select-language = เลือกภาษา
 newsletter-form-your-email-here = อีเมลของคุณที่นี่
 newsletter-form-get-firefox-news = รับข่าว { -brand-name-firefox }
-newsletter-form-join-the-community = เข้าร่วมชุมชน
-newsletter-form-sign-up-to-receive = ลงทะเบียนเพื่อรับข่าวสารรายเดือนจาก { -brand-name-firefox } และเทรนด์อินเทอร์เน็ตที่จะกำหนดชีวิตออนไลน์ของคุณ
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = ฉันตกลงให้ { -brand-name-mozilla } รองรับข้อมูลของฉันตามที่อธิบายใน <a href="{ $url }">คำแจ้งความเป็นส่วนตัวนี้</a>
@@ -24,17 +22,13 @@ newsletter-form-we-will-only-send-firefox-v2 = เราจะส่งเฉพ
 newsletter-form-if-you-havent-previously = ถ้าคุณยังไม่เคยยืนยันการสมัครจดหมายข่าวที่เกี่ยวข้องกับ { -brand-name-mozilla } คุณอาจจะต้องทำต่อไปนี้ โปรดตรวจสอบกล่องจดหมายเข้าของคุณหรือตัวกรองสแปมของคุณเพื่อดูอีเมลจากเรา
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + คุณ
 newsletter-form-get-firefox-tips = รับกลเม็ด เคล็ดลับ ข่าว และอีกมากมายเกี่ยวกับ { -brand-name-firefox }
-newsletter-form-get-mozilla-updates = รับการอัปเดตจาก { -brand-name-mozilla }
 newsletter-form-available-languages = ภาษาที่มี
 newsletter-form-select-country = เลือกประเทศ
 newsletter-form-sign-me-up = ลงทะเบียน
 newsletter-form-sign-up-now = ลงทะเบียนตอนนี้
 newsletter-form-thanks = ขอบคุณ!
-newsletter-form-leave-this-field-empty = เว้นช่องนี้ว่างไว้
 newsletter-form-yes = ใช่
 newsletter-form-no = ไม่
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = แบบฟอร์มลงทะเบียนจดหมายข่าว
 multi-newsletter-form-checkboxes-legend = ฉันต้องการข้อมูลเกี่ยวกับ:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

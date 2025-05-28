@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } ha’e kundaha ipya’e añetéva ome’ẽva tembiporu itenondéva mboguatahárape g̃uarã ha tembiapoite ipyahúva CSS renda jokoháramo ha tembiapo kora mopotĩha
@@ -67,31 +64,7 @@ firefox-developer-fonts-panel = Teñoiha rupa
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools } tai’aty rupa pyahu ome’ẽ mboguatahárape jeike pya’e opaite marandúpe oikotevẽva tai’aty ojeporúva mba’eporúpe. Avei ome’ẽ marandu oikoitéva tai’aty reñoihápe, pohyikue, mba’eichagua ha hetave.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } omondo ijehegui { -brand-name-mozilla } remikotevẽ.
 firefox-developer-download-the-firefox-browser = Emboguejy { -brand-name-firefox } rembiapo omoheñóiva umi mboguatahára
-firefox-developer-welcome-to-firefox-developer-edition = Eg̃uahẽporã { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Kundahára ojejapóva mboguatahárape g̃uarã
 firefox-developer-all-the-latest-v2 = Tembiporukuéra mboguatahárape g̃uarã ipyahúva beta rehegua, avei tembiapoite mba’e’oka mbosako’iha ha WebSocket mbohekoha.
 firefox-developer-a-separate-profile = Pe <strong>mba’ete ha tape ojeipyre</strong> ikatu hag̃ua emomba’apo hasy’ỹre oñondive ha’etéva ndide térã { -brand-name-beta } { -brand-name-firefox } mba’éva ndive.
 firefox-developer-preferences-tailored = Eguehoryvéva <strong>mbo’avapyre ñanduti mboguatahárape g̃uarã</strong>: kundahára ha ñemopotĩ okaygua hendýma ijehegui, avei téma ypytũ ha votõ tembiporu renda mboguatahárape g̃uarã.
-firefox-developer-congrats-you-now-have-latest-v2 = Eguereko ipyahuvéva { -brand-name-firefox-developer-edition }.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Ehechajey <a { $attrs }>marandu’i peteĩva</a> (inglés ñe’ẽme) ehecha hag̃ua mba’epyahu.
-firefox-developer-developer-tools-user = Tembiporu mboguataha poruhárape g̃uarã kuatiaite
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Mba’eita mboguatahárape g̃uarã, mboguatahára rupi
-firefox-developer-mdn-playground = Tenda ñembosaraiha
-firefox-developer-mdn-write-test-and-share = Ehai, eiporu ha emoherakuã nde ayvu. Ne ñembosaraiha eikuaa ha emoherakuã ne rembiapo arapy ndive.
-firefox-developer-mdn-blog = { -brand-name-mdn } Blog
-firefox-developer-mdn-updates = Ñembohekopyahu
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn } Jeikekuaaha
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } ha’e apopyrã juajugua ijayvu jurujáva ombokuatiáva tembiporupyahu ñanduti pyendavusu, oĩhápe CSS, HTML, JavaScript ha APIs.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } Mbokatupyryrã
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Peteĩ tape mba’ekuaa ha mba’eaporã eikuaa katueteva’erã reikoséramo mboguataháraramo front-end ikatupyrýva, opaite kuaapyrã kuave’ẽmby ndive.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Oipytyvõ { -brand-name-mdn } ha emboavareko ñembyaty, ñemomarandu ha eiporukuaa hag̃uáme nde mba’eñemi.

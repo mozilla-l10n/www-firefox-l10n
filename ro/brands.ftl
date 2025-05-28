@@ -12,14 +12,11 @@
 -brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook = Facebook
--brand-name-github = GitHub
 -brand-name-google = Google
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
--brand-name-twitter = Twitter
--brand-name-wireguard = WireGuard
 
 ## Firefox browsers
 
@@ -78,8 +75,6 @@
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
--brand-name-aurora = Aurora
--brand-name-firefox-quantum = Firefox Quantum
 
 ## Firefox products
 
@@ -89,53 +84,7 @@
 
 ## Firefox products (short names)
 
--brand-name-devtools = DevTools
 -brand-name-relay = Relay
-
-## Firefox products (legacy)
-
--brand-name-firefox-account =
-    { $case ->
-        [definite-article]
-            { $capitalization ->
-                [upper] Contul Firefox
-                [upper-and-you] Contul tău Firefox
-               *[lower] contul Firefox
-            }
-        [genitive-or-dative]
-            { $capitalization ->
-                [lower-and-you] contului tău Firefox
-               *[lower] contului Firefox
-            }
-       *[indefinite-article]
-            { $capitalization ->
-                [upper] Cont Firefox
-               *[lower] cont Firefox
-            }
-    }
--brand-name-firefox-accounts =
-    { $case ->
-        [definite-article]
-            { $capitalization ->
-                [upper] Conturile Firefox
-               *[lower] conturile Firefox
-            }
-        [genitive-or-dative]
-            { $capitalization ->
-               *[lower] conturilor Firefox
-            }
-       *[indefinite-article]
-            { $capitalization ->
-                [upper] Conturi Firefox
-               *[lower] conturi Firefox
-            }
-    }
--brand-name-firefox-marketplace = Firefox Marketplace
--brand-name-firefox-os = Firefox OS
--brand-name-firefox-private-network = Firefox Private Network
-
-## Firefox projects
-
 
 ## Pocket
 
@@ -144,14 +93,9 @@
 ## Fakespot
 
 
-## Anonym
-
-
 ## Mozilla projects
 
--brand-name-bugzilla = Bugzilla
 -brand-name-mdn-web-docs = MDN Web Docs
--brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
 
@@ -161,22 +105,12 @@
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
 
-## Mozilla projects (legacy)
-
--brand-name-webmaker = Webmaker
-
-## Open Source projects
-
--brand-name-rust = Rust
-
 ## Other browsers
 
 -brand-name-brave = Brave
 -brand-name-chrome = Chrome
 -brand-name-edge = Edge
 -brand-name-ie = Internet Explorer
--brand-name-opera = Opera
--brand-name-safari = Safari
 
 ## Platforms
 
@@ -197,9 +131,7 @@
 
 ## Facebook products
 
--brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
--brand-name-workplace = Workplace
 
 ## Google products
 

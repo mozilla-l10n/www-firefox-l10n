@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/add-ons/
+### URL: https://www-dev.springfield.moz.works/features/add-ons/
 
 features-add-ons-firefox-add-ons = Doplnky pre { -brand-name-firefox }
 features-add-ons-firefox-add-ons-and-browser-extensions = Rozšírenia a doplnky pre { -brand-name-firefox }
@@ -12,6 +12,6 @@ features-add-ons-extensions-also-known-as-add-ons = Rozšírenia – známe aj a
 #   $fbcontainer (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 #   $translate (url) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
 #   $language (url) - link to https://addons.mozilla.org/firefox/addon/languagetool/
-#   $customize (url) - link to https://www.mozilla.org/firefox/features/customize/
+#   $customize (url) - link to https://www.firefox.com/features/customize/
 #   $amo (url) - link to https://addons.mozilla.org
 features-add-ons-there-are-firefox-add-ons-that = Existujú doplnky pre { -brand-name-firefox }, ktoré <a { $fbcontainer }>zabraňujú Facebooku sledovať vás na webe</a>, <a { $translate }>prekladajú text do iných jazykov</a> , <a { $language }>skontrolujú pravopis alebo gramatiku</a> alebo <a { $customize }>vylepšia vzhľad vášho prehliadača</a>. Tieto a tisíce ďalších bezplatných rozšírení nájdete na stránkach <a { $amo }>addons.mozilla.org</a>.

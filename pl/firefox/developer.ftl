@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } to oszałamiająco wydajna przeglądarka, oferująca nowoczesne narzędzia dla programistów i najnowsze funkcje, takie jak obsługa CSS Grid i debugowanie bibliotek
@@ -67,18 +64,7 @@ firefox-developer-fonts-panel = Panel czcionek
 firefox-developer-the-new-fonts-panel = Nowy panel czcionek { -brand-name-firefox-devtools(case: "gen", capitalization: "lower") } zapewnia szybki dostęp do wszystkich informacji o czcionkach używanych w elemencie. Zawiera także wartościowe informacje, takie jak źródło czcionki, waga, styl i nie tylko.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } automatycznie przesyła statystyki użytkownika do { -brand-name-mozilla(case: "gen") }.
 firefox-developer-download-the-firefox-browser = Pobierz przeglądarkę { -brand-name-firefox } tworzoną z myślą o twórcach sieci
-firefox-developer-welcome-to-firefox-developer-edition = Witaj w { -brand-name-firefox-developer-edition(case: "loc") }
 firefox-developer-made-for-developers = Przeglądarka tworzona z myślą o twórcach sieci
 firefox-developer-all-the-latest-v2 = Wszystkie najnowsze narzędzia dla programistów z bety plus takie funkcje, jak wielowierszowy edytor konsoli i inspektor WebSocket.
 firefox-developer-a-separate-profile = <strong>Oddzielny profil i ścieżka</strong> sprawiają, że można ją łatwo uruchamiać obok stabilnego wydania lub { -brand-name-firefox(case: "gen") } { -brand-name-beta }.
 firefox-developer-preferences-tailored = Preferencje <strong>dopasowane pod programistów</strong>: debugowanie przeglądarki i debugowanie zdalne są domyślnie włączone, podobnie jak ciemny motyw i przycisk paska narzędzi dla programistów.
-firefox-developer-congrats-you-now-have-latest-v2 = Używasz teraz najnowszej wersji { -brand-name-firefox-developer-edition(case: "gen") }.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Otwórz <a { $attrs }>informacje o wydaniu</a> (tylko w języku angielskim), aby zobaczyć, co nowego.
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Zasoby dla deweloperów, od deweloperów
-firefox-developer-mdn-blog = Blog { -brand-name-mdn }
-firefox-developer-mdn-updates = Aktualizacje
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }

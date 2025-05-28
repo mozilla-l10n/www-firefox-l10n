@@ -3,15 +3,15 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
+### URL: https://www-dev.springfield.moz.works/compare/chrome/
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
 # HTML page description
 compare-chome-read-our-comparison = Lue { -brand-name-firefox }- ja Chrome-selaimien vertailu ominaisuuksista, yksityisyydestä ja käytön helppoudesta.
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
-# $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
+# $adblocker (url) - link to https://www.firefox.com/features/adblocker/
 compare-chrome-firefoxs-default-privacy-settings = { -brand-name-firefox }in yksityisyysasetukset ovat paljon vahvempia kuin Chromen – ja meillä on lisäominaisuuksia, jotka estävät verkkosivustoja seuraamasta sinua, kuten <a { $fingerprint }>yksilöimisen esto</a> sekä valitsemasi lisäosat <a { $adblocker }>mainosten estoon</a>.
 compare-chrome-we-block-trackers-by-default = Estämme seuraimet oletuksena. Chrome ei.
 compare-chrome-in-fact-by-default-chrome-monitors = Itse asiassa Chrome seuraa oletuksena, millä verkkosivustoilla vierailet ja mitä teet, jotta se voi tunnistaa "mainosaiheet" lähettääkseen sinulle kohdistetumpia mainoksia. Voit estää kolme aihetta, mutta et saa muiden mainosaiheiden tunnistamisen lopettamista.

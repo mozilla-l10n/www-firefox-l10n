@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = Böngészőtörténelem: Epikus hatalmi harcok, amelyek elhozták a modern böngészőket
 browser-history-the-browser-wars-underdogs-giants = A böngészőháborúk, törpék az óriások ellen, és pillanatok, melyek megváltoztatták a világot. Olvasson a webböngésző történelméről.
@@ -51,4 +51,3 @@ browser-history-in-the-future-the = A jövőben várhatóan a web még tovább t
 browser-history-in-the-future-the-v2 = A jövőben várhatóan a web még tovább távolodik a hiperszöveges gyökereitől, és interaktív élmények tengerévé válik. A virtuális valóság évtizedek óta ott van a látóhatáron (vagy legalábbis az 1992-es A fűnyíróember és az 1995-ös Nintendo Virtual Boy óta), de a web lehet, hogy elhozza végre a tömegek számára is. A { -brand-name-firefox } már támogatja a WebVR-t és A-Frame-et, amellyel a fejlesztők gyorsan és könnyen építhetnek virtuális valóságot használó weboldalakat. A legtöbb modern mobileszköz támogatja a WebVR-t, és egyszerű kartonpapír-tokokkal headsetté alakíthatók. Egy olyan 3D-s virtuális valóságot használó web, amit Neal Stephenson megálmodott, közelebb lehet, mint gondolná. Ebben az esetben a webböngésző szinte teljesen eltűnhet, és egy valódi ablak lehet egy másik világba.
 browser-history-whatever-the-future = Bármit is tartogasson a web jövője, a { -brand-name-mozilla } és a { -brand-name-firefox } ott lesz a felhasználók számára, biztosítva, hogy hatékony eszközökkel tapasztalják meg a webet, és mindent, amit az kínál. A web mindenkié, és mindenkinek tudnia kell irányítania a saját online élményét. Ezért nyújtjuk a { -brand-name-firefox }-eszközcsaládot, hogy megvédjék a felhasználók magánszféráját, és ezért nem adjuk el soha a felhasználók adatait a hirdetőknek.
 browser-history-resources = Források
-browser-history-take-control-of = Vegye át a böngészője irányítását.

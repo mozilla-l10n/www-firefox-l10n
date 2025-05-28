@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } jo malsny kaž błysk wobglědowak, kótaryž wjelicne wuwijarske rědy a nejnowše funkcije ako pódpěru CSS-kśidnow a framework debugging bitujo
@@ -67,26 +64,7 @@ firefox-developer-fonts-panel = Pólo pismow
 firefox-developer-the-new-fonts-panel = Nowe pólo pismow w { -brand-name-firefox-devtools } zmóžnja wuwijarjam malsny pśistup ku wšym informacijam, kótarež wó wužytych pismach w elemenśe trjebaju. Wopśimujo teke gódnotne informacije w žrědle, waze, stil pisma a wěcej.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } { -brand-name-mozilla } awtomatiski informacije sćelo.
 firefox-developer-download-the-firefox-browser = Ześěgniśo wobglědowak { -brand-name-firefox } wuwity za wuwijarje
-firefox-developer-welcome-to-firefox-developer-edition = Witajśo k { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Wobglědowak za wuwijarje
 firefox-developer-all-the-latest-v2 = Wšykne nejnowše wuwijaŕske rědy w betawersiji pśidatnje k funkcijam ako wěcejsmužkowy konsolowy editor a WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>Separatny profil a separatna sćažka</strong>, tak móžośo jen z kóńcneju wersiju abo { -brand-name-beta } { -brand-name-firefox } wuwjasć.
 firefox-developer-preferences-tailored = Nastajenja, kotrež su <strong>na webwuwiwarjow wusměrjone</strong>: Pytanje zmólkow wobglědowaka a znazdala stej pó standarźe zmóžnjonej, rowno tak kaž śamna drastwa a tłocašk za wuwijaŕsku symbolowu rědku.
-firefox-developer-congrats-you-now-have-latest-v2 = Maśo něnto nejnowša wersija { -brand-name-firefox-developer-edition }.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Cytajśo <a { $attrs }>wersije informacije</a> (jano engelski), aby nowe funkcije a změny wiźeł.
-firefox-developer-developer-tools-user = Wužywaŕske dokumenty wuwijaŕskich rědow
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Resurse za wuwijarje wót wuwijarjow
-firefox-developer-mdn-playground = Grajkanišćo
-firefox-developer-mdn-write-test-and-share = Pišćo, testujśo a źělśo swój kod. Wašo grajkanišćo, źož móžośo wuknuś a swójo późiwabne źěło ze swětom źěliś.
-firefox-developer-mdn-blog = Blog { -brand-name-mdn }
-firefox-developer-mdn-unlock-the-world = Wótwóŕśo swět webwuwiśa z blogom { -brand-name-mdn } – wašo srjejźišćo za dopóznaśa ekspertow, nejnowše webstandardy a programěrowańske tipy.
-firefox-developer-mdn-updates = Aktualizacije
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = Reference { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = Wucbny plan { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }

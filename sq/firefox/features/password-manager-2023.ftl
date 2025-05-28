@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/password-manager
+### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
 password-manager-free-password-manager = Përgjegjës fjalëkalimesh falas
@@ -11,7 +11,7 @@ password-manager-free-password-manager = Përgjegjës fjalëkalimesh falas
 password-manager-firefox-password-manager-saves-all = Përgjegjësi i Fjalëkalimeve në { -brand-name-firefox } ruan krejt fjalëkalimet tuaj në një vend, që kështu të mund të bëni hyrje automatike në sajte, ose që të merrni fjalëkalime të ruajtur.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } i depoziton në mënyrë të parrezik emrat e përdoruesve dhe fjalëkalimet tuaja për hyrje në sajte, i plotëson ato automatikisht për ju herës tjetër që vizioni një sajt dhe ju lejon të administroni kredenciale hyrjesh të ruajtur, me veçorinë e brendshme të administrimit të fjalëkalimeve.
 # Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+#   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Me një <a { $fxa }>{ -brand-name-mozilla-account } falas</a> mund të njëkohësoni në mënyrë të parrezik fjalëkalimet tuaj nëpër krejt pajisjet tuaja. Mund të hyni dhe te krejt produktet e tjerë  { -brand-name-mozilla } që respektojnë privatësinë.
 password-manager-password-autofill-for-easy-logins = Vetëplotësim fjalëkalimesh, për hyrje më të lehta
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox }-i mund të plotësojë në mënyrë automatike emrin e përdoruesit dhe fjalëkalimin që ka ruajtur. Nëse keni më tepër se një palë kredenciale hyrjeje për një sajt, mund të përzgjidhni thjesht llogarinë që doni dhe do t’ju shpien atje.

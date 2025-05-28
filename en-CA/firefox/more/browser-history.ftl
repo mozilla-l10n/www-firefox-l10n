@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = Browser History: Epic power struggles that brought us modern browsers
 browser-history-the-browser-wars-underdogs-giants = The browser wars, underdogs vs giants, and moments that changed the world. Read about the history of the web browser.
@@ -51,4 +51,3 @@ browser-history-in-the-future-the = In the future, the web will likely stray fur
 browser-history-in-the-future-the-v2 = In the future, the web will likely stray further from its hypertext roots to become a vast sea of interactive experiences. Virtual reality has been on the horizon for decades (at least since the release of Lawnmower Man in 1992 and the Nintendo Virtual Boy in 1995), but the web may finally bring it to the masses. { -brand-name-firefox } now has support for WebVR and A-Frame, which let developers quickly and easily build virtual reality websites. Most modern mobile devices support WebVR, and can easily be used as headsets with simple cardboard cases. A 3D virtual reality web like the one imagined by science fiction author Neal Stephenson may be just around the corner. If that’s the case, the web browser itself may completely disappear and become a true window into another world.
 browser-history-whatever-the-future = Whatever the future of the web holds, { -brand-name-mozilla } and { -brand-name-firefox } will be there for users, ensuring that they have powerful tools to experience the web and all it has to offer. The web is for everyone, and everyone should have control of their online experience. That’s why we give { -brand-name-firefox } tools to protect user privacy and we never sell user data to advertisers.
 browser-history-resources = Resources
-browser-history-take-control-of = Take control of your browser.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = ਐਨੇ ਇਸ਼ਤਿਹਾਰ ਵੇਖਣ ਅਤੇ ਕੰਪਨੀਆਂ ਨੂੰ ਆਨਲਾਈਨ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਤੋਂ ਕਿਵੇ ਰੋਕੀਏ। { -brand-name-firefox } ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਤੋਂ ਇਸ਼ਤਿਹਾਰ ਰੋਕੂ ਗਾਈਡ।
 features-adblocker-the-ad-blocker-a-secret = ਇਸ਼ਤਿਹਾਰ ਬਲਾਕਰ – ਖਿਝਾਊ ਇਸ਼ਤਿਹਾਰਾਂ ਦੇ ਖਿਲਾਫ਼ ਲੁਕਵਾਂ ਹਥਿਆਰ ਹੈ।

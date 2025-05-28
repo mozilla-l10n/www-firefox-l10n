@@ -6,20 +6,16 @@
 # Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 firefox-new-download-firefox = Nādunïnj { -brand-name-firefox }
-# span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = Nādunïnj { -brand-name-firefox } <br>guendâ { -brand-name-windows }
-firefox-new-download-firefox-for-macos = Nādunïnj { -brand-name-firefox } <br>guendâ { -brand-name-mac }
-firefox-new-download-firefox-for-linux = Nādunïnj { -brand-name-firefox } <br>guendâ { -brand-name-linux }
 firefox-new-need-help = Huā sa rugûñu’ūnj ñûnj sò’ aj?
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
 
 
 # Not-Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 

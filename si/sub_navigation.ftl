@@ -22,6 +22,3 @@ sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly } සහ { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-android } { -brand-name-nightly } සහ { -brand-name-beta }
 sub-navigation-ios-test-flight = { -brand-name-ios } { -brand-name-test-flight }
-sub-navigation-what-is-a-browser = අතිරික්සුවක් යනු කුමක්ද?
-sub-navigation-browsing-history = පිරික්සුම් ඉතිහාසය
-sub-navigation-browser-history = අතිරික්සුවේ ඉතිහාසය

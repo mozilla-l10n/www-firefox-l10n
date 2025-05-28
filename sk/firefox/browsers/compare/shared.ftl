@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.springfield.moz.works/compare/
 
 compare-shared-compare-firefox = Porovnanie { -brand-name-firefox(case: "gen") }
 compare-shared-footer-cta-title = Urobte viac s { -brand-name-firefox(case: "ins") }
@@ -11,10 +11,10 @@ compare-shared-footer-cta-desc = Získajte rýchly, ľahký prehliadač zameran�
 compare-shared-we-also-offer-easy = Ponúkame tiež ľahko použiteľné funkcie, ako napríklad:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } má tiež vstavané nástroje, ako napríklad:
 # Variables
-# $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
+# $pdf (url) - link to https://www.firefox.com/features/pdf-editor/
 compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Upravujte súbory PDF</a> podľa potreby priamo v okne prehliadača { -brand-name-firefox } – nepotrebujete žiadny ďalší softvér.
 # Variables
-# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+# $translate (url) - link to https://www.firefox.com/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>Preložte si webovú stránku</a> lokálne a súkromne.
 compare-shared-its-easy-to-switch = Je jednoduché prejsť
 compare-shared-since-we-dont-have-to-make = Keďže nemusíme robiť akcionárov šťastnými, môžeme sa sústrediť na to, aby ste boli spokojní <strong>vy</strong> a aby sme vaše súkromie a pohodlie kládli vždy na prvé miesto.

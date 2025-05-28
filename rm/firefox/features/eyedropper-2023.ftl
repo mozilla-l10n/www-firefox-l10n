@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/eyedropper/
+### URL: https://www-dev.springfield.moz.works/features/eyedropper/
 
 features-eyedropper-eyedropper-tool = Utensil da pipetta
 features-eyedropper-select-colors-in-firefox = Tscherna colurs en { -brand-name-firefox } cun agid da l'utensil da pipetta

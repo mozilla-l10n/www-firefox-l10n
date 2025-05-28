@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = A { -brand-name-firefox-developer-edition } egy villámgyors böngésző, amely élenjáró fejlesztői eszközöket, és a legfrissebb funkciókat tartalmazza, mint a CSS rács támogatás, és a keretrendszert felismerő hibakeresés
@@ -67,33 +64,7 @@ firefox-developer-fonts-panel = Betűkészletek panel
 firefox-developer-the-new-fonts-panel = A { -brand-name-firefox-devtools }ben található új betűkészletek panel gyors hozzáférést ad a fejlesztőknek, hogy azonnal megkapják a szükséges információkat az elemben használt betűkészletekről. Hasznos információkat is tartalmaz, mint a betűkészlet forrása, súlya, stílusa és így tovább.
 firefox-developer-firefox-developer-edition-sends = A { -brand-name-firefox-developer-edition } automatikus visszajelzést küld a { -brand-name-mozilla(ending: "accented") }nak.
 firefox-developer-download-the-firefox-browser = Töltse le a fejlesztőknek készült { -brand-name-firefox } böngészőt
-firefox-developer-welcome-to-firefox-developer-edition = Üdvözli a { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = A fejlesztők számára készített böngésző
 firefox-developer-all-the-latest-v2 = A legújabb béta verziójú fejlesztői eszközök, olyan funkciók mellett, mint a többsoros konzolszerkesztő és a WebSocket vizsgáló.
 firefox-developer-a-separate-profile = Egy <strong>külön profil és útvonal</strong>, így könnyedén futtathatja a { -brand-name-firefox } kiadási vagy { -brand-name-beta } változata mellett.
 firefox-developer-preferences-tailored = <strong>Webfejlesztőkre igazított</strong> beállítások: A böngésző és távoli hibakeresés alapértelmezetten engedélyezett, ahogy a sötét téma és a fejlesztői eszköztár gombja is.
-firefox-developer-congrats-you-now-have-latest-v2 = Most már a { -brand-name-firefox-developer-edition } legfrissebb verziójával rendelkezik.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Tekintse meg a <a { $attrs }>kiadási megjegyzéseket</a> (csak angolul), hogy megismerje az újdonságokat.
-firefox-developer-developer-tools-user = Fejlesztői eszközök felhasználói dokumentációi
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Erőforrások fejlesztőknek, fejlesztőktől
-firefox-developer-mdn-playground = Játszótér
-firefox-developer-mdn-write-test-and-share = Írja meg, tesztelje és ossza meg a kódját. A játszótere, ahol tanulhat, és megoszthatja csodálatos munkáját a világgal.
-firefox-developer-mdn-blog = { -brand-name-mdn } Blog
-firefox-developer-mdn-unlock-the-world = Tekintsen be a webfejlesztés világába a { -brand-name-mdn } Bloggal – a szakértői meglátások, a legújabb webes szabványok és a kódolási tippek legjobb központja.
-firefox-developer-mdn-updates = Friss hírek
-firefox-developer-mdn-the-web-doesnt-have = A webnek nincs változásnaplója, de az { -brand-name-mdn } segíthet. Testre szabhatja és szűrheti az Önt érdeklő kompatibilitási változásokat a böngészője vagy a technológiai kategória alapján, legyen az JavaScript, CSS stb.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn } hivatkozások
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = A { -brand-name-mdn } egy nyílt forráskódú, együttműködésen alapuló projekt, amely webes platformtechnológiákat dokumentál, beleértve a CSS-t, HTML-t, JavaScriptet és a webes API-kat.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } tanterv
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Strukturált útmutató a sikeres frontendfejlesztők létfontosságú készségeihez és gyakorlataihoz, az ajánlott tanulási erőforrásokkal együtt.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Támogassa az { -brand-name-mdn(case: "accusative") }, és tegye a sajátjává a gyűjteményekkel, értesítésekkel és játszóterekkel.

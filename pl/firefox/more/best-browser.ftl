@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-find-your-best-browser = Znajdź najlepszą przeglądarkę pod kątem szybkości, prywatności i bezpieczeństwa.
 best-browser-so-many-browser-options = Jest tyle przeglądarek do wyboru, ale tylko jedna najlepiej odpowiada Twoim potrzebom. Najlepsza przeglądarka dla Ciebie powinna zapewniać zarówno szybkość, jak i ochronę prywatności.
@@ -41,4 +41,3 @@ best-browser-choosing-the-best-browser = Wybór najlepszej przeglądarki dla sie
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = Ekipa <a href="{ $firefox }">{ -brand-name-firefox(case: "gen") }</a> ciężko pracowała, aby zbudować przeglądarkę dwa razy szybszą niż wcześniej i dającą użytkownikom więcej kontroli nad swoim życiem w sieci.
-best-browser-take-control-of-your = Pełna kontrola nad przeglądarką.

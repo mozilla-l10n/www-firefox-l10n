@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/password-manager
+### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
 password-manager-free-password-manager = Brezplačen upravitelj gesel
@@ -11,7 +11,7 @@ password-manager-free-password-manager = Brezplačen upravitelj gesel
 password-manager-firefox-password-manager-saves-all = { -brand-name-firefox }ov upravitelj gesel shranjuje vsa gesla na enem mestu, da se lahko samodejno prijavljate na straneh ali pridobite shranjena gesla.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } lahko varno shrani uporabniška imena in gesla, s katerimi se prijavljate v spletne strani, jih ob naslednjem obisku samodejno izpolni in vam v vgrajenem upravitelju gesel omogoča urejanje shranjenih prijav.
 # Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+#   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Z <a { $fxa }>brezplačnim { -brand-name-mozilla-account(sklon: "orodnik") }</a> lahko svoja gesla varno sinhronizirate med vsemi napravami. Račun vam omogoča tudi uporabo kopice ostalih izdelkov { -brand-name-mozilla(sklon: "rodilnik") }, ki spoštujejo zasebnost.
 password-manager-password-autofill-for-easy-logins = Samodejno izpolnjevanje gesel za hitrejšo prijavo
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } lahko samodejno vnese shranjeno uporabniško ime in geslo namesto vas. Če imate za spletno mesto shranjenih več prijav, lahko preprosto izberete želeni račun in brskalnik poskrbi za ostalo.

@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } är en blixtrande snabb webbläsare som erbjuder avancerade utvecklingsverktyg och nya funktioner som support för CSS-rutnät och felsökning av framework
@@ -67,33 +64,7 @@ firefox-developer-fonts-panel = Teckensnittspanel
 firefox-developer-the-new-fonts-panel = Den nya teckensnittspanelen i { -brand-name-firefox-devtools } ger utvecklare snabb åtkomst till all information de behöver om de teckensnitt som används i ett element. Den innehåller också värdefull information som teckensnittskälla, vikt, stil och mer.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } skickar automatiskt återkoppling till { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Ladda ner webbläsaren { -brand-name-firefox } gjord för utvecklare
-firefox-developer-welcome-to-firefox-developer-edition = Välkommen till { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Webbläsaren gjord för utvecklare
 firefox-developer-all-the-latest-v2 = Alla de senaste utvecklingsverktygen i beta utöver funktioner som konsolredigeraren med flera rader och WebSocket-inspektören.
 firefox-developer-a-separate-profile = En <strong>separat profil och sökväg</strong> så att du enkelt kan köra den tillsammans med Release eller { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Inställningar <strong>skräddarsydda för webbutvecklare</strong>: Webbläsar- och fjärrfelsökning är aktiverade som standard, liksom det mörka temat och knappen för verktygsfält för utvecklare.
-firefox-developer-congrats-you-now-have-latest-v2 = Du har nu den senaste versionen av { -brand-name-firefox-developer-edition }.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Visa <a { $attrs }>versionsfakta</a> (endast engelska) för att se vad som är nytt.
-firefox-developer-developer-tools-user = Dokumentation för utvecklingsverktyg
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Resurser för utvecklare, av utvecklare
-firefox-developer-mdn-playground = Testområde
-firefox-developer-mdn-write-test-and-share = Skriv, testa och dela din kod. Ett testområde för att lära dig och dela ditt fantastiska arbete med världen.
-firefox-developer-mdn-blog = { -brand-name-mdn } blogg
-firefox-developer-mdn-unlock-the-world = Lås upp världen av webbutveckling med bloggen { -brand-name-mdn } — ditt nav för expertinsikter, senaste webbstandarder och kodningstips.
-firefox-developer-mdn-updates = Uppdateringar
-firefox-developer-mdn-the-web-doesnt-have = Webben har ingen ändringslogg, men { -brand-name-mdn } kan hjälpa. Du kan anpassa och filtrera kompatibilitetsförändringar baserat på webbläsare eller den tekniska kategorin du är intresserad av, oavsett om det är JavaScript, CSS, etc.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = Referenser { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } är ett samarbetsprojekt med öppen källkod som dokumenterar webbplattformstekniker, inklusive CSS, HTML, JavaScript och webb-API:er.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = Läroplan { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = En strukturerad guide till de grundläggande färdigheterna och metoderna för att vara en framgångsrik front-end utvecklare, tillsammans med rekommenderade inlärningsresurser.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Stöd { -brand-name-mdn } och anpassa den med samlingar, meddelanden och områden för att testa din kod.

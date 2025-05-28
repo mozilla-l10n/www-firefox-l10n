@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-the-history-of-web = ഗോളാന്തരവല അന്വേഷിയന്ത്രങ്ങളുടെ പഴപ്പാട്
 browser-history-before-web-era = വെബുയുഗത്തിനു് മുൻപു്

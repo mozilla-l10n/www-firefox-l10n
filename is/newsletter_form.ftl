@@ -14,8 +14,6 @@ newsletter-form-select-country-or-region = Veldu land eða hérað
 newsletter-form-select-language = Veldu tungumál
 newsletter-form-your-email-here = TÖLVUPÓSTFANGIÐ ÞITT
 newsletter-form-get-firefox-news = Gerast áskrifandi að { -brand-name-firefox } fréttum
-newsletter-form-join-the-community = Gakktu í hópinn
-newsletter-form-sign-up-to-receive = Skráðu þig til að fá mánaðarlegar fréttir frá { -brand-name-firefox } og um nýjustu strauma og stefnur sem móta líf þitt á netinu.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Ég er sáttur við að { -brand-name-mozilla } meðhöndli mínar upplýsingar eins og útskýrt er <a href="{ $url }">þessum skilmálum</a>
@@ -24,17 +22,13 @@ newsletter-form-we-will-only-send-firefox-v2 = Við munum aðeins senda þér up
 newsletter-form-if-you-havent-previously = Ef þú hefur ekki þegar staðfest áskrift að { -brand-name-mozilla } tengdu fréttabréfi gætirðu þurft að staðfesta. Athugaðu hvort póstur sé frá okkur í innhólfinu eða í ruslpóst möppunni.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Þú
 newsletter-form-get-firefox-tips = Fáðu { -brand-name-firefox } ábendingar, snjallræði, fréttir og fleira
-newsletter-form-get-mozilla-updates = Ná í { -brand-name-mozilla } uppfærslur
 newsletter-form-available-languages = Tiltæk tungumál
 newsletter-form-select-country = Veldu land
 newsletter-form-sign-me-up = Skráðu mig
 newsletter-form-sign-up-now = Skráðu þig núna
 newsletter-form-thanks = Takk!
-newsletter-form-leave-this-field-empty = Skildu þennan reit eftir auðan.
 newsletter-form-yes = Já
 newsletter-form-no = Nei
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = Skráningareyðublað fyrir fréttabréf
 multi-newsletter-form-checkboxes-legend = Ég vil fá upplýsingar um:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

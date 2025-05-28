@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/translate/
+### URL: https://www-dev.springfield.moz.works/features/translate/
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Translatescha ina pagina-web cun { -brand-name-firefox }
@@ -20,5 +20,5 @@ features-translate-the-languages-below-are-what-v2 = Las suandantas linguas vegn
 features-translate-and-more-languages-are-in = Ed ulteriuras linguas sa chattan en la fasa da svilup!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } discurra tia lingua
 # Variables:
-#   $download (url) = link to https://www.mozilla.org/firefox/new/
+#   $download (url) = link to https://www.firefox.com/download/
 features-translate-the-firefox-translations-feature-v2 = La funcziun da { -brand-name-firefox-translations } è in’ulteriura purschida da { -brand-name-mozilla } per mantegnair tes internet persunalisà e privat. { -brand-name-mozilla } na registrescha betg las websites che ti translateschas. Cun milliuns utilisadras ed utilisaders sin tut il mund, vul { -brand-name-mozilla } garantir che quels che utiliseschan { -brand-name-firefox } emprendan, communitgeschan, partan e s’infurmeschan tenor lur atgnas cundiziuns. <a { $download }>Cumenza a navigar en tia lingua preferida cun telechargiar { -brand-name-firefox }.</a>

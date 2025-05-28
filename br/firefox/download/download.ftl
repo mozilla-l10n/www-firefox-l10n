@@ -6,18 +6,14 @@
 # Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 firefox-new-download-firefox = Pellgargañ { -brand-name-firefox }
-# span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = Pellgargañ { -brand-name-firefox } <br>evit { -brand-name-windows }
-firefox-new-download-firefox-for-macos = Pellgargañ { -brand-name-firefox } <br>evit { -brand-name-mac }
-firefox-new-download-firefox-for-linux = Pellgargañ { -brand-name-firefox } <br>evit { -brand-name-linux }
 firefox-new-free-web-browser = Merdeer web digoust
 firefox-new-download-in-another-language = Pellgargañ en ur yezh all
 firefox-new-need-help = Ezhomm skoazell?
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
 
 firefox-new-download-almost-there = Tost echu!
 firefox-new-windows = { -brand-name-windows }
@@ -25,7 +21,7 @@ firefox-new-windows = { -brand-name-windows }
 # Not-Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Pellgargañ { -brand-name-firefox-browser }

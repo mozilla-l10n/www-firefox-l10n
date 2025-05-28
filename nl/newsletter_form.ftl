@@ -14,8 +14,6 @@ newsletter-form-select-country-or-region = Selecteer land of regio
 newsletter-form-select-language = Taal selecteren
 newsletter-form-your-email-here = UW E-MAILADRES
 newsletter-form-get-firefox-news = Ontvang { -brand-name-firefox }-nieuws
-newsletter-form-join-the-community = Doe mee met de gemeenschap
-newsletter-form-sign-up-to-receive = Schrijf u in om maandelijkse updates van { -brand-name-firefox } en internettrends te ontvangen die uw online leven vormgeven.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Ik ga akkoord met het gebruik van mijn gegevens door { -brand-name-mozilla }, zoals uitgelegd in <a href="{ $url }">deze privacyverklaring</a>
@@ -24,17 +22,13 @@ newsletter-form-we-will-only-send-firefox-v2 = We sturen u alleen { -brand-name-
 newsletter-form-if-you-havent-previously = Als u nog niet eerder een inschrijving voor een { -brand-name-mozilla }-gerelateerde nieuwsbrief hebt bevestigd, dient u dit mogelijk te doen. Controleer uw Postvak IN of uw spamfilter voor een e-mail van ons.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + u
 newsletter-form-get-firefox-tips = Ontvang tips, trucs, nieuws en meer over { -brand-name-firefox }
-newsletter-form-get-mozilla-updates = Ontvang updates van { -brand-name-mozilla }
 newsletter-form-available-languages = Beschikbare talen
 newsletter-form-select-country = Land selecteren
 newsletter-form-sign-me-up = Inschrijven
 newsletter-form-sign-up-now = Nu inschrijven
 newsletter-form-thanks = Bedankt!
-newsletter-form-leave-this-field-empty = Laat dit veld leeg.
 newsletter-form-yes = Ja
 newsletter-form-no = Nee
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = Inschrijfformulier voor nieuwsbrief
 multi-newsletter-form-checkboxes-legend = Ik wil informatie over:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

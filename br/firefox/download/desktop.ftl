@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 firefox-desktop-download-og-title = Pellgargit ar buanañ { -brand-name-firefox } n'eus bet morse
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -32,7 +32,7 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Tapit { -brand-name-firefox-browser } evit <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Tapit { -brand-name-firefox-browser } evit <strong>{ -brand-name-ios }</strong>
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Tost echu!
 firefox-desktop-download-in-another-language = Pellgargañ en ur yezh all pe evit ur reizhiad korvoiñ (OS) all.

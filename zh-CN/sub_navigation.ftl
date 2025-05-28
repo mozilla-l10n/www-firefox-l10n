@@ -24,6 +24,3 @@ sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly } 与 { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-android } 版 { -brand-name-nightly } 与 { -brand-name-beta }
 sub-navigation-ios-test-flight = { -brand-name-ios } { -brand-name-test-flight }
-sub-navigation-what-is-a-browser = 浏览器是什么？
-sub-navigation-browsing-history = 浏览历史
-sub-navigation-browser-history = 浏览器简史

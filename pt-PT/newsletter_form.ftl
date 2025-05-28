@@ -14,8 +14,6 @@ newsletter-form-select-country-or-region = Selecionar o país ou região
 newsletter-form-select-language = Selecionar idioma
 newsletter-form-your-email-here = O SEU EMAIL AQUI
 newsletter-form-get-firefox-news = Obter notícias do { -brand-name-firefox }
-newsletter-form-join-the-community = Junte-se à Comunidade
-newsletter-form-sign-up-to-receive = Subscrever para receber atualizações mensais do { -brand-name-firefox } e tendências da Internet que definem a sua vida na Internet.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Estou bem com a { -brand-name-mozilla } manusear a minha informação como explicado <a href="{ $url }">neste Aviso de privacidade</a>
@@ -24,17 +22,13 @@ newsletter-form-we-will-only-send-firefox-v2 = Apenas iremos enviar informação
 newsletter-form-if-you-havent-previously = Se não confirmou previamente uma subscrição a um boletim informativo relacionado com a { -brand-name-mozilla }, poderá ter de fazê-lo. Por favor, verifique a sua caixa de entrada ou filtro de spam por um email nosso.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Você
 newsletter-form-get-firefox-tips = Obtenha dicas, truques e notícias do { -brand-name-firefox } e mais
-newsletter-form-get-mozilla-updates = Obter atualizações da { -brand-name-mozilla }
 newsletter-form-available-languages = Idiomas disponíveis
 newsletter-form-select-country = Selecione o país
 newsletter-form-sign-me-up = Registe-me
 newsletter-form-sign-up-now = Subscrever agora
 newsletter-form-thanks = Obrigado!
-newsletter-form-leave-this-field-empty = Deixe este campo vazio.
 newsletter-form-yes = Sim
 newsletter-form-no = Não
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = Formulário de subscrição da newsletter
 multi-newsletter-form-checkboxes-legend = Quero informações sobre:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/eyedropper/
+### URL: https://www-dev.springfield.moz.works/features/eyedropper/
 
 features-eyedropper-eyedropper-tool = Nástroj Kvapkadlo
 features-eyedropper-select-colors-in-firefox = Identifikujte farby vo { -brand-name-firefox(case: "loc") } pomocou nástroja Kvapkadlo

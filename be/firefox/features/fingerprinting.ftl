@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
+### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Збор лічбавых адбіткаў  — гэта тып сачэння ў Інтэрнэце, больш пранікальны, чым звычайнае асочванне з дапамогай файлаў кукі, таму { -brand-name-firefox-browser } блакіруе яго.
@@ -26,5 +26,5 @@ features-fingerprinting-the-practice-of = Практыка збору лічба
 features-fingerprinting-the-latest-firefox = Найноўшы браўзер { -brand-name-firefox } бароніць вас ад збору лічбавых адбіткаў, блакуючы міжсайтавыя запыты да сервераў кампаній, вядомых сваім удзелам у падобнай дзейнасці. Мы прыклалі нямала высілкаў, каб пры абароне вашай прыватнасці не парушаць працы вэб-сайтаў, якія вам падабаецца наведваць. (Больш можна пачытаць тут, калі вам цікавыя <a { $url_details }>тэхнічныя падрабязнасці</a>.)
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = І гэта не складаныя налады, у якіх трэба доўга разбірацца. У новым браўзеры { -brand-name-firefox } налада блакіравання збіральнікаў лічбавых адбіткаў з'яўляецца простай. Адкрыйце сваю <a { $url_protections }>панэль стану абароны</a>, каб убачыць, як за вамі схавана сочаць і як { -brand-name-firefox } прадухіляе гэта.
-# $url_download (string) - link to firefox/new
+# $url_download (string) - link to https://www.firefox.com/download/
 features-fingerprinting-you-probably-wouldnt = Вы, верагодна, будзеце не ў захапленні ад таго, што нехта сочыць за вашымі дзеяннямі ў рэальным жыцці. Няма прычын згаджацца на гэта ў Інтэрнэце. Калі ў вас яшчэ няма { -brand-name-firefox }, <a { $url_download }>спампуйце яго і абараніце сябе</a> ад збору лічбавых адбіткаў.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = Kako zaustaviti prikazivanje previše oglasa i spriječiti poduzeća da te prate na mreži. Priručnik za blokiranje oglasa u web browseru { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Bloker oglasa – tajno oružje protiv dosadnih oglasa.
@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Puno oglasa, malo strpljenja … Vrij
 features-adblocker-the-average-person-sees = Prosječna osoba dnevno vidi u prosjeku 4000 oglasa. Ako misliš da je to previše, bloker oglasa je tvoj novi najbolji prijatelj.
 features-adblocker-an-ad-blocker-is-a-piece = Bloker oglasa je softver koji služi blokiranju oglasa, a radi na dva načina. Prvi način je blokiranje signala s servera oglašivača, kako se oglas nikada ne bi prikazao na tvojoj stranici. Drugi način je blokiranje dijelova web stranice koji bi mogli biti oglasi.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Ti bi oglasi mogli biti glasni video oglasi, oglasi koji te prate po webu, programi za praćenje, kolačići trećih strana i još mnogo toga. Za upotrebu blokator oglasa, potraži dodatke za blokiranje oglasa koji su dostupni u tvom browseru. <a href="{ $firefox }">{ -brand-name-firefox }</a>, na primjer, <a href="{ $addons }">ima ovaj popis odobrenih dodataka za blokiranje oglasa</a>. Klikni ovaj popis (ili blokatore oglasa koji su odobreni za tvoj browser) i pogledaj koji odgovara tvojim potrebama.
 features-adblocker-find-the-right-ad-blocker = Pronađi bloker oglasa koji tebi odgovara
@@ -27,8 +27,8 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> je još jedan odličan izbor koji ne samo da blokira oglase, već pruža dodatne prednosti protiv praćenja.
 # Variables:
-#   $attrs1 (string) - link to /firefox/new/ with other attributes
-#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Ove ekstenzije odlično rade i na <a { $attrs1 }>{ -brand-name-firefox } za desktop</a> i <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Stvori područje u kojem te ne prate blokiranjem sadržaja
 # Variables:
@@ -39,7 +39,7 @@ features-adblocker-choose-your-level-of-protection = Odaberi razinu zaštite
 features-adblocker-to-start-click-on-the-v2 = Za početak kliknite na štit lijevo od adresne trake na bilo kojoj web stranici i odaberite “Postavke zaštite”. Ovo će otvoriti { -brand-name-firefox } panel Postavki privatnosti i sigurnosti u novom tabu. Trebali biste vidjeti plavi iskočni prozor s različitim opcijama.
 features-adblocker-go-easy-with-standard = Standardni način rada
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
 features-adblocker-if-ads-dont-bother-you = Ako vam oglasi ne smetaju i nemate ništa protiv da ih prate pratioci i kolačići treće strane, tada bi standardne postavke trebale raditi za vas. Da biste pratili tragače u repu u standardnom režimu, koristite prozor <a href="{ $url }">Privatno pregledavanje</a>.
 features-adblocker-get-tough-with-strict = Strogi način rada
 features-adblocker-if-seeing-too-many-ads = Ako ti previše oglasa uništava dan, onda je strogi način rada bolji. Ovaj način blokira poznate programe za praćenje i kolačiće u svim { -brand-name-firefox } prozorima.
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = U { -brand-name-firefox }u možete
 features-adblocker-speed-up-thanks-to-ad = Ubrzaj zahvaljujući blokerima oglasa
 features-adblocker-in-some-cases-an-ad-blocker = U nekim slučajevima, blokator oglasa može pomoći vašem pretraživaču da radi brže. Kada se oglas učitava, može usporiti web stranicu. U isto vrijeme, potrebno je više vremena da pronađete ono što tražite ako ste previše zauzeti zatvaranjem još jednog oglasa.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/download/
 features-adblocker-if-you-want-to-learn-more-v2 = Ako želite saznati više o blokiranju oglasa, na raspolaganju su stotine ekstenzija za blokiranje oglasa za { -brand-name-firefox } i druge pretraživače. Ako želite isprobati blokatore oglasa koje { -brand-name-firefox } koristi, <a href="{ $url }">kliknite ovdje da preuzmete</a> pretraživač koji stavlja privatnost na prvo mjesto.

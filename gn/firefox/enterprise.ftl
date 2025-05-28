@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Ereko { -brand-name-firefox } ne mba’apohaguasúpe { -brand-name-esr } ha Rapid Release ndive
 firefox-enterprise-get-unmatched-data-protection = Ereko mba’ekuaarã ñemo’ã ijojaha’ỹva mbohekopyahu meme eikotevẽva { -brand-name-firefox } ndive mba’apohaguasúpe g̃uarã. Emboguejy { -brand-name-esr } ha Rapid Release.
@@ -42,5 +42,5 @@ firefox-enterprise-sample-plist-for-configuration = Techapyrã <a href="{ $url }
 firefox-enterprise-pkg-installer = PKG mohendaha
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = Emboguejy { -brand-name-firefox-esr } térã Rapid Release <br> <a href="{ $firefox_all }">ambue ñe’ẽ térã plataforma peg̃uarã.</a>

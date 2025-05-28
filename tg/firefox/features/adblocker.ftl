@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = Тарзи бас кардани тамошои рекламаи аз ҳад зиёд ва дур нигоҳ доштани ширкатҳо аз пайгирии шумо дар саросари Интернет. Роҳнамои «Манъкунандаи реклама» аз ҷониби браузери интернетии «{ -brand-name-firefox }».
 features-adblocker-the-ad-blocker-a-secret = «Манъкунандаи реклама» – силоҳи махфӣ бар зидди рекламаи безоркунанда.

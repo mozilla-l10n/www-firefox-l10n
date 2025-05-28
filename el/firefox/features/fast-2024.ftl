@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/fast/
+### URL: https://www-dev.springfield.moz.works/features/fast/
 
 features-fast-firefox-keeps-getting-faster = Το { -brand-name-firefox } γίνεται όλο και πιο γρήγορο
 # HTML description
@@ -18,5 +18,5 @@ features-fast-firefox-is-powered-by-the-world = Το { -brand-name-firefox } β�
 features-fast-all-browsers-had-to-make = Όλα τα προγράμματα περιήγησης έπρεπε να κάνουν βελτιώσεις ώστε να έχουν καλές επιδόσεις στις νέες δοκιμές του Speedometer 3. Ειδικότερα, το { -brand-name-firefox } έχει κάνει τεράστια βήματα προόδου, καθώς έχει γίνει <a { $link }>σημαντικά ταχύτερο</a> για τους χρήστες μας, ως αποτέλεσμα αυτής της εργασίας. Το { -brand-name-firefox } είναι πιο γρήγορο από ποτέ, κάτι που μπορείτε εύκολα να αντιληφθείτε, ειδικά σε περιπτώσεις όπως η ταχύτερη φόρτωση σελίδων και οι ομαλότερες αλληλεπιδράσεις.
 features-fast-towards-a-faster-web = Προς ένα ταχύτερο διαδίκτυο
 # Variables
-#   $link (url) - link to /about/webvision/full/#performance
+#   $link (url) - link to https://www.mozilla.org/about/webvision/full/#performance
 features-fast-theres-been-an-encouraging = Η { -brand-name-mozilla } <a { $link }>δεσμεύεται</a> να βελτιώνει συνεχώς το πρόγραμμα περιήγησης της, καθώς και ολόκληρο το διαδίκτυο. Για τον λόγο αυτό, επενδύσαμε στη συνεργασία μας για την ανάπτυξη του Speedometer 3, το οποίο με τη σειρά του έχει βελτιώσει τις επιδόσεις όλων των προγραμμάτων περιήγησης. Επομένως, όποιο πρόγραμμα περιήγησης κι αν επιλέξετε, η { -brand-name-mozilla } θέλει να είναι γρήγορο.

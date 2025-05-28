@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } ہک تکھا براؤزر ہے جیڑھا جدید ترین ڈویلپر ٹولز تے CSS گرڈ سپورٹ تے فریم ورک ڈیبگنگ جیہاں نویاں خصوصیات پیش کریندا ہے۔
@@ -67,27 +64,7 @@ firefox-developer-fonts-panel = فونٹس پینل
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools } وِچ فوٹنس دا نواں پینل ڈویلپرز کوں انہاں تمام معلومات تائیں فوری رسائی فراہم کریندا ہے جنہاں دی انہاں کوں کہیں عنصر وِچ استعمال تھیوݨ والے فونٹس دے بارے ضرورت ہوندی ہے۔ ایندے وِچ قیمتی معلومات وی شامل ہن جیویں فونٹ دا ماخذ، وزن، انداز وغیرہ۔
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } آپݨے آپ فیڈ بیک { -brand-name-mozilla } کوں بھیڄیندا ہے۔
 firefox-developer-download-the-firefox-browser = ڈویلپرز کیتے بݨایا ڳیا { -brand-name-firefox } براؤزر ڈاؤن لوڈ کرو۔
-firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-developer-edition } وچ ست بسم اللہ
 firefox-developer-made-for-developers = ڈویلپرز کیتے بݨایا ڳیا براؤزر
 firefox-developer-all-the-latest-v2 = ملٹی لائن کنسول ایڈیٹر اَتے ویب ساکٹ انسپکٹر جیہیں خاصیتاں کنوں اَن٘ج بِیٹا وِچ سبّھے جدید ڈویپلر ٹولز۔
 firefox-developer-a-separate-profile = ہک <strong>علیحدہ پروفائل تے رستہ</strong> تاں جو تساں اینکوں ریلیز یا { -brand-name-beta } { -brand-name-firefox } دے نال آسانی نال چلا سڳو۔
 firefox-developer-preferences-tailored = ترجیحاں <strong>ویب ڈویلپرز کیتے تیار کردہ</strong>: براؤزر تے ریموٹ ڈیبگنگ بطور ڈیفالٹ فعال ہن، جیویں جو ڈارک تھیم تے ڈویلپر ٹول بار بٹن ہن۔
-firefox-developer-congrats-you-now-have-latest-v2 = ہُݨ تُہاݙے کول { -brand-name-firefox-developer-edition } دا نواں نرویا ورژن ہِے۔
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = نواں کیا ہِے ݙیکھݨ کِیتے <a { $attrs }>ریلیز نوٹس</a> ݙیکھو (صرف انگریزی وِچ)۔
-firefox-developer-developer-tools-user = ڈویپلر ٹولز یوزر ڈاکس
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = ڈویلپرز کیتے وسائل، ڈویلپرز دے ذریعے
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn } حوالے
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } ہِک اوپن سورس، آپتی تعاون اُتے مبنی پراجیکٹ ہِے جہڑا ویب پلیٹ فارم ٹیکنالوجیز کوں دستاویز کرین٘دا ہِے، CSS, HTML, JavaScript اَتے web APIs سمیت۔
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } نصآب
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = ہِک کامیاب فرنٹ اینڈ ڈویلپر بݨن کِیتے ضروری مہارتاں اَتے طریقیاں کِیتے ہِک منظم اڳواݨی، تجویز کِیتے ڳئے سِکّھݨ دے وسیلیاں دے نال۔
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = { -brand-name-mdn } دی حمایت کرو اَتے اِیکوں مجموعاں، اطلاعواں اَتے کھیݙ دے پِڑاں دے نال آپݨاں بݨاؤ۔

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/more/
+### URL: https://www-dev.springfield.moz.works/more/
 
 firefox-products-are = A { -brand-name-firefox }-termékeket az Ön magánszférájának védelmére tervezték
 learn-more-about-firefox = Tudjon meg többet a { -brand-name-firefox }ról, annak történetéről, funkcióiról és küldetéséről
@@ -15,14 +15,8 @@ what-is-a = Mi az a webböngésző?
 a-web-browser = Egy webböngészővel bárhová eljuthat az interneten, lehetővé téve, hogy szöveget, képeket és videókat tekintsen meg a világ bármely pontjáról.
 update-your-browser = Frissítse a böngészőjét a gyors és biztonságos { -brand-name-firefox }ra.
 the-firefox-browser = A { -brand-name-firefox } böngésző úgy készült, hogy mindenhol megvédje a magánszféráját – mert ez a leggyorsabb módja, hogy megszabaduljon a lassú betöltésekről, ártalmas hirdetésektől és nyomkövetőktől.
-firefox-is-more = A { -brand-name-firefox } több, mint egy böngésző
-get-the-browsers = Szerezze be a böngészőket, melyek az adatvédelmet helyezik előtérbe – ahogy mindig is tették
-choose-which-firefox = Válassza ki az egyik { -brand-name-firefox-browser(case: "acc") }, és töltse le az Ön nyelvén
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } { -brand-name-chromebook }ra
 firefox-more-while-on-chromebook = Bár a { -brand-name-chrome } már eleve telepítve van { -brand-name-chromebook }ra, a { -brand-name-firefox } letöltése, telepítése és használata a következő előnyökkel jár:
-firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
-firefox-more-quantum-was-revolution = A { -brand-name-firefox-quantum } forradalom volt a { -brand-name-firefox } fejlesztésében. 2017-ben létrehoztunk egy új, villámgyors, folytonosan fejlődő böngészőt. A { -brand-name-firefox-quantum } a { -brand-name-firefox-browser }.
-we-believe-everyone = Úgy gondoljuk, hogy mindenkinek hozzá kellene férnie az internethez – ezért tesszük elérhetővé a { -brand-name-firefox-browser(case: "acc") } több mint 90 nyelven, az elkötelezett önkénteseink segítségével, szerte a világon.
 firefox-fights-for = A { -brand-name-firefox } Önért harcol { -brand-name-windows }on
 easy-migration-of = A beállítások és könyvjelzők könnyen migrálhatók, ha letölti a { -brand-name-firefox(case: "acc") } { -brand-name-windows }ra.
 firefox-respects-your = A { -brand-name-firefox } tiszteletben tartja a magánszféráját { -brand-name-mac-short }en.
@@ -37,5 +31,3 @@ firefox-more-fingerprinter-blocking = Ujjlenyomat-készítők blokkolása
 firefox-more-fingerprinting-is-a = Az ujjlenyomat-készítés egy olyan online nyomkövetés, amely tolakodóbb mint a szokásos süti-alapú követés – ezért blokkolja őket a { -brand-name-firefox-browser }.
 firefox-more-translate-the-web = A web lefordítása
 firefox-more-translate-more-than = Fordítson több mint 100 nyelvet magyarra közvetlenül a { -brand-name-firefox-browser }ben – könnyebben, mint valaha.
-firefox-more-avoid-misinformation-heading = Kerülje az online félretájékoztatást – a { -brand-name-firefox } segítségére van
-firefox-more-avoid-misinformation-desc = Nézzen meg tippeket, hogy kevesebb téves információt láthasson, és arra koncentrálhasson, ami fontos Önnek.

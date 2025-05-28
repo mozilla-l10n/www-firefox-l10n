@@ -6,27 +6,23 @@
 # Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox } letöltése
 firefox-new-download-the-fastest-firefox = A valaha volt leggyorsabb { -brand-name-firefox } letöltése
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = Gyorsabb oldalbetöltés, kisebb memóriahasználat és egy csokor új funkció, az új { -brand-name-firefox } megérkezett.
 firefox-new-get-the-latest-firefox = Töltse le a legújabb { -brand-name-firefox } böngészőt.
-# span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = A { -brand-name-firefox } letöltése <br>{ -brand-name-windows }ra
-firefox-new-download-firefox-for-macos = A { -brand-name-firefox } letöltése <br>{ -brand-name-mac }-re
-firefox-new-download-firefox-for-linux = A { -brand-name-firefox } letöltése <br>{ -brand-name-linux }ra
 firefox-new-free-web-browser = Ingyenes böngésző
 firefox-new-advanced-install-options = Speciális telepítési beállítások és más platformok
 firefox-new-download-in-another-language = Töltse le egy másik nyelven
 firefox-new-need-help = Segítségre van szüksége?
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-firefox-new-should-begin = A letöltés automatikusan elindul. Nem működött? <a id="{ $id }" href="{ $fallback_url }">Próbálja újra letölteni</a>.
 firefox-new-firefox-is-more-than-a-browser = A { -brand-name-firefox } több, mint egy böngésző.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
@@ -34,7 +30,7 @@ firefox-new-download-interrupted = A letöltése megszakadt. De nincs minden ves
 firefox-new-download-almost-there = Mindjárt megvagyunk!
 firefox-new-download-select-linux = Válasszon az alábbi letöltési lehetőségek közül
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-system-may-not = Rendszere nem biztos, hogy teljesíti a { -brand-name-firefox } követelményeit, de kipróbálhatja <a href="{ $url }">ezen verziók</a> egyikét.
 firefox-new-windows = { -brand-name-windows }
 # Variables:
@@ -45,7 +41,7 @@ firefox-new-visit-support-for-more = További részletekért látogasson el a T�
 # Not-Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = { -brand-name-firefox-browser } letöltése

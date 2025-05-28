@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
+### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = Evästeasetukset
 cookie-settings-page-desc = Tällä sivulla kuvataan erityyppisiä evästeitä, joita { -brand-name-mozilla } voi käyttää, ja antaa sinulle mahdollisuuden hallita, minkä tyyppisten tietojen keräämisen annat { -brand-name-mozilla }lle suostumuksen.

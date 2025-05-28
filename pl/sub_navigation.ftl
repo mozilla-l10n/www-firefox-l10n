@@ -24,6 +24,3 @@ sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly } i { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-nightly } i { -brand-name-beta } na { -brand-name-android(case: "acc") }
 sub-navigation-ios-test-flight = { -brand-name-test-flight } na { -brand-name-ios }
-sub-navigation-what-is-a-browser = Co to jest przeglądarka?
-sub-navigation-browsing-history = Historia przeglądania
-sub-navigation-browser-history = Historia przeglądarek

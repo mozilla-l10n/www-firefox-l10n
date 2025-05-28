@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
 # page title
 bookmark-manager-bookmark-manager = Përgjegjës faqerojtësish
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Sistemoni faqerojtësit tuaj në dosje dhe me etiketa.
 # Variables:
-#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+#   $sync (url) - link to https://www.firefox.com/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = Faqerojtësit janë lidhje që i ruani në shfletuesin tuaj, që të mund të riktheheni shpejt dhe kollaj te vendet tuaj të parapëlqyer në web. { -brand-name-firefox }-i përfshin një përgjegjës të dobishëm faqerojtësish, që të sistemoni, të kërkoni, të përditësoni dhe <a { $sync }>të njëkohësoni krejt lidhjet tuaja të ruajtura nëpër krejt pajisjet tuaja</a>.
 bookmark-manager-organize-your-boomarks-into = Sistemojini faqerojtësit tuaj në dosje në të cilat mund të kërkohet
 bookmark-manager-collect-your-bookmarks-in-folders = Grumbullojini faqerojtësit tuaj në dosje dhe vëruni etiketa, për më tepër hollësi. Mundeni edhe t’i renditni faqerojtësit tuaj, për të gjetur shpejt ata që ju duhen.

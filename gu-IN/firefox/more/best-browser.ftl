@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-find-your-best-browser = ઝડપ, ગોપનીયતા અને સલામતી માટે તમારા શ્રેષ્ઠ બ્રાઉઝરને શોધો.
 best-browser-so-many-browser-options = ઘણા બધા બ્રાઉઝર વિકલ્પો, પરંતુ તમારી જરૂરિયાતો માટે ફક્ત એક જ શ્રેષ્ઠ છે. તમારા માટેનું શ્રેષ્ઠ બ્રાઉઝર ઝડપ અને ગોપનીયતા સુરક્ષા બંને પ્રદાન કરે છે.
@@ -14,4 +14,3 @@ best-browser-marshall-erwin-senior = Marshall Erwin, { -brand-name-mozilla } ખ
 best-browser-a-browser-built-for = ઝડપ માટે બનાવેલ બ્રાઉઝર.
 best-browser-a-browser-that-puts = એક બ્રાઉઝર જે સલામતીને પ્રથમ મૂકે છે.
 best-browser-a-browser-that-minds = તે બ્રાઉઝર જે તેના વ્યવસાયને ધ્યાનમાં રાખે છે.
-best-browser-take-control-of-your = તમારા બ્રાઉઝર પર નિયંત્રણ રાખો.

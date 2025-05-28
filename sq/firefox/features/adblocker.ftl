@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = Si të reshtet shfaqja e shumë reklamave dhe si t’u pengohet shoqërive t’ju ndjekin nëpër internet. Një udhërrëfyes bllokuesish reklamash për shfletuesin { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Bllokuesi i reklamave – një armë e fshehtë kundër reklamave bezdisëse.
@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Kaq shumë reklama, kaq pak durim… 
 features-adblocker-the-average-person-sees = Personi mesatar sheh mesatarisht 4 mijë reklama në ditë. Nëse mendoni se kaq është shumë, një bllokues reklamash është shoku juaj më i mirë.
 features-adblocker-an-ad-blocker-is-a-piece = Një bllokues reklamash është një copë software-i që mund të përdoret për të bllokuar reklama dhe punon në dy rrugë. Rruga e parë është kur një bllokues reklamash bllokon sinjalin prej një shërbyesi të reklamuesit, kështu që reklama nuk shfaqet kurrë në faqen tuaj. Një rrugë tjetër në të cilën funksionojnë bllokuesit e reklamave është përmes bllokimi pjesësh të një sajti të cilat mund të jenë reklama.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Këto reklama mund të jenë reklama video të zhurmshme, reklama që ju ndjekin nëpër internet, gjurmues, <em>cookies</em> palësh të treta, etj. Që të përdorni një bllokues reklamash, mund të kërkoni për shtesa bllokuesi reklamash të gatshme për shfletuesin tuaj. <a href="{ $firefox }">{ -brand-name-firefox }-i</a>, për shembull, ka <a href="{ $addons }">këtë listë shtesash të miratuara bllokuesish reklamash</a>. Klikoni në këtë listë (ose mbi bllokues reklamash që janë të miratuar për shfletuesin tuaj) dhe shihni se cili plotëson nevojat tuaja.
 features-adblocker-find-the-right-ad-blocker = Gjeni bllokuesin e duhur të reklamave për ju
@@ -27,8 +27,8 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> është një tjetër zgjedhje e fuqishme që jo vetëm bllokon reklama, por jep përfitime shtesë anti-gjurmim.
 # Variables:
-#   $attrs1 (string) - link to /firefox/new/ with other attributes
-#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Këto shtesa funksionojnë paq si në <a { $attrs1 }>{ -brand-name-firefox } për desktop</a>, ashtu edhe <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Krijoni një zonë të lirë nga gjurmues, përmes Bllokimi Lënde
 # Variables:
@@ -39,7 +39,7 @@ features-adblocker-choose-your-level-of-protection = Zgjidhni shkallën tuaj të
 features-adblocker-to-start-click-on-the-v2 = Për t’ia filluar, klikoni mburojën në të majtë të shtyllës së adresave, në cilëndo faqe web dhe përzgjidhni “Rregullime Mbrojtjeje”. Kjo do të hapë panelin e { -brand-name-firefox }-it Rregullime Privatësie & Sigurie në një skedë të re. Duhet të shihni një dritare flluskë të kaltër, me elementë të ndryshëm që mund të përzgjidhen.
 features-adblocker-go-easy-with-standard = Jini i butë, me mënyrën Standarde
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
 features-adblocker-if-ads-dont-bother-you = Nëse reklamat s’ju bezdisin dhe s’e keni problem t’ju ndjekin gjurmues dhe <em>cookies</em> palësh të treta, rregullimi Standard duhet t’ju bëjë punë. Për t’i hequr qafe gjurmuesit nën mënyrën Standard, përdorni një dritare <a href="{ $url }">Shfletimi Privat</a>.
 features-adblocker-get-tough-with-strict = Jini i ashpër, me mënyrën Strikte
 features-adblocker-if-seeing-too-many-ads = Nëse parja e shumë reklamave jua çon ditën dëm, atëherë mënyra Strikte ju shkon më shumë për shtat. Kjo mënyrë do të bllokojë në krejt dritaret { -brand-name-firefox } gjurmues dhe <em>cookies</em> palësh të treta të ditura.
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = Në { -brand-name-firefox } mund t
 features-adblocker-speed-up-thanks-to-ad = Rritni shpejtësinë falë bllokuesve të reklamave
 features-adblocker-in-some-cases-an-ad-blocker = Në disa raste, një bllokues reklamash mund ta ndihmojë shfletuesin tuaj të punojë më shpejt. Kur ngarkohet një reklamë, kjo mund të ngadalësojë një sajt. Në të njëjtën kohë, gjetja e diçkaje që po kërkoni mund të zgjasë më shumë, nëse jeni i zënë me mbylljen e reklamës së radhës.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/download/
 features-adblocker-if-you-want-to-learn-more-v2 = Nëse doni të mësoni më tepër rreth bllokimit të reklamave, ka qindra zgjerime bllokues reklamash për { -brand-name-firefox } dhe shfletues të tjerë. Nëse doni të provoni bllokuesin e reklamave që përdor { -brand-name-firefox }-i, <a href="{ $url }">klikoni këtu që të shkarkoni</a> një shfletues që vë privatësinë së pari.

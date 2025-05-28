@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } je noro hiter brskalnik, ki ponuja najsodobnejša orodja za razvijalce in najnovejše možnosti, kot je podpora za mreže CSS in razhroščevanje ogrodij
@@ -67,17 +64,7 @@ firefox-developer-fonts-panel = Plošča pisav
 firefox-developer-the-new-fonts-panel = Nova plošča pisav v razvojnih orodjih { -brand-name-firefox-devtools } omogoča hiter dostop do vseh podatkov o pisavah, uporabljenih na izbranem elementu. Vključuje tudi podatke o viru pisave, teži, slogu in drugo.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } samodejno pošilja povratne informacije { -brand-name-mozilla(sklon: "dajalnik") }.
 firefox-developer-download-the-firefox-browser = Prenesite brskalnik { -brand-name-firefox }, ustvarjen za razvijalce
-firefox-developer-welcome-to-firefox-developer-edition = Dobrodošli v brskalniku { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Brskalnik, ustvarjen za razvijalce
 firefox-developer-all-the-latest-v2 = Vsa najnovejša razvojna orodja iz beta različice skupaj z zmogljivostmi, kot sta večvrstični urejevalnik konzole in pregledovalnik WebSocket.
 firefox-developer-a-separate-profile = Po zaslugi <strong>ločenega profila in programskega imenika</strong> lahko brez težav deluje sočasno z izdajno ali { -brand-name-beta } različico { -brand-name-firefox(sklon: "rodilnik") }.
 firefox-developer-preferences-tailored = Nastavitve, <strong>prikrojene spletnim razvijalcem</strong>: razhroščevanje brskalnika in oddaljeno razhroščevanje sta privzeto vključeni, kot tudi temna tema in gumb orodne vrstice za razvijalce.
-firefox-developer-congrats-you-now-have-latest-v2 = Zdaj imate najnovejšo različico { -brand-name-firefox-developer-edition(sklon: "rodilnik") }.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Če želite izvedeti, kaj je novega, si oglejte <a { $attrs }>opombe ob izdaji</a> (samo v angleščini).
-firefox-developer-developer-tools-user = Dokumentacija za razvojna orodja
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Viri za razvijalce, od razvijalcev
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }

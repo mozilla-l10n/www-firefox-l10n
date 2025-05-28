@@ -3,9 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-the-history-of-web = Istor merdeerioù ar genrouedad
 browser-history-the-browser-wars = Brezel ar merdeerioù
 browser-history-browsing-the-web = Merdeiñ ar genrouedad hiziv an deiz
-browser-history-take-control-of = Adperc’hennit ho merdeer.

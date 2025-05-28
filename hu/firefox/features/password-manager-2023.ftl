@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/password-manager
+### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
 password-manager-free-password-manager = Ingyenes jelszókezelő
@@ -11,7 +11,7 @@ password-manager-free-password-manager = Ingyenes jelszókezelő
 password-manager-firefox-password-manager-saves-all = A { -brand-name-firefox } jelszókezelő egy helyre menti az összes jelszavát, így automatikusan bejelentkezhet a helyekre, vagy lekérheti a tárolt jelszavakat.
 password-manager-firefox-securely-stores-your = A { -brand-name-firefox } biztonságosan tárolja a felhasználóneveit és jelszavait a webhelyek eléréséhez, automatikusan kitölti azokat, ha legközelebb felkeres egy webhelyet, és lehetővé teszi a tárolt bejelentkezések kezelését a beépített jelszókezelő funkciójával.
 # Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+#   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Egy <a { $fxa }>ingyenes { -brand-name-mozilla-account }</a> segítségével biztonságosan szinkronizálhatja a jelszavait az összes eszköze között. Hozzáférhet a { -brand-name-mozilla } összes többi, adatvédelmet tiszteletben tartó termékéhez is.
 password-manager-password-autofill-for-easy-logins = Automatikus jelszókitöltés a könnyű bejelentkezés érdekében
 password-manager-firefox-can-automatically-fill-in = A { -brand-name-firefox } képes automatikusan kitölteni a mentett felhasználónevét és jelszavát. Ha egy oldalon több bejelentkezése van, akkor csak válassza ki a kívánt fiókot, és onnan átvesszük.

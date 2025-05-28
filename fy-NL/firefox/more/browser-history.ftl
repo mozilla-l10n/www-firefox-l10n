@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = Browserskiednis: epyske machtsstriid dy’t ús moderne browsers brocht hat
 browser-history-the-browser-wars-underdogs-giants = De browseroarloggen, underdogs tsjin reuzen en mominten dy’t de wrâld wizigje. Lês oer de skiednis fan de webbrowser.
@@ -51,4 +51,3 @@ browser-history-in-the-future-the = Yn de takomst sil it web wierskynlik fierder
 browser-history-in-the-future-the-v2 = Yn de takomst sil it web wierskynlik fierder fan harren hypertekstwoartels ôfdwale en in enoarm oanbod fan ynteraktive ûnderfiningen wurde. Virtual reality is al tsientallen jierren in opkommende technology (yn elk gefal sûnt de útjefte fan Lawnmower Man yn 1992 en de Nintendo Virtual Boy yn 1995), mar it ynternet kin it einlik nei de massa bringe. { -brand-name-firefox } biedt no stipe foar WebVR en A-Frame, wêrmei ûntwikkelers fluch en ienfâldich virtual reality-websites bouwe kinne. De measte moderne mobile apparaten stypje WebVR en kinne mei ienfâldige kartonnen doaskes maklik brûkt wurde as headsets. In 3D virtual reality-web lykas dat troch sciencefictionauteur Neal Stephenson foarsteld waard, leit miskien om de hoek. As dat it gefal is, kin de webbrowser sels folslein ferdwine en in echt finster nei ien oare wrâld wurde.
 browser-history-whatever-the-future = Wat de takomst fan it web ek yn petto hat, { -brand-name-mozilla } en { -brand-name-firefox } sille der wêze foar brûkers, sadat se oer krêftige helpmiddelen beskikke om it ynternet en alles wat it te bieden hat te ûnderfinen. It ynternet is foar elkenien, en elkenien soe fet hawwe moatte op syn of har online ûnderfining. Dêrom jouwe wy { -brand-name-firefox } helpmiddelen om de privacy fan brûkers te beskermjen en ferkeapje wy nea brûkersgegevens oan advertearders.
 browser-history-resources = Boarnen
-browser-history-take-control-of = Nim de kontrôle oer jo browser.

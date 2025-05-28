@@ -14,8 +14,6 @@ ui-watch-the-video = צפייה בסרטון
 ui-replay = להציג שוב
 ui-share = שיתוף
 ui-menu = תפריט
-# Short for Table of Contents
-ui-contents = תוכן
 ui-please-turn-on-javascript = נא להפעיל JavaScript כדי להציג את דף זה כראוי.
 ui-show-more = הצגת עוד
 ui-show-less = הצגת פחות

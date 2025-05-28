@@ -14,24 +14,19 @@ newsletter-form-select-country-or-region = Kraj abo region wubrać
 newsletter-form-select-language = Rěč wubrać
 newsletter-form-your-email-here = WAŠA E-MEJLOWA ADRESA
 newsletter-form-get-firefox-news = Wobstarajće sej nowinki { -brand-name-firefox }
-newsletter-form-join-the-community = Přidružće so zhromadźenstwu
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Sym z tym přezjedny, kak { -brand-name-mozilla } po <a href="{ $url }">tutych prawidłach priwatnosće</a> z mojimi informacijemi wobchadźa
 newsletter-form-if-you-havent-previously = Jeli hišće njejsće abonement powěsćoweho lista { -brand-name-mozilla } wobkrućił, dyrbiće to nětko činić. Prošu hladajće do dochadneje e-mejle abo papjernika za e-mejlku wot nas.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Wy
 newsletter-form-get-firefox-tips = Wobstarajće sej pokiwy, triki, nowinki a wjace za { -brand-name-firefox }
-newsletter-form-get-mozilla-updates = Aktualizacije { -brand-name-mozilla } sej wobstarać
 newsletter-form-available-languages = K dispoziciji stejace rěče
 newsletter-form-select-country = Wubjerće kraj
 newsletter-form-sign-me-up = Registrować
 newsletter-form-sign-up-now = Registrujće so nětko
 newsletter-form-thanks = Wulki dźak!
-newsletter-form-leave-this-field-empty = Wostajće polo prózdne.
 newsletter-form-yes = Haj
 newsletter-form-no = Ně
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = Registrowanski formular za nowostnik
 multi-newsletter-form-checkboxes-legend = Chcu informacije wo:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

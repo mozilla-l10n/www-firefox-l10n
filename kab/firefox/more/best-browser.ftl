@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-find-your-best-browser = Af-d iminig arurad, abaḍni daɣen d aɣelsan meṛṛa i tikkelt.
 best-browser-so-many-browser-options = Llan ddeqs n yiminigen, maca ala yiwen i ilaqen i sekra n wayen teḥwaǧeḍ. Iminig-ik ufrin yessefk ad yili d arurad, daɣen ad yeḍmen aqadeṛ n tudert tabaḍnit.
@@ -38,4 +38,3 @@ best-browser-choosing-the-best-browser = Afran n yiminig ifazen, am ufran n uxxa
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = Deg <a href="{ $firefox }">{ -brand-name-firefox }</a>, nexdem aṭas akken ad nebnu iminig d arurad ugar ɣef wamek yella daɣen yettmuddu-d ugar n wallalen akken ad teṭṭfeḍ gar ifassen-ik tudert-ik tumḍint.
-best-browser-take-control-of-your = Sεu afus ɣef iminig-innek/innem.

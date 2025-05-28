@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/password-manager
+### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
 password-manager-free-password-manager = Fergeze wachtwurdbehearder
@@ -11,7 +11,7 @@ password-manager-free-password-manager = Fergeze wachtwurdbehearder
 password-manager-firefox-password-manager-saves-all = De wachtwurdbehearder fan { -brand-name-firefox } bewarret al jo wachtwurden op ien plak, sadat jo jo automatysk by websites oanmelde kinne of bewarre wachtwurden ophelje kinne.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } bewarret jo brûkersnammen en wachtwurden feilich foar tagong ta websites, folt se automatysk foar jo yn de folgjende kear as jo in webside besykje, en lit jo jo bewarre oanmeldingen beheare mei de ynboude funksje foar wachtwurdbehear.
 # Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+#   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Mei in <a { $fxa }>fergees { -brand-name-mozilla-account }</a> kinne jo jo wachtwurden feilich tusken al jo apparaten syngronisearje. Jo krije ek tagong ta alle oare privacyrespektearjende produkten fan { -brand-name-mozilla }.
 password-manager-password-autofill-for-easy-logins = Automatysk wachtwurden ynfolje foar ienfâldige oanmelding
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } kin jo bewarre brûkersnamme en wachtwurd automatysk ynfolje. As jo mear as ien oanmelding hawwe foar in side, kinne jo gewoan it winske account selektearje, wêrnei wy it oernimme.

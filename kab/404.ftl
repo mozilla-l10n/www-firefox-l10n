@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/404/
+### URL: https://www-dev.springfield.moz.works/404/
 
 not-found-page-not-found-page-page-not-found = 404: Ulac asebter
 not-found-page-sorry-we-cant-find-that-page = Suref-aɣ, ur nezmir ara ad d-naf asebter-nni
@@ -13,5 +13,5 @@ not-found-page-go-back = Uɣal ɣer deffir
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Lmed</a> ɣef { -brand-name-mozilla }, tin ur nettnadi ara tadrimt i yellan deffir { -brand-name-firefox }.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/new/
+#   $download (url) - link to https://www.mozilla.org/firefox/download/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Asader</a> iminig { -brand-name-firefox } i yibenk-ik aziraz neɣ n tnarit

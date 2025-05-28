@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
 # page title
 bookmark-manager-bookmark-manager = Bladwijzerbeheerder
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Orden uw bladwijzers met mappen en labels.
 # Variables:
-#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+#   $sync (url) - link to https://www.firefox.com/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = Bladwijzers zijn koppelingen die u in uw browser opslaat, zodat u snel en eenvoudig terug kunt gaan naar uw favoriete plaatsen op internet. { -brand-name-firefox } bevat een handige bladwijzerbeheerder, zodat u al uw opgeslagen koppelingen op al uw apparaten kunt ordenen, zoeken, bijwerken en <a { $sync }>synchroniseren</a>.
 bookmark-manager-organize-your-boomarks-into = Orden uw bladwijzers in doorzoekbare mappen
 bookmark-manager-collect-your-bookmarks-in-folders = Verzamel uw bladwijzers in mappen en label ze met meer details. U kunt uw bladwijzers ook sorteren om snel de bladwijzers te vinden die u nodig hebt.

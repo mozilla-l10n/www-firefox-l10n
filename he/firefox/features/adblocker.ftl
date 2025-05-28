@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-the-ad-blocker-a-secret = חוסם הפרסומות – נשק סודי נגד פרסומות מעצבנות.
 features-adblocker-so-many-ads-so-little = כל כך הרבה פרסומות, כל כך מעט סבלנות… הגיע הזמן להפסיק את הטירוף.

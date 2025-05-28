@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/password-manager
+### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
 password-manager-free-password-manager = 무료 비밀번호 관리자
@@ -11,7 +11,7 @@ password-manager-free-password-manager = 무료 비밀번호 관리자
 password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } 비밀번호 관리자가 사용자의 모든 비밀번호를 한 곳에 저장해서 사이트에 자동으로 로그인되게 하거나 저장된 비밀번호를 확인할 수 있습니다.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox }는 웹 사이트에 접근하기 위한 사용자 이름과 비밀번호를 안전하게 저장하고 다음에 웹 사이트를 방문할 때 자동으로 입력합니다. 내장된 비밀번호 관리 기능으로 저장된 로그인을 관리할 수 있습니다.
 # Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+#   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = <a { $fxa }>무료 { -brand-name-mozilla-account }</a>를 사용하면 모든 기기에서 비밀번호를 안전하게 동기화할 수 있습니다. 또한 { -brand-name-mozilla }의 다른 개인 정보 존중 제품 모두에 접근할 수 있습니다.
 password-manager-password-autofill-for-easy-logins = 비밀번호 자동 채우기로 쉽게 로그인
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox }가 저장된 사용자 이름과 비밀번호를 자동으로 입력합니다. 사이트에 대해 두 개 이상의 로그인을 가지고 있는 경우, 원하는 계정을 선택하기만 하면 됩니다.

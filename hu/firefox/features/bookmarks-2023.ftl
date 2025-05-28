@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
 # page title
 bookmark-manager-bookmark-manager = Könyvjelzőkezelő
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Rendszerezze a könyvjelzőit mappák és címkék segítségével.
 # Variables:
-#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+#   $sync (url) - link to https://www.firefox.com/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = A könyvjelzők olyan hivatkozások, amelyeket a böngészőjében ment el, így gyorsan és könnyen visszajuthat a kedvenc helyeire a weben. A { -brand-name-firefox } tartalmaz egy praktikus könyvjelzőkezelőt, amellyel rendszerezheti, keresheti, frissítheti és <a { $sync }>szinkronizálhatja az összes mentett hivatkozását az összes eszközén</a>.
 bookmark-manager-organize-your-boomarks-into = Rendszerezze a könyvjelzőit kereshető mappákba
 bookmark-manager-collect-your-bookmarks-in-folders = Gyűjtse össze a könyvjelzőit mappákba, és címkézze meg őket további részletekkel. Át is rendezheti a könyvjelzőket, hogy gyorsan megtalálja azt, amelyre szüksége van.

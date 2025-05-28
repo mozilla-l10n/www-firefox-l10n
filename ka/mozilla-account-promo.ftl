@@ -7,7 +7,7 @@
 moz-account-promo-title = ერთი შესვლა. <br> <span { $class }>ყველაფერი</span> { -brand-name-mozilla }-სგან.
 # Variables
 #   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
+#   $learn_more_url - link to https://www.mozilla.org/accounts/
 moz-account-already-have-v2 = უკვე გაქვთ ანგარიში? <a { $sign_in_url }>შედით</a> ან <a { $learn_more_url }>იხილეთ ვრცლად</a>, როგორ შემოუერთდეთ { -brand-name-mozilla }-ს.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }

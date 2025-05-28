@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/ios/
 
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 mobile-ios-get-more-firefox = మీ జీవితంలో మరిన్ని { -brand-name-firefox } పొందండి

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -15,11 +15,11 @@ firefox-desktop-download-og-title = Doonload the fastest { -brand-name-firefox }
 firefox-desktop-download-og-desc = Faster page loadin, less memory yaise and hoachin wi featurs, the new { -brand-name-firefox } is here.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Get the stravaiger that bields whit maitters
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-no-shady = Nae sleekit privacy policies or back doors fur advertisers. Jist a lichtnin fast stravaiger that disnae sell ye oot.
 firefox-desktop-download-download-options = Doonload options and ither leids
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } support
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = Dae whit ye dae online.<br> { -brand-name-firefox-browser } <strong>isnae</strong> watchin.
 firefox-desktop-download-we-block-the-ad = We block the ad trackers. You stravaig the internet faster.
 firefox-desktop-download-ads-are-distracting = Ads are distractin and mak wab pages load slower while their trackers tak tent o ilka muive ye mak online. The { -brand-name-firefox-browser } blocks maist trackers automatically, sae there’s nae need tae gang howkin intae yer siccarness settins.
@@ -105,9 +105,9 @@ firefox-desktop-download-from-security-to = Fae siccarness tae news tae gemmes, 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } wis makkit by <a { $attrs }>{ -brand-name-mozilla }</a> as a faster, mair private alternative tae stravaigers like { -brand-name-ie }, and noo { -brand-name-chrome }. The day, oor mission-driven company and volunteer community haud forrit wi pittin yer privacy abuin awthin else.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = As the internet growes and chynges, { -brand-name-firefox } continues tae focus on yer richt tae privacy  — we caw it the <a { $attrs }>Personal Data Promise</a>: Tak less. Keep it sauf. Nae secrets. Yer data, yer wab ongauns, yer life online is bieldit wi { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
@@ -119,7 +119,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automat
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Speirins? <a { $attrs }>{ -brand-name-mozilla } support</a> hiv got ye sortit.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Jist aboot there!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -138,11 +138,11 @@ firefox-desktop-download-if-you-see-a-prompt = If you see a prompt sayin that th
 firefox-desktop-download-visit-support-for-more = Veesit Support fur Mair Details
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = Yer doonload should stert automatically. Didnae wirk? <a id="{ $id }" href="{ $fallback_url }">Gie doonloadin anither shot.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } is mair than a stravaiger.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Yer doonload wis interruptit. But it's no gemme's a bogey jist yet.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Yer system micht no match the requirements fur { -brand-name-firefox }, but ye can try yin o <a href="{ $url }">these versions</a>.

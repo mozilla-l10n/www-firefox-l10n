@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = 瀏覽器簡史: 帶來現代瀏覽器的史詩級大戰
 browser-history-the-browser-wars-underdogs-giants = 小蝦米與大鯨魚對抗的瀏覽器戰爭改變了這個世界。了解網頁瀏覽器歷史。
@@ -51,4 +51,3 @@ browser-history-in-the-future-the = 在未來，網路環境可能會脫胎自�
 browser-history-in-the-future-the-v2 = 在未來，網路環境可能會脫胎自原始的超文字，提供各種不同而廣闊的互動式體驗。虛擬實境已經出現了幾十年（自 1992 年的 Lawnmower Man 與 1995 年的任天堂 Virtual Boy 起算），但網路可能使其被大眾所接受。{ -brand-name-firefox } 已經支援了 WebVR 與 A-Frame，可讓開發者快速而簡單地打造虛擬實境網站。現代的大多數行動裝置都支援 WebVR，可以將手機插入簡單的卡紙盒中，成為 VR 眼鏡。由科幻小說家 Neal Stephenson 所描繪的 3D 虛擬實境網頁可能已經離我們不遠。如果是這樣的話，網頁瀏覽器可能會融入為另一個世界的真實入口。
 browser-history-whatever-the-future = 無論網際網路環境的未來如何，{ -brand-name-mozilla } 與 { -brand-name-firefox } 都會持續提供服務，確保使用者能有強大的工具來上網，並使用其提供的所有功能。我們相信網路應由所有人所共有，且每個人都應該能夠自行控制上網體驗。這也是為什麼我們在 { -brand-name-firefox } 當中提供各種能夠保護使用者隱私的工具，並且永不將使用者資料銷售給廣告商。
 browser-history-resources = 資源
-browser-history-take-control-of = 自行控制您的瀏覽器。

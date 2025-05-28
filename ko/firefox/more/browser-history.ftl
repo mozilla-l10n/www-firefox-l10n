@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = 브라우저 역사: 최신 브라우저를 가져온 엄청난 권력 투쟁
 browser-history-the-browser-wars-underdogs-giants = 브라우저 전쟁, 약자 대 거인, 세상을 바꾼 순간. 웹 브라우저의 역사에 대해 읽어보십시오.
@@ -51,4 +51,3 @@ browser-history-in-the-future-the = 미래에 웹은 하이퍼텍스트라는 �
 browser-history-in-the-future-the-v2 = 미래의 웹은 하이퍼텍스트의 뿌리에서 벗어나 상호작용 경험의 넓은 바다가 될 것입니다. 가상 현실은 수십 년 동안(적어도 1992년 Lawnmower Man과 1995년 Nintendo Virtual Boy 출시 이후) 지평선에 있었지만 웹이 마침내 대중에게 가져올지 모릅니다. { -brand-name-firefox }는 이제 WebVR 및 A-Frame을 지원하므로 개발자가 가상 현실 웹사이트를 쉽고 빠르게 구축할 수 있습니다. 대부분의 최신 모바일 장치는 WebVR을 지원하며 간단한 카드보드 케이스를 이용한 헤드셋으로 쉽게 사용할 수 있습니다. SF 작가 닐 스티븐슨(Neal Stephenson)이 상상한 것과 같은 3D 가상 현실 웹이 머지않아 다가올지도 모릅니다. 그렇게 되면 웹브라우저 자체가 완전히 사라지고 또 다른 세계로 통하는 진정한 창이 될 수도 있습니다.
 browser-history-whatever-the-future = 앞으로 웹이 무엇을 담든 { -brand-name-mozilla }와 { -brand-name-firefox }는 사용자가 웹과 웹이 제공하는 모든 것을 경험할 수 있는 강력한 도구를 갖도록 보장할 것입니다. 웹은 모두를 위한 것이며 누구나 자신의 온라인 경험을 통제할 수 있어야 합니다. 이것이 저희가 사용자 개인 정보 보호를 위해 { -brand-name-firefox } 도구를 제공하고 절대로 광고주에게 사용자 정보를 판매하지 않는 이유입니다.
 browser-history-resources = 자원
-browser-history-take-control-of = 브라우저를 제어하세요.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/more/
+### URL: https://www-dev.springfield.moz.works/more/
 
 firefox-products-are = Os produtos { -brand-name-firefox } são desenhados para proteger a sua privacidade
 learn-more-about-firefox = Saiba mais sobre o { -brand-name-firefox }, a sua história, recursos e missão
@@ -15,14 +15,8 @@ what-is-a = O que é um navegador de Internet?
 a-web-browser = Um navegador de Internet dá-lhe acesso a qualquer lugar na Internet, permitindo que veja textos, imagens e vídeos de qualquer sítio do mundo.
 update-your-browser = Atualize o seu navegador para um { -brand-name-firefox } rápido, seguro e protegido.
 the-firefox-browser = O { -brand-name-firefox } foi desenvolvido para proteger a sua privacidade, a cada passo - porque esta é a forma mais rápida de o libertar de carregamentos lentos, anúncios maus e de rastreadores.
-firefox-is-more = O { -brand-name-firefox } é mais do que um navegador
-get-the-browsers = Obtenha os navegadores que colocam a sua privacidade em primeiro lugar — e que sempre o fizeram
-choose-which-firefox = Escolha qual o idioma do { -brand-name-firefox-browser } a transferir
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } para { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Apesar do { -brand-name-chromebook } já ter o { -brand-name-chrome } instalado, descarregar e utilizar o { -brand-name-firefox } como o seu navegador principal tem alguns benefícios:
-firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
-firefox-more-quantum-was-revolution = O { -brand-name-firefox-quantum } foi uma revolução no desenvolvimento do { -brand-name-firefox }. Em 2017, criámos um novo navegador ultra-rápido que está a ser constantemente melhorado. O { -brand-name-firefox-quantum } é o { -brand-name-firefox-browser }.
-we-believe-everyone = Acreditamos que todos devem ter acesso à Internet — é por isso que disponibilizamos o { -brand-name-firefox-browser } em mais de 90 idiomas, com a ajuda de voluntários dedicados de todo o mundo.
 firefox-fights-for = O { -brand-name-firefox } luta por si no { -brand-name-windows }
 easy-migration-of = Migração fácil de preferências e marcadores quando transfere o { -brand-name-firefox } para { -brand-name-windows }.
 firefox-respects-your = O { -brand-name-firefox } respeita a sua privacidade no { -brand-name-mac-short }.
@@ -37,5 +31,3 @@ firefox-more-fingerprinter-blocking = Bloqueio de identificadores digitais
 firefox-more-fingerprinting-is-a = A identificação digital é um tipo de rastreamento na Internet que é mais invasivo do que o rastreamento comum baseado em cookies - é por isso que o { -brand-name-firefox-browser } a bloqueia.
 firefox-more-translate-the-web = Traduzir a Internet
 firefox-more-translate-more-than = Traduza mais de 100 idiomas para o seu idioma, diretamente no seu { -brand-name-firefox-browser } - mais simples que nunca.
-firefox-more-avoid-misinformation-heading = Evite a desinformação na Internet – o { -brand-name-firefox } está aqui para ajudar
-firefox-more-avoid-misinformation-desc = Consulte as dicas para ver menos desinformação e focar-se no que é importante para si.

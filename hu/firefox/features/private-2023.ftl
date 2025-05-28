@@ -3,13 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/private/
+### URL: https://www-dev.springfield.moz.works/features/private/
 
 features-private-is-firefox-a-private-browser = A { -brand-name-firefox } privát böngésző?
 # HTML description
 features-private-were-focused-on-your-right-to = Az adatvédelemhez való jogára összpontosítunk. Az adatait, webes tevékenységét, az online életét a { -brand-name-firefox } védi.
 # Variables:
-#   $url (url) = link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) = link to https://www.firefox.com/features/private-browsing/
 features-private-yes-firefox-protects-your = Igen. A { -brand-name-firefox } olyan funkciókkal védi az adatait, mint a <a href="{ $url }">Privát böngészés</a>. Lehetővé teszi böngészési előzményeinek és jelszavainak bizalmas kezelését, még akkor is, ha másokkal megosztott eszközt használ, például otthoni számítógépet vagy { -brand-name-ipad }et.
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
@@ -17,7 +17,7 @@ features-private-firefox-also-protects-your = A { -brand-name-firefox } az Ön a
 features-private-sidenote-we-are-not-big-tech = <em>Széljegyzet:</em> Nem vagyunk egy techóriás. Másképp csináljuk a dolgokat. A függetlenség (nincsenek részvényeseink) lehetővé teszi, hogy az embereket helyezzük az első helyre, a profit elé. Más cégekkel ellentétben, mi nem adunk el hozzáférést az adataihoz.
 features-private-what-information-does-firefox = Milyen információkat gyűjt a { -brand-name-firefox }?
 # Variables:
-#   $url (url) = link to https://www.mozilla.org/firefox/privacy/
+#   $url (url) = link to https://www.mozilla.org/privacy/
 features-private-mozilla-the-maker-of-firefox = A { -brand-name-mozilla } (a { -brand-name-firefox } készítője) nagyon komolyan veszi az adatvédelmet. <strong>Nagyon komolyan</strong>. Valójában minden { -brand-name-firefox } termékünk betartja a <a href="{ $url }">személyes adatokra vonatkozó ígéretünket</a>: Gyűjts kevesebbet. Tartsd biztonságban. Nincsenek titkok.
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/privacy/firefox/

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
+### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = Cookie 設定
 cookie-settings-page-desc = 此頁面描述了 { -brand-name-mozilla } 會使用的不同類型 Cookie，並讓您可自行控制要同意 { -brand-name-mozilla } 收集哪些類型的資料。

@@ -14,8 +14,6 @@ newsletter-form-select-country-or-region = בחירת מדינה או אזור
 newsletter-form-select-language = בחירת שפה
 newsletter-form-your-email-here = כתובת הדואר האלקטרוני שלך כאן
 newsletter-form-get-firefox-news = קבלת חדשות { -brand-name-firefox }
-newsletter-form-join-the-community = הצטרפות לקהילה
-newsletter-form-sign-up-to-receive = הירשמו כדי לקבל עדכונים חודשיים מ־{ -brand-name-firefox } ומגמות אינטרנט שמעצבות את חייכם ברשת.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = מקובלת עלי הדרך בה { -brand-name-mozilla } מטפלת במידע שלי כפי שמוסבר ב<a href="{ $url }">הצהרת פרטיות</a> זו
@@ -24,17 +22,13 @@ newsletter-form-we-will-only-send-firefox-v2 = נשלח לך רק מידע הק�
 newsletter-form-if-you-havent-previously = אם לא אישרת בעבר הרשמה לניוזלטרים של { -brand-name-mozilla }, יהיה עליך לעשות זאת. נא לבדוק את תיבת הדואר הנכנס או את מסנני דואר הזבל כדי לאתר את הודעת הדואר האלקטרוני ששלחנו.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> ואתם
 newsletter-form-get-firefox-tips = קבלת טיפים וטריקים, חדשות ועוד על אודות { -brand-name-firefox }
-newsletter-form-get-mozilla-updates = קבלת עדכונים מ־{ -brand-name-mozilla }
 newsletter-form-available-languages = שפות זמינות
 newsletter-form-select-country = בחירת מדינה
 newsletter-form-sign-me-up = רישמו אותי
 newsletter-form-sign-up-now = הרשמה כעת
 newsletter-form-thanks = תודה!
-newsletter-form-leave-this-field-empty = יש להשאיר שדה זה ריק.
 newsletter-form-yes = כן
 newsletter-form-no = לא
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = טופס הרשמה לרשימת דיוור
 multi-newsletter-form-checkboxes-legend = אני רוצה מידע על:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

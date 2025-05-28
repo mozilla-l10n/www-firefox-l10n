@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
+### URL: https://www-dev.springfield.moz.works/features/picture-in-picture/
 
 features-pip-picture-in-picture = Skeudenn-ouzh-skeudenn
 features-pip-heres-how-it-works = Setu penaos ez a en-dro:

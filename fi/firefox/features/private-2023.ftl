@@ -3,13 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/private/
+### URL: https://www-dev.springfield.moz.works/features/private/
 
 features-private-is-firefox-a-private-browser = Onko { -brand-name-firefox } yksityinen selain?
 # HTML description
 features-private-were-focused-on-your-right-to = Keskitymme oikeuteesi yksityisyyteen. Tietosi, verkkotoimintasi ja verkkoelämäsi pysyvät suojattuna { -brand-name-firefox }illa.
 # Variables:
-#   $url (url) = link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) = link to https://www.firefox.com/features/private-browsing/
 features-private-yes-firefox-protects-your = Kyllä. { -brand-name-firefox } suojaa yksityisyyttäsi monilla ominaisuuksilla, kuten <a href="{ $url }">yksityisellä selauksella</a>. Sen avulla voit pitää selaushistoriasi ja salasanasi yksityisinä, vaikka käytät laitetta, jonka jaat muiden kanssa, kuten tietokonetta kotona tai { -brand-name-ipad }ia.
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop

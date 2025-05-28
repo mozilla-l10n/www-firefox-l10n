@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/password-manager
+### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
 password-manager-free-password-manager = Gestor de palavras-passe gratuito
@@ -11,7 +11,7 @@ password-manager-free-password-manager = Gestor de palavras-passe gratuito
 password-manager-firefox-password-manager-saves-all = O Gestor de palavras-passe do { -brand-name-firefox } guarda todas as suas palavras-passe num único sítio para que possa iniciar sessão em sites automaticamente, ou recuperar as palavras-passe guardadas.
 password-manager-firefox-securely-stores-your = O { -brand-name-firefox } guarda com segurança os seus nomes de utilizador e palavras-passe para acesso aos sites, preenchendo estes dados automaticamente da próxima vez que os visitar e, permite que faça a gestão das suas credenciais armazenadas com a respetiva funcionalidade integrada de gestão de palavras-passe.
 # Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+#   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Com uma <a { $fxa }>{ -brand-name-mozilla-account } gratuita</a>, pode sincronizar com segurança as suas palavras-passe em todos os seus dispositivos. Também pode aceder a todos os outros produtos da { -brand-name-mozilla } que respeitam a privacidade.
 password-manager-password-autofill-for-easy-logins = Preenchimento automático de palavras-passe para inícios de sessão facilitados.
 password-manager-firefox-can-automatically-fill-in = O { -brand-name-firefox } pode preencher automaticamente o seu nome de utilizador e palavra-passe guardados. Se possuir várias credenciais para um mesmo site, apenas escolha a conta que deseja utilizar e a partir daí, tratamos de tudo.

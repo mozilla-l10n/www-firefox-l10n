@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = Selainhistoria: Eeppiset valtataistelut, jotka toivat meille modernit selaimet
 browser-history-the-browser-wars-underdogs-giants = Selainsodat, altavastaajat vastaan jättiläiset ja hetket, jotka muuttivat maailmaa. Lue verkkoselainten historiasta.
@@ -51,4 +51,3 @@ browser-history-in-the-future-the = Tulevaisuudessa verkko todennäköisesti eks
 browser-history-in-the-future-the-v2 = Tulevaisuudessa verkko todennäköisesti eksyy kauemmas hypertekstijuuristaan ja siitä tulee valtava vuorovaikutteisten kokemusten meri. Virtuaalitodellisuus on ollut horisontissa vuosikymmeniä (ainakin Lawnmower Manin julkaisun jälkeen vuonna 1992 ja Nintendo Virtual Boyn vuonna 1995), mutta verkko saattaa vihdoin tuoda sen massoille. { -brand-name-firefox } tukee nyt WebVR:tä ja A-Framea, joiden avulla kehittäjät voivat rakentaa virtuaalitodellisuussivustoja nopeasti ja helposti. Useimmat nykyaikaiset mobiililaitteet tukevat WebVR:tä, ja mobiililaitteita voidaan käyttää helposti virtuaalilaseina yksinkertaisten pahvilaatikoiden avulla. Tieteiskirjailija Neal Stephensonin kuvitteleman kaltainen 3D-virtuaalitodellisuusverkko saattaa olla aivan nurkan takana. Jos näin on, selain voi kadota kokonaan ja siitä voi tulla todellinen ikkuna toiseen maailmaan.
 browser-history-whatever-the-future = Mitä tahansa verkon tulevaisuus tuo tullessaan, { -brand-name-mozilla } ja { -brand-name-firefox } ovat käyttäjien saatavilla ja varmistavat, että ihmisillä on tehokkaat työkalut verkon ja kaiken sen tarjonnan kokemiseen. Verkko on kaikille, ja jokaisen pitäisi pystyä hallita verkkokokemustaan. Siksi tarjoamme { -brand-name-firefox }in työkaluja käyttäjien yksityisyyden suojaamiseksi, emmekä koskaan myy käyttäjätietoja mainostajille.
 browser-history-resources = Resurssit
-browser-history-take-control-of = Ota ohjat selaimestasi.

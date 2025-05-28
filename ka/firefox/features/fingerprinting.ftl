@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
+### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = ანაბეჭდით ამოცნობა ინტერნეტში თვალის დევნების სახეა, მეტად მძლავრი ვიდრე ფუნთუშებით მეთვალყურეობა — სწორედ ამიტომაც ზღუდავს { -brand-name-firefox-browser }.
@@ -27,5 +27,5 @@ features-fingerprinting-the-practice-of = ანაბეჭდით ამო�
 features-fingerprinting-the-latest-firefox = უახლესი { -brand-name-firefox }-ბრაუზერი გიცავთ ამომცნობებისგან გარეშე მხარის მოთხოვნების შეზღუდვით იმ კომპანიების მიმართ, რომლებიც შემჩნეულნი არიან ანაბეჭდით თვალთვალში. ჩვენ მთელი ძალისხმევით ვმუშაობთ, რომ პირადულობის დაცვის ამ საშუალებამ, არ შეგიშალოთ ხელი ვებსაიტების სრულყოფილად გამოყენებაში. (იხილეთ ვრცლად, თუ გაინტერესებთ <a { $url_details }>ტექნიკური საკითხები</a>).
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = და ამისთვის არაა საჭირო პარამეტრებში ქექვა. უახლეს { -brand-name-firefox }-ბრაუზერში, ამომცნობების შეზღუდვა ჩვეულებრივ, ნაგულისხმევადაა მითითებული. იხილეთ თქვენი <a { $url_protections }>პირადულობის დაცვის მაჩვენებლები</a> და შეამოწმეთ, როგორ ცდილობდნენ ფარულად თქვენს თვალთვალს და როგორ გიცავდათ { -brand-name-firefox } ამისგან.
-# $url_download (string) - link to firefox/new
+# $url_download (string) - link to https://www.firefox.com/download/
 features-fingerprinting-you-probably-wouldnt = ალბათ მიუღებელი იქნებოდა თქვენთვის, ვინმე რომ თქვენს თითოეულ ნაბიჯს თვალყურს ადევნდებეს ნამდვილ ცხოვრებაში. შესაბამისად, არც იმის მიზეზი არსებობს, რატომაც ეს მისაღები უნდა იყოს ვებსამყაროში. თუ უკვე არ გაქვთ { -brand-name-firefox }, <a { $url_download }>ჩამოტვირთეთ და დაიცავით თავი</a> ციფრული ანაბეჭდით თვალთვალისგან.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/eyedropper/
+### URL: https://www-dev.springfield.moz.works/features/eyedropper/
 
 features-eyedropper-eyedropper-tool = Herramienta cuentagotas
 features-eyedropper-select-colors-in-firefox = Selecciona colores en { -brand-name-firefox } con la herramienta cuentagotas

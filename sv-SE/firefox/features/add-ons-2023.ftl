@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/add-ons/
+### URL: https://www-dev.springfield.moz.works/features/add-ons/
 
 features-add-ons-firefox-add-ons = { -brand-name-firefox } tillägg
 features-add-ons-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } tillägg och webbläsartillägg
@@ -12,6 +12,6 @@ features-add-ons-extensions-also-known-as-add-ons = Tillägg – även känd som
 #   $fbcontainer (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 #   $translate (url) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
 #   $language (url) - link to https://addons.mozilla.org/firefox/addon/languagetool/
-#   $customize (url) - link to https://www.mozilla.org/firefox/features/customize/
+#   $customize (url) - link to https://www.firefox.com/features/customize/
 #   $amo (url) - link to https://addons.mozilla.org
 features-add-ons-there-are-firefox-add-ons-that = Det finns { -brand-name-firefox } tillägg som <a { $fbcontainer }>stoppar Facebook från att spåra dig på webben</a>, <a { $translate }>översätter text till andra språk</a> , <a { $language }>kontrollera din stavning eller grammatik</a> eller <a { $customize }>piffar upp hur din webbläsares utseende</a>. Du hittar dessa och tusentals andra kostnadsfria tillägg på <a { $amo }>addons.mozilla.org</a>.

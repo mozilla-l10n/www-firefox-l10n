@@ -7,7 +7,7 @@
 moz-account-promo-title = เข้าสู่ระบบเพียงครั้งเดียว <br> เพื่อเข้าถึง<span { $class }>ทุกอย่าง</span>จาก { -brand-name-mozilla }
 # Variables
 #   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
+#   $learn_more_url - link to https://www.mozilla.org/accounts/
 moz-account-already-have-v2 = มีบัญชีอยู่แล้วใช่หรือไม่? <a { $sign_in_url }>ลงชื่อเข้า</a>หรือ<a { $learn_more_url }>เรียนรู้เพิ่มเติม</a>เกี่ยวกับการเข้าร่วม { -brand-name-mozilla }
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }

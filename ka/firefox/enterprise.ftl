@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = { -brand-name-firefox } თქვენი დაწესებულებისთვის { -brand-name-esr } ან სწრაფი გამოშვებით
 firefox-enterprise-get-unmatched-data-protection = მიიღეთ მონაცემთა უბადლო დაცვა გამოშვების სასურველი სიხშირით, დაწესებულებისთვის განკუთვნილ { -brand-name-firefox }-ზე. ჩამოტვირთეთ { -brand-name-esr } და სწრაფი გამოშვება.
@@ -42,5 +42,5 @@ firefox-enterprise-sample-plist-for-configuration = ნიმუშად <a hre
 firefox-enterprise-pkg-installer = PKG-დასაყენებელი
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-ბიტიანი
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = ჩამოტვირთეთ { -brand-name-firefox-esr } ან სწრაფი გამოშვება<br> <a href="{ $firefox_all }">სხვა ენასა და სისტემაზე.</a>

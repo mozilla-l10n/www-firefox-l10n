@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
+### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = Kookie ñemboheko
 cookie-settings-page-desc = Ko kuatiarogue ohechauka opaichagua kookie { -brand-name-mozilla } oiporukuaáva, ha ome’ẽ ndéve pokatu máva mba’ekuaarãpa emoneĩta ombyatývo { -brand-name-mozilla }.

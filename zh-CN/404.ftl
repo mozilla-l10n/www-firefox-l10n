@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/404/
+### URL: https://www-dev.springfield.moz.works/404/
 
 not-found-page-not-found-page-page-not-found = 404：找不到页面
 not-found-page-sorry-we-cant-find-that-page = 抱歉，我们找不到该页面
@@ -13,7 +13,7 @@ not-found-page-go-back = 返回
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">了解</a> { -brand-name-firefox } 背后的非营利组织－{ -brand-name-mozilla }。
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/new/
+#   $download (url) - link to https://www.mozilla.org/firefox/download/
 not-found-page-download-the-firefox-browser = <a href={ $download }>下载</a> 移动或桌面版本 { -brand-name-firefox } 浏览器
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404

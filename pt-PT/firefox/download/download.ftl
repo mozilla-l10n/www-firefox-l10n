@@ -6,27 +6,23 @@
 # Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 firefox-new-download-firefox = Transferir o { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Transfira o { -brand-name-firefox } mais rápido de sempre
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = Carregamento mais rápido, menos utilização de memória e cheio de funcionalidades; o novo { -brand-name-firefox } está aqui.
 firefox-new-get-the-latest-firefox = Obtenha o navegador { -brand-name-firefox } mais recente.
-# span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = Transferir o { -brand-name-firefox } <br>para { -brand-name-windows }
-firefox-new-download-firefox-for-macos = Transferir o { -brand-name-firefox } <br>para { -brand-name-mac }
-firefox-new-download-firefox-for-linux = Transferir o { -brand-name-firefox } <br>para { -brand-name-linux }
 firefox-new-free-web-browser = Navegador Web gratuito
 firefox-new-advanced-install-options = Opções avançadas de instalação e outras plataformas
 firefox-new-download-in-another-language = Transferir noutro idioma
 firefox-new-need-help = Precisa de ajuda?
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-firefox-new-should-begin = A sua transferência deveria ter sido iniciada automaticamente. Não funcionou? <a id="{ $id }" href="{ $fallback_url }">Tente repetir a transferência</a>.
 firefox-new-firefox-is-more-than-a-browser = O { -brand-name-firefox } é mais do que um navegador.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
@@ -34,7 +30,7 @@ firefox-new-download-interrupted = A sua transferência foi interrompida, mas ne
 firefox-new-download-almost-there = Quase lá!
 firefox-new-download-select-linux = Selecione uma opção de transferência abaixo
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-system-may-not = O seu sistema pode não cumprir os requisitos para o { -brand-name-firefox }, mas pode experimentar uma <a href="{ $url }">destas versões</a>.
 firefox-new-windows = { -brand-name-windows }
 # Variables:
@@ -45,7 +41,7 @@ firefox-new-visit-support-for-more = Visite o suporte para obter mais detalhes
 # Not-Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Transferir o { -brand-name-firefox-browser }

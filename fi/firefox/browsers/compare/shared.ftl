@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.springfield.moz.works/compare/
 
 compare-shared-compare-firefox = Vertaa { -brand-name-firefox }ia
 compare-shared-footer-cta-title = Tee enemmän { -brand-name-firefox }illa
@@ -11,10 +11,10 @@ compare-shared-footer-cta-desc = Hanki nopea, kevyt, yksityisyyteen keskittyvä 
 compare-shared-we-also-offer-easy = Tarjoamme helppokäyttöisiä ominaisuuksia:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } sisältää myös sisäänrakennettuja työkaluja, kuten:
 # Variables
-# $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
+# $pdf (url) - link to https://www.firefox.com/features/pdf-editor/
 compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Muokkaa PDF-tiedostoja</a> liikkeellä ollessasi { -brand-name-firefox }in selainikkunassa - lisäohjelmistoja ei tarvita.
 # Variables
-# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+# $translate (url) - link to https://www.firefox.com/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>Käännä verkkosivu</a> paikallisesti ja yksityisesti.
 compare-shared-its-easy-to-switch = Vaihtaminen on helppoa
 compare-shared-since-we-dont-have-to-make = Koska meidän ei tarvitse ilahduttaa osakkeenomistajia, voimme keskittyä <strong>sinun</strong> ilahduttamiseen ja asettaa yksityisyytesi ja käyttömukavuutesi aina etusijalle.

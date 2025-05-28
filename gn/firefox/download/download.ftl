@@ -6,27 +6,23 @@
 # Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 firefox-new-download-firefox = Emboguejy { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Emboguejy { -brand-name-firefox } ipya’evéva opavavégui
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = Kuatiarogue ñemyanyhẽ pya’eve, sa’ive oiporúva mandu’arenda ha hembiapoiteve, kóva ha’e { -brand-name-firefox } ipyahúva.
 firefox-new-get-the-latest-firefox = Eguereko { -brand-name-firefox } kundaha ipyahuvéva.
-# span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = Emboguejy { -brand-name-firefox } <br>{ -brand-name-windows } peg̃uarã
-firefox-new-download-firefox-for-macos = Emboguejy { -brand-name-firefox } <br>{ -brand-name-mac } peg̃uarã
-firefox-new-download-firefox-for-linux = Emboguejy { -brand-name-firefox } <br>{ -brand-name-linux } peg̃uarã
 firefox-new-free-web-browser = Ñanduti kundaha reigua
 firefox-new-advanced-install-options = Ñemohenda poravorã hu’ãpotámava ha ambue jehechaukaha
 firefox-new-download-in-another-language = Emboguejy ambue ñe’ẽme
 firefox-new-need-help = ¿Eikotevẽpa pytyvõ?
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-firefox-new-should-begin = Ko ñemboguejy oñepyrũva’erã ijehegui. ¿Ndojapói? <a id="{ $id }" href="{ $fallback_url }">Eha’ã jey emboguejy</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ndaha’éi kundaha año.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
@@ -34,7 +30,7 @@ firefox-new-download-interrupted = Pe ñemboguejy ojejoko. Hákatu nokañymbái.
 firefox-new-download-almost-there = ¡Ejapopa’íntema!
 firefox-new-download-select-linux = Eiporavo jeporavorã mboguejyrã ko’ág̃a
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-system-may-not = Ikatu hína nde apopyvusu ndorekói { -brand-name-firefox } ojeruréva, hákatu eiporukuaa peteĩva <a href="{ $url }">ãva rehegua</a>.
 firefox-new-windows = { -brand-name-windows }
 # Variables:
@@ -45,7 +41,7 @@ firefox-new-visit-support-for-more = Eike Pytyvõme eikuaave hag̃ua
 # Not-Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Emboguejy { -brand-name-firefox-browser }

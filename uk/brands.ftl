@@ -12,17 +12,12 @@
 -brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook = Facebook
--brand-name-github = GitHub
 -brand-name-google = Google
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
--brand-name-netscape = Netscape
--brand-name-twitter = Twitter
--brand-name-wireguard = WireGuard
 -brand-name-linkedin = LinkedIn
--brand-name-tiktok = TikTok
 -brand-name-spotify = Spotify
 
 ## Firefox browsers
@@ -114,8 +109,6 @@
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
--brand-name-aurora = Aurora
--brand-name-firefox-quantum = Firefox Quantum
 
 ## Firefox products
 
@@ -126,84 +119,7 @@
 
 ## Firefox products (short names)
 
--brand-name-devtools = DevTools
 -brand-name-relay = Relay
-
-## Firefox products (legacy)
-
--brand-name-firefox-account =
-    { $case ->
-        [gen]
-            { $capitalization ->
-                [lower] облікового запису Firefox
-               *[upper] Облікового запису Firefox
-            }
-        [dat]
-            { $capitalization ->
-                [lower] обліковому запису Firefox
-               *[upper] Обліковому запису Firefox
-            }
-        [acc]
-            { $capitalization ->
-                [lower] обліковий запис Firefox
-               *[upper] Обліковий запис Firefox
-            }
-        [abl]
-            { $capitalization ->
-                [lower] обліковим записом Firefox
-               *[upper] Обліковим записом Firefox
-            }
-        [loc]
-            { $capitalization ->
-                [lower] обліковому записі Firefox
-               *[upper] Обліковому записі Firefox
-            }
-       *[nom]
-            { $capitalization ->
-                [lower] обліковий запис Firefox
-               *[upper] Обліковий запис Firefox
-            }
-    }
--brand-name-firefox-accounts =
-    { $case ->
-        [gen]
-            { $capitalization ->
-                [lower] облікових записів Firefox
-               *[upper] Облікових записів Firefox
-            }
-        [dat]
-            { $capitalization ->
-                [lower] обліковим записам Firefox
-               *[upper] Обліковим записам Firefox
-            }
-        [acc]
-            { $capitalization ->
-                [lower] облікові записи Firefox
-               *[upper] Облікові записи Firefox
-            }
-        [abl]
-            { $capitalization ->
-                [lower] обліковими записами Firefox
-               *[upper] Обліковими записами Firefox
-            }
-        [loc]
-            { $capitalization ->
-                [lower] облікових записах Firefox
-               *[upper] Облікових записах Firefox
-            }
-       *[nom]
-            { $capitalization ->
-                [lower] облікові записи Firefox
-               *[upper] Облікові записи Firefox
-            }
-    }
--brand-name-firefox-marketplace = Firefox Marketplace
--brand-name-firefox-os = Firefox OS
--brand-name-firefox-private-network = Firefox Private Network
-
-## Firefox projects
-
--brand-name-firefox-labs = Firefox Labs
 
 ## Pocket
 
@@ -213,21 +129,11 @@
 
 -brand-name-fakespot = Fakespot
 
-## Anonym
-
--brand-name-anonym = Anonym
-
 ## Mozilla projects
 
--brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
--brand-name-glean = Glean
--brand-name-irl-podcast = Подкаст IRL
--brand-name-solo-ai = Solo AI
--brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
--brand-name-mozilla-festival = Фестиваль Mozilla
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account =
@@ -296,11 +202,8 @@
                *[lower] облікові записи Mozilla
             }
     }
--brand-name-mozilla-builders = Mozilla Builders
--brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
--brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
@@ -309,22 +212,12 @@
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
 
-## Mozilla projects (legacy)
-
--brand-name-webmaker = Webmaker
-
-## Open Source projects
-
--brand-name-rust = Rust
-
 ## Other browsers
 
 -brand-name-brave = Brave
 -brand-name-chrome = Chrome
 -brand-name-edge = Edge
 -brand-name-ie = Internet Explorer
--brand-name-opera = Opera
--brand-name-safari = Safari
 
 ## Platforms
 
@@ -345,9 +238,7 @@
 
 ## Facebook products
 
--brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
--brand-name-workplace = Workplace
 
 ## Google products
 

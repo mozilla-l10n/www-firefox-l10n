@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
+### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = Sütibeállítások
 cookie-settings-page-desc = Ez az oldal ismerteti a { -brand-name-mozilla } által használt különböző típusú sütiket, és irányítást ad Önnek afelett, hogy a { -brand-name-mozilla } milyen típusú adatgyűjtéséhez járul hozzá.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = Penaos paouez da welout re a vruderezh ha chom hep bezañ heuliet enlinenn gant an embregerezhioù. Sturlevr ar stankañ bruderezh deus ar merdeer web { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Ar stanker bruderezh – un arm kuzh a-enep ar bruderezh strobus.

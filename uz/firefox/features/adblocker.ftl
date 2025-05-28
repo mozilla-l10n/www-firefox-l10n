@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = Koʻpab reklamalar chiqishi va kompaniyalarni sizni onlayn kuzatishini qanday toʻxtatish haqida. { -brand-name-firefox } brauzerida reklamalarni bloklash haqida qoʻllanma.
 features-adblocker-the-ad-blocker-a-secret = Reklamalarni bloklagich – asabga teguvchi reklamalarni qarshi maxfiy qurol.

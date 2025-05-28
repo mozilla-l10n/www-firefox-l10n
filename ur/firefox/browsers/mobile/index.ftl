@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/
 
 browsers-mobile-download = ڈاؤن لوڈ
 browsers-mobile-android = { -brand-name-android }

@@ -6,27 +6,23 @@
 # Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 firefox-new-download-firefox = Descargar { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Descarga el { -brand-name-firefox } más veloz jamás creado
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = Ya llegó { -brand-name-firefox }, con una carga más rápida de páginas, menos consumo de memoria y muchas funciones.
 firefox-new-get-the-latest-firefox = Consigue la versión más reciente de { -brand-name-firefox }.
-# span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = Descargar { -brand-name-firefox }<br>para { -brand-name-windows }
-firefox-new-download-firefox-for-macos = Descargar { -brand-name-firefox }<br>para { -brand-name-mac }
-firefox-new-download-firefox-for-linux = Descargar { -brand-name-firefox }<br>para { -brand-name-linux }
 firefox-new-free-web-browser = Navegador web libre y gratuito
 firefox-new-advanced-install-options = Opciones avanzadas de instalación y otras plataformas
 firefox-new-download-in-another-language = Descargar en otro idioma
 firefox-new-need-help = ¿Necesitas ayuda?
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-firefox-new-should-begin = La descarga debería comenzar en un instante. ¿No funcionó? <a id="{ $id }" href="{ $fallback_url }">Intenta descargar nuevamente</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } es más que un navegador.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
@@ -34,7 +30,7 @@ firefox-new-download-interrupted = Tu descarga fue interrumpida. Pero no todo es
 firefox-new-download-almost-there = ¡Casi listo!
 firefox-new-download-select-linux = Selecciona una opción de descarga a continuación
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-system-may-not = Tu sistema puede no tener los requerimientos para { -brand-name-firefox }, pero puedes intentar con alguna de <a href="{ $url }">estas versiones</a>.
 firefox-new-windows = { -brand-name-windows }
 # Variables:
@@ -45,7 +41,7 @@ firefox-new-visit-support-for-more = Para más detalles visita la página de ayu
 # Not-Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Descargar { -brand-name-firefox-browser }

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
+### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Сбор цифровых отпечатков — это более агрессивный вид онлайн-отслеживания, чем обычное отслеживание с помощью кук, поэтому { -brand-name-firefox-browser } блокирует его.
@@ -27,5 +27,5 @@ features-fingerprinting-the-practice-of = Применение сбора циф
 features-fingerprinting-the-latest-firefox = Последняя версия браузера { -brand-name-firefox } защищает вас от сбора цифровых отпечатков, блокируя межсайтовые запросы к серверам компаний, которые известны своим участием в подобной деятельности. Мы приложили немало усилий, чтобы при защите вашей приватности не нарушать работу веб-сайтов, которые вам нравятся посещать. (Подробнее можно почитать здесь, если вам интересны <a { $url_details }>технические детали</a>.)
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = И это не сложные настройки, в которых нужно долго разбираться. В последнем браузере { -brand-name-firefox } настройка блокировки сборщиков цифровых отпечатков является простой. Откройте свою <a { $url_protections }>панель состояния защиты</a>, чтобы увидеть, как за вами скрытно следят и как { -brand-name-firefox } предотвращает это.
-# $url_download (string) - link to firefox/new
+# $url_download (string) - link to https://www.firefox.com/download/
 features-fingerprinting-you-probably-wouldnt = Вы, наверное, будете не в восторге от того, что кто-то следит за вашими действиями в реальной жизни. Нет причин соглашаться на это в Интернете. Если у вас ещё нет { -brand-name-firefox }, <a { $url_download }>загрузите его и защитите себя</a> от сбора цифровых отпечатков.

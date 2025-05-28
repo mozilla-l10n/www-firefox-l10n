@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
+### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Fingerprinting is in soarte fan online folgjen dat mear ynvasyf is as gewoan op cookies basearre folgjen. Dêrom blokkearret { -brand-name-firefox-browser } it.
@@ -27,5 +27,5 @@ features-fingerprinting-the-practice-of = Troch fingerprinten kinne jo <a { $url
 features-fingerprinting-the-latest-firefox = De nijste { -brand-name-firefox }-browser beskermet jo tsjin fingerprinten troch fersiken fan tredden oan bedriuwen wêrfan bekend is dat se oan fingerprinten dielnimme te blokkearjen. Wy hawwe hurd wurke om dizze privacybeskerming mooglik te meitsjen sûnder de websites dy’t jo graach besykje minder wurkje te litten. (Lês hjir mear as jo de <a { $url_details }>technyske details</a> witte wolle.)
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = En it is gjin djip ferstoppe ynstelling wêr’t jo nei grave moatte om him te finen. Yn de nijste { -brand-name-firefox }-browser is fingerprintblokkearring de standertynstelling. Iepenje jo <a { $url_protections }>dashboerd foar privacybeskerming</a> om te sjen hoe’t jo efter de skermen folge wurde en hoe { -brand-name-firefox } dit foarkomt.
-# $url_download (string) - link to firefox/new
+# $url_download (string) - link to https://www.firefox.com/download/
 features-fingerprinting-you-probably-wouldnt = Jo stelle it wierskynlik net op priis as ien jo yn it wiere libben efterfolget. Der is gjin inkelde reden om dat online wol te akseptearjen. As jo { -brand-name-firefox } noch net hawwe, <a { $url_download }>download it dan en beskermje josels</a> tsjin fingerprinten.

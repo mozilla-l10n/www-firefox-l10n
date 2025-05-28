@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = మీ క్రొత్త ఇష్టమైన విహారిణికి స్వాగతం. ఓపెన్ వెబ్ కోసం నిర్మించాల్సిన తాజా లక్షణాలు, వేగవంతమైన పనితీరు మరియు అభివృద్ధి సాధనాలను పొందండి.

@@ -3,13 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/private/
+### URL: https://www-dev.springfield.moz.works/features/private/
 
 features-private-is-firefox-a-private-browser = Είναι το { -brand-name-firefox } ιδιωτικό;
 # HTML description
 features-private-were-focused-on-your-right-to = Εστιάζουμε στο δικαίωμά σας στην ιδιωτικότητα. Τα δεδομένα, η διαδικτυακή δραστηριότητα και η ηλεκτρονική σας ζωή προστατεύονται με το { -brand-name-firefox }.
 # Variables:
-#   $url (url) = link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) = link to https://www.firefox.com/features/private-browsing/
 features-private-yes-firefox-protects-your = Ναι. Το { -brand-name-firefox } προστατεύει το απόρρητό σας με λειτουργίες όπως η <a href="{ $url }">Ιδιωτική περιήγηση</a>. Έτσι, μπορείτε να διατηρείτε το ιστορικό περιήγησης και τους κωδικούς πρόσβασής σας ιδιωτικά, ακόμα κι όταν χρησιμοποιείτε μια συσκευή που μοιράζεστε με άλλα άτομα, όπως έναν οικιακό υπολογιστή ή ένα { -brand-name-ipad }.
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
@@ -17,7 +17,7 @@ features-private-firefox-also-protects-your = Το { -brand-name-firefox } πρ�
 features-private-sidenote-we-are-not-big-tech = <em>Υποσημείωση:</em> Δεν είμαστε τεχνολογικός κολοσσός. Κάνουμε τα πράγματα διαφορετικά. Επειδή είμαστε ανεξάρτητοι (χωρίς μετόχους), μπορούμε να βάζουμε τους ανθρώπους πάνω από το κέρδος. Σε αντίθεση με άλλες εταιρείες, δεν πωλούμε την πρόσβαση στα δεδομένα σας.
 features-private-what-information-does-firefox = Ποιες πληροφορίες συλλέγει το { -brand-name-firefox };
 # Variables:
-#   $url (url) = link to https://www.mozilla.org/firefox/privacy/
+#   $url (url) = link to https://www.mozilla.org/privacy/
 features-private-mozilla-the-maker-of-firefox = Η { -brand-name-mozilla } (δημιουργός του { -brand-name-firefox }) λαμβάνει πολύ σοβαρά υπόψη το απόρρητο. <strong>Πολύ σοβαρά</strong>. Βασικά, κάθε προϊόν του { -brand-name-firefox } που αναπτύσσουμε τιμά την <a href="{ $url }">υπόσχεσή μας για τα προσωπικά δεδομένα</a>: Λιγότερα δεδομένα. Με ασφάλεια. Χωρίς μυστικά.
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/privacy/firefox/

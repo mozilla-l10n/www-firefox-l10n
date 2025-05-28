@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } je veoma brz pretraživač koji nudi najnovije alate za razvoj i najnovije mogućnosti kao što su podrška za CSS mrežu i okvirno otklanjanje grešaka
@@ -67,33 +64,7 @@ firefox-developer-fonts-panel = Panel za fontove
 firefox-developer-the-new-fonts-panel = Novi panel za fontove u programu { -brand-name-firefox-devtools } daje razvojnim inženjerima brz pristup svim informacijama koje su im potrebne o korištenju fontova u elementu. Ona takođe uključuje vrijedne informacije kao što su izvor fonta, težina, stil i još mnogo toga.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } automatski šalje povratnu informaciju { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Preuzmite { -brand-name-firefox } pretraživač napravljen za programere
-firefox-developer-welcome-to-firefox-developer-edition = Dobrodošli u { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Pretraživač napravljen za programere
 firefox-developer-all-the-latest-v2 = Svi najnoviji alati za programere u beta verziji, pored funkcija kao što su uređivač višelinijskih konzola i WebSocket inspektor.
 firefox-developer-a-separate-profile = <strong>Zaseban profil i putanja</strong> tako da ga možete lahko pokrenuti uz standardnu ili { -brand-name-beta } { -brand-name-firefox } verziju.
 firefox-developer-preferences-tailored = Postavke <strong>skrojene za web programere</strong>: Otklanjanje grešaka u pretraživaču i udaljeno su podrazumjevano omogućeni, kao i tamna tema i brz pristup alatima za programere.
-firefox-developer-congrats-you-now-have-latest-v2 = Sada imate najnoviju verziju { -brand-name-firefox-developer-edition }.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Pogledajte <a { $attrs }>napomene o izdanju</a> (samo na engleskom) da vidite šta je novo.
-firefox-developer-developer-tools-user = Korisnički dokumenti alata za programere
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Resursi za programere, od strane programera
-firefox-developer-mdn-playground = Igralište
-firefox-developer-mdn-write-test-and-share = Napišite, testirajte i podijelite svoj kod. Vaše igralište za učenje i dijeljenje svog nevjerovatnog rada sa svijetom.
-firefox-developer-mdn-blog = { -brand-name-mdn } blog
-firefox-developer-mdn-unlock-the-world = Otključajte svijet web razvoja uz { -brand-name-mdn } blog — vaš centar za stručne uvide, najnovije web standarde i savjete za kodiranje.
-firefox-developer-mdn-updates = Nadogradnje
-firefox-developer-mdn-the-web-doesnt-have = Web nema dnevnik promjena, ali { -brand-name-mdn } može pomoći. Možete personalizirati i filtrirati promjene kompatibilnosti na osnovu pretraživača ili tehničke kategorije koja vas zanima da li je to JavaScript, CSS, itd.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn } reference
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } je open-source, kolaborativni projekat koji dokumentuje tehnologije web platforme, uključujući CSS, HTML, JavaScript i web API-je.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } plan i program
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Strukturirani vodič za osnovne vještine i prakse za uspješnog front-end programera, zajedno s preporučenim resursima za učenje.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Podržite { -brand-name-mdn } i učinite ga svojim s kolekcijama, obavještenjima i igralištima.

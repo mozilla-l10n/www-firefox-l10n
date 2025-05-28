@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Získejte { -brand-name-firefox(case: "acc") } pro svou firmu pomocí verze { -brand-name-esr } a standardní verze
 firefox-enterprise-get-unmatched-data-protection = Získejte bezkonkurenční ochranu dat při tempu vydávání, které vám vyhovuje, díky { -brand-name-firefox(case: "gen") } pro firmy. Stáhněte si verzi { -brand-name-esr } a standardní verzi.
@@ -42,5 +42,5 @@ firefox-enterprise-sample-plist-for-configuration = Ukázkový <a href="{ $url }
 firefox-enterprise-pkg-installer = Instalátor PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = Stáhnout { -brand-name-firefox-esr(case: "acc") } nebo standardní verzi pro<br> <a href="{ $firefox_all }">jiný jazyk nebo platformu</a>.

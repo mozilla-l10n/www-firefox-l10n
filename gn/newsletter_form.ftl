@@ -14,8 +14,6 @@ newsletter-form-select-country-or-region = Eiporavo tetã térã tendaguasu
 newsletter-form-select-language = Eiporavo ñe’ẽ
 newsletter-form-your-email-here = NE ÑANDUTIVEVE
 newsletter-form-get-firefox-news = Ejapyhy marandu { -brand-name-firefox }-gui
-newsletter-form-join-the-community = Ejuaju tekoha rehe
-newsletter-form-sign-up-to-receive = Eñemboheraguapy og̃uahẽ hag̃ua ñembohekopyahu jasygua { -brand-name-firefox } guive ha Ñandutipegua eikundaha aja.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Amoneĩ { -brand-name-mozilla }-pe ohechávo che marandu oĩháicha <a href="{ $url }">ko haipy ñemigua</a>
@@ -24,17 +22,13 @@ newsletter-form-we-will-only-send-firefox-v2 = Romondóta marandu { -brand-name-
 newsletter-form-if-you-havent-previously = Neremoneĩriramo upe mboyve peteĩ ñemboheraguapy marandu’i rendápe { -brand-name-mozilla } ndive ejapova’erã. Eheka ñanduti veve ore mba’évape ñanduti veve g̃uahẽháme térã spam mboguahápe.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> ha nde
 newsletter-form-get-firefox-tips = Og̃uahẽ ñe’ẽporã ha marandu { -brand-name-firefox } rehegua
-newsletter-form-get-mozilla-updates = Ejapyhy ñembohekopyahu { -brand-name-mozilla }-gui
 newsletter-form-available-languages = Ñe’ẽnguéra eiporukuaáva
 newsletter-form-select-country = Eiporavo tetã
 newsletter-form-sign-me-up = Che añemboheraguapyse
 newsletter-form-sign-up-now = Eñemboheraguapy ko’ág̃a
 newsletter-form-thanks = ¡Aguyje!
-newsletter-form-leave-this-field-empty = Eheja ko kora nandiete.
 newsletter-form-yes = Héẽ
 newsletter-form-no = Nahániri
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = Ñemboheraguapyha marandu’ípe g̃uarã
 multi-newsletter-form-checkboxes-legend = Añemomaranduse peteĩ rehegua:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

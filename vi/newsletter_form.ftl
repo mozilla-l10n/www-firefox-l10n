@@ -14,8 +14,6 @@ newsletter-form-select-country-or-region = Chọn quốc gia hoặc khu vực
 newsletter-form-select-language = Chọn ngôn ngữ
 newsletter-form-your-email-here = NHẬP EMAIL CỦA BẠN TẠI ĐÂY
 newsletter-form-get-firefox-news = Nhận tin tức về { -brand-name-firefox }
-newsletter-form-join-the-community = Tham gia cộng đồng
-newsletter-form-sign-up-to-receive = Đăng ký nhận thông tin cập nhật hàng tháng từ { -brand-name-firefox } và các xu hướng internet định hình cuộc sống trực tuyến của bạn.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Tôi đồng ý với việc { -brand-name-mozilla } xử lý thông tin của tôi như đã giải thích ở <a href="{ $url }">Ghi chú bảo vệ riêng tư</a>
@@ -24,17 +22,13 @@ newsletter-form-we-will-only-send-firefox-v2 = Chúng tôi sẽ chỉ gửi cho 
 newsletter-form-if-you-havent-previously = Nếu bạn chưa xác nhận đăng kí các thư mới liên quan đến { -brand-name-mozilla } thì bạn phải xác nhận lại. Hãy kiểm tra email của chúng tôi trong hộp thư đến của bạn hoặc tìm trong hộp thư spam.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Bạn
 newsletter-form-get-firefox-tips = Lấy những lời khuyên, mẹo, tin tức và hơn thế nữa về { -brand-name-firefox }
-newsletter-form-get-mozilla-updates = Tải cập nhật của { -brand-name-mozilla }
 newsletter-form-available-languages = Ngôn ngữ sẵn có
 newsletter-form-select-country = Chọn quốc gia
 newsletter-form-sign-me-up = Đăng ký
 newsletter-form-sign-up-now = Đăng ký ngay
 newsletter-form-thanks = Cảm ơn!
-newsletter-form-leave-this-field-empty = Để trống trường này.
 newsletter-form-yes = Đồng ý
 newsletter-form-no = Không
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = Mẫu đăng ký nhận bản tin
 multi-newsletter-form-checkboxes-legend = Tôi muốn thông tin về:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

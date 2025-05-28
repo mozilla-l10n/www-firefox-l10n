@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.springfield.moz.works/compare/
 
 compare-shared-compare-firefox = { -brand-name-firefox } دا موازنہ کرو
 compare-shared-footer-cta-title = { -brand-name-firefox } نال ٻیا کجھ کرو
@@ -11,7 +11,7 @@ compare-shared-footer-cta-desc = تِکّھا، ہَولا جیہاں، رازد
 compare-shared-we-also-offer-easy = اساں سوکھاں ورتݨ آلیاں اینجھیاں خصوصیات پیش کریندے ہیں:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox }  دے کول بلٹ ان ٹولز وی ہن جیویں جو:
 # Variables
-# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+# $translate (url) - link to https://www.firefox.com/features/translate/
 compare-shared-translate-a-web-page = مقامی تے نجی طور تے <a { $translate }>ویب ورقے دا ترجمہ کرو</a>۔
 compare-shared-its-easy-to-switch = ایہ سوئچ کرݨ کیتے سوکھی ہے
 # Used as a small link to a cited source

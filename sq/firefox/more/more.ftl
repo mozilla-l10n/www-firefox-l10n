@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/more/
+### URL: https://www-dev.springfield.moz.works/more/
 
 firefox-products-are = Produktet { -brand-name-firefox } janë konceptuar për të mbrojtur privatësinë tuaj
 learn-more-about-firefox = Mësoni më tepër mbi { -brand-name-firefox }-in, historinë e tij, veçoritë dhe misionin
@@ -15,14 +15,8 @@ what-is-a = Ç’është një shfletues?
 a-web-browser = Një shfletues ju shpie kudo në internet, duke ju lënë të shihni tekst, figura dhe video nga kudo në botë.
 update-your-browser = Përditësojeni shfletuesin tuaj me { -brand-name-firefox }-in e shpejtë, të parrezik dhe të siguruar.
 the-firefox-browser = Shfletuesi { -brand-name-firefox } është ndërtuar për të mbrojtur privatësinë tuaj në çdo qoshe — ngaqë kjo është rruga më e shpejtë për t’ju çliruar nga ngarkime të ngadalta, reklama të liga dhe gjurmues.
-firefox-is-more = { -brand-name-firefox }-i është më shumë se një shfletues
-get-the-browsers = Merrni shfletuesit që vënë mbi gjithçka privatësinë tuaj — dhe e kanë bërë përherë
-choose-which-firefox = Zgjidhni cili { -brand-name-firefox-browser } të shkarkohet në gjuhën tuaj
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } për { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Ndërkohë që një { -brand-name-chromebook } ka tashmë të instaluar { -brand-name-chrome }, shkarkimi dhe përdorimi i { -brand-name-firefox }-it si shfletuesi të cilin përdorni ju jep ca përfitime
-firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
-firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } qe një revolucion në zhvillimin e { -brand-name-firefox }-it. Më 2017-n, krijuam një shfletues të ri, të shpejtë si rrufe, që përmirësohet pandërprerë. { -brand-name-firefox-quantum } është { -brand-name-firefox-browser }.
-we-believe-everyone = Besojmë se gjithkush duhet të ketë mundësi të përdorë internetin — kjo është arsyeja pse e bëjmë { -brand-name-firefox-browser }-in të kihet në më tepër se 90 gjuhë, me ndihmën e vullnetarëve të përkushtuar anembanë botës.
 firefox-fights-for = { -brand-name-firefox } lufton për ju në { -brand-name-windows }
 easy-migration-of = Migrim i lehtë i parapëlqimeve dhe faqerojtësve, kur shkarkoni { -brand-name-firefox }-in për { -brand-name-windows }.
 firefox-respects-your = { -brand-name-firefox } respekton privatësinë tuaj në { -brand-name-mac-short }.
@@ -37,5 +31,3 @@ firefox-more-fingerprinter-blocking = Bllokim Krijuesish Shenjash Gishtash
 firefox-more-fingerprinting-is-a = <em>Fingerprinting</em> është një lloj gjurmimi internetor që është më i rëndë se sa gjurmimi i zakonshëm i bazuar në cookie-t — kjo është arsyeja pse { -brand-name-firefox-browser }-i e bllokon.
 firefox-more-translate-the-web = Përktheni internetin
 firefox-more-translate-more-than = Përktheni nga më shumë se 100 gjuhë në gjuhën tuaj, drejt e në { -brand-name-firefox-browser }-in tuaj - më e lehtë se kurrë.
-firefox-more-avoid-misinformation-heading = Shmangni keqinformim në internet – { -brand-name-firefox }-i është këtu për t’ju ndihmuar
-firefox-more-avoid-misinformation-desc = Hidhuni një sy ndihmëzave se si të të shihni më pak keqinformim dhe të përqendroheni në atë çka është e rëndësishme për ju.

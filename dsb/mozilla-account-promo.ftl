@@ -7,7 +7,7 @@
 moz-account-promo-title = Jadno pśizjawjenje. <br> <span { $class }>Wšykno</span> { -brand-name-mozilla }.
 # Variables
 #   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
+#   $learn_more_url - link to https://www.mozilla.org/accounts/
 moz-account-already-have-v2 = Maśo južo konto? <a { $sign_in_url }>Pśizjawśo se</a> abo <a { $learn_more_url }>zgóńśo wěcej</a> wó tom, kak móžośo se { -brand-name-mozilla } pśizamknuś.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }

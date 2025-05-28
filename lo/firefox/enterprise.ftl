@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = ເອົາ { -brand-name-firefox } ສໍາລັບວິສາຫະກິດຂອງທ່ານດ້ວຍ { -brand-name-esr } ແລະການປ່ອຍໄວ
 firefox-enterprise-get-unmatched-data-protection = ຮັບການປົກປ້ອງຂໍ້ມູນທີ່ບໍ່ກົງກັນໃນການປ່ອຍຕົວທີ່ເໝາະສົມກັບທ່ານກັບ { -brand-name-firefox } ສໍາລັບວິສາຫະກິດ. ດາວໂຫລດ { -brand-name-esr } ແລະການປ່ອຍໄວ.
@@ -42,5 +42,5 @@ firefox-enterprise-sample-plist-for-configuration = ຕົວຢ່າງ <a hre
 firefox-enterprise-pkg-installer = ຕົວຕິດຕັ້ງ PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-ບິດ
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = ດາວໂຫລດ { -brand-name-firefox-esr } ຫຼື Rapid Release ສໍາລັບ<br> <a href="{ $firefox_all }">ພາສາອື່ນ ຫຼືເວທີ.</a>

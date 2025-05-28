@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } es tu rápido navegador de siempre, ahora con las mejores herramientas de desarrollo y las últimas funciones como soporte para <i>CSS Grid</i> y depuración de marcos de trabajo
@@ -67,27 +64,7 @@ firefox-developer-fonts-panel = Paneles de tipos de fuentes
 firefox-developer-the-new-fonts-panel = El nuevo panel de fuentes en { -brand-name-firefox-devtools } le da a los desarrolladores acceso rápido a toda la información que necesitan sobre las fuentes que se usan en un elemento. También incluye información valiosa tales como fuente del código, tamaño, estilo y más.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } envía automáticamente retroalimentación a { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Descarga el navegador { -brand-name-firefox } creado para desarrolladores
-firefox-developer-welcome-to-firefox-developer-edition = Bienvenido a { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = El navegador hecho para desarrolladores
 firefox-developer-all-the-latest-v2 = Todas las herramientas para desarrolladores más recientes en versión beta, además de funciones como el Editor de consola multilínea y WebSocket Inspector.
 firefox-developer-a-separate-profile = Un <strong>perfil y ruta separados</strong> para que puedas ejecutarlo fácilmente en paralelo a la versión oficial o { -brand-name-beta } de { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Preferencias <strong>personalizadas para desarrolladores web</strong>: el navegador y la depuración remota están activados de forma predeterminada, al igual que el tema oscuro y el botón de la barra de herramientas para desarrolladores.
-firefox-developer-congrats-you-now-have-latest-v2 = Ahora tienes la última versión de { -brand-name-firefox-developer-edition }.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Vea las <a { $attrs }>notas de la versión</a> (solo en inglés) para ver las novedades.
-firefox-developer-developer-tools-user = Documentos de usuario de herramientas para desarrolladores
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Recursos para desarrolladores, por desarrolladores
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn } Referencias
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } es un proyecto colaborativo de código abierto que documenta tecnologías de plataformas web, incluidas CSS, HTML, JavaScript y API web.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } Plan de estudios
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Una guía estructurada sobre las habilidades y prácticas esenciales para ser un desarrollador front-end exitoso, junto con recursos de aprendizaje recomendados.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Admite { -brand-name-mdn } y personalízalo con colecciones, notificaciones y áreas de juego.

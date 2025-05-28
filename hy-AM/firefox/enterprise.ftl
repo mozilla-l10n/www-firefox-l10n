@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Ստացեք { -brand-name-firefox }-ը ձեր ձեռնարկության համար { -brand-name-esr }-ով և արագ թողարկման միջոցով
 firefox-enterprise-get-unmatched-data-protection = Ստացե՛ք տվյալների անհամեմատելի պաշտպանություն թողարկման ռիթմում, որը ձեզ հարմար է { -brand-name-firefox }-ը ձեռնարկատիրության համար: Ներբեռնեք { -brand-name-esr }-ը և արագ թողարկումը:
@@ -42,5 +42,5 @@ firefox-enterprise-sample-plist-for-configuration = Նմուշ <a href="{ $url }
 firefox-enterprise-pkg-installer = PKG տեղադրիչ
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-բիթանոց
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = Ներբեռնել { -brand-name-firefox-esr }-ը կամ արագ թողարկումը<br> <a href="{ $firefox_all }">այլ լեզվով կամ հարթակով: </a>

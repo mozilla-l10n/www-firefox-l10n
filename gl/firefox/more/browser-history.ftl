@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = Historia dos navegadores: loitas de poder épicas que nos trouxeron os navegadores modernos
 browser-history-the-browser-wars-underdogs-giants = As guerras dos navegadores, os menores contra os xigantes e os momentos que cambiaron o mundo. Lea sobre historia dos navegadores web.
@@ -28,4 +28,3 @@ browser-history-by-1993-the-web = En 1993, a web estoupou. Universidades, gobern
 browser-history-ncsa-mosaic-ran = NCSA Mosaic funcionaba en ordenadores { -brand-name-windows }, era fácil de usar e daba acceso a calquera persoa con PC a primeiras páxinas web, salas de chat e bibliotecas de imaxes. O ano seguinte (1994), Andreessen fundou <a href="{ $netscape }"> { -brand-name-netscape } </a> e lanzou o Navigator de { -brand-name-netscape } ao público. Tivo un enorme éxito e foi o primeiro navegador para a xente. Foi tamén o primeiro movemento nun novo tipo de guerra para os usuarios de internet.
 browser-history-the-browser-wars = As Guerras dos Navegadores
 browser-history-resources = Recursos
-browser-history-take-control-of = Asuma o control do seu navegador

@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } è il navigatur superspert che dispona dad utensils innovativs per sviluppaders e da novas funcziuns sco il sustegn da griglias CSS u il debugadi da frameworks
@@ -67,27 +64,7 @@ firefox-developer-fonts-panel = Panela da scrittiras
 firefox-developer-the-new-fonts-panel = La nova panela da scrittiras en ils { -brand-name-firefox-devtools } porscha als sviluppaders in simpel access a tut las infurmaziuns necessarias davart las scrittiras utilisadas en in element. Quai includa infurmaziuns nizzaivlas davart la funtauna, la paisa, il stil da la scrittira etc.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } trametta automaticamain tschertas infurmaziuns a { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Telechargia la versiun da { -brand-name-firefox } fatga aposta per ils sviluppaders
-firefox-developer-welcome-to-firefox-developer-edition = Bainvegni en { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Il navigatur concepì per sviluppaders
 firefox-developer-all-the-latest-v2 = Tut ils utensils da svilup ils pli novs en la versiun beta ed ultra da quai funcziuns sco l’editur da consola en pliras lingias u l’inspectur WebSocket.
 firefox-developer-a-separate-profile = In <strong>profil separà cun in agen percurs</strong> per che ti al pos exequir parallelamain a la versiun uffiziala u a { -brand-name-beta } da { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Preferenzas <strong>adattadas aposta per sviluppaders da web</strong>: Il navigatur ed il debugadi a distanza èn activads en la configuraziun da standard. Il medem vala per il design stgir ed il buttun da la trav d'utensils da svilup.
-firefox-developer-congrats-you-now-have-latest-v2 = Ti has ussa la versiun la pli nova da { -brand-name-firefox-developer-edition }.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Consultescha las <a { $attrs }>remartgas davart la versiun</a> (mo per englais) per vegnir a savair tge ch’è nov.
-firefox-developer-developer-tools-user = Documentaziun dals utensils da svilup
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Resursas per sviluppaders, da sviluppaders
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = Referenzas da { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } è in project open-source collaborativ che documentescha tecnologias da la plattafurma web, inclusiv CSS, HTML, JavaScript ed APIs dal web.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = Curriculum { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = In guid structurà per acquistar las cumpetenzas e praticas essenzialas per sviluppaders front-end professiunals, cumbinà cun resursas recumandadas per emprender.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Sustegna { -brand-name-mdn } ed adattescha il servetsch a tes basegns cun agid da collecziuns, notificaziuns e plazzas da gieu per experimentar.

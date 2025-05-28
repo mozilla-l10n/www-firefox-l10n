@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = Como deixar de ver demasiados anuncios e evitar que as empresas te sigan en liña. Unha guía sobre o bloqueador de publicidade do navegador web { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = O bloqueador de publicidade: unha arma secreta contra os anuncios molestos.
@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Tantos anuncios, tan pouca paciencia�
 features-adblocker-the-average-person-sees = Unha persoa ve, de media, uns 4000 anuncios por día. Se pensas que é moito, o bloqueador de publicidade será o teu novo mellor amigo.
 features-adblocker-an-ad-blocker-is-a-piece = Un bloqueador de publicidade é un programa que pode usarse para bloquear anuncios e que funciona de dúas formas. A primeira consiste en bloquear o sinal do servidor dun anunciante, polo que o anuncio nunca aparece na túa páxina. A outra consiste en bloquear seccións dun sitio web que poderían ser anuncios.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Estes anuncios poden ser vídeos barullentos, anuncios que te seguen cando navegas pola Internet, rastrexadores, testemuños de terceiros… Para utilizar un bloqueador de publicidade, podes procurar por complementos para bloqueo de anuncios que estean dispoñíbeis para o navegador. O <a href="{ $firefox }">{ -brand-name-firefox }</a>, por exemplo, ten <a href="{ $addons }">esta lista de complementos aprobados para o bloqueo de publicidade</a>. Preme nesta lista (ou en bloqueadores de publicidade que estean aprobados para o navegador) e comproba cal se adapta ás túas necesidades.
 features-adblocker-find-the-right-ad-blocker = Encontra o bloqueador de publicidade perfecto para ti
@@ -23,7 +23,7 @@ features-adblocker-on-firefox-you-can-use = No { -brand-name-firefox }, podes ut
 features-adblocker-choose-your-level-of-protection = Escolle o teu nivel de protección
 features-adblocker-go-easy-with-standard = Vai amodo co modo estándar
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
 features-adblocker-if-ads-dont-bother-you = Se os anuncios non te molestan e non che importa ser seguido por rastrexadores e testemuños de terceiros, a configuración estándar debería servirche. Para eliminar os rastrexadores do ronsel que deixas no modo estándar, utiliza a xanela de <a href="{ $url }">navegación privada</a>
 features-adblocker-get-tough-with-strict = Sé duro co modo estrito
 features-adblocker-if-seeing-too-many-ads = Se ver moitos anuncios estraga o teu dia, o modo estrito será o máis adecuado. Este modo bloqueará rastrexadores e testemuños de terceiros coñecidos en todas as xanelas do { -brand-name-firefox }.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
+### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Az ujjlenyomat-készítés egy olyan online nyomkövetés, amely tolakodóbb mint a szokásos süti-alapú követés – ezért blokkolja őket a { -brand-name-firefox-browser }.
@@ -27,5 +27,5 @@ features-fingerprinting-the-practice-of = Az ujjlenyomat-készítés lehetővé 
 features-fingerprinting-the-latest-firefox = A legújabb { -brand-name-firefox } böngésző megvédi Önt az ujjlenyomat-készítéstől azáltal, hogy blokkolja az olyan cégek felé küldött harmadik felű kéréseket, amelyek ismertem ujjlenyomat-készítést használnak. Keményen dolgoztunk azon, hogy anélkül tegyük lehetővé ezt az adatvédelmi megoldást, hogy hibákat okozzon azokon a webhelyeken, amelyeket szívesen látogat. (További információt itt talál, ha meg szeretné ismerni a <a { $url_details }>műszaki részleteket</a>.)
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = Ez nem egy eldugott beállítás, amit meg kell keresnie. A legújabb { -brand-name-firefox } böngészőben az ujjlenyomat-készítés blokkolás gyári, alapértelmezett beállítás. Keresse fel az <a { $url_protections }>adatvédelmi vezérlőpultot</a>, hogy megtekintse, hogyan követik a színfalak mögött, és a { -brand-name-firefox } hogyan akadályozza ezt meg.
-# $url_download (string) - link to firefox/new
+# $url_download (string) - link to https://www.firefox.com/download/
 features-fingerprinting-you-probably-wouldnt = Valószínűleg nem örülne neki, hogy valaki a való életben követné a mozgását. Nincs arra ok, hogy ez online másképp legyen. Ha még nem használja a { -brand-name-firefox(case: "accusative") }, akkor <a { $url_download }>töltse le és védje meg magát</a> a digitális ujjlenyomat-készítéstől.

@@ -21,15 +21,6 @@
        *[nom] Facebook
     }
     .gender = masculine
--brand-name-github =
-    { $case ->
-        [gen] GitHubu
-        [dat] GitHubu
-        [acc] GitHub
-        [loc] GitHube
-        [ins] GitHubom
-       *[nom] GitHub
-    }
 -brand-name-google = Google
 -brand-name-microsoft =
     { $case ->
@@ -53,27 +44,7 @@
     .gender = feminine
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
--brand-name-netscape =
-    { $case ->
-        [gen] Netscapu
-        [dat] Netscapu
-        [acc] Netscape
-        [loc] Netscape
-        [ins] Netscapom
-       *[nom] Netscape
-    }
--brand-name-twitter =
-    { $case ->
-        [gen] Twitteru
-        [dat] Twitteru
-        [acc] Twitter
-        [loc] Twitteri
-        [ins] Twitterom
-       *[nom] Twitter
-    }
--brand-name-wireguard = WireGuard
 -brand-name-linkedin = LinkedIn
--brand-name-tiktok = TikTok
 -brand-name-spotify = Spotify
 
 ## Firefox browsers
@@ -228,17 +199,6 @@
        *[nom] Firefox Aurora
     }
     .gender = masculine
--brand-name-aurora = Aurora
--brand-name-firefox-quantum =
-    { $case ->
-        [gen] Firefoxu Quantum
-        [dat] Firefoxu Quantum
-        [acc] Firefox Quantum
-        [loc] Firefoxe Quantum
-        [ins] Firefoxom Quantum
-       *[nom] Firefox Quantum
-    }
-    .gender = masculine
 
 ## Firefox products
 
@@ -266,84 +226,7 @@
 
 ## Firefox products (short names)
 
--brand-name-devtools = DevTools
 -brand-name-relay = Relay
-
-## Firefox products (legacy)
-
--brand-name-firefox-account =
-    { $case ->
-        [gen]
-            { $capitalization ->
-                [lower] účtu Firefox
-               *[upper] Účtu Firefox
-            }
-        [dat]
-            { $capitalization ->
-                [lower] účtu Firefox
-               *[upper] Účtu Firefox
-            }
-        [acc]
-            { $capitalization ->
-                [lower] účet Firefox
-               *[upper] Účet Firefox
-            }
-        [loc]
-            { $capitalization ->
-                [lower] účte Firefox
-               *[upper] Účte Firefox
-            }
-        [ins]
-            { $capitalization ->
-                [lower] účtom Firefox
-               *[upper] Účtom Firefox
-            }
-       *[nom]
-            { $capitalization ->
-                [lower] účet Firefox
-               *[upper] Účet Firefox
-            }
-    }
--brand-name-firefox-accounts =
-    { $case ->
-        [gen]
-            { $capitalization ->
-                [lower] účtu Firefox
-               *[upper] Účtu Firefox
-            }
-        [dat]
-            { $capitalization ->
-                [lower] účtu Firefox
-               *[upper] Účtu Firefox
-            }
-        [acc]
-            { $capitalization ->
-                [lower] účet Firefox
-               *[upper] Účet Firefox
-            }
-        [loc]
-            { $capitalization ->
-                [lower] účte Firefox
-               *[upper] Účte Firefox
-            }
-        [ins]
-            { $capitalization ->
-                [lower] účtom Firefox
-               *[upper] Účtom Firefox
-            }
-       *[nom]
-            { $capitalization ->
-                [lower] účet Firefox
-               *[upper] Účet Firefox
-            }
-    }
--brand-name-firefox-marketplace = Firefox Marketplace
--brand-name-firefox-os = Firefox OS
--brand-name-firefox-private-network = Firefox Private Network
-
-## Firefox projects
-
--brand-name-firefox-labs = Firefox Labs
 
 ## Pocket
 
@@ -362,30 +245,11 @@
 
 -brand-name-fakespot = Fakespot
 
-## Anonym
-
--brand-name-anonym = Anonym
-
 ## Mozilla projects
 
--brand-name-bugzilla =
-    { $case ->
-        [gen] Bugzilly
-        [dat] Bugzille
-        [acc] Bugzilla
-        [loc] Bugzille
-        [ins] Bugzillou
-       *[nom] Bugzilla
-    }
-    .gender = feminine
 -brand-name-gecko = Gecko
--brand-name-glean = Glean
--brand-name-irl-podcast = IRL podcast
--brand-name-solo-ai = Solo AI
--brand-name-lumigator = Lumigátor
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = Webová dokumentácia MDN
--brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account =
@@ -454,11 +318,8 @@
                *[upper] Účty Mozilla
             }
     }
--brand-name-mozilla-builders = Mozilla Builders
--brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
--brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
@@ -475,23 +336,6 @@
        *[nom] Monitor
     }
     .gender = masculine
-
-## Mozilla projects (legacy)
-
--brand-name-webmaker =
-    { $case ->
-        [gen] Webmakera
-        [dat] Webmakeru
-        [acc] Webmaker
-        [loc] Webmakeri
-        [ins] Webmakerom
-       *[nom] Webmaker
-    }
-    .gender = masculine
-
-## Open Source projects
-
--brand-name-rust = Rust
 
 ## Other browsers
 
@@ -517,17 +361,6 @@
        *[nom] Internet Explorer
     }
     .gender = masculine
--brand-name-opera =
-    { $case ->
-        [gen] Opery
-        [dat] Opere
-        [acc] Operu
-        [loc] Opere
-        [ins] Operou
-       *[nom] Opera
-    }
-    .gender = feminine
--brand-name-safari = Safari
 
 ## Platforms
 
@@ -584,18 +417,7 @@
 
 ## Facebook products
 
--brand-name-facebook-messenger =
-    { $case ->
-        [gen] Facebook Messengera
-        [dat] Facebook Messengeru
-        [acc] Facebook Messenger
-        [loc] Facebook Messengeri
-        [ins] Facebook Messengerom
-       *[nom] Facebook Messenger
-    }
-    .gender = masculine
 -brand-name-instagram = Instagram
--brand-name-workplace = Workplace
 
 ## Google products
 

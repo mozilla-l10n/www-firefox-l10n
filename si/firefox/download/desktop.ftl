@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/download/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -16,11 +16,11 @@ firefox-desktop-download-og-title = මෙතෙක් වේගවත්ම { -
 firefox-desktop-download-og-desc = වේගයෙන් පිටු පූරණය වන, අඩු මතක භාවිතයක් සහිත විශේෂාංග වලින් පිරී තිබෙන, නව { -brand-name-firefox } මෙහි තිබේ.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = වැදගත් දෑ ආරක්‍ෂා කරන අතිරික්සුව ගන්න
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-no-shady = දැන්වීම්කරුවන් සඳහා වංක රහස්‍යතා ප්‍රතිපත්ති හෝ පසු දොරටු රහිතයි. ඔබව විකුණන්නේ නැති අධිවේගී අතිරික්සුවක් පමණි.
 firefox-desktop-download-download-options = බාගැනීමේ විකල්ප සහ වෙනත් භාෂා
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } සහාය
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = ඔබ මාර්ගගතව කරන දෑ කරන්න.<br> { -brand-name-firefox-browser } එය <strong>නරඹන්නේ නැත</strong>.
 firefox-desktop-download-we-block-the-ad = අපි ලුහුබඳින දැන්වීම් අවහිර කරන්නෙමු. ඔබ වේගයෙන් අන්තර්ජාලයේ සැරිසරන්න.
 firefox-desktop-download-ads-are-distracting = දැන්වීම් මගින් අවධානය වෙනතකට යොමු කරන අතර ඒවායේ ලුහුබැඳීම් ඔබ මාර්ගගතව තබන සෑම පියවරක්ම නරඹන බැවින් පිටු පූරණය මන්දගාමී වේ. { -brand-name-firefox-browser } ස්වයංක්‍රීයව බොහෝ ලුහුබැඳීම් අවහිර කරයි, එබැවින් ඔබගේ ආරක්‍ෂණ සැකසුම් හාරා බැලීමට අවශ්‍ය නොවේ.
@@ -105,9 +105,9 @@ firefox-desktop-download-from-security-to = ආරක්‍ෂාව, ප්‍�
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-ie }, { -brand-name-chrome } වැනි අතිරික්සු සඳහා වේගවත් හා වඩාත් පෞද්ගලික විකල්පයක් ලෙස <a { $attrs }>{ -brand-name-mozilla }</a> මගින් { -brand-name-firefox } සාදන ලදි. අද, අපගේ මෙහෙවර මත පදනම් වූ සමාගම සහ ස්වේච්ඡා ප්‍රජාව ඔබගේ පෞද්ගලිකත්‍වය අන් සියල්ලටම වඩා ඉහළින් තබා ඇත.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = අන්තර්ජාලය වර්ධනය වන විට සහ වෙනස් වන විට, ඔබගේ පෞද්ගලිකත්‍වය සඳහා ඇති අයිතිය කෙරෙහි { -brand-name-firefox } දිගටම අවධානය යොමු කරයි — අපි එය හඳුන්වන්නේ <a { $attrs }>පෞද්ගලික දත්ත පොරොන්දුව</a>: අඩුවෙන් ගෙන. ආරක්‍ෂිතව තබා ගන්න. රහස් නැත. ලෙසයි. ඔබගේ දත්ත, ඔබගේ වියමන ක්‍රියාකාරකම් හා මාර්ගගත විට ඔබගේ ජීවිතය { -brand-name-firefox } මගින් සුරක්‍ෂිතයි.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
@@ -119,7 +119,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ස්�
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ප්‍රශ්නයක් ද? <a { $attrs }>{ -brand-name-mozilla } සහාය</a> ඔබව ආවරණය කරයි.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = ආසන්නයි!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -139,11 +139,11 @@ firefox-desktop-download-if-you-see-a-prompt = ඔබ ස්ථාපනයට �
 firefox-desktop-download-visit-support-for-more = වැඩි විස්තර සඳහා සහාය බලන්න
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = ඔබගේ බාගැනීම ස්වයංක්‍රීයව ආරම්භ විය යුතුය. නැද්ද? <a id="{ $id }" href="{ $fallback_url }">යළි උත්සාහ කරන්න.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } යනු අතිරික්සුවකට වඩා දෙයකි
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = ඔබගේ බාගැනීමට බාධා විය. නමුත් සියල්ල අහිමි වී නැත.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = ඔබගේ පද්ධතිය { -brand-name-firefox } සඳහා අවශ්‍යතා සපුරාලන්නේ නැති සෙයකි, නමුත් ඔබට <a href="{ $url }">මෙම අනුවාද වලින්</a> එකක් උත්සාහ කළ හැකිය.

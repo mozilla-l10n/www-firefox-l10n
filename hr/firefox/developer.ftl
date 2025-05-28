@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } je nevjerojatno brz preglednik koji nudi vrhunske programerske alate i najnovije funkcije poput podrške za CSS mrežu i uklanjanje grešaka radnog okruženja
@@ -67,29 +64,7 @@ firefox-developer-fonts-panel = Ploča s fontovima
 firefox-developer-the-new-fonts-panel = Nova ploča za fontove u „{ -brand-name-firefox-devtools }” omogućuje programerima brz pristup svim podacima o korištenim fontovima u elementu. Ploča uključuje korisne podatke kao što su izvor fonta, debljina, stil i drugo.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } automatski šalje povratne informacije organizaciji { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Preuzmi { -brand-name-firefox } preglednik namijenjen programerima
-firefox-developer-welcome-to-firefox-developer-edition = Dobro došao, dobro došla u { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Preglednik izrađen za programere
 firefox-developer-all-the-latest-v2 = Svi najnoviji alati za programere u beta verziji uz funkcije kao što su uređivač višeredne konzole i WebSocket inspektor.
 firefox-developer-a-separate-profile = <strong>Zasebni profil i staza</strong> tako da ga možeš jednostavno pokretati uz standardnu ili { -brand-name-beta } { -brand-name-firefox } verziju.
 firefox-developer-preferences-tailored = <strong>Prilagođene postavke za web programere</strong>: Preglednik i daljinsko otklanjanje grešaka su standardno aktivirani, kao i tamna tema i gumb alatne trake za razvojne programere.
-firefox-developer-congrats-you-now-have-latest-v2 = Sada imaš najnoviju verziju za { -brand-name-firefox-developer-edition }.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Pogledaj <a { $attrs }>napomene o izdanju</a> (samo na engleskom) da vidiš što je novo.
-firefox-developer-developer-tools-user = Korisnički dokumenti alata za programere
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Resursi za programere, od programera.
-firefox-developer-mdn-blog = { -brand-name-mdn } blog
-firefox-developer-mdn-updates = Aktualiziranja
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn } reference
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } je kolaborativni projekt otvorenog koda koji dokumentira tehnologije web platformi, uključujući CSS, HTML, JavaScript i web API-je.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } kurikulum
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Strukturirani vodič za bitne vještine i prakse za uspješno programiranje sučelja, zajedno s preporučenim resursima za učenje.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Podrži { -brand-name-mdn } i učini ga svojim sa zbirkama, obavijestima i igralištima.

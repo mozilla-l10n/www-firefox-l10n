@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = Historik Shfletuesish: Beteja epike për pushtet që na prunë shfletuesit modernë
 browser-history-the-browser-wars-underdogs-giants = Luftërat e shfletuesve, të vegjël kundër gjigantësh dhe çaste që ndryshuan botën. Lexoni rreth historisë së shfletuesve.
@@ -51,4 +51,3 @@ browser-history-in-the-future-the = Në të ardhmen, web-i do t’u largohet edh
 browser-history-in-the-future-the-v2 = Në të ardhmen, web-i do t’u largohet edhe më rrënjëve të veta hipertekst, për t’u bërë një det i madh punimi ndërveprues. Realiteti virtual ka qenë në horizont për dhjetëvjeçarë (të paktën që me hedhjen në qarkullim të Lawnmower Man më 1992-n dhe Nintendo Virtual Boy më 1995), por web-i mund ta sjellë më në fund për masat. { -brand-name-firefox } tani mbulon WebVR dhe A-Frame, që u lejojnë zhvilluesve të krijojnë shpejt dhe lehtë sajte realiteti virtual. Shumica e pajisjeve celulare moderne mbulojnë WebVR  dhe mund të përdoren lehtësisht si “headsets” me kuti të thjeshta kartoni. Një web realiteti virtual 3D, si ai i përfytyruar nga autori i letërsisë fantastiko-shkencore Neal Stephenson mund të jetë një hap larg. Nëse është kështu, shfletuesi mund të zhduket plotësisht dhe të bëhet një dritare e vërtetë në një botë tjetër.
 browser-history-whatever-the-future = Çfarëdo që të fshehë e ardhmja e web-it, { -brand-name-mozilla } dhe { -brand-name-firefox }-i do të jenë të pranishëm për përdoruesit, duke siguruar pasjen e mjeteve të fuqishme për punim në web dhe për krejt çka mund ofrojë ky. Interneti është për këdo dhe kushdo duhet të ketë kontroll mbi punën e vet në internet. Kjo është arsyeja pse japim mjete { -brand-name-firefox } për të mbrojtur privatësinë e përdoruesve dhe pse nuk shesim kurrë të dhëna përdoruesish për reklamues.
 browser-history-resources = Burime
-browser-history-take-control-of = Merrni në dorë kontrollin e shfletuesit tuaj.

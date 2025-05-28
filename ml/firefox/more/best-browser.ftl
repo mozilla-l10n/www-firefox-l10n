@@ -3,6 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-a-browser-built-for = വേഗതക്കു് ഉണ്ടാക്കിയ ഒരു അന്വേഷിയന്ത്രം

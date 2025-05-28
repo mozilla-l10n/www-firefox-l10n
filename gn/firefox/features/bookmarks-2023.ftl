@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
 # page title
 bookmark-manager-bookmark-manager = Techaukaha ñangarekoha
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Emohenda nde rechaukaha ñongatuha ha teramoĩ ndive.
 # Variables:
-#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+#   $sync (url) - link to https://www.firefox.com/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = Umi techaukaha ha’e juajuha eñongatúva nde kundahárape ikatu hag̃ua -eguevi pya’e ha hasy’ỹre tenda ehayhuvéva ñandutípe. { -brand-name-firefox } ogueroike techaukaha ñangarekoha ikatu hag̃ua emohenda, eheka, embohekopyahua ha <a { $sync }>embojuehe opaite juajuha ñongatupyre ne mba’e’okakuérape</a>.
 bookmark-manager-organize-your-boomarks-into = Emohenda nde rechaukaha ñongatuha ehekakuaahápe
 bookmark-manager-collect-your-bookmarks-in-folders = Embyaty nde rechaukaha marandurendápe ha embohéra eikuaaporã hag̃ua. Avei emohenda nde rechaukaha ejuhu pya’e rekávo eikotevéva.

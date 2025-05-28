@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
+### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Fingerprinting je typ přesćěhowanja online, kotrež je bóle inwaziwne hač wšědne přesćěhowanje na zakładźe plackow – tohodla { -brand-name-firefox-browser } jo blokuje.

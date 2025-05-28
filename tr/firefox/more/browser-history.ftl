@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = Tarayıcıların Tarihi: Modern tarayıcıları yaratan destansı güç mücadeleleri
 browser-history-the-browser-wars-underdogs-giants = Tarayıcı savaşları, mazlumların devlerle mücadelesi ve dünyayı değiştiren anlar. Web tarayıcılarının tarihini okuyun.
@@ -19,4 +19,3 @@ browser-history-a-year-later-berners = Bir yıl sonra Berners-Lee, CERN’de mat
 browser-history-the-browser-wars = Tarayıcı Savaşları
 browser-history-browsing-the-web = Günümüzde Web’de Gezinme
 browser-history-resources = Kaynaklar
-browser-history-take-control-of = Tarayıcınızın kontrolünü elinize alın.

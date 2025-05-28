@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
 # page title
 bookmark-manager-bookmark-manager = Управление закладками
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Организуйте свои закладки с помощью папок и меток.
 # Variables:
-#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+#   $sync (url) - link to https://www.firefox.com/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = Закладки — это ссылки, которые вы сохраняете в своём браузере, чтобы вы могли быстро и легко вернуться к любимым местам в Интернете. { -brand-name-firefox } включает удобное управление закладками, с помощью которого вы можете упорядочивать, искать, обновлять и <a { $sync }>синхронизировать все сохранённые ссылки на всех ваших устройствах</a>.
 bookmark-manager-organize-your-boomarks-into = Организуйте свои закладки в папки с возможностью поиска
 bookmark-manager-collect-your-bookmarks-in-folders = Соберите свои закладки в папки и пометьте их более подробно. Вы также можете отсортировать свои закладки, чтобы быстро найти те, которые вам нужны.

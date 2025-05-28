@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
@@ -43,14 +40,4 @@ firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-built-for-developers = සංවර්ධකයින්ට තනා ඇත
 firefox-developer-fonts-panel = රුවකුරු මඬල
 firefox-developer-download-the-firefox-browser = සංවර්ධකයින් සඳහා තනන ලද { -brand-name-firefox } අතිරික්සුව බාගන්න
-firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-developer-edition } වෙත පිළිගනිමු
 firefox-developer-made-for-developers = සංවර්ධකයින්ට සාදන ලද අතිරික්සුව
-firefox-developer-congrats-you-now-have-latest-v2 = දැන් ඔබ සතුව { -brand-name-firefox-developer-edition } නවතම අනුවාදය තිබේ.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = අළුත් දෑ දැකීමට <a { $attrs }>නිකුතු සටහන්</a> (ඉංග්‍රීසියෙන් පමණි) බලන්න.
-firefox-developer-developer-tools-user = සංවර්ධක මෙවලම් පරිශ්‍රීලක ප්‍රලේඛන
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = සංවර්ධකයින් වෙතින් සංවර්ධකයින්ට සම්පත්
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }

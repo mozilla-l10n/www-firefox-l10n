@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } არის უსწრაფესი ბრაუზერი, რომელიც გთავაზობთ შემმუშავებლის უახლეს ხელსაწყოებსა და შესაძლებლობებს, როგორიცაა CSS-ბადის მხარდაჭერა და სამუშაო გარსის გამმართველი
@@ -67,33 +64,7 @@ firefox-developer-fonts-panel = შრიფტების არე
 firefox-developer-the-new-fonts-panel = შრიფტების ახალი არე, რომლითაც { -brand-name-firefox-devtools } საშუალებას აძლევს შემმუშავებლებს, სწრაფი წვდომა ჰქონდეთ გამოყენებული შრიფტების ყველა მონაცემთან. ამასთანავე, შეიცავს ისეთ გამოსადეგ ინფორმაციას, როგორიცაა შრიფტის წყარო, სისქე, იერსახე და სხვა.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } ავტომატურად უგზავნის მონაცემებს { -brand-name-mozilla }-ს.
 firefox-developer-download-the-firefox-browser = ჩამოტვირთეთ { -brand-name-firefox }-ბრაუზერი შექმნილი შემმუშავებლებისთვის
-firefox-developer-welcome-to-firefox-developer-edition = მოგესალმებათ { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = ბრაუზერი შექმნილი შემმუშავებლებისთვის
 firefox-developer-all-the-latest-v2 = ყველა უახლესი ხელსაწყო შემმუშავებლებისთვის Beta-ვერსიაში , ამასთანავე, ჯერ კიდევ საცდელი შესაძლებლობები, მათ შორის მრავალხაზიანი ბრძანებების შეტანის შემსწორებელი და WebSocket-საკვლევი.
 firefox-developer-a-separate-profile = <strong>განცალკევებული პროფილი და მდებარეობა</strong>, შედეგად მარტივად შეძლებთ გვერდიგვერდ გაუშვათ საბოლოო ვერსია და { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = პარამეტრები <strong>ზედგამოჭრილი ვებშემმუშავებლებისთვის</strong>: ბრაუზერიდან და დაშორებულად გამართვის შესაძლებლობა ამოქმედებულია ნაგულისხმევად, ასევე მოჰყვება მუქი იერსახე და შემმუშავებლის ღილაკი ხელსაწყოთა ზოლზე.
-firefox-developer-congrats-you-now-have-latest-v2 = თქვენ უკვე გიყენიათ უახლესი { -brand-name-firefox-developer-edition }.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = იხილეთ <a { $attrs }>გამოშვების შენიშვნები</a> (მხოლოდ ინგლისურად), რომ გაეცნოთ, რა სიახლეებითაა.
-firefox-developer-developer-tools-user = შემმუშავებლის ხელსაწყოები მოხმარების ცნობარი
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = მასალები შემმუშავებლებისთვის შემმუშავებლებისგან
-firefox-developer-mdn-playground = საცდელი სივრცე
-firefox-developer-mdn-write-test-and-share = დაწერეთ, გამოცადეთ და გააზიარეთ თქვენი კოდი. საცდელი სივრცე გამოგადგებათ, რომ ისწავლოთ და გაუზიაროთ თქვენი საოცარი ნამუშევარი მსოფლიოს.
-firefox-developer-mdn-blog = { -brand-name-mdn } სვეტი
-firefox-developer-mdn-unlock-the-world = შეაღეთ ვებშემუშავების სამყაროს კარი { -brand-name-mdn }-სვეტის გაცნობით — თქვენი ძირითადი კერა ექსპერტთა მოსაზრებების, უახლესი ვებსტანდარტებისა და კოდის წერის შესახებ რჩევების მისაღებად.
-firefox-developer-mdn-updates = განახლებები
-firefox-developer-mdn-the-web-doesnt-have = ვებსივრცეს არ გააჩნია ცვლილებების ჩანაწერები, მაგრამ { -brand-name-mdn } დაგეხმარებათ. შეგიძლიათ მოირგოთ და გამოარჩიოთ თავსებადობის ცვლილებები ბრაუზერების ან თქვენთვის სასურველი ტექნოლოგიების მიხედვით, როგორიცაა JavaScript, CSS და სხვ.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn }-წყაროები
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } ღია წყაროს მქონე, ურთიერთთანამშრომლობით შექმნილი პროექტია, ვებსივრცის ისეთი ტექნოლოგიების გასაცნობად და აღსაწერად, როგორებიცაა CSS, HTML, JavaScript და სხვადასხვა API-ები.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } სასწავლო გეგმა
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = დალაგებულად ჩამოწერილი გზამკვლევი ძირითადი უნარებისა და გამოცდილი ხერხების შესახებ, კლიენტისმხრივი გარსის შემუშავებისთვის რჩეულ სასწავლო მასალებთან ერთად.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = მხარი დაუჭირეთ და გახადეთ { -brand-name-mdn } მეტად თქვენებური საკუთარი კრებულებით, შეტყობინებებითა და საცდელი სივრცეებით.

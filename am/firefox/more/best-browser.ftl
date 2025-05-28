@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-find-your-best-browser = ለርስዎ የሚሻለውን ፈጣን፣ ግላዊ እና አስተማማኝ ድረ-ገፅ ማሰሻ ፈልገው ይምረጡ።
 best-browser-so-many-browser-options = በርካታ የድረ-ገፅ ማሰሻ አማራጮች አሉ፤ ነገርግን ፍላጎትዎን የሚያሟላው አንዱ ብቻ ነው። ታዲያ ይኽ ለርስዎ የተሻለው ድረ-ገፅ ማሰሻ፤ ፍጥነት እና የግላዊነት ጥበቃን ሁለቱንም አጣምሮ ሊያቀርብልዎ ይገባል።
@@ -38,4 +38,3 @@ best-browser-choosing-the-best-browser = የተሻለ ድረ-ገፅ ማሰሻን
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = በ<a href="{ $firefox }">{ -brand-name-firefox }</a> ላይ፣ እንደበፊቱ በሁለት እጥፍ ፈጣን የሆነ አሳሽ ለመስራት ጠንክረን ሰርተናል እና ተጠቃሚዎች በመስመር ላይ ህይወታቸው የበለጠ መቆጣጠር እንዲችሉ አድርጓል።
-best-browser-take-control-of-your = የድረ-ገፅ ማሰሻዎን እርስዎ የሚቆጣጠሩት ያድርጉት።

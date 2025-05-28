@@ -22,6 +22,3 @@ sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly } și { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-nightly } și { -brand-name-beta } pentru { -brand-name-android }
 sub-navigation-ios-test-flight = { -brand-name-test-flight } { -brand-name-ios }
-sub-navigation-what-is-a-browser = Ce este un browser?
-sub-navigation-browsing-history = Istoric de navigare
-sub-navigation-browser-history = Istoria browserelor

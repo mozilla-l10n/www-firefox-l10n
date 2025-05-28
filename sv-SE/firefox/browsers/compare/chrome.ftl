@@ -3,15 +3,15 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
+### URL: https://www-dev.springfield.moz.works/compare/chrome/
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
 # HTML page description
 compare-chome-read-our-comparison = Läs vår jämförelse av webbläsaren { -brand-name-firefox } och Chrome om funktioner, sekretess och användarvänlighet.
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
-# $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
+# $adblocker (url) - link to https://www.firefox.com/features/adblocker/
 compare-chrome-firefoxs-default-privacy-settings = { -brand-name-firefox } standardsekretessinställningar är mycket starkare än Chromes – och vi har ytterligare funktioner för att förhindra att webbplatser spårar dig, till exempel <a { $fingerprint }>blockering av fingeravtrycksspårare</a> och ditt val av tillägg för <a { $adblocker }>annonsblockering</a>.
 compare-chrome-we-block-trackers-by-default = Vi blockerar spårare som standard. Chrome gör det inte.
 compare-chrome-in-fact-by-default-chrome-monitors = Faktum är att Chrome som standard övervakar vilka webbplatser du besöker och vad du gör så att den kan identifiera "annonsämnen" för att skicka mer riktade annonser. Du kan blockera tre ämnen men du kan inte få dem att sluta identifiera andra annonsämnen åt dig.

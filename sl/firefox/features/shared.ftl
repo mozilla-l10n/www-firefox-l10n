@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/
+### URL: https://www-dev.springfield.moz.works/features/
 
 features-shared-firefox-features = Značilnosti { -brand-name-firefox(sklon: "rodilnik") }
 features-shared-footer-cta-title = Bodite učinkovitejši s { -brand-name-firefox(sklon: "orodnik") }

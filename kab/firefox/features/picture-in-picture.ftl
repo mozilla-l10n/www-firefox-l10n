@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
+### URL: https://www-dev.springfield.moz.works/features/picture-in-picture/
 
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Yella wayen ara txedmeḍ neɣ ara twaliḍ? Eg-iten ɣef tikkelt s useqdec n tugna-deg-tugna deg { -brand-name-firefox }.

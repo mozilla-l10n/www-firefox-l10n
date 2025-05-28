@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Tải { -brand-name-firefox } cho doanh nghiệp của bạn với { -brand-name-esr } và phát hành nhanh
 firefox-enterprise-get-unmatched-data-protection = Nhận bảo vệ dữ liệu chưa từng có trên nhịp phát hành phù hợp với bạn với { -brand-name-firefox } dành cho doanh nghiệp. Tải xuống { -brand-name-esr } và phát hành nhanh.
@@ -42,5 +42,5 @@ firefox-enterprise-sample-plist-for-configuration = Mẫu <a href="{ $url }">pli
 firefox-enterprise-pkg-installer = Trình cài đặt PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = Tải xuống { -brand-name-firefox-esr } hoặc bản phát hành nhanh cho<br> <a href="{ $firefox_all }">ngôn ngữ hoặc nền tảng khác.</a>

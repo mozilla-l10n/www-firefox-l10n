@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } is de rappe browser dy’t it modernste ûntwikkelersark en nijste funksjes biedt, lykas stipe foar CSS Grid en framework-debugging
@@ -67,33 +64,7 @@ firefox-developer-fonts-panel = Paneil Lettertypen
 firefox-developer-the-new-fonts-panel = It nije paniel Lettertypen yn { -brand-name-firefox-devtools } jout ûntwikkelers flugge tagong ta alle nedige ynformaasje oer de yn in elemint brûkte lettertypen. It befettet ek weardefolle ynformaasje lykas de boarne, styl en it gewicht fan in lettertype, en mear.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } ferstjoert automatysk feedback nei { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Download de { -brand-name-firefox }-browser makke foar ûntwikkelers
-firefox-developer-welcome-to-firefox-developer-edition = Wolkom by { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = De browser makke foar ûntwikkelers
 firefox-developer-all-the-latest-v2 = Alle nijste ûntwikkelersark yn beta, plus funksjes lykas de Multi-line Console Editor en WebSocket Inspector.
 firefox-developer-a-separate-profile = In <strong>apart profyl en paad</strong>, sadat jo it maklik neist { -brand-name-firefox } Release of { -brand-name-beta } brûke kinne.
 firefox-developer-preferences-tailored = Foarkarren dy’t <strong>op maat makke binne foar webûntwikkelers</strong>: flateropspoaring yn de browser en op ôfstân debugge binne standert ynskeakele, krekt as it donkere tema en de knop foar de ûntwikkelersarkbalke.
-firefox-developer-congrats-you-now-have-latest-v2 = Jo hawwe no de lêste ferzje fan { -brand-name-firefox-developer-edition }.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Besjoch de <a { $attrs }>útjefteopmerkingen</a> (allinnich yn it Ingelsk) om te sjen wat der nij is.
-firefox-developer-developer-tools-user = Untwikkelershelpmiddelen-brûkersdokuminten
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Helpboarnen foar ûntwikkelers, troch ûntwikkelers.
-firefox-developer-mdn-playground = Boarterstún
-firefox-developer-mdn-write-test-and-share = Skriuw, test en diel jo koade. Jo boarterstún om jo geweldige wurk te learen en te dielen mei de wrâld.
-firefox-developer-mdn-blog = { -brand-name-mdn }-blog
-firefox-developer-mdn-unlock-the-world = Untskoattelje de wrâld fan webûntwikkeling mei it { -brand-name-mdn }-blog – jo favorite plak foar saakkundich ynsjoch, lêste webnoarmen en kodearringtips.
-firefox-developer-mdn-updates = Fernijingen
-firefox-developer-mdn-the-web-doesnt-have = It web hat gjin wizigingsoersjoch, mar { -brand-name-mdn } kin helpe. Jo kinne kompatibiliteitswizigingen personalisearje en filterje op basis fan browsers of de technyske kategory wêryn jo ynteressearre binne, of dat no JavaScript, CSS, ensfh. is.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn }-referinsjes
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } is in iepenboarne gearwurkingsprojekt dat webplatfoarmtechnologyen dokumintearret, wêrûnder CSS, HTML, JavaScript en web-API’s.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn }-kurrikulum
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = In strukturearre gids foar de essinsjele feardigens en praktiken om in suksesfolle front-end-ûntwikkeler te wêzen, tegearre mei oanrekommandearre learboarnen.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Stypje { -brand-name-mdn } en meitsje it jo eigen mei kolleksjes, notifikaasjes en boartersplakken.

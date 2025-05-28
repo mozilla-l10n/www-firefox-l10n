@@ -3,15 +3,15 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
+### URL: https://www-dev.springfield.moz.works/compare/chrome/
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } kontra Google Chrome
 # HTML page description
 compare-chome-read-our-comparison = Przeczytaj nasze porównanie przeglądarek { -brand-name-firefox } i Chrome pod kątem funkcji, prywatności i łatwości obsługi.
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
-# $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
+# $adblocker (url) - link to https://www.firefox.com/features/adblocker/
 compare-chrome-firefoxs-default-privacy-settings = Domyślne ustawienia prywatności w { -brand-name-firefox(case: "loc") } są znacznie bardziej rygorystyczne niż w Chrome – i mamy dodatkowe funkcje, które zapobiegają śledzeniu Cię przez witryny, takie jak <a { $fingerprint }>ochrona przed zbieraniem informacji o konfiguracji</a>, a także wybór dodatków do <a { $adblocker }>blokowania reklam</a>.
 compare-chrome-we-block-trackers-by-default = Domyślnie blokujemy elementy śledzące. Chrome nie.
 compare-chrome-in-fact-by-default-chrome-monitors = W rzeczywistości Chrome domyślnie monitoruje, które witryny odwiedzasz i co robisz, aby móc identyfikować „tematy reklam”, aby wysyłać Ci bardziej ukierunkowane reklamy. Możesz zablokować trzy tematy, ale nie możesz sprawić, by Chrome przestał identyfikować wszystkie tematy reklam.

@@ -7,7 +7,7 @@
 moz-account-promo-title = ہک لاگ ان، <br> <span { $class }>ہر شئے</span> { -brand-name-mozilla }۔
 # Variables
 #   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
+#   $learn_more_url - link to https://www.mozilla.org/accounts/
 moz-account-already-have-v2 = پہلے کنوں ہی کھاتہ ہے؟<a { $sign_in_url }> سائن ان تھیوو</a> یا { -brand-name-mozilla }نال شامل تھیوݨ بارے <a { $learn_more_url }> ٻیا سکھو</a>۔
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }

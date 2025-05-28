@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.springfield.moz.works/compare/
 
 compare-shared-compare-firefox = { -brand-name-firefox } ਦੀ ਤੁਲਨਾ ਕਰੋ
 compare-shared-footer-cta-title = { -brand-name-firefox } ਨਾਲ ਹੋਰ ਕਰੋ
@@ -11,10 +11,10 @@ compare-shared-footer-cta-desc = ਤੇਜ਼, ਹਲਕਾ, ਪਰਦੇਦਾਰ�
 compare-shared-we-also-offer-easy = ਅਸੀਂ ਇੰਝ ਦੇ ਵਰਤਣ ਲਈ ਸੌਖੇ ਫ਼ੀਚਰ ਵੀ ਦਿੰਦੇ ਹਾਂ:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } ਵਿੱਚ ਅੱਗੇ ਦਿੱਤੇ ਟੂਲ ਵੀ ਮੌਜੂਦ ਹਨ:
 # Variables
-# $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
+# $pdf (url) - link to https://www.firefox.com/features/pdf-editor/
 compare-shared-edit-pdfs-on-the-go = ਆਪਣੀ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਵਿੰਡੋ ਵਿੱਚ ਮੌਕੇ ਉੱਤੇ ਹੀ <a { $pdf }>PDF ਨੂੰ ਸੋਧੋ</a> - ਬਿਨਾਂ ਕਿਸੇ ਵੱਖਰੇ ਸਾਫਟਵੇਅਰ ਦੇ।
 # Variables
-# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+# $translate (url) - link to https://www.firefox.com/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>ਵੈੱਬ ਸਫ਼ੇ ਦਾ ਉਲੱਥਾ</a> ਲੋਕਲ ਅਤੇ ਪ੍ਰਾਈਵੇਟ ਤੌਰ ਉੱਤੇ ਕਰੋ।
 compare-shared-its-easy-to-switch = ਇਸ ਨੂੰ ਬਦਲਣਾ ਸੌਖਾ ਹੈ
 compare-shared-since-we-dont-have-to-make = ਕਿਉਂਕਿ ਅਸੀਂ ਹਿੱਸੇਦਾਰਾਂ ਨੂੰ ਖੁਸ਼ ਨਹੀਂ ਕਰਨਾ ਹੁੰਦਾ ਹੈ ਤਾਂ ਅਸੀਂ <strong>ਤੁਹਾਨੂੰ</strong> ਖੁਸ਼ ਕਰਨ ਉੱਤੇ ਧਿਆਨ ਦਿੰਦੇ ਹਾਂ ਅਤੇ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਅਤੇ ਸਹੂਲਤ ਨੂੰ ਪਹਿਲ ਦਿੰਦੇ ਹਾਂ।

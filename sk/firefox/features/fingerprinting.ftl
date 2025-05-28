@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
+### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Snímanie digitálnych odtlačkov je typ online sledovania, ktorý je invazívnejší ako bežné sledovanie založené na súboroch cookie – preto ho { -brand-name-firefox-browser(capitalization: "lower") } blokuje.
@@ -27,5 +27,5 @@ features-fingerprinting-the-practice-of = Praktika snímania digitálnych odtla�
 features-fingerprinting-the-latest-firefox = Najnovší prehliadač { -brand-name-firefox } vás chráni pred snímaním digitálnych odtlačkov blokovaním žiadostí tretích strán adresovaných spoločnostiam, o ktorých je známe, že sa podieľajú na snímaní digitálnych odtlačkov. Usilovne sme pracovali na tom, aby sme povolili túto ochranu súkromia a zároveň sme neporušili webové stránky, ktoré radi navštevujete. Ak chcete technické podrobnosti, <a { $url_details }>ďalšie informácie nájdete tu</a>.
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = A nie je to voľba ukrytá niekde hlboko v nastaveniach. V najnovšom prehliadači { -brand-name-firefox } je štandardným predvoleným nastavením blokovanie snímania digitálnych odtlačkov. Navštívte svoj <a { $url_protections }>hlavný panel ochrany súkromia</a> a zistite, ako vás sledujú v zákulisí a ako tomu { -brand-name-firefox } bráni.
-# $url_download (string) - link to firefox/new
+# $url_download (string) - link to https://www.firefox.com/download/
 features-fingerprinting-you-probably-wouldnt = Pravdepodobne by ste neocenili, keby niekto sledoval váš pohyb v reálnom živote. Nie je dôvod akceptovať to online. Ak ešte nemáte { -brand-name-firefox }, <a { $url_download }>stiahnite si ho a chráňte sa</a> pred snímaním digitálnych odtlačkov.

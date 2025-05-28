@@ -6,27 +6,23 @@
 # Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 firefox-new-download-firefox = Stiahnuť { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Stiahnite si ten najrýchlejší { -brand-name-firefox } vôbec
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = Rýchlejšie načítavanie stránok, menšia spotreba pamäte a množstvo funkcií. Nový { -brand-name-firefox } je tu.
 firefox-new-get-the-latest-firefox = Nainštalujte si najnovší { -brand-name-firefox }.
-# span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = Stiahnuť { -brand-name-firefox } <br>pre { -brand-name-windows }
-firefox-new-download-firefox-for-macos = Stiahnuť { -brand-name-firefox } <br>pre { -brand-name-mac }
-firefox-new-download-firefox-for-linux = Stiahnuť { -brand-name-firefox } <br>pre { -brand-name-linux }
 firefox-new-free-web-browser = Voľne dostupný webový prehliadač
 firefox-new-advanced-install-options = Pokročilé možnosti inštalácie a ďalšie platformy
 firefox-new-download-in-another-language = Stiahnuť v inom jazyku
 firefox-new-need-help = Potrebujete pomoc?
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-firefox-new-should-begin = Sťahovanie by malo začať automaticky. Nezačalo? <a id="{ $id }" href="{ $fallback_url }">Skúste to znova</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je viac ako prehliadač.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
@@ -34,7 +30,7 @@ firefox-new-download-interrupted = Vaše sťahovanie bolo prerušené. Nič vša
 firefox-new-download-almost-there = Takmer hotovo!
 firefox-new-download-select-linux = Nižšie zvoľte, čo chcete stiahnuť
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-system-may-not = Váš systém nemusí spĺňať požiadavky pre { -brand-name-firefox }. Môžete však skúsiť niektorú z <a href="{ $url }">týchto verzií</a>.
 firefox-new-windows = { -brand-name-windows }
 # Variables:
@@ -45,7 +41,7 @@ firefox-new-visit-support-for-more = Ďalšie podrobnosti nájdete na stránke p
 # Not-Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Stiahnuť { -brand-name-firefox-browser(case: "acc", capitalization: "lower") }

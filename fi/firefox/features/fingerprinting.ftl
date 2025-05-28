@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
+### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Yksilöinti on eräänlaista verkkoseurantaa, joka on tunkeutuvampaa kuin tavallinen evästepohjainen seuranta. Sen vuoksi { -brand-name-firefox-browser } estää sen.
@@ -27,5 +27,5 @@ features-fingerprinting-the-practice-of = Yksilöinnin muodostaminen mahdollista
 features-fingerprinting-the-latest-firefox = Uusin { -brand-name-firefox }-selain suojaa sinua yksilöintiä vastaan estämällä kolmansien osapuolien pyynnöt yrityksille, joiden tiedetään osallistuvan yksilöintiin. Olemme työskennelleet kovasti tämän yksityisyyden suojan mahdollistamiseksi samalla kuitenkaan rikkomatta sivustoja. (Lue lisää täältä, jos haluat <a { $url_details }>teknisiä tietoja</a>.)
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = Eikä se ole mikään syvälle valikkoihin haudattu asetus, jota sinun täytyy etsiä hiki otsalla. Uusimmassa { -brand-name-firefox }-selaimessa yksilöinnin esto on oletusasetus. Käy <a { $url_protections }>yksityisyyden suojauksen hallintapaneelissa</a> nähdäksesi, kuinka sinua seurataan kulissien takana ja kuinka { -brand-name-firefox } estää sen.
-# $url_download (string) - link to firefox/new
+# $url_download (string) - link to https://www.firefox.com/download/
 features-fingerprinting-you-probably-wouldnt = Et luultavasti arvostaisi sitä, jos joku seuraisi liikkeitäsi tosielämässä. Ei ole mitään syytä hyväksyä sitä verkossa. Jos sinulla ei vielä ole { -brand-name-firefox }ia, <a { $url_download }>lataa ja suojaa itsesi</a> digitaalisilta sormenjäljiltä eli yksilöinniltä.

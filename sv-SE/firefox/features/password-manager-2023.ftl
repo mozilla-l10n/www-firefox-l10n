@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/password-manager
+### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
 password-manager-free-password-manager = Gratis lösenordshanterare
@@ -11,7 +11,7 @@ password-manager-free-password-manager = Gratis lösenordshanterare
 password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } lösenordshanterare sparar alla dina lösenord på ett ställe så att du automatiskt kan logga in på webbplatser eller hämta sparade lösenord.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } lagrar säkert dina användarnamn och lösenord för att komma åt webbplatser, fyller i dem automatiskt för dig nästa gång du besöker en webbplats och låter dig hantera dina lagrade inloggningar med dess inbyggda lösenordshanteringsfunktion.
 # Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+#   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Med ett <a { $fxa }>gratis { -brand-name-mozilla-account }</a> kan du säkert synkronisera dina lösenord på alla dina enheter. Du kan också komma åt alla { -brand-name-mozilla }:s andra integritetsrespekterande produkter.
 password-manager-password-autofill-for-easy-logins = Autofyll lösenord för enkla inloggningar
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } kan automatiskt fylla i ditt sparade användarnamn och lösenord. Om du har mer än en inloggning för en webbplats kan du bara välja det konto du vill ha så tar vi det därifrån.

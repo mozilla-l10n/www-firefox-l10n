@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
+### URL: https://www-dev.springfield.moz.works/more/windows-64-bit/
 
 windows-64-bit-64-bit = 64-బిట్
 # Main title

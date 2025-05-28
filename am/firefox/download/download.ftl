@@ -6,33 +6,29 @@
 # Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox }ን አውርድ
 firefox-new-download-the-fastest-firefox = ከመቼውም ጊዜ ፈጣኑን { -brand-name-firefox } አውርድ
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = ፈጣን ገጽ መጫን፣ አነስተኛ የማህደረ ትውስታ አጠቃቀም እና በባህሪያት የታጨቀ፣ አዲሱ { -brand-name-firefox } እዚህ አለ።
 firefox-new-get-the-latest-firefox = የቅርብ ጊዜውን { -brand-name-firefox } አሳሽ ያግኙ።
-# span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = { -brand-name-firefox }ን <br> ለ{ -brand-name-windows } አውርድ
-firefox-new-download-firefox-for-macos = { -brand-name-firefox }ን  <br> ለ{ -brand-name-mac } አውርድ
-firefox-new-download-firefox-for-linux = { -brand-name-firefox }ን <br> ለ{ -brand-name-linux } አውርድ
 firefox-new-free-web-browser = ነፃ የድር አሳሽ
 firefox-new-advanced-install-options = የላቁ የመጫኛ አማራጮች እና ሌሎች መድረኮች
 firefox-new-download-in-another-language = በሌላ ቋንቋ ያውርዱ
 firefox-new-need-help = እርዳታ ይፈልጋሉ?
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-firefox-new-should-begin = ማውረድዎ በራስ-ሰር መጀመር አለበት። አልሰራም? <a id="{ $id }" href="{ $fallback_url }">እንደገና ለማውረድ ይሞክሩ</a>።
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ከአሳሽም በላይ ነው።
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = ማውረድዎ ተቋርጧል። ግን ሁሉም ነገር አልጠፋም።
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-system-may-not = የእርስዎ ስርዓት የ{ -brand-name-firefox } መስፈርቶችን ላያሟላ ይችላል፣ነገር ግን ከ<a href="{ $url }">እነዚህ ስሪቶች</a> አንዱን መሞከር ይችላሉ።
 firefox-new-windows = { -brand-name-windows }
 # Variables:
@@ -43,7 +39,7 @@ firefox-new-visit-support-for-more = ለተጨማሪ ዝርዝሮች ድጋፍ�
 # Not-Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = { -brand-name-firefox-browser }ን አውርድ

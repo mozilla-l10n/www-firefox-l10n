@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/more/
+### URL: https://www-dev.springfield.moz.works/more/
 
 firefox-products-are = Produkty { -brand-name-firefox } są zaprojektowane tak, aby chronić Twoją prywatność
 learn-more-about-firefox = Dowiedz się więcej o { -brand-name-firefox(case: "loc") }, jego historii, funkcjach i misji
@@ -15,14 +15,8 @@ what-is-a = Co to jest przeglądarka?
 a-web-browser = Przeglądarka internetowa pozwala Ci dotrzeć do dowolnego miejsca w internecie, umożliwiając przeglądanie tekstów, obrazów i filmów z dowolnego miejsca na świecie.
 update-your-browser = Zaktualizuj swoją przeglądarkę do szybkiego, bezpiecznego i chronionego { -brand-name-firefox(case: "gen") }.
 the-firefox-browser = Przeglądarka { -brand-name-firefox } została stworzona, aby chronić Twoją prywatność na każdym kroku — ponieważ jest to najszybszy sposób, aby uwolnić Cię od powolnego ładowania, złych reklam i elementów śledzących.
-firefox-is-more = { -brand-name-firefox } to więcej niż przeglądarka
-get-the-browsers = Pobierz przeglądarki, które stawiają Twoją prywatność na pierwszym miejscu — od zawsze i na zawsze
-choose-which-firefox = Wybierz { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } do pobrania w swoim języku
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } na { -brand-name-chromebook(case: "acc") }
 firefox-more-while-on-chromebook = Chociaż { -brand-name-chromebook } ma już zainstalowaną przeglądarkę { -brand-name-chrome }, pobranie i korzystanie z { -brand-name-firefox(case: "gen") } jako głównej przeglądarki daje kilka korzyści.
-firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
-firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } był rewolucją w rozwoju { -brand-name-firefox(case: "gen") }. W 2017 roku stworzyliśmy nową, błyskawicznie szybką przeglądarkę, którą nieustannie ulepszamy. { -brand-name-firefox-quantum } to { -brand-name-firefox-browser(case: "nom", capitalization: "lower") }.
-we-believe-everyone = Wierzymy, że każdy powinien mieć dostęp do Internetu — dlatego też udostępniamy { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } w ponad 90 językach przy pomocy oddanych wolontariuszy z całego świata.
 firefox-fights-for = { -brand-name-firefox } walczy o Twoje prawa na systemie { -brand-name-windows }
 easy-migration-of = Łatwe przenoszenie preferencji i zakładek po pobraniu { -brand-name-firefox(case: "gen") } na { -brand-name-windows }.
 firefox-respects-your = { -brand-name-firefox } szanuje Twoją prywatność na systemie { -brand-name-mac-short }.
@@ -37,5 +31,3 @@ firefox-more-fingerprinter-blocking = Blokowanie śledzenia przez zbieranie info
 firefox-more-fingerprinting-is-a = Zbieranie informacji o konfiguracji to rodzaj śledzenia w Internecie, który jest bardziej inwazyjny niż zwykłe śledzenie na podstawie ciasteczek — dlatego { -brand-name-firefox-browser(case: "nom", capitalization: "lower") } je blokuje.
 firefox-more-translate-the-web = Przetłumacz Internet
 firefox-more-translate-more-than = Tłumacz ponad 100 języków na swój język bezpośrednio w { -brand-name-firefox-browser(case: "dat", capitalization: "lower") } — łatwiej niż kiedykolwiek.
-firefox-more-avoid-misinformation-heading = Unikaj dezinformacji w Internecie – { -brand-name-firefox } jest tutaj, aby pomóc
-firefox-more-avoid-misinformation-desc = Dowiedz się, jak ograniczyć dezinformację i skupić się na tym, co dla Ciebie ważne.

@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
 # page title
 bookmark-manager-bookmark-manager = სანიშნების მმართველი
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = დაალაგეთ თქვენი სანიშნები საქაღალდეებითა და ჭდეებით.
 # Variables:
-#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+#   $sync (url) - link to https://www.firefox.com/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = სანიშნები არის ბმულები, რომელთაც ინახავთ ბრაუზერში, რომ სწრაფად და მარტივად შეგეძლოთ დაუბრუნდეთ რჩეულ გვერდებს ვებსივრცეში. { -brand-name-firefox } აღჭურვილია სანიშნების მოსახერხებელი სამართავით, რომლის მეშვეობითაც შეგიძლიათ დაალაგოთ, მოძებნოთ, განაახლოთ და <a { $sync }>დაასინქრონოთ ყველა შენახული ბმული თქვენს თითოეულ მოწყობილობაზე</a>.
 bookmark-manager-organize-your-boomarks-into = დაალაგეთ თქვენი სანიშნები საძიებო საქაღალდეებში
 bookmark-manager-collect-your-bookmarks-in-folders = მოაგროვეთ თქვენი სანიშნები საქაღალდეებში და მონიშნეთ დამატებითი მონაცემებით. ასევე შეგიძლიათ დაახარისხოთ სანიშნები სასურველის სწრაფად მოსაძიებლად.

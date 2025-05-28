@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
+### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = ფუნთუშების გამართვა
 cookie-settings-page-desc = ამ გვერდზე აღწერილია სხვადასხვა სახის ფუნთუშები, რომელთაც შეიძლებდა იყენებდეს { -brand-name-mozilla } და საშუალება გაქვთ, თავად განსაზღვროთ, თუ რა სახის მონაცემების შეგროვებას შეძლებს { -brand-name-mozilla }.

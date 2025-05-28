@@ -6,27 +6,23 @@
 # Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 firefox-new-download-firefox = ჩამოტვირთეთ { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = ჩამოტვირთეთ უსწრაფესი { -brand-name-firefox }
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = გვერდების მეტად სწრაფი გახსნა, მეხსიერების ნაკლები მოხმარება, უამრავ დამატებით შესაძლებლობებთან ერთად, ახალი { -brand-name-firefox } გელოდებათ.
 firefox-new-get-the-latest-firefox = გადმოწერეთ უახლესი { -brand-name-firefox }-ბრაუზერი.
-# span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = ჩამოტვირთეთ { -brand-name-firefox } <br>{ -brand-name-windows }-ზე
-firefox-new-download-firefox-for-macos = ჩამოტვირთეთ { -brand-name-firefox } <br>{ -brand-name-mac }-ზე
-firefox-new-download-firefox-for-linux = ჩამოტვირთეთ { -brand-name-firefox } <br>{ -brand-name-linux }-ზე
 firefox-new-free-web-browser = უფასო ბრაუზერი
 firefox-new-advanced-install-options = დაყენების დამატებითი პარამეტრები და სხვა სისტემები
 firefox-new-download-in-another-language = ჩამოტვირთვა სხვა ენაზე
 firefox-new-need-help = დახმარება გესაჭიროებათ?
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-firefox-new-should-begin = თქვენი ჩამოტვირთვა თავისით დაიწყება. არ იმუშავა? <a id="{ $id }" href="{ $fallback_url }">სცადეთ ხელახლა</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } მეტია, ვიდრე მხოლოდ ბრაუზერი.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
@@ -34,7 +30,7 @@ firefox-new-download-interrupted = თქვენი ჩამოტვირ�
 firefox-new-download-almost-there = თითქმის მზადაა!
 firefox-new-download-select-linux = მიუთითეთ ჩამოტვირთვის ასარჩევი ქვემოთ
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-system-may-not = თქვენი სისტემა შესაძლოა { -brand-name-firefox }-ის მოთხოვნებს ვერ აკმაყოფილებდეს, თუმცა შეგიძლიათ სცადოთ ერთ-ერთი <a href="{ $url }">ამ ვერსიებიდან</a>.
 firefox-new-windows = { -brand-name-windows }
 # Variables:
@@ -45,7 +41,7 @@ firefox-new-visit-support-for-more = დაწვრილებით, იხ�
 # Not-Required
 
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = ჩამოტვირთეთ { -brand-name-firefox-browser }

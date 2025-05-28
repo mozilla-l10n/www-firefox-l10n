@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/pinned-tabs/
+### URL: https://www-dev.springfield.moz.works/features/pinned-tabs/
 
 # page title
 pinned-tabs-pinned-browser-tabs = Abas do navegador fixadas

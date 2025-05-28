@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/set-as-default/thanks/
+### URL: https://www-dev.springfield.moz.works/default/thanks/
 
 set-as-default-thanks-travel-the-internet-with = Merdeit en un doare gwarezet war internet war ho holl drevnadoù.
 set-as-default-thanks-download-the-app = Pellgargañ an arload

@@ -3,13 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/private/
+### URL: https://www-dev.springfield.moz.works/features/private/
 
 features-private-is-firefox-a-private-browser = Je li { -brand-name-firefox } privatni pretraživač?
 # HTML description
 features-private-were-focused-on-your-right-to = Fokusirani smo na vaše pravo na privatnost. Vaši podaci, vaša web aktivnost, vaš život na mreži su zaštićeni sa { -brand-name-firefox }om.
 # Variables:
-#   $url (url) = link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) = link to https://www.firefox.com/features/private-browsing/
 features-private-yes-firefox-protects-your = Da. { -brand-name-firefox } štiti vašu privatnost sa funkcijama kao što je <a href="{ $url }">Privatno pretraživanje</a>. Omogućava vam da svoju historiju pretraživanja i lozinke zadržite privatnim, čak i kada koristite uređaj koji dijelite s drugim ljudima, kao što je kućni računar ili { -brand-name-ipad }.
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
@@ -17,7 +17,7 @@ features-private-firefox-also-protects-your = { -brand-name-firefox } također �
 features-private-sidenote-we-are-not-big-tech = <em>Napomena:</em> Mi nismo velika tehnologija. Radimo stvari drugačije. Nezavisnost (bez dioničara) nam omogućava da ljude stavimo na prvo mjesto, prije profita. Za razliku od drugih kompanija, mi ne prodajemo pristup vašim podacima.
 features-private-what-information-does-firefox = Koje informacije prikuplja { -brand-name-firefox }?
 # Variables:
-#   $url (url) = link to https://www.mozilla.org/firefox/privacy/
+#   $url (url) = link to https://www.mozilla.org/privacy/
 features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } (kreator { -brand-name-firefox }a) shvata privatnost veoma ozbiljno. <strong>Vrlo ozbiljno</strong>. Zapravo, svaki { -brand-name-firefox } proizvod koji napravimo poštuje naše <a href="{ $url }">Obećanje o ličnim podacima</a>: Uzmi manje. Čuvaj. Bez tajni.
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/privacy/firefox/

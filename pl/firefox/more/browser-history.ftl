@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = Historia przeglądarek: Epickie zmagania o władzę, które doprowadziły do powstania nowoczesnych przeglądarek
 browser-history-the-browser-wars-underdogs-giants = Wojny przeglądarek, niedoceniani kontra giganci, oraz momenty, które zmieniły świat. Przeczytaj o historii przeglądarek internetowych.
@@ -51,4 +51,3 @@ browser-history-in-the-future-the = W przyszłości sieć prawdopodobnie jeszcze
 browser-history-in-the-future-the-v2 = W przyszłości sieć prawdopodobnie jeszcze bardziej oddali się od swoich hipertekstowych korzeni, stając się rozległym morzem interaktywnych doświadczeń. Wirtualna rzeczywistość była na horyzoncie od dziesięcioleci (przynajmniej od wydania Lawnmower Man w 1992 r. i Nintendo Virtual Boy w 1995 r.), ale sieć może w końcu udostępnić ją masom. { -brand-name-firefox } obsługuje teraz WebVR i A-Frame, które pozwalają programistom szybko i łatwo tworzyć witryny wirtualnej rzeczywistości. Większość nowoczesnych urządzeń mobilnych obsługuje WebVR i może być łatwo używana jako zestaw do gogli VR przy użyciu prostych kartonowych pudełek. Sieć wirtualnej rzeczywistości 3D, taka jak ta wyobrażona przez autora science fiction Neala Stephensona, może być tuż za rogiem. Jeśli tak się stanie, sama przeglądarka internetowa może całkowicie zniknąć i stać się prawdziwym oknem do innego świata.
 browser-history-whatever-the-future = Niezależnie od tego, jaka będzie przyszłość sieci, { -brand-name-mozilla } i { -brand-name-firefox } będą dostępne dla użytkowników, zapewniając im potężne narzędzia do korzystania z sieci i wszystkiego, co ma do zaoferowania. Sieć jest dla każdego i każdy powinien mieć kontrolę nad swoimi aktywnościami online. Dlatego dajemy { -brand-name-firefox(case: "dat") } narzędzia do ochrony prywatności użytkowników i nigdy nie sprzedajemy danych użytkowników reklamodawcom.
 browser-history-resources = Dodatkowe informacje
-browser-history-take-control-of = Przejmij kontrolę nad przeglądarką.
