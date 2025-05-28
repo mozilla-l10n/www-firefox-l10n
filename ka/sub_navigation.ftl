@@ -7,6 +7,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = ბრაუზერების შედარება
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } for Desktop
 sub-navigation-release-notes = გამოშვების მონაცემები
+sub-navigation-release-channels = გამოშვების არხები
 sub-navigation-desktop = კომპიუტერი
 sub-navigation-mobile = მობილური
 sub-navigation-android = { -brand-name-android }

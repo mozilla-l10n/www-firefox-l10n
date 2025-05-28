@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.springfield.moz.works/
 
+# HTML page title
+firefox-browsers-page-title-v2 = { -brand-name-firefox } Bwrdd Gwaith
+# HTML page description
+firefox-browsers-page-desc-v2 = Lawrlwythwch y porwr sy'n rhoi eich preifatrwydd yn gyntaf - mynnwch { -brand-name-firefox } ar gyfer Windows, macOS, neu Linux ar y bwrdd gwaith.
+firefox-browsers-main-heading-v2 = { -brand-name-firefox } y bwrdd gwaith
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Defnyddiwch y porwr sy'n rhoi eich preifatrwydd yn flaenaf - ac sydd wedi <strong>erioed</strong>
 firefox-browsers-desktop = Bwrdd Gwaith

@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.springfield.moz.works/
 
+# HTML page title
+firefox-browsers-page-title-v2 = { -brand-name-firefox } для компьютера
+# HTML page description
+firefox-browsers-page-desc-v2 = Загрузите браузер, который ставит вашу приватность на первое место — { -brand-name-firefox } для Windows, macOS или Linux для компьютера.
+firefox-browsers-main-heading-v2 = { -brand-name-firefox } для компьютера
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Получите браузер, в котором ваша конфиденциальность превыше всего — и <strong>всегда</strong>
 firefox-browsers-desktop = Для компьютера

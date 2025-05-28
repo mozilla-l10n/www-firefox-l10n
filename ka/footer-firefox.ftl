@@ -1,0 +1,70 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+# An accessible label used to describe that the role of the element is the
+# primary website navigation.
+footer-landmark-label = დამატებითი
+
+## Download links for stable versions of Firefox across multiple platforms.
+
+# Section title
+footer-download = ჩამოტვირთვა
+footer-download-auto = ჩამოტვირთეთ { -brand-name-firefox }
+footer-windows = Windows
+footer-mac = Mac
+footer-ios = iOS
+footer-android = Android
+footer-linux = Linux
+footer-custom-download = ჩამოტვირთვის მორგების პარამეტრები
+
+## Download links for dev versions of Firefox (beta, nightly).
+
+# Section title
+footer-latest = უახლესი ანაწყობები
+footer-beta = { -brand-name-beta }
+footer-nightly = { -brand-name-nightly }
+
+## Download links for enterprise versions of Firefox.
+
+# Section title
+footer-business = { -brand-name-firefox } ბიზნესისთვის
+footer-enterprise = { -brand-name-enterprise }
+
+## Links to community groups.
+
+# Section title
+footer-community = ერთობა
+footer-contribute = წვლილის შეტანა
+footer-developer = შემმუშავებელი
+
+## Links to resources
+
+# Section title
+footer-resources = მასალები
+footer-compare = შედარება
+footer-release-notes = გამოშვების მონაცემები
+footer-support = მხარდაჭერა
+footer-addons = დამატებები
+footer-blog = სვეტი
+
+## Links to social media
+
+# Section title
+footer-follow-us = გამოგვყევით
+footer-instagram = Instagram
+footer-youtube = YouTube
+footer-tiktok = TikTok
+
+## Legal links
+
+footer-websites-privacy-notice = საიტის პირადულობის განაცხადი
+footer-terms-of-use = გამოყენების პირობები
+footer-websites-cookie-policy = ფუნთუშების დებულება
+footer-community-participation-guidelines = გზამკვლევი მონაწილეობისთვის
+footer-logo-trademark-licensing = ლოგოს სავაჭრო ნიშნების ლიცენზირება
+
+##
+
+footer-language = ენა
+footer-firefox = { -brand-name-firefox }

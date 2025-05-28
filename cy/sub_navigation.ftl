@@ -7,6 +7,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = Cymharu Porwyr
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } Bwrdd Gwaith
 sub-navigation-release-notes = Nodiadau Rhyddhau
+sub-navigation-release-channels = Sianeli Rhyddhau
 sub-navigation-desktop = Bwrdd Gwaith
 sub-navigation-mobile = Symudol
 sub-navigation-android = { -brand-name-android }

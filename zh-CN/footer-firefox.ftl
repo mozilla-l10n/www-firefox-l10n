@@ -1,0 +1,70 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+# An accessible label used to describe that the role of the element is the
+# primary website navigation.
+footer-landmark-label = 补充
+
+## Download links for stable versions of Firefox across multiple platforms.
+
+# Section title
+footer-download = 下载
+footer-download-auto = 下载 { -brand-name-firefox }
+footer-windows = Windows
+footer-mac = Mac
+footer-ios = iOS
+footer-android = Android
+footer-linux = Linux
+footer-custom-download = 自定义下载选项
+
+## Download links for dev versions of Firefox (beta, nightly).
+
+# Section title
+footer-latest = 最新版本
+footer-beta = { -brand-name-beta }
+footer-nightly = { -brand-name-nightly }
+
+## Download links for enterprise versions of Firefox.
+
+# Section title
+footer-business = { -brand-name-firefox } 企业版
+footer-enterprise = { -brand-name-enterprise }
+
+## Links to community groups.
+
+# Section title
+footer-community = 社区
+footer-contribute = 贡献
+footer-developer = 开发者
+
+## Links to resources
+
+# Section title
+footer-resources = 资源
+footer-compare = 比较
+footer-release-notes = 发行说明
+footer-support = 用户支持
+footer-addons = 附加组件
+footer-blog = 博客
+
+## Links to social media
+
+# Section title
+footer-follow-us = 关注我们
+footer-instagram = Instagram
+footer-youtube = YouTube
+footer-tiktok = TikTok
+
+## Legal links
+
+footer-websites-privacy-notice = 隐私
+footer-terms-of-use = 使用条款
+footer-websites-cookie-policy = Cookie 政策
+footer-community-participation-guidelines = 社区参与准则
+footer-logo-trademark-licensing = 徽标商标使用许可协议
+
+##
+
+footer-language = 语言
+footer-firefox = { -brand-name-firefox }

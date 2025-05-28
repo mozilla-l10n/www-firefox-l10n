@@ -7,6 +7,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = Böngészők összehasonlítása
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } számítógépre
 sub-navigation-release-notes = Kiadási megjegyzések
+sub-navigation-release-channels = Kiadási csatornák
 sub-navigation-desktop = Asztali
 sub-navigation-mobile = Mobil
 sub-navigation-android = { -brand-name-android }

@@ -7,6 +7,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = 比較瀏覽器
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } 桌面版
 sub-navigation-release-notes = 發行公告
+sub-navigation-release-channels = 發行頻道
 sub-navigation-desktop = 桌面版
 sub-navigation-mobile = 行動版
 sub-navigation-android = { -brand-name-android }
