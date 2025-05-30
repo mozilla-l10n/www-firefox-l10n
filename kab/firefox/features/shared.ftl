@@ -6,3 +6,4 @@
 ### URL: https://www-dev.springfield.moz.works/features/
 
 features-shared-firefox-features = Timahilin n { -brand-name-firefox }
+features-shared-footer-cta-title = Eg ugar s { -brand-name-firefox }
