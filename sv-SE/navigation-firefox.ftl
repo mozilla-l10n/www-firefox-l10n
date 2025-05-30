@@ -20,6 +20,7 @@ navigation-mobile = Mobil
 navigation-release-notes = Versionsfakta
 navigation-support = Hjälp
 navigation-add-ons = Tillägg
+navigation-learn = Utforska
 navigation-blog = Blogg
 navigation-compare = Jämför
 navigation-podcast = Podcast

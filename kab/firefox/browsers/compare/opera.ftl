@@ -5,3 +5,5 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/opera/
 
+# Page title
+compare-opera-firefox-vs-opera = { -brand-name-firefox } mgl Opera
