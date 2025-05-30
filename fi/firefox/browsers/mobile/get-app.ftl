@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Lataa { -brand-name-firefox-browser } { -brand-name-ios }- tai { -brand-name-android }-matkapuhelimelle
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } mobiililaitteille estää oletuksena yli 2000 seurainta, tarjoten sinulle ansaitsemasi yksityisyyden ja tarvitsemasi nopeuden yksityisessä mobiiliselaimessa.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Download de { -brand-name-firefox-browser } op jo mobyl foar { -brand-name-ios } en { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } foar mobyl blokkearret standert mear as 2000 trackers, wêrtroch jo de privacy dy’t jo fertsjinje en de snelheid dy’t jo nedich hawwe yn in privee mobile browser krije.

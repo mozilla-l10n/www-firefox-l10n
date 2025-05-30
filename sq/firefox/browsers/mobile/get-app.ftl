@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Shkarkoni në Celularin tuaj { -brand-name-firefox-browser } për { -brand-name-ios } dhe { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } për Celular bllokon, si parazgjedhje, mbi 2000 gjurmues, duke ju dhënë privatësinë që meritoni dhe shpejtësinë që keni nevojë në një shfletues privat për celular.

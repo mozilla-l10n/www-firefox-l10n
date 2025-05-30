@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Defnyddiwch { -brand-name-firefox-browser } ar eich dyfais Symudol { -brand-name-ios } ac { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = Mae { -brand-name-firefox-browser } Symudol yn rhwystro dros 2000 o dracwyr drwy ragosodiad, gan roi'r preifatrwydd rydych chi'n ei haeddu a'r cyflymder sydd ei angen arnoch chi mewn porwr symudol preifat.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Telechargia il { -brand-name-firefox-browser } sin tes apparat mobil per { -brand-name-ios } ed { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } per apparats mobils blochescha en sia configuraziun da standard passa 2000 fastizaders, ta porscha la sfera privata che ti meritas e la sveltezza che ti dovras tar in navigatur mobil.

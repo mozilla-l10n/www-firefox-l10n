@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Преузмите { -brand-name-firefox-browser } на ваш мобилни уређај за { -brand-name-ios } и { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } блокира више од 2000 програма за праћење, пружајући вам приватност коју заслужујете и брзину која вам је потребна на приватном мобилном прегледачу.

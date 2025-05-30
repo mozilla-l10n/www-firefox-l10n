@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = 在 { -brand-name-ios } 或 { -brand-name-android } 行動裝置下載 { -brand-name-firefox-browser }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser }行動版預設會封鎖超過 2000 種追蹤器，讓您一次獲得應有的隱私保護與高速上網體驗。

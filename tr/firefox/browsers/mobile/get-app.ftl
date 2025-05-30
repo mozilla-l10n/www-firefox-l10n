@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = { -brand-name-ios } ve { -brand-name-android } cihazınıza { -brand-name-firefox-browser }nı indirin
 firefox-mobile-firefox-browser-for-mobile = Mobil cihazlar için { -brand-name-firefox-browser } 2.000’den fazla takip kodunu varsayılan olarak engeller, hak ettiğiniz gizliliği ve ihtiyacınız olan hızı sağlar.

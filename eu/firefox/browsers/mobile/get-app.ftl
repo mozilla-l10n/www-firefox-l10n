@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Deskargatu { -brand-name-firefox-browser } mugikorretik { -brand-name-ios } eta { -brand-name-android }erako
 firefox-mobile-firefox-browser-for-mobile = Mugikorrerako { -brand-name-firefox-browser } 2000 jarraipen-elementutik gora blokeatzen ditu hasieratik, merezi duzun pribatutasuna eta mugikorrerako nabigatzaile pribatu batean behar duzun abiadura eskainiz.

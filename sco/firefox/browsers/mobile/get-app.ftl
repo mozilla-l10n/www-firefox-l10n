@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Doonload the { -brand-name-firefox-browser } on yer Mobile fur { -brand-name-ios } and { -brand-name-android }
 firefox-mobile-firefox = { -brand-name-firefox }

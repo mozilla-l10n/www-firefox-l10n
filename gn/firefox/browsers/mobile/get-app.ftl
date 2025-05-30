@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Emboguejy { -brand-name-firefox-browser } ne pumbyry { -brand-name-ios } ha { -brand-name-android } peg̃uarã
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } pumbyrygua ojoko hetave 2000 tapykuehohágui ijehegui, nemoñemi añetévo ha pya’ekue eikotevẽva kundahára pumbyryguápe g̃uarã.

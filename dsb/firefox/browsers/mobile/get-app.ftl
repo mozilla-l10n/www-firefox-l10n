@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Ześěgniśo { -brand-name-firefox-browser } na swójom mobilnem rěźe za { -brand-name-ios } a { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } za mobilne rědy wěcej ako 2000 pśeslědowakow pó standarźe blokěrujo a dawa wam priwatnosć, kótaruž se zasłužyjośo a malsnosć, kótaruž trjebaśo, w priwatnem mobilnem wobhlědowaku.

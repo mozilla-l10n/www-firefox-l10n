@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = { -brand-name-ios } 및 { -brand-name-android }용 모바일 { -brand-name-firefox-browser }  다운로드
 firefox-mobile-firefox-browser-for-mobile = 모바일용 { -brand-name-firefox-browser }는 2천개 이상의 추적기를 기본으로 차단하며, 개인 모바일 브라우저에 필요한 사생활 보호와 속도를 제공합니다.

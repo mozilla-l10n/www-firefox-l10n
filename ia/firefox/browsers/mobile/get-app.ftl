@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Discarga le { -brand-name-firefox-browser } pro { -brand-name-ios } e { -brand-name-android } sur tu apparato mobile
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } pro mobile bloca normalmente plus de 2000 traciatores, dante te le confidentialitate que tu merita e le velocitate que tu vole in un navigator mobile e private.

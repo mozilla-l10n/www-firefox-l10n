@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Pellgargañ ar { -brand-name-firefox-browser } war ho hezoug { -brand-name-ios } pe { -brand-name-android }
 firefox-mobile-firefox = { -brand-name-firefox }

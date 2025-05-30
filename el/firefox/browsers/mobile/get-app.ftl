@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Κάντε λήψη του { -brand-name-firefox-browser } στην κινητή σας συσκευή με { -brand-name-ios } και { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = Το { -brand-name-firefox-browser } για κινητά αποκλείει πάνω από 2000 ιχνηλάτες από προεπιλογή, δίνοντάς σας το απόρρητο που σας αξίζει και την ταχύτητα που χρειάζεστε σε ένα ιδιωτικό πρόγραμμα περιήγησης για κινητά.

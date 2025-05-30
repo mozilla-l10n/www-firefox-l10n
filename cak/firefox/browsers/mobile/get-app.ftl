@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Taqasaj ri { -brand-name-firefox-browser } pan awoyonib'al richin { -brand-name-ios } chuqa' { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } richin Oyonib'äl yeruq'ät ma xa xe ta 2000 ojqanela' pa ruyonil, nuya' awichinanem achi'el nawajo' chuqa' ri pararenïk nik'atzin chawe pa jun ichinan oyonib'äl okik'amaya'l.

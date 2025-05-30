@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = IOS आणि { -brand-name-android } साठी आपल्या मोबाइलवर Firefox ब्राउझर डाउनलोड करा
 firefox-mobile-firefox = { -brand-name-firefox }

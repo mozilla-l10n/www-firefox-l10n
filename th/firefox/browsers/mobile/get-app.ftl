@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = ดาวน์โหลด{ -brand-name-firefox-browser } บนมือถือของคุณสำหรับ { -brand-name-ios } และ { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } สำหรับมือถือจะปิดกั้นตัวติดตามมากกว่า 2000 ตัวตามค่าเริ่มต้น เพื่อให้คุณได้รับความเป็นส่วนตัวและความเร็วในแบบที่คุณคู่ควรในเบราว์เซอร์มือถือที่เป็นส่วนตัว

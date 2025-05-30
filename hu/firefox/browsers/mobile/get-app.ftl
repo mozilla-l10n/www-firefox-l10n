@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Töltse le a { -brand-name-firefox-browser }t a mobiljára { -brand-name-ios }-en és { -brand-name-android }on
 firefox-mobile-firefox-browser-for-mobile = A mobilos { -brand-name-firefox-browser } alapértelmezés szerint több mint 2000 nyomkövetőt blokkol, biztosítva az Önnek járó adatvédelmet és a szükséges sebességet egy privát mobil böngészőben.

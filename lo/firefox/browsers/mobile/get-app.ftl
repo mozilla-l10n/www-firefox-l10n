@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = ດາວໂຫຼດ { -brand-name-firefox-browser } ໃນມືຖືຂອງເຈົ້າສຳລັບ { -brand-name-ios } ແລະ { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } ສໍາລັບມືຖືຈະບລັອກຕົວຕິດຕາມຫຼາຍກວ່າ 2000 ໂຕຕາມຄ່າເລີ່ມຕົ້ນ, ໃຫ້ຄວາມເປັນສ່ວນຕົວທີ່ເຈົ້າສົມຄວນໄດ້ຮັບ ແລະຄວາມໄວທີ່ເຈົ້າຕ້ອງການໃນໂປຣແກຣມທ່ອງເວັບສ່ວນຕົວ.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = { -brand-name-android } تے { -brand-name-ios } کیتے آپݨے موبائل تے { -brand-name-firefox-browser } ڈاؤن لوڈ کرو
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } موبائل کیتے 2000 کنوں زیادہ ٹریکرز کوں بطور ڈیفالٹ بلاک کریندا ہے، جیڑھا تہاکوں او رازداری فراہم کریندا ہے جیندے تساں مستحق او تے او رفتار جیڑھی تہاکوں نجی موبائل براؤزر وِچ درکار ہے۔

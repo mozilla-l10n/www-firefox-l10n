@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Last ned { -brand-name-firefox-browser }en på din mobil for { -brand-name-ios } og { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser }en for mobil blokkerer som standard over 2000 sporere, noe som gir deg privatlivet du fortjener og hastigheten du trenger i en privat mobilnettleser.

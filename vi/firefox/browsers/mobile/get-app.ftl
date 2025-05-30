@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Tải xuống { -brand-name-firefox-browser } trên điện thoại của bạn dành cho { -brand-name-ios } và { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } dành cho thiết bị di động theo mặc định chặn hơn 2000 trình theo dõi, mang lại cho bạn sự riêng tư mà bạn xứng đáng và tốc độ bạn cần trong một trình duyệt di động riêng tư.

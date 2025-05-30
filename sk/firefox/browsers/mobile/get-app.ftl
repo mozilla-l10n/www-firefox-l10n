@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Stiahnite si { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } pre svoj mobilný telefón s { -brand-name-ios(case: "ins") } a { -brand-name-android(case: "ins") }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser }  pre mobilné zariadenia blokuje v predvolenom nastavení viac ako 2 000 sledovacích prvkov, čím vám poskytuje súkromie, ktoré si zaslúžite a rýchlosť, ktorú potrebujete.

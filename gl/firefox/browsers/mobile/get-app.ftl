@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Descarga o { -brand-name-firefox-browser } no teu dispositivo móbil para { -brand-name-ios } e { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = Por defecto, o { -brand-name-firefox-browser } para dispositivos móbiles bloquea máis de 2000 rastrexadores e outorga a privacidade que mereces e a velocidade que precisas nun navegador privativo para móbiles.

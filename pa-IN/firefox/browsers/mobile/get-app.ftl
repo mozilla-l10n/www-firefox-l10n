@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = ਆਪਣੋ ਮੋਬਾਈਲ ਵਾਸਤੇ { -brand-name-ios } ਅਤੇ { -brand-name-android } ਲਈ { -brand-name-firefox-browser } ਡਾਊਨਲੋਡ ਕਰੋ।
 firefox-mobile-firefox-browser-for-mobile = ਮੋਬਾਈਲ ਲਈ { -brand-name-firefox-browser } ਮੂਲ ਰੂਪ ਵਿੱਚ 2000 ਤੋਂ ਵੱਧ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਹੈ, ਪ੍ਰਾਈਵੇਟ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਤੁਹਾਡੇ ਵਲੋਂ ਆਸ ਕੀਤੀ ਪਰਦੇਦਾਰੀ ਅਤੇ ਸਪੀਡ ਤੁਹਾਨੂੰ ਦਿੰਦਾ ਹੈ।

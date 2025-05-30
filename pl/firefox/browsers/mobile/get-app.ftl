@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Pobierz { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } na telefon z { -brand-name-ios } i { -brand-name-android(case: "ins") }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } na telefon domyślnie blokuje ponad 2000 elementów śledzących, zapewniając prywatność, na jaką zasługujesz i szybkość, jakiej potrzebujesz w prywatnej przeglądarce mobilnej.

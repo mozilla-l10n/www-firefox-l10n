@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = ჩამოტვირთეთ { -brand-name-firefox-browser } თქვენს მობილურზე { -brand-name-ios }-ისა და { -brand-name-android }-ისთვის
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } მობილურისთვის ზღუდავს 2000-ზე მეტ მეთვალყურეს ნაგულისხმევად, განიჭებთ პირადულობას, რომელსაც იმსახურებთ და სიჩქარეს, რომელიც გჭირდებათ პირად მობილურ ბრაუზერში.
