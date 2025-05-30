@@ -29,5 +29,6 @@ newsletter-form-no = Uhu
 multi-newsletter-form-checkboxes-legend = Bɣiɣ talɣut ɣef:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Ttxil-k⋅m senqed xerṣum yiwet seg textiṛiyin n tɣamsa.
 multi-newsletter-form-title = Ḥemmel web
 multi-newsletter-form-desc = Rmes-d iznan n telɣut n { -brand-name-mozilla } sakin mudd-aɣ-d afus akken ad yeqqim web yeldi, d ilelli.

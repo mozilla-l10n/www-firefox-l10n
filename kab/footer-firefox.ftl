@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+# An accessible label used to describe that the role of the element is the
+# primary website navigation.
+footer-landmark-label = Tamerniwt
 
 ## Download links for stable versions of Firefox across multiple platforms.
 
@@ -24,6 +27,8 @@ footer-nightly = { -brand-name-nightly }
 
 ## Download links for enterprise versions of Firefox.
 
+# Section title
+footer-business = { -brand-name-firefox } i tkebbaniyin
 footer-enterprise = { -brand-name-enterprise }
 
 ## Links to community groups.
@@ -55,6 +60,9 @@ footer-tiktok = TikTok
 
 footer-websites-privacy-notice = Tasertit tabaḍnit n usmel web
 footer-terms-of-use = Tiwtilin n useqdec
+footer-websites-cookie-policy = Tasertit n yinagan n tuqqna
+footer-community-participation-guidelines = Iwehhilen n uttekki n temɣiwant
+footer-logo-trademark-licensing = Turagt n tecreḍt yersen n ulugu
 
 ##
 
