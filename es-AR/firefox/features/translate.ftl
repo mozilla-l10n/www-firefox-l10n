@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/translate/
+### URL: https://www-dev.springfield.moz.works/features/translate/
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Traducir una página web con { -brand-name-firefox }
@@ -20,5 +20,5 @@ features-translate-the-languages-below-are-what-v2 = Los siguientes idiomas son 
 features-translate-and-more-languages-are-in = ¡Y más idiomas están en desarrollo!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } habla tu idioma
 # Variables:
-#   $download (url) = link to https://www.mozilla.org/firefox/new/
+#   $download (url) = link to https://www.firefox.com/download/
 features-translate-the-firefox-translations-feature-v2 = La función de traducciones de { -brand-name-firefox-translations } es otra forma en que { -brand-name-mozilla } mantiene tu Internet personalizada y más privada. { -brand-name-mozilla } no rastrea las páginas web que traducís. Con millones de usuarios en todo el mundo, { -brand-name-mozilla } quiere asegurarse de que aquellos que usan { -brand-name-firefox } estén aprendiendo, comunicándose, compartiendo y manteniéndose informados bajo sus propios términos. <a { $download }>Empezá en tu idioma preferido descargando { -brand-name-firefox }.</a>

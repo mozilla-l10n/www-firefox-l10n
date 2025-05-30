@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Гирифтани «{ -brand-name-firefox }» барои корхонаи худ бо истифода аз «{ -brand-name-esr }» ва нашрҳои мунтазами «Rapid Release»
 firefox-enterprise-enterprise = { -brand-name-enterprise }
@@ -34,5 +34,5 @@ firefox-enterprise-sample-plist-for-configuration = Намунаи <a href="{ $u
 firefox-enterprise-pkg-installer = Насбкунандаи «PKG»
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-бит
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = Боргирӣ кардани «{ -brand-name-firefox-esr }» ё нашрҳои мунтазами «Rapid Release» <br><a href="{ $firefox_all }">бо забони дигар ё барои платформаи дигар</a>.

@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
 # page title
 bookmark-manager-bookmark-manager = Gestor de marcapaginas
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Organisa tu marcapaginas con dossiers e etiquettas.
 # Variables:
-#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+#   $sync (url) - link to https://www.firefox.com/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = Le marcapaginas es ligamines que tu salva in tu navigator, assi que tu pote presto e facilemente revolver a tu sitos favorite sur le web. { -brand-name-firefox } include un practic gestor de marcapaginas assi que tu pote organisar, cercar, actualisar e <a { $sync }>synchronisar tote tu ligamines salvate inter tote tu apparatos</a>.
 bookmark-manager-organize-your-boomarks-into = Organisa tu marcapaginas in dossiers recercabile
 bookmark-manager-collect-your-bookmarks-in-folders = Collige tu marcapaginas in dossiers e indica altere detalios con etiquettas. Tu pote etiam ordinar tu marcapaginas pro trovar facilemente los que tu require.

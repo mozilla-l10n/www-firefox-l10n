@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/password-manager
+### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
 password-manager-free-password-manager = Gestor de contrasigno gratuite
@@ -11,7 +11,7 @@ password-manager-free-password-manager = Gestor de contrasigno gratuite
 password-manager-firefox-password-manager-saves-all = Le gestor de contrasignos de { -brand-name-firefox } salva tote tu contrasignos in un sol loco, assi tu pote automaticamente authenticar te al sitos, o recuperar le contrasignos salvate.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } reserva con securitate tu nomines de usator e tu contrasignos pro acceder sitos web, los plena automaticamente pro te le proxime vice que tu visita un sito web, e te permitte de gerer tu credentiales reservate con su function integrate de gestion de contrasigno.
 # Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+#   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Con un <a { $fxa }>{ -brand-name-mozilla-account }</a> gratuite tu pote synchronisar tu contrasignos inter tote tu apparatos con securitate. Tu alsi pote acceder tote le altere productos de { -brand-name-mozilla } respectuose del confidentialitate.
 password-manager-password-autofill-for-easy-logins = Auto-plenamento de contrasigno pro accessos facile
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } pote automaticamente plenar tu nomine de usator e contrasigno reservate. Si tu ha plus que un solo accesso pro un sito, tu pote justo eliger le conto que tu vole e nos lo prendera ab illac.

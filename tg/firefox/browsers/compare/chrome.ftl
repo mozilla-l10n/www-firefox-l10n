@@ -3,15 +3,15 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
+### URL: https://www-dev.springfield.moz.works/compare/chrome/
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = Муқоисаи браузери «{ -brand-name-firefox }» бо «Google Chrome»
 # HTML page description
 compare-chome-read-our-comparison = Муқоисаи моро байни браузерҳои «{ -brand-name-firefox }» ва «Chrome» оид ба хусусиятҳо, махфият ва осонии истифода мутолиа намоед.
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
-# $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
+# $adblocker (url) - link to https://www.firefox.com/features/adblocker/
 compare-chrome-firefoxs-default-privacy-settings = Танзимоти пешфарзи махфияти «{ -brand-name-firefox }» нисбат ба танзимоти «Chrome» хеле қавитар мебошанд — ва мо, инчунин, хусусиятҳои иловагӣ дорем, ки аз пайгирии шумо тавассути сомонаҳо пешгирӣ мекунанд, аз қабили <a { $fingerprint }>манъкунии нақши рақамии ангуштон</a> ва интихоби шумо нисбат ба васеъшавиҳо барои <a { $adblocker }>манъкунии реклама</a>.
 compare-chrome-we-block-trackers-by-default = Мо ҳар гуна васоити пайригиро ба таври пешфарз манъ мекунем. Браузери «Chrome» онҳоро манъ намекунад.
 compare-chrome-in-fact-by-default-chrome-monitors = Дар ҳақиқат, браузери «Chrome» ба таври пешфарз сомонаҳое, ки шумо боздид мекунед ва амалиётҳои шуморо назорат мекунад, то «мавзуъҳои реклама»-ро муайян карда, барои шумо рекламаи мақсаднокро ирсол намояд. Шумо метавонед, ки танҳо то се мавзуъро манъ кунед, вале шумо наметавонед пешгирӣ кунед, ки барои шумо мавзуъҳои дигари реклама муайян карда шаванд.

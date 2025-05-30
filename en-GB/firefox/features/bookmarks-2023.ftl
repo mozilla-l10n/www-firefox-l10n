@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
 # page title
 bookmark-manager-bookmark-manager = Bookmark manager
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Organise your bookmarks with folders and tags.
 # Variables:
-#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+#   $sync (url) - link to https://www.firefox.com/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = Bookmarks are links you save in your browser so you can quickly and easily get back to your favourite places on the web. { -brand-name-firefox } includes a handy bookmark manager so you can organise, search, update and <a { $sync }>synchronise all your saved links across all your devices</a>.
 bookmark-manager-organize-your-boomarks-into = Organise your bookmarks into searchable folders
 bookmark-manager-collect-your-bookmarks-in-folders = Collect your bookmarks in folders and tag them with more details. You can also sort your bookmarks to quickly find the ones you need.

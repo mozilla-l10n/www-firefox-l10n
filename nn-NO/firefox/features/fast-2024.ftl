@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/fast/
+### URL: https://www-dev.springfield.moz.works/features/fast/
 
 features-fast-firefox-keeps-getting-faster = { -brand-name-firefox } vert heile tida raskare
 # HTML description
@@ -18,5 +18,5 @@ features-fast-firefox-is-powered-by-the-world = { -brand-name-firefox } blir dri
 features-fast-all-browsers-had-to-make = Alle nettlesarar måtte gjere forbetringar for å prestere godt på dei nye Speedometer 3-testane. Spesielt { -brand-name-firefox } tok store framsteg, og <a { $link }>vart merkbart raskare</a> for brukarane våre som eit direkte resultat av dette arbeidet. { -brand-name-firefox } er raskare enn nokon gong før, med fart du verkeleg kan kjenne, inkludert raskare sideinnlasting og jamnare interaksjonar.
 features-fast-towards-a-faster-web = Mot eit raskare nett
 # Variables
-#   $link (url) - link to /about/webvision/full/#performance
+#   $link (url) - link to https://www.mozilla.org/about/webvision/full/#performance
 features-fast-theres-been-an-encouraging = { -brand-name-mozilla } er <a { $link }>forplikta</a> til å kontinuerleg forbetre vår eigen nettlesar så vel som heile nettet. Derfor investerte vi i samarbeidet for å utvikle Speedometer 3 som igjen har forbetra ytinga til alle nettlesarar. Så uansett kva nettlesar du vel, vil { -brand-name-mozilla } at han skal vere rask.

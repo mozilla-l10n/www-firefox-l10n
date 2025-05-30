@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Bloqueo de publicidades
@@ -15,7 +15,7 @@ features-adblocker-the-ad-blocker-a-tool = El bloqueador de publicidad – una h
 features-adblocker-in-todays-digital-world = En el mundo digital de hoy, la Web puede estar ocupada y abarrotada. Los bloqueadores de publicidad son herramientas poderosas que te dan el control de tu experiencia de navegación, permitiéndote decidir qué aparece en tu pantalla.
 features-adblocker-ad-blockers-work = Los bloqueadores de publicidad funcionan de dos maneras fundamentales: evitando que se cargue contenido como las publicidades y bloqueando las secciones de los sitios web que alojan esos elementos. Esto puede incluir anuncios de video, anuncios personalizados que te siguen por toda la web e incluso rastreadores de terceros.
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = Usar un bloqueador de publicidad es sencillo. Hay muchas opciones confiables disponibles como complementos del navegador, lo que facilita la búsqueda de una solución que se adapte a sus necesidades. Por ejemplo, <a href="{ $firefox }">{ -brand-name-firefox }</a> ofrece <a href="{ $addons }">una lista de extensiones aprobadas</a> diseñadas para mejorar tu experiencia de navegación respetando tu privacidad.
 features-adblocker-finding-the-right = Encontrá el bloqueador de publicidad adecuado para vos
@@ -36,5 +36,5 @@ features-adblocker-to-adjust = Para ajustar esta configuración, hacé clic en e
 features-adblocker-why-use = ¿Por qué usar un bloqueador de publicidad?
 features-adblocker-ad-blockers-do-more = Los bloqueadores de anuncios hacen más que administrar publicidades: pueden mejorar la velocidad de navegación y la seguridad al reducir el contenido innecesario. Te permiten crear una experiencia web personalizada y sin distracciones, lo que te permite concentrarte en lo más importante.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/download/
 features-adblocker-explore-hundreds = Explorá cientos de complementos enfocados en la privacidad disponibles para { -brand-name-firefox } y encontrá las herramientas adecuadas para vos. <a href="{ $url }">Descargá { -brand-name-firefox }</a> hoy para experimentar un navegador diseñado pensando en tu privacidad y rendimiento.

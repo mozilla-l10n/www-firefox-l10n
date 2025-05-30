@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
@@ -62,23 +59,4 @@ firefox-developer-faster-innovation = Маълумоти тезкор
 firefox-developer-fonts-panel = Лавҳаи ҳарфҳо
 firefox-developer-firefox-developer-edition-sends = Браузери «{ -brand-name-firefox-developer-edition }» омори истифодабариро ба ташкилоти «{ -brand-name-mozilla }» ба таври худкор мефиристонад.
 firefox-developer-download-the-firefox-browser = Браузери «{ -brand-name-firefox }»-ро ба даст оред, ки барои барномасозон эҷод карда шуд.
-firefox-developer-welcome-to-firefox-developer-edition = Хуш омадед ба «{ -brand-name-firefox-developer-edition }»
 firefox-developer-made-for-developers = Браузере, ки барои барномасозон сохта шудааст
-firefox-developer-congrats-you-now-have-latest-v2 = Акнун шумо версияи навтарини «{ -brand-name-firefox-developer-edition }»-ро ба даст гирифтед.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Нишон додани <a { $attrs }>қайдҳои нашр</a> (танҳо бо забони англисӣ) барои дидани навигариҳо.
-firefox-developer-developer-tools-user = Ҳуҷҷатҳои корбар оид ба абзорҳои барномасозӣ
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Манбаъҳо барои барномасозон ва аз ҷониби барномасозон
-firefox-developer-mdn-playground = Озмоишгоҳ
-firefox-developer-mdn-blog = Блоги «{ -brand-name-mdn }»
-firefox-developer-mdn-updates = Навигариҳо
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = Иқтибосҳо аз «{ -brand-name-mdn }»
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = Нақшаи таълимии «{ -brand-name-mdn }»
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Лоиҳаи «{ -brand-name-mdn }»-ро дастгирӣ кунед ва онро бо маҷмуаҳо, огоҳномаҳо ва майдончаҳои таҷрибавӣ барои худ созед.
