@@ -50,9 +50,21 @@ footer-blog = Blogg
 
 ## Links to social media
 
+# Section title
+footer-follow-us = Följ oss
+footer-instagram = Instagram
+footer-youtube = YouTube
+footer-tiktok = TikTok
 
 ## Legal links
 
+footer-websites-privacy-notice = Webbplatsens sekretessmeddelande
+footer-terms-of-use = Användarvillkor
+footer-websites-cookie-policy = Kakpolicy
+footer-community-participation-guidelines = Riktlinjer för deltagande i gemenskapen
+footer-logo-trademark-licensing = Varumärkeslicens för logotyper
 
 ##
 
+footer-language = Språk
+footer-firefox = { -brand-name-firefox }

@@ -7,6 +7,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = Jämför webbläsare
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } för datorer
 sub-navigation-release-notes = Versionsfakta
+sub-navigation-release-channels = Leveranskanal
 sub-navigation-desktop = Dator
 sub-navigation-mobile = Mobil
 sub-navigation-android = { -brand-name-android }
