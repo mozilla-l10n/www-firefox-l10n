@@ -37,6 +37,10 @@ firefox-all-microsoft-store-installers = Microsoft Store
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Sader { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Aql-aɣ deg tallit n uɛeddi gar yileqman imeqqranen n ESR { $esr_next_major } akked { $esr_current_major }.
 firefox-all-check-the-system-requirements = Wali ayen ilaqen deg unagraw-ik
 firefox-all-release-notes = Iwenniten n lqem
 firefox-all-source-code = Tangalt aɣbalu

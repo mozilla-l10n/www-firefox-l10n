@@ -5,3 +5,5 @@
 
 ### URL: https://www-dev.springfield.moz.works/compare/
 
+# Used as a small link to a cited source
+compare-shared-source = මූලාශ්‍රය

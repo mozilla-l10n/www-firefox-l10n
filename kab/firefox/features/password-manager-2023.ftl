@@ -8,3 +8,4 @@
 # HTML page title
 password-manager-free-password-manager = Amsefrak n wawalen n uεeddi ilelli
 password-manager-import-passwords = Kter awalen n uɛeddi
+password-manager-password-security-alerts = Ilɣa n tɣellist n wawalen n uɛeddi
