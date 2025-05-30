@@ -17,6 +17,7 @@ cookie-settings-turn-on-javascript = Ttxil-kâ‹…m rmed JavaScript i uleqqem n yiÉ
 
 ## Necessary cookies section
 
+cookie-settings-category-necessary-heading = Illaq
 cookie-settings-category-necessary-what-are-subheading = Acu n yinagan n tuqqna i iwulmen?
 
 ## Preference cookies section

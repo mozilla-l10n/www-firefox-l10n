@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/sync/
 
+# page title
+features-sync-firefox-browser-sync = Amtawi n yiminig n { -brand-name-firefox }
 # HTML page description
 features-sync-access-your-firefox-bookmarks = Kcem ɣer ticraḍ-ik·im n yisebtar n { -brand-name-firefox }, d wawalen n uɛeddi, rnu teldiḍ iccaren d ugar n waya ɣef yal ibenk.
 features-sync-send-tabs-from-one-device-to-another = Azen iccaren seg yibenk ɣer wayeḍ

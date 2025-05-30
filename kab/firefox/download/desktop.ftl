@@ -69,6 +69,7 @@ firefox-desktop-download-adjust-search-bar = Iɣewwaṛen n uqeεed n ufeggag n 
 firefox-desktop-download-change-new-tab = Beddel taneruft tamynut n yiccer
 firefox-desktop-download-make-firefox-your = Err-it d ayla-k·m <strong>{ -brand-name-firefox }</strong>
 firefox-desktop-download-extensions-for-every = Isiɣzaf i wayen i tḥemmleḍ
+firefox-desktop-download-change-up-your = Beddel udem
 firefox-desktop-download-go-from-light = Ṛuḥ seg uskar acaεlal ɣer uskar aberkan almend n lxaṭer-ik·im neɣ n usmenyif, neɣ ssewliwel tiɣawsiwin s usentel udmawan (taynisekt tislit n Unẓar, ahat)
 firefox-desktop-download-tweak-your-settings = Seqɛed iɣewwaren-inek·im
 firefox-desktop-download-theres-no-need = Ulac ayeen teḥwaǧeḍ i uṣeggem. Snifel asebter amaynut n yiccer, afeggag n unadi, ticraḍ n yisebtar d wugar n wayen-nniḍen i usnirem n internet akken i tessarameḍ.
