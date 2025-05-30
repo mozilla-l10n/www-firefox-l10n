@@ -11,7 +11,7 @@
 firefox-new-download-firefox = Nādunïnj { -brand-name-firefox }
 firefox-new-need-help = Huā sa rugûñu’ūnj ñûnj sò’ aj?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 
 # Not-Required

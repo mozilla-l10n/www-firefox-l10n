@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/developer/
+### URL: https://www-dev.springfield.moz.works/channel/desktop/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } është një shfletues i shpejtë si rrufe që ofron mjete zhvilluesish të fjalës së fundit dhe veçoritë më të reja, të tilla mbulim për Rrjetë CSS dhe diagnostikim platformash

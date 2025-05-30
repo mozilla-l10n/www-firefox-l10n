@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/enterprise/
+### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Szerezze be a { -brand-name-firefox(case: "accusative") } vállalata számára az { -brand-name-esr } és gyors kiadásokkal
 firefox-enterprise-get-unmatched-data-protection = Szerezzen páratlan adatvédelmet, és a vállalatának megfelelő kiadási ütemet a { -brand-name-firefox(case: "instrumental") }. Töltse le az { -brand-name-esr }-t és a gyors kiadást.

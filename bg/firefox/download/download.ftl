@@ -13,7 +13,7 @@ firefox-new-download-the-fastest-firefox = Изтеглете най-бързи�
 firefox-new-get-the-latest-firefox = Вземете най-новия четец { -brand-name-firefox }.
 firefox-new-download-in-another-language = Изтеглете на друг език
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } е повече от мрежов четец.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"

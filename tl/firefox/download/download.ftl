@@ -12,7 +12,7 @@ firefox-new-download-firefox = I-Download ang { -brand-name-firefox }
 firefox-new-get-the-latest-firefox = Kunin ang pinakabagong { -brand-name-firefox } browser.
 firefox-new-free-web-browser = Libreng Web Browser
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 firefox-new-firefox-is-more-than-a-browser = Ang { -brand-name-firefox } ay higit pa sa isang browser.
 

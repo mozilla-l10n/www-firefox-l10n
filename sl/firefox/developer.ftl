@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/developer/
+### URL: https://www-dev.springfield.moz.works/channel/desktop/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } je noro hiter brskalnik, ki ponuja najsodobnejša orodja za razvijalce in najnovejše možnosti, kot je podpora za mreže CSS in razhroščevanje ogrodij

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/enterprise/
+### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = { -brand-name-esr } සහ ශ්‍රීඝ්‍ර නිකුතු සමඟින් ඔබගේ ව්‍යාපාරය සඳහා { -brand-name-firefox } ගන්න
 firefox-enterprise-get-unmatched-data-protection = ව්‍යවසාය සඳහා { -brand-name-firefox } සමඟ ඔබට ඔබින නිකුතු අවරෝහය මත අසමසම දත්ත රැකවරණයක් අත්විඳින්න. { -brand-name-esr } සහ ශ්‍රීඝ‍්‍ර නිකුතු බාගන්න.

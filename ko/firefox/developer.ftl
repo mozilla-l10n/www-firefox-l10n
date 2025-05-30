@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/developer/
+### URL: https://www-dev.springfield.moz.works/channel/desktop/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition }은 최첨단 개발자 도구와 CSS Grid 지원 및 프레임 워크 디버깅과 같은 최신 기능을 제공하는 초고속 브라우저입니다.

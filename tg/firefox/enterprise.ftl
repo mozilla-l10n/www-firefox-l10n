@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/enterprise/
+### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Гирифтани «{ -brand-name-firefox }» барои корхонаи худ бо истифода аз «{ -brand-name-esr }» ва нашрҳои мунтазами «Rapid Release»
 firefox-enterprise-enterprise = { -brand-name-enterprise }

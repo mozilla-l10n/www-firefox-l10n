@@ -18,7 +18,7 @@ firefox-new-advanced-install-options = የላቁ የመጫኛ አማራጮች �
 firefox-new-download-in-another-language = በሌላ ቋንቋ ያውርዱ
 firefox-new-need-help = እርዳታ ይፈልጋሉ?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

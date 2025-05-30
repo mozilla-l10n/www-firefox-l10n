@@ -18,7 +18,7 @@ firefox-new-advanced-install-options = ഇനിയും സ്ഥാപിക�
 firefox-new-download-in-another-language = വേറെയൊരു ഭാഷയിൽ ഇറക്കിവയ്ക്കുക
 firefox-new-need-help = സഹായം വേണോ?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ഒരു അന്വേഷിയന്ത്രം മാത്രമല്ല
 firefox-new-download-almost-there = തീരാറായി

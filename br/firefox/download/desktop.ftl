@@ -32,7 +32,7 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Tapit { -brand-name-firefox-browser } evit <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Tapit { -brand-name-firefox-browser } evit <strong>{ -brand-name-ios }</strong>
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/
+## URL: https://www-dev.springfield.moz.works/thanks/
 
 firefox-desktop-download-almost-there = Tost echu!
 firefox-desktop-download-in-another-language = Pellgargañ en ur yezh all pe evit ur reizhiad korvoiñ (OS) all.

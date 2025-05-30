@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/developer/
+### URL: https://www-dev.springfield.moz.works/channel/desktop/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition }不但迅捷如火，还提供最先进的开发者工具，并支持 CSS 网格和调试框架等最新特性

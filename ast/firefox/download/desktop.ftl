@@ -27,6 +27,6 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ¿Tienes entrugues? <a { $attrs }>Sofitu de { -brand-name-mozilla }</a> respuéndete.
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/
+## URL: https://www-dev.springfield.moz.works/thanks/
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ye más qu'un restolador.

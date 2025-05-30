@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/developer/
+### URL: https://www-dev.springfield.moz.works/channel/desktop/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } ha’e kundaha ipya’e añetéva ome’ẽva tembiporu itenondéva mboguatahárape g̃uarã ha tembiapoite ipyahúva CSS renda jokoháramo ha tembiapo kora mopotĩha

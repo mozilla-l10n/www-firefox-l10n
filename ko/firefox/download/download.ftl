@@ -18,7 +18,7 @@ firefox-new-advanced-install-options = 고급 설치 옵션 및 다른 플랫폼
 firefox-new-download-in-another-language = 다른 언어로 다운로드
 firefox-new-need-help = 도움이 필요한가요?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

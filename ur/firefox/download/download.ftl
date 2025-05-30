@@ -18,7 +18,7 @@ firefox-new-advanced-install-options = اعلی درجے کی انسٹال کے 
 firefox-new-download-in-another-language = ایک اور زبان میں ڈائونلوڈ کریں
 firefox-new-need-help = مدد چاہیے؟
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

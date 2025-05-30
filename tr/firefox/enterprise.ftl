@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/enterprise/
+### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = { -brand-name-firefox }'un işletmelere özel { -brand-name-esr } veya Hızlı Sürüm'ünü indirin
 firefox-enterprise-get-unmatched-data-protection = Kurumsal { -brand-name-firefox } sürümleri, eşsiz veri korumasını beklentilerinize uygun sürüm takvimiyle birleştiriyor. { -brand-name-esr } veya Hızlı Sürüm’ü indirin.

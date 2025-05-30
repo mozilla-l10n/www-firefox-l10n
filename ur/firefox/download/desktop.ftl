@@ -86,7 +86,7 @@ firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> 
 firefox-desktop-download-download-the-mobile = اپنے تمام آلات پر  خودکار حفاظت کے لئے { -brand-name-firefox } موبائل براؤزر ڈاونلوڈ کریں.
 firefox-desktop-download-learn-about-the = { -brand-name-firefox } ڈیسک ٹاپ براؤزر کے بارے میں  ذیل میں مزید سیکھن
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/
+## URL: https://www-dev.springfield.moz.works/thanks/
 
 firefox-desktop-download-almost-there = تقریبا وہاں!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

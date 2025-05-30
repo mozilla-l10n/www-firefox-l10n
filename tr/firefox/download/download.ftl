@@ -18,7 +18,7 @@ firefox-new-advanced-install-options = Gelişmiş yükleme seçenekleri ve diğe
 firefox-new-download-in-another-language = Başka bir dilde indir
 firefox-new-need-help = Yardım mı lazım?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

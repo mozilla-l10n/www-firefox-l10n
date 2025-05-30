@@ -11,5 +11,5 @@ firefox-desktop-download-no-shady = Жарнама берушілер үшін �
 firefox-desktop-download-download-options = Жүктеп алу опциялары және басқа тілдер
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } қолдауы
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/
+## URL: https://www-dev.springfield.moz.works/thanks/
 

@@ -17,7 +17,7 @@ firefox-new-advanced-install-options = Instalatze-aukera aurreratuak eta beste p
 firefox-new-download-in-another-language = Deskargatu beste hizkuntza batean
 firefox-new-need-help = Laguntza bila?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

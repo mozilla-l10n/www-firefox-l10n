@@ -12,5 +12,5 @@
 firefox-desktop-download-meta-title = Elŝutu { -brand-name-firefox-browser } el { -brand-name-mozilla }. Rapida, privata kaj senpaga.
 firefox-desktop-download-meta-title-v2 = Elŝutu { -brand-name-firefox } por komputiloj — el { -brand-name-mozilla }
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/
+## URL: https://www-dev.springfield.moz.works/thanks/
 

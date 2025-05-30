@@ -18,7 +18,7 @@ firefox-new-advanced-install-options = Σύνθετες επιλογές εγκ�
 firefox-new-download-in-another-language = Λήψη σε άλλη γλώσσα
 firefox-new-need-help = Χρειάζεστε βοήθεια;
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

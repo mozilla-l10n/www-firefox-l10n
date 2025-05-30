@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/developer/
+### URL: https://www-dev.springfield.moz.works/channel/desktop/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Ongi etorri hemendik aurrera zure nabigatzaile gogokoena izango denera. Eskuratu Web irekirako behar dituzun azken eginbideak, errendimendu bizkorra, eta garapen-tresnak.

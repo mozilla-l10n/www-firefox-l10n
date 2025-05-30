@@ -17,7 +17,7 @@ firefox-new-advanced-install-options = Q'axinäq taq rucha'oj yakoj chuqa' ch'aq
 firefox-new-download-in-another-language = Tiqasäx pa jun chik ch'ab'äl
 firefox-new-need-help = ¿La nawajo' ato'ik?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

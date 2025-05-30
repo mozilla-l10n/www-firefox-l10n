@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/developer/
+### URL: https://www-dev.springfield.moz.works/channel/desktop/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } ແມ່ນບຣາວເຊີທີ່ໄວອັນແຮງກ້າທີ່ໃຫ້ເຄື່ອງມືນັກພັດທະນາທີ່ທັນສະໄໝ ແລະຄຸນສົມບັດຫຼ້າສຸດເຊັ່ນ: ການຮອງຮັບ CSS Grid ແລະການແກ້ບັນຫາກອບ

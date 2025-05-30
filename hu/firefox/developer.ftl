@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/developer/
+### URL: https://www-dev.springfield.moz.works/channel/desktop/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = A { -brand-name-firefox-developer-edition } egy villámgyors böngésző, amely élenjáró fejlesztői eszközöket, és a legfrissebb funkciókat tartalmazza, mint a CSS rács támogatás, és a keretrendszert felismerő hibakeresés

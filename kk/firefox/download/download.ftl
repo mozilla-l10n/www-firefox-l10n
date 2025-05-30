@@ -13,7 +13,7 @@ firefox-new-advanced-install-options = Орнатудың қосымша мүм�
 firefox-new-download-in-another-language = Басқа тілде жүктеп алу
 firefox-new-need-help = Көмек керек пе?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

@@ -17,7 +17,7 @@ firefox-new-advanced-install-options = प्रगत प्रतिष्ठ�
 firefox-new-download-in-another-language = इतर भाषेत डाउनलोड करा
 firefox-new-need-help = मदत पाहिजे?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

@@ -17,7 +17,7 @@ firefox-new-advanced-install-options = বিষদ ইনস্টল অপশ
 firefox-new-download-in-another-language = অন্য ভাষাতে ডাউনলোড করুন
 firefox-new-need-help = সাহায্য প্রয়োজন?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ব্রাউজারের চেয়ে বেশি।
 

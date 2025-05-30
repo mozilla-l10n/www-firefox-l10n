@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/enterprise/
+### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-get-firefox-for-your-enterprise = Náðu í { -brand-name-firefox } fyrir fyrirtækið þitt

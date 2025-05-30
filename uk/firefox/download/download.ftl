@@ -18,7 +18,7 @@ firefox-new-advanced-install-options = Розширені опції встан�
 firefox-new-download-in-another-language = Завантажити іншою мовою
 firefox-new-need-help = Потрібна допомога?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

@@ -133,7 +133,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox }는 자�
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = 질문이 있으십니까? <a { $attrs }>{ -brand-name-mozilla } 도움말</a>을 참고하세요.
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/
+## URL: https://www-dev.springfield.moz.works/thanks/
 
 firefox-desktop-download-almost-there = 거의 다 완료되었습니다!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

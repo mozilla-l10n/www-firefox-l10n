@@ -17,7 +17,7 @@ firefox-new-advanced-install-options = Cuɓe aaftogol dowrowe & tammbordɗe goɗ
 firefox-new-download-in-another-language = Aawto e ɗemngal goɗngal
 firefox-new-need-help = Aɗa sokli ballal?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } diwtii wanngorde
 

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/enterprise/
+### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Installa { -brand-name-firefox } pro tu interprisa con { -brand-name-esr } e actualisation rapide.
 firefox-enterprise-get-unmatched-data-protection = Protection de datos incomparabile al frequentia de promotion apte a tu exigentias con { -brand-name-firefox } pro interprisas.  Discarga { -brand-name-esr } con promotion frequente.

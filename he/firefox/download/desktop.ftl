@@ -85,7 +85,7 @@ firefox-desktop-download-get-firefox-ios = קבלת ה{ -brand-name-firefox-brow
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = שאלות? <a { $attrs }>בתמיכה של { -brand-name-mozilla }</a> יכולים לעזור.
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/
+## URL: https://www-dev.springfield.moz.works/thanks/
 
 firefox-desktop-download-almost-there = כמעט סיימנו!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

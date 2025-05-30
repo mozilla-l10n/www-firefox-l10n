@@ -17,7 +17,7 @@ firefox-new-advanced-install-options = Inpostaçioin de instalaçion e atre piat
 firefox-new-download-in-another-language = Scarega inte 'n atra lengoa
 firefox-new-need-help = Bezeugno d'agiutto?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

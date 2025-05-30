@@ -18,7 +18,7 @@ firefox-new-advanced-install-options = 進階安裝選項及其他平台
 firefox-new-download-in-another-language = 下載其他語言版本
 firefox-new-need-help = 需要幫忙嗎？
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

@@ -23,7 +23,7 @@ firefox-desktop-download-picture-in-picture = Imagine în imagine
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser(case: "definite-article", capitalization: "upper") }
 firefox-desktop-download-get-firefox-android = Obține { -brand-name-firefox-browser } pentru <strong>{ -brand-name-android }</strong>
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/
+## URL: https://www-dev.springfield.moz.works/thanks/
 
 firefox-desktop-download-almost-there = Încă puțin.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

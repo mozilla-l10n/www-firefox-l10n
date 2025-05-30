@@ -18,7 +18,7 @@ firefox-new-advanced-install-options = Advanced instaw options & ither platforms
 firefox-new-download-in-another-language = Doonload in anither leid
 firefox-new-need-help = Needin hauners?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

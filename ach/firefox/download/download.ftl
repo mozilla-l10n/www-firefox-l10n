@@ -15,7 +15,7 @@ firefox-new-free-web-browser = Layeny Kakube me Nono
 firefox-new-download-in-another-language = Gam i leb mukene
 firefox-new-need-help = Imito kony?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

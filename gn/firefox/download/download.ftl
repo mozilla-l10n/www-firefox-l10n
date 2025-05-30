@@ -18,7 +18,7 @@ firefox-new-advanced-install-options = Ñemohenda poravorã hu’ãpotámava ha 
 firefox-new-download-in-another-language = Emboguejy ambue ñe’ẽme
 firefox-new-need-help = ¿Eikotevẽpa pytyvõ?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

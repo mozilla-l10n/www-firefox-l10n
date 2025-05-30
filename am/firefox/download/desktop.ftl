@@ -121,7 +121,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } በራ�
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ጥያቄዎች? <a { $attrs }>{ -brand-name-mozilla } ድጋፍ</a> ያግዝዎታል።
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/
+## URL: https://www-dev.springfield.moz.works/thanks/
 
 firefox-desktop-download-almost-there = ሊያልቅ ነው!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

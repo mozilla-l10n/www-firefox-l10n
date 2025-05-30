@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/enterprise/
+### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-your-data-stays-your-business = ਤੁਹਾਡਾ ਡਾਟਾ ਤੁਹਾਡੇ ਕਾਰੋਬਾਰ ਨਾਲ ਰਹਿੰਦਾ ਹੈ

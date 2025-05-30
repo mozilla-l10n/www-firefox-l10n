@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/enterprise/
+### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Ereko { -brand-name-firefox } ne mba’apohaguasúpe { -brand-name-esr } ha Rapid Release ndive
 firefox-enterprise-get-unmatched-data-protection = Ereko mba’ekuaarã ñemo’ã ijojaha’ỹva mbohekopyahu meme eikotevẽva { -brand-name-firefox } ndive mba’apohaguasúpe g̃uarã. Emboguejy { -brand-name-esr } ha Rapid Release.

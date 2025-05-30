@@ -7,5 +7,5 @@
 
 firefox-desktop-download-bookmarks-manager = Xatchoʻplar menejeri
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/
+## URL: https://www-dev.springfield.moz.works/thanks/
 

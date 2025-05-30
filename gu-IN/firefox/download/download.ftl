@@ -16,7 +16,7 @@ firefox-new-advanced-install-options = અદ્યતન ઇન્સ્ટો�
 firefox-new-download-in-another-language = બીજી ભાષામાં ડાઉનલોડ કરો
 firefox-new-need-help = મદદની જરૂર છે?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } બ્રાઉઝર કરતાં વધુ છે.
 

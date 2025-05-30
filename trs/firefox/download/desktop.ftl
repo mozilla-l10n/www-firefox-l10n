@@ -6,5 +6,5 @@
 ### URL: https://www-dev.springfield.moz.works/download/
 
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/
+## URL: https://www-dev.springfield.moz.works/thanks/
 

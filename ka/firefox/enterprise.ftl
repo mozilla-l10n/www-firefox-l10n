@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/enterprise/
+### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = { -brand-name-firefox } თქვენი დაწესებულებისთვის { -brand-name-esr } ან სწრაფი გამოშვებით
 firefox-enterprise-get-unmatched-data-protection = მიიღეთ მონაცემთა უბადლო დაცვა გამოშვების სასურველი სიხშირით, დაწესებულებისთვის განკუთვნილ { -brand-name-firefox }-ზე. ჩამოტვირთეთ { -brand-name-esr } და სწრაფი გამოშვება.

@@ -17,7 +17,7 @@ firefox-new-advanced-install-options = အဆင့်မြင့် options �
 firefox-new-download-in-another-language = အခြားဘာသာစကားဖြင့်ဆွဲယူပါ။
 firefox-new-need-help = အကူအညီ လိုလား။
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

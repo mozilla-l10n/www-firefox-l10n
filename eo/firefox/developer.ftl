@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/developer/
+### URL: https://www-dev.springfield.moz.works/channel/desktop/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } estas la nekredeble rapida retumilo kiu donas al vi la plej ĵusajn ilojn por programistoj kaj la lastajn trajtojn, kiel subtenon por kradoj CSS kaj sencimigo de substrukturoj

@@ -18,7 +18,7 @@ firefox-new-advanced-install-options = Имконоти иловагӣ баро�
 firefox-new-download-in-another-language = Бо забони дигар боргирӣ намоед
 firefox-new-need-help = Кумак лозим аст?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

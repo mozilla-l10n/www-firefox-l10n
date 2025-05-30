@@ -18,7 +18,7 @@ firefox-new-advanced-install-options = ودھائے انسٹال اختیارا�
 firefox-new-download-in-another-language = ہک ٻئی زبان وچ ڈاؤن لوڈ کرو
 firefox-new-need-help = بھلا مدد دی لوڑ ہے؟
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

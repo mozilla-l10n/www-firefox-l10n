@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/enterprise/
+### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } దింపుకోళ్ళు

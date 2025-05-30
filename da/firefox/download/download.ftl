@@ -18,7 +18,7 @@ firefox-new-advanced-install-options = Andre installationsmuligheder og platform
 firefox-new-download-in-another-language = Hent på et andet sprog
 firefox-new-need-help = Har du brug for hjælp?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

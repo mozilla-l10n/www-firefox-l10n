@@ -13,7 +13,7 @@ firefox-new-free-web-browser = Merdeer web digoust
 firefox-new-download-in-another-language = Pellgargañ en ur yezh all
 firefox-new-need-help = Ezhomm skoazell?
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 firefox-new-download-almost-there = Tost echu!
 firefox-new-windows = { -brand-name-windows }

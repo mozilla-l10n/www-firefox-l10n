@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/developer/
+### URL: https://www-dev.springfield.moz.works/channel/desktop/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } è il browser ultra veloce con funzioni all’avanguardia per lo sviluppo web, supporto alle ultime tecnologie come le griglie CSS ed equipaggiato di un debugger avanzato compatibile con i più diffusi framework.
