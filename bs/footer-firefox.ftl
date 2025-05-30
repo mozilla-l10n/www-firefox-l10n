@@ -4,66 +4,67 @@
 
 # An accessible label used to describe that the role of the element is the
 # primary website navigation.
-footer-landmark-label = 补充
+footer-landmark-label = Dopunski
 
 ## Download links for stable versions of Firefox across multiple platforms.
 
 # Section title
-footer-download = 下载
-footer-download-auto = 下载 { -brand-name-firefox }
+footer-download = Preuzmi
+footer-download-auto = Preuzmite { -brand-name-firefox }
 footer-windows = Windows
 footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
-footer-custom-download = 自定义下载选项
+footer-custom-download = Prilagođene opcije preuzimanja
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
 # Section title
-footer-latest = 最新版本
+footer-latest = Najnovije verzije
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 
 ## Download links for enterprise versions of Firefox.
 
 # Section title
-footer-business = { -brand-name-firefox } 企业版
+footer-business = { -brand-name-firefox } za preduzeća
 footer-enterprise = { -brand-name-enterprise }
 
 ## Links to community groups.
 
 # Section title
-footer-community = 社区
-footer-contribute = 贡献
-footer-developer = 开发者
+footer-community = Zajednica
+footer-contribute = Doprinesite
+footer-developer = Programeri
 
 ## Links to resources
 
 # Section title
-footer-resources = 资源
-footer-compare = 比较
-footer-release-notes = 发行说明
-footer-addons = 附加组件
-footer-blog = 博客
+footer-resources = Resursi
+footer-compare = Uporedite
+footer-release-notes = Napomene o izdanju
+footer-support = Podrška
+footer-addons = Dodaci
+footer-blog = Blog
 
 ## Links to social media
 
 # Section title
-footer-follow-us = 关注我们
+footer-follow-us = Pratite nas
 footer-instagram = Instagram
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
 ## Legal links
 
-footer-websites-privacy-notice = 隐私
-footer-terms-of-use = 使用条款
-footer-websites-cookie-policy = Cookie 政策
-footer-community-participation-guidelines = 社区参与准则
-footer-logo-trademark-licensing = 徽标商标使用许可协议
+footer-websites-privacy-notice = Napomena o privatnosti web stranice
+footer-terms-of-use = Uslovi korištenja
+footer-websites-cookie-policy = Pravila o kolačićima
+footer-community-participation-guidelines = Smjernice za učešće u zajednici
+footer-logo-trademark-licensing = Licenciranje zaštitnog znaka logotipa
 
 ##
 
-footer-language = 语言
+footer-language = Jezik
 footer-firefox = { -brand-name-firefox }

@@ -21,3 +21,5 @@ ui-show-all = Sken akk
 ui-hide-all = Ffer akk
 ui-learn-more = Lmed ugar
 ui-view = Sken
+ui-pause-animation = Seṛǧu amray
+ui-play-animation = Urar amray

@@ -7,6 +7,9 @@
 
 # HTML page title
 firefox-browsers-page-title-v2 = { -brand-name-firefox } za desktop
+# HTML page description
+firefox-browsers-page-desc-v2 = Preuzmite preglednik koji vašu privatnost stavlja na prvo mjesto — nabavite { -brand-name-firefox } za Windows, macOS ili Linux na desktop računaru.
+firefox-browsers-main-heading-v2 = { -brand-name-firefox } za desktop
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Nabavite pretraživač koji vašu privatnost stavlja na prvo mjesto — i <strong>uvijek</strong> jeste
 firefox-browsers-desktop = Desktop

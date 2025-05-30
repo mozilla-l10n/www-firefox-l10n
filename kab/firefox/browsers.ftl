@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.springfield.moz.works/
 
+# HTML page title
+firefox-browsers-page-title-v2 = { -brand-name-firefox } i tnarit
+firefox-browsers-main-heading-v2 = { -brand-name-firefox } i tnarit
 firefox-browsers-desktop = Aselkim
 firefox-browsers-seriously-private-browsing = Tunigt tusligt n tidet. { -brand-name-firefox } yessewḥal s wudem awurman ugar n 2000 n yinedfaṛen srid seg ulqaḍ n telɣut ɣef wayen i txeddmeḍ srid.
 firefox-browsers-download-for-desktop = Sader i uselkim

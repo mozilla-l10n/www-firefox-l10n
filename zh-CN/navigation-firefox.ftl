@@ -8,14 +8,12 @@ navigation-landmark-label = 主要
 
 ## Features
 
-navigation-features = 功能
 
 ## Resources
 
 navigation-resources = 资源
 navigation-close-resources-menu = 关闭资源菜单
 navigation-product = 产品
-navigation-desktop = 桌面版
 navigation-mobile = 移动版
 navigation-release-notes = 发行说明
 navigation-support = 用户支持
