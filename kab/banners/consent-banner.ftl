@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
+consent-banner-heading = All-aneɣ ad nesnerni tirmit-ik⋅im { -brand-name-mozilla }
 consent-banner-settings-link = Iɣewwaren n yinagan n tuqqna
 consent-banner-aria-label = Aɣerrac n yinagan n tuqqna

@@ -18,6 +18,7 @@ newsletter-form-get-firefox-news = Awi isallen ɣef { -brand-name-firefox }
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Qebleɣ akken { -brand-name-mozilla } ad tesseqdec talɣut-inu akken tella <a href="{ $url }">tsertit-a n tbaḍnit</a>
 newsletter-form-we-will-only-send-v2 = Ad ak⋅am-n-nazen kan talɣet yeqqnen ɣer { -brand-name-mozilla }. Tzemreḍ ad tesfesxeḍ ajerred melmi i tebɣiḍ.
+newsletter-form-we-will-only-send-firefox-v2 = Ad ak⋅am-n-nazen kan talɣet yeqqnen ɣer { -brand-name-firefox }. Tzemreḍ ad tesfesxeḍ ajerred melmi i tebɣiḍ.
 newsletter-form-if-you-havent-previously = Ma yella ur tsentmeḍ ara yakan ajerred ɣer yizen n telɣutyerzan { -brand-name-mozilla }, ahat yessefk tura. Ma ulac aɣilif, senqed tirawt-inek neɣ imzizdig-inek n yispamen akken ad twaliḍ imayl i ak-d-nuzen.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Kečč
 newsletter-form-get-firefox-tips = Awi-d { -brand-name-firefox } timaheltin, tixbula, isallen d wayen-nniḍen
