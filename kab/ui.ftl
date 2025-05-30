@@ -23,3 +23,5 @@ ui-learn-more = Lmed ugar
 ui-view = Sken
 ui-pause-animation = Seṛǧu amray
 ui-play-animation = Urar amray
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = Adellel

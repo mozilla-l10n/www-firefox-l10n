@@ -23,6 +23,7 @@ download-button-download = Sader
 download-firefox-esr = Sader { -brand-name-firefox-esr }
 download-firefox-esr-32 = Sader { -brand-name-firefox-esr } 32-yibiten
 download-firefox-esr-64 = Sader { -brand-name-firefox-esr } 64-yibiten
+download-a-different-build = Sader-d asefsu nniḍen
 
 ## Linux
 
