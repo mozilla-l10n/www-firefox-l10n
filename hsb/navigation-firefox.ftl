@@ -19,6 +19,12 @@ navigation-desktop = Desktop
 navigation-mobile = Mobilny telefon
 navigation-release-notes = Wersijowe informacije
 navigation-support = Pomoc
+navigation-add-ons = Přidatki
+navigation-learn = Wukńće
+navigation-blog = Blog
+navigation-compare = Přirunać
+navigation-podcast = Podkast
 
 ## Download
 
+navigation-download = Sćahnyć
