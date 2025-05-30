@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/features/eyedropper/
+### URL: https://www-dev.allizom.org/firefox/features/eyedropper/
 
 features-eyedropper-eyedropper-tool = Абзори «Чинандаи ранг»
 features-eyedropper-select-colors-in-firefox = Рангҳоро бо абзори «Чинандаи ранг» тавассути браузери «{ -brand-name-firefox }» интихоб намоед

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/features/picture-in-picture/
+### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
 
 # HTML page title
 features-pip-firefox-picture-in-picture-get-more = Imagine annidate de { -brand-name-firefox }: face altere actiones con videos saltante foras

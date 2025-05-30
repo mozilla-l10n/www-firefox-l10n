@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/download/all/
+### URL: https://www-dev.allizom.org/firefox/all/
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Descargá { -brand-name-firefox } en inglés (US) y en más de 90 otros idiomas

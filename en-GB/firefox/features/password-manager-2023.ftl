@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/features/password-manager
+### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
 password-manager-free-password-manager = Free password manager
@@ -11,7 +11,7 @@ password-manager-free-password-manager = Free password manager
 password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } Password Manager saves all your passwords in one place so you can automatically log in to sites, or retrieve saved passwords.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } securely stores your usernames and passwords for accessing web sites, automatically fills them in for you the next time you visit a web site, and lets you manage your stored logins with its built-in password management feature.
 # Variables:
-#   $fxa (url) = link to https://www.mozilla.org/accounts/
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = With a <a { $fxa }>free { -brand-name-mozilla-account }</a> you can securely synchronise your passwords across all your devices. You can also access all of { -brand-name-mozilla }’s other privacy-respecting products.
 password-manager-password-autofill-for-easy-logins = Password autofill for easy logins
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } can automatically fill in your saved username and password. If you have more than one login for a site, you can just select the account you want and we’ll take it from there.

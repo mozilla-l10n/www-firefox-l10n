@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/download/
+### URL: https://www-dev.allizom.org/firefox/new/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -21,14 +21,14 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Браузери «{ -brand-name-firefox }» дар нашри боз ҳам навтар дастрас аст. <a { $update_url }>Ба версияи охирин навсозӣ кунед</a>
 firefox-desktop-download-get-the-browser = Браузереро боргирӣ намоед, ки чизҳои муҳими шуморо муҳофизат мекунад
 firefox-desktop-download-fast-reliable-private = Тезкор, боэътимод ва хусусӣ — барои оромии дил дар реҷаи онлайн.
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Ягон сиёсати махфияти сояандоз ё роҳҳои пуштибонии таблиғгарон вуҷуд надорад. Танҳо як браузери барқрафтор, ки шуморо фурӯхта наметавонад.
 firefox-desktop-download-download-options = Имконоти боргирӣ ва забонҳои дигар
 firefox-desktop-download-browser-support = Дастгирии «{ -brand-name-firefox-browser }»
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do-v2 = Аз фаъолияти дӯстдошта дар Интернет ҳаловат баред.<br> Браузери «{ -brand-name-firefox-browser }» муҳофизати шуморо<strong>таъмин мекунад</strong>.
-# Obsolete string
-firefox-desktop-download-do-what-you-do = Аз фаъолияти дӯстдошта дар Интернет ҳаловат баред.<br> Браузери «{ -brand-name-firefox-browser }» шуморо назорат <strong>намекунад</strong>.
+firefox-desktop-download-do-what-you-do-v2 = Аз фаъолияти дӯстдошта дар Интернет ҳаловат баред.<br> { -brand-name-firefox-browser } муҳофизати шуморо <strong>таъмин мекунад</strong>.
+# Obsolete string (expires: 2025-04-17)
+firefox-desktop-download-do-what-you-do = Аз фаъолияти дӯстдошта дар Интернет ҳаловат баред.<br> { -brand-name-firefox-browser } шуморо назорат <strong>намекунад</strong>.
 firefox-desktop-download-we-block-the-ad = Мо васоити пайгирии рекламавиро манъ мекунем. Шумо аз Интернети тезтар истифода мебаред.
 firefox-desktop-download-ads-are-distracting = Маводҳои рекламавӣ халал мерасонанд ва кушоиши саҳифаҳои сомонаҳоро суст мекунанд, ҳангоме ки васоити пайгирии рекламавӣ ҳар як ҳаракати шуморо дар онлайн назорат мекунанд. Браузери «{ -brand-name-firefox-browser }» аксари васоити пайгириро ба таври худкор манъ мекунад, бинобар ин ягон кофтуков дар танзимоти амнияти шумо лозим нест.
 firefox-desktop-download-see-your-report = Гузоришро дар бораи муҳофизати худ аз назар гузаронед
@@ -62,7 +62,7 @@ firefox-desktop-download-curated-content-on = Муҳтаворо дар вара
 firefox-desktop-download-share-links = Пайвандҳоро мубодила намоед
 firefox-desktop-download-protect-your-privacy = Махфияти худро муҳофизат намоед
 firefox-desktop-download-third-party-cookie = Кукиҳои тарафҳои сеюм манъ карда мешаванд
-firefox-desktop-download-fingerprinter-blocking = Хонандаи нақши ангуштон манъ карда мешаванд
+firefox-desktop-download-fingerprinter-blocking = Хонандаи нақши ангуштон манъ карда мешавад
 firefox-desktop-download-cryptominer-blocking = Криптомайнерҳо манъ карда мешаванд
 firefox-desktop-download-private-browsing-mode = Реҷаи «Тамошобинии хусусӣ»
 firefox-desktop-download-individual-protections-report = Гузоришҳои муҳофизати инфиродӣ
@@ -116,9 +116,9 @@ firefox-desktop-download-firefox-was-created = Браузери «{ -brand-name-
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Ҳангоме, ки Интернет афзоиш ва тағйир меёбад, браузери «{ -brand-name-firefox }» доим ба ҳуқуқҳои махфияти шумо диққати худро мутамарказ мекунад — ин ҳамеша кори мо буд. Маълумоти бештар дар бораи таҷрибаи кории мо бо маълумот дар <a { $attrs }>Огоҳномаи махфияти мо</a> дастрас аст.
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Ҳангоме ки фазои Интернет афзоиш ва тағйир меёбад, браузери «{ -brand-name-firefox }» ба ҳуқуқи шумо дар махфияти шахсӣ бардавом диққат медиҳад  — мо онро ҳамчун <a { $attrs }>Ваъдаи ҳафзи маълумоти шахсӣ</a> меномем: Маълумотро кам ҷамъ мекунем. Дар вазъи бехатар нигоҳ медорем. Ягон сир надорем. Маълумоти шумо, фаъолияти шумо дар интернет, ҳаёти шумо дар онлайн ба воситаи браузери «{ -brand-name-firefox }» муҳофизат карда мешавад.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
@@ -133,7 +133,7 @@ firefox-desktop-download-firefox-automatically = Браузери «{ -brand-nam
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Савол дошта бошед? <a { $attrs }>Хадамоти дастгирии «{ -brand-name-mozilla }» </a> ба саволҳои шумо ҷавоб медиҳад.
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/
+## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Қариб тайёр аст!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -155,11 +155,11 @@ firefox-desktop-download-if-you-see-a-prompt = Агар шумо огоҳиер�
 firefox-desktop-download-visit-support-for-more = Барои тафсилоти бештар ба сомонаи дастгирӣ ворид шавед
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.firefox.com/download/all/
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Боргирии барнома бояд ба таври худкор оғоз карда шавад. Оғоз карда нашуд? <a id="{ $id }" href="{ $fallback_url }">Кӯшиш кунед, ки барномаро аз нав боргирӣ намоед.</a>
 firefox-new-firefox-is-more-than-a-browser = Браузери «{ -brand-name-firefox }» — зиёда аз браузер мебошад.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Боргирии шумо қатъ шуд. Аммо ҳеҷ чиз гум нашудааст.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/all/
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Низоми шумо метавонад ба талаботи «{ -brand-name-firefox }» ҷавобгӯ набошад, аммо шумо метавонед яке аз <a href="{ $url }">ин версияҳоро</a> кӯшиш кунед.

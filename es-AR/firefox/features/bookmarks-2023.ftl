@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/features/bookmarks/
+### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # page title
 bookmark-manager-bookmark-manager = Administrador de marcadores
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Organizá tus marcadores con carpetas y etiquetas.
 # Variables:
-#   $sync (url) - link to https://www.firefox.com/features/sync/
+#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = Los marcadores son enlaces que guardás en el navegador para poder volver a tus lugares favoritos de la web de forma rápida y sencilla. { -brand-name-firefox } incluye un útil administrador de marcadores para que podás organizar, buscar, actualizar y <a { $sync }>sincronizar todos los enlaces guardados en todos tus dispositivos</a>.
 bookmark-manager-organize-your-boomarks-into = Organizá tus marcadores en carpetas en las que se pueden realizar búsquedas
 bookmark-manager-collect-your-bookmarks-in-folders = Recolectá tus marcadores en carpetas y etiquetalos con más detalles. También podés ordenar sus marcadores para encontrar rápidamente los que necesités.

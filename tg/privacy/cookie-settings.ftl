@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
+### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = Танзимоти кукиҳо
 cookie-settings-breadcrumb-link = Саҳифаи қаблӣ
@@ -13,6 +13,7 @@ cookie-settings-save-changes = Нигоҳ доштани тағйирот
 cookie-settings-your-cookie-settings-have = Танзимоти кукиҳои шумо навсозӣ карда шудаанд.
 cookie-settings-i-agree = Ман розӣ ҳастам
 cookie-settings-i-do-not-agree = Ман розӣ нестам
+cookie-settings-turn-on-javascript = Лутфан «JavaScript»-ро фаъол созед, то тавонед танзимоти кукиҳои худро навсозӣ кунед.
 
 ## Necessary cookies section
 

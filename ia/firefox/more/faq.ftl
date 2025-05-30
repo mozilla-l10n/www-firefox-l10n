@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/more/faq/
+### URL: https://www-dev.allizom.org/firefox/faq/
 
 # HTML page title
 firefox-faq = Folio a questiones (FAQ) sur { -brand-name-firefox }

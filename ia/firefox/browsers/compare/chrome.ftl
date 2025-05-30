@@ -3,15 +3,15 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/compare/chrome/
+### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } contra Google Chrome
 # HTML page description
 compare-chome-read-our-comparison = Lege nostre comparation del navigatores { -brand-name-firefox } e Chrome re functiones, confidentialitate, e facilitate de uso.
 # Variables:
-# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
-# $adblocker (url) - link to https://www.firefox.com/features/adblocker/
+# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
+# $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
 compare-chrome-firefoxs-default-privacy-settings = Le parametros de confidentialitate predefinite de { -brand-name-firefox } es multo plus forte que illos de Chrome – e nos ha altere functiones pro impedir que sitos web te tracia, como <a { $fingerprint }>le blocage de dactylogrammas</a>, e tu selection de additivos pro <a { $adblocker }>blocar le publicitate</a>.
 compare-chrome-we-block-trackers-by-default = Nos bloca le traciatores per predefinition. Chrome non lo face.
 compare-chrome-in-fact-by-default-chrome-monitors = De facto, Chrome survelia per predefinition le sitos web que tu visita e lo que tu face, de maniera que illo pote identificar le “themas publicitari” pro inviar te annuncios plus personalisate. Tu pote blocar tres themas, ma tu non pote impedir que illes identifica altere themas publicitari pro te.

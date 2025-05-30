@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/default/
+### URL: https://www-dev.allizom.org/firefox/set-as-default/
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = Gjer { -brand-name-firefox } til din standardnettlesar

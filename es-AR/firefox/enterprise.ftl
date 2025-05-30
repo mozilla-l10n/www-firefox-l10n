@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/enterprise/
+### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Obtené { -brand-name-firefox } para tu empresa con { -brand-name-esr } y Rapid Release
 firefox-enterprise-get-unmatched-data-protection = Obtenga una protección de datos sin igual en la cadencia de lanzamiento que te conviene con { -brand-name-firefox } para empresas. Descargar { -brand-name-esr } y Rapid Release.
@@ -42,5 +42,5 @@ firefox-enterprise-sample-plist-for-configuration = Muestra <a href="{ $url }"> 
 firefox-enterprise-pkg-installer = Instalador PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
-#   $firefox_all (url) - link to https://www.firefox.com/download/all/
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = Descargá { -brand-name-firefox-esr } o Rapid Release para <a href="{ $firefox_all }"> otro idioma o plataforma. </a>

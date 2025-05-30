@@ -14,6 +14,8 @@ newsletter-form-select-country-or-region = Vel land eller region
 newsletter-form-select-language = Vel språk
 newsletter-form-your-email-here = DI EPOSTADRESSE HER
 newsletter-form-get-firefox-news = Få nyheiter om { -brand-name-firefox }
+newsletter-form-join-the-community = Ver med i fellesskapet
+newsletter-form-sign-up-to-receive = Registrer deg for å få månadlege oppdateringar frå { -brand-name-firefox } og internettrendar som formar livet ditt på nettet.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Eg godkjenner at { -brand-name-mozilla } handterer informasjon om meg som forklart i denne <a href="{ $url }">personvernernpraksisen</a>
@@ -22,13 +24,17 @@ newsletter-form-we-will-only-send-firefox-v2 = Vi vil berre sende deg { -brand-n
 newsletter-form-if-you-havent-previously = Om du ikkje tidlegare har stadfesta eit abonnement på eit { -brand-name-mozilla }-relatert nyheitsbrev, må du kanskje gjere det no. Sjå etter ein e-post frå oss i innboksen din eller i søppelpostfilteret ditt.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + deg
 newsletter-form-get-firefox-tips = Få { -brand-name-firefox }-tips, triks, nyheiter og mykje meir
+newsletter-form-get-mozilla-updates = Få { -brand-name-mozilla }-oppdateringar
 newsletter-form-available-languages = Tilgjengelege språk
 newsletter-form-select-country = Vel land
 newsletter-form-sign-me-up = Abonner
 newsletter-form-sign-up-now = Registrer deg no
 newsletter-form-thanks = Takk!
+newsletter-form-leave-this-field-empty = La dette feltet vere tomt.
 newsletter-form-yes = Ja
 newsletter-form-no = Nei
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Påmeldingsskjema for nyheitsbrev
 multi-newsletter-form-checkboxes-legend = Eg ønskjer informasjon om:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

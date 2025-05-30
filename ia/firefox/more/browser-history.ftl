@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/more/browser-history/
+### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = Le historia de navigatores: luctos de poter epic que nos ha apportate le navigatores moderne
 browser-history-the-browser-wars-underdogs-giants = Le guerras de navigatores, le micres contra le gigantes, e momentos que ha cambiate le mundo. Discoperi le historia del navigator del web.
@@ -53,3 +53,4 @@ browser-history-in-the-future-the = In le futuro, le web probabilemente se dimit
 browser-history-in-the-future-the-v2 = -- In le futuro, le web probabilemente se dimittera de su radices de hypertexto pro devenir un vaste mar de experientias interactive. Le realitate virtual esseva sur le horizonte pro decades (al minus depost le publication de Lawnmower Man in 1992 e le Nintendo Virtual Boy in 1995), ma le web pote al fin apportar lo al massas. { -brand-name-firefox } ora ha le supporto al WebVR e A-Frame, que permitte al disveloppatores de rapidemente e facilemente construer sitos web de realitate virtual. Le major parte del moderne apparatos mobile supporta WebVR, e pote facilemente esser usate como bonettos con simple cassas de carton. Un realitate virtual 3D web, como illo que imaginava per scientia fiction le autor Neal Stephenson, pote esser justo detra le angulo. Un realitate virtual 3D web, como illo que imaginava per scientia fiction le autor Neal Stephenson, pote esser justo detra le angulo.
 browser-history-whatever-the-future = Qualcunque sia le futuro del web, { -brand-name-mozilla } e { -brand-name-firefox } essera al disposition del usatores, assecurante que illes ha potente applicationes pro experimentar le web e tote lo que illo ha a offerer. Le web es pro totes, e totes deberea haber le controlo de lor experientia in linea. Ecce proque nos include in { -brand-name-firefox } instrumentos pro proteger le vita private del usator e nos non vende jammais datos del usator a interprisas de publicitate.
 browser-history-resources = Ressources
+browser-history-take-control-of = Prende controlo de tu navigator.

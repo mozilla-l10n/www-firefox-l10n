@@ -7,7 +7,7 @@
 moz-account-promo-title = Un inicio de sesión. <br> <span { $class }>Todo</span> { -brand-name-mozilla }.
 # Variables
 #   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/accounts/
+#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
 moz-account-already-have-v2 = ¿Ya tenés una cuenta? <a { $sign_in_url }>Iniciá sesión</a> o <a { $learn_more_url }>conocé más</a> sobre como unirte a { -brand-name-mozilla }
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }

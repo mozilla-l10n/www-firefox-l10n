@@ -3,14 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/features/bookmarks/
+### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # page title
 bookmark-manager-bookmark-manager = Bokmerkehandsamar
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Organiser bokmerka dine med mapper og etikettar.
 # Variables:
-#   $sync (url) - link to https://www.firefox.com/features/sync/
+#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = Bokmerke er lenker du lagrar i nettlesaren din slik at du raskt og enkelt kan kome tilbake til favorittnettstadane dine på nettet. { -brand-name-firefox } inneheld ein praktisk bokmerkehandsamar slik at du kan organisere, søke, oppdatere og <a { $sync }>synkronisere alle lagra lenker på alle einingane dine</a>.
 bookmark-manager-organize-your-boomarks-into = Organiser bokmerka dine i søkbare mapper
 bookmark-manager-collect-your-bookmarks-in-folders = Samle bokmerka dine i mapper og merk dei med meir informasjon. Du kan sortere bokmerka dine for å raskt finne dei du treng.

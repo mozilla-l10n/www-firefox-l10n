@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
+### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Fingerprinting is a type of online tracking that’s more invasive than ordinary cookie-based tracking — that’s why { -brand-name-firefox-browser } blocks it.
@@ -27,5 +27,5 @@ features-fingerprinting-the-practice-of = Bruken av fingerprinting gjer at du ka
 features-fingerprinting-the-latest-firefox = Siste versjon av nettlesaren { -brand-name-firefox } beskyttar deg mot fingeravtrykk ved å blokkere førespurnadar frå tredje part til føretag som er kjende for å delta i fingeravtrykk-identifisering. Vi har arbeidd hardt for å aktivere dette personvernet utan å øydeleggje nettstadane du likar å besøkje. (Les meir her om du vil ha dei <a { $url_details }>tekniske detaljane</a>.)
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = Og det er ikkje ei gøymd innstilling du må grave etter for å finne. I den siste { -brand-name-firefox }-nettlesaren er blokkering av fingeravtrykksporarar standard. Besøk <a { $url_protections }>tryggingsoversikta</a> di for å sjå korleis du vert spora bak kulissene, og korleis { -brand-name-firefox } hindrar det.
-# $url_download (string) - link to https://www.firefox.com/download/
+# $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = Du ville sannsynlegvis ikkje sette pris på at nokon skulle spore bevegelsane dine i det verkelege livet. Det finst ingen grunn til å godta det på nettet. Om du ikkje allereie har { -brand-name-firefox }, <a { $url_download }>last ned og beskytt deg sjølv</a> frå digitale fingeravtrykk.

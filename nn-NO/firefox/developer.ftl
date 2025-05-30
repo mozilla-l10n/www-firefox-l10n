@@ -3,7 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/developer/
+### URL: https://www-dev.allizom.org/firefox/developer/
+
+
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } er den lynraske nettlesaren som tilbyr avanserte utviklarverktøy og nyaste funksjonar som støtte for CSS-rutenett og feilsøking (debugging) av framework
@@ -64,7 +67,29 @@ firefox-developer-fonts-panel = Skrift-panel
 firefox-developer-the-new-fonts-panel = Det nye skrift-panelet i { -brand-name-firefox-devtools } gjev utviklarar rask tilgang til all informasjonen dei treng om skrifttypar som er nytta i eit element. Det inneheld også verdifull informasjon som skrift-kjelde, vekt, stil og meir.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } sender automatisk tilbakemeldingar til { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Last ned { -brand-name-firefox }-nettlesaren som er laga for utviklarar
+firefox-developer-welcome-to-firefox-developer-edition = Velkomen til { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = nettlesaren laga for utviklarar
 firefox-developer-all-the-latest-v2 = Alle dei nyaste utviklarverktøya i beta i tillegg til funksjonar som Multi-line Console Editor og WebSocket Inspector.
 firefox-developer-a-separate-profile = Ein <strong>separat profil og bane</strong> slik at du enkelt kan køyre han saman med Release eller { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Innstillingar <strong>tilpassa nettutviklarar</strong>: Nettlesar- og ekstern feilsøking er aktivert som standard, det same er det mørke temaet og knappen Utviklar på verktøylinja.
+firefox-developer-congrats-you-now-have-latest-v2 = Du har no den nyaste versjonen av { -brand-name-firefox-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Vis <a { $attrs }>versjonsnotat</a> (berre på engelsk) for å sjå kva som er nytt.
+firefox-developer-developer-tools-user = Dokumentasjon for utviklarverktøy
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Resursar for utviklarar, av utviklarar
+firefox-developer-mdn-playground = Testområde
+firefox-developer-mdn-write-test-and-share = Skriv, test og del koden din. Eit testområde for å lære, og å dele det fantastiske arbeidet ditt med verda.
+firefox-developer-mdn-blog = { -brand-name-mdn }-blogg
+firefox-developer-mdn-unlock-the-world = Lås opp ei verd av nettutvikling med { -brand-name-mdn }-bloggen – hovudpunktet ditt for ekspertinnsikt, nyaste nettstandardar og kodingstips.
+firefox-developer-mdn-updates = Oppdateringar
+firefox-developer-mdn-the-web-doesnt-have = Internett har ingen endringslogg, men { -brand-name-mdn } kan hjelpe. Du kan tilpasse og filtrere kompatibilitetsendringar basert på nettlesarar eller teknologikategorien du er interessert i, anten det er JavaScript, CSS, osv.
+# Obsolete string (expires 18-04-2025)
+firefox-developer-mdn-is-a = { -brand-name-mdn } er eit samarbeidsprosjekt med open kjeldekode som dokumenterer nettplattformteknologiar, inkludert CSs, HTML, JavaScript og web-API-ar.
+# Obsolete string (expires 18-04-2025)
+firefox-developer-a-structured-guide = Ein strukturert guide til dei grunnleggjande ferdigheitene og praksisane for å vere ein vellykka front-end-utviklar, saman med tilrådde læringsressursar.
+# Obsolete string (expires 18-04-2025)
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
+firefox-developer-support-mdn-and = Støtt { -brand-name-mdn } og tilpass han med samlingar, varsel og område for å teste koden din.
