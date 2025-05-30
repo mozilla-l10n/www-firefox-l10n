@@ -9,7 +9,7 @@
 set-as-default-landing-make-firefox-your-default = Err { -brand-name-firefox } d iminig-ik amezwer
 # HTML page description
 set-as-default-landing-choose-the-browser = Fren iminig ara yemmestnen tudert-ik·im tabaḍnit. Sbadu { -brand-name-firefox } d iminig-ik·im amezwer.
-set-as-default-landing-thanks-for-using-the = Tanemmirt ɣef useqdec n yiminig aneggaru { -brand-name-firefox }. Mi ara tferneḍ { -brand-name-firefox }, tmuddeḍ afus i uzeṭṭa igerrzen i kečč akked wiyaḍ. Tura ɛeddi ɣer usurif i d-itteddun deg ummesten-ik.
+set-as-default-landing-thanks-for-using-the = Tanemmirt ɣef useqdec n yiminig aneggaru { -brand-name-firefox }. Mi ara tferneḍ { -brand-name-firefox }, tmuddeḍ afus i uzeṭṭa igerrzen i kečč akked wiyaḍ. Tura ɛeddi ɣer usurif i d-itteddun deg ummesten-ik·im.
 set-as-default-landing-make-sure-youre-protected = Ḍmen ammesten-ik, yal mi ara teqqneḍ
 set-as-default-landing-you-should-get = Tesɛiḍ awal ara d-tiniḍ ɣef wamek i tebɣiḍ ad tettinigeḍ
 set-as-default-landing-if-you-recently = Ma yella melmi kan i tleqqmeḍ aselkim-ik⋅im, iɣewwaren zemren ad beddlen. Mudd tallalt i internet n baṭel, ilelli yal tikkelt mi ara teqqneḍ s { -brand-name-firefox }.

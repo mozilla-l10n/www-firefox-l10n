@@ -16,21 +16,50 @@ footer-linux = Linux
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
+# Section title
+footer-latest = Апошнія зборкі
+footer-beta = { -brand-name-beta }
+footer-nightly = { -brand-name-nightly }
 
 ## Download links for enterprise versions of Firefox.
 
+# Section title
+footer-business = { -brand-name-firefox } для бізнесу
+footer-enterprise = { -brand-name-enterprise }
 
 ## Links to community groups.
 
+# Section title
+footer-community = Супольнасць
+footer-contribute = Прыняць удзел
+footer-developer = Распрацоўка
 
 ## Links to resources
 
+# Section title
+footer-resources = Рэсурсы
+footer-compare = Параўнаць
+footer-release-notes = Заўвагі пры выпуску
+footer-support = Падтрымка
+footer-addons = Дадаткі
+footer-blog = Блог
 
 ## Links to social media
 
+# Section title
+footer-follow-us = Падпісацца
+footer-instagram = Instagram
+footer-youtube = YouTube
+footer-tiktok = TikTok
 
 ## Legal links
 
+footer-websites-privacy-notice = Паведамленні аб прыватнасці сайта
+footer-terms-of-use = Умовы выкарыстання
+footer-websites-cookie-policy = Палітыка выкарыстання кукі
+footer-community-participation-guidelines = Правілы ўдзелу ў супольнасці
 
 ##
 
+footer-language = Мова
+footer-firefox = { -brand-name-firefox }
