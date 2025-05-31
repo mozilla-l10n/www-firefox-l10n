@@ -25,3 +25,6 @@ mobile-ios-add-firefox-across-v2 = הוסיפו את { -brand-name-firefox } ב�
 mobile-ios-get-to-your-go-to = הגיעו למקומות המועדפים עליכם מהר יותר ב־{ -brand-name-iphone } וב־{ -brand-name-ipad } שלכם.
 mobile-ios-see-your-open-tabs = ראו את הלשוניות הפתוחות שלכם, חיפושים קודמים ואתרים מועדפים, הכל במקום אחד עם { -brand-name-firefox-browser } עבור { -brand-name-ios }.
 mobile-ios-own-your-home = מסך הבית שלכם
+mobile-ios-get-to-the-parts = גשו מהר יותר לחלקים באינטרנט שאכפת לכם מהם. בחרו לראות את כל הלשוניות הפתוחות, החיפושים האחרונים, הסימניות והאתרים המועדפים שלכם, הכל במקום אחד.
+mobile-ios-find-it-all = למצוא יותר מהר
+mobile-ios-get-search-suggestions = קבלו הצעות חיפוש בסרגל החיפוש וגשו במהירות לאתרים שאתם מבקרים בהם הכי הרבה. הקלידו את שאלת החיפוש שלכם וקבלו הצעות לתוצאות ותוצאות שחיפשתם בעבר במנועי החיפוש המועדפים עליכם.

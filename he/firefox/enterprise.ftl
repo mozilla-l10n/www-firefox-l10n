@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+firefox-enterprise-get-firefox-for-your-enterprise-with = קבלו את { -brand-name-firefox } לארגון שלכם עם { -brand-name-esr } ו־Rapid Release
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-get-firefox-for-your-enterprise = קבלת { -brand-name-firefox } לארגון שלך
 firefox-enterprise-enterprise-downloads = הורדות ל־{ -brand-name-enterprise }
