@@ -7,6 +7,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = Wobglědowaki pśirownaś
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } za Desktop
 sub-navigation-release-notes = Wersijowe informacije
+sub-navigation-release-channels = Wózjawjeńske kanale
 sub-navigation-desktop = Desktop
 sub-navigation-mobile = Mobilny telefon
 sub-navigation-android = { -brand-name-android }

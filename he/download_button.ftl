@@ -41,3 +41,7 @@ download-button-linux-64-v2 = הורדה עבור Linux‏ 64 סיביות
 download-button-using-debian = משתמשים ב־Debian, ‏Ubuntu או כל הפצה מבוססת Debian?<br> באפשרותכם להגדיר את <a { $attrs }>מאגר ה־APT שלנו במקום</a>.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = הורדה מ־Microsoft
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = שתפו כיצד גיליתם את { -brand-name-firefox } ושאתם משתמשים בו, עם שותפי טכנולוגיית השיווק של { -brand-name-mozilla }. נתונים אלה לעולם לא נמכרים או משמשים להצגת פרסומות. <a { $attrs }>כיצד אנו משתמשים בנתונים</a>.

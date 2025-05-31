@@ -5,3 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/compare/chrome/
 
+# Page title
+compare-chrome-firefox-vs-google-chrome = ‏{ -brand-name-firefox } לעומת Google Chrome
+# HTML page description
+compare-chome-read-our-comparison = קריאת ההשוואה שלנו בין הדפדפנים { -brand-name-firefox } ו־Chrome בתכונות, פרטיות וקלות שימוש.
