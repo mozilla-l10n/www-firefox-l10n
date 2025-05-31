@@ -18,6 +18,9 @@ installer-help-action-choose = נא לבחור את ההורדה הרצויה ל
 installer-help-firefox-release-title = { -brand-name-firefox-browser(case: "a") }
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = בחינת התכונות בגרסה שעומדת לצאת, עם בניית הקדם הפצה היציבה ביותר.
+installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
+installer-help-firefox-developer-desc = לבנות, לבדוק, להתפתח ועוד, עם הדפדפן היחיד שנבנה רק עבור מפתחים.
+installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = הציצו בדפדפן הדור הבא שלנו, ועזרו לנו להפוך אותו לדפדפן הטוב ביותר שיש.
 installer-help-need-help = זקוקים לעזרה בהתקנה?
 # Variables:

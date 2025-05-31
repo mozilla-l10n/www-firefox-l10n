@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
+best-browser-find-your-best-browser = מצאו את הדפדפן הטוב ביותר עבורכם למהירות, פרטיות ואבטחה.
+best-browser-so-many-browser-options = כל כך הרבה דפדפנים לבחור מהם, אבל יש רק אחת שמתאימה ביותר לצרכים שלכם. הדפדפן הטוב ביותר עבורכם צריך להציע גם מהירות וגם הגנה על פרטיות.
 best-browser-privacy-speed-and-security = פרטיות, מהירות ואבטחה.
 best-browser-how-to-choose-the-best = כיצד לבחור את הדפדפן הטוב ביותר עבורכם.
 best-browser-the-internet-has-become = האינטרנט הפך להיות חיוני כמו חשמל ומים זורמים, ולכן בחירת הדפדפן הטוב ביותר עבורכם חשובה מתמיד. האינטרנט הוא משרד שני, מורה ולפעמים יועץ רפואי, גם אם הרופא שלכם בפועל יעדיף שלא תחפשו את הסימפטומים שלכם באינטרנט.
