@@ -21,6 +21,9 @@ navigation-release-notes = Versjonsnotat
 navigation-support = Brukarstøtte
 navigation-add-ons = Tillegg
 navigation-blog = Blogg
+navigation-compare = Samanlikn
+navigation-podcast = Podkast
 
 ## Download
 
+navigation-download = Last ned
