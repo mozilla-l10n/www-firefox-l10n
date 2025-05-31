@@ -20,6 +20,7 @@ navigation-mobile = Mobil
 navigation-release-notes = Versjonsnotat
 navigation-support = Brukarstøtte
 navigation-add-ons = Tillegg
+navigation-blog = Blogg
 
 ## Download
 
