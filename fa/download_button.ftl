@@ -33,3 +33,11 @@ download-a-different-build = دریافت ساختی متفاوت
 
 ## Linux
 
+download-button-linux-32-v2 = دریافت برای گنو/لینوکس ۳۲بیت
+download-button-linux-64-v2 = دریافت برای گنو/لینوکس ۶۴بیت
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = آیا از دبیان، اوبونتو و یا دیگر توزیع‌های مبتنی بر دبیان استفاده می‌کنید؟<br>می‌توانید <a { $attrs }>مخزن APT</a>ما را به‌کار برید.
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = از مایکروسافت بگیرید
