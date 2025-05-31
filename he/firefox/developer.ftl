@@ -7,6 +7,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } היא דפדפן מהיר בטירוף שמציע כלי פיתוח חדשניים לצד תמיכה ב־CSS Grid ובניפוי שגיאות בסביבות הרצה
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = ברוך בואך לדפדפן המועדף החדש שלך. כל התכונות, הביצועים המהירים וכלי הפיתוח שנדרשים לך כדי לפתח לאינטרנט החופשי כבר נמצאים בהישג ידך.
 firefox-developer-speak-up = להרים את הקול
 firefox-developer-feedback-makes-us = משוב מסייע לנו להשתפר. נשמע לשמוע ממך איך נוכל לשפר את הדפדפן ואת כלי הפיתוח.

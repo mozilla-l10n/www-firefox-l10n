@@ -12,6 +12,7 @@ mobile-focus-firefox-focus-is-your-dedicated-v2 = ‏{ -brand-name-firefox-focus
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = פשוט גלישה פרטית בנייד
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } הוא דפדפן הפרטיות הייעודי עם הגנת מעקב אוטומטית. בעזרת { -brand-name-focus }, הדפים שלכם נטענים מהר יותר והנתונים שלכם נשארים פרטיים.
+mobile-focus-firefox-focus-is-available = ‏{ -brand-name-firefox-focus } זמין הן עבור מכשירי { -brand-name-ios } והן עבור מכשירי { -brand-name-android }.
 mobile-focus-get-firefox-focus = קבלת { -brand-name-firefox-focus }
 mobile-focus-scan-the-qr-code-to-get-started = יש לסרוק את קוד ה־QR כדי להתחיל
 mobile-focus-scan-alt-text = סרקו את קוד ה־QR כדי לקבל את { -brand-name-firefox-focus }
