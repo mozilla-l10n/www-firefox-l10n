@@ -9,6 +9,7 @@
 # HTML page title
 
 browsers-chromebook-get-firefox-browser = קבלת { -brand-name-firefox-browser(case: "a") } עבור { -brand-name-chromebook }
+browsers-chromebook-so-youve-got = אז יש לך { -brand-name-chromebook } - עכשיו הגיע הזמן להשיג את { -brand-name-firefox-browser } העצמאי והפרטי באופן אוטומטי כדי להגן על הנתונים האישיים שלך.
 browsers-chromebook-browsers-chromebook-get-firefox-for = קבלת { -brand-name-firefox } עבור { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = קבלת { -brand-name-firefox } למחשבים שולחניים עבור { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = ‏*{ -brand-name-chromebook } מבוסס x86 המריץ { -brand-name-chromeos } 80 ומעלה
@@ -17,7 +18,9 @@ browsers-chromebook-dropdown-copy = קבלת { -brand-name-firefox } עבור { 
 browsers-chromebook-why-get-firefox = למה כדאי להשתמש ב־<span>{ -brand-name-firefox }</span> ב־{ -brand-name-chromebook }?
 browsers-chromebook-while-a-chromebook = בעוד שב־{ -brand-name-chromebook } כבר מותקן { -brand-name-chrome }, הורדה ושימוש ב־{ -brand-name-firefox } כדפדפן העיקרי שלך מספקים לך מספר יתרונות:
 browsers-chromebook-alwayson-tracking-protection = הגנה מפני מעקב מופעלת תמיד: כברירת מחדל, { -brand-name-firefox } מריץ הגנת מעקב מתקדמת (ETP) כדי להגן על הנתונים האישיים שלך מפני רכיבי מעקב מוכרים של פרסומות, רכיבי מעקב של רשתות חברתיות ותסריטי כריית מטבעות העוקבים אחריך ברשת.
+browsers-chromebook-supporting-independent-technology = תמיכה בטכנולוגיה עצמאית: מכיוון שרוב הדפדפנים העיקריים פועלים כעת על { -brand-name-chromium }, יש פחות אפשרויות שלא מוזנות למכונת ה־Big Tech. ‏{ -brand-name-firefox } מגובה על־ידי עמותה ללא מטרות רווח ומקדיש את עצמו לתיקון המרשתת. השימוש ב־{ -brand-name-firefox } הופך אתכם לחלק מזה.
 browsers-chromebook-is-it-hard = האם קשה להתקין את { -brand-name-firefox } על { -brand-name-chromebook }?
+browsers-chromebook-we-wish-it = היינו רוצים שזה יהיה יותר פשוט, אבל ה־{ -brand-name-chromebook } שלכם יעדיף להשאיר אתכם במערכת האקולוגית של { -brand-name-google-play }. עם זאת, אנחנו חושבים ששווה את המאמץ להתקין את דפדפן ה־{ -brand-name-firefox } ב־{ -brand-name-chromebook } שלכם - ויש לנו משאבים שיעזרו לכם אם תזדקקו להם. ישנן שתי דרכים להתקין את { -brand-name-firefox } במכשיר שלכם.
 browsers-chromebook-install-firefox-from = התקנת { -brand-name-firefox } מחנות { -brand-name-google-play }: בגרסאות חדשות יותר של { -brand-name-chromeos } (ב־{ -brand-name-chromebook } מבוסס x86 המריץ { -brand-name-chromeos } 80 ומעלה), יש לך אפשרות להתקין את היישומון של { -brand-name-firefox } עבור { -brand-name-android }. יישומון זה פותח עבור מכשירים ניידים.
 
 # Variables:
