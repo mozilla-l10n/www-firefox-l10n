@@ -59,7 +59,12 @@ footer-tiktok = TikTok
 ## Legal links
 
 footer-websites-privacy-notice = Ñanduti rogue marandu’i ñemigua
+footer-terms-of-use = Jeporurã reko
+footer-websites-cookie-policy = Kookie Porureko
+footer-community-participation-guidelines = Mba’éichapa eikekuaa tekohápe
+footer-logo-trademark-licensing = Marca registrada ra’ãnga’i ñemoneĩ
 
 ##
 
+footer-language = Ñe’ẽ
 footer-firefox = { -brand-name-firefox }

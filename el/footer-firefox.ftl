@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+# An accessible label used to describe that the role of the element is the
+# primary website navigation.
+footer-landmark-label = Συμπληρωματικό
 
 ## Download links for stable versions of Firefox across multiple platforms.
 
@@ -13,9 +16,12 @@ footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
+footer-custom-download = Προσαρμοσμένες επιλογές λήψης
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
+# Section title
+footer-latest = Τελευταίες εκδόσεις
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 
@@ -39,16 +45,22 @@ footer-compare = Σύγκριση
 footer-release-notes = Σημειώσεις έκδοσης
 footer-support = Υποστήριξη
 footer-addons = Πρόσθετα
+footer-blog = Ιστολόγιο
 
 ## Links to social media
 
+# Section title
+footer-follow-us = Ακολουθήστε μας
 footer-instagram = Instagram
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
 ## Legal links
 
+footer-websites-privacy-notice = Σημείωση απορρήτου ιστοτόπου
+footer-terms-of-use = Όροι χρήσης
 footer-websites-cookie-policy = Πολιτική cookie
+footer-community-participation-guidelines = Κανόνες συμμετοχής κοινότητας
 
 ##
 

@@ -7,6 +7,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = Σύγκριση προγραμμάτων περιήγησης
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } για υπολογιστές
 sub-navigation-release-notes = Σημειώσεις έκδοσης
+sub-navigation-release-channels = Κανάλια εκδόσεων
 sub-navigation-desktop = Υπολογιστές
 sub-navigation-mobile = Κινητές συσκευές
 sub-navigation-android = { -brand-name-android }
