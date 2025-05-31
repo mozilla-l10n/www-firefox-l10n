@@ -7,6 +7,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = Vertaa selaimia
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } työpöydälle
 sub-navigation-release-notes = Julkaisutiedot
+sub-navigation-release-channels = Julkaisukanavat
 sub-navigation-desktop = Työpöytä
 sub-navigation-mobile = Mobiili
 sub-navigation-android = { -brand-name-android }
