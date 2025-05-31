@@ -2,17 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+# An accessible label used to describe that the role of the element is the
+# primary website navigation.
+footer-landmark-label = Дадатковы
 
 ## Download links for stable versions of Firefox across multiple platforms.
 
 # Section title
-footer-download = Сцягнуць
+footer-download = Сцягванне
 footer-download-auto = Сцягнуць { -brand-name-firefox }
 footer-windows = Windows
 footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
+footer-custom-download = Уласныя варыянты сцягвання
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
@@ -38,7 +42,7 @@ footer-developer = Распрацоўка
 
 # Section title
 footer-resources = Рэсурсы
-footer-compare = Параўнаць
+footer-compare = Параўнанне
 footer-release-notes = Заўвагі пры выпуску
 footer-support = Падтрымка
 footer-addons = Дадаткі
@@ -58,6 +62,7 @@ footer-websites-privacy-notice = Паведамленні аб прыватна�
 footer-terms-of-use = Умовы выкарыстання
 footer-websites-cookie-policy = Палітыка выкарыстання кукі
 footer-community-participation-guidelines = Правілы ўдзелу ў супольнасці
+footer-logo-trademark-licensing = Ліцэнзаванне таварнага знака на лагатып
 
 ##
 
