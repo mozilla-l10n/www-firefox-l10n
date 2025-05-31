@@ -36,6 +36,7 @@ footer-enterprise = { -brand-name-enterprise }
 # Section title
 footer-community = Κοινότητα
 footer-contribute = Συνεισφορά
+footer-developer = Προγραμματιστές
 
 ## Links to resources
 
@@ -61,6 +62,7 @@ footer-websites-privacy-notice = Σημείωση απορρήτου ιστοτ�
 footer-terms-of-use = Όροι χρήσης
 footer-websites-cookie-policy = Πολιτική cookie
 footer-community-participation-guidelines = Κανόνες συμμετοχής κοινότητας
+footer-logo-trademark-licensing = Άδεια χρήσης εμπορικών σημάτων και λογότυπων
 
 ##
 
