@@ -10,7 +10,7 @@
 
 installer-help-page-title = ההורדה שלכם הופסקה
 installer-help-main-tagline = זה קורה לפעמים. בואו ננסה משהו אחר.
-installer-help-action-channel = ההורדה הזאת אמורה לעבוד טוב יותר בשבילך.
+installer-help-action-channel = ההורדה הזאת אמורה לעבוד טוב יותר בשבילכם.
 installer-help-action-choose = נא לבחור את ההורדה הרצויה למטה.
 
 ##
@@ -21,4 +21,4 @@ installer-help-firefox-nightly-desc = הציצו בדפדפן הדור הבא ש
 installer-help-need-help = זקוקים לעזרה בהתקנה?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
-installer-help-need-help-desc = אם עדיין יש לך צורך בעזרה בהתקנה, <a href="{ $url }">נא לקרוא את המדריך בדף התמיכה שלנו.</a>
+installer-help-need-help-desc = אם עדיין יש לכם צורך בעזרה בהתקנה, <a href="{ $url }">נא לקרוא את המדריך בדף התמיכה שלנו.</a>

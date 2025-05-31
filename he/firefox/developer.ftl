@@ -8,7 +8,7 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } היא דפדפן מהיר בטירוף שמציע כלי פיתוח חדשניים לצד תמיכה ב־CSS Grid ובניפוי שגיאות בסביבות הרצה
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-firefox-developer-welcome-to-your-new-favorite = ברוכים הבאים לדפדפן המועדף החדש שלכם. כל התכונות, הביצועים המהירים וכלי הפיתוח שנדרשים לך כדי לפתח באינטרנט החופשי כבר נמצאים בהישג ידכם.
+firefox-developer-welcome-to-your-new-favorite = ברוכים הבאים לדפדפן המועדף החדש שלכם. כל התכונות, הביצועים המהירים וכלי הפיתוח הנדרשים לכם כדי לפתח באינטרנט החופשי כבר נמצאים בהישג ידכם.
 firefox-developer-speak-up = להרים את הקול
 firefox-developer-feedback-makes-us = משוב מסייע לנו להשתפר. נשמע לשמוע ממך איך נוכל לשפר את הדפדפן ואת כלי הפיתוח.
 firefox-developer-join-the-convo = הצטרפות לשיח
@@ -55,7 +55,7 @@ firefox-developer-master-css-grid = התמחות ב־CSS Grid
 firefox-developer-built-for-developers = נבנה למפתחים
 firefox-developer-master-innovative-features = תכונות חדשניות
 firefox-developer-want-to-be-on-the-cutting-edge = אוהבים לחיות על הקצה?
-firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } מקבל עדכונים יומיים ומאפשר לך לגשת לתכונות חודשים לפני שהן מופצות לכלל הציבור.
+firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } מקבל עדכונים יומיים ומאפשר לכם לגשת לתכונות חודשים לפני שהן מופצות לכלל הציבור.
 firefox-developer-faster-innovation = מידע מהיר יותר
 firefox-developer-fonts-panel = חלונית גופנים
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } שולח אל { -brand-name-mozilla } משוב באופן אוטומטי.

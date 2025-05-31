@@ -13,7 +13,7 @@ features-adblocker-an-ad-blocker-is-a-piece = חוסם פרסומות הוא ת�
 # Variables:
 #   $firefox (url) - link to https://www.firefox.com/download/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
-features-adblocker-these-ads-might-be-loud = פרסומות אלו עשויות להיות פרסומות וידאו רועשות, מודעות שעוקבות אחריך ברחבי האינטרנט, רכיבי מעקב, עוגיות מצד שלישי ועוד. כדי להשתמש בחוסם פרסומות, ניתן לחפש אחר תוספות חוסמי פרסומות הזמינות בדפדפן שלכם. <a href="{ $firefox }">ל־{ -brand-name-firefox }</a>, למשל, יש <a href="{ $addons }">רשימה זו של תוספות חוסמי פרסומות מאושרות</a>. לחצו על רשימה זו (או חוסמי פרסומות שמאושרים לשימוש עבור הדפדפן שלכם) כדי לראות איזה מהם מתאים לצרכים שלכם.
+features-adblocker-these-ads-might-be-loud = פרסומות אלו עשויות להיות פרסומות וידאו רועשות, מודעות שעוקבות אחריכם ברחבי האינטרנט, רכיבי מעקב, עוגיות מצד שלישי ועוד. כדי להשתמש בחוסם פרסומות, ניתן לחפש אחר תוספות חוסמי פרסומות הזמינות בדפדפן שלכם. <a href="{ $firefox }">ל־{ -brand-name-firefox }</a>, למשל, יש <a href="{ $addons }">רשימה זו של תוספות חוסמי פרסומות מאושרות</a>. לחצו על רשימה זו (או חוסמי פרסומות שמאושרים לשימוש עבור הדפדפן שלכם) כדי לראות איזה מהם מתאים לצרכים שלכם.
 features-adblocker-find-the-right-ad-blocker = מצאו את חוסם הפרסומות המתאים לכם
 features-adblocker-there-are-scores-of-content = ישנם עשרות חוסמי תוכן בשוק, אבל הנה כמה אפשרויות נהדרות שנבחרו על־ידי { -brand-name-mozilla }…
 # Variables:

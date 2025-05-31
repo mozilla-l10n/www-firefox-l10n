@@ -6,7 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/404/
 
 not-found-page-not-found-page-page-not-found = 404: העמוד לא נמצא
-not-found-page-sorry-we-cant-find-that-page = לא מצאנו את העמוד הזה, עמך הסליחה
+not-found-page-sorry-we-cant-find-that-page = לא מצאנו את העמוד הזה, עמכם הסליחה
 not-found-page-were-all-about-a-healthy-internet = אנחנו לגמרי בעד מרשתת בריאה, אך לפעמים ישנם קישורים שבורים.
 not-found-page-go-back = חזרה אחורה
 # Variables:

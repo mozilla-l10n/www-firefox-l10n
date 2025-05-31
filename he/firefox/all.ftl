@@ -34,7 +34,7 @@ firefox-all-64-bit-installers = מתקיני 64 סיביות
 firefox-all-choose-a-64-bit-installer = מומלץ לבחור במתקין 64 סיביות עבור מחשבים עם מעבדי 64 סיביות, מה שמאפשר הקצאת זיכרון גדולה יותר לתכניות בודדות — חשוב במיוחד למשחקים וליישומים תובעניים אחרים.
 firefox-all-32-bit-installers = מתקיני 32 סיביות
 firefox-all-microsoft-store-installers = Microsoft Store
-firefox-all-choose-a-microsoft-store-installer = אפשרות זו תפתח את דף המוצר של { -brand-name-firefox } בפורטל האינטרנטי של Microsoft Store. אם ברשותך Windows 10 או Windows 11, תהיה לך אפשרות לפתוח את Microsoft Store מעמוד זה ולהתקין את { -brand-name-firefox }. כאשר מתקינים דרך Microsoft Store, עדכונים ל־{ -brand-name-firefox } ינוהלו על־ידי החנות. ישנם הבדלים קטנים בהתנהגויות וביכולות של { -brand-name-firefox } כאשר הוא מותקן דרך החנות, אבל רוב המשתמשים לא יבחינו בהבדלים אלה.
+firefox-all-choose-a-microsoft-store-installer = אפשרות זו תפתח את דף המוצר של { -brand-name-firefox } בפורטל האינטרנטי של Microsoft Store. אם ברשותכם Windows 10 או Windows 11, תהיה לכם אפשרות לפתוח את Microsoft Store מעמוד זה ולהתקין את { -brand-name-firefox }. כאשר מתקינים דרך Microsoft Store, עדכונים ל־{ -brand-name-firefox } ינוהלו על־ידי החנות. ישנם הבדלים קטנים בהתנהגויות וביכולות של { -brand-name-firefox } כאשר הוא מותקן דרך החנות, אבל רוב המשתמשים לא יבחינו בהבדלים אלה.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = הורדת { $esr_version }
@@ -54,7 +54,7 @@ firefox-all-need-help = זקוקים לעזרה?
 firefox-all-choose-which-firefox = ניתן לבחור איזה { -brand-name-firefox-browser(case: "a") } להוריד בשפה שלכם
 firefox-all-firefox-privacy-notice = הצהרת פרטיות של { -brand-name-firefox }
 firefox-all-learn-about-firefox = מידע נוסף על דפדפני { -brand-name-firefox }
-firefox-all-the-standard-firefox = הדפדפן { -brand-name-firefox } הרגיל - מהיר ופרטי. אם הינך בהתלבטות באיזה { -brand-name-firefox } לבחור, מומלץ לבחור בזה.
+firefox-all-the-standard-firefox = הדפדפן { -brand-name-firefox } הרגיל - מהיר ופרטי. אם אתם בהתלבטות באיזה { -brand-name-firefox } לבחור, מומלץ לבחור בזה.
 firefox-all-get-a-sneak-peek-at = קבלת הצצה לתכונות הדפדפן העדכניות של { -brand-name-firefox } לפני שהן משוחררות לציבור.
 firefox-all-test-your-sites-against = בדקו את האתרים שלכם מול תכונות דפדפן { -brand-name-firefox } שישוחררו בקרוב עם כלי מפתחים חזקים וגמישים המופעלים כברירת מחדל.
 firefox-all-count-on-stability-and = סמכו על יציבות וקלות שימוש עם דפדפן { -brand-name-firefox } זה, שנבנה עבור ארגונים.
@@ -67,7 +67,7 @@ firefox-all-product-send-link = שליחת קישור הורדה לטלפון ש
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = ניתן לבחור במתקין 32 סיביות למחשבים עם מעבדי 32 סיביות — או למחשבים ישנים וחלשים יותר. <a href="{ $url }">במקרה של ספק</a> האם לבחור במתקין 64 סיביות או 32 סיביות אנו ממליצים על 32 סיביות.
 firefox-all-msi-installers = מתקיני MSI
-firefox-all-select-your-preferred-language = בחירת השפה המועדפת עליך
+firefox-all-select-your-preferred-language = בחירת השפה המועדפת עליכם
 firefox-all-learn-about-installers = מידע על סוגי מתקינים
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
