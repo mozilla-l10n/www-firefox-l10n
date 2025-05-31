@@ -50,9 +50,15 @@ footer-blog = Blog
 
 ## Links to social media
 
+# Section title
+footer-follow-us = Orerapykueho
+footer-instagram = Instagram
+footer-youtube = YouTube
+footer-tiktok = TikTok
 
 ## Legal links
 
+footer-websites-privacy-notice = Ñanduti rogue marandu’i ñemigua
 
 ##
 
