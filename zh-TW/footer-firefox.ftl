@@ -58,11 +58,11 @@ footer-tiktok = TikTok
 
 ## Legal links
 
-footer-websites-privacy-notice = 網站隱私權保護政策
+footer-websites-privacy-notice = 網站隱私權公告
 footer-terms-of-use = 使用條款
 footer-websites-cookie-policy = Cookie 政策
 footer-community-participation-guidelines = 社群參與準則
-footer-logo-trademark-licensing = 標誌商標授權條款
+footer-logo-trademark-licensing = 商標授權條款
 
 ##
 

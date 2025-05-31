@@ -8,7 +8,7 @@
 # HTML page title
 firefox-browsers-page-title-v2 = { -brand-name-firefox } 桌面版
 # HTML page description
-firefox-browsers-page-desc-v2 = 下載將您的隱私權視為最重要的瀏覽器 — 下載 { -brand-name-firefox } for Windows、macOS 或 Linux 桌面版。
+firefox-browsers-page-desc-v2 = 下載將您的隱私視為最重要的瀏覽器 — 下載 { -brand-name-firefox } for Windows、macOS 或 Linux 桌面版。
 firefox-browsers-main-heading-v2 = { -brand-name-firefox } 桌面版
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = 下載<strong>一直以來</strong>，都將您的隱私擺在第一位的瀏覽器
