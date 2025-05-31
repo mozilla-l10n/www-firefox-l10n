@@ -36,6 +36,11 @@ cookie-settings-category-preference-how-does-desc = ‏{ -brand-name-mozilla } �
 
 cookie-settings-category-analytics-heading = ניתוח
 cookie-settings-category-analytics-what-are-subheading = מה הן עוגיות ניתוח?
+cookie-settings-category-analytics-what-are-desc = טכנולוגיות אלו אוספות מידע על אופן השימוש של אנשים באתרי אינטרנט, כגון דפים שנצפו, קישורים שנלחצו עליהם ואילו אתרים אחרים הגיעו מהם.
+cookie-settings-category-analytics-how-does-desc = ‏{ -brand-name-mozilla } משתמש במידע אנליטי כדי להבין כיצד משתמשים מקיימים אינטראקציה עם אתרי האינטרנט שלנו, כדי שנוכל לשפר אותם ולתקן בעיות שמתעוררות. אנו עשויים גם להשתמש בנתונים מהעוגיות, מידע על מכשירים וכתובות IP כדי לעזור לנו להבין כיצד משתמשים מקיימים אינטראקציה עם המוצרים, השירותים, התקשורת, האתרים, הקמפיינים המקוונים, המכשירים והפלטפורמות האחרות שלנו. נאסוף מידע אנליטי ונגדיר עוגיות ניתוח רק בהסכמתכם.
 
 ## Privacy section
 
+cookie-settings-privacy-heading = הצהרת הפרטיות שלנו
+cookie-settings-privacy-desc = למידע מפורט יותר על סוגי המידע השונים ש־{ -brand-name-mozilla } אוסף כשאתם מבקרים באתרי האינטרנט שלנו, תוכלו למצוא קישור להצהרת הפרטיות שלנו למטה.
+cookie-settings-privacy-policy-link = הצהרת פרטיות
