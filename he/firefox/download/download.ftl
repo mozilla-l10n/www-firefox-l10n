@@ -23,15 +23,15 @@ firefox-new-need-help = זקוקים לעזרה?
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.firefox.com/download/all/
-firefox-new-your-firefox-new-should-begin = ההורדה שלך אמורה להתחיל אוטומטית. לא התחילה? <a id="{ $id }" href="{ $fallback_url }">אפשר לנסות להוריד שוב</a>.
+firefox-new-your-firefox-new-should-begin = ההורדה שלכם אמורה להתחיל אוטומטית. לא התחילה? <a id="{ $id }" href="{ $fallback_url }">אפשר לנסות להוריד שוב</a>.
 firefox-new-firefox-is-more-than-a-browser = ‏{ -brand-name-firefox } הוא יותר מדפדפן.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
-firefox-new-download-interrupted = ההורדה שלך הופסקה. אבל לא הכל אבוד.
+firefox-new-download-interrupted = ההורדה שלכם הופסקה. אבל לא הכל אבוד.
 firefox-new-download-almost-there = כמעט סיימנו!
 firefox-new-download-select-linux = בחירת אפשרות הורדה למטה
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
-firefox-new-your-system-may-not = ייתכן שהמערכת שלך לא עומדת בדרישות עבור { -brand-name-firefox }, אבל ניתן לנסות אחת מ<a href="{ $url }">גרסאות אלו</a>.
+firefox-new-your-system-may-not = ייתכן שהמערכת שלכם לא עומדת בדרישות עבור { -brand-name-firefox }, אבל ניתן לנסות אחת מ<a href="{ $url }">גרסאות אלו</a>.
 firefox-new-windows = { -brand-name-windows }
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app

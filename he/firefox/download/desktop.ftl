@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = הורדת ה{ -brand-name-firefox-browser(case: "a") } — מהיר, פרטי וחינמי — מ־{ -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = הורדת { -brand-name-firefox } למחשבים שולחניים - מאת { -brand-name-mozilla }
 firefox-desktop-download-og-title = הורדת ה־{ -brand-name-firefox } המהיר ביותר אי פעם
 firefox-desktop-download-og-desc = טעינת דפים מהירה יותר, פחות שימוש בזיכרון ושלל תכונות חדשות, ה־{ -brand-name-firefox } החדש כאן.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser(case: "a") }
@@ -20,7 +21,7 @@ firefox-desktop-download-browser-support = תמיכה ב{ -brand-name-firefox-br
 firefox-desktop-download-do-what-you-do-v2 = עשו מה שאתם עושים באינטרנט.<br> { -brand-name-firefox-browser(case: "the") } </strong>דואג<strong> לכם.
 firefox-desktop-download-we-block-the-ad = אנחנו חוסמים את עוקבי הפרסומות. אתם גולשים באינטרנט מהר יותר.
 firefox-desktop-download-ads-are-distracting = פרסומות מסיחות את הדעת וגורמות לדפי אינטרנט להיטען לאט יותר בזמן שרכיבי המעקב שלהם צופים בכל תנועה שאתם עושים ברשת. { -brand-name-firefox-browser(case: "the") } חוסם את רוב רכיבי המעקב באופן אוטומטי, כך שאין צורך לחפור בתוך הגדרות האבטחה שלכם.
-firefox-desktop-download-see-your-report = הצגת דוח ההגנה שלך
+firefox-desktop-download-see-your-report = הצגת דוח ההגנה שלכם
 firefox-desktop-download-for-everyone = ‏{ -brand-name-firefox } הוא בשביל כולם
 firefox-desktop-download-available-in-over = זמין בלמעלה מ־90 שפות, ומותאם למכשירי { -brand-name-windows }, ‏{ -brand-name-mac-short }, ו־{ -brand-name-linux }, ‏{ -brand-name-firefox } עובד לא משנה במה אתם משתמשים או היכן אתם נמצאים. יש רק לוודא שמערכת ההפעלה שלכם עדכנית עבור החוויה הטובה ביותר.
 firefox-desktop-download-review-system-req = בדיקת דרישות המערכת
@@ -46,17 +47,17 @@ firefox-desktop-download-block-autoplay-of = חסימת ניגון אוטומט�
 firefox-desktop-download-picture-in-picture = תמונה בתוך תמונה
 firefox-desktop-download-curated-content-on = תוכן מותאם אישית בלשונית חדשה
 firefox-desktop-download-share-links = שיתוף קישורים
-firefox-desktop-download-protect-your-privacy = הגנה על הפרטיות שלך
+firefox-desktop-download-protect-your-privacy = הגנה על הפרטיות שלכם
 firefox-desktop-download-third-party-cookie = חסימת עוגיות צד־שלישי
 firefox-desktop-download-cryptominer-blocking = חסימת כורי מטבעות דיגיטליים
 firefox-desktop-download-private-browsing-mode = מצב גלישה פרטית
-firefox-desktop-download-secure-your-personal = אבטחת המידע האישי שלך
+firefox-desktop-download-secure-your-personal = אבטחת המידע האישי שלכם
 firefox-desktop-download-breached-website-alerts = התרעות על אתרים שנפרצו
 firefox-desktop-download-built-in-password = מנהל ססמאות מובנה
 firefox-desktop-download-clear-history = ניקוי היסטוריה
 firefox-desktop-download-form-autofill = מילוי אוטומטי של טפסים
 firefox-desktop-download-automatic-updates = עדכונים אוטומטיים
-firefox-desktop-download-customize-your-browser = התאמת הדפדפן שלך לטעמך
+firefox-desktop-download-customize-your-browser = התאמת הדפדפן שלכם לטעמך
 firefox-desktop-download-themes = ערכות נושא
 firefox-desktop-download-dark-mode = מצב כהה
 firefox-desktop-download-library-of-extensions = ספרייה של הרחבות
@@ -64,17 +65,17 @@ firefox-desktop-download-adjust-search-bar = התאמה אישית של הגדר
 firefox-desktop-download-change-new-tab = שינוי פריסת דף הלשונית החדשה
 firefox-desktop-download-make-firefox-your = עשו את <strong>{ -brand-name-firefox }</strong> שלכם
 firefox-desktop-download-extensions-for-every = הרחבות לכל מטרה
-firefox-desktop-download-change-up-your = שינוי המראה שלך
+firefox-desktop-download-change-up-your = שינוי המראה שלכם
 firefox-desktop-download-go-from-light = עברו ממצב בהיר למצב כהה בהתאם למצב הרוח או ההעדפה שלכם, או שתקפיצו את האווירה עם ערכת נושא מותאמת אישית (חד קרן בצבעי הקשת, למשל).
 firefox-desktop-download-challenging-the-status = מאתגרים את הסטטוס קוו מאז 1998
-firefox-desktop-download-your-privacy-comes = הפרטיות שלך קודמת לכל
+firefox-desktop-download-your-privacy-comes = הפרטיות שלכם קודמת לכל
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = כל הכלים של { -brand-name-google } המועדפים עליכם (כמו Gmail ו־Docs) עובדים בצורה חלקה ב{ -brand-name-firefox-browser(case: "a") }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 firefox-desktop-download-download-this-browser = <a { $attrs } >הורידו את הרחבת הדפדפן הזו</a> כדי למנוע מ־{ -brand-name-facebook } (ו־{ -brand-name-instagram }) לעקוב אחריך ברשת.
-firefox-desktop-download-sync-your-devices = סנכרון ההתקנים שלך
+firefox-desktop-download-sync-your-devices = סנכרון ההתקנים שלכם
 firefox-desktop-download-screenshots = צילומי מסך
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = הגנת מעקב מתקדמת
@@ -101,10 +102,10 @@ firefox-desktop-download-in-another-language = הורדה בשפה אחרת או
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.firefox.com/download/all/
-firefox-desktop-download-your-firefox-new-should-begin = ההורדה שלך אמורה להתחיל אוטומטית. לא התחילה? <a id="{ $id }" href="{ $fallback_url }">אפשר לנסות להוריד שוב</a>
+firefox-desktop-download-your-firefox-new-should-begin = ההורדה שלכם אמורה להתחיל אוטומטית. לא התחילה? <a id="{ $id }" href="{ $fallback_url }">אפשר לנסות להוריד שוב</a>
 firefox-new-firefox-is-more-than-a-browser = ‏{ -brand-name-firefox } הוא יותר מדפדפן.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
-firefox-desktop-download-interrupted = ההורדה שלך הופסקה, אבל לא הכל אבוד.
+firefox-desktop-download-interrupted = ההורדה שלכם הופסקה, אבל לא הכל אבוד.
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
-firefox-desktop-download-your-system-may-not = ייתכן שהמערכת שלך לא עומדת בדרישות עבור { -brand-name-firefox }, אבל ניתן לנסות אחת מ<a href="{ $url }">גרסאות אלו</a>.
+firefox-desktop-download-your-system-may-not = ייתכן שהמערכת שלכם לא עומדת בדרישות עבור { -brand-name-firefox }, אבל ניתן לנסות אחת מ<a href="{ $url }">גרסאות אלו</a>.

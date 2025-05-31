@@ -8,7 +8,7 @@
 
 ## Required
 
-installer-help-page-title = ההורדה שלך הופסקה
+installer-help-page-title = ההורדה שלכם הופסקה
 installer-help-main-tagline = זה קורה לפעמים. בואו ננסה משהו אחר.
 installer-help-action-channel = ההורדה הזאת אמורה לעבוד טוב יותר בשבילך.
 installer-help-action-choose = נא לבחור את ההורדה הרצויה למטה.

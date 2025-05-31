@@ -10,4 +10,4 @@ features-translate-translate-a-webpage-with-firefox = תרגום עמוד אינ
 features-translate-translate-the-web = תרגום האינטרנט
 features-translate-what-languages-are-currently = אילו שפות נתמכות כרגע?
 features-translate-and-more-languages-are-in = ושפות נוספות בפיתוח!
-features-translate-firefox-speaks-your-language = ‏{ -brand-name-firefox } מדבר את השפה שלך
+features-translate-firefox-speaks-your-language = ‏{ -brand-name-firefox } מדבר את השפה שלכם

@@ -4,7 +4,7 @@
 
 newsletter-form-please-enter-a-valid = נא להכניס כתובת דוא״ל חוקית
 newsletter-form-you-must-agree-to = עליך להסכים להצהרת הפרטיות
-newsletter-form-your-email-address = כתובת הדוא״ל שלך
+newsletter-form-your-email-address = כתובת הדוא״ל שלכם
 newsletter-form-we-are-sorry-but-there = אנו מצטערים, אבל ישנה בעיה כלשהי במערכת שלנו. נא לנסות שוב מאוחר יותר!
 newsletter-form-please-select-country = נא לבחור מדינה או אזור
 newsletter-form-please-select-language = נא לבחור שפה
@@ -12,7 +12,7 @@ newsletter-form-please-select-language = נא לבחור שפה
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = בחירת מדינה או אזור
 newsletter-form-select-language = בחירת שפה
-newsletter-form-your-email-here = כתובת הדואר האלקטרוני שלך כאן
+newsletter-form-your-email-here = כתובת הדואר האלקטרוני שלכם כאן
 newsletter-form-get-firefox-news = קבלת חדשות { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/

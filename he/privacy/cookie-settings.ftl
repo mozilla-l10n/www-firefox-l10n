@@ -8,15 +8,15 @@
 cookie-settings-page-title = הגדרות עוגיות
 cookie-settings-page-desc = דף זה מתאר את סוגי העוגיות השונים ש־{ -brand-name-mozilla } עשוי להשתמש בהם, ומעניק לכם שליטה על סוגי הנתונים שאתם מסכימים ל־{ -brand-name-mozilla } לאסוף.
 cookie-settings-breadcrumb-link = דף קודם
-cookie-settings-explainer = עוגיות הן קבצים קטנים המכילים פיסות מידע הנשמרות במחשב או במכשיר שלכם כשאתם מבקרים באתר אינטרנט. { -brand-name-mozilla } משתמש בעוגיות כדי לסייע לאתרי האינטרנט שלנו לפעול, וכן כדי לאסוף מידע על אופן השימוש והאינטראקציה שלך עם אתרי האינטרנט שלנו, כגון הדפים שבהם אתם מבקרים.
+cookie-settings-explainer = עוגיות הן קבצים קטנים המכילים פיסות מידע הנשמרות במחשב או במכשיר שלכם כשאתם מבקרים באתר אינטרנט. { -brand-name-mozilla } משתמש בעוגיות כדי לסייע לאתרי האינטרנט שלנו לפעול, וכן כדי לאסוף מידע על אופן השימוש והאינטראקציה שלכם עם אתרי האינטרנט שלנו, כגון הדפים שבהם אתם מבקרים.
 cookie-settings-page-intro-v2 = דף זה מתאר את הסוגים השונים של העוגיות וטכנולוגיות דומות כגון תגי פיקסלים, web beacon, קובצי GIF שקופים, JavaScript ואחסון מקומי (להלן, ״עוגיות״) ש־{ -brand-name-mozilla } עשוי להשתמש בהם, ומעניק לכם שליטה על סוגי הנתונים שאתם מסכימים ל־{ -brand-name-mozilla } לאסוף.
 cookie-settings-how-mozilla-heading = כיצד { -brand-name-mozilla } משתמש בעוגיות
 cookie-settings-how-does-mozilla-use-subheading = כיצד { -brand-name-mozilla } משתמש בנתונים אלה?
 cookie-settings-save-changes = שמירת שינויים
-cookie-settings-your-cookie-settings-have = הגדרות העוגיות שלך עודכנו.
+cookie-settings-your-cookie-settings-have = הגדרות העוגיות שלכם עודכנו.
 cookie-settings-i-agree = מוסכם עלי
 cookie-settings-i-do-not-agree = לא מוסכם עלי
-cookie-settings-turn-on-javascript = נא להפעיל את JavaScript כדי לעדכן את הגדרות העוגיות שלך.
+cookie-settings-turn-on-javascript = נא להפעיל את JavaScript כדי לעדכן את הגדרות העוגיות שלכם.
 
 ## Necessary cookies section
 

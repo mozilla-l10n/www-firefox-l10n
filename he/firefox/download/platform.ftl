@@ -23,7 +23,10 @@ new-platform-download-mozilla-linux = הורדת { -brand-name-mozilla } { -bran
 new-platform-download-mozilla-desc-linux = הורידו את { -brand-name-mozilla } { -brand-name-firefox } עבור { -brand-name-linux }, הדפדפן החופשי. { -brand-name-firefox } נוצר על־ידי קהילה עולמית שאינה למטרות רווח שמטרתה לתת לכולנו שליטה מקוונת. הורידו את { -brand-name-firefox } עבור { -brand-name-linux } עוד היום!
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = הורידו את ה־{ -brand-name-firefox } עבור { -brand-name-linux } המהיר ביותר אי פעם
-new-platform-your-life-your-business = החיים שלך, העסק שלך. { -brand-name-firefox } חוסם עוגיות מעקב מצד שלישי ב־{ -brand-name-linux }.
+# /firefox/linux/ social sharing description
+new-platform-faster-page-loading-linux = טעינת דפים מהירה יותר, פחות שימוש בזיכרון ושלל תכונות חדשות, { -brand-name-firefox } החדש ל־{ -brand-name-linux } כבר כאן.
+new-platform-privacy-more-than = פרטיות - יותר ממדיניות
+new-platform-your-life-your-business = החיים שלכם, העסק שלכם. { -brand-name-firefox } חוסם עוגיות מעקב מצד שלישי ב־{ -brand-name-linux }.
 new-platform-speed-meet-security = מהירות פוגשת אבטחה. { -brand-name-firefox } מהיר פי שניים עם 30% פחות זיכרון מאשר { -brand-name-chrome }.
 new-platform-open-source = קוד פתוח
 new-platform-look-under-the-hood = הסתכלו מתחת למכסה המנוע. כמו { -brand-name-linux }, היכולות של { -brand-name-firefox } הן בקוד פתוח.
@@ -51,7 +54,7 @@ new-platform-download-mozilla-desc-windows = הורידו את { -brand-name-moz
 new-platform-download-the-fastest-windows = הורידו את ה־{ -brand-name-firefox } עבור { -brand-name-windows } המהיר ביותר אי פעם
 # /firefox/windows/ social sharing description
 new-platform-faster-page-loading-windows = טעינת דפים מהירה יותר, פחות שימוש בזיכרון ושלל תכונות חדשות, { -brand-name-firefox } החדש ל־{ -brand-name-windows } כבר כאן.
-new-platform-firefox-moves-fast = { -brand-name-firefox } זז במהירות ומטפל בנתונים שלך בזהירות - ללא מעקב של פרסומות וללא האטה.
+new-platform-firefox-moves-fast = { -brand-name-firefox } זז במהירות ומטפל בנתונים שלכם בזהירות - ללא מעקב של פרסומות וללא האטה.
 new-platform-common-sense-privacy = פרטיות שפויה
 new-platform-live-your-life = תחיו את החיים שלכם, { -brand-name-firefox } לא מסתכל. בחרו מה לשתף ומתי לשתף את זה.
 new-platform-seamless-setup = התקנה חלקה

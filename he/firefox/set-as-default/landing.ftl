@@ -6,7 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/default/
 
 # HTML page title
-set-as-default-landing-make-firefox-your-default = הגדרת { -brand-name-firefox } כדפדפן ברירת המחדל שלך
+set-as-default-landing-make-firefox-your-default = הגדרת { -brand-name-firefox } כדפדפן ברירת המחדל שלכם
 # HTML page description
 set-as-default-landing-choose-the-browser = בחרו בדפדפן שמגן על הפרטיות שלכם. הגדירו את { -brand-name-firefox } כדפדפן ברירת המחדל שלכם.
 set-as-default-landing-thanks-for-using-the = תודה שאתם משתמשים בדפדפן { -brand-name-firefox } העדכני ביותר. כשאתם בוחרים ב־{ -brand-name-firefox }, אתם תומכים באינטרנט טוב יותר עבורכם ועבור כולם. כעת עשו את הצעד הבא כדי להגן על עצמכם.

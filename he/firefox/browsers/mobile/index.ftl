@@ -6,14 +6,14 @@
 ### URL: https://www-dev.springfield.moz.works/browsers/mobile/
 
 # HTML page title
-browsers-mobile-firefox-mobile-browsers-put = דפדפני { -brand-name-firefox } לנייד שמים את הפרטיות שלך בעדיפות ראשונה
+browsers-mobile-firefox-mobile-browsers-put = דפדפני { -brand-name-firefox } לנייד שמים את הפרטיות שלכם בעדיפות ראשונה
 # HTML page description
 browsers-mobile-overview-of-all-mobile = סקירה כללית של כל דפדפני המכשירים הניידים של { -brand-name-firefox } (‏{ -brand-name-firefox } עבור { -brand-name-android }, ‏{ -brand-name-firefox } עבור { -brand-name-ios }, ‏{ -brand-name-firefox-focus })
 browsers-mobile-firefox-for-android = ‏{ -brand-name-firefox } עבור { -brand-name-android }
 browsers-mobile-infinitely-customizable-private = ניתן להתאמה אישית ללא הגבלה, פרטי ומאובטח, { -brand-name-firefox } עבור { -brand-name-android } הוא דפדפן מהיר כברק שלעולם לא יאכזב אתכם.
 browsers-mobile-firefox-for-ios = ‏{ -brand-name-firefox } עבור { -brand-name-ios }
 browsers-mobile-go-your-own-way = לכו בדרך שלכם עם { -brand-name-firefox } לנייד
-browsers-mobile-firefox-mobile-adapts-to-you = ‏{ -brand-name-firefox } לנייד מתאים את עצמו אליך והופך את הגישה ללשוניות הפתוחות שלך, לחיפושים הקודם שלך ולאתרים המועדפים עליך לקלה מתמיד.
+browsers-mobile-firefox-mobile-adapts-to-you = ‏{ -brand-name-firefox } לנייד מתאים את עצמו אליכם והופך את הגישה ללשוניות הפתוחות שלכם, לחיפושים הקודם שלכם ולאתרים המועדפים עליכם לקלה מתמיד.
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = קבלו הגנה מעקב מתקדמת והפכו את { -brand-name-firefox } לדפדפן ברירת המחדל המועדף עליכם ב־{ -brand-name-iphone } וב־{ -brand-name-ipad } שלכם.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }

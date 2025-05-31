@@ -5,4 +5,4 @@
 
 ### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
-firefox-more-take-control-of = לקחת שליטה על הדפדפן שלך.
+firefox-more-take-control-of = לקחת שליטה על הדפדפן שלכם.

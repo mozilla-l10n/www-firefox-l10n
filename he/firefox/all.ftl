@@ -8,7 +8,7 @@
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = הורדת { -brand-name-firefox } באנגלית (ארה"ב) ובלמעלה מ-90 שפות נוספות
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access-v2 = לכולם מגיעה גישה לאינטרנט - השפה שלך לעולם לא אמורה להוות מחסום. לכן - בעזרת מתנדבים מסורים מסביב לעולם - אנחנו הופכים את { -brand-name-firefox } לזמין בלמעלה מ-90 שפות.
+firefox-all-everyone-deserves-access-v2 = לכולם מגיעה גישה לאינטרנט - השפה שלכם לעולם לא אמורה להוות מחסום. לכן - בעזרת מתנדבים מסורים מסביב לעולם - אנחנו הופכים את { -brand-name-firefox } לזמין בלמעלה מ-90 שפות.
 firefox-all-choose-browser = יש לבחור בדפדפן כדי להמשיך
 firefox-all-choose-platform = יש לבחור בפלטפורמה כדי להמשיך
 firefox-all-choose-language = יש לבחור בשפה כדי להמשיך
@@ -62,7 +62,7 @@ firefox-all-windows-installers-for = חבילות התקנה של Windows עבו
 firefox-all-arm64-installers = מתקיני ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = מתקיני ARM64/AArch64 מתאימים למחשבי Windows ו־Linux.
 firefox-all-testflight = הרשמה לבדיקת { -brand-name-firefox } עבור iOS עם TestFlight
-firefox-all-product-send-link = שליחת קישור הורדה לטלפון שלך
+firefox-all-product-send-link = שליחת קישור הורדה לטלפון שלכם
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = ניתן לבחור במתקין 32 סיביות למחשבים עם מעבדי 32 סיביות — או למחשבים ישנים וחלשים יותר. <a href="{ $url }">במקרה של ספק</a> האם לבחור במתקין 64 סיביות או 32 סיביות אנו ממליצים על 32 סיביות.

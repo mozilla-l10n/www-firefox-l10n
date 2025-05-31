@@ -30,5 +30,5 @@ windows-64-bit-if-you-see-32-bit-newer = אם אתם רואים ״(32 סיביו
 # Variables:
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = אם יש לכם צורך להריץ את { -brand-name-firefox } בגרסת 32 סיביות או להתקין את { -brand-name-firefox } בגרסת 64 סיביות, ניתן פשוט להוריד ולהריץ מחדש מתקין ה־{ -brand-name-firefox } (בגרסת 32 או 64 סיביות) עבור { -brand-name-windows } <a href="{ $all }">מדף ההורדות עבור שפות ופלטפורמות של { -brand-name-firefox }.</a>
-windows-64-bit-take-control-of-your = לקחת שליטה על הדפדפן שלך.
+windows-64-bit-take-control-of-your = לקחת שליטה על הדפדפן שלכם.
 windows-64-bit-download-firefox = הורדת { -brand-name-firefox } עבור Windows בגרסת ‏64 סיביות

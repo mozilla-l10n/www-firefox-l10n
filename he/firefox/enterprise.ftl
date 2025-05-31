@@ -8,7 +8,7 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = קבלו את { -brand-name-firefox } לארגון שלכם עם { -brand-name-esr } ו־Rapid Release
 firefox-enterprise-get-unmatched-data-protection = קבלו הגנת נתונים חסרת תקדים בקצב ההפצה המתאים לכם עם { -brand-name-firefox } לארגונים. הורידו את { -brand-name-esr } ואת ה־Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-get-firefox-for-your-enterprise = קבלת { -brand-name-firefox } לארגון שלך
+firefox-enterprise-get-firefox-for-your-enterprise = קבלת { -brand-name-firefox } לארגון שלכם
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = קבלו את דפדפני <a href="{ $url }">{ -brand-name-firefox-extended-support-release } או Rapid Release</a> להגנת נתונים ואבטחת נתונים מקיפה.
@@ -23,7 +23,7 @@ firefox-enterprise-get-rapid-releases-to-make = קבלו שחרורים מהיר
 firefox-enterprise-enterprise-downloads = הורדות ל־{ -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
-firefox-enterprise-select-your-download = בחירת ההורדה שלך
+firefox-enterprise-select-your-download = בחירת ההורדה שלכם
 firefox-enterprise-firefox-browser = { -brand-name-firefox-browser(case: "a") }
 firefox-enterprise-firefox-browser-msi-installer = ‏{ -brand-name-firefox-browser } - מתקין MSI
 firefox-enterprise-firefox-extended-support-release = ‏{ -brand-name-firefox-extended-support-release } (‏{ -brand-name-esr })
