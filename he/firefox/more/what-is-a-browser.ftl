@@ -8,4 +8,4 @@
 # HTML page title
 what-is-a-browser-what-is-a-web = מהו דפדפן?
 # HTML page description
-what-is-a-browser-a-web-browser = דפדפן אינטרנט לוקח אותך לכל מקום ברשת, מאפשר לך לראות טקסט, תמונות וסרטונים מכל מקום בעולם.
+what-is-a-browser-a-web-browser = דפדפן אינטרנט לוקח אתכם לכל מקום ברשת, מאפשר לכם לראות טקסט, תמונות וסרטונים מכל מקום בעולם.
