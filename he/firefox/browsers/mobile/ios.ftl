@@ -5,4 +5,15 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/mobile/ios/
 
+# HTML page title
+mobile-ios-firefox-browser-ios = ‏{ -brand-name-firefox-browser } { -brand-name-ios } (‏{ -brand-name-iphone } ו־{ -brand-name-ipad })
 mobile-ios-firefox-browser = { -brand-name-firefox-browser(case: "a") }
+mobile-ios-get-firefox-for = קבלת { -brand-name-firefox } עבור { -brand-name-ios }
+mobile-ios-send-a-download-link-to-your = שליחת קישור הורדה לטלפון שלכם.
+mobile-ios-scan-the-qr-code-to-get-started = יש לסרוק את קוד ה־QR כדי להתחיל
+mobile-ios-scan-alt-text = סרקו את קוד ה־QR כדי לקבל את { -brand-name-firefox } עבור { -brand-name-ios }
+mobile-ios-make-firefox-your = הגדרת { -brand-name-firefox } כדפדפן ברירת המחדל שלכם
+mobile-ios-now-iphone-and = כעת משתמשי { -brand-name-iphone } ו־{ -brand-name-ipad } יכולים לבחור את דפדפן ברירת המחדל שלהם. משמעות הדבר היא שאתם לא תקועים עם { -brand-name-safari }, והדפדפן הנייד שלכם יכול להישאר מסונכרן עם הדפדפן השולחני המועדף עליכם. בנוסף, כשאתם מגדירים את { -brand-name-firefox } כדפדפן ברירת המחדל שלכם, אתם תומכים בחברת טכנולוגיה עצמאית. { -brand-name-firefox } הוא גם הדפדפן העיקרי היחיד הנתמך על־ידי עמותה ללא מטרות רווח.
+mobile-ios-fast-private-secure = מהיר. פרטי. מאובטח
+mobile-ios-keep-whats-personal = שמרו על על הפרטיות שלכם מבלי להתפשר על מהירות מסחררת. בנוסף, תכונות גלישה חכמות מעניקות לכם את היכולת לקחת את הפרטיות, הססמאות והסימניות שלכם אתכם בבטחה לכל מקום, מה שהופך את חייכם באינטרנט לקלים יותר.
+mobile-ios-stay-private-online = הישארו פרטיים ברשת
