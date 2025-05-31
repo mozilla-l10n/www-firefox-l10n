@@ -9,11 +9,11 @@
 
 ## Company names
 
--brand-name-apple = Apple
--brand-name-creative-commons = Creative Commons
--brand-name-facebook = Facebook
--brand-name-google = Google
--brand-name-microsoft = Microsoft
+-brand-name-apple = اپل
+-brand-name-creative-commons = کریتیو کامنز
+-brand-name-facebook = فیس‌بوک
+-brand-name-google = گوگل
+-brand-name-microsoft = مایکروسافت
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
