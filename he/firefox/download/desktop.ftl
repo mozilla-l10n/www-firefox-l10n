@@ -57,7 +57,7 @@ firefox-desktop-download-built-in-password = מנהל ססמאות מובנה
 firefox-desktop-download-clear-history = ניקוי היסטוריה
 firefox-desktop-download-form-autofill = מילוי אוטומטי של טפסים
 firefox-desktop-download-automatic-updates = עדכונים אוטומטיים
-firefox-desktop-download-customize-your-browser = התאמת הדפדפן שלכם לטעמך
+firefox-desktop-download-customize-your-browser = התאמת הדפדפן שלכם לטעמכם
 firefox-desktop-download-themes = ערכות נושא
 firefox-desktop-download-dark-mode = מצב כהה
 firefox-desktop-download-library-of-extensions = ספרייה של הרחבות
@@ -75,7 +75,7 @@ firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 firefox-desktop-download-download-this-browser = <a { $attrs } >הורידו את הרחבת הדפדפן הזו</a> כדי למנוע מ־{ -brand-name-facebook } (ו־{ -brand-name-instagram }) לעקוב אחריך ברשת.
-firefox-desktop-download-sync-your-devices = סנכרון ההתקנים שלכם
+firefox-desktop-download-sync-your-devices = סנכרון המכשירים שלכם
 firefox-desktop-download-screenshots = צילומי מסך
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = הגנת מעקב מתקדמת

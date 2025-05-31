@@ -10,8 +10,8 @@ set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = תודה שב
 set-as-default-thanks-success-your-default-browser = הצלחה! הדפדפן ברירת המחדל שלכם מוגדר כ־{ -brand-name-firefox }.
 set-as-default-thanks-looks-like-youre-using-a = נראה שאתם משתמשים כעת בדפדפן אחר. נא לוודא שהורדתם את { -brand-name-firefox } למכשיר שלכם.
 # When a visitor sees this message a system dialog will also open on screen.
-set-as-default-thanks-youre-almost-done-just-change = כמעט סיימת. רק נשאר לשנות את דפדפן ברירת המחדל שלכם ל־{ -brand-name-firefox } בחלונית ההגדרות במסך שלכם.
-set-as-default-thanks-having-trouble-setting-your = מתקשה להגדיר את דפדפן ברירת המחדל שלכם?
+set-as-default-thanks-youre-almost-done-just-change = כמעט סיימתם. רק נשאר לשנות את דפדפן ברירת המחדל שלכם ל־{ -brand-name-firefox } בחלונית ההגדרות במסך שלכם.
+set-as-default-thanks-having-trouble-setting-your = מתקשים להגדיר את דפדפן ברירת המחדל שלכם?
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
 set-as-default-thanks-heres-everything-you-need-android = הנה כל מה שצריך לדעת לגבי הגדרת דפדפן ברירת המחדל שלכם <a href="{ $android }">במכשירי Android</a>.

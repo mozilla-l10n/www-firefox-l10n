@@ -8,7 +8,7 @@
 features-adblocker-how-to-stop-seeing-too = איך להפסיק לראות יותר מדי פרסומות ולמנוע מחברות לעקוב אחריכם באינטרנט. מדריך לחסימת פרסומות מדפדפן האינטרנט { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = חוסם הפרסומות – נשק סודי נגד פרסומות מעצבנות.
 features-adblocker-so-many-ads-so-little = כל כך הרבה פרסומות, כל כך מעט סבלנות… הגיע הזמן להפסיק את הטירוף.
-features-adblocker-the-average-person-sees = האדם הממוצע רואה בממוצע 4,000 מודעות ביום. אם לדעתך זה יותר מדי, חוסם פרסומות הוא החבר הכי טוב החדש שלכם.
+features-adblocker-the-average-person-sees = האדם הממוצע רואה בממוצע 4,000 מודעות ביום. אם לדעתכם זה יותר מדי, חוסם פרסומות הוא החבר הכי טוב החדש שלכם.
 features-adblocker-an-ad-blocker-is-a-piece = חוסם פרסומות הוא תוכנה שניתן להשתמש בה כדי לחסום פרסומות, והם פועלים בשתי דרכים. הדרך הראשונה היא כאשר חוסם פרסומות חוסם את האות משרת של מפרסם, כך שהפרסומת לעולם לא תופיע בדף שלכם. דרך נוספת שבה חוסמי פרסומות פועלים היא על ידי חסימת חלקים באתר שיכולים להיות פרסומות.
 # Variables:
 #   $firefox (url) - link to https://www.firefox.com/download/

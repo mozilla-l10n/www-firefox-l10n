@@ -27,7 +27,7 @@ is-firefox-free = האם { -brand-name-firefox } חינמי?
 yep-the-firefox-browser-is-free = כן! { -brand-name-firefox-browser(case: "the") } הוא בחינם. סופר בחינם, למעשה. אין עלויות נסתרות או משהו. אתם לא משלמים כלום כדי להשתמש בו.
 related-questions-free = שאלות קשורות: האם ה{ -brand-name-firefox-browser(case: "a") } חינמי, האם { -brand-name-firefox } עולה כסף
 is-chrome-better = האם { -brand-name-chrome } טוב יותר מ־{ -brand-name-firefox }?
-no-we-dont = לא, אנחנו לא חושבים ש־{ -brand-name-chrome } טוב יותר מ־{ -brand-name-firefox }, והנה הסיבה: כשאנשים שואלים איזה דפדפן עדיף, הם באמת שואלים איזה דפדפן מהיר יותר ובטוח יותר. { -brand-name-firefox } מתעדכן מדי חודש כדי לוודא שיש לך את הדפדפן המהיר ביותר שמכבד את הפרטיות שלכם באופן אוטומטי.
+no-we-dont = לא, אנחנו לא חושבים ש־{ -brand-name-chrome } טוב יותר מ־{ -brand-name-firefox }, והנה הסיבה: כשאנשים שואלים איזה דפדפן עדיף, הם באמת שואלים איזה דפדפן מהיר יותר ובטוח יותר. { -brand-name-firefox } מתעדכן מדי חודש כדי לוודא שיש לכם את הדפדפן המהיר ביותר שמכבד את הפרטיות שלכם באופן אוטומטי.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
