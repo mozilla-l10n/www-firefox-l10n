@@ -20,6 +20,16 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> برای { -b
 download-button-firefox-privacy = حریم خصوصی { -brand-name-firefox }
 download-button-firefox-privacy-notice = نکات حریم‌خصوصی { -brand-name-firefox }
 download-button-download = دریافت
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } دیگر روی { $os_version } و پایین‌تر <a href="{ $help_url }">پشتیبانی نمی‌شود</a>.
+download-button-please-download-esr = برای استفاده از { -brand-name-firefox } لطفا { -brand-name-firefox-esr } (نسخه دارای پشتیبانی افزوده) را دریافت کنید.
+download-firefox-esr = دریافت { -brand-name-firefox-esr }
+download-firefox-esr-32 = دریافت { -brand-name-firefox-esr } ۳۲بیت
+download-firefox-esr-64 = دریافت { -brand-name-firefox-esr } ۶۴بیت
+download-a-different-build = دریافت ساختی متفاوت
 
 ## Linux
 
