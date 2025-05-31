@@ -23,15 +23,30 @@ footer-custom-download = Ñemboguejyrã ndéve g̃uarãitéva
 # Section title
 footer-latest = Oñembyatyramovéva
 footer-beta = { -brand-name-beta }
+footer-nightly = { -brand-name-nightly }
 
 ## Download links for enterprise versions of Firefox.
 
+# Section title
+footer-business = { -brand-name-firefox } mba’apohaguasúpe g̃uarã
+footer-enterprise = { -brand-name-enterprise }
 
 ## Links to community groups.
 
+# Section title
+footer-community = Tekoha
+footer-contribute = Pytyvõ
+footer-developer = Mboguatahára
 
 ## Links to resources
 
+# Section title
+footer-resources = Mba’eita
+footer-compare = Moñondive
+footer-release-notes = Jehaipy rehegua
+footer-support = Ñepytyvõ
+footer-addons = Moĩmbaha
+footer-blog = Blog
 
 ## Links to social media
 
