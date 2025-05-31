@@ -7,6 +7,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = Emoñondive Kundahára
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } mesa ariguápe
 sub-navigation-release-notes = Jehaipy rehegua
+sub-navigation-release-channels = Jehaipy kuaaukarã
 sub-navigation-desktop = Mesa arigua
 sub-navigation-mobile = Pumbyry popegua
 sub-navigation-android = { -brand-name-android }
