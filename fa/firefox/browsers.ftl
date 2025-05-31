@@ -16,4 +16,5 @@ firefox-browsers-desktop = رومیزی
 firefox-browsers-seriously-private-browsing = مرور خصوصی جدی. { -brand-name-firefox } به‌طور خودکار بیش از ۲۰۰۰ ردیاب آنلاین را از جمع‌آوری اطلاعات درباره فعالیت‌های شما در اینترنت مسدود می‌کند.
 firefox-browsers-download-for-desktop = بارگیری برای رومیزی
 firefox-browsers-enterprise = { -brand-name-enterprise }
+firefox-browsers-get-unmatched-data-protection = دریافت حفاظت داده بی‌نظیر با چرخه‌های پشتیبانی متناسب با نیازهای شرکت شما.
 firefox-browsers-enterprise-packages = بسته‌های { -brand-name-enterprise }
