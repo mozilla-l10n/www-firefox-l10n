@@ -24,7 +24,7 @@ firefox-desktop-download-see-your-report = הצגת דוח ההגנה שלך
 firefox-desktop-download-for-everyone = ‏{ -brand-name-firefox } הוא בשביל כולם
 firefox-desktop-download-available-in-over = זמין בלמעלה מ־90 שפות, ומותאם למכשירי { -brand-name-windows }, ‏{ -brand-name-mac-short }, ו־{ -brand-name-linux }, ‏{ -brand-name-firefox } עובד לא משנה במה אתם משתמשים או היכן אתם נמצאים. יש רק לוודא שמערכת ההפעלה שלכם עדכנית עבור החוויה הטובה ביותר.
 firefox-desktop-download-review-system-req = בדיקת דרישות המערכת
-firefox-desktop-download-take-your-privacy = קחו את הפרטיות שלכם אתכם לכל מקום. ל־{ -brand-name-firefox-browsers } עבור { -brand-name-ios } ו־{ -brand-name-android } יש את אותן הגדרות הפרטיות החזקות כדי לחסום רכיבי מעקב מהאפשרות לעקוב אחריכם ברחבי הרשת, לא משנה היכן אתם נמצאים.
+firefox-desktop-download-take-your-privacy = קחו את הפרטיות שלכם אתכם לכל מקום. ל{ -brand-name-firefox-browsers(case: "the") } עבור { -brand-name-ios } ו־{ -brand-name-android } יש את אותן הגדרות הפרטיות החזקות כדי לחסום רכיבי מעקב מהאפשרות לעקוב אחריכם ברחבי הרשת, לא משנה היכן אתם נמצאים.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = לעשות <strong>הכל</strong> עם { -brand-name-firefox }
 firefox-desktop-download-search-smarter = חיפוש חכם יותר, מהיר יותר
@@ -69,7 +69,7 @@ firefox-desktop-download-go-from-light = עברו ממצב בהיר למצב כ�
 firefox-desktop-download-challenging-the-status = מאתגרים את הסטטוס קוו מאז 1998
 firefox-desktop-download-your-privacy-comes = הפרטיות שלך קודמת לכל
 # Gmail and Docs are product names and should not be translated
-firefox-desktop-download-all-your-favourite = כל הכלים של { -brand-name-google } המועדפים עליך (כמו Gmail ו־Docs) עובדים בצורה חלקה ב{ -brand-name-firefox-browser(case: "a") }.
+firefox-desktop-download-all-your-favourite = כל הכלים של { -brand-name-google } המועדפים עליכם (כמו Gmail ו־Docs) עובדים בצורה חלקה ב{ -brand-name-firefox-browser(case: "a") }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

@@ -44,8 +44,8 @@ firefox-new-visit-support-for-more = בקרו בתמיכה לפרטים נוספ
 ## URL: https://www-dev.springfield.moz.works/download/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
-firefox-new-download-browser = הורדת { -brand-name-firefox-browser }
+firefox-new-download-browser = הורדת ה{ -brand-name-firefox-browser }
 firefox-new-fast = מהיר, פרטי וחינמי
 firefox-new-from-mozilla = מבית { -brand-name-mozilla }
-firefox-new-desc = ‏{ -brand-name-firefox-browser } הוא דפדפן אינטרנט חינמי עם טעינת דפים מהירה, פחות שימוש בזיכרון והרבה תכונות - פרויקט של עמותת { -brand-name-mozilla } שאינה למטרות רווח.
+firefox-new-desc = ה{ -brand-name-firefox-browser } הוא דפדפן אינטרנט חינמי עם טעינת דפים מהירה, פחות שימוש בזיכרון והרבה תכונות - פרויקט של עמותת { -brand-name-mozilla } שאינה למטרות רווח.
 firefox-new-download-a-different = הורדה לפלטפורמה או לשפה אחרת

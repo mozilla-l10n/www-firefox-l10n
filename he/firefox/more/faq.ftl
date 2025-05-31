@@ -23,6 +23,8 @@ how-do-i = איך אפשר לקבל את ה{ -brand-name-firefox-browser(case: "
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 you-can-easily = באפשרותך להוריד בקלות את הדפדפן { -brand-name-firefox } לשולחן העבודה <a href="{ $url }">כאן</a>. { -brand-name-firefox } עובד על מכשירי <a href="{ $url2 }">{ -brand-name-windows }</a>, ‏<a href="{ $url3 }">{ -brand-name-mac-short }</a> ו־<a href="{ $url4 }">{ -brand-name-linux }</a>, וזמין גם עבור <a href="{ $url5 }">{ -brand-name-android } ו־{ -brand-name-ios }</a>. יש לוודא כי הורדת הדפדפן שלנו מתבצעת מאחד מדפי ה־{ -brand-name-mozilla }/{ -brand-name-firefox } המהימנים שלנו.
+is-firefox-free = האם { -brand-name-firefox } חינמי?
+yep-the-firefox-browser-is-free = כן! { -brand-name-firefox-browser(case: "the") } הוא בחינם. סופר בחינם, למעשה. אין עלויות נסתרות או משהו. אתם לא משלמים כלום כדי להשתמש בו.
 related-questions-free = שאלות קשורות: האם ה{ -brand-name-firefox-browser(case: "a") } חינמי, האם { -brand-name-firefox } עולה כסף
 is-chrome-better = האם { -brand-name-chrome } טוב יותר מ־{ -brand-name-firefox }?
 no-we-dont = לא, אנחנו לא חושבים ש־{ -brand-name-chrome } טוב יותר מ־{ -brand-name-firefox }, והנה הסיבה: כשאנשים שואלים איזה דפדפן עדיף, הם באמת שואלים איזה דפדפן מהיר יותר ובטוח יותר. { -brand-name-firefox } מתעדכן מדי חודש כדי לוודא שיש לך את הדפדפן המהיר ביותר שמכבד את הפרטיות שלך באופן אוטומטי.
