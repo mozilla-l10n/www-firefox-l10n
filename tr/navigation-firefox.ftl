@@ -17,6 +17,14 @@ navigation-close-resources-menu = Kaynaklar menüsünü kapat
 navigation-product = Ürün
 navigation-desktop = Masaüstü
 navigation-mobile = Mobil
+navigation-release-notes = Sürüm Notları
+navigation-support = Destek
+navigation-add-ons = Eklentiler
+navigation-learn = Öğren
+navigation-blog = Blog
+navigation-compare = Karşılaştır
+navigation-podcast = Podcast
 
 ## Download
 
+navigation-download = İndir

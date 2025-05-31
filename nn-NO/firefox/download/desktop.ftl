@@ -146,7 +146,7 @@ firefox-desktop-download-now-mac = No kan du <strong>opne</strong> den nedlasta 
 firefox-desktop-download-select-linux = Vel eit <strong>nedlastingsalternativ</strong> nedanfor
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
-firefox-desktop-download-get-help = Har problem? <a { $attrs }>Få hjelp med installasjonen</a>.
+firefox-desktop-download-get-help = Har du problem? <a { $attrs }>Få hjelp med installasjonen</a>.
 firefox-desktop-download-in-another-language = Last ned på eit anna språk eller for eit anna operativsystem.
 firefox-desktop-download-windows = { -brand-name-windows }
 # Variables:

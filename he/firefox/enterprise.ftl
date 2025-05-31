@@ -25,6 +25,22 @@ firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = בחירת ההורדה שלך
 firefox-enterprise-firefox-browser = { -brand-name-firefox-browser(case: "a") }
+firefox-enterprise-firefox-browser-msi-installer = ‏{ -brand-name-firefox-browser } - מתקין MSI
+firefox-enterprise-firefox-extended-support-release = ‏{ -brand-name-firefox-extended-support-release } (‏{ -brand-name-esr })
+firefox-enterprise-firefox-extended-support-release-msi = ‏{ -brand-name-firefox-extended-support-release } (‏{ -brand-name-esr }) - מתקין MSI
 firefox-enterprise-support = תמיכה
+firefox-enterprise-msi-installers = מתקיני MSI
+firefox-enterprise-legacy-browser-support = תמיכה בדפדפנים מדור קודם
+firefox-enterprise-admx-templates = תבניות ADMX
+firefox-enterprise-deployment-guide = מדריך פריסה
+firefox-enterprise-policy-documentation = תיעוד מדיניות
 firefox-enterprise-release-notes = הערות שחרור
+firefox-enterprise-documentation-and-community = תיעוד ותמיכה קהילתית
+# Variables:
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+firefox-enterprise-sample-plist-for-configuration = דוגמה ל־<a href="{ $url }">plist עבור פרופיל תצורה</a>
+firefox-enterprise-pkg-installer = מתקין PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
+# Variables:
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
+firefox-enterprise-download-firefox-esr-or-rapid = הורדת { -brand-name-firefox-esr } או Rapid Release עבור<br> <a href="{ $firefox_all }">שפה או פלטפורמה אחרת.</a>

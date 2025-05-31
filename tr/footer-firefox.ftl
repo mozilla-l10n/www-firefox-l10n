@@ -62,6 +62,7 @@ footer-websites-privacy-notice = Web Sitesi Gizlilik Bildirimi
 footer-terms-of-use = Kullanım Koşulları
 footer-websites-cookie-policy = Çerez Politikası
 footer-community-participation-guidelines = Topluluk Katılım Kuralları
+footer-logo-trademark-licensing = Logo Ticari Marka Lisansı
 
 ##
 
