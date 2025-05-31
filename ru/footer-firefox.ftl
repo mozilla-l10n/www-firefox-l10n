@@ -52,7 +52,7 @@ footer-blog = Блог
 
 # Section title
 footer-follow-us = Читайте нас
-footer-instagram = Инстаграм
+footer-instagram = Instagram
 footer-youtube = YouTube
 footer-tiktok = TikTok
 

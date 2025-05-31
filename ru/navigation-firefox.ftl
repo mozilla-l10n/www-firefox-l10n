@@ -22,7 +22,7 @@ navigation-support = Поддержка
 navigation-add-ons = Дополнения
 navigation-learn = Обучение
 navigation-blog = Блог
-navigation-compare = Сравнить
+navigation-compare = Сравнения
 navigation-podcast = Подкаст
 
 ## Download
