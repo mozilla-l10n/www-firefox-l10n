@@ -6,8 +6,20 @@
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = קבלו את { -brand-name-firefox } לארגון שלכם עם { -brand-name-esr } ו־Rapid Release
+firefox-enterprise-get-unmatched-data-protection = קבלו הגנת נתונים חסרת תקדים בקצב ההפצה המתאים לכם עם { -brand-name-firefox } לארגונים. הורידו את { -brand-name-esr } ואת ה־Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-get-firefox-for-your-enterprise = קבלת { -brand-name-firefox } לארגון שלך
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+firefox-enterprise-get-the-firefox-extended-support = קבלו את דפדפני <a href="{ $url }">{ -brand-name-firefox-extended-support-release } או Rapid Release</a> להגנת נתונים ואבטחת נתונים מקיפה.
+firefox-enterprise-unmatched-data-protection = הגנת נתונים ללא תחרות - בקצב ההפצה המתאים לכם
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-enterprise-the-firefox-browser-is-open = דפדפן ה־{ -brand-name-firefox } הוא בקוד פתוח ומספק הגנת מעקב מתקדמת - הכל חלק מהמחויבות ארוכת השנים שלנו להגנה על נתונים.
+firefox-enterprise-your-data-stays-your-business = הנתונים שלכם נשארים בעסק שלכם
+firefox-enterprise-deploy-when-and-how-you-want = פריסה בזמן ובאופן שתרצו
+firefox-enterprise-with-install-packages-and = עם חבילות התקנה והרחבה רחבה של מדיניות קבוצתית ותכונות, הפריסה מהירה וגמישה מאי פעם - וקלה בסביבות { -brand-name-windows } ו־ { -brand-name-mac }.
+firefox-enterprise-choose-your-release-cadence = בחירת קצב ההפצה שלכם
+firefox-enterprise-get-rapid-releases-to-make = קבלו שחרורים מהירים כדי לוודא שאתם מקבלים את התכונות העדכניות ביותר מהר יותר, או עברו לגרסה מורחבת כדי להבטיח חוויה יציבה במיוחד.
 firefox-enterprise-enterprise-downloads = הורדות ל־{ -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
