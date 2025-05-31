@@ -15,3 +15,6 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">درباره {
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/download/
 not-found-page-download-the-firefox-browser = <a href={ $download }>بارگیری‌</a> مرورگر { -brand-name-firefox } برای دستگاه تلفن همراه یا رومیزی شما
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>کمک مالی کنید</a> به { -brand-name-mozilla-foundation } و اینترنت را از دست فناوری‌های بزرگ بازپس بگیرید.
