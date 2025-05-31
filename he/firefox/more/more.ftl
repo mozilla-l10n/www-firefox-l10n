@@ -19,3 +19,4 @@ firefox-for-windows = ‏{ -brand-name-firefox } עבור { -brand-name-windows 
 we-worry-about = אנו דואגים לבטיחות הנתונים שלך, כדי שלך לא יהיה צורך.
 incognito-browser-what = דפדפן גלישה בסתר: מה זה באמת אומר
 firefox-calls-it = ‏{ -brand-name-firefox } קורא לזה גלישה פרטית, { -brand-name-chrome } קורא לזה מצב גלישה בסתר. שניהם מאפשרים לך לגלוש ברשת מבלי לשמור את היסטוריית הגלישה שלך.
+firefox-more-translate-the-web = תרגום האינטרנט

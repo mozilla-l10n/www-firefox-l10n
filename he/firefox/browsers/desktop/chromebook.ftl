@@ -9,7 +9,7 @@
 # HTML page title
 
 browsers-chromebook-get-firefox-browser = קבלת { -brand-name-firefox-browser(case: "a") } עבור { -brand-name-chromebook }
-browsers-chromebook-so-youve-got = אז יש לך { -brand-name-chromebook } - עכשיו הגיע הזמן להשיג את { -brand-name-firefox-browser } העצמאי והפרטי באופן אוטומטי כדי להגן על הנתונים האישיים שלך.
+browsers-chromebook-so-youve-got = אז יש לכם { -brand-name-chromebook } - עכשיו הגיע הזמן להשיג את { -brand-name-firefox-browser(case: "the") } העצמאי והפרטי באופן אוטומטי כדי להגן על הנתונים האישיים שלכם.
 browsers-chromebook-browsers-chromebook-get-firefox-for = קבלת { -brand-name-firefox } עבור { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = קבלת { -brand-name-firefox } למחשבים שולחניים עבור { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = ‏*{ -brand-name-chromebook } מבוסס x86 המריץ { -brand-name-chromeos } 80 ומעלה

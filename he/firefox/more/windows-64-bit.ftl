@@ -27,4 +27,8 @@ windows-64-bit-how-do-you-get-64 = איך משיגים { -brand-name-firefox } �
 windows-64-bit-if-youre-running = אם אתם משתמשים ב־{ -brand-name-windows } בגירסת 64 סיביות (<a href="{ $version }">כך ניתן לבדוק</a>), ייתכן שה־{ -brand-name-firefox } שלכם כבר הוא 64 סיביות. <a href="{ $check }">בדקו את גרסת ה־{ -brand-name-firefox } שלכם</a> (בחלון ״על אודות { -brand-name-firefox }״) וחפשו אחר ״(32 סיביות)״ או ״(64 סיביות)״ אחרי מספר הגרסה:
 windows-64-bit-if-you-see-32-bit-older = אם אתם רואים ״(32 סיביות)״ ואתם משתמשים ב־{ -brand-name-firefox } בגרסה 56.0 או בגרסה ישנה יותר, עדכון לגרסה העדכנית ביותר של { -brand-name-firefox } אמור לשדרג אתכם אוטומטית ל־64 סיביות.
 windows-64-bit-if-you-see-32-bit-newer = אם אתם רואים ״(32 סיביות)״ ואתם משתמשים ב־{ -brand-name-firefox } בגרסה 56.0.1 או גרסה חדשה יותר, ייתכן שהמחשב שלכם אינו עומד בדרישות הזיכרון המינימליות עבור 64 סיביות (3GB RAM או יותר). עדיין תוכלו להתקין ידנית את { -brand-name-firefox } בגרסת 64 סיביות, אם תבחרו.
+# Variables:
+# $all (url) - link to https://www.mozilla.org/firefox/all/
+windows-64-bit-if-you-need-to-run = אם יש לכם צורך להריץ את { -brand-name-firefox } בגרסת 32 סיביות או להתקין את { -brand-name-firefox } בגרסת 64 סיביות, ניתן פשוט להוריד ולהריץ מחדש מתקין ה־{ -brand-name-firefox } (בגרסת 32 או 64 סיביות) עבור { -brand-name-windows } <a href="{ $all }">מדף ההורדות עבור שפות ופלטפורמות של { -brand-name-firefox }.</a>
 windows-64-bit-take-control-of-your = לקחת שליטה על הדפדפן שלך.
+windows-64-bit-download-firefox = הורדת { -brand-name-firefox } עבור Windows בגרסת ‏64 סיביות
