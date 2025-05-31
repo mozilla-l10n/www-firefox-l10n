@@ -19,4 +19,15 @@ features-adblocker-there-are-scores-of-content = ישנם עשרות חוסמי 
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
 features-adblocker-considered-by-many-to-be-the = ‏<a { $attrs }>uBlock Origin</a>, הנחשב על־ידי רבים לסטנדרט הזהב בין חוסמי הפרסומות, ידוע ביעילות שלו. ניתן להתאמה אישית רבה, אך הוא גם עובד מצוין ישר מהקופסה.
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = ‏<a { $attrs1 }>AdGuard AdBlocker</a> מנטרל פרסומות בכל מקום. הוא חוסם פרסומות באינטרנט, ברשתות חברתיות, ואפילו את החלונות הקופצים המעצבנים (עם זאת, אם אתם רוצים רק לדכא חלונות קופצים, אי אפשר לטעות עם <a { $attrs2 }>Popup Blocker</a>).
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = ‏<a { $attrs }>Ghostery</a> היא אפשרות נהדרת נוספת שלא רק חוסמת פרסומות אלא גם מספקת יתרונות נוספים נגד רכיבי מעקב.
+# Variables:
+#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = הרחבות אלו פועלות בצורה נהדרת גם על <a { $attrs1 }>{ -brand-name-firefox } למחשבים שולחניים</a> וגם על <a { $attrs2 }>Android</a>.
 features-adblocker-choose-your-level-of-protection = בחרו את רמת ההגנה שלכם

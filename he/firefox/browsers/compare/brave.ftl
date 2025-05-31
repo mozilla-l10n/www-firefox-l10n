@@ -9,6 +9,8 @@
 compare-brave-firefox-vs-brave = ‏{ -brand-name-firefox } לעומת Brave
 # HTML page description
 compare-brave-read-our-comparison = קריאת ההשוואה שלנו בין הדפדפנים { -brand-name-firefox } ו־Brave בתכונות, פרטיות וקלות שימוש.
+# "Fiddling" means you have to make a lot of changes and adjustments to make it work correctly.
+compare-brave-firefoxs-privacy-settings-are = הגדרות הפרטיות של { -brand-name-firefox } חזקות וקלות לשימוש. חסימת הפרסומות כברירת מחדל של Brave עשויה לשבש את האתרים שבהם אתם מבקרים, כך שתצטרכו להתעסק איתה כל הזמן. אנחנו רוצים שהפרטיות תהיה נוחה מספיק כדי שתוכלו <em>להשתמש</em> בה בפועל.
 compare-brave-firefox-makes-it-easy-for-you = ‏{ -brand-name-firefox } מקל על הבחירה במנוע החיפוש בכל חיפוש. Brave מגדירים את מנוע החיפוש שלהם בתור ברירת מחדל כך שצריך להיכנס להגדרות הדפדפן כדי לבחור במשהו אחר.
 # Variables:
 # $primary (url) - link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins

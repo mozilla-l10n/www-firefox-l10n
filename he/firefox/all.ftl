@@ -57,6 +57,7 @@ firefox-all-learn-about-firefox = מידע נוסף על דפדפני { -brand-n
 firefox-all-the-standard-firefox = הדפדפן { -brand-name-firefox } הרגיל - מהיר ופרטי. אם הינך בהתלבטות באיזה { -brand-name-firefox } לבחור, מומלץ לבחור בזה.
 firefox-all-get-a-sneak-peek-at = קבלת הצצה לתכונות הדפדפן העדכניות של { -brand-name-firefox } לפני שהן משוחררות לציבור.
 firefox-all-test-your-sites-against = בדקו את האתרים שלכם מול תכונות דפדפן { -brand-name-firefox } שישוחררו בקרוב עם כלי מפתחים חזקים וגמישים המופעלים כברירת מחדל.
+firefox-all-count-on-stability-and = סמכו על יציבות וקלות שימוש עם דפדפן { -brand-name-firefox } זה, שנבנה עבור ארגונים.
 firefox-all-windows-installers-for = חבילות התקנה של Windows עבור IT של ארגונים המפשטים את התצורה, הפריסה והניהול של { -brand-name-firefox-browser(case: "the") }.
 firefox-all-arm64-installers = מתקיני ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = מתקיני ARM64/AArch64 מתאימים למחשבי Windows ו־Linux.

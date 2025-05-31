@@ -16,4 +16,5 @@ firefox-browsers-desktop = שולחן עבודה
 firefox-browsers-seriously-private-browsing = גלישה פרטית ברצינות. { -brand-name-firefox } חוסם באופן אוטומטי למעלה מ־2,000 רכיבי מעקב מקוונים ולא מאפשר להם לאסוף מידע על הפעילויות שלך ברשת.
 firefox-browsers-download-for-desktop = הורדה לשולחן העבודה
 firefox-browsers-enterprise = { -brand-name-enterprise }
+firefox-browsers-get-unmatched-data-protection = קבלו הגנת נתונים ללא תחרות עם מחזורי תמיכה המותאמים לצורכי החברה שלכם.
 firefox-browsers-enterprise-packages = חבילות של { -brand-name-enterprise }

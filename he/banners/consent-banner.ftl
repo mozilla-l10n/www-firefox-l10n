@@ -10,3 +10,4 @@ consent-banner-body-v2 = בנוסף לעוגיות הנחוצות לתפקוד �
 consent-banner-button-reject = דחיית כל העוגיות הנוספות
 consent-banner-button-accept = קבלת כל העוגיות הנוספות
 consent-banner-settings-link = הגדרות עוגיות
+consent-banner-aria-label = כרזת עוגיות
