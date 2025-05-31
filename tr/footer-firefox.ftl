@@ -4,62 +4,66 @@
 
 # An accessible label used to describe that the role of the element is the
 # primary website navigation.
-footer-landmark-label = Juapyguáva
+footer-landmark-label = Ek
 
 ## Download links for stable versions of Firefox across multiple platforms.
 
 # Section title
-footer-download = Mboguejy
-footer-download-auto = Emboguejy { -brand-name-firefox }
+footer-download = İndir
+footer-download-auto = { -brand-name-firefox }’u indir
 footer-windows = Windows
 footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
-footer-custom-download = Ñemboguejyrã ndéve g̃uarãitéva
+footer-custom-download = Özel indirme seçenekleri
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
 # Section title
-footer-latest = Oñembyatyramovéva
+footer-latest = Son sürümler
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 
 ## Download links for enterprise versions of Firefox.
 
 # Section title
-footer-business = { -brand-name-firefox } mba’apohaguasúpe g̃uarã
+footer-business = İşletmeler için { -brand-name-firefox }
 footer-enterprise = { -brand-name-enterprise }
 
 ## Links to community groups.
 
 # Section title
-footer-community = Tekoha
-footer-contribute = Pytyvõ
-footer-developer = Mboguatahára
+footer-community = Topluluk
+footer-contribute = Katkıda Bulunun
+footer-developer = Geliştirici
 
 ## Links to resources
 
 # Section title
-footer-resources = Mba’eita
-footer-compare = Moñondive
-footer-release-notes = Jehaipy rehegua
-footer-support = Ñepytyvõ
-footer-addons = Moĩmbaha
+footer-resources = Kaynaklar
+footer-compare = Karşılaştır
+footer-release-notes = Sürüm notları
+footer-support = Destek
+footer-addons = Eklentiler
 footer-blog = Blog
 
 ## Links to social media
 
 # Section title
-footer-follow-us = Orerapykueho
+footer-follow-us = Bizi Takip Edin
 footer-instagram = Instagram
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
 ## Legal links
 
-footer-websites-privacy-notice = Ñanduti rogue marandu’i ñemigua
+footer-websites-privacy-notice = Web Sitesi Gizlilik Bildirimi
+footer-terms-of-use = Kullanım Koşulları
+footer-websites-cookie-policy = Çerez Politikası
+footer-community-participation-guidelines = Topluluk Katılım Kuralları
 
 ##
 
+footer-language = Dil
 footer-firefox = { -brand-name-firefox }

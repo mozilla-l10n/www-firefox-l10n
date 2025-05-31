@@ -7,6 +7,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = Tarayıcıları Karşılaştır
 sub-navigation-firefox-for-desktop = Bilgisayarlar için { -brand-name-firefox }
 sub-navigation-release-notes = Sürüm Notları
+sub-navigation-release-channels = Sürüm Kanalları
 sub-navigation-desktop = Bilgisayar
 sub-navigation-mobile = Mobil
 sub-navigation-android = { -brand-name-android }
