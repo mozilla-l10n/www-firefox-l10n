@@ -14,3 +14,6 @@ mobile-focus-private-browsing-on-v2 = ״גלישה פרטית״ ברוב הדפ�
 mobile-focus-tracking-protection = הגנת מעקב
 mobile-focus-firefox-focus-blocks = ‏{ -brand-name-firefox-focus } חוסם כברירת מחדל מגוון רחב של רכיבי מעקב נפוצים, כולל רכיבי מעקב של מדיה חברתית ורכיבי מעקב מעצבנים שמגיעים מדברים כמו הפרסומות של { -brand-name-facebook }.
 mobile-focus-see-it-all = ראו הכל מהר יותר
+mobile-focus-focus-removes-trackers-v3 = ‏{ -brand-name-focus } מסיר רכיבי מעקב כך שהדפים שאתם צופים בהם צורכים פחות נתונים ונטענים הרבה יותר מהר. בנוסף, ניתן להצמיד עד ארבעה קיצורי דרך למסך הבית שלכם ולהגיע לאתר המועדף עליכם אפילו מהר יותר מבלי להקליד דבר.
+mobile-focus-made-by-mozilla = נוצר על־ידי { -brand-name-mozilla }
+mobile-focus-we-believe-everyone = אנו מאמינים כי לכל אחד צריכה להיות בקרה על החיים המקוונים שלו. למען מטרה זו אנו נאבקים מאז 1998.
