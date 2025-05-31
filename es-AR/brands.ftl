@@ -26,7 +26,7 @@
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser = Navegador Firefox
 -brand-name-firefox-browsers = Navegadores Firefox
--brand-name-firefox-developer-edition = Firefox Edición para Desarrolladores
+-brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
 -brand-name-firefox-extended-support-release = Firefox Version con soporte extendido
@@ -94,7 +94,7 @@
 ## Platforms
 
 -brand-name-android = Android
--brand-name-chromeos = SO Chrome
+-brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
