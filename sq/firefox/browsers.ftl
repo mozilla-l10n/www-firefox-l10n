@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.springfield.moz.works/
 
+# HTML page title
+firefox-browsers-page-title-v2 = { -brand-name-firefox } për Desktop
+# HTML page description
+firefox-browsers-page-desc-v2 = Shkarkoni shfletuesin që vë privatësinë si të parën — merrni { -brand-name-firefox } për desktop  Windows, macOS, ose Linux.
+firefox-browsers-main-heading-v2 = { -brand-name-firefox } për desktop
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Merrni shfletuesin që vë privatësinë tuaj së pari — dhe e ka bërë <strong>përherë</strong>
 firefox-browsers-desktop = Desktop

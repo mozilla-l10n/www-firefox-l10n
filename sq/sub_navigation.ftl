@@ -7,6 +7,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = Krahasoni Shfletuesit
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } për Desktop
 sub-navigation-release-notes = Shënime Versioni
+sub-navigation-release-channels = Kanal Hedhjesh Në Qarkullim
 sub-navigation-desktop = Desktop
 sub-navigation-mobile = Celular
 sub-navigation-android = { -brand-name-android }
