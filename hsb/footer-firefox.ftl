@@ -62,6 +62,7 @@ footer-websites-privacy-notice = Prawidła priwatnosće websydła
 footer-terms-of-use = Wužiwanske wuměnjenja
 footer-websites-cookie-policy = Plackowe prawidła
 footer-community-participation-guidelines = Wobdźělenske směrnicy zhromadźenstwa
+footer-logo-trademark-licensing = Licencowanje markoweho znamjenja loga
 
 ##
 
