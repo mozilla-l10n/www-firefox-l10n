@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/
 
+# HTML page title
+firefox-browsers-page-title-v2 = { -brand-name-firefox } za Desktop
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Wobstarjśo wobglědowaki, kótarež wašu priwatnosć na prědnem městnje stoje - to jo było južo <strong>pśecej</strong> tak
 firefox-browsers-desktop = Desktop

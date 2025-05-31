@@ -8,3 +8,4 @@
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } napśeśiwo Google Chrome
 compare-chrome-we-block-trackers-by-default = Pśeslědowaki pó standarźe blokěrujomy. Chrome to njecyni.
+compare-chrome-google-runs-the-worlds-largest = Google nejwětšu wabjeńsku seś swěta wuźaržujo, a Chrome jo źěl teje.
