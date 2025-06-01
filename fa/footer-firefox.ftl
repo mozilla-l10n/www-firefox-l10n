@@ -50,10 +50,17 @@ footer-blog = وبلاگ
 # Section title
 footer-follow-us = ما را پی‌گیری کنید
 footer-instagram = اینستاگرام
+footer-youtube = یوتیوب
+footer-tiktok = تیک‌تاک
 
 ## Legal links
 
+footer-websites-privacy-notice = نکات حفظ محرمانگی وبگاه
+footer-terms-of-use = شرایط استفاده
+footer-community-participation-guidelines = راهنمای مشارکت در اجتماع
+footer-logo-trademark-licensing = مجوز علامت تجاری آرم
 
 ##
 
+footer-language = زبان
 footer-firefox = { -brand-name-firefox }

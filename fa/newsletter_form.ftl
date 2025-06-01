@@ -15,3 +15,7 @@ newsletter-form-select-country = انتخاب کشور
 newsletter-form-sign-me-up = من رو ثبت نام کن
 newsletter-form-sign-up-now = هم‌اکنون عضو شوید
 newsletter-form-thanks = ممنون!
+newsletter-form-yes = بله
+newsletter-form-no = خیر
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
