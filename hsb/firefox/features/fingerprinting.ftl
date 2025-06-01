@@ -10,4 +10,5 @@ features-fingerprinting-fingerprinting-is-a-desc = Fingerprinting je typ přesć
 features-fingerprinting-fingerprint-blocking = Blokowanje porstowych wotćišćow
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } slědowanje přez porstowe wotćišće blokuje
 features-fingerprinting-what-is-fingerprinting-body = Što je slědowanje přez porstowe wotćišće?
+features-fingerprinting-fingerprinting-is-a = Fingerprinting je typ přesćěhowanja online, kotrež je bóle inwaziwne hač wšědne přesćěhowanje na zakładźe plackow. Digitalny porstowy wotćišć so wutworja, hdyž předewzaće jónkróćny profil na zakładźe wašje kompjuteroweje hardware, software, přidatkow a samo nastajenjow wutworja. Waše nastajenja kaž wobrazowku, kotruž wužiwaće, pisma, kotrež sće na swojim ličaku instalował, a samo webwobhladowak, kotryž wužiwaće, dadźa so wužiwać, zo bychu porstowy wotćišć wutworili.
 features-fingerprinting-fingerprinting-is-bad = Slědowanje přez porstowe wotćišće je špatne za web
