@@ -13,3 +13,13 @@ features-fingerprinting-what-is-fingerprinting-body = Što je slědowanje přez 
 features-fingerprinting-fingerprinting-is-a = Fingerprinting je typ přesćěhowanja online, kotrež je bóle inwaziwne hač wšědne přesćěhowanje na zakładźe plackow. Digitalny porstowy wotćišć so wutworja, hdyž předewzaće jónkróćny profil na zakładźe wašje kompjuteroweje hardware, software, přidatkow a samo nastajenjow wutworja. Waše nastajenja kaž wobrazowku, kotruž wužiwaće, pisma, kotrež sće na swojim ličaku instalował, a samo webwobhladowak, kotryž wužiwaće, dadźa so wužiwać, zo bychu porstowy wotćišć wutworili.
 features-fingerprinting-if-you-have = Jeli maće powšitkownje zwučeny laptop, PC abo šmóratko, móže ćešo być, waš grat z pomocu porstowych wotćišćow jónkróćnje identifikować. Ale, čim wjace jónkróćne přidatki, pisma a nastajenja maće, ćim lóšo je, zo něchtó was najskerje namaka. Předewzaća móža tutu jónkróćnu kombinaciju informacijow, zo bychu waš porstowy wotćišć wutworili. Tohodla { -brand-name-firefox } znate wutworjenje porstowych wotćišćow blokuje, zo byšće móhł hišće waše najlubše rozšěrjenja, drasty a přiměrjenja wužiwać, bjeztoho zo by wam wabjenje slědowało.
 features-fingerprinting-fingerprinting-is-bad = Slědowanje přez porstowe wotćišće je špatne za web
+# $url_tracked (string) - link to https://hal.inria.fr/hal-01652021/document
+# $url_standards (string) - link to https://w3c.github.io/fingerprinting-guidance/
+# $url_bodies (string) - link to https://w3ctag.github.io/unsanctioned-tracking/
+# $url_browser (string) - link to https://www.blog.google/products/chrome/building-a-more-private-web
+# $url_vendors (string) - link to https://www.apple.com/safari/docs/Safari_White_Paper_Nov_2019.pdf
+# $url_harmful (string) - link to https://wiki.mozilla.org/Security/Anti_tracking_policy
+# $url_has (string) - link to https://www.cosic.esat.kuleuven.be/fpdetective/#paper
+# $url_steadily (string) - link to https://webtransparency.cs.princeton.edu/webcensus/
+# $url_increased (string) - link to https://sensor-js.xyz/
+features-fingerprinting-the-practice-of = Praksa wutworjenja porstowych wotćišćow zmóžnja, was <a { $url_tracked }>po měsacach slědować</a>, samo hdyž skład wobhladowaka prózdniće abo priwatny modus wužiwaće –  njedźiwajo na jasne skedźbnjenja, zo nochceće, zo něchtó wam slěduje. Najebać nimale dospołne dojednanje mjez <a { $url_standards }>standardami</a> <a { $url_bodies }>gremijemi</a> a <a { $url_vendors }>poskićowarjemi</a> <a { $url_browser }>wobhladowakow</a> je te wutworjenje porstowych wotćišćow je <a { $url_harmful }>škódne</a>, jeho wužiwanje we webje <a { $url_has }>je</a> <a { $url_steadily }>stajnje</a> w zańdźenym dekadźe <a { $url_increased }>přiběrało</a>.
