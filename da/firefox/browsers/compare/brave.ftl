@@ -5,3 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/compare/brave/
 
+# Page title
+compare-brave-firefox-vs-brave = { -brand-name-firefox } vs Brave
+# HTML page description
+compare-brave-read-our-comparison = Læs vores sammenligning af { -brand-name-firefox } og Brave-browseren med hensyn til funktioner, privatliv og brugervenlighed.
