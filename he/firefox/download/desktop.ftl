@@ -149,6 +149,10 @@ firefox-desktop-download-get-help = נתקלת בבעיות? <a { $attrs }>ני�
 firefox-desktop-download-in-another-language = הורדה בשפה אחרת או עבור מערכת הפעלה אחרת.
 firefox-desktop-download-windows = { -brand-name-windows }
 # Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = אם אתם רואים הנחיה המציינת שהאפליקציה שאתם מנסים להתקין אינה אפליקציה מאומתת על־ידי { -brand-name-microsoft }, לחצו על ״התקן בכל מקרה״ או <a { $attrs }>שנו את הגדרות המלצת האפליקציה</a>.
+firefox-desktop-download-visit-support-for-more = בקרו בתמיכה לפרטים נוספים
+# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = ההורדה שלכם אמורה להתחיל אוטומטית. לא התחילה? <a id="{ $id }" href="{ $fallback_url }">אפשר לנסות להוריד שוב</a>
