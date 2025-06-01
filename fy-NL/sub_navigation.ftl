@@ -7,6 +7,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = Browsers fergelykje
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } foar Desktop
 sub-navigation-release-notes = Utjefteopmerkingen
+sub-navigation-release-channels = Release-kanalen
 sub-navigation-desktop = Desktop
 sub-navigation-mobile = Mobyl
 sub-navigation-android = { -brand-name-android }
