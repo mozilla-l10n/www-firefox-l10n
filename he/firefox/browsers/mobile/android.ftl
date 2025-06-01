@@ -34,3 +34,8 @@ mobile-android-pin-videos-to = הצמדת סרטונים למסך שלכם
 mobile-android-pop-videos-out = הוציאו סרטונים מאתרי האינטרנט או מהנגנים שלהם והצמידו אותם לראש מסך הטלפון שלכם כדי לצפות בהם בזמן שאתם גולשים באינטרנט ועושים דברים אחרים.
 mobile-android-about-mozilla = על אודות { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = ‏{ -brand-name-mozilla } קיים כדי לבנות את האינטרנט כמשאב ציבורי הנגיש לכולם, משום שאנו מאמינים שפתוח וחופשי עדיף על סגור ומבוקר. אנו בונים מוצרים כמו { -brand-name-firefox } ו־{ -brand-name-pocket } כדי לקדם בחירה, שקיפות ושליטה.
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = גלישה מהירה באינטרנט עם { -brand-name-firefox } עבור { -brand-name-android }
+mobile-android-see-all-your-open-tabs = ראו את כל הלשוניות הפתוחות שלכם, חיפושים אחרונים ואתרים מועדפים, הכל במקום אחד עם הדפדפן { -brand-name-firefox } עבור { -brand-name-android }.
+mobile-android-own-your-home = מסך הבית שלכם
+mobile-android-get-to-the-parts = גשו מהר יותר לחלקים באינטרנט שאכפת לכם מהם. בחרו לראות את כל הלשוניות הפתוחות, החיפושים האחרונים, הסימניות והאתרים המועדפים שלכם, הכל במקום אחד.
