@@ -115,6 +115,19 @@ firefox-desktop-download-firefox-was-created = ‏{ -brand-name-firefox } נוצ
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = ככל שהאינטרנט גדל ומשתנה, { -brand-name-firefox } ממשיך להתמקד בזכות שלכם לפרטיות - זו תמיד הייתה המשימה שלנו. למידע נוסף על נוהלי המידע שלנו, קראו את <a { $attrs }>הודעת הפרטיות</a> שלנו.
+# Obsolete string
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
+firefox-desktop-download-as-the-internet = ככל שהאינטרנט גדל ומשתנה, { -brand-name-firefox } ממשיך להתמקד בזכות שלכם לפרטיות - אנו קוראים לזה <a { $attrs }>הבטחת המידע האישי</a>: לקחת פחות. לשמור על זה מאובטח. ללא סודות. הנתונים שלכם, הפעילות המקוונת שלכם והחיים שלך באינטרנט מוגנים עם { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = ‏{ -brand-name-firefox } זמין בכל המכשירים שלכם; קחו איתכם את הלשוניות, ההיסטוריה והסימניות שלכם. כל מה שצריך זה <a { $attrs }>{ -brand-name-mozilla-account(case: "a") }</a> ותקבלו גישה לסנכרון ולמוצרים נוספים של { -brand-name-mozilla }.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = צלמו תמונה ברזולוציה גבוהה של כל מה שמופיע באינטרנט בעזרת כלי <a { $attrs }>צילום המסך</a> שלנו המובנה ישירות בדפדפן.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = ‏{ -brand-name-firefox } <a { $attrs }>חוסם באופן אוטומטי רכיבי מעקב רבים מצד שלישי</a> מלאסוף ולמכור את הפעילות המקוונת שלכם.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = שאלות? <a { $attrs }>בתמיכה של { -brand-name-mozilla }</a> יכולים לעזור.
@@ -128,10 +141,13 @@ firefox-desktop-download-now-else = רק נשאר להשלים את <strong>הה
 firefox-desktop-download-now-windows = רק נשאר <strong>להריץ</strong> את קובץ ההתקנה שהורד.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = רק נשאר <strong>לפתוח</strong> את הקובץ שהורד.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = בחרו באפשרות <strong>הורדה</strong> למטה
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = נתקלת בבעיות? <a { $attrs }>ניתן לקבל עזרה עם ההתקנה</a>.
 firefox-desktop-download-in-another-language = הורדה בשפה אחרת או עבור מערכת הפעלה אחרת.
+firefox-desktop-download-windows = { -brand-name-windows }
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.firefox.com/download/all/
