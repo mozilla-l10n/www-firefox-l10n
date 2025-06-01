@@ -7,6 +7,8 @@
 
 # HTML page title
 firefox-browsers-page-title-v2 = { -brand-name-firefox } pro scriptorio
+# HTML page description
+firefox-browsers-page-desc-v2 = Discarga le navigator que pone tu confidentialitate prime: installa sur scriptorio { -brand-name-firefox } pro Windows, macOS, o Linux.
 firefox-browsers-main-heading-v2 = { -brand-name-firefox } pro scriptorio
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Obtene le navigator que antepone tu vita private – e <strong>sempre</strong> lo ha facite
