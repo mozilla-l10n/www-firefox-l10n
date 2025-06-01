@@ -34,6 +34,14 @@ firefox-all-64-bit-installers = نصاب‌های ۶۴ بیتی
 firefox-all-choose-a-64-bit-installer = برای رایانه‌هایی که دارای پردازنده‌های ۶۴ بیتی هستند، یک نصاب ۶۴ بیتی را انتخاب کنید، که به آنها امکان می دهد RAM بیشتری را به برنامه‌ها اختصاص دهند - مخصوصاً برای بازی‌ها و سایر برنامه‌ها.
 firefox-all-32-bit-installers = نصاب‌های ۳۲ بیتی
 firefox-all-microsoft-store-installers = فروشگاه مایکروسافت
+firefox-all-choose-a-microsoft-store-installer = این گزینه یک صفحه محصول { -brand-name-firefox } را در درگاه وب فروشگاه مایکروسافت باز می‌کند. اگر از ویندوز ۱۰ یا ویندوز ۱۱ استفاده می‌کنید، امکان باز کردن فروشگاه مایکروسافت از این صفحه و نصب { -brand-name-firefox } را خواهید داشت. در صورتی که از فروشگاه مایکروسافت نصب کنید، به‌روزرسانی‌های { -brand-name-firefox } نیز توسط فروشگاه مایکروسافت مدیریت خواهند شد. تفاوت‌های جزئی در رفتار و قابلیت‌های { -brand-name-firefox } هنگام نصب از فروشگاه مایکروسافت وجود دارد، اما برای اکثر کاربران این تفاوت‌ها محسوس نیستند.
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = دریافت { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = ما در دوره گذار بین نگارش‌های اصلی ESR { $esr_next_major } و { $esr_current_major } هستیم.
 firefox-all-check-the-system-requirements = بررسی نیازمندی‌های سیستم
 firefox-all-release-notes = یادداشت‌های انتشار
 firefox-all-source-code = کد منبع
