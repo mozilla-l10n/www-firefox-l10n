@@ -87,6 +87,8 @@ firefox-desktop-download-theres-no-need = אין צורך להתפשר. שנו �
 firefox-desktop-download-backed-by-the = מגובה על־ידי העמותה <strong>שאינה למטרות רווח</strong> ששמה את האנשים בעדיפות ראשונה
 firefox-desktop-download-challenging-the-status = מאתגרים את הסטטוס קוו מאז 1998
 firefox-desktop-download-your-privacy-comes = הפרטיות שלכם קודמת לכל
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = שמרו את כל תכונות הדפדפן המועדפות עליכם - <strong>וגלו</strong> תכונות חדשות.
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = כל הכלים של { -brand-name-google } המועדפים עליכם (כמו Gmail ו־Docs) עובדים בצורה חלקה ב{ -brand-name-firefox-browser(case: "a") }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
@@ -97,9 +99,22 @@ firefox-desktop-download-sync-your-devices = סנכרון המכשירים של�
 firefox-desktop-download-screenshots = צילומי מסך
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = הגנת מעקב מתקדמת
+firefox-desktop-download-from-watching-a = מצפייה במדריך אינטרנט ועד מעקב אחר הקבוצה האהובה עליכם, הסרטון שלכם עוקב אחריכם בזמן שאתם מבצעים משימות שונות.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser(case: "a") }
 firefox-desktop-download-get-firefox-android = קבלת ה{ -brand-name-firefox-browser(case: "a") } עבור <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = קבלת ה{ -brand-name-firefox-browser(case: "a") } עבור <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = הורידו את הדפדפן הנייד של { -brand-name-firefox } להגנה אוטומטית בכל המכשירים שלכם.
+firefox-desktop-download-learn-about-the = מידע על הדפדפן למחשבים שולחניים של { -brand-name-firefox } למטה
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = מאבטחה ועד חדשות ומשחקים, יש <a { $attrs }>הרחבות לכולם</a>. הוסיפו כמה שתרצו עד שהדפדפן שלכם יהיה בדיוק כמו שאתם רוצים אותו.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = ‏{ -brand-name-firefox } נוצר על־ידי <a { $attrs }>{ -brand-name-mozilla }</a> כחלופה מהירה ופרטית יותר לדפדפנים כמו { -brand-name-ie }, ובימינו { -brand-name-chrome }. כיום, החברה שלנו וקהילת המתנדבים שלנו, הממוקדות במשימה, ממשיכות להעמיד את הפרטיות שלכם מעל הכל.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = ככל שהאינטרנט גדל ומשתנה, { -brand-name-firefox } ממשיך להתמקד בזכות שלכם לפרטיות - זו תמיד הייתה המשימה שלנו. למידע נוסף על נוהלי המידע שלנו, קראו את <a { $attrs }>הודעת הפרטיות</a> שלנו.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = שאלות? <a { $attrs }>בתמיכה של { -brand-name-mozilla }</a> יכולים לעזור.
