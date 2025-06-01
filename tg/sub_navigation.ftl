@@ -7,6 +7,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = Браузерҳоро муқоиса кунед
 sub-navigation-firefox-for-desktop = Браузери «{ -brand-name-firefox }» барои мизи корӣ
 sub-navigation-release-notes = Қайдҳои нашр
+sub-navigation-release-channels = Шабакаҳои нашрҳо
 sub-navigation-desktop = Мизи корӣ
 sub-navigation-mobile = Мобилӣ
 sub-navigation-android = { -brand-name-android }
