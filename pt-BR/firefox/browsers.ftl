@@ -7,6 +7,8 @@
 
 # HTML page title
 firefox-browsers-page-title-v2 = { -brand-name-firefox } para computador
+# HTML page description
+firefox-browsers-page-desc-v2 = Use o navegador que coloca sua privacidade em primeiro lugar. Instale o { -brand-name-firefox } para Windows, macOS ou Linux no computador.
 firefox-browsers-main-heading-v2 = { -brand-name-firefox } para computador
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Use o navegador que coloca sua privacidade em primeiro lugar, como <strong>sempre</strong> fez
