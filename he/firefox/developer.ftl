@@ -66,3 +66,4 @@ firefox-developer-download-the-firefox-browser = ניתן להוריד את הד
 firefox-developer-made-for-developers = הדפדפן שנוצר עבור מפתחים
 firefox-developer-all-the-latest-v2 = כל כלי המפתחים העדכניים ביותר בגרסת בטא בנוסף לתכונות כמו Multi-line Console Editor ו־WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>פרופיל ונתיב נפרדים</strong> כך שתוכלו להריץ אותו בקלות לצד גרסת ה־Release או { -brand-name-beta } { -brand-name-firefox }.
+firefox-developer-preferences-tailored = העדפות <strong>המותאמות למפתחי אתרים</strong>: ניפוי שגיאות בדפדפן וניפוי שגיאות מרוחק מופעלות כברירת מחדל, וכך גם ערכת הנושא הכהה וכפתור סרגל הכלים של המפתח.

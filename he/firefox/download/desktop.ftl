@@ -11,20 +11,31 @@
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = הורדת ה{ -brand-name-firefox-browser(case: "a") } — מהיר, פרטי וחינמי — מ־{ -brand-name-mozilla }
 firefox-desktop-download-meta-title-v2 = הורדת { -brand-name-firefox } למחשבים שולחניים - מאת { -brand-name-mozilla }
+firefox-desktop-download-meta-desc = הורידו את { -brand-name-firefox }, דפדפן אינטרנט חינמי הנתמך על־ידי { -brand-name-mozilla }, עמותה ללא מטרות רווח המוקדשת לבריאות ופרטיות האינטרנט. זמין כעת ב־{ -brand-name-windows }, ‏{ -brand-name-mac-short }, ‏{ -brand-name-linux }, ‏{ -brand-name-android } ו־{ -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = הורידו את { -brand-name-firefox } עבור { -brand-name-windows }, ‏{ -brand-name-mac-short } או { -brand-name-linux }. ‏{ -brand-name-firefox } הוא דפדפן אינטרנט חינמי הנתמך על־ידי { -brand-name-mozilla }, עמותה ללא מטרות רווח המוקדשת לבריאות ופרטיות האינטרנט.
 firefox-desktop-download-og-title = הורדת ה־{ -brand-name-firefox } המהיר ביותר אי פעם
 firefox-desktop-download-og-desc = טעינת דפים מהירה יותר, פחות שימוש בזיכרון ושלל תכונות חדשות, ה־{ -brand-name-firefox } החדש כאן.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser(case: "a") }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = גרסה חדשה אף יותר של { -brand-name-firefox } זמינה. <a { $update_url }>עדכון לגרסה האחרונה</a>
+firefox-desktop-download-get-the-browser = קבלו את הדפדפן שמגן על מה שחשוב
 firefox-desktop-download-fast-reliable-private = מהיר, אמין ופרטי - לשקט נפשי באינטרנט.
+# Obsolete string
+firefox-desktop-download-no-shady = ללא מדיניות פרטיות מפוקפקת או דלתות אחוריות למפרסמים. רק דפדפן מהיר כברק שלא מוכר אתכם.
 firefox-desktop-download-download-options = אפשרויות הורדה ושפות אחרות
 firefox-desktop-download-browser-support = תמיכה ב{ -brand-name-firefox-browser(case: "a") }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = עשו מה שאתם עושים באינטרנט.<br> { -brand-name-firefox-browser(case: "the") } </strong>דואג<strong> לכם.
+# Obsolete string
+firefox-desktop-download-do-what-you-do = עשו מה שאתם עושים באינטרנט.<br> ה{ -brand-name-firefox-browser(case: "a") } </strong>לא<strong> מסתכל.
 firefox-desktop-download-we-block-the-ad = אנחנו חוסמים את עוקבי הפרסומות. אתם גולשים באינטרנט מהר יותר.
 firefox-desktop-download-ads-are-distracting = פרסומות מסיחות את הדעת וגורמות לדפי אינטרנט להיטען לאט יותר בזמן שרכיבי המעקב שלהם צופים בכל תנועה שאתם עושים ברשת. { -brand-name-firefox-browser(case: "the") } חוסם את רוב רכיבי המעקב באופן אוטומטי, כך שאין צורך לחפור בתוך הגדרות האבטחה שלכם.
 firefox-desktop-download-see-your-report = הצגת דוח ההגנה שלכם
 firefox-desktop-download-for-everyone = ‏{ -brand-name-firefox } הוא בשביל כולם
 firefox-desktop-download-available-in-over = זמין בלמעלה מ־90 שפות, ומותאם למכשירי { -brand-name-windows }, ‏{ -brand-name-mac-short }, ו־{ -brand-name-linux }, ‏{ -brand-name-firefox } עובד לא משנה במה אתם משתמשים או היכן אתם נמצאים. יש רק לוודא שמערכת ההפעלה שלכם עדכנית עבור החוויה הטובה ביותר.
 firefox-desktop-download-review-system-req = בדיקת דרישות המערכת
+firefox-desktop-download-all-your-devices = התקינו את { -brand-name-firefox } בכל המכשירים שלכם
 firefox-desktop-download-take-your-privacy = קחו את הפרטיות שלכם אתכם לכל מקום. ל{ -brand-name-firefox-browsers(case: "the") } עבור { -brand-name-ios } ו־{ -brand-name-android } יש את אותן הגדרות הפרטיות החזקות כדי לחסום רכיבי מעקב מהאפשרות לעקוב אחריכם ברחבי הרשת, לא משנה היכן אתם נמצאים.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = לעשות <strong>הכל</strong> עם { -brand-name-firefox }
@@ -33,6 +44,7 @@ firefox-desktop-download-search-from-address = חיפוש משורת הכתוב�
 firefox-desktop-download-search-engine-options = אפשרויות מנוע חיפוש
 firefox-desktop-download-smart-search-suggestions = הצעות חיפוש חכמות
 firefox-desktop-download-bookmark-history = סימניות, היסטוריה ולשוניות פתוחות בתוצאות
+firefox-desktop-download-boost-your = הגבירו את הפרודוקטיביות שלכם
 firefox-desktop-download-works-with-google = עובד עם מוצרים של { -brand-name-google }
 firefox-desktop-download-built-in-screenshot = כלי צילום מסך מובנה
 firefox-desktop-download-bookmarks-manager = מנהל סימניות
@@ -41,6 +53,7 @@ firefox-desktop-download-sync-across-devices = סנכרון בין התקנים
 firefox-desktop-download-reader-mode = מצב קריאה
 firefox-desktop-download-spell-check = בדיקת איות
 firefox-desktop-download-pinned-tabs = לשוניות מוצמדות
+firefox-desktop-download-stream-share-play = הזרמה, שיתוף והפעלה
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = חסימת ניגון אוטומטי של וידאו ושמע
 # Picture-in-Picture is a feature names and so is capitalized in English
@@ -51,6 +64,7 @@ firefox-desktop-download-protect-your-privacy = הגנה על הפרטיות ש�
 firefox-desktop-download-third-party-cookie = חסימת עוגיות צד־שלישי
 firefox-desktop-download-cryptominer-blocking = חסימת כורי מטבעות דיגיטליים
 firefox-desktop-download-private-browsing-mode = מצב גלישה פרטית
+firefox-desktop-download-individual-protections-report = דוח הגנות אישית
 firefox-desktop-download-secure-your-personal = אבטחת המידע האישי שלכם
 firefox-desktop-download-breached-website-alerts = התרעות על אתרים שנפרצו
 firefox-desktop-download-built-in-password = מנהל ססמאות מובנה
@@ -67,6 +81,10 @@ firefox-desktop-download-make-firefox-your = עשו את <strong>{ -brand-name-f
 firefox-desktop-download-extensions-for-every = הרחבות לכל מטרה
 firefox-desktop-download-change-up-your = שינוי המראה שלכם
 firefox-desktop-download-go-from-light = עברו ממצב בהיר למצב כהה בהתאם למצב הרוח או ההעדפה שלכם, או שתקפיצו את האווירה עם ערכת נושא מותאמת אישית (חד קרן בצבעי הקשת, למשל).
+firefox-desktop-download-tweak-your-settings = כיוונון ההגדרות שלכם
+firefox-desktop-download-theres-no-need = אין צורך להתפשר. שנו את דף הלשוניות החדשה, את סרגל החיפוש, את הסימניות ועוד כדי לגלוש באינטרנט כמו שאתם רוצים.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = מגובה על־ידי העמותה <strong>שאינה למטרות רווח</strong> ששמה את האנשים בעדיפות ראשונה
 firefox-desktop-download-challenging-the-status = מאתגרים את הסטטוס קוו מאז 1998
 firefox-desktop-download-your-privacy-comes = הפרטיות שלכם קודמת לכל
 # Gmail and Docs are product names and should not be translated
