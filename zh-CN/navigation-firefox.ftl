@@ -8,6 +8,7 @@ navigation-landmark-label = 主要
 
 ## Features
 
+navigation-features = 特色
 
 ## Resources
 
@@ -17,7 +18,7 @@ navigation-product = 产品
 navigation-desktop = 桌面版
 navigation-mobile = 移动版
 navigation-release-notes = 发行说明
-navigation-support = 用户支持
+navigation-support = 技术支持
 navigation-add-ons = 附加组件
 navigation-learn = 学院
 navigation-blog = 博客

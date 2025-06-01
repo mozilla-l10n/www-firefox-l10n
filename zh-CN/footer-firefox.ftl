@@ -28,7 +28,7 @@ footer-nightly = { -brand-name-nightly }
 ## Download links for enterprise versions of Firefox.
 
 # Section title
-footer-business = { -brand-name-firefox } 企业版
+footer-business = 商用版 { -brand-name-firefox }
 footer-enterprise = { -brand-name-enterprise }
 
 ## Links to community groups.
@@ -44,6 +44,7 @@ footer-developer = 开发者
 footer-resources = 资源
 footer-compare = 比较
 footer-release-notes = 发行说明
+footer-support = 技术支持
 footer-addons = 附加组件
 footer-blog = 博客
 
@@ -57,11 +58,11 @@ footer-tiktok = TikTok
 
 ## Legal links
 
-footer-websites-privacy-notice = 隐私
+footer-websites-privacy-notice = 网站隐私声明
 footer-terms-of-use = 使用条款
 footer-websites-cookie-policy = Cookie 政策
 footer-community-participation-guidelines = 社区参与准则
-footer-logo-trademark-licensing = 徽标商标使用许可协议
+footer-logo-trademark-licensing = 徽标商标许可
 
 ##
 
