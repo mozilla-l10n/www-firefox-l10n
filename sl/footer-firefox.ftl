@@ -62,6 +62,7 @@ footer-websites-privacy-notice = Obvestilo o zasebnosti te strani
 footer-terms-of-use = Pogoji uporabe
 footer-websites-cookie-policy = Politika piškotkov
 footer-community-participation-guidelines = Smernice za sodelovanje v skupnosti
+footer-logo-trademark-licensing = Dovoljena blagovnih znamk in logotipov
 
 ##
 
