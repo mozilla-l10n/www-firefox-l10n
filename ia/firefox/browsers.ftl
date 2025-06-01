@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.springfield.moz.works/
 
+# HTML page title
+firefox-browsers-page-title-v2 = { -brand-name-firefox } pro scriptorio
+firefox-browsers-main-heading-v2 = { -brand-name-firefox } pro scriptorio
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Obtene le navigator que antepone tu vita private – e <strong>sempre</strong> lo ha facite
 firefox-browsers-desktop = Scriptorio
