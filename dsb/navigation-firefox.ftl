@@ -23,7 +23,7 @@ navigation-add-ons = Dodanki
 navigation-learn = Wukniśo
 navigation-blog = Blog
 navigation-compare = Pśirownaś
-navigation-podcast = Podkast
+navigation-podcast = Podcast
 
 ## Download
 

@@ -23,7 +23,7 @@ navigation-add-ons = Přidatki
 navigation-learn = Wukńće
 navigation-blog = Blog
 navigation-compare = Přirunać
-navigation-podcast = Podkast
+navigation-podcast = Podcast
 
 ## Download
 
