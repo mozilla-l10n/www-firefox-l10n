@@ -5,13 +5,35 @@
 
 ### URL: https://www-dev.springfield.moz.works/download/all/
 
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = دریافت { -brand-name-firefox } به زبان انگلیسی (ایالات متحده) و بیش از ۹۰ زبان دیگر
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = همه سزاوار دسترسی به اینترنت هستند — زبان شما هرگز نباید مانعی باشد. به همین دلیل — با کمک داوطلبان متعهد در سراسر جهان — ما { -brand-name-firefox } را در بیش از ۹۰ زبان فراهم کرده‌ایم.
+firefox-all-choose-browser = برای ادامه یک مرورگر انتخاب کنید
+firefox-all-choose-platform = برای ادامه یک سکو انتخاب کنید
+firefox-all-choose-language = برای ادامه زبان مد نظر را انتخاب کنید
+firefox-all-change-browser = یک محصول متفاوت انتخاب کنید
+firefox-all-change-platform = یک سکوی متفاوت انتخاب کنید
+firefox-all-change-language = یک زبان متفاوت انتخاب کنید
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = از فهرست زیر انتخاب کنید
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = دریافت راهنمایی
+firefox-all-browser-v2 = ۱. مرورگر:
+firefox-all-platform-v2 = ۲. سکو:
+firefox-all-language-v2 = ۳. زبان:
+firefox-all-download = ۴. دریافت:
+firefox-all-desktop = رومیزی
+firefox-all-mobile = تلفن همراه
+firefox-all-recommended = (پیشنهاد شده)
+firefox-all-lang-multi = چندین زبان
+firefox-all-plat-mobile = اندروید و iOS
 firefox-all-sorry-we-couldnt-find = متاسفیم، ما نتوانستیم نسخه مورد نظر شما را پیدا کنیم. لطفاً دوباره تلاش کنید، یا از فهرست زیر انتخاب کنید.
 firefox-all-the-pre-alpha-version = نسخه pre-alpha برای کاربران حرفه‌ای که دوست دارند باگ‌ها را شکار کنند و ویژگی‌های جدید را همزمان با توسعه و کدنویسی آزمایش کنند.
 firefox-all-64-bit-installers = نصاب‌های ۶۴ بیتی
 firefox-all-choose-a-64-bit-installer = برای رایانه‌هایی که دارای پردازنده‌های ۶۴ بیتی هستند، یک نصاب ۶۴ بیتی را انتخاب کنید، که به آنها امکان می دهد RAM بیشتری را به برنامه‌ها اختصاص دهند - مخصوصاً برای بازی‌ها و سایر برنامه‌ها.
 firefox-all-32-bit-installers = نصاب‌های ۳۲ بیتی
+firefox-all-microsoft-store-installers = فروشگاه مایکروسافت
 firefox-all-check-the-system-requirements = بررسی نیازمندی‌های سیستم
 firefox-all-release-notes = یادداشت‌های انتشار
 firefox-all-source-code = کد منبع
