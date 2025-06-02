@@ -24,7 +24,7 @@ firefox-desktop-download-fast-reliable-private = Snabb, pålitlig och privat —
 # Obsolete string
 firefox-desktop-download-no-shady = Inga konstiga sekretesspolicyer eller bakdörrar för annonsörer. Bara en blixtsnabb webbläsare som inte säljer din data.
 firefox-desktop-download-download-options = Nedladdningsalternativ och andra språk
-firefox-desktop-download-browser-support = { -brand-name-firefox-browser } support
+firefox-desktop-download-browser-support = Support { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Gör vad du vill online.<br> { -brand-name-firefox-browser } <strong>skyddar</strong> dig.
 # Obsolete string
