@@ -6,7 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/browsers/opera/
 
 # Page title
-compare-opera-firefox-vs-opera = { -brand-name-firefox } frente a Opera
+compare-opera-firefox-vs-opera = { -brand-name-firefox } versus Opera
 # HTML page description
 compare-opera-read-our-comparison = Leé nuestra comparación de los navegadores { -brand-name-firefox } y Opera en cuanto a características, privacidad y facilidad de uso.
 # Variables:

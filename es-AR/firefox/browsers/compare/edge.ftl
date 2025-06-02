@@ -6,7 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/compare/edge/
 
 # Page title
-compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } frente a Microsoft Edge
+compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } versus Microsoft Edge
 # HTML page description
 compare-edge-read-our-comparison = Leé nuestra comparación de los navegadores { -brand-name-firefox } y Edge en cuanto a características, privacidad y facilidad de uso.
 compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } hace que la protección de la privacidad sea fácil y conveniente para que no tengás que preocuparte por eso.

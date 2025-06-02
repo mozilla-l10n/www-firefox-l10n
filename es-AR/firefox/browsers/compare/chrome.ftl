@@ -14,8 +14,8 @@ compare-chome-read-our-comparison = Leé nuestra comparación de los navegadores
 # $adblocker (url) - link to https://www.firefox.com/features/adblocker/
 compare-chrome-firefoxs-default-privacy-settings = La configuración de privacidad predeterminada de { -brand-name-firefox } es mucho más segura que la de Chrome, y tenemos funciones adicionales para evitar que los sitios web te rastreen, como el <a { $fingerprint }>bloqueo de huellas digitales</a>, así como la elección de complementos para <a { $adblocker }>bloqueo de publicidad</a>.
 compare-chrome-we-block-trackers-by-default = Bloqueamos los rastreadores por defecto. Chrome no.
-compare-chrome-in-fact-by-default-chrome-monitors = De hecho, de manera predeterminada, Chrome monitorea los sitios web visitados y lo que hace para poder identificar “temas publicitarios” y enviar anuncios más dirigidos. Podés bloquear tres temas, pero no podé hacer que dejen de identificar otros temas publicitarios.
-compare-chrome-chrome-allows-other-websites-to = Chrome permite que otros sitios web recopilen información sobre vos para poder sugerir anuncios. Podés bloquear sitios específicos para que no sugieran anuncios, pero no podés frenar la recopilación de datos o sugerencias de otros sitios.
+compare-chrome-in-fact-by-default-chrome-monitors = De hecho, de manera predeterminada, Chrome monitorea los sitios web visitados y lo que hace para poder identificar “temas publicitarios” y enviar anuncios más dirigidos. Podés bloquear tres temas, pero no podés hacer que dejen de identificar otros temas publicitarios.
+compare-chrome-chrome-allows-other-websites-to = Chrome permite que otros sitios web recopilen información sobre vos para poder sugerir publicidades. Podés bloquear sitios específicos para que no sugieran publicidades, pero no podés frenar la recopilación de datos o sugerencias de otros sitios.
 compare-chrome-google-runs-the-worlds-largest = Google administra la red publicitaria más grande del mundo, y Chrome es parte de ella.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/switching-chrome-firefox

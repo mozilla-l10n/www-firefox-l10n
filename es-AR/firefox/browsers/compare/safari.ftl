@@ -6,7 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/compare/safari/
 
 # Page title
-compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } frente a Apple Safari
+compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } versus Apple Safari
 # HTML page description
 compare-safari-read-our-comparison = Leé nuestra comparación de los navegadores { -brand-name-firefox } y Safari en cuanto a características, privacidad y facilidad de uso.
 compare-safari-safari-and-firefox-both-have = Tanto Safari como { -brand-name-firefox } tienen buenas características de privacidad y seguridad.
