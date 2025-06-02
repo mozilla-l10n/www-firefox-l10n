@@ -8,6 +8,7 @@
 
 # HTML page title
 
+browsers-chromebook-get-firefox-browser = { -brand-name-chromebook } සඳහා { -brand-name-firefox-browser } ගන්න.
 browsers-chromebook-browsers-chromebook-get-firefox-for = { -brand-name-android } සඳහා { -brand-name-firefox } ගන්න
 browsers-chromebook-get-firefox-desktop = { -brand-name-chromebook } සඳහා { -brand-name-firefox } ගන්න
 browsers-chromebook-dropdown-copy = { -brand-name-chromebook } සඳහා { -brand-name-firefox } ගන්න

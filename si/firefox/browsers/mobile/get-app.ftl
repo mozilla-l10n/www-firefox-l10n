@@ -10,3 +10,4 @@ firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = දැන්වීම්කරුවන්ට නොව ඔබට තනන ලද ජංගම අතිරික්සුව ගන්න
 firefox-mobile-get-firefox-mobile = ජංගම { -brand-name-firefox } ගන්න
+firefox-mobile-scan-the-qr-code-to-get-started = පටන් ගැනීමට QR කේතය සුපිරික්සන්න
