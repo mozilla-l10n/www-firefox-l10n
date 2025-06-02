@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
-firefox-mobile-download-the-firefox-browser = Descargá { -brand-name-firefox-browser } en tu celular para { -brand-name-ios } y { -brand-name-android }
-firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } para celulares bloquea más de 2000 rastreadores de manera predeterminada, dándote la privacidad que merecés y la velocidad que necesitás en un navegador móvil privado.
+firefox-mobile-download-the-firefox-browser = Descargá { -brand-name-firefox-browser } en tu dispositivo móvil { -brand-name-ios } y { -brand-name-android }
+firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } para móviles bloquea más de 2000 rastreadores de manera predeterminada, dándote la privacidad que merecés y la velocidad que necesitás en un navegador móvil privado.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Obtené el navegador móvil hecho para vos, sin publicidad
