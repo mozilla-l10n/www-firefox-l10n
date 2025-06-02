@@ -23,7 +23,7 @@ firefox-channel-all-languages-and-builds = Todos los idiomas y versiones
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } es una plataforma inestable de prueba y desarrollo. De manera predeterminada, { -brand-name-beta } envía datos a { -brand-name-mozilla } — y a veces a nuestros asociados — para ayudar a manejar problemas y probar ideas. <a href="{ $link }">Conocer qué es lo que se comparte</a>.
-firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } envía alguna información a { -brand-name-mozilla } directamente.
+firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } envía alguna información a { -brand-name-mozilla } automáticamente.
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Danos tu opinión</a> para ayudarnos a hacer los ajustes finales en rendimiento y funcionalidad para la versión estable.
@@ -32,7 +32,7 @@ firefox-channel-nightly-blog = Blog de { -brand-name-nightly }
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } es una plataforma inestable de prueba y desarrollo. De manera predeterminada, { -brand-name-nightly } envía datos a { -brand-name-mozilla } — y a veces a nuestros asociados — para ayudar a manejar problemas y probar ideas. <a href="{ $link }">Conocer qué es lo que se comparte</a>.
-firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } envía alguna información automáticamente a { -brand-name-mozilla }.
+firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } envía alguna información a { -brand-name-mozilla } automáticamente.
 firefox-channel-experience-cutting-edge-desktop = Experimentá las próximas funciones en las versiones de prueba: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } y { -brand-name-firefox-nightly }. ¡Descargalas!
 firefox-channel-download-and-test-the-latest-desktop = Descargá y probá las últimas funcionalidades de { -brand-name-firefox } para escritorio con las versiones { -brand-name-developer-edition }, { -brand-name-beta } y { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }
@@ -44,7 +44,7 @@ firefox-channel-build-test-scale-and-more = Creá, probá y mucho más con el ú
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } es una plataforma inestable de prueba y desarrollo. De manera predeterminada, { -brand-name-developer-edition } envía datos a { -brand-name-mozilla } — y a veces a nuestros asociados — para ayudar a manejar problemas y probar ideas. <a href="{ $link }">Conocer qué es lo que se comparte</a>.
-firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } envía alguna información automáticamente a { -brand-name-mozilla }.
+firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } envía alguna información a { -brand-name-mozilla } automáticamente.
 firefox-channel-nightly = { -brand-name-nightly }
 firefox-channel-get-a-sneak-peek-at-our = Conocé la próxima generación de nuestro navegador y ayudanos a convertirlo en el mejor navegador posible: probá { -brand-name-firefox-nightly }.
 firefox-channel-test-brand-new-features = Probá nuevas características diariamente (o… nightly). DIsfrutá bajo tu propio riesgo.
