@@ -10,4 +10,5 @@ features-fingerprinting-fingerprinting-is-a-desc = Fingerprinting jo typ pśesl�
 features-fingerprinting-fingerprint-blocking = Blokěrowanje palcowych wótśišćow
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } slědowanje pśez palcowe wótśišće blokěrujo
 features-fingerprinting-what-is-fingerprinting-body = Co jo slědowanje pśez palcowe wótśišće?
+features-fingerprinting-fingerprinting-is-a = Napóranje palcowych wótśišćow jo typ pśeslědowanja online, kótarež jo wěcej inwaziwne ako normalne pśeslědowanje na zakłaźe cookiejow. Digitalny palcowy wótśišć se napórajo, gaž pśedewześe jadnorazowy profil na zakłaźe wašeje kompjuteroweje hardware, software, dodankow a samo nastajenjow napórajo. Waše nastajenja ako wobrazowku, kótaruž wužywaśo, pisma, kótarež sćo instalěrował na swójo licadle, a samo webwobglědowak, kótaryž wužywaśo, daju se wužywaś, aby palcowy wótśišć napórali.
 features-fingerprinting-fingerprinting-is-bad = Slědowanje pśez palcowe wótśišće jo špatne za web
