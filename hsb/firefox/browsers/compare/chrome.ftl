@@ -12,4 +12,5 @@ compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } porno Google C
 # $adblocker (url) - link to https://www.firefox.com/features/adblocker/
 compare-chrome-firefoxs-default-privacy-settings = Standardne nastajenja priwatnosće { -brand-name-firefox } su wjele sylniše hač te nastajenja Chrome – a my mamy přidatne funkcije, zo bychmy tomu zadźěwali, zo websydła wam slěduja, na přikład <a { $fingerprint }>blokowanje porstowych wotćišćow</a> a wašu wólbu přidatkow za <a { $adblocker }>blokowanje wabjenja</a>.
 compare-chrome-we-block-trackers-by-default = Přesćěhowaki po standardźe blokujemy. Chrome to nječini.
+compare-chrome-in-fact-by-default-chrome-monitors = Woprawdźe, po standardźe Chrome dohladuje, kotre websydła wopytujeće, a štož činiće, zo by móhł „wabjenske temy“ identifikował, zo by wam zaměrniše wabjenje připósłał. Móžeće tři temy blokować, ale njemóžeće tomu zadźěwał, zo druhe wabjenske temy za was identifikuja.
 compare-chrome-google-runs-the-worlds-largest = Google najwjetšu wabjensku syć swěta wudźeržuje, a Chrome je dźěl teje.
