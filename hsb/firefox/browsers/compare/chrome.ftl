@@ -17,4 +17,4 @@ compare-chrome-chrome-allows-other-websites-to = Chrome druhim websydłam dowolu
 compare-chrome-google-runs-the-worlds-largest = Google najwjetšu wabjensku syć swěta wudźeržuje, a Chrome je dźěl teje.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/switching-chrome-firefox
-compare-chrome-switching-to-firefox-is-easy = Móžeće lochko a spěšnje k přeńć – importujće swoje zapołožki Chrome, swoje hesła, historiju a nastajenja z jednym kliknjenjom a budźeće hnydom hotowy, { -brand-name-firefox } wužiwać. Čitajće how <a { $howto }>kak móžeće wot Chrome do { -brand-name-firefox } přeńć</a>.
+compare-chrome-switching-to-firefox-is-easy = Móžeće lochko a spěšnje k { -brand-name-firefox } přeńć – importujće swoje zapołožki Chrome, swoje hesła, historiju a nastajenja z jednym kliknjenjom a budźeće hnydom hotowy, { -brand-name-firefox } wužiwać. Čitajće tu <a { $howto }>kak móžeće wot Chrome do { -brand-name-firefox } přeńć</a>.

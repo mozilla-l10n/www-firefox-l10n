@@ -15,3 +15,6 @@ compare-chrome-we-block-trackers-by-default = Pśeslědowaki pó standarźe blok
 compare-chrome-in-fact-by-default-chrome-monitors = Zawěrno, pó standarźe Chrome doglědujo, ku kótarym websedłam se woglědujośo, a což cyniśo, aby mógał „wabjeńske temy“ identificěrował, aby wam zaměrnjejše wabjenje pśipósłał. Móžośo tśi temy blokěrowaś, ale njamóžośo tomu zajźował, až druge wabjeńske temy za was identificěruju.
 compare-chrome-chrome-allows-other-websites-to = Chrome drugim websedłam dowólujo, informacije wó was gromaźiś, aby wóne mógli wabjenje naraźiś. Móžośo wěstym sedłam zawoboraś wabjenje naraźiś, ale njamóžośo gromaźenjeju datow abo naraźenjam z drugich sedłow zajźowaś.
 compare-chrome-google-runs-the-worlds-largest = Google nejwětšu wabjeńsku seś swěta wuźaržujo, a Chrome jo źěl teje.
+# Variables:
+# $howto (url) - link to https://support.mozilla.org/kb/switching-chrome-firefox
+compare-chrome-switching-to-firefox-is-easy = Móžośo lažko a malsnje k { -brand-name-firefox } pśejś – importěrujśo swóje cytańske znamjenja Chrome, swóje gronidła, historiju a nastajenja z jadnym kliknjenim a buźośo ned gótowy, { -brand-name-firefox } wužywaś. Cytajśo how <a { $howto }>kak móžośo wót Chrome do { -brand-name-firefox } pśejś</a>.
