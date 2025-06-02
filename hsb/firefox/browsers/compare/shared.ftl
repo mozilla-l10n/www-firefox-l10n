@@ -12,5 +12,6 @@ compare-shared-firefox-also-has-built-in = { -brand-name-firefox } ma tež zatwa
 # Variables
 # $translate (url) - link to https://www.firefox.com/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>Přełožće webstronu</a> lokalnje a priwatnje.
+compare-shared-its-easy-to-switch = Je lochko změnić
 # Used as a small link to a cited source
 compare-shared-source = žórło
