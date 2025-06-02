@@ -6,7 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/channel/desktop/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } es el navegador ultrarápido que brinda herramientas de avanzada para desarrolladores y funciones innovadoras como soporte para la grilla CSS y la depuración del marco de trabajo
+firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } es el navegador ultrarápido que brinda herramientas de avanzada para desarrolladores y funciones innovadoras como soporte para la CSS Grid y la depuración de framework
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Bienvenido a tu nuevo navegador favorito. Obtené las últimas funciones, alto rendimiento y las herramientas de desarrollo que necesitás para construir una web abierta.
 firefox-developer-speak-up = Contanos
@@ -25,15 +25,15 @@ firefox-developer-console = Consola
 firefox-developer-track-css = Rastreá problemas de CSS, JavaScript, seguridad y red.
 firefox-developer-learn-about-web-console = Conocé más acerca de la consola web
 firefox-developer-debugger = Depurador
-firefox-developer-powerful-javascript = Depurador de JavaScript potente con soporte para su infraestructura.
+firefox-developer-powerful-javascript = Depurador de JavaScript potente con soporte para tu framework.
 firefox-developer-learn-more-about-debugger = Conocé más acerca del depurador de JavaScript
 firefox-developer-network = Red
-firefox-developer-monitor-network-requests = Vigilá los pedidos de red que pueden estar bloqueando o haciendo más lento tu sitio.
+firefox-developer-monitor-network-requests = Monitoreá los pedidos de red que pueden estar bloqueando o haciendo más lento tu sitio.
 firefox-developer-learn-more-about-newtork-monitor = Conocé más acerca del monitor de red
 firefox-developer-storage-panel = Panel de almacenamiento
-firefox-developer-add-modify-remove = Agregá, modificá o borrá el caché, cookies o iformación de base de datos y la sesión.
+firefox-developer-add-modify-remove = Agregá, modificá o borrá el caché, cookies, bases de datos e información de sesión.
 firefox-developer-learn-more-about-storage = Conocé más acerca del panel de almacenamiento
-firefox-developer-responsive-design-mode = Modo diseño adaptable
+firefox-developer-responsive-design-mode = Modo de diseño adaptable
 firefox-developer-test-sites-emulated = Probá tus sitios en dispositivos emulados en tu navegador.
 firefox-developer-learn-more-about-responsive = Conocé más acerca de la vista de diseño adaptable
 firefox-developer-visual-editing = Edición visual
