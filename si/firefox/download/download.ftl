@@ -27,6 +27,8 @@ firefox-new-your-firefox-new-should-begin = ඔබගේ බාගැනීම �
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } යනු අතිරික්සුවකට වඩා දෙයකි
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = ඔබගේ බාගැනීමට බාධා විය. නමුත් සියල්ල අහිමි වී නැත.
+firefox-new-download-almost-there = ආසන්නයි!
+firefox-new-download-select-linux = පහත බාගැනීමේ විකල්පයක් තෝරන්න
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-system-may-not = ඔබගේ පද්ධතිය { -brand-name-firefox } සඳහා අවශ්‍යතා සපුරාලන්නේ නැති සෙයකි, නමුත් ඔබට <a href="{ $url }">මෙම අනුවාද වලින්</a> එකක් උත්සාහ කළ හැකිය.
