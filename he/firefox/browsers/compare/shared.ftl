@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/compare/
 
+compare-shared-compare-firefox = השוואת { -brand-name-firefox }
 compare-shared-footer-cta-title = לעשות יותר עם { -brand-name-firefox }
 compare-shared-footer-cta-desc = קבלו את הדפדפן המהיר, הקל וממוקד הפרטיות שמגובה על־ידי עמותה שאינה למטרות רווח ועובד בכל המכשירים שלכם.
 compare-shared-we-also-offer-easy = אנו מציעים גם תכונות קלות לשימוש כגון:
