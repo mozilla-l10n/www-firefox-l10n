@@ -5,13 +5,18 @@
 
 ### URL: https://www-dev.springfield.moz.works/download/all/
 
+firefox-all-choose-browser = Ընտրեք դիտարկիչ՝ շարունակելու համար
+firefox-all-choose-platform = Ընտրեք հարթակ՝ շարունակելու համար
+firefox-all-choose-language = Ընտրեք լեզու՝ շարունակելու համար
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Օգնություն ստանալ
+firefox-all-plat-mobile = Android և iOS
 firefox-all-sorry-we-couldnt-find = Ներեցեք, մենք չկարողացանք գտնել ձեր փնտրած ներբեռնումը: Խնդրում ենք կրկին փորձել կամ ընտրեք ներբեռնումը ստրև ցուցակից:
 firefox-all-the-pre-alpha-version = Նախանախնական տարբերակ հզոր օգտատերերի համար, ովքեր սիրում են որսալ վթարներ և թեստավորել նոր յուրահատկություններ:
 firefox-all-64-bit-installers = 64-բիթանոց տեղադրիչներ
 firefox-all-choose-a-64-bit-installer = Ընտրեք 64 բիթային տեղակայիչ 64 բիթային մշակիչներով համակարգիների համար: Այն հնարավորություն է տալիս բաշխել ավելի շատ RAM անհատական ծրագրերի համար, ինչը մասնավորապես կարևոր է խաղերի և պահանջված այլ ծրագրերի համար:
 firefox-all-32-bit-installers = 32-բիթանոց տեղադրիչներ
+firefox-all-microsoft-store-installers = Microsoft Store
 firefox-all-check-the-system-requirements = Ստուգեք համակարգի պահանջները
 firefox-all-release-notes = Թողարկման նշումներ
 firefox-all-source-code = Աղբյուրի կոդը
@@ -24,6 +29,7 @@ firefox-all-get-a-sneak-peek-at = Ծանոթացեք { -brand-name-firefox }-ի 
 firefox-all-test-your-sites-against = Փորձարկեք ձեր կայքերը { -brand-name-firefox } զննարկիչի գործառույթների հետ համատեղելիության հետ՝ հզոր, ճկուն DevTools-ով, որը միացված է սկզբնադիր:
 firefox-all-count-on-stability-and = Վստահեք ձեռնարկատիրության համար կառուցված { -brand-name-firefox }-ի կայունությանը և դյուրին օգտագործմանը:
 firefox-all-windows-installers-for = Windows-ի տեղակայիչներ կորպորատիվ ՏՏ-ի համար, որոնք պարզեցնում են { -brand-name-firefox-browser }-ի կազմաձևումը, գործադրումը և կառավարումը:
+firefox-all-arm64-installers = ARM64/AArch64 տեղակայիչներ
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Ընտրեք 32 բիթային տեղադրիչ 32 բիթային մշակիչներով կամ ավելի հին կամ քիչ հզորությամբ համակարգիչների համար: <a href="{ $url }">Եթե համոզված չեք,</a> թե որը՝ ընտրել՝ 64, թե 32 բիթային, ապա խորհուրդ ենք տալիս ընտրել 32 բիթայինը:
@@ -38,3 +44,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-download-esr-115 = Ներբեռնեք ESR 115-ը

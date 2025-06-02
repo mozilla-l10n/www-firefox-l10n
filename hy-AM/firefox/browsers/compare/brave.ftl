@@ -5,3 +5,5 @@
 
 ### URL: https://www-dev.springfield.moz.works/compare/brave/
 
+# Page title
+compare-brave-firefox-vs-brave = { -brand-name-firefox } vs Brave
