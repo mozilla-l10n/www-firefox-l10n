@@ -7,4 +7,4 @@
 
 features-shared-firefox-features = { -brand-name-firefox } a jeho funkcie
 features-shared-footer-cta-title = Urobte viac s { -brand-name-firefox(case: "ins") }
-features-shared-footer-cta-desc = Získajte rýchly, ľahký prehliadač zameraný na ochranu osobných údajov, ktorý je podporovaný neziskovou organizáciou a funguje na všetkých vašich zariadeniach.
+features-shared-footer-cta-desc = Získajte rýchly, ľahký prehliadač zameraný na ochranu súkromia, ktorý je podporovaný neziskovou organizáciou a funguje na všetkých vašich zariadeniach.

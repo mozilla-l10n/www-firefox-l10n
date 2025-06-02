@@ -8,11 +8,11 @@
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
 # HTML page description
-compare-chome-read-our-comparison = Prečítajte si naše porovnanie prehliadačov { -brand-name-firefox } a Chrome týkajúce sa funkcií, ochrany osobných údajov a jednoduchosti používania.
+compare-chome-read-our-comparison = Prečítajte si naše porovnanie prehliadačov { -brand-name-firefox } a Chrome týkajúce sa funkcií, ochrany súkromia a jednoduchosti používania.
 # Variables:
 # $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
 # $adblocker (url) - link to https://www.firefox.com/features/adblocker/
-compare-chrome-firefoxs-default-privacy-settings = Predvolené nastavenia ochrany osobných údajov vo { -brand-name-firefox(case: "loc") } sú oveľa silnejšie ako v prehliadači Chrome – a máme ďalšie funkcie, ktoré zabránia webovým stránkam vo vašom sledovaní, ako je <a { $fingerprint }>blokovanie snímania odtlačkov prehliadača</a>, ako aj váš výber doplnkov pre <a { $adblocker }>blokovanie reklám</a>.
+compare-chrome-firefoxs-default-privacy-settings = Predvolené nastavenia ochrany súkromia vo { -brand-name-firefox(case: "loc") } sú oveľa silnejšie ako v prehliadači Chrome – a máme ďalšie funkcie, ktoré zabránia webovým stránkam vo vašom sledovaní, ako je <a { $fingerprint }>blokovanie snímania odtlačkov prehliadača</a>, ako aj váš výber doplnkov pre <a { $adblocker }>blokovanie reklám</a>.
 compare-chrome-we-block-trackers-by-default = V predvolenom nastavení blokujeme sledovače. Chrome nie.
 compare-chrome-in-fact-by-default-chrome-monitors = V skutočnosti Chrome v predvolenom nastavení monitoruje, ktoré webové stránky navštevujete a čo robíte, aby mohol identifikovať „témy pre reklamy“ a posielať vám cielenejšie reklamy. Môžete zablokovať tri témy, ale nemôžete im zabrániť, aby pre vás prestali určovať iné témy reklám.
 compare-chrome-chrome-allows-other-websites-to = Chrome umožňuje iným webovým stránkam zhromažďovať informácie o vás, aby mohli navrhovať reklamy. Môžete blokovať konkrétne stránky, aby nenavrhovali reklamy, ale nemôžete zastaviť zhromažďovanie údajov ani návrhy z iných stránok.

@@ -7,6 +7,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = Porovnanie prehliadačov
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } pre počítače
 sub-navigation-release-notes = Poznámky k vydaniu
+sub-navigation-release-channels = Oficiálne vydania
 sub-navigation-desktop = Počítač
 sub-navigation-mobile = Mobilné zariadenia
 sub-navigation-android = { -brand-name-android }
