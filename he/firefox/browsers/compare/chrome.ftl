@@ -12,7 +12,7 @@ compare-chome-read-our-comparison = קריאת ההשוואה שלנו בין ה
 # Variables:
 # $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
 # $adblocker (url) - link to https://www.firefox.com/features/adblocker/
-compare-chrome-firefoxs-default-privacy-settings = הגדרות הפרטיות המוגדרות כברירת מחדל של { -brand-name-firefox } חזקות בהרבה מאלה של Chrome - ויש לנו יכולות נוספות כדי למנוע מאתרים לעקוב אחריכם, כגון <a { $fingerprint }>חסימת טביעת אצבע של המכשיר שלכם</a>, כמו גם אפשרות בחירה של תוספות לטובת <a { $adblocker }>חסימת פרסומות</a>.
+compare-chrome-firefoxs-default-privacy-settings = הגדרות הפרטיות המוגדרות כברירת מחדל של { -brand-name-firefox } חזקות בהרבה מאלה של Chrome - ויש לנו יכולות נוספות כדי למנוע מאתרים לעקוב אחריכם, כגון <a { $fingerprint }>חסימה של יצירת טביעת אצבע של המכשיר שלכם</a>, כמו גם אפשרות בחירה של תוספות לטובת <a { $adblocker }>חסימת פרסומות</a>.
 compare-chrome-we-block-trackers-by-default = אנחנו חוסמים רכיבי מעקב כברירת מחדל. Chrome לא.
 compare-chrome-in-fact-by-default-chrome-monitors = למעשה, כברירת מחדל, Chrome עוקב אחר האתרים שבהם מבקרים ואחר הפעילות שלכם, כך שיוכל לזהות ״נושאי פרסום״ ולשלוח לכם פרסומות ממוקדות יותר. באפשרותכם לחסום שלושה נושאים, אך אי אפשר לגרום להם להפסיק לזהות עבורכם נושאי פרסום אחרים.
 compare-chrome-chrome-allows-other-websites-to = ‏Chrome מאפשר לאתרים אחרים לאסוף עליכם מידע כדי שיוכלו להציע פרסומות. ניתן לחסום אתרים ספציפיים מלהציע פרסומות, אך לא ניתן לעצור את איסוף הנתונים או את ההצעות מאתרים אחרים.

@@ -11,7 +11,7 @@ compare-opera-firefox-vs-opera = ‏{ -brand-name-firefox } לעומת Opera
 compare-opera-read-our-comparison = קריאת ההשוואה שלנו בין הדפדפנים { -brand-name-firefox } ו־Opera בתכונות, פרטיות וקלות שימוש.
 # Variables:
 # $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
-compare-opera-firefoxs-default-privacy-settings = הגדרות הפרטיות המוגדרות כברירת מחדל של { -brand-name-firefox } חזקות מאלה של Opera - ויש לנו יכולות נוספות כדי למנוע מאתרים לעקוב אחריכם, כגון <a { $fingerprint }>חסימת טביעת אצבע של המכשיר שלכם</a>.
+compare-opera-firefoxs-default-privacy-settings = הגדרות הפרטיות המוגדרות כברירת מחדל של { -brand-name-firefox } חזקות מאלה של Opera - ויש לנו יכולות נוספות כדי למנוע מאתרים לעקוב אחריכם, כגון <a { $fingerprint }>חסימה של יצירת טביעת אצבע של המכשיר שלכם</a>.
 compare-opera-firefox-offers-a-wide-range-of = ‏{ -brand-name-firefox } מציע מגוון רחב של אפשרויות התאמה אישית, לרבות היכולת להעביר תפריטים וסרגלי כלים למיקומים שונים בחלון הדפדפן. הממשק של Opera פחות ניתן להתאמה אישית.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
