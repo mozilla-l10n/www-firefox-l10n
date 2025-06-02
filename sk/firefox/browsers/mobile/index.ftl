@@ -17,7 +17,7 @@ browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } pre mobil
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Získajte vylepšenú ochranu pred sledovaním a urobte z { -brand-name-firefox(case: "gen") } svoj predvolený, vždy používaný prehliadač vo svojom zariadení { -brand-name-iphone } či { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
-browsers-mobile-looking-for-a-streamlined = Hľadáte efektívny, super rýchly mobilný prehliadač s funkciami ochrany osobných údajov novej úrovne? { -brand-name-firefox-focus } automaticky vymaže celú vašu históriu prehliadania od okamihu otvorenia prehliadača až po jeho zatvorenie.
+browsers-mobile-looking-for-a-streamlined = Hľadáte efektívny, super rýchly mobilný prehliadač s funkciami ochrany súkromia novej úrovne? { -brand-name-firefox-focus } automaticky vymaže celú vašu históriu prehliadania od okamihu otvorenia prehliadača až po jeho zatvorenie.
 browsers-mobile-compare = Porovnanie
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Pozrite sa, ako si { -brand-name-firefox } pre <strong>počítače</strong> počína v porovnaní s inými prehliadačmi.

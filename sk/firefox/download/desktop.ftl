@@ -36,7 +36,7 @@ firefox-desktop-download-for-everyone = { -brand-name-firefox } je pre všetkýc
 firefox-desktop-download-available-in-over = Dostupný vo viac ako 90 jazykoch a kompatibilný so zariadeniami s { -brand-name-windows }, { -brand-name-mac-short } a { -brand-name-linux }, { -brand-name-firefox } funguje bez ohľadu na to čo používate alebo kde sa nachádzate. Uistite sa, že váš operačný systém je aktuálny, aby ste dosiahli čo najlepší zážitok.
 firefox-desktop-download-review-system-req = Pozrite si systémové požiadavky
 firefox-desktop-download-all-your-devices = Nainštalujte si { -brand-name-firefox } na všetky svoje zariadenia
-firefox-desktop-download-take-your-privacy = Vezmite si svoje súkromie všade so sebou. { -brand-name-firefox-browsers } pre { -brand-name-ios } a { -brand-name-android } majú rovnako silné nastavenia ochrany osobných údajov, aby blokovali sledovačov, aby vás sledovali na webe, bez ohľadu na to, kde sa nachádzate.
+firefox-desktop-download-take-your-privacy = Vezmite si svoje súkromie všade so sebou. { -brand-name-firefox-browsers } pre { -brand-name-ios } a { -brand-name-android } majú rovnako silné nastavenia ochrany súkromia, aby blokovali sledovačov, aby vás sledovali na webe, bez ohľadu na to, kde sa nachádzate.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Toto <strong>všetko</strong> s { -brand-name-firefox(case: "ins") }
 firefox-desktop-download-search-smarter = Hľadajte inteligentnejšie a rýchlejšie

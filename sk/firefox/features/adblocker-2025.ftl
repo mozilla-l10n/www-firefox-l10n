@@ -37,4 +37,4 @@ features-adblocker-why-use = Prečo používať blokovač reklám?
 features-adblocker-ad-blockers-do-more = Blokátory reklám dokážu viac než len spravovať reklamy – môžu zvýšiť rýchlosť a bezpečnosť vášho prehliadania znížením zbytočného obsahu. Umožňujú vám vytvoriť si prispôsobený webový zážitok bez rozptyľovania, ktorý vám umožní sústrediť sa na to, na čom najviac záleží.
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/
-features-adblocker-explore-hundreds = Preskúmajte stovky doplnkov zameraných na ochranu osobných údajov dostupných pre { -brand-name-firefox } a nájdite tie správne nástroje pre vás. <a href="{ $url }">Stiahnite si { -brand-name-firefox }</a> ešte dnes a vyskúšajte prehliadač navrhnutý s ohľadom na vaše súkromie a výkon.
+features-adblocker-explore-hundreds = Preskúmajte stovky doplnkov zameraných na ochranu súkromia dostupných pre { -brand-name-firefox } a nájdite tie správne nástroje pre vás. <a href="{ $url }">Stiahnite si { -brand-name-firefox }</a> ešte dnes a vyskúšajte prehliadač navrhnutý s ohľadom na vaše súkromie a výkon.
