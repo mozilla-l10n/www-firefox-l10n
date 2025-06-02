@@ -10,18 +10,18 @@ footer-landmark-label = Kiegészítő
 
 # Section title
 footer-download = Letöltés
-footer-download-auto = { -brand-name-firefox } letöltése
+footer-download-auto = A { -brand-name-firefox } letöltése
 footer-windows = Windows
 footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
-footer-custom-download = Egyéni letöltési beállítások
+footer-custom-download = Egyéni letöltési lehetőségek
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
 # Section title
-footer-latest = Legújabb buildek
+footer-latest = Legújabb összeállítások
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 
@@ -60,9 +60,9 @@ footer-tiktok = TikTok
 
 footer-websites-privacy-notice = Webhely adatvédelmi nyilatkozata
 footer-terms-of-use = Felhasználási feltételek
-footer-websites-cookie-policy = Süti házirend
+footer-websites-cookie-policy = Sütiházirend
 footer-community-participation-guidelines = Közösségi részvételi irányelvek
-footer-logo-trademark-licensing = Logó Védjegy Licensing
+footer-logo-trademark-licensing = Logóvédjegy licencelése
 
 ##
 

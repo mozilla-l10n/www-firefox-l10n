@@ -8,7 +8,7 @@
 # HTML page title
 firefox-browsers-page-title-v2 = { -brand-name-firefox } számítógépre
 # HTML page description
-firefox-browsers-page-desc-v2 = Töltse le azt a böngészőt, amely az adatvédelmet helyezi előtérbe – szerezze be a { -brand-name-firefox(case: "accusative") } Windowsra, macOS-re vagy Linuxra asztali gépre.
+firefox-browsers-page-desc-v2 = Töltse le azt a böngészőt, amely az adatvédelmet helyezi előtérbe – szerezze be az asztali { -brand-name-firefox }ot Windowsra, macOS-re vagy Linuxra.
 firefox-browsers-main-heading-v2 = { -brand-name-firefox } számítógépre
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Szerezze be a böngészőt, mely az adatvédelmet helyezi előtérbe – ahogy <strong>mindig</strong> is tette
