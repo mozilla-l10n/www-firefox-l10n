@@ -18,11 +18,36 @@ jobs:
     steps:
       - name: Trigger webhook
         shell: bash
-        run: >
-          curl -X POST
-          https://api.github.com/repos/mozmeao/springfield-fluent-update/actions/workflows/run-fluent-updates.yml/dispatches
-          --header "Accept: application/vnd.github+json"
-          --header "Authorization: Bearer ${{ secrets.SPRINGFIELD_FLUENT_UPDATE_PAT }}"
-          --header "Content-Type: application/json"
-          -d '{"ref":"main"}'
+        run: |
+          # Store the response headers and body
+          RESPONSE_HEADERS=$(mktemp)
+          RESPONSE_BODY=$(mktemp)
+
+          # Make the request and capture status code
+          STATUS_CODE=$(curl -X POST \
+            https://api.github.com/repos/mozmeao/springfield-fluent-update/actions/workflows/run-fluent-updates.yml/dispatches \
+            --header "Accept: application/vnd.github+json" \
+            --header "Authorization: Bearer ${{ secrets.SPRINGFIELD_FLUENT_UPDATE_PAT }}" \
+            --header "Content-Type: application/json" \
+            -d '{"ref":"main"}' \
+            -o "$RESPONSE_BODY" \
+            -D "$RESPONSE_HEADERS" \
+            -s \
+            -w "%{http_code}")
+
+          echo "Received HTTP status: $STATUS_CODE"
+
+          # Display response for debugging
+          echo "Response headers:"
+          cat "$RESPONSE_HEADERS"
+          echo "Response body:"
+          cat "$RESPONSE_BODY"
+
+          # Check if the status is 2xx (success)
+          if [[ ! "$STATUS_CODE" =~ ^2[0-9][0-9]$ ]]; then
+            echo "Error: API request failed with status $STATUS_CODE"
+            exit 1
+          else
+            echo "Success: API request completed with status $STATUS_CODE"
+          fi
         # 'main' as the ref above refers to the branch on the www-fluent-update repo
