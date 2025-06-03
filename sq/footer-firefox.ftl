@@ -66,4 +66,5 @@ footer-community-participation-guidelines = Udhëzime Pjesëmarrjeje Në Bashkë
 ## Language Switcher
 
 footer-language = Gjuhë
+footer-go = Shko
 footer-firefox = { -brand-name-firefox }
