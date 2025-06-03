@@ -67,4 +67,5 @@ footer-logo-trademark-licensing = Άδεια χρήσης εμπορικών σ�
 ## Language Switcher
 
 footer-language = Γλώσσα
+footer-go = Μετάβαση
 footer-firefox = { -brand-name-firefox }
