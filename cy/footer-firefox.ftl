@@ -67,4 +67,5 @@ footer-logo-trademark-licensing = Trwyddedu Nod Masnach Logo
 ## Language Switcher
 
 footer-language = Iaith
+footer-go = Mynd
 footer-firefox = { -brand-name-firefox }

@@ -67,4 +67,5 @@ footer-logo-trademark-licensing = Licence podle ochranných známek
 ## Language Switcher
 
 footer-language = Jazyk
+footer-go = Přejít
 footer-firefox = { -brand-name-firefox }
