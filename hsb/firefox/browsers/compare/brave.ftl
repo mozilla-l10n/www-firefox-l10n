@@ -7,6 +7,8 @@
 
 # Page title
 compare-brave-firefox-vs-brave = { -brand-name-firefox } porno Brave
+# HTML page description
+compare-brave-read-our-comparison = Čitajće naše přirunanje mjez wobhladowakomaj { -brand-name-firefox } a Brave po funkcijach, priwatnosći a lochkim wužiwanjom.
 # "Fiddling" means you have to make a lot of changes and adjustments to make it work correctly.
 compare-brave-firefoxs-privacy-settings-are = Nastajenja priwatnosće { -brand-name-firefox } su sylne a dadźa so lochko wužiwać. Standardne blokowanje wabjenja Brave móže websydła wobškodźić, kotrež wopytujeće, tohodla dyrbiće z nim wokoło kramosćić. Chcemy, zo priwatnosć je komfortabelna dosć, zo byšće ju woprawdźe <em>wužiwał</em>.
 compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } wam rozsud wosnadnja, kotru pytawu chceće wužiwać, kóždy raz, hdyž pytaće. Brave swoju pytawu jako standard wužiwa, a wy dyrbiće nastajenja wobhladowaka přepytać, zo byšće druhu wubrał.

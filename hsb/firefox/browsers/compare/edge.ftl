@@ -7,6 +7,8 @@
 
 # Page title
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } porno Microsoft Edge
+# HTML page description
+compare-edge-read-our-comparison = Čitajće naše přirunanje mjez wobhladowakomaj { -brand-name-firefox } a Edge po funkcijach, priwatnosći a lochkim wužiwanjom.
 compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } škit priwatnosće lochki a komfortabelny čini, zo njebyšće trjebał wo njón starać.
 compare-edge-we-block-trackers-by-default = Přesćěhowaki po standardźe blokujemy. Edge to nječini.
 compare-edge-and-we-make-it-easy-for-you = A wosnadnjamy wam rozsud, kotru pytawu wužiwaće, hdyžkuli pytaće. Edge wam poćežuje, druhu pytawu hač Bing wužiwać.

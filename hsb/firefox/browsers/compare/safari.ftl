@@ -7,6 +7,8 @@
 
 # Page title
 compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } porno Apple Safari
+# HTML page description
+compare-safari-read-our-comparison = Čitajće naše přirunanje mjez wobhladowakomaj { -brand-name-firefox } a Safari po funkcijach, priwatnosći a lochkim wužiwanjom.
 compare-safari-safari-and-firefox-both-have = Safari a { -brand-name-firefox } matej wobaj dobre funkcije priwatnosće a wěstoty.
 compare-safari-but-firefox-also-has-built-in = Ale { -brand-name-firefox } ma tež zatwarjene nastroje kaž:
 compare-safari-firefox-offers-a-wide-range-of = { -brand-name-firefox } šěroku paletu přiměrjenske móžnosće skići, mjez nimi, móžnosć menije a symbolowe lajsty do druhich městnow we woknje wobhladowaka přesunyć. Wužiwarski powjerch Safari da so mjenje přiměrić.
