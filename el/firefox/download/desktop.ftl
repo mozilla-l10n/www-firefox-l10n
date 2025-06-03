@@ -45,7 +45,7 @@ firefox-desktop-download-search-engine-options = Επιλογές μηχανών
 firefox-desktop-download-smart-search-suggestions = Έξυπνες προτάσεις αναζήτησης
 firefox-desktop-download-bookmark-history = Σελιδοδείκτες, ιστορικό και ανοικτές καρτέλες στα αποτελέσματα
 firefox-desktop-download-boost-your = Ενίσχυση παραγωγικότητας
-firefox-desktop-download-works-with-google = Λειτουργεί με τα προϊόντα { -brand-name-google }
+firefox-desktop-download-works-with-google = Λειτουργεί με τα προϊόντα της { -brand-name-google }
 firefox-desktop-download-built-in-screenshot = Ενσωματωμένο εργαλείο στιγμιότυπων
 firefox-desktop-download-bookmarks-manager = Διαχείριση σελιδοδεικτών
 firefox-desktop-download-autosuggest-urls = Αυτόματη πρόταση URL
@@ -91,7 +91,7 @@ firefox-desktop-download-your-privacy-comes = Το απόρρητό σας έχ�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Κρατήστε όλες τις αγαπημένες λειτουργίες σας και <strong>ανακαλύψτε</strong> νέες.
 # Gmail and Docs are product names and should not be translated
-firefox-desktop-download-all-your-favourite = Όλα τα αγαπημένα σας εργαλεία { -brand-name-google } (όπως Gmail και Έγγραφα) λειτουργούν απρόσκοπτα στο { -brand-name-firefox-browser }.
+firefox-desktop-download-all-your-favourite = Όλα τα αγαπημένα σας εργαλεία από την { -brand-name-google } (όπως Gmail και Έγγραφα) λειτουργούν απρόσκοπτα στο { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
