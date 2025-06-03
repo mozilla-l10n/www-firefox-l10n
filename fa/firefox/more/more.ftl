@@ -8,3 +8,4 @@
 firefox-products-are = محصولات { -brand-name-firefox } برای محافظت از حریم خصوصی شما طراحی شده‌اند.
 learn-more-about-firefox = درباره { -brand-name-firefox }، تاریخچه، ویژگی‌ها و ماموریت آن بیشتر بدانید.
 learn-more-about = درباره مرورگرها و محصولات { -brand-name-firefox } که داده‌های شما را با احترام پردازش می‌کنند و برای حفظ حریم خصوصی شما در هر جای اینترنت طراحی شده‌اند، بیشتر بدانید.
+learn-more-faq = سوالات متداول { -brand-name-firefox }
