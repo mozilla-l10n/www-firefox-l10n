@@ -146,12 +146,12 @@ firefox-desktop-download-now-mac = <strong>Ανοίξτε</strong> το αρχε
 firefox-desktop-download-select-linux = Επιλέξτε μια <strong>λήψη</strong> παρακάτω
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
-firefox-desktop-download-get-help = Έχετε προβλήματα; <a { $attrs }>Λάβετε βοήθεια με την εγκατάστασή σας</a>.
-firefox-desktop-download-in-another-language = Λήψη σε άλλη γλώσσα ή για άλλο λειτουργικό σύστημα.
+firefox-desktop-download-get-help = Αντιμετωπίζετε προβλήματα; <a { $attrs }>Λάβετε βοήθεια με την εγκατάστασή σας</a>.
+firefox-desktop-download-in-another-language = Κάντε λήψη σε άλλη γλώσσα ή για άλλο λειτουργικό σύστημα.
 firefox-desktop-download-windows = { -brand-name-windows }
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
-firefox-desktop-download-if-you-see-a-prompt = Αν δείτε ένα μήνυμα που δηλώνει ότι η εφαρμογή που προσπαθείτε να εγκαταστήσετε δεν είναι επαληθευμένη από τη { -brand-name-microsoft }, κάντε κλικ στο “Εγκατάσταση” ή <a { $attrs }>αλλάξτε τις ρυθμίσεις προτάσεων εφαρμογών</a>.
+firefox-desktop-download-if-you-see-a-prompt = Εάν δείτε ένα μήνυμα που δηλώνει ότι η εφαρμογή που προσπαθείτε να εγκαταστήσετε δεν είναι επαληθευμένη από τη { -brand-name-microsoft }, κάντε κλικ στο «Εγκατάσταση» ή <a { $attrs }>αλλάξτε τις ρυθμίσεις προτάσεων εφαρμογών</a>.
 firefox-desktop-download-visit-support-for-more = Επισκεφτείτε την Υποστήριξη για περισσότερες λεπτομέρειες
 # Variables:
 #   $id (string) - HTML ID for the download link.

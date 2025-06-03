@@ -67,4 +67,5 @@ footer-logo-trademark-licensing = Licencěrowanje markowego znamjenja loga
 ## Language Switcher
 
 footer-language = Rěc
+footer-go = Start
 footer-firefox = { -brand-name-firefox }
