@@ -16,6 +16,9 @@ installer-help-action-choose = נא לבחור את ההורדה הרצויה ל
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser(case: "a") }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc-v2 = קבלו את הגרסה העדכנית ביותר. פרטיות אוטומטית כבר כאן. הורידו את { -brand-name-firefox } כדי לחסום יותר מ־{ $trackers } רכיבי מעקב.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = בחינת התכונות בגרסה שעומדת לצאת, עם בניית הקדם הפצה היציבה ביותר.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
