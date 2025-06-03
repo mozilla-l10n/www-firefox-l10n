@@ -40,6 +40,7 @@ is-firefox-safe = Браузери «{ -brand-name-firefox }» бехатар а
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
+related-questions-safe = Саволҳои марбут: оё браузери «{ -brand-name-firefox }» барои махфият хуб аст, оё браузери «{ -brand-name-firefox }» бехатар аст, оё браузери «{ -brand-name-firefox }» барои махфият беҳтар аст?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
