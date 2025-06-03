@@ -7,3 +7,6 @@
 
 # Page title
 compare-opera-firefox-vs-opera = { -brand-name-firefox } napśeśiwo Opera
+# Variables:
+# $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
+compare-opera-switching-to-firefox-is-easy = Móžośo lažko a malsnje k { -brand-name-firefox } pśejś – importěrujśo swóje cytańske znamjenja Opera, swóje gronidła, historiju a nastajenja z jadnym kliknjenim a buźośo ned gótowy, { -brand-name-firefox } wužywaś. How zgónijośo <a { $howto }>kak móžośo tłocašk Importěrowaś wužywaś, aby pśejšeł</a>.
