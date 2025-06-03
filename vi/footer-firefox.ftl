@@ -4,68 +4,68 @@
 
 # An accessible label used to describe that the role of the element is the
 # primary website navigation.
-footer-landmark-label = Doplnkové
+footer-landmark-label = Bổ sung
 
 ## Download links for stable versions of Firefox across multiple platforms.
 
 # Section title
-footer-download = Stiahnuť
-footer-download-auto = Stiahnuť { -brand-name-firefox }
+footer-download = Tải xuống
+footer-download-auto = Tải xuống { -brand-name-firefox }
 footer-windows = Windows
 footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
-footer-custom-download = Možnosti vlastného sťahovania
+footer-custom-download = Tuỳ chỉnh tải xuống
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
 # Section title
-footer-latest = Najnovšie zostavy
+footer-latest = Bản dựng mới nhất
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 
 ## Download links for enterprise versions of Firefox.
 
 # Section title
-footer-business = { -brand-name-firefox } pre firmy
+footer-business = { -brand-name-firefox } dành cho doanh nghiệp
 footer-enterprise = { -brand-name-enterprise }
 
 ## Links to community groups.
 
 # Section title
-footer-community = Komunita
-footer-contribute = Zapojte sa
-footer-developer = Vývojár
+footer-community = Cộng đồng
+footer-contribute = Đóng góp
+footer-developer = Nhà phát triển
 
 ## Links to resources
 
 # Section title
-footer-resources = Zdroje
-footer-compare = Porovnanie
-footer-release-notes = Poznámky k vydaniu
-footer-support = Podpora
-footer-addons = Doplnky
+footer-resources = Tài nguyên
+footer-compare = So sánh
+footer-release-notes = Ghi chú phát hành
+footer-support = Hỗ trợ
+footer-addons = Tiện ích
 footer-blog = Blog
 
 ## Links to social media
 
 # Section title
-footer-follow-us = Sledujte nás
+footer-follow-us = Theo dõi chúng tôi
 footer-instagram = Instagram
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
 ## Legal links
 
-footer-websites-privacy-notice = Vyhlásenie o ochrane osobných údajov na webovej stránke
-footer-terms-of-use = Podmienky používania
-footer-websites-cookie-policy = Zásady používania súborov cookie
-footer-community-participation-guidelines = Pravidlá pre prispievanie
-footer-logo-trademark-licensing = Licencovanie ochranných známok s logom
+footer-websites-privacy-notice = Thông báo bảo mật trang web
+footer-terms-of-use = Điều khoản sử dụng
+footer-websites-cookie-policy = Chính sách cookie
+footer-community-participation-guidelines = Nguyên tắc tham gia của cộng đồng
+footer-logo-trademark-licensing = Cấp phép nhãn hiệu logo
 
 ## Language Switcher
 
-footer-language = Jazyk
-footer-go = Prejsť
+footer-language = Ngôn ngữ
+footer-go = Đi
 footer-firefox = { -brand-name-firefox }

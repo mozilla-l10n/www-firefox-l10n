@@ -7,6 +7,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = So sánh trình duyệt
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } dành cho máy tính
 sub-navigation-release-notes = Ghi chú phát hành
+sub-navigation-release-channels = Kênh phát hành
 sub-navigation-desktop = Máy tính để bàn
 sub-navigation-mobile = Di động
 sub-navigation-android = { -brand-name-android }
