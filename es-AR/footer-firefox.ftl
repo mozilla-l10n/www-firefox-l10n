@@ -4,7 +4,7 @@
 
 # An accessible label used to describe that the role of the element is the
 # primary website navigation.
-footer-landmark-label = Complementario
+footer-landmark-label = Suplementario
 
 ## Download links for stable versions of Firefox across multiple platforms.
 
@@ -51,7 +51,7 @@ footer-blog = Blog
 ## Links to social media
 
 # Section title
-footer-follow-us = Síguenos
+footer-follow-us = Seguinos
 footer-instagram = Instagram
 footer-youtube = YouTube
 footer-tiktok = TikTok
