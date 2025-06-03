@@ -64,7 +64,7 @@ footer-websites-cookie-policy = Палітыка выкарыстання кук
 footer-community-participation-guidelines = Правілы ўдзелу ў супольнасці
 footer-logo-trademark-licensing = Ліцэнзаванне таварнага знака на лагатып
 
-##
+## Language Switcher
 
 footer-language = Мова
 footer-firefox = { -brand-name-firefox }

@@ -64,7 +64,7 @@ footer-websites-cookie-policy = Сиёсати кукиҳо
 footer-community-participation-guidelines = Роҳнамо барои иштирок дар ҷамъияти мо
 footer-logo-trademark-licensing = Иҷозатномаи тамғаи молӣ барои ангора
 
-##
+## Language Switcher
 
 footer-language = Забон
 footer-firefox = { -brand-name-firefox }

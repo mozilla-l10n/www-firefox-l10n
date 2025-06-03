@@ -63,7 +63,7 @@ footer-terms-of-use = Termos de uso
 footer-websites-cookie-policy = Política de cookies
 footer-community-participation-guidelines = Diretrizes de participação na comunidade
 
-##
+## Language Switcher
 
 footer-language = Idioma
 footer-firefox = { -brand-name-firefox }

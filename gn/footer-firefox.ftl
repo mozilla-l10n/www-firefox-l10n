@@ -64,7 +64,7 @@ footer-websites-cookie-policy = Kookie Porureko
 footer-community-participation-guidelines = Mba’éichapa eikekuaa tekohápe
 footer-logo-trademark-licensing = Marca registrada ra’ãnga’i ñemoneĩ
 
-##
+## Language Switcher
 
 footer-language = Ñe’ẽ
 footer-firefox = { -brand-name-firefox }

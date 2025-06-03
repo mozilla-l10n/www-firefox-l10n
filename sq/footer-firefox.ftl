@@ -63,7 +63,7 @@ footer-terms-of-use = Kushtet e Përdorimit
 footer-websites-cookie-policy = Rregulla Cookie-sh
 footer-community-participation-guidelines = Udhëzime Pjesëmarrjeje Në Bashkësi
 
-##
+## Language Switcher
 
 footer-language = Gjuhë
 footer-firefox = { -brand-name-firefox }

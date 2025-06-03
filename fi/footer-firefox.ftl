@@ -61,7 +61,7 @@ footer-websites-cookie-policy = Evästekäytäntö
 footer-community-participation-guidelines = Yhteisöön osallistumisen periaatteet
 footer-logo-trademark-licensing = Logon tavaramerkkilisensointi
 
-##
+## Language Switcher
 
 footer-language = Kieli
 footer-firefox = { -brand-name-firefox }

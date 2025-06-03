@@ -64,7 +64,7 @@ footer-websites-cookie-policy = Tasertit n yinagan n tuqqna
 footer-community-participation-guidelines = Iwehhilen n uttekki n temɣiwant
 footer-logo-trademark-licensing = Turagt n tecreḍt yersen n ulugu
 
-##
+## Language Switcher
 
 footer-language = Tutlayt
 footer-firefox = { -brand-name-firefox }

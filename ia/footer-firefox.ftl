@@ -64,7 +64,7 @@ footer-websites-cookie-policy = Directiva re cookies
 footer-community-participation-guidelines = Lineas guida de participation al communitate
 footer-logo-trademark-licensing = Licentia de uso del marca del logo
 
-##
+## Language Switcher
 
 footer-language = Lingua
 footer-firefox = { -brand-name-firefox }

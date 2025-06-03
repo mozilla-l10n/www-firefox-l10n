@@ -64,7 +64,7 @@ footer-websites-cookie-policy = Kakpolicy
 footer-community-participation-guidelines = Riktlinjer för deltagande i gemenskapen
 footer-logo-trademark-licensing = Varumärkeslicens för logotyper
 
-##
+## Language Switcher
 
 footer-language = Språk
 footer-firefox = { -brand-name-firefox }

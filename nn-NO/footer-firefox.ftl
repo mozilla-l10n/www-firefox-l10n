@@ -59,7 +59,7 @@ footer-websites-privacy-notice = Personvernfråsegn for nettstaden
 footer-terms-of-use = Brukarvilkår
 footer-community-participation-guidelines = Retningslinjer for fellesskapsdeltaking
 
-##
+## Language Switcher
 
 footer-language = Språk
 footer-firefox = { -brand-name-firefox }

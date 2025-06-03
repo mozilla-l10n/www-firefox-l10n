@@ -64,7 +64,7 @@ footer-websites-cookie-policy = Polisi Cwcis
 footer-community-participation-guidelines = Canllawiau Cyfranogiad Cymunedol
 footer-logo-trademark-licensing = Trwyddedu Nod Masnach Logo
 
-##
+## Language Switcher
 
 footer-language = Iaith
 footer-firefox = { -brand-name-firefox }

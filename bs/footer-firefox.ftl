@@ -64,7 +64,7 @@ footer-websites-cookie-policy = Pravila o kolačićima
 footer-community-participation-guidelines = Smjernice za učešće u zajednici
 footer-logo-trademark-licensing = Licenciranje zaštitnog znaka logotipa
 
-##
+## Language Switcher
 
 footer-language = Jezik
 footer-firefox = { -brand-name-firefox }

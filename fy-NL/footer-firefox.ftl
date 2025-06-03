@@ -51,7 +51,7 @@ footer-terms-of-use = Gebrûksbetingsten
 footer-websites-cookie-policy = Cookiebelied
 footer-community-participation-guidelines = Rjochtlinen foar dielnimming oan de mienskip
 
-##
+## Language Switcher
 
 footer-language = Taal
 footer-firefox = { -brand-name-firefox }

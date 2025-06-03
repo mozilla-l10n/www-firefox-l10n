@@ -64,7 +64,7 @@ footer-websites-cookie-policy = Çerez Politikası
 footer-community-participation-guidelines = Topluluk Katılım Kuralları
 footer-logo-trademark-licensing = Logo Ticari Marka Lisansı
 
-##
+## Language Switcher
 
 footer-language = Dil
 footer-firefox = { -brand-name-firefox }

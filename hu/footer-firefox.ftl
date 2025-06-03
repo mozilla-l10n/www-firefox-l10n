@@ -64,7 +64,7 @@ footer-websites-cookie-policy = Sütiházirend
 footer-community-participation-guidelines = Közösségi részvételi irányelvek
 footer-logo-trademark-licensing = Logóvédjegy licencelése
 
-##
+## Language Switcher
 
 footer-language = Nyelv
 footer-firefox = { -brand-name-firefox }

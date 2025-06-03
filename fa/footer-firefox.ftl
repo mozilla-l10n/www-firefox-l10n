@@ -60,7 +60,7 @@ footer-terms-of-use = شرایط استفاده
 footer-community-participation-guidelines = راهنمای مشارکت در اجتماع
 footer-logo-trademark-licensing = مجوز علامت تجاری آرم
 
-##
+## Language Switcher
 
 footer-language = زبان
 footer-firefox = { -brand-name-firefox }

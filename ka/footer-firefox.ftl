@@ -64,7 +64,7 @@ footer-websites-cookie-policy = ფუნთუშების დებულ�
 footer-community-participation-guidelines = გზამკვლევი მონაწილეობისთვის
 footer-logo-trademark-licensing = ლოგოს სავაჭრო ნიშნების ლიცენზირება
 
-##
+## Language Switcher
 
 footer-language = ენა
 footer-firefox = { -brand-name-firefox }

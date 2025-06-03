@@ -64,7 +64,7 @@ footer-websites-cookie-policy = Pšawidła cookiejow
 footer-community-participation-guidelines = Wobźěleńske směrnice zgromaźeństwa
 footer-logo-trademark-licensing = Licencěrowanje markowego znamjenja loga
 
-##
+## Language Switcher
 
 footer-language = Rěc
 footer-firefox = { -brand-name-firefox }
