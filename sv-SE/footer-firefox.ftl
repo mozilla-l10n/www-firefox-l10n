@@ -67,4 +67,5 @@ footer-logo-trademark-licensing = Varumärkeslicens för logotyper
 ## Language Switcher
 
 footer-language = Språk
+footer-go = Gå
 footer-firefox = { -brand-name-firefox }
