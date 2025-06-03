@@ -7,4 +7,5 @@
 
 # Page title
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } porno Microsoft Edge
+compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } škit priwatnosće lochki a komfortabelny čini, zo njebyšće trjebał wo njón starać.
 compare-edge-we-block-trackers-by-default = Přesćěhowaki po standardźe blokujemy. Edge to nječini.
