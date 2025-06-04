@@ -7,6 +7,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } ਸ਼ਾਨਦਾਰ ਤੇਜ਼ ਬਰਾਊਜ਼ਰ ਹੈ, ਜੋ ਕਿ ਸ਼ਾਨਦਾਰ ਡਿਵੈਲਪਰ ਟੂਲ ਅਤੇ CSS ਗਰਿੱਡ ਸਹਿਯੋਗ ਅਤੇ ਫਰੇਮਵਰਕ ਡਿਬੱਗਿੰਗ ਵਰਗੀਆਂ ਤਾਜ਼ਾ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੀ ਪੇਸ਼ਕਸ਼ ਕਰਦਾ ਹੈ
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = ਤੁਹਾਡੇ ਨਵੇਂ ਪਸੰਦੀਦਾ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਤਹਾਨੂੰ ਜੀ ਆਇਆਂ ਨੂੰ। ਓਪਨ ਵੈਬ ਲਈ ਨਵੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ, ਤੇਜ਼ ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਵਿਕਾਸ ਸੰਦਾਂ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਬਣਾਉਣ ਦੀ ਤੁਹਾਨੂੰ ਲੋੜ ਹੈ, ਉਹਨਾਂ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰੋ।
 firefox-developer-speak-up = ਬੋਲੋ
 firefox-developer-feedback-makes-us = ਫੀਡਬੈਕ ਸਾਨੂੰ ਬਿਹਤਰ ਬਣਾਉਂਦਾ ਹੈ। ਸਾਨੂੰ ਦੱਸੋ ਕਿ ਅਸੀਂ ਬ੍ਰਾਉਜ਼ਰ ਅਤੇ ਵਿਕਾਸਕਾਰ ਟੂਲ ਕਿਵੇਂ ਸੁਧਾਰ ਸਕਦੇ ਹਾਂ।
