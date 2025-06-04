@@ -9,5 +9,5 @@ not-found-page-not-found-page-page-not-found = ৪০৪: পাতাটি খ
 not-found-page-sorry-we-cant-find-that-page = দুঃখিত, আমরা পাতাটি খুঁজে পাইনি
 not-found-page-go-back = ফেরত যান
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = আপনার মোবাইল ডিভাইস বা ডেস্কটপের জন্য { -brand-name-firefox } ব্রাউজারটি <a href={ $download }>ডাউনলোড করুন</a>

@@ -13,7 +13,7 @@ not-found-page-go-back = Prejsť naspäť
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Ďalšie informácie</a> o { -brand-name-mozilla(case: "loc") }, neziskovej organizácii, ktorá je autorom { -brand-name-firefox(case: "gen") }.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Stiahnite si</a> prehliadač { -brand-name-firefox } do svojho mobilného zariadenia alebo počítača
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404

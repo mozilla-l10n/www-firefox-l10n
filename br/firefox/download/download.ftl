@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = Pellgargañ { -brand-name-firefox }
 firefox-new-free-web-browser = Merdeer web digoust
@@ -21,7 +21,7 @@ firefox-new-windows = { -brand-name-windows }
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Pellgargañ { -brand-name-firefox-browser }

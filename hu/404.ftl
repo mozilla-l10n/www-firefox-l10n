@@ -13,7 +13,7 @@ not-found-page-go-back = Ugrás vissza
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Tudjon meg többet</a> a { -brand-name-mozilla(ending: "accented") }ról, a { -brand-name-firefox } mögötti nonprofit szervezetről.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Töltse le</a> a { -brand-name-firefox } böngészőt a mobil eszközére vagy asztali számítógépére
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404

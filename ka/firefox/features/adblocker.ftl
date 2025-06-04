@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = იმატებს რეკლა
 features-adblocker-the-average-person-sees = საშუალოდ ადამიანი დღეში 4 000 რეკლამას ნახულობს. თუ მიგაჩნიათ, რომ ეს ზედმეტად ბევრია, რეკლამების შემზღუდავი გამოგადგებათ.
 features-adblocker-an-ad-blocker-is-a-piece = რეკლამების შემზღუდავი მცირე ზომის პროგრამაა, რომლითაც ხერხდება რეკლამების აკრძალვა ორი გზით. ერთ შემთხვევაში იზღუდება მომავალი სიგნალი სარეკლამო სერვერიდან, შესაბამისად, რეკლამა ვეღარ ჩამოიტვირთება გვერდზე გამოსაჩენად. მეორე შემთხვევაში კი მოცილდება ის არეები, სადაც რეკლამები უნდა გამოჩენილიყო.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = ეს რეკლამები შეიძლება იყოს ხმამაღალი ვიდეოები ან სარეკლამო საშუალებები, რომლებიც თან დაგყვებათ მთელ ინტერნეტში, თვალის მდევნელი, გარეშე საიტების ფუნთუშები და ა. შ. რეკლამების შემზღუდავის გამოსაყენებლად შეგიძლიათ მოიძიოთ შესაბამისი დამატება თქვენი ბრაუზერისთვის. მაგალითად <a href="{ $firefox }">{ -brand-name-firefox }-ს</a> აქვს <a href="{ $addons }">რეკლამების შემზღუდავი დამოწმებული დამატებების სია</a>. დაწკაპეთ ამ სიაზე (ან თქვენი ბრაუზერისთვის განკუთვნილ რეკლამების შემზღუდავებზე) და შეარჩიეთ ის, რაც ყველაზე უკეთ მოერგება თქვენს საჭიროებებს.
 features-adblocker-find-the-right-ad-blocker = მონახეთ რეკლამების თქვენთვის შესაფერისი შემზღუდავი
@@ -27,7 +27,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> კიდევ ერთი შესანიშნავი არჩევანია, რომელსაც არა მხოლოდ რეკლამების შეზღუდვა შეუძლია, არამედ დამატებით ახლავს თვალთვალისგან დაცვის შესაძლებლობებიც.
 # Variables:
-#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = აღნიშნული გაფართოებები მშვენივრად მუშაობს როგორც <a { $attrs1 }>კომპიუტერის { -brand-name-firefox }-ზე</a>, ასევე <a { $attrs2 }>Android-ზე</a>.
 features-adblocker-create-a-tracker-free = შექმენით მეთვალყურეებისგან თავისუფალი სივრცე შიგთავსის შეზღუდვით
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = { -brand-name-firefox }-ში შ
 features-adblocker-speed-up-thanks-to-ad = აჩქარება რეკლამების შემზღუდავების მეშვეობით
 features-adblocker-in-some-cases-an-ad-blocker = ზოგ შემთხვევაში რეკლამების შემზღუდავი გეხმარებათ გვერდების სწრაფ მონახულებაში. რეკლამის ჩატვირთვა ანელებს ხოლმე გვერდის სრულად ჩატვირთვას. ამასთანავე, იგი ართულებს საიტზე სასურველი ინფორმაციის მონახვას, მით უფრო, თუ გიწევთ ბანერის დახურვა შიგთავსის სანახავად.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = თუ გსურთ უკეთ გაეცნოთ რეკლამის შეზღუდვის შესაძლებლობებს, ასობით გაფართოება არსებობს { -brand-name-firefox }-ისა და სხვა ბრაუზერებისთვის. თუ გსურთ გამოცადოთ სარეკლამო შემზღუდავები, რომელთაც { -brand-name-firefox } იყენებს, <a href="{ $url }">დაწკაპეთ აქ და ჩამოტვირთეთ</a> ბრაუზერი, რომლისთვისაც თქვენი პირადულობა უწინარესია.

@@ -15,7 +15,7 @@ features-adblocker-the-ad-blocker-a-tool = 광고 차단기는 맞춤형 웹 브
 features-adblocker-in-todays-digital-world = 오늘날의 디지털 세계에서 웹은 복잡하고 복잡합니다. 광고 차단은 사용자가 웹 브라우징 경험을 제어할 수 있는 강력한 도구이며, 화면에 표시할 내용을 사용자가 결정할 수 있습니다.
 features-adblocker-ad-blockers-work = 광고 차단은 두 가지 주요 방법으로 작동합니다: 광고와 같은 콘텐츠가 로딩되지 않도록 하는 것과 이러한 요소를 호스팅하는 웹사이트의 일부를 차단하는 것입니다. 여기에는 동영상 광고, 웹에서 사용자를 따라다니는 맞춤형 광고, 심지어 제 3자 추적기가 포함될 수 있습니다.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = 광고 차단기를 사용하는 것은 간단합니다. 신뢰할 수 있는 많은 옵션이 브라우저 부가 기능으로 제공되므로 요구 사항에 맞는 솔루션을 쉽게 찾을 수 있습니다. 예를 들어, <a href="{ $firefox }">{ -brand-name-firefox }</a>는 <a href="{ $addons }">승인된 확장 기능 목록</a>을 통해 개인 정보를 존중하면서 브라우징 경험을 제공합니다.
 features-adblocker-finding-the-right = 맞춤형 광고 차단기 찾기
@@ -36,5 +36,5 @@ features-adblocker-to-adjust = 이 설정을 조정하려면 웹 페이지 주�
 features-adblocker-why-use = 광고 차단기를 사용하는 이유
 features-adblocker-ad-blockers-do-more = 광고 차단기는 광고 관리 이상을 수행합니다. 불필요한 콘텐츠를 줄여 탐색 속도와 보안을 향상시킬 수 있습니다. 방해받지 않는 맞춤형 웹 경험을 제공하여 가장 중요한 일에 집중할 수 있게 해줍니다.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-explore-hundreds = 개인 정보 보호에 중점을 둔 수백 개의 { -brand-name-firefox }용 부가 기능을 살펴보고 자신에게 적합한 도구를 찾으세요. 오늘 <a href="{ $url }">{ -brand-name-firefox }를 다운로드</a>하여 개인 정보 보호와 성능을 염두에 두고 설계된 브라우저를 사용해 보세요.

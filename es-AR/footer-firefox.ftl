@@ -44,6 +44,9 @@ footer-developer = Desarrollador
 footer-resources = Recursos
 footer-compare = Comparar
 footer-release-notes = Notas de la versión
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Aprender
 footer-support = Ayuda
 footer-addons = Complementos
 footer-blog = Blog
@@ -62,7 +65,7 @@ footer-websites-privacy-notice = Aviso de privacidad del sitio web
 footer-terms-of-use = Términos de uso
 footer-websites-cookie-policy = Política de cookies
 footer-community-participation-guidelines = Pautas de participación comunitaria
-footer-logo-trademark-licensing = Logotipo Licencia de marca
+footer-logo-trademark-licensing = Licencia de marca registrada de logotipo
 
 ## Language Switcher
 

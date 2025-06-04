@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Tantos anuncios, tan pouca paciencia�
 features-adblocker-the-average-person-sees = Unha persoa ve, de media, uns 4000 anuncios por día. Se pensas que é moito, o bloqueador de publicidade será o teu novo mellor amigo.
 features-adblocker-an-ad-blocker-is-a-piece = Un bloqueador de publicidade é un programa que pode usarse para bloquear anuncios e que funciona de dúas formas. A primeira consiste en bloquear o sinal do servidor dun anunciante, polo que o anuncio nunca aparece na túa páxina. A outra consiste en bloquear seccións dun sitio web que poderían ser anuncios.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Estes anuncios poden ser vídeos barullentos, anuncios que te seguen cando navegas pola Internet, rastrexadores, testemuños de terceiros… Para utilizar un bloqueador de publicidade, podes procurar por complementos para bloqueo de anuncios que estean dispoñíbeis para o navegador. O <a href="{ $firefox }">{ -brand-name-firefox }</a>, por exemplo, ten <a href="{ $addons }">esta lista de complementos aprobados para o bloqueo de publicidade</a>. Preme nesta lista (ou en bloqueadores de publicidade que estean aprobados para o navegador) e comproba cal se adapta ás túas necesidades.
 features-adblocker-find-the-right-ad-blocker = Encontra o bloqueador de publicidade perfecto para ti

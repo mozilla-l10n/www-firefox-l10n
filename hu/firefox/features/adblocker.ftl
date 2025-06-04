@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Oly sok hirdetés, oly kevés türele
 features-adblocker-the-average-person-sees = Az átlagember naponta átlagosan 4000 hirdetést lát. Ha úgy gondolja, hogy ez túl sok, akkor egy reklámblokkoló az új legjobb barátja.
 features-adblocker-an-ad-blocker-is-a-piece = A reklámblokkoló egy olyan szoftver, amellyel blokkolhatóak a hirdetések. Ezek kétféle módon működnek. Az első megoldás, hogy blokkolják a hirdetők kiszolgálóiról érkező üzeneteket, így a reklám sosem jelenik meg az oldalon. A másik módszer, hogy a reklámblokkoló eltávolítja a weboldal azon részeit, melyek reklámok lehetnek.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Ezek a hirdetések lehetnek hangos videóreklámok, hirdetések, melyek követik Önt a weben, követők, harmadik féltől származó sütik és így tovább. Egy reklámblokkoló kiegészítő használatához kereshet egyet a böngészőjéhez. Például a <a href="{ $firefox }">{ -brand-name-firefox }hoz</a> elérhető egy lista, amely a <a href="{ $addons }">jóváhagyott reklámblokkoló kiegészítőket</a> tartalmazza. Kattintson a listára (vagy a böngészőjéhez jóváhagyott reklámblokkolóra) és nézze meg, hogy melyik felel meg az Ön igényeinek.
 features-adblocker-find-the-right-ad-blocker = Találja meg a megfelelő reklámblokkolót
@@ -27,7 +27,7 @@ features-adblocker-adguard-adblocker-blunts = Az <a { $attrs1 }>AdGuard AdBlocke
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = A <a { $attrs }>Ghostery</a> egy másik nagyszerű választás, amely nem csak hogy blokkolja a hirdetéseket, de további nyomkövetés elleni előnyökkel is jár.
 # Variables:
-#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Ezek a kiegészítők gyönyörűen működnek mind az <a { $attrs1 }>asztali { -brand-name-firefox(case: "inessive") }</a>, mind az <a { $attrs2 }>androidos változatban</a>.
 features-adblocker-create-a-tracker-free = Hozzon létre egy követőmentes zónát a tartalomblokkolással
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = A { -brand-name-firefox(case: "ine
 features-adblocker-speed-up-thanks-to-ad = Gyorsítson fel a reklámblokkolóknak köszönhetően
 features-adblocker-in-some-cases-an-ad-blocker = Bizonyos esetekben egy reklámblokkoló segíthet a böngésző felgyorsításában. Ha egy hirdetés betöltődik, az lassíthatja a webhelyet. Ezzel egyidejűleg hosszabb időt vesz igénybe, hogy megkeresse azt, amit keres, ha a reklámok bezárásával tölti az idejét.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = Ha többet szeretne megtudni a reklámblokkolásról, akkor több száz reklámblokkoló kiegészítő áll rendelkezésre a { -brand-name-firefox }hoz és más böngészőkhöz. Ha szeretné kipróbálni a { -brand-name-firefox } által használt reklámblokkolókat, <a href="{ $url }">kattintson ide, hogy letöltse</a> egy olyan böngészőt, amely az adatvédelmet helyezi az első helyre.

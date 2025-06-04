@@ -22,7 +22,7 @@ navigation-support = Дастгирӣ
 navigation-add-ons = Ҷузъҳои иловагӣ
 navigation-learn = Омӯзиш
 navigation-blog = Блог
-navigation-compare = Муқоиса кардан
+navigation-compare = Муқоиса кардани браузерҳо
 navigation-podcast = Подкаст
 
 ## Download

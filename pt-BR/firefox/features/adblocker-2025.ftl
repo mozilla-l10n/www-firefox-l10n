@@ -15,7 +15,7 @@ features-adblocker-the-ad-blocker-a-tool = Bloqueador de anúncios – uma ferra
 features-adblocker-in-todays-digital-world = No mundo digital de hoje, a internet pode ser movimentada e confusa. Os bloqueadores de anúncios são ferramentas poderosas que colocam você no controle da sua experiência de navegação, permitindo que você decida o que aparece na tela.
 features-adblocker-ad-blockers-work = Os bloqueadores de anúncios funcionam de duas principais formas: impedindo que conteúdo, como anúncios, seja carregado e bloqueando seções de sites em que ficam esses elementos. Isso pode incluir anúncios em vídeo, anúncios personalizados que tentam te seguir pela web e até rastreadores de terceiros.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = Usar um bloqueador de anúncios é simples. Muitas opções confiáveis estão disponíveis como extensões do navegador, facilitando encontrar uma solução que funcione para o que você precisa. Por exemplo, o <a href="{ $firefox }">{ -brand-name-firefox }</a> oferece <a href="{ $addons }">uma lista de extensões aprovadas</a>, projetadas para melhorar sua experiência de navegação, respeitando sua privacidade.
 features-adblocker-finding-the-right = Como descobrir o bloqueador de anúncios adequado para você

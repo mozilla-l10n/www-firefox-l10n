@@ -15,7 +15,7 @@ features-adblocker-the-ad-blocker-a-tool = 广告拦截器：实现个性化与�
 features-adblocker-in-todays-digital-world = 在当今数字时代，网络世界有时可称得上纷繁杂乱。此时，广告拦截器成了强大的工具，可助您掌控浏览体验，并决定哪些内容能出现在屏幕上。
 features-adblocker-ad-blockers-work = 广告拦截器的运作方式可归结为两种：阻止内容（例如广告）加载、屏蔽网站中显示此类元素的部分。其中包括视频广告、在网络上跟踪您的个性化广告，甚至是第三方跟踪器。
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = 广告拦截器使用起来十分简单。许多值得信赖的产品都提供了浏览器附加组件，很轻松就能找到贴合需求的选择。例如，<a href="{ $firefox }">{ -brand-name-firefox }</a> 就推荐了一组<a href="{ $addons }">认可的扩展</a>，它们为改善浏览体验而设计，同时也尊重用户隐私。
 features-adblocker-finding-the-right = 选择合适的广告拦截器
@@ -36,5 +36,5 @@ features-adblocker-to-adjust = 若要调整这些设置，请点击任意网页�
 features-adblocker-why-use = 为什么需要使用广告拦截器？
 features-adblocker-ad-blockers-do-more = 广告拦截器的作用不止于管理广告。在削减不必要的内容后，浏览速度和安全性同样得以提高。您可借此打造定制化的无干扰网络体验，以便专注于真正重要的事务。
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-explore-hundreds = 探索可用于 { -brand-name-firefox } 的数百款隐私为先的扩展，寻找称心的工具。现在就<a href="{ $url }">下载 { -brand-name-firefox }</a>，体验这款将隐私和性能根植于设计理念的浏览器吧。

@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Ddeqs n udellel, ihi drus n ṣṣbe�
 features-adblocker-the-average-person-sees = Amdan n menwala yettwali azal n 4,000 n udellel deg wass. Ma tɣileḍ ddeqs, amsewḥel n udellel ad yuɣal d ameddakel-ik amaynut.
 features-adblocker-an-ad-blocker-is-a-piece = Amsewḥel n udellel d aseɣzan i izemren ad yettwaseqdec i usewḥel n udellel, daɣen iteddu s nat n tarrayin. Tamezwarut d asewḥel n telɣut n uqeddac aberraḥ akken adellel ur itezzi ara ad iban ɣef usebter-ik. Tis snat d asewḥel n tnegzumin n usmel web i izemren ad ilint d adellel.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Adellel-a izmer ad yili d tividyutin iẓeddmen, d adellel izemren ad k-yedfeṛ deg Web, d ineḍfaṛen, d inagan n tuqqna, atg. Akken ad tesqedceḍ imsewḥalen n udellel, tzemreḍ ad tnadiḍ izegrar yellan deg yiminig-nneɣ. <a href="{ $firefox }">{ -brand-name-firefox }</a>, d amedya kan, yesɛa <a href="{ $addons }">tabdart-a n yizegrar n usewḥel yettwaqeblen</a>. Sit ɣef tebdart-a (neɣ ɣef imsewḥalen n udellel yettwaqeblen i yiminig-ik) daɣen wali anwa i icudden ɣer wayen teḥwaǧeḍ.
 features-adblocker-find-the-right-ad-blocker = Af amsewḥel n udellel i k-m-iwulmen

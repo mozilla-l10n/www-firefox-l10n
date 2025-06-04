@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Uschè bleras reclamas, uschè pauca 
 features-adblocker-the-average-person-sees = Ina persuna vesa en media 4'000 reclamas per di. Sche ti es da l'avis che quai saja memia bler è il bloccader da reclamas tes nov meglier ami.
 features-adblocker-an-ad-blocker-is-a-piece = In bloccader da reclamas è ina software che po bloccar reclamas e funcziunescha en duas modas. L'emprima: Il bloccader blochescha il signal dad in server da reclama uschia che la reclama na cumpara mai sin tia pagina. La segunda: I vegnan bloccadas secziuns da la website che pudessan esser reclamas.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Questas reclamas pon esser videos cun tun dad aut, reclamas che ta persequiteschan en l'internet, fastizaders, cookies da terzas partidas e dapli. Per utilisar in bloccader, tschertgar supplements ad blocker disponibels en tes navigatur. <a href="{ $firefox }">{ -brand-name-firefox }</a> ha per exempel <a href="{ $addons }">questa glista da supplements da bloccaders approvads</a>. Tscherna da questa glista (u da bloccaders ch'èn approvads per tes navigatur) quel che ta correspunda il pli fitg.
 features-adblocker-find-the-right-ad-blocker = Chatta il bloccader da reclamas che va a prà cun tai
@@ -27,7 +27,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> è in’autra buna tscherna che na blochescha betg mo reclamas, ma porscha era anc pussaivladads per evitar il fastizar.
 # Variables:
-#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Questas extensiuns funcziunan perfectamain sin <a { $attrs1 }>{ -brand-name-firefox } per computers desktop</a> e per apparats mobils <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Creescha ina zona libra da fastizaders cun la bloccada da cuntegn
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = En { -brand-name-firefox } pos ti 
 features-adblocker-speed-up-thanks-to-ad = Tempo grazia a bloccadas da reclama
 features-adblocker-in-some-cases-an-ad-blocker = En tscherts cas po ina bloccada da reclamas accelerar tes navigatur. Sch'ina reclama vegn chargiada po quai ralentar ina website. Il medem mument duri pli ditg da chattar quai che ti tschertgas sche ti es fatschentà cun serrar anc ina reclama.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = Sche ti vuls savair dapli davart la bloccada da reclamas, i dat tschients dad extensiuns per { -brand-name-firefox } ed auters navigaturs che blocheschan reclamas. Sche ti vuls empruvar la bloccada da reclamas che { -brand-name-firefox } utilisescha, <a href="{ $url }">clicca qua per telechargiar</a> in navigatur per il qual la protecziun da datas ha la prioritad.

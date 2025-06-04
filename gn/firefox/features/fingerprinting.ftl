@@ -27,5 +27,5 @@ features-fingerprinting-the-practice-of = Pe kuãhũ kuaaukaha ñemoheñói (fin
 features-fingerprinting-the-latest-firefox = { -brand-name-firefox } kundahára ipyahuvéva ne mo’ãta pe kuãhũ kuaaukaha rovake ojokóvo mba’ejerure mbohapyháva mba’apohaguasugua eike haguére kuãhũ kuaaukaha rapykuehohápe. Romba’apo kyre’ỹ rombojurujakuaa hag̃ua tekoñemi ñemo’ã romboyke’ỹre ñanduti renda eikehápe tapiaite. (Emoñe’ẽvekuaa ko’ápe, ejaposérõ <a { $url_details }>aporeko mba’emimi</a>.)
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = Ha ndaha’éi ñemoĩporã ñomimbyre ehekakuaáva. Pe { -brand-name-firefox } apopyre ipyahuvéva, pe kuãhũ rapykuere jejoko ha’e ñemboheko ypyguáva, ñemoĩmbyre. Eike ne ñemo’ã ñemigua rupápe <a { $url_protections }>ehecha hag̃ua mba’éichapa </a>ohapykueho ehecha’ỹre ha mba’éichapa { -brand-name-firefox } omboykekuaa.
-# $url_download (string) - link to https://www.firefox.com/download/
+# $url_download (string) - link to https://www.firefox.com/
 features-fingerprinting-you-probably-wouldnt = Neremoneĩmo’ãi peteĩva nde rapykuehóvo nde rekovépe. Ndaipóri mba’érepa emoneĩta ñandutípe. Ndereguerekóiramo gueteri { -brand-name-firefox }, <a { $url_download }>emboguejy ha eñemo’ã</a> umi kuãhũ rapykuerégui (fingerprinting).

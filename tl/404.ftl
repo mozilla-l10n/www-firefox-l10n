@@ -13,5 +13,5 @@ not-found-page-go-back = Bumalik
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Matuto pa</a> tungkol sa { -brand-name-mozilla }, ang non-for-profit na nasa likod ng { -brand-name-firefox }.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>I-download</a> ang { -brand-name-firefox } browser para sa mobile device o sa desktop mo

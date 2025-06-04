@@ -13,5 +13,5 @@ not-found-page-go-back = Iri reen
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Pli da informo</a> pri { -brand-name-mozilla }, la neprofitcela organizo kiu kreas { -brand-name-firefox }.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Elŝuti</a> la retumilon { -brand-name-firefox } por via poŝaparato aŭ komputilo

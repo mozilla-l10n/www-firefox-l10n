@@ -15,7 +15,7 @@ features-adblocker-the-ad-blocker-a-tool = Il blocco delle pubblicità: uno stru
 features-adblocker-in-todays-digital-world = Nel mondo digitale di oggi, il Web può essere caotico e affollato. Il blocco delle pubblicità è uno strumento efficace con cui puoi ottenere il pieno controllo sulla tua esperienza di navigazione e decidere ciò che viene visualizzato sullo schermo.
 features-adblocker-ad-blockers-work = Gli strumenti per il blocco delle pubblicità funzionano principalmente in due modi: impedendo il caricamento di contenuti, come gli annunci pubblicitari, e bloccando le sezioni dei siti web che contengono tali elementi. Questi includono video pubblicitari, annunci personalizzati che ti seguono sul Web e anche elementi traccianti di terze parti.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = Utilizzare uno strumento per il blocco delle pubblicità è semplice. Molte opzioni affidabili sono disponibili come componenti aggiuntivi per il browser, rendendo ancora più facile trovare una soluzione adatta alle tue esigenze. Per esempio, <a href="{ $firefox }">{ -brand-name-firefox }</a> offre <a href="{ $addons }">un elenco di estensioni approvate</a> progettate per migliorare la tua esperienza di navigazione nel rispetto della tua privacy.
 features-adblocker-finding-the-right = Scopri lo strumento per il blocco delle pubblicità più adatto alle tue esigenze
@@ -36,5 +36,5 @@ features-adblocker-to-adjust = Per modificare queste impostazioni, fai clic sull
 features-adblocker-why-use = Perché utilizzare uno strumento per il blocco delle pubblicità?
 features-adblocker-ad-blockers-do-more = Gli strumenti per il blocco delle pubblicità sono utili non solo per la gestione degli annunci pubblicitari: possono anche ottimizzare la velocità di navigazione e la sicurezza riducendo i contenuti non necessari. Ti permettono quindi di creare un’esperienza di navigazione su misura e priva di distrazioni, per lasciarti concentrare su ciò che conta.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-explore-hundreds = Esplora centinaia di componenti aggiuntivi incentrati sulla privacy disponibili per { -brand-name-firefox } e trova gli strumenti adatti a te. <a href="{ $url }">Scarica { -brand-name-firefox }</a> oggi stesso per provare un browser dalle prestazioni avanzate, progettato per proteggere la tua privacy.

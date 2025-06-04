@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/download/
+### URL: https://www-dev.springfield.moz.works/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and

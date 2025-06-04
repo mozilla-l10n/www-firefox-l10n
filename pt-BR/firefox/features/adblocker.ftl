@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Tanta propaganda, tão pouca paciênc
 features-adblocker-the-average-person-sees = Uma pessoa comum vê em média 4000 anúncios por dia. Se você acha que isso é demais, um bloqueador de anúncios é seu novo melhor amigo.
 features-adblocker-an-ad-blocker-is-a-piece = Um bloqueador de anúncios é um software que pode ser usado para bloquear propaganda e funciona de duas maneiras. A primeira é quando bloqueia o sinal vindo do servidor de um anunciante, assim o anúncio nunca aparece na sua página. Outra forma de funcionar é bloqueando seções de um site que podem conter anúncios.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Essas propagandas podem ser vídeos em voz alta, anúncios que seguem você web afora, rastreadores, cookies de terceiros e muito mais. Para usar um bloqueador de anúncios, você pode procurar extensões de bloqueio de anúncios disponíveis para seu navegador. O <a href="{ $firefox }">{ -brand-name-firefox }</a>, por exemplo, tem <a href="{ $addons }">esta lista de extensões aprovadas de bloqueadores de anúncios</a>. Clique nesta lista (ou em bloqueadores de anúncios aprovados para seu navegador) e veja qual se adequa às suas necessidades.
 features-adblocker-find-the-right-ad-blocker = Encontre o bloqueador de anúncios adequado para você
@@ -27,7 +27,7 @@ features-adblocker-adguard-adblocker-blunts = O <a { $attrs1 }>AdGuard AdBlocker
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> é outra ótima opção que não apenas bloqueia anúncios, mas oferece benefícios adicionais contra rastreamento.
 # Variables:
-#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Essas extensões funcionam perfeitamente tanto no <a { $attrs1 }>{ -brand-name-firefox } de computador</a> como de <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Crie uma área livre de rastreadores com o bloqueio de conteúdo
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = No { -brand-name-firefox }, você 
 features-adblocker-speed-up-thanks-to-ad = Aumente a velocidade graças a bloqueadores de anúncios
 features-adblocker-in-some-cases-an-ad-blocker = Em alguns casos, um bloqueador de anúncios pode ajudar o navegador a funcionar mais rápido. Quando um anúncio está sendo carregado, ele pode fazer um site ficar mais lento. Ao mesmo tempo, demora mais para você encontrar o que procura, se tiver que perder tempo fechando mais um anúncio.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = Se quiser saber mais sobre bloqueio de anúncios, existe centenas de extensões de bloqueio de anúncios disponíveis para o { -brand-name-firefox } e outros navegadores. Se quiser experimentar os bloqueadores de anúncios que o { -brand-name-firefox } usa, <a href="{ $url }">clique aqui para baixar</a> um navegador que põe sua privacidade em primeiro lugar.

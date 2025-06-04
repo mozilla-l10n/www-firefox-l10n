@@ -13,5 +13,5 @@ not-found-page-go-back = ថយក្រោយ
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }"> ស្វែងយល់ </a> អំពី { -brand-name-mozilla } ដែលមិនស្វែងរកប្រាក់ចំណេញនៅពីក្រោយ { -brand-name-firefox } ឡើយ។
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>ទាញយក</a> កម្មវិធីរុករក { -brand-name-firefox } សម្រាប់ឧបករណ៍ចល័ត ឬកុំព្យូទ័រលើតុរបស់អ្នក

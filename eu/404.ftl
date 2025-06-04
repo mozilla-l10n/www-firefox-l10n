@@ -10,5 +10,5 @@ not-found-page-sorry-we-cant-find-that-page = Sentitzen dugu, ezin dugu orri hor
 not-found-page-were-all-about-a-healthy-internet = Internet osasungarriaren alde gaude baina batzuetan URLak hautsi egiten dira.
 not-found-page-go-back = Joan atzera
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Deskargatu</a> { -brand-name-firefox } nabigatzailea gailu mugikorrerako edo mahaigainerako

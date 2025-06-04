@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = 广告太多了，我的耐心是有�
 features-adblocker-the-average-person-sees = 人们平均一天会看到 4,000 条广告。如果您觉得这个数字太大，那么就需要用上广告拦截器了。
 features-adblocker-an-ad-blocker-is-a-piece = 广告拦截器是一种可用于屏蔽广告的软件，其以两种方式工作。第一种是直接拦截来自广告商服务器的流量，因此广告就不会显示在您的网页上。另一种方式是屏蔽网页中可能是广告的内容。
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = 这些广告可能是嘈杂的视频广告，并会以跟踪器、第三方Cookie 等型态在网络上的各个角落跟踪你。若要使用广告拦截器，可直接搜索您的浏览器所适用的附加组件。例如，<a href="{ $firefox }">{ -brand-name-firefox }</a>就有<a href="{ $addons }">这些经过审核的广告拦截附加组件</a>。看看有哪个符合您的需求。
 features-adblocker-find-the-right-ad-blocker = 寻找合适的广告拦截器
@@ -27,7 +27,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> 也同样优秀。除了能拦截广告，还可提供更进一步的跟踪保护。
 # Variables:
-#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = 无论在<a { $attrs1 }>桌面版</a>还是 <a { $attrs2 }>Android 版 { -brand-name-firefox }</a> 上，这些扩展都一样好用。
 features-adblocker-create-a-tracker-free = 使用内容拦截，创造无跟踪器空间
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = 在 { -brand-name-firefox } 中，
 features-adblocker-speed-up-thanks-to-ad = 使用广告拦截器加速上网
 features-adblocker-in-some-cases-an-ad-blocker = 某些情况下，广告拦截器可加快您的浏览速度，因为加载广告可能会拖慢网站，同时也可能使您需要花更多时间才能找到所需的内容。
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = 如需详细了解广告拦截器，目前有数百款适用于 { -brand-name-firefox } 和其他浏览器的广告拦截扩展可用。若您想在 { -brand-name-firefox } 中试用广告拦截器，请<a href="{ $url }">点击此处下载</a>这款隐私为先的浏览器。

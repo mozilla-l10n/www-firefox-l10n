@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = 너무 많은 광고, 한계에 다�
 features-adblocker-the-average-person-sees = 일반적으로 사람은 하루 평균 4000개의 광고를 봅니다. 너무 많이 보신다는 생각이 든다면, 광고 차단기는 새로운 가장 친한 친구가 되어줄 것입니다.
 features-adblocker-an-ad-blocker-is-a-piece = 광고 차단기는 광고를 막는 데 사용할 수 있는 소프트웨어로, 두 가지 방법으로 작동합니다. 첫 번째 방법은 광고 차단기가 광고 제공자의 서버로부터 받는 신호를 차단해, 광고가 페이지에 나타나지 않도록 막는 것입니다. 또 다른 방법은 광고일 가능성이 높은 웹사이트의 일부를 광고 차단기가 차단하는 방식으로 동작합니다.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = 이러한 광고로는 시끄러운 비디오 광고, 사용자를 추적하는 광고, 제 3자 쿠기 및 그 외 다양한 종류가 있을 수 있습니다. 광고 차단기를 사용하기 위해서, 사용하고 계신 브라우저에서 사용 가능한 광고 차단 부가 기능을 검색할 수 있습니다. <a href="{ $firefox }">{ -brand-name-firefox }</a>를 예로 든다면, <a href="{ $addons }">검증된 광고 차단기 부가 기능 목록</a>이 존재합니다. 이 리스트에서(혹은 사용하고 계신 브라우저의 검증된 광고 차단기에서) 선택하여 필요한 기능을 알맞게 제공하는 부가 기능을 찾아보세요.
 features-adblocker-find-the-right-ad-blocker = 당신에게 딱 맞는 광고 차단기를 찾아보세요
@@ -27,7 +27,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> 역시 좋은 선택지로, 광고를 차단할 뿐만 아니라 추적 방지 기능까지 추가로 제공합니다.
 # Variables:
-#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = 이 확장 기능들은 <a { $attrs1 }>데스크톱용 { -brand-name-firefox }</a>와 <a { $attrs2 }>Android</a> 에서 모두 잘 작동합니다.
 features-adblocker-create-a-tracker-free = 콘텐츠 차단으로 추적기 없는 환경을 만들어보세요
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = { -brand-name-firefox }에서 여�
 features-adblocker-speed-up-thanks-to-ad = 광고 차단을 통한 속도 향상
 features-adblocker-in-some-cases-an-ad-blocker = 경우에 따라 광고 차단기는 여러분의 브라우저를 빠르게 만드는데 도움이 될 수 있습니다. 광고는 로드될 때 웹사이트를 느리게 만듭니다. 동시에 다른 광고를 닫느라 너무 바빠서 원하는 것을 찾는데 시간이 더 걸립니다.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = 광고 차단에 대해 자세히 알아보려면 { -brand-name-firefox }와 다른 브라우저에서 이용할 수 있는 수백 개의 광고 차단 확장 기능이 있습니다. { -brand-name-firefox }가 사용하는 광고 차단기를 사용해보고 싶다면 개인 정보를 최우선으로 생각하는 브라우저를 <a href="{ $url }">여기를 클릭하여 다운로드</a>하세요.

@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Tako veliko oglasov, tako malo potrpl
 features-adblocker-the-average-person-sees = Povprečna oseba na dan vidi v povprečju 4000 oglasov. Če menite, da je to preveč, je orodje za zavračanje oglasov vaš novi najboljši prijatelj.
 features-adblocker-an-ad-blocker-is-a-piece = Orodje za zavračanje oglasov je del programske opreme, s katero se lahko zavrnejo oglasi, in delujejo na dva načina. Prvi način je, ko orodje za zavračanje oglasov zavrne signal s strežnika oglaševalca, tako da se oglas na strani nikoli ne prikaže. Drugi način delovanja orodij za zavračanje oglasov je z zavračanjem delov spletnih strani, na katerih bi lahko bili oglasi.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Ti oglasi so lahko glasni video oglasi, oglasi, ki vas spremljajo po spletu, sledilci, piškotki tretjih strani in drugo. Če želite uporabiti orodje za zavračanje oglasov, lahko poiščete dodatke, ki so na voljo v vašem brskalniku. <a href="{ $firefox }">{ -brand-name-firefox }</a> ponuja <a href="{ $addons }">ta seznam odobrenih dodatkov za zavračanje oglasov</a>. Kliknite ta seznam (ali orodja za zavračanje oglasov, ki so odobrena za vaš brskalnik) in najdite sebi primernega.
 features-adblocker-find-the-right-ad-blocker = Poiščite pravo orodje za zavračanje oglasov
@@ -27,7 +27,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> je še ena odlična izbira, ki ne le zavrača oglase, temveč ponuja tudi dodatne zaščite pred sledenjem.
 # Variables:
-#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Te razširitve se enako dobro izkažejo v <a { $attrs1 }>{ -brand-name-firefox(sklon: "mestnik") } za namizja</a> in <a { $attrs2 }>za Android</a>.
 features-adblocker-create-a-tracker-free = Ustvarite območje brez sledilcev z zavračanjem vsebine
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = V { -brand-name-firefox }u lahko z
 features-adblocker-speed-up-thanks-to-ad = Bodite hitrejši zahvaljujoč orodju za zavračanje oglasov
 features-adblocker-in-some-cases-an-ad-blocker = V nekaterih primerih lahko orodje za zavračanje oglasov pohitri vaš brskalnik. Ob nalaganju oglasov se lahko spletna mesta upočasnijo. Hkrati traja dlje časa, da najdete tisto, kar iščete, če morate ob tem še zapirati oglase.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = Če želite izvedeti več o zavračanju oglasov, obstaja več sto razširitev za zavračanje oglasov za { -brand-name-firefox } in druge brskalnike. Če želite preizkusiti orodja za zavračanje oglasov, ki jih uporablja { -brand-name-firefox } <a href="{ $url }">kliknite tukaj, da prenesete</a> brskalnik, ki na prvo mesto postavlja zasebnost.

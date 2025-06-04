@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Tante annuncios, si poc patientia… 
 features-adblocker-the-average-person-sees = Le persona medie vide circa 4000 annuncios in un die. Si tu pensa que isto es troppo, un blocator de publicitate es tu nove melior amico.
 features-adblocker-an-ad-blocker-is-a-piece = Un blocator de publicitate es un pecia de software que pote esser usate pro blocar annuncios e que labora in duo manieras. Le prime maniera es blocar le signal de un servitor de publicitate, de maniera que le annuncios non apparera jammais sur tu pagina. Un altere maniera es blocar le sectiones de un sito web que poterea esser annuncios.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Iste annuncios pote esser videos aggressive, annuncios que te seque per tote le web, traciatores, cookies de tertios, etc. Pro obtener un blocator de publicitate, tu pote cercar additivos disponibile pro tu navigator. <a href="{ $firefox }">{ -brand-name-firefox }</a>, per exemplo, ha <a href="{ $addons }">iste lista de additivos blocator approbate</a>. Consulta iste lista (o, si tu usa un altere navigator, su lista de blocatores approbate) e vide qual corresponde a tu requisitos.
 features-adblocker-find-the-right-ad-blocker = Trova le blocator de publicitate juste pro te
@@ -27,7 +27,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> es un altere grande selection que non solo bloca annuncios publicitari, ma offere beneficios additional anti-traciamento.
 # Variables:
-#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Iste extensiones laborar magnificamente sur ambe <a { $attrs1 }>{ -brand-name-firefox } pro scriptorio</a> e <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Crea un zona libere de traciatores con Blocage de contento
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = In { -brand-name-firefox }, tu pot
 features-adblocker-speed-up-thanks-to-ad = Acceleration gratias al blocatores de publicitate
 features-adblocker-in-some-cases-an-ad-blocker = In alcun casos, un blocator de publicitate pote accelerar tu navigation. Le cargamento de un annuncio pote relentar un sito web. In ultra, il prende plus tempore trovar lo que tu cerca si tu continuemente debe clauder annuncios.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = Si tu desira saper plus re le blocada del avisos publicitari, il ha centenas de extensiones blocator de avisos publicitari disponibile pro { -brand-name-firefox } e altere navigatores. Si tu desira provar le blocatores de avisos publicitari que { -brand-name-firefox } usa, <a href="{ $url }">clicca ci pro discargar</a> un navigator que pone le confidentialitate in prime loco.

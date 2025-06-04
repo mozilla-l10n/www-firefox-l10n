@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Zo veel advertenties, zo weinig gedul
 features-adblocker-the-average-person-sees = De gemiddelde persoon ziet gemiddeld 4.000 advertenties per dag. Als u vindt dat dat er te veel zijn, dan is een adblocker uw nieuwe beste vriend.
 features-adblocker-an-ad-blocker-is-a-piece = Een adblocker is een stukje software dat kan worden gebruikt om advertenties te blokkeren en ze werken op twee manieren. De eerste manier is wanneer een adblocker een signaal van de server van de adverteerder blokkeert, zodat de advertentie nooit op uw pagina verschijnt. Een andere manier waarop adblockers werken, is door secties van een website die advertenties zouden kunnen zijn te blokkeren.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Deze advertenties kunnen lawaaierige video-advertenties, advertenties die u op het web volgen, trackers, cookies van derden en nog meer zijn. Om een adblocker te gebruiken, kunt u naar adblocker-add-ons die in uw browser beschikbaar zijn zoeken. <a href="{ $firefox }">{ -brand-name-firefox }</a> heeft bijvoorbeeld <a href="{ $addons }">deze lijst met goedgekeurde adblocker-add-ons</a>. Klik op deze lijst (of adblockers die voor uw browser zijn goedgekeurd) en bekijk welke aansluit bij uw wensen.
 features-adblocker-find-the-right-ad-blocker = Vind de juiste adblocker voor u
@@ -27,7 +27,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> is een andere geweldige keuze die niet alleen advertenties blokkeert, maar ook andere voordelen tegen volgen biedt.
 # Variables:
-#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Deze extensies werken prima op zowel <a { $attrs1 }>{ -brand-name-firefox }desktop</a> als <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Creëer een trackervrije zone met inhoudsblokkering
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = In { -brand-name-firefox } kunt u 
 features-adblocker-speed-up-thanks-to-ad = Surf sneller dankzij adblockers
 features-adblocker-in-some-cases-an-ad-blocker = In sommige gevallen kan een adblocker uw browser sneller laten gaan. Wanneer een advertentie wordt geladen, dan kan dit een website vertragen. Tegelijkertijd duurt het langer om te vinden waar u naar zoekt als u te druk bent met sluiten van weer een advertentie.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = Als u meer wilt weten over advertenties blokkeren, dan zijn er honderden adblockerextensies beschikbaar voor { -brand-name-firefox } en andere browsers. Als u de adblockers die { -brand-name-firefox } gebruikt wilt uitproberen, <a href="{ $url }">klik dan hier om een browser die privacy voorop stelt te downloaden</a>.

@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = Gam { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Gam { -brand-name-firefox } ma pud dong dwir loyo
@@ -26,5 +26,5 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } pe obedo la
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 

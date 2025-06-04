@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Tak veľa reklám a tak málo času�
 features-adblocker-the-average-person-sees = Priemerný človek vidí za deň 4 000 reklám. Ak si myslíte, že je to priveľa, blokovač reklám je váš nový najlepší priateľ.
 features-adblocker-an-ad-blocker-is-a-piece = Blokovač reklám je softvér, ktorý sa dá použiť na blokovanie reklám a funguje dvoma spôsobmi. Prvý spôsob je blokovanie signálu zo serveru inzerenta, takže reklama sa na stránke nikdy nezobrazí. Druhým spôsobom je blokovanie častí webovej stránky, v ktorých môžu byť reklamy.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Týmito reklamami môžu byť hlasné videoreklamy, reklamy, ktoré vás sledujú na webe, sledovače, súbory cookie tretích strán a ďalšie. Ak chcete použiť blokovač reklám, môžete vyhľadať doplnky pre blokovanie reklám, ktoré sú dostupné vo vašom prehliadači. <a href="{ $firefox }">{ -brand-name-firefox }</a> má napríklad <a href="{ $addons }">tento zoznam schválených doplnkov na blokovanie reklám</a>. Kliknite na tento zoznam (alebo blokovače reklám, ktoré sú schválené pre váš prehliadač) a zistite, ktorý vyhovuje vašim potrebám.
 features-adblocker-find-the-right-ad-blocker = Nájdite si pre seba ten správny blokovač
@@ -27,7 +27,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> je ďalšou skvelou voľbou, ktorá nielen blokuje reklamy, ale poskytuje aj ďalšie možnosti ohľadom sledovania.
 # Variables:
-#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Tieto rozšírenia fungujú skvele vo <a { $attrs1 }>{ -brand-name-firefox(case: "loc") } pre počítač</a> aj <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Vytvorte si zónu bez sledovacích prvkov pomocou blokovania obsahu
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = Vo { -brand-name-firefox(case: "lo
 features-adblocker-speed-up-thanks-to-ad = Zrýchlite vďaka blokovačom reklám
 features-adblocker-in-some-cases-an-ad-blocker = V niektorých prípadoch môže blokovanie reklám pomôcť vášmu prehliadaču zrýchliť. Keď sa reklama načítava, môže spomaliť web. Ak ste príliš zaneprázdnení zatváraním ďalšej reklamy, hľadanie toho, čo skutočne hľadáte, trvá dlhšie.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = Ak sa chcete dozvedieť viac o blokovaní reklám, pre prehliadač { -brand-name-firefox } ako aj ďalšie prehliadače sú k dispozícii stovky rozšírení na blokovanie reklám. Ak chcete vyskúšať blokovače reklám pre { -brand-name-firefox }, <a href="{ $url }">kliknutím sem</a> si stiahnete prehliadač, ktorý kladie súkromie na prvé miesto.

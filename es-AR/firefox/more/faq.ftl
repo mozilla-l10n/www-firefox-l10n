@@ -25,7 +25,7 @@ how-do-i = ¿Cómo consigo { -brand-name-firefox-browser }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
-you-can-easily = Podés descargar fácilmente el navegador de escritorio { -brand-name-firefox } <a href="{ $url }">aquí.</a> { -brand-name-firefox } trabaja en dispositivos<a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> y <a href="{ $url4 }"> { -brand-name-linux }</a>, y también está disponible para <a href="{ $url5 }">{ -brand-name-android } y { -brand-name-ios }.</a> Asegurate de que estás descargando nuestro navegador desde una de nuestras páginas de confianza de { -brand-name-mozilla }/{ -brand-name-firefox }.
+you-can-easily = Podés descargar fácilmente el navegador de escritorio { -brand-name-firefox } <a href="{ $url }">aquí.</a> { -brand-name-firefox } trabaja en dispositivos <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> y <a href="{ $url4 }"> { -brand-name-linux }</a>, y también está disponible para <a href="{ $url5 }">{ -brand-name-android } y { -brand-name-ios }.</a> Asegurate de que estás descargando nuestro navegador desde una de nuestras páginas de confianza de { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = ¿{ -brand-name-firefox } es gratuito?
 yep-the-firefox-browser-is-free = ¡Sí! { -brand-name-firefox-browser } es gratuito. Súper gratuito en realidad. No hay costos ocultos ni nada. No pagás nada para usarlo, y no vendemos tus datos personales.
 related-questions-free = Preguntas relacionadas: ¿{ -brand-name-firefox-browser } es gratuito, ¿{ -brand-name-firefox } cuesta algo?
@@ -42,7 +42,7 @@ is-firefox-safe-download = ¿Es seguro descargar { -brand-name-firefox }?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
-protecting-your-privacy = Proteger tu privacidad es nuestra prioridad número uno, y nos aseguramos de que la instalación de { -brand-name-firefox } en tus dispositivos sea completamente segura, pero asegurate siempre de descargar desde un sitio { -brand-name-mozilla }/{ -brand-name-firefox }seguro como <a href="{ $url }"> nuestra página de descarga.</a>
+protecting-your-privacy = Proteger tu privacidad es nuestra prioridad número uno, y nos aseguramos de que la instalación de { -brand-name-firefox } en tus dispositivos sea completamente segura, pero asegurate siempre de descargar desde un sitio de { -brand-name-mozilla }/{ -brand-name-firefox } seguro como <a href="{ $url }"> nuestra página de descarga.</a>
 is-firefox-safe = ¿{ -brand-name-firefox } es seguro?
 
 # Variables:

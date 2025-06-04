@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Rất nhiều quảng cáo, quá ít 
 features-adblocker-the-average-person-sees = Một người trung bình nhìn thấy trung bình 4.000 quảng cáo mỗi ngày. Nếu bạn nghĩ rằng nó quá nhiều, một trình chặn quảng cáo là người bạn tốt nhất mới của bạn.
 features-adblocker-an-ad-blocker-is-a-piece = Trình chặn quảng cáo là một phần mềm có thể được sử dụng để chặn quảng cáo và chúng hoạt động theo hai cách. Cách đầu tiên là khi trình chặn quảng cáo chặn tín hiệu từ máy chủ của nhà quảng cáo, vì vậy quảng cáo không bao giờ xuất hiện trên trang của bạn. Một cách khác để chặn quảng cáo hoạt động là bằng cách chặn các phần của trang web có thể là quảng cáo.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Những quảng cáo này có thể là quảng cáo video lớn, quảng cáo theo bạn trên web, trình theo dõi, cookie của bên thứ ba và hơn thế nữa. Để sử dụng trình chặn quảng cáo, bạn có thể tìm kiếm các tiện ích mở rộng của trình chặn quảng cáo có sẵn trong trình duyệt của bạn. Chẳng hạn,<a href="{ $firefox }">{ -brand-name-firefox }</a> có <a href="{ $addons }">danh sách các tiện ích mở rộng trình chặn quảng cáo được phê duyệt này</a>. Nhấp vào danh sách này (hoặc trình chặn quảng cáo được phê duyệt cho trình duyệt của bạn) và xem cái nào phù hợp với nhu cầu của bạn.
 features-adblocker-find-the-right-ad-blocker = Tìm trình chặn quảng cáo phù hợp với bạn
@@ -27,7 +27,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> là một lựa chọn tuyệt vời khác không chỉ chặn quảng cáo mà còn cung cấp thêm lợi ích chống theo dõi.
 # Variables:
-#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Tiện ích mở rộng này hoạt động rất tốt trên cả <a { $attrs1 }>{ -brand-name-firefox } dành cho máy tính</a> và <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Tạo vùng không theo dõi với trình chặn nội dung
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = Trong { -brand-name-firefox }, b�
 features-adblocker-speed-up-thanks-to-ad = Tăng tốc nhờ trình chặn quảng cáo
 features-adblocker-in-some-cases-an-ad-blocker = Trong một số trường hợp, trình chặn quảng cáo có thể giúp trình duyệt của bạn chạy nhanh hơn. Khi một quảng cáo đang tải, nó có thể làm chậm một trang web. Đồng thời, sẽ mất nhiều thời gian hơn để tìm thấy những gì bạn đang tìm kiếm nếu bạn quá bận rộn khi đóng một quảng cáo khác.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = Nếu bạn muốn tìm hiểu thêm về chặn quảng cáo, có hàng trăm tiện ích mở rộng trình chặn quảng cáo có sẵn cho { -brand-name-firefox } và các trình duyệt khác. Nếu bạn muốn dùng thử trình chặn quảng cáo mà { -brand-name-firefox } sử dụng, hãy <a href="{ $url }">nhấp vào đây để tải xuống</a> một trình duyệt đặt quyền riêng tư lên hàng đầu.

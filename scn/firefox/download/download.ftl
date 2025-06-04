@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = Scàrrica { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Scàrrica u { -brand-name-firefox } cchiù lestu di sempri
@@ -41,7 +41,7 @@ firefox-new-visit-support-for-more = Vai â pàggina di l'assistenza p'aviri cch
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Scàrrica { -brand-name-firefox-browser }

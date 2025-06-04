@@ -20,5 +20,5 @@ features-translate-the-languages-below-are-what-v2 = Mae'r ieithoedd isod yn cae
 features-translate-and-more-languages-are-in = Ac mae mwy o ieithoedd yn cael eu datblygu!
 features-translate-firefox-speaks-your-language = Mae { -brand-name-firefox } yn siarad eich iaith
 # Variables:
-#   $download (url) = link to https://www.firefox.com/download/
+#   $download (url) = link to https://www.firefox.com/
 features-translate-the-firefox-translations-feature-v2 = Mae nodwedd { -brand-name-firefox-translations } yn ffordd arall mae { -brand-name-mozilla } yn cadw eich rhyngrwyd yn bersonol ac yn fwy preifat. Nid yw { -brand-name-mozilla } yn olrhain pa dudalennau gwe rydych chi'n eu cyfieithu. Gyda miliynau o ddefnyddwyr ledled y byd, mae { -brand-name-mozilla } am sicrhau bod y rhai sy'n defnyddio { -brand-name-firefox } yn dysgu, yn cyfathrebu, yn rhannu ac yn cael y wybodaeth ddiweddaraf ar eu telerau eu hunain. <a { $download }>Cychwynnwch arni yn eich dewis iaith drwy lawrlwytho { -brand-name-firefox }.</a>

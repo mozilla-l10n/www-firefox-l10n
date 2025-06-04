@@ -13,5 +13,5 @@ not-found-page-go-back = Dir p'atrás
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Llei más</a> tocante a { -brand-name-mozilla }, la organización ensin ánimu de llucru darrera de { -brand-name-firefox }.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Baxa</a>'l restolador { -brand-name-firefox } pal móvil u ordenador

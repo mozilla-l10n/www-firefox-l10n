@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox } ڈائونلوڈ کریں
 firefox-new-download-the-fastest-firefox = اب تک کا سب سے تیز { -brand-name-firefox } ڈاؤن لوڈ کریں
@@ -31,5 +31,5 @@ firefox-new-download-interrupted = آپ کے ڈاؤن لوڈ میں خلل پڑ�
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 

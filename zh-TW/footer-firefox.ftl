@@ -44,6 +44,9 @@ footer-developer = 開發者
 footer-resources = 資源
 footer-compare = 比較
 footer-release-notes = 發行公告
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = 了解
 footer-support = 技術支援
 footer-addons = 附加元件
 footer-blog = 部落格

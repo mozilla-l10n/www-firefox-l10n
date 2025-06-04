@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = ดาวน์โหลด { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = ดาวน์โหลด { -brand-name-firefox } ที่เร็วที่สุดกว่าที่เคย
@@ -41,7 +41,7 @@ firefox-new-visit-support-for-more = เยี่ยมชมฝ่ายสน�
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = ดาวน์โหลด{ -brand-name-firefox-browser }

@@ -13,7 +13,7 @@ not-found-page-go-back = Tebek
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Lês</a> oer { -brand-name-mozilla }, de non-profitorganisaasje efter { -brand-name-firefox }.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Download</a> de { -brand-name-firefox }-browser foar jo mobile apparaat of desktop
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404

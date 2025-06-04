@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = Taqasaj { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Tiqasäx ri { -brand-name-firefox }, ri yalan aninäq majub'ey titz'et
@@ -37,5 +37,5 @@ firefox-new-visit-support-for-more = Tatz'eta' Tob'äl richin Ch'aqa' Rub'anikil
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 

@@ -15,7 +15,7 @@ features-adblocker-the-ad-blocker-a-tool = Blokování reklam – nástroj pro p
 features-adblocker-in-todays-digital-world = V dnešním digitálním světě může být web rušný a nepřehledný. Blokátory reklam jsou výkonné nástroje, které vám umožňují mít kontrolu nad prohlížením a rozhodovat o tom, co se na obrazovce zobrazí.
 features-adblocker-ad-blockers-work = Blokátory reklam fungují dvěma hlavními způsoby: zabraňují načítání obsahu, například reklam, a blokují části webových stránek, které tyto prvky obsahují. To může zahrnovat videoreklamy, personalizované reklamy, které vás sledují na webu, a dokonce i sledovací zařízení třetích stran.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = Použití blokátoru reklam je jednoduché. Mnoho důvěryhodných možností je k dispozici jako doplňky prohlížeče, takže je snadné najít řešení, které vyhovuje vašim potřebám. Například <a href="{ $firefox }">{ -brand-name-firefox }</a> nabízí <a href="{ $addons }">seznam schválených rozšíření</a> navržených tak, aby zlepšily vaše prohlížení a zároveň respektovaly vaše soukromí.
 features-adblocker-finding-the-right = Najděte si vhodný blokátor reklam
@@ -36,5 +36,5 @@ features-adblocker-to-adjust = Chcete-li tato nastavení upravit, klepněte na i
 features-adblocker-why-use = Proč používat nástroj na blokování reklam?
 features-adblocker-ad-blockers-do-more = Blokovače reklam umí víc než jen spravovat reklamy - mohou zvýšit rychlost procházení a bezpečnost tím, že omezí nepotřebný obsah. Umožňují vám vytvořit si na míru šitý web bez rozptylování a soustředit se na to, co je nejdůležitější.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-explore-hundreds = Prozkoumejte stovky doplňků zaměřených na ochranu soukromí, které jsou k dispozici pro { -brand-name-firefox }, a najděte ty správné nástroje. <a href="{ $url }">Stáhněte si { -brand-name-firefox }</a> ještě dnes a vyzkoušejte prohlížeč navržený s ohledem na vaše soukromí a výkon.

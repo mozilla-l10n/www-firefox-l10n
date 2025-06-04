@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = Last ned { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Last ned den raskeste { -brand-name-firefox }-nettleseren noen gang
@@ -37,5 +37,5 @@ firefox-new-visit-support-for-more = Besøk brukerstøtte for mer informasjon
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 

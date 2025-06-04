@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/download/
+### URL: https://www-dev.springfield.moz.works/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -26,11 +26,11 @@ firefox-desktop-download-no-shady = No hay políticas de privacidad sospechosas 
 firefox-desktop-download-download-options = Opciones de descarga y otros idiomas
 firefox-desktop-download-browser-support = Ayuda para { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do-v2 = Hacé lo que quieras en línea.<br> { -brand-name-firefox-browser } te tiene <strong>cubierto</strong>.
+firefox-desktop-download-do-what-you-do-v2 = Hacé lo que quieras en línea.<br> El { -brand-name-firefox-browser } te tiene <strong>cubierto</strong>.
 # Obsolete string
 firefox-desktop-download-do-what-you-do = Hagás lo que hagás en línea <br> { -brand-name-firefox-browser } <strong> no está </strong> mirando.
 firefox-desktop-download-we-block-the-ad = Bloqueamos los rastreadores de publicidad. Podés explorar Internet más rápido.
-firefox-desktop-download-ads-are-distracting = La publicidad distrae y hace que las páginas web se carguen más lentamente mientras que sus rastreadores observan cada movimiento que usted hace en línea. El { -brand-name-firefox-browser } bloquea la mayoría de los rastreadores automáticamente, por lo que no es necesario profundizar en su configuración de seguridad.
+firefox-desktop-download-ads-are-distracting = La publicidad distrae y hace que las páginas web se carguen más lentamente mientras que sus rastreadores observan cada movimiento que hacés en línea. El { -brand-name-firefox-browser } bloquea la mayoría de los rastreadores automáticamente, por lo que no es necesario profundizar en su configuración de seguridad.
 firefox-desktop-download-see-your-report = Mirá tu informe de protección
 firefox-desktop-download-for-everyone = { -brand-name-firefox } es para todos
 firefox-desktop-download-available-in-over = Disponible en más de 90 idiomas y compatible con los equipos { -brand-name-windows }, { -brand-name-mac-short } y { -brand-name-linux }, { -brand-name-firefox } funciona sin importar qué está usando o dónde está. Asegurate de que tu sistema operativo esté actualizado para obtener la mejor experiencia.

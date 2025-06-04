@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = Ներբեռնել { -brand-name-firefox }-ը
 firefox-new-download-the-fastest-firefox = Ներբեռնեք երբևէ ամենաարագ { -brand-name-firefox }-ը
@@ -28,5 +28,5 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }-ը ավել
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 

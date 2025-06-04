@@ -13,5 +13,5 @@ not-found-page-go-back = Înapoi
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Află</a> despre { -brand-name-mozilla }, organizația nonprofit din spatele { -brand-name-firefox }.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Descarcă</a> browserul { -brand-name-firefox } pentru dispozitivul mobil sau desktop

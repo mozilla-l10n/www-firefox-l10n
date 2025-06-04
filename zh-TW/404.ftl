@@ -13,7 +13,7 @@ not-found-page-go-back = 返回
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">了解</a> { -brand-name-firefox } 背後的非營利組織－{ -brand-name-mozilla }。
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>下載</a> 行動裝置或桌面板 { -brand-name-firefox } 瀏覽器
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404

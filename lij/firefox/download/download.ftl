@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = Descarega { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Scarega o ciù veloce { -brand-name-firefox } de de longo.
@@ -28,5 +28,5 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } o l'é ciù
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 

@@ -10,7 +10,7 @@ features-adblocker-the-ad-blocker-a-secret = «Манъкунандаи рекл
 features-adblocker-so-many-ads-so-little = Ин қадар бисёр рекламаи безоркунанда, он қадар сабри кам… Акнун вақти он расидааст, ки мо бояд девонагиро бас кунем.
 features-adblocker-find-the-right-ad-blocker = Манъкунандаи рекламаеро, ки ба ниёзҳои шумо мувофиқ аст, дарёфт кунед
 # Variables:
-#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Ин васеъшавиҳо ҳам дар <a { $attrs1 }>браузери «{ -brand-name-firefox }» барои мизи корӣ</a> ва ҳам дар <a { $attrs2 }>браузер барои «Android»</a> хуб кор мекунанд.
 features-adblocker-create-a-tracker-free = Ба воситаи абзори «Манъкунии муҳтаво» фазои озодро бе ягон восоити пайгирӣ эҷод намоед

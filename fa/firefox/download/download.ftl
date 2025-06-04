@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = دریافت { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = سریع‌ترین { -brand-name-firefox } را دریافت کنید
@@ -28,5 +28,5 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } بیشتر 
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 

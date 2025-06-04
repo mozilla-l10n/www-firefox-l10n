@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-free-web-browser = స్వేచ్ఛా జాల విహారిణి
 firefox-new-download-in-another-language = మరొక భాషలో దించుకోండి
@@ -18,5 +18,5 @@ firefox-new-need-help = సహాయం కావాలా?
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 

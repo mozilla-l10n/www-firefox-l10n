@@ -20,10 +20,10 @@ navigation-mobile = მობილური
 navigation-release-notes = გამოშვების შენიშვნები
 navigation-support = მხარდაჭერა
 navigation-add-ons = დამატებები
-navigation-learn = ისწავლეთ
+navigation-learn = გაეცანით
 navigation-blog = სვეტი
 navigation-compare = შედარება
-navigation-podcast = კოლექცია
+navigation-podcast = პოდკასტი
 
 ## Download
 

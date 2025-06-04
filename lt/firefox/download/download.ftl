@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = Parsisiųskite „{ -brand-name-firefox }“
 firefox-new-download-the-fastest-firefox = Parsisiųskite sparčiausią „{ -brand-name-firefox }“ laidą
@@ -28,5 +28,5 @@ firefox-new-firefox-is-more-than-a-browser = „{ -brand-name-firefox }“ – 
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 

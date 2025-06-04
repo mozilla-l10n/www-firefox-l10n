@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox } ডাউনলোড করুন
 firefox-new-download-the-fastest-firefox = দ্রুততম { -brand-name-firefox } ডাউনলোড করুন
@@ -24,5 +24,5 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ব্র�
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 

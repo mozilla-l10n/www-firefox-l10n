@@ -15,7 +15,7 @@ features-adblocker-the-ad-blocker-a-tool = חוסם פרסומות – כלי ל
 features-adblocker-in-todays-digital-world = בעולם הדיגיטלי של ימינו, האינטרנט יכול להיות עמוס ומבולגן. חוסמי פרסומות הם כלים רבי עוצמה שמעניקים לכם שליטה על חוויית הגלישה שלכם, ומאפשרים לכם להחליט מה יופיע על המסך שלכם.
 features-adblocker-ad-blockers-work = חוסמי פרסומות פועלים בשתי דרכים עיקריות: על־ידי מניעת טעינת תוכן, כגון פרסומות, ועל־ידי חסימת חלקים באתרים המארחים אלמנטים אלה. זה יכול לכלול פרסומות וידאו, פרסומות מותאמות אישית שעוקבות אחריכם ברחבי האינטרנט ואפילו רכיבי מעקב מצד שלישי.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = השימוש בחוסם פרסומות הוא פשוט. אפשרויות מהימנות רבות זמינות כהרחבות לדפדפן, מה שמקל על מציאת פתרון שמתאים לצרכים שלכם. לדוגמה, <a href="{ $firefox }">{ -brand-name-firefox }</a> מציע <a href="{ $addons }">רשימה של הרחבות מאושרות</a> המיועדות לשפר את חווית הגלישה שלכם תוך כיבוד הפרטיות שלכם.
 features-adblocker-finding-the-right = מצאו את חוסם הפרסומות המתאים לכם
@@ -36,5 +36,5 @@ features-adblocker-to-adjust = כדי להתאים אישית הגדרות אל�
 features-adblocker-why-use = למה להשתמש בחוסם פרסומות?
 features-adblocker-ad-blockers-do-more = חוסמי פרסומות עושים יותר מאשר רק ניהול פרסומות - הם יכולים לשפר את מהירות הגלישה והאבטחה שלכם על ידי צמצום תוכן מיותר. הם מאפשרים לכם ליצור חוויית אינטרנט מותאמת אישית ונטולת הסחות דעת, המאפשרת לכם להתמקד במה שחשוב ביותר.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-explore-hundreds = גלו מאות תוספות המתמקדות בפרטיות והזמינות עבור { -brand-name-firefox } ומצאו את הכלים המתאימים לכם. <a href="{ $url }">הורידו את { -brand-name-firefox }</a> היום כדי לחוות דפדפן שתוכנן תוך מחשבה על הפרטיות והביצועים שלכם.

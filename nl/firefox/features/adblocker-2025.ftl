@@ -15,7 +15,7 @@ features-adblocker-the-ad-blocker-a-tool = De adblocker – een hulpmiddel voor 
 features-adblocker-in-todays-digital-world = In de digitale wereld van vandaag kan het web druk en rommelig zijn. Adblockers zijn krachtige hulpmiddelen die u controle over uw surfervaring geven, en u laten beslissen wat er op uw scherm wordt getoond.
 features-adblocker-ad-blockers-work = Adblockers werken op twee belangrijke manieren: door te voorkomen dat inhoud, zoals advertenties, wordt geladen, en door secties van websites die die elementen hosten te blokkeren. Dit kunnen videoadvertenties, gepersonaliseerde advertenties die u op internet volgen en zelfs trackers van derden zijn.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = Het gebruik van een adblocker is eenvoudig. Veel vertrouwde opties zijn beschikbaar als browseradd-ons, waardoor het eenvoudig is om een oplossing te vinden die aan uw behoeften voldoet. <a href="{ $firefox }">{ -brand-name-firefox }</a> biedt bijvoorbeeld <a href="{ $addons }">een lijst met goedgekeurde extensies</a> die zijn ontworpen om uw surfervaring te verbeteren met respect voor uw privacy.
 features-adblocker-finding-the-right = De juiste adblocker voor u vinden
@@ -36,5 +36,5 @@ features-adblocker-to-adjust = Klik om deze instellingen aan te passen op een we
 features-adblocker-why-use = Waarom een adblocker gebruiken?
 features-adblocker-ad-blockers-do-more = Adblockers doen meer dan advertenties beheren – ze kunnen uw surfsnelheid en -beveiliging verbeteren door onnodige inhoud te verminderen. Ze stellen u in staat om een op maat gemaakte, afleidingsvrije webervaring te creëren, zodat u zich kunt concentreren op wat het belangrijkst is.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-explore-hundreds = Verken honderden op privacy gerichte add-ons die beschikbaar zijn voor { -brand-name-firefox } en vind de juiste hulpmiddelen voor u. <a href="{ $url }">Download { -brand-name-firefox }</a> vandaag nog en ervaar een browser die is ontworpen met uw privacy en prestaties in gedachten.

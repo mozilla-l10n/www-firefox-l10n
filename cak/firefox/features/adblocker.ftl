@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = ¿La man nawïl ta achike nab'än kik
 features-adblocker-the-average-person-sees = Jun winäq yerutz'ët jun 4,000 eltzijol q'ij q'ij. We nana'ojij chi yalan k'ïy, xtiqa chawäch ri q'atöy taq eltzijol.
 features-adblocker-an-ad-blocker-is-a-piece = Jun q'atöy eltzijol, jun kema' nokisäx richin niq'at kitzijik ri eltzijol, ka'i' rub'eyal nisamäj. Ri nab'ey, nuq'ät akuchi' nitikïr pe ri ruk'u'x eltzijol, richin man niq'alajin ta pe pa ri ruxaq. Ri jun chik yerelesaj ri taq peraj k'o eltzijol chi kipam.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Re eltzijol re' rik'in jub'a' e silowäch yetararyax, yatrojqaj pa k'ïy ruxaq, ojqanela', taq kikuki aj rox winäq, chuqa' juley chik. Richin nawokisaj jun q'atöy, yatikïr ye'akanoj taq tz'aqat e k'o richin ri awokik'amaya'l. <a href="{ $firefox }">{ -brand-name-firefox }</a>, achi'el ri <a href="{ $addons }">ke'anik'oj re kitz'aqat taq q'atöy re'</a>. Tapitz'a' pa re rucholajem re' (o tacha' jun chik ri ütz chi re ri awokik'amaya'l) achike na ri awajowaxik.
 features-adblocker-find-the-right-ad-blocker = Tawila' ri ütz kiq'atb'al eltzijol

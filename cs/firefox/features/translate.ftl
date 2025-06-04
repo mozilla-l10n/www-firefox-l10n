@@ -20,5 +20,5 @@ features-translate-the-languages-below-are-what-v2 = Ve funkci { -brand-name-fir
 features-translate-and-more-languages-are-in = A další jazyky jsou ve vývoji!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } mluví vaším jazykem
 # Variables:
-#   $download (url) = link to https://www.firefox.com/download/
+#   $download (url) = link to https://www.firefox.com/
 features-translate-the-firefox-translations-feature-v2 = Funkce { -brand-name-firefox-translations } je dalším způsobem, jak { -brand-name-mozilla } pomáhá udržet váš internet přizpůsobený a soukromější. { -brand-name-mozilla } nesleduje, jaké webové stránky překládáte. S miliony uživatelů po celém světě chce { -brand-name-mozilla } zajistit, aby se ti, kteří používají { -brand-name-firefox }, učili, komunikovali, sdíleli a byli informováni podle svých vlastních podmínek. <a { $download }>Začněte ve svém preferovaném jazyce stažením { -brand-name-firefox(case: "gen") }.</a>

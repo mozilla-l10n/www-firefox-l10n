@@ -15,7 +15,7 @@ features-adblocker-the-ad-blocker-a-tool = Y rhwystrydd hysbysebion - offeryn ar
 features-adblocker-in-todays-digital-world = Yn y byd digidol sydd ohoni, gall y we fod yn brysur ac yn anniben. Mae rhwystrwyr hysbysebion yn offer pwerus sy'n cynnig rheolaeth i chi o'ch profiad pori, ac yn gadael i chi benderfynu beth sy'n ymddangos ar eich sgrin.
 features-adblocker-ad-blockers-work = Mae rhwystrwyr hysbysebion yn gweithio mewn dwy ffordd allweddol: trwy atal cynnwys, fel hysbysebion, rhag llwytho a thrwy rwystro adrannau o wefannau sy'n cynnal yr elfennau hynny. Gall hyn gynnwys hysbysebion fideo, hysbysebion personol sy'n eich dilyn ar draws y we, a hyd yn oed tracwyr trydydd parti.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = Mae defnyddio rhwystrwyr hysbysebion yn hawdd. Mae llawer o opsiynau dibynadwy ar gael fel ychwanegion porwr, gan ei gwneud hi'n hawdd dod o hyd i ateb sy'n gweithio i'ch anghenion chi. Er enghraifft, mae <a href="{ $firefox }">{ -brand-name-firefox }</a> yn cynnig <a href="{ $addons }">rhestr o estyniadau cymeradwy</a> a gynlluniwyd i wella eich profiad pori tra'n parchu eich preifatrwydd.
 features-adblocker-finding-the-right = Dod o Hyd i'r Rhwystrydd Hysbysebion Cywir i Chi
@@ -36,5 +36,5 @@ features-adblocker-to-adjust = I newid y gosodiadau hyn, cliciwch ar yr eicon ta
 features-adblocker-why-use = Pam defnyddio rhwystrydd hysbysebion?
 features-adblocker-ad-blockers-do-more = Mae rhwystrydd hysbysebion yn gwneud mwy na rheoli hysbysebion - gallan nhw wella eich cyflymder pori a diogelwch trwy leihau cynnwys diangen. Maen nhw'n eich grymuso i greu profiad gwe wedi'i deilwra, heb unrhyw wrthdyniadau, gan adael i chi ganolbwyntio ar yr hyn sydd bwysicaf.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-explore-hundreds = Archwiliwch gannoedd o ychwanegion sy'n canolbwyntio ar breifatrwydd sydd ar gael ar gyfer { -brand-name-firefox } a dewch o hyd i'r offer cywir i chi. <a href="{ $url }">Llwythwch { -brand-name-firefox }</a> i lawr heddiw i brofi porwr sydd wedi'i ddylunio gyda'ch preifatrwydd a'ch perfformiad mewn golwg.

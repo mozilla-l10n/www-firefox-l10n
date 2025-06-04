@@ -13,7 +13,7 @@ not-found-page-go-back = Uɣal ɣer deffir
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Lmed</a> ɣef { -brand-name-mozilla }, tin ur nettnadi ara tadrimt i yellan deffir { -brand-name-firefox }.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Asader</a> iminig { -brand-name-firefox } i yibenk-ik aziraz neɣ n tnarit
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/download/
+### URL: https://www-dev.springfield.moz.works/
 
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }

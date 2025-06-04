@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Tyle reklam, tak mało cierpliwości�
 features-adblocker-the-average-person-sees = Przeciętny człowiek widzi średnio cztery tysiące reklam dziennie. Jeśli sądzisz, że to za dużo, to bloker reklam jest Twoim nowym najlepszym przyjacielem.
 features-adblocker-an-ad-blocker-is-a-piece = Bloker reklam to oprogramowanie, którego można używać do blokowania reklam, działające na dwa sposoby. Pierwszy polega na tym, że bloker blokuje sygnał z serwera reklamodawcy, więc reklama nigdy nie pojawia się na stronie. Drugi sposób blokuje części stron, które mogą być reklamami.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Mogą to być głośne reklamy wideo, reklamy śledzące Cię w Internecie, elementy śledzące, ciasteczka zewnętrznych witryn i wiele więcej. Aby używać blokera reklam, możesz wyszukać dodatki blokujące reklamy dostępne w używanej przeglądarce. <a href="{ $firefox }">{ -brand-name-firefox }</a>, na przykład, ma <a href="{ $addons }">listę zatwierdzonych dodatków blokujących reklamy</a>. Kliknij tę listę (lub blokery reklam zatwierdzone dla Twojej przeglądarki) i sprawdź, który pasuje do Twoich potrzeb.
 features-adblocker-find-the-right-ad-blocker = Znajdź odpowiedni bloker reklam dla siebie
@@ -40,5 +40,5 @@ features-adblocker-in-firefox-you-can-block = W { -brand-name-firefox(case: "lo
 features-adblocker-speed-up-thanks-to-ad = Przyspiesz dzięki blokerom reklam
 features-adblocker-in-some-cases-an-ad-blocker = W niektórych przypadkach bloker reklam może przyspieszyć przeglądarkę. Wczytywanie reklamy może spowolnić stronę. Poza tym znalezienie tego, co szukasz zajmuje więcej czasu, jeśli musisz poświęcić go na zamykanie kolejnej reklamy.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = Jeśli chcesz dowiedzieć się więcej o blokowaniu reklam, dla { -brand-name-firefox(case: "gen") } i innych przeglądarek dostępne są setki rozszerzeń blokujących reklamy. Jeśli chcesz wypróbować blokery reklam używane przez { -brand-name-firefox(case: "acc") }, to <a href="{ $url }">kliknij tutaj, aby pobrać</a> przeglądarkę stawiającą prywatność na pierwszym miejscu.

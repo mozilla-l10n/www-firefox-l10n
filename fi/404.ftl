@@ -13,7 +13,7 @@ not-found-page-go-back = Palaa
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Lisätietoja</a> { -brand-name-mozilla }sta, joka on { -brand-name-firefox }in taustalla oleva voittoa tavoittelematon organisaatio.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Lataa</a> { -brand-name-firefox } mobiililaitteellesi tai työpöydällesi
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404

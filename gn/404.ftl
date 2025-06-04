@@ -13,7 +13,7 @@ not-found-page-go-back = Guevijey
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Eikuaa</a> { -brand-name-mozilla } rehegua, atyguasu virupota’ỹva { -brand-name-firefox } rapykuerigua.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Emboguejy</a> { -brand-name-firefox } kundahára ne mba’e’oka térã mohendaha mesa ariguápe
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404

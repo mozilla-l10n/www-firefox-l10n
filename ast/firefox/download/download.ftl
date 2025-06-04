@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-advanced-install-options = Opciones avanzaes d'instalación y otres plataformes
@@ -20,6 +20,6 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ye más qu'
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-a-different = Baxar pa otra plataforma y llingua

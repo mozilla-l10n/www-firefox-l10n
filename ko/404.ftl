@@ -13,7 +13,7 @@ not-found-page-go-back = 뒤로 가기
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = { -brand-name-firefox }를 운영하는 비영리 단체 { -brand-name-mozilla }에 대해 <a href="{ $about }">알아보기</a>
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = 모바일 또는 데스크탑용 브라우저 { -brand-name-firefox } <a href={ $download }>다운로드</a>
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404

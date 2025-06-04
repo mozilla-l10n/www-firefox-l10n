@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = Nādunïnj { -brand-name-firefox }
 firefox-new-need-help = Huā sa rugûñu’ūnj ñûnj sò’ aj?
@@ -17,5 +17,5 @@ firefox-new-need-help = Huā sa rugûñu’ūnj ñûnj sò’ aj?
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 

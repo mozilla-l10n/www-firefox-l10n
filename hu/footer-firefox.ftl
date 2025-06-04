@@ -44,6 +44,9 @@ footer-developer = Fejlesztő
 footer-resources = Erőforrások
 footer-compare = Összehasonlítás
 footer-release-notes = Kiadási megjegyzések
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Tanulás
 footer-support = Támogatás
 footer-addons = Kiegészítők
 footer-blog = Blog

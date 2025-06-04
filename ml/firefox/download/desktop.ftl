@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/download/
+### URL: https://www-dev.springfield.moz.works/
 
 firefox-desktop-download-download-options = ഇറക്കിവയ്ക്കൽ സാധ്യതകളും മറ്റെ ഭാഷകളും
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } പിന്തുണ

@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = I-Download ang { -brand-name-firefox }
 firefox-new-get-the-latest-firefox = Kunin ang pinakabagong { -brand-name-firefox } browser.
@@ -19,5 +19,5 @@ firefox-new-firefox-is-more-than-a-browser = Ang { -brand-name-firefox } ay higi
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 

@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Så många annonser, så lite tålamo
 features-adblocker-the-average-person-sees = I genomsnitt ser en person 4 000 annonser per dag. Om du tycker att det är för många är en annonsblockerare din nya bästa vän.
 features-adblocker-an-ad-blocker-is-a-piece = En annonsblockerare är en mjukvara som kan användas för att blockera annonser och de fungerar på två sätt. Det första sättet är när en annonsblockerare blockerar signalen från en annonsörs server, så annonsen aldrig visas på din dator/mobil. Ett annat sätt att annonsblockerare fungerar är att blockera delar av en webbplats som kan vara annonser.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Dessa annonser kan vara höga videoannonser, annonser som följer dig på nätet, spårare, kakor från tredje part och mer. Om du vill använda en annonsblockerare kan du söka efter tillägg för annonsblockerare som är tillgängliga i din webbläsare. <a href="{ $firefox }">{ -brand-name-firefox }</a> har till exempel <a href="{ $addons }">den här listan över godkända tillägg för annonsblockering</a>. Klicka på den här listan (eller annonsblockerare som är godkända för din webbläsare) och se vilka som passar dina behov.
 features-adblocker-find-the-right-ad-blocker = Hitta rätt annonsblockerare för dig
@@ -27,7 +27,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> är ett annat bra val som inte bara blockerar annonser utan ger ytterligare antispårningsfördelar.
 # Variables:
-#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Dessa tillägg fungerar utmärkt på både <a { $attrs1 }>{ -brand-name-firefox } för stationära datorer</a> och <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Skapa en spårningsfri zon med innehållsblockering
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = I { -brand-name-firefox } kan du b
 features-adblocker-speed-up-thanks-to-ad = Högre hastighet tack vare annonsblockerare
 features-adblocker-in-some-cases-an-ad-blocker = I vissa fall kan en annonsblockerare hjälpa din webbläsare att gå snabbare. När en annons laddas kan den bromsa en webbplats. Samtidigt tar det längre tid att hitta det du letar efter om du är för upptagen med att stänga ännu en annons.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = Om du vill lära dig mer om annonsblockering finns det hundratals annonsblockeringstillägg tillgängliga för { -brand-name-firefox } och andra webbläsare. Om du vill prova de annonsblockerare som { -brand-name-firefox } använder, <a href="{ $url }">klicka här för att ladda ner</a> en webbläsare som sätter integritet främst.

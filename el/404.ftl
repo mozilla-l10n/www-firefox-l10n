@@ -13,7 +13,7 @@ not-found-page-go-back = Επιστροφή
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Μάθετε</a> για τη { -brand-name-mozilla }, τον μη κερδοσκοπικό οργανισμό πίσω από το { -brand-name-firefox }.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Αποκτήστε</a> το { -brand-name-firefox } για την κινητή συσκευή ή τον υπολογιστή σας
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404

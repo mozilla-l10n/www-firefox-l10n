@@ -7,6 +7,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = Bera saman vafra
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } fyrir vinnutölvur
 sub-navigation-release-notes = Útgáfuupplýsingar
+sub-navigation-release-channels = Útgáfurásir
 sub-navigation-desktop = Vinnutölvur
 sub-navigation-mobile = Farsíma
 sub-navigation-android = { -brand-name-android }

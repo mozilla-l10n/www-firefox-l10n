@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Så mange reklamer, så lidt tålmodi
 features-adblocker-the-average-person-sees = Den gennemsnitlige person ser i gennemsnit 4.000 reklamer om dagen. Hvis du synes, det er for mange, så er adblockeren din bedste ven.
 features-adblocker-an-ad-blocker-is-a-piece = Adblockere er små programmer, der bruges til at blokere reklamer. De virker på to måder: 1. Adblockeren blokerer data fra annoncørens server, så reklamen aldrig når frem til siden, du besøger, 2. Adblockeren blokerer de sektioner på siden, der ofte anvendes til reklamer.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Disse annoncer kan være larmende video-annoncer, bannere, der følger dig rundt på nettet, tredjeparts-cookies og mere. Hvis du vil bruge en adblocker, så kan du søge efter adblocker-tilføjelser til din browser. <a href="{ $firefox }">{ -brand-name-firefox }</a> har fx <a href="{ $addons }">en liste med godkendte adblocker-tilføjelser</a>. Undersøg adblockerne på listen (eller adblockere, der er godkendt til din browser), og se, hvilken der passer bedst til dine behov.
 features-adblocker-find-the-right-ad-blocker = Find den rigtige adblocker
@@ -27,7 +27,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> er et andet glimrende valg, der ikke bare blokerer reklamer, men også giver yderligere beskyttelse mod sporing.
 # Variables:
-#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Disse udvidelser fungerer fint både på <a { $attrs1 }>{ -brand-name-firefox } til computer</a> og <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Opret en sporingsfri zone med Blokering af indhold
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = I { -brand-name-firefox } kan du b
 features-adblocker-speed-up-thanks-to-ad = Sæt farten op med adblockere
 features-adblocker-in-some-cases-an-ad-blocker = I nogle tilfælde kan en adblocker gøre din browser hurtigere, fordi der ikke skal bruges tid på at hente reklamen. Du skal heller ikke bruge din tid på at lukke generende reklamer.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = Hvis du vil lære mere om blokering af reklamer, så findes der hundredvis af adblockere til { -brand-name-firefox } og andre browsere. Vil du prøve nogle af de adblockere, der findes til { -brand-name-firefox }, så <a href="{ $url }">klik her for at hente</a> en browser, der er fokuseret på at beskytte dit privatliv.

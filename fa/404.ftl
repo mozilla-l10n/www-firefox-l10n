@@ -13,7 +13,7 @@ not-found-page-go-back = بازگشت
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">درباره { -brand-name-mozilla }</a>، سازمان غیرانتفاعی { -brand-name-firefox } بیاموزید.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>بارگیری‌</a> مرورگر { -brand-name-firefox } برای دستگاه تلفن همراه یا رومیزی شما
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404

@@ -13,7 +13,7 @@ not-found-page-go-back = Terug
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Lees</a> over { -brand-name-mozilla }, de non-profitorganisatie achter { -brand-name-firefox }.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Download</a> de { -brand-name-firefox }-browser voor uw mobiele apparaat of desktop
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404

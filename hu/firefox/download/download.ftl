@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox } letöltése
 firefox-new-download-the-fastest-firefox = A valaha volt leggyorsabb { -brand-name-firefox } letöltése
@@ -41,7 +41,7 @@ firefox-new-visit-support-for-more = További részletekért látogasson el a T�
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = { -brand-name-firefox-browser } letöltése

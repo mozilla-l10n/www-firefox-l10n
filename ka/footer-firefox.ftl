@@ -44,6 +44,9 @@ footer-developer = შემმუშავებელი
 footer-resources = მასალები
 footer-compare = შედარება
 footer-release-notes = გამოშვების შენიშვნები
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = გაეცანით
 footer-support = მხარდაჭერა
 footer-addons = დამატებები
 footer-blog = სვეტი

@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = 廣告太多了，我才沒有那個�
 features-adblocker-the-average-person-sees = 一般人平均一天會看到 4,000 組廣告。如果您覺得這數字太多了，廣告封鎖器就會是您的好朋友。
 features-adblocker-an-ad-blocker-is-a-piece = 廣告封鎖器就是一套用來封鎖廣告用的軟體，可以用兩種方式運作。第一種是直接封鎖來自廣告商伺服器的流量，這樣流量就不會在您開啟的頁面中出現。另一種方式是封鎖網頁中，可能是廣告的內容。
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = 這些廣告可能是吵雜的影片廣告，並且會以追蹤器、第三方 Cookie 等型態會在網路上的各個角落追蹤你。若要使用廣告封鎖器，可以直接搜尋您的瀏覽器所適用的附加元件。舉例來說，<a href="{ $firefox }">{ -brand-name-firefox }</a> 就有<a href="{ $addons }">這些經過審核的廣告封鎖附加元件</a>。可以看看此清單中有哪套符合您的需求。
 features-adblocker-find-the-right-ad-blocker = 尋找最合適您的廣告封鎖器
@@ -27,7 +27,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> 是另一套不只能封鎖廣告，還提供反追蹤功能的好選項。
 # Variables:
-#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = 這些擴充套件在 <a { $attrs1 }>{ -brand-name-firefox } 桌面版</a>與 <a { $attrs2 }>Android</a> 都能完整使用。
 features-adblocker-create-a-tracker-free = 使用內容封鎖功能，建立無追蹤器的區域
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = 在 { -brand-name-firefox } 當中
 features-adblocker-speed-up-thanks-to-ad = 使用廣告封鎖器加速上網
 features-adblocker-in-some-cases-an-ad-blocker = 某些情況下，廣告封鎖器可加速您的上網速度。廣告載入時可能會拖慢網站的運作。同時可能也會讓您花更多時間才能找到想找的東西。
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = 若您想了解廣告封鎖器的更多資訊，在 { -brand-name-firefox } 與其他瀏覽器中有上百套的廣告封鎖擴充套件可以使用。如果想試用 { -brand-name-firefox } 提供的廣告封鎖器，可以<a href="{ $url }">點擊此處下載</a>將隱私權看得最重要的瀏覽器。

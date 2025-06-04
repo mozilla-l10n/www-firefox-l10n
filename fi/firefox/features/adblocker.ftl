@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Niin paljon mainoksia, niin lyhyt pin
 features-adblocker-the-average-person-sees = Keskimääräinen henkilö näkee noin 4000 mainosta päivässä. Jos arvelet sen olevan liikaa, mainosten estäjä on uusi paras ystäväsi.
 features-adblocker-an-ad-blocker-is-a-piece = Mainosten estolla voidaan estää mainoksia, ja se toimii kahdella tavalla. Ensiksi mainosten esto estää signaalin mainostajan palvelimelta, jolloin mainos ei koskaan näy sivulla. Toiseksi mainosten esto piilottaa sellaisia verkkosivuston osia, joita se arvelee mainoksiksi.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Nämä mainokset voivat olla äänekäitä videomainoksia, mainoksia, jotka seuraavat sinua verkossa, seuraimia, kolmansien osapuolten evästeitä tai muita vastaavia. Voit käyttää mainosten estäjää etsimällä selaimessa käytettävissä olevia mainosten eston lisäosia. Esimerkiksi <a href="{ $firefox }">{ -brand-name-firefox }illa</a> on <a href="{ $addons }">tämä hyväksi katsottujen lisäosien luettelo</a>. Napsauta tätä luetteloa (tai selaimesi suosittelemia mainosten estäjiä) ja harkitse, mikä sopii tarpeisiisi.
 features-adblocker-find-the-right-ad-blocker = Löydä sinulle sopivin mainosten estäjä

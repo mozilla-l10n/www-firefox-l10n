@@ -26,5 +26,5 @@ features-fingerprinting-the-practice-of = Чак и ако обришете ло
 features-fingerprinting-the-latest-firefox = Најновија верзија { -brand-name-firefox } прегледача штити вас од праћења блокирањем захтева трећих страна од компанија за које се познато да су укључене у сакупљање дигиталних отисака. Много смо радили да омогућимо ову заштиту приватности, а да не нарушавамо сајтове које волите да посећујете. (Више о <a { $url_details }>техничким детаљима</a>.)
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = Ово није скривено подешавање које морате да тражите. У најновијем { -brand-name-firefox } прегледачу, блокирање сакупљања дигиталних отисака је уграђено, подразумевано подешавање. Посетите  <a { $url_protections }>контролну таблу приватности</a> да видите како вас прате иза кулиса и како { -brand-name-firefox } спречава исто.
-# $url_download (string) - link to https://www.firefox.com/download/
+# $url_download (string) - link to https://www.firefox.com/
 features-fingerprinting-you-probably-wouldnt = Вероватно не волите да вас неко прати у стварном животу. Нема разлога да се то онда прихвати на мрежи. Ако већ немате { -brand-name-firefox }, <a { $url_download }>инсталирајте га сада и заштитите се</a> од сакупљања дигиталних отисака.

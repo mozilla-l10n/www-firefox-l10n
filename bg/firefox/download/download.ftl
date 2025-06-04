@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = Изтегляне на { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Изтеглете най-бързия { -brand-name-firefox } направен някога
@@ -22,5 +22,5 @@ firefox-new-download-interrupted = Изтеглянето е прекъснат�
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 

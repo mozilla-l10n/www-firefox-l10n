@@ -13,7 +13,7 @@ not-found-page-go-back = Mynd Nôl
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Rhagor</a> am { -brand-name-mozilla }, y corff nid-er-elw y tu ôl i { -brand-name-firefox }.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Llwytho i lawr</a> y porwr { -brand-name-firefox } ar gyfer eich dyfais symudol neu'ch bwrdd gwaith
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404

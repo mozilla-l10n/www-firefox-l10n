@@ -11,12 +11,12 @@ features-adblocker-so-many-ads-so-little = Tak wjele wabjenja, tak mało sćerpn
 features-adblocker-the-average-person-sees = Přerězna wosoba w přerězku 4.000 wabjenjow wob dźeń widźi. Jeli měniće, zo to je přejwele, je wabjenski blokowak waš najlěpši přećel.
 features-adblocker-an-ad-blocker-is-a-piece = Blokowak wabjenja je program, z kotrymž móžeće wabjenje blokować a funguja na dwě wašni. Prěnje wašnje je, zo so wabjenje ženje na wašej stronje njepokazuje, hdyž blokowak wabjenja signal ze serwera wabjerja blokuje. Druhe wašnje, na kotrež blokowaki wabjenja funguja, je, zo so wotrězki websydła blokuja, kotrež móhli wabjenje być.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Tute wabjenje móhło hłósne wabjenske wideja, wabjenje, kotrež wam we webje slěduje, přesćěhowaki, placki třećich poskićowarjow a wjace być. Zo byšće blokowak wabjenja wužiwał, móžeće za přidatkami blokowakow wabjenja pytać, kotrež su za waš wobhladowak k dispoziciji. <a href="{ $firefox }">{ -brand-name-firefox }</a>, na přikład, ma <a href="{ $addons }">tutu lisćinu schwalenych přidatkow blokowakow wabjenja</a>. Klikńće na tutu lisćinu (abo blokowaki wabjenja, kotrež su schwalene za waše wobhladowak) a hladajće, kotry wašim potrěbnosćam wotpowěduje.
 features-adblocker-find-the-right-ad-blocker = Namakajće prawy wabjenski blokowak za sebje
 # Variables:
-#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Tute rozšěrjenja na <a { $attrs1 }>{ -brand-name-firefox } za desktop</a> kaž tež <a { $attrs2 }>Android</a> wulkotnje funguja.
 features-adblocker-create-a-tracker-free = Wutworće conu bjez přesćěhowaka z blokowanjom wobsaha
@@ -43,5 +43,5 @@ features-adblocker-in-firefox-you-can-block = Móžeće we { -brand-name-firefox
 features-adblocker-speed-up-thanks-to-ad = Spěšniši dźak wabjenskim blokowakam
 features-adblocker-in-some-cases-an-ad-blocker = W někotrych padach móže blokowak wabjenja pomhać, waš wobhladowak spěšniši činić. Hdyž so wabjenje začita, móže so websydło spomalić. Nadobo traje dlěje, to namakać, štož pytaće, jeli maće přewjele dźěła, zo byšće dalše wabjenje začinił.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = Jeli chceće wjace wo blokowanju wabjenja zhonił, su sta rozšěrjenjow za blokowanje wabjenja za { -brand-name-firefox } a druhe wobhladowaki k dispoziciji. Jeli chceće wabjenske blokowaki wupruwować, kotrež { -brand-name-firefox } wužiwa, <a href="{ $url }">klikńće tu, zo byšće wobhladowak sćahnył</a>, za kotryž priwatnosć je na prěnim městnje.

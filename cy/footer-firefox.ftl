@@ -44,6 +44,9 @@ footer-developer = Datblygwr
 footer-resources = Adnoddau
 footer-compare = Cymharu
 footer-release-notes = Nodiadau Rhyddhau
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Dysgwch
 footer-support = Cefnogaeth
 footer-addons = Ychwanegion
 footer-blog = Blog

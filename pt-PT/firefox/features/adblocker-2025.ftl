@@ -15,7 +15,7 @@ features-adblocker-the-ad-blocker-a-tool = Ad Blocker – uma ferramenta para um
 features-adblocker-in-todays-digital-world = No mundo digital de hoje, a web pode movimentada e desorganizada. Os bloqueadores de anúncios são ferramentas poderosas que o colocam em controlo da sua experiência de navegação, permitindo-lhe decidir o que aparece no seu ecrã.
 features-adblocker-ad-blockers-work = Os bloqueadores de anúncios funcionam de duas formas chave: impedindo o carregamento de conteúdos, tais como anúncios, e bloqueando secções de websites que alojam esses elementos. Isto pode incluir anúncios em vídeo, anúncios personalizados que o seguem na web e até mesmo rastreadores de terceiros.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = Utilizar um bloqueador de anúncios é simples. Estão disponíveis muitas opções confiáveis como extras do navegador, facilitando a procura de uma solução que funcione para as suas necessidades. Por exemplo, o <a href="{ $firefox }">{ -brand-name-firefox }</a> oferece <a href="{ $addons }">uma lista de extensões aprovadas</a> criadas para melhorar a sua experiência de navegação enquanto respeita a sua privacidade.
 features-adblocker-finding-the-right = Encontrar o bloqueador de anúncios certo para si
@@ -36,5 +36,5 @@ features-adblocker-to-adjust = Para ajustar estas definições, clique no ícone
 features-adblocker-why-use = Porquê utilizar um bloqueador de anúncios?
 features-adblocker-ad-blockers-do-more = Os bloqueadores de anúncios fazem mais do que gerir anúncios – eles podem melhorar a sua velocidade de navegação e segurança, reduzindo conteúdo desnecessário. Estes permitem-lhe criar uma experiência web sob medida e sem distrações, permitindo que se concentre no que mais importa.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-explore-hundreds = Explore centenas de extras focados na privacidade disponíveis para o { -brand-name-firefox } e encontre as ferramentas certas para si. <a href="{ $url }">Transfira o { -brand-name-firefox }</a> hoje para experimentar um navegador desenhado a pensar na sua privacidade e desempenho em mente.

@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Atât de multe reclame, atât de puț
 features-adblocker-the-average-person-sees = O persoană obișnuită vede în medie 4.000 de reclame pe zi. Dacă ți se pare prea mult, o extensie de blocare a reclamelor îți va deveni cel mai bun prieten.
 features-adblocker-an-ad-blocker-is-a-piece = Extensiile de blocare a reclamelor sunt aplicații software ce pot fi utilizate pentru blocarea reclamelor și funcționează în două moduri. Primul este când extensia blochează semnalul de la serverul unui agent de publicitate, astfel încât reclama nu apare niciodată pe pagina ta. Al doilea este când extensia blochează secțiuni ale unui site web care ar putea fi reclame.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Aceste reclame pot fi reclame cu volum sonor mare, reclame care te urmăresc peste tot pe web, elemente de urmărire, cookie-uri de la terți și multe altele. Pentru a utiliza blocarea reclamelor, poți căuta suplimente de blocare a reclamelor disponibile pentru browserul tău. De exemplu, <a href="{ $firefox }">{ -brand-name-firefox }</a> are <a href="{ $addons }">această listă de suplimente aprobate pentru blocarea reclamelor</a>. Dă clic pe această listă (sau adaugă suplimente aprobate de blocare a reclamelor pentru browserul tău) și vezi care ți se potrivește cel mai bine.
 features-adblocker-find-the-right-ad-blocker = Găsește extensia de blocare a reclamelor potrivită pentru tine

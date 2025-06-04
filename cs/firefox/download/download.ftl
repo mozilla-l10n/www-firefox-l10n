@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = Stáhnout { -brand-name-firefox(case: "acc") }
 firefox-new-download-the-fastest-firefox = Stáhněte si ten nejrychlejší { -brand-name-firefox(case: "acc") }
@@ -41,7 +41,7 @@ firefox-new-visit-support-for-more = Další podrobnosti najdete na serveru podp
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Stáhnout { -brand-name-firefox-browser(case: "acc", capitalization: "lower") }

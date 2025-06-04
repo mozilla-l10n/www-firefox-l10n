@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = ດາວໂຫລດ { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = ດາວໂຫຼດ { -brand-name-firefox } ທີ່ໄວທີ່ສຸດເທົ່າທີ່ເຄີຍມີມາ
@@ -41,7 +41,7 @@ firefox-new-visit-support-for-more = ເຂົ້າໄປເບິ່ງກາ�
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = ດາວໂຫລດ { -brand-name-firefox-browser }

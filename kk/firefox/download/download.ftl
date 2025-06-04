@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-free-web-browser = Еркін веб браузері
 firefox-new-advanced-install-options = Орнатудың қосымша мүмкіндіктері және басқа платформалар
@@ -23,5 +23,5 @@ firefox-new-your-firefox-new-should-begin = Жүктеу автоматты тү
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 

@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Πολλές διαφημίσεις, 
 features-adblocker-the-average-person-sees = Ο μέσος χρήστης βλέπει κατά μέσο όρο 4.000 διαφημίσεις την ημέρα. Εάν πιστεύετε ότι είναι πάρα πολλές, ένα πρόσθετο φραγής διαφημίσεων θα γίνει ο νέος καλύτερος φίλος σας.
 features-adblocker-an-ad-blocker-is-a-piece = Τα πρόσθετα φραγής είναι μέρη λογισμικού που αποκλείουν διαφημίσεις και λειτουργούν με δύο τρόπους. Με τον πρώτο τρόπο, το πρόσθετο φραγής αποκλείει το σήμα από τον διακομιστή του διαφημιστή, με αποτέλεσμα η διαφήμιση να μην εμφανίζεται ποτέ στη σελίδα σας. Με τον δεύτερο τρόπο, αποκλείονται τα μέρη της ιστοσελίδας όπου θα εμφανίζονταν οι διαφημίσεις.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Οι διαφημίσεις αυτές μπορεί να είναι θορυβώδη βίντεο, στοιχεία που σας ακολουθούν στο διαδίκτυο, ιχνηλάτες, τρίτα cookie και πολλά άλλα. Μπορείτε να αναζητήσετε τα πρόσθετα φραγής διαφημίσεων που διατίθενται για το πρόγραμμα περιήγησής σας. Το <a href="{ $firefox }">{ -brand-name-firefox }</a>, για παράδειγμα, διαθέτει <a href="{ $addons }">αυτή τη λίστα εγκεκριμένων προσθέτων φραγής διαφημίσεων</a>. Κάντε κλικ σε αυτήν τη λίστα (ή τα εγκεκριμένα πρόσθετα φραγής του προγράμματος περιήγησής σας) και δείτε ποιo ταιριάζει στις ανάγκες σας.
 features-adblocker-find-the-right-ad-blocker = Βρείτε το κατάλληλο πρόσθετο για εσάς
@@ -27,7 +27,7 @@ features-adblocker-adguard-adblocker-blunts = Το <a { $attrs1 }>AdGuard AdBloc
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = Το <a { $attrs }>Ghostery</a> είναι άλλη μια εξαιρετική επιλογή που δεν αποκλείει μόνο τις διαφημίσεις, αλλά παρέχει και πρόσθετα οφέλη κατά της καταγραφής.
 # Variables:
-#   $attrs1 (string) - link to https://www.firefox.com/download/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Αυτές οι επεκτάσεις λειτουργούν άψογα τόσο στο <a { $attrs1 }>{ -brand-name-firefox } για υπολογιστές</a> όσο και στο <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Απαλλαχθείτε από ιχνηλάτες με τη Φραγή περιεχομένου
@@ -55,5 +55,5 @@ features-adblocker-in-firefox-you-can-block = Στο { -brand-name-firefox }, μ
 features-adblocker-speed-up-thanks-to-ad = Επιτάχυνση μέσω φραγής διαφημίσεων
 features-adblocker-in-some-cases-an-ad-blocker = Μερικές φορές, η φραγή διαφημίσεων μπορεί να επιταχύνει την περιήγησή σας. Αυτό συμβαίνει επειδή, κατά τη φόρτωση μιας διαφήμισης, επιβραδύνεται η ιστοσελίδα. Ταυτόχρονα, χρειάζεστε περισσότερο χρόνο για να βρείτε αυτό που ψάχνετε όταν πρέπει να κλείνετε τη μία διαφήμιση μετά την άλλη.
 # Variables:
-#   $url (url) - link to https://www.firefox.com/download/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = Αν θέλετε να μάθετε περισσότερα σχετικά με τη φραγή διαφημίσεων, υπάρχουν εκατοντάδες επεκτάσεις φραγής διαφημίσεων για το { -brand-name-firefox } και άλλα προγράμματα περιήγησης. Αν θέλετε να δοκιμάσετε τα πρόσθετα φραγής διαφημίσεων που χρησιμοποιεί το { -brand-name-firefox }, <a href="{ $url }">κάντε κλικ εδώ για λήψη</a> του προγράμματος περιήγησης που δίνει προτεραιότητα στο απόρρητο.

@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox } डाउनलोड करा
 firefox-new-download-the-fastest-firefox = आतापर्यंतचा सर्वात जलद { -brand-name-firefox } डाउनलोड करा
@@ -28,5 +28,5 @@ firefox-new-firefox-is-more-than-a-browser = फायरफॉक्स ब्�
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 

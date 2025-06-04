@@ -13,5 +13,5 @@ not-found-page-go-back = Gang Back
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Lairn</a> aboot { -brand-name-mozilla }, the no-fur-profit ahint { -brand-name-firefox }.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Doonload</a> the { -brand-name-firefox } stravaiger fur yer mobile device or desktap

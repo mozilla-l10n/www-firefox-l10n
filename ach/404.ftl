@@ -13,5 +13,5 @@ not-found-page-go-back = Dok Cen
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Nong ngec</a> ikom { -brand-name-mozilla }, dul mape tye pi magoba ma okelo { -brand-name-firefox }.
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/download/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Gam</a> layeny pa { -brand-name-firefox } pi nyonyo ni me cing onyo desktop

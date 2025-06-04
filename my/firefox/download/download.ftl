@@ -6,7 +6,7 @@
 # Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox } ဒေါင်းလုပ်ရယူပါ
 firefox-new-download-the-fastest-firefox = လျင်မြန်သော { -brand-name-firefox }ကို ရယူပါ
@@ -28,5 +28,5 @@ firefox-new-firefox-is-more-than-a-browser = ဘရောက်ဇာထက် {
 # Not-Required
 
 
-## URL: https://www-dev.springfield.moz.works/download/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 

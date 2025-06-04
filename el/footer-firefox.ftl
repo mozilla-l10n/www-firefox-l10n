@@ -44,6 +44,9 @@ footer-developer = Προγραμματιστές
 footer-resources = Πόροι
 footer-compare = Σύγκριση
 footer-release-notes = Σημειώσεις έκδοσης
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Εκμάθηση
 footer-support = Υποστήριξη
 footer-addons = Πρόσθετα
 footer-blog = Ιστολόγιο

@@ -11,7 +11,7 @@ features-adblocker-so-many-ads-so-little = Reklamų daugėja, kantrybė senka…
 features-adblocker-the-average-person-sees = Vidutinis asmuo kasdien susiduria su apie 4000 reklamų. Jei manote, jog šis skaičius per didelis, tuomet jums pats metas susipažinti su reklamų blokuoklėmis.
 features-adblocker-an-ad-blocker-is-a-piece = Reklamų blokuoklė – tai programa ar jos priedas, skirtas reklamoms blokuoti. Blokuoklės veikia dviem būdais. Pirmasis būdas – blokuoti signalą iš reklamą siunčiančio serverio, šitaip užkertant kelią reklamai pasirodyti jūsų lankomoje svetainėje. Antrasis – blokuoti tinklalapių dalių, kuriose paprastai talpinama reklama, rodymą.
 # Variables:
-#   $firefox (url) - link to https://www.firefox.com/download/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Kalbėdami apie reklamas, turime omenyje triukšmingus vaizdo įrašus, jūsų keliones internete sekančias reklamas, seklius, trečiųjų šalių slapukus ir kitką. Norėdami naudotis reklamų blokuokle, paieškokite savo naudojamai naršyklei sukurtų reklamos blokavimui skirtų priedų. Pavydžiui, <a href="{ $firefox }">„{ -brand-name-firefox }“</a> naršyklei skirtų <a href="{ $addons }">reklamų blokuoklių sąrašą rasite čia</a>. Peržiūrėkite šį (arba jūsų naršyklei skirtą) reklamų blokuoklių sąrašą ir išsirinkite sau tinkamiausią.
 features-adblocker-find-the-right-ad-blocker = Raskite sau tinkamiausią reklamų blokuoklę

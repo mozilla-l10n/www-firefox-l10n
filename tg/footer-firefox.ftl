@@ -42,7 +42,7 @@ footer-developer = Барномасоз
 
 # Section title
 footer-resources = Манбаъҳо
-footer-compare = Муқоиса кардан
+footer-compare = Муқоиса кардани браузерҳо
 footer-release-notes = Қайдҳои нашр
 footer-support = Дастгирӣ
 footer-addons = Ҷузъҳои иловагӣ
