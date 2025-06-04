@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/private/
+### URL: https://www-dev.springfield.moz.works/features/private/
 
 features-private-is-firefox-a-private-browser = क्या { -brand-name-firefox } प्राइवेट ब्राउज़र है?
 
@@ -10,7 +10,7 @@ features-private-is-firefox-a-private-browser = क्या { -brand-name-firef
 features-private-were-focused-on-your-right-to = हमारा ध्यान आपकी निजता के अधिकार की रक्षा पर है।आपका डेटा, आपकी इंटरनेट गतिविधि, आपका ऑनलाइन जीवन { -brand-name-firefox } के जरिए सुरक्षित रखा जाता है।
 
 # Variables:
-#   $url (url) = link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) = link to https://www.firefox.com/features/private-browsing/
 features-private-yes-firefox-protects-your = हां। { -brand-name-firefox } आपकी निजता की रक्षा <a href="{ $url }">प्राइवेट ब्राउज़िंग</a> जैसे फ़ीचर्स के जरिए करता है। यह आपको अपनी ब्राउज़िंग हिस्ट्री और पासवर्ड गोपनीय बनाए रखने की सुविधा देता है, यहां तक कि उस डिवाइस का उपयोग करते समय भी जिसे आप अन्य लोगों के साथ साझा करते हैं, जैसे कि चाहे यह घर का कंप्यूटर हो या { -brand-name-ipad } हो।
 
 # Variables:
@@ -21,7 +21,7 @@ features-private-sidenote-we-are-not-big-tech = <em>साइडनोट:</em> 
 features-private-what-information-does-firefox = { -brand-name-firefox } कौन-सी जानकारियां इकट्ठा करता है?
 
 # Variables:
-#   $url (url) = link to https://www.mozilla.org/firefox/privacy/
+#   $url (url) = link to https://www.mozilla.org/privacy/
 features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } ({ -brand-name-firefox } का निर्माता) निजता को बहुत गंभीरता से लेता है। <strong>बहुत ही गंभीरता से</strong>। दरअसल, हम जो भी { -brand-name-firefox } उत्पाद बनाते हैं वह <a href="{ $url }">व्यक्तिगत डेटा सुरक्षा के हमारे वचन</a> का पालन करता है: कम से कम डेटा लेना। इसे सुरक्षित रखना। कोई सीक्रेट नहीं।
 
 # Variables:

@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
+### URL: https://www-dev.springfield.moz.works/browsers/opera/
 
 # Page title
 compare-opera-firefox-vs-opera = { -brand-name-firefox } बनाम Opera
@@ -11,7 +11,7 @@ compare-opera-firefox-vs-opera = { -brand-name-firefox } बनाम Opera
 compare-opera-read-our-comparison = हमारी ओर से प्रस्तुत { -brand-name-firefox } और Opera ब्राउज़र की तुलना पढ़ें जो फ़ीचर्स, निजता और उपयोग में आसानी पर आधारित है।
 
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
 compare-opera-firefoxs-default-privacy-settings = { -brand-name-firefox } की डिफ़ॉल्ट निजता सेटिंग Opera की तुलना में अधिक मजबूत हैं – और हमारे पास वेबसाइटों को आपको ट्रैक करने से रोकने के लिए कई फ़ीचर्स हैं, जैसे <a { $fingerprint }>फ़िंगरप्रिंट ब्लॉकिंग</a>।
 compare-opera-firefox-offers-a-wide-range-of = { -brand-name-firefox } कस्टमाइज़ेशन के यानी अपने मुताबिक बनाने के अनेक विकल्प प्रदान करता है, जिसमें ब्राउज़र विंडो में मेन्यू और टूलबार अलग-अलग जगह पर ले जाने की सुविधा भी शामिल है। Opera के इंटरफ़ेस को मनपसंद बनाने के विकल्प कम हैं।
 

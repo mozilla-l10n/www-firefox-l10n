@@ -2,9 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/channel/desktop/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } एक तीव्र ब्राउज़र है जो अत्याधुनिक डेवलपर साधनों और नवीनतम सुविधाओं जैसे CSS ग्रिड समर्थन और फ़्रेमवर्क डिबगिंग की पेशकश करता है
@@ -67,35 +65,8 @@ firefox-developer-fonts-panel = फ़ॉन्ट पैनल
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools } में मौजूद नए फ़ॉन्ट पैनल से डेवलपर्स को ऐसी सुविधा मिलती है, कि वे किसी तत्त्व में उपयोग किए जा रहे फ़ॉन्ट के बारे में सारी जानकारी जल्दी से पा सकें। इसमें बहुमूल्य जानकारी भी शामिल होती हैं, जैसे फ़ॉन्ट का स्रोत, वज़न, शैली आदि।
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } स्वतः { -brand-name-mozilla } को प्रतिक्रिया भेजता है।
 firefox-developer-download-the-firefox-browser = डेवलपर्स के लिए बने { -brand-name-firefox } ब्राउज़र को डाउनलोड करें
-firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 
 firefox-developer-made-for-developers = डेवलपर्स के लिए बनाया गया ब्राउज़र
 firefox-developer-all-the-latest-v2 = बीटा में सभी नवीनतम डेवलपर टूल्स हैं, साथ ही मल्टी-लाइन कंसोल एडिटर और वेबसॉकेट इंस्पेक्टर मौजूद हैं।
 firefox-developer-a-separate-profile = एक <strong>अलग प्रोफ़ाइल और पाथ</strong> जिससे आप रिलीज़ या { -brand-name-beta } { -brand-name-firefox } के साथ इसे आसानी से चला सकें।
 firefox-developer-preferences-tailored = वरीयता <strong>विशेष रूप से वेब Devलपर्स के लिए</strong> : ब्राउज़र और रिमोट डिबगिंग तयशुदा रूप से सक्षम होते हैं, साथ ही, डार्क थीम और डेवलपर टूलबार बटन भी।
-firefox-developer-congrats-you-now-have-latest-v2 = अब आपके पास है { -brand-name-firefox-developer-edition } का नवीनतम संस्करण।
-
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = नया क्या है यह देखने के लिए <a { $attrs }>रिलीज़ नोट्स</a> देखें (ये केवल अंग्रेज़ी में हैं)।
-firefox-developer-developer-tools-user = डेवलपर टूल्स यूज़र डॉक्स
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = डेवलपर्स के लिए, डेवलपर्स द्वारा संसाधन
-firefox-developer-mdn-playground = प्लेग्राउंड
-firefox-developer-mdn-write-test-and-share = अपना कोड लिखें, टेस्ट करें और शेयर करें। सीखने और अपने शानदार काम को दुनिया के साथ साझा करने का आपका प्लेग्राउंड।
-firefox-developer-mdn-blog = { -brand-name-mdn } ब्लॉग
-firefox-developer-mdn-unlock-the-world = वेब डेवलपमेंट की दुनिया से रूबरू हों { -brand-name-mdn } ब्लॉग के साथ — यह आपके लिए ऐसी एक बेहतरीन जगह है जहां आप विशेषज्ञों की राय, नवीनतम वेब मानक और कोडिंग टिप्स जान सकते हैं।
-firefox-developer-mdn-updates = अपडेट
-firefox-developer-mdn-the-web-doesnt-have = वेब में कोई चेंजलॉग नहीं है, मगर { -brand-name-mdn } मददगार हो सकता है। आप कम्पैटिबिलिटी बदलावों को अपने अनुरूप कर सकते हैं और इन्हें फ़िल्टर कर सकते हैं और ऐसा ब्राउज़र या अपनी दिलचस्पी की टेक्नोलॉजी कैटेगरी के आधार पर किया जा सकता है, भले ही वह JavaScript, CSS आदि हो।
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn } संदर्भ
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } एक ओपन-सोर्स, परस्पर-सहयोगी प्रोजेक्ट है जो वेब प्लेटफ़ॉर्म टेक्नोलॉजी का डॉक्यूमेंटेशन करता है, जिनमें CSS, HTML, JavaScript और Web API शामिल हैं।
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } पाठ्यक्रम
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = एक सफल फ्रंट-एंड डेवलपर बनने के लिए आवश्यक स्किल और प्रैक्टिस वाली एक सुव्यवस्थित मार्गदर्शिका, सुझाए गए शिक्षण संसाधनों के साथ।
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = { -brand-name-mdn } को सपोर्ट करें और इसे अपना बनाएं - कलेक्शन, नोटिफिकेशन और प्लेग्राउंड के साथ।
