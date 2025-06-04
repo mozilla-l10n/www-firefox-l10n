@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/fast/
+### URL: https://www-dev.springfield.moz.works/features/fast/
 
 features-fast-firefox-keeps-getting-faster = { -brand-name-firefox } est de plus en plus rapide
 
@@ -20,5 +20,5 @@ features-fast-all-browsers-had-to-make = Tous les navigateurs ont dû s’améli
 features-fast-towards-a-faster-web = Vers un Web plus rapide
 
 # Variables
-#   $link (url) - link to /about/webvision/full/#performance
+#   $link (url) - link to https://www.mozilla.org/about/webvision/full/#performance
 features-fast-theres-been-an-encouraging = { -brand-name-mozilla } <a { $link }>s’engage</a> à améliorer constamment son navigateur, ainsi que l’ensemble du Web. C’est pourquoi nous nous sommes investis dans la collaboration ayant permis de développer Speedometer 3, qui, à son tour, a permis d’améliorer les performances de tous les navigateurs. Quel que soit le navigateur que vous choisissez, { -brand-name-mozilla } souhaite qu’il soit rapide.

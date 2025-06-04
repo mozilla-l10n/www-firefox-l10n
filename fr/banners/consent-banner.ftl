@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/products/vpn/?geo=de
+### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
 consent-banner-heading = Aidez-nous à améliorer votre expérience { -brand-name-mozilla }
 consent-banner-body-v2 = En plus des cookies nécessaires au fonctionnement de ce site, nous aimerions vous demander votre autorisation d’utiliser des cookies supplémentaires pour mieux comprendre vos besoins en matière de navigation et améliorer votre expérience. Ne vous inquiétez pas, nous protégeons votre vie privée.

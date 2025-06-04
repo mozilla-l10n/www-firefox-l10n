@@ -2,15 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
+### URL: https://www-dev.springfield.moz.works/features/picture-in-picture/
 
 # HTML page title
 features-pip-firefox-picture-in-picture-get-more = Incrustation vidéo { -brand-name-firefox } : gagnez en efficacité avec les vidéos incrustées
 
 # HTML page description
-features-pip-got-things-to-do-and-things-to-watch = Vous avez des sites web à visiter et des vidéos à regarder ? Vous pouvez maintenant tout faire en même temps en utilisant l’incrustation vidéo de { -brand-name-firefox }.
+features-pip-got-things-to-do-and-things-to-watch = Vous avez des choses à faire et des vidéos à regarder ? Vous pouvez maintenant tout faire en même temps en utilisant l’incrustation vidéo de { -brand-name-firefox }.
 
 features-pip-picture-in-picture = Incrustation vidéo
+
 features-pip-get-more-done-with-pop-out-videos = Gagnez en efficacité avec les vidéos incrustées
 features-pip-got-things-to-do-do-both-with = Vous avez des choses à faire et des vidéos à regarder ? Vous pouvez maintenant tout faire en même temps en utilisant l’incrustation vidéo de { -brand-name-firefox }. Grâce à cette fonctionnalité, vous pouvez extraire une vidéo de sa page web et en faire une fenêtre pop-up à placer sur votre écran pendant que vous consultez d’autres pages, d’autres onglets et d’autres applications.
 features-pip-heres-how-it-works = Voici comment ça marche :

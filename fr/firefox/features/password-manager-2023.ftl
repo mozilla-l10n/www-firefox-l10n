@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/password-manager
+### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
 password-manager-free-password-manager = Gestionnaire de mots de passe gratuit
@@ -13,7 +13,7 @@ password-manager-firefox-password-manager-saves-all = Les gestionnaire de mots d
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } stocke de manière sécurisée vos identifiants et mots de passe d’accès aux sites web, les remplit automatiquement chaque fois que vous visitez ces sites, et vous aide à gérer vos identifiants stockés grâce à sa fonction de gestion de mots de passe intégrée.
 
 # Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+#   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Avec un <a { $fxa }>{ -brand-name-mozilla-account } gratuit</a>, vous pouvez synchroniser de façon sécurisée tous vos mots de passe sur tous vos appareils. Vous pouvez aussi accéder à tous les autres produits { -brand-name-mozilla } respectueux de la vie privée.
 
 password-manager-password-autofill-for-easy-logins = Auto-remplissage du mot de passe pour une connexion rapide

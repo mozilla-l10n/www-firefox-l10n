@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/private-browsing
+### URL: https://www-dev.springfield.moz.works/features/private-browsing/
 
 features-private-browsing-private-browsing-mode = Mode de navigation privée
 
@@ -22,5 +22,5 @@ features-private-browsing-what-private-browsing-doesnt-do = Ce que ne fait pas l
 features-private-browsing-private-browsing-mode-will-not = Le mode Navigation privée ne supprimera pas les nouveaux marque-pages définis depuis une fenêtre de navigation privée, ni ne vous protègera des logiciels malveillants ou des virus. Il n’empêche pas non plus les sites web d’accéder à votre localisation physique, ni votre fournisseur d’accès à Internet d’enregistrer votre activité. Pour prévenir cela, il vous faut un <a href="{ $vpn }">VPN digne de confiance</a>.
 
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Comparez la navigation privée de { -brand-name-firefox } avec le <a href="{ $chrome }">mode Incognito de Chrome</a>.

@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
+### URL: https://www-dev.springfield.moz.works/compare/chrome/
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
@@ -11,8 +11,8 @@ compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chro
 compare-chome-read-our-comparison = Découvrez notre comparatif des navigateurs { -brand-name-firefox } et Chrome, qui évalue leurs fonctionnalités, leur confidentialité et leur facilité d’utilisation.
 
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
-# $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
+# $adblocker (url) - link to https://www.firefox.com/features/adblocker/
 compare-chrome-firefoxs-default-privacy-settings = Le niveau de confidentialité par défaut de { -brand-name-firefox } est beaucoup plus élevé que celui proposé par Chrome. Nous disposons également de fonctionnalités supplémentaires pour empêcher les sites web de vous pister, comme <a { $fingerprint }>le blocage des empreintes digitales</a>, ou encore l’utilisation de modules complémentaires de votre choix pour <a { $adblocker }>bloquer les publicités</a>.
 compare-chrome-we-block-trackers-by-default = Nous bloquons les traqueurs par défaut. Contrairement à Chrome.
 compare-chrome-in-fact-by-default-chrome-monitors = En réalité, Chrome suit les sites web que vous visitez et vos activités en ligne afin d’identifier des « centres d’intérêt publicitaires » et vous proposer des publicités plus ciblées. Vous pouvez bloquer trois de ces centres d’intérêt, mais vous ne pouvez pas empêcher Chrome d’en identifier d’autres.
