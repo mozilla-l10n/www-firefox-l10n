@@ -11,3 +11,4 @@ features-adblocker-ad-blocking = ਇਸ਼ਤਿਹਾਰ ਰੋਕੂ
 features-adblocker-meta-title = ਇਸ਼ਤਿਹਾਰ ਰੋਕੂ ਬਾਰੇ - { -brand-name-firefox }
 features-adblocker-finding-the-right = ਆਪਣੇ ਲਈ ਸਹੀ ਇਸ਼ਤਿਹਾਰ ਰੋਕੂ ਲੱਭਣਾ
 features-adblocker-enhanced-privacy = { -brand-name-firefox } ਨਾਲ ਵਾਧਾ ਕੀਤੀ ਪਰਦੇਦਾਰੀ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ
+features-adblocker-why-use = ਇਸ਼ਤਿਹਾਰ ਰੋਕੂ ਕਿਉਂ ਵਰਤੀਏ?
