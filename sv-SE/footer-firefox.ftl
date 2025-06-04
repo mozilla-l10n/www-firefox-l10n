@@ -44,6 +44,9 @@ footer-developer = Utvecklare
 footer-resources = Resurser
 footer-compare = Jämför
 footer-release-notes = Versionsfakta
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Läs mer
 footer-support = Hjälp
 footer-addons = Tillägg
 footer-blog = Blogg
