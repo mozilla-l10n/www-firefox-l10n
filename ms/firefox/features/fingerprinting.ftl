@@ -2,13 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
+### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Pengecapan jari ialah sejenis penjejakan dalam talian yang lebih menceroboh berbanding dengan penjejakan berasaskan kuki yang biasa — itulah sebab { -brand-name-firefox-browser } menyekatnya.
 
 features-fingerprinting-fingerprint-blocking = Menyekat Pengecap Jari
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } menyekat pengecapan jari
+
 features-fingerprinting-what-is-fingerprinting-body = Apakah maksud pengecapan jari?
 features-fingerprinting-fingerprinting-is-a = Pengecapan jari ialah sejenis penjejakan dalam talian yang lebih bersifat menceroboh berbanding dengan penjejakan berasaskan kuki yang biasa. Pengecapan jari digital dicipta apabila syarikat membuat profil unik anda berdasarkan perkakasan, perisian, tambahan malahan pilihan komputer anda. Tetapan anda seperti skrin yang anda gunakan, fon yang dipasang pada komputer anda termasuk pilihan pelayar web anda semuanya boleh digunakan untuk mencipta pengecapan jari.
 features-fingerprinting-if-you-have = Jika anda mempunyai komputer riba, PC atau telefon pintar yang digunakan oleh ramai orang, mungkin lebih sukar untuk mengenal pasti secara unik peranti anda melalui pengenalan identiti. Namun, lebih terperinci add-on yang anda guna, jenis tulisan dan tetapan yang anda ada, lebih mudah untuk anda dijejaki. Syarikat-syarikat ini boleh menggunakan kombinasi maklumat yang unik ini untuk mencipta pengenalan identiti anda. Sebab itulah { -brand-name-firefox } menyekat pengenalan identiti yang kami temui, supaya anda masih boleh menggunakan sambungan, tema dan penyesuaian kegemaran anda tanpa diekori oleh iklan.
@@ -31,5 +32,5 @@ features-fingerprinting-the-latest-firefox = Pelayar { -brand-name-firefox } yan
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = Ia bukanlah tetapan yang menyukarkan anda mencarinya. Dalam pelayar { -brand-name-firefox } terkini, sekatan pengecapan jari ialah tetapan standard dan dilalaikan. Kunjungi <a { $url_protections }>papan pemuka perlindungan privasi</a> anda untuk melihat cara anda dijejaki di balik tabir dan cara { -brand-name-firefox } mencegah penjejakan tersebut.
 
-# $url_download (string) - link to firefox/new
+# $url_download (string) - link to https://www.firefox.com/
 features-fingerprinting-you-probably-wouldnt = Mungkin anda tidak senang jika ada orang yang menjejaki pergerakan anda dalam kehidupan sebenar. Begitu juga jika perkara itu berlaku dalam talian. Sekiranya anda belum mempunyai { -brand-name-firefox }, <a { $url_download }>muat turun dan lindungi diri anda</a> daripada pengecapan jari digital.

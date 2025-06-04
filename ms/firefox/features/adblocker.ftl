@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = Cara mengelak daripada melihat terlalu banyak iklan dan menjauhkan syarikat daripada mengekori anda di dalam talian. Panduan penyekat iklan daripada pelayar web { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Penyekat iklan – senjata rahsia dalam memerangi iklan menjengkelkan.
@@ -11,7 +11,7 @@ features-adblocker-the-average-person-sees = Secara purata, orang biasa melihat 
 features-adblocker-an-ad-blocker-is-a-piece = Penyekat iklan ialah sejenis perisian yang boleh digunakan untuk menyekat iklan dan ia berfungsi dengan dua cara. Cara pertama ialah, penyekat iklan akan menyekat isyarat daripada pelayar pengiklan supaya iklan tidak akan ditunjukkan pada halaman anda. Cara lain penyekat iklan berfungsi adalah dengan menyekat bahagian pada laman web yang boleh jadi iklan.
 
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Iklan-iklan ini mungkin iklan video yang kuat, iklan yang mengekori anda di seluruh web, penjejak, kuki pihak ketiga dan lain-lain lagi. Untuk menggunakan penyekat iklan, anda boleh cari tambahan penyekat iklan yang tersedia di pelayar anda. <a href="{ $firefox }">{ -brand-name-firefox }</a>, misalnya, ada <a href="{ $addons }">senarai tambahan penyekat iklan yang sah ini</a>. Klik senarai ini (atau penyekat iklan yang diluluskan untuk pelayar anda) dan cari yang sesuai dengan keperluan anda.
 
@@ -33,8 +33,8 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> merupakan satu lagi pilihan yang baik dan bukan saja menyekat iklan, malah berfungsi juga sebagai anti-penjejak.
 
 # Variables:
-#   $attrs1 (string) - link to /firefox/new/ with other attributes
-#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
+#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Semua perisian ini boleh diguna pakai dengan kedua-dua <a { $attrs1 }>{ -brand-name-firefox } untuk komputer dekstop</a> dan <a { $attrs2 }>Android</a>.
 
 features-adblocker-create-a-tracker-free = Cipta zon bebas penjejak dengan Sekatan Kandungan
@@ -50,7 +50,7 @@ features-adblocker-to-start-click-on-the-v2 = Klik lencana di sebelah kiri alama
 features-adblocker-go-easy-with-standard = Mudah dengan mod Standard
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
 features-adblocker-if-ads-dont-bother-you = Jika iklan tidak mengganggu anda dan anda tidak kisah diekori oleh penjejak dan kuki pihak ketiga, maka tetapan Standard ini yang terbaik untuk anda. Bagi mengelakkan penjejak mencari anda dalam mod Standard, gunakan tetingkap <a href="{ $url }">Pelayaran Peribadi</a>.
 
 features-adblocker-get-tough-with-strict = Berkeras dengan mod Tegas
@@ -66,9 +66,10 @@ features-adblocker-take-a-bite-out-of-cookies = Kurangkan sebahagian daripada ku
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Kuki</a> dihantar oleh laman web yang anda kunjungi. Ia hidup di komputer anda dan memantau perkara yang anda lakukan di laman web. Apabila syarikat penerbangan menaikkan harga tiket anda kerana anda ada menyemak tiket kapal terbang sekali pada hari itu, itulah hasil kerja kuki.
 
 features-adblocker-in-firefox-you-can-block = Di { -brand-name-firefox }, anda boleh menyekat semua kuki pihak ketiga atau hanya yang ditetapkan oleh penjejak. Ambil perhatian bahawa menyekat semua kuki boleh merosakkan sesetengah laman web.
+
 features-adblocker-speed-up-thanks-to-ad = Segera ucapkan terima kasih kepada penyekat iklan
 features-adblocker-in-some-cases-an-ad-blocker = Dalam sesetengah keadaan, penyekat iklan boleh membantu pelayar anda bergerak lebih pantas. Ketika iklan dimuatkan, ia boleh melambatkan laman web. Pada masa yang sama, mendapatkan sesuatu yang ingin dicari akan mengambil masa yang lebih lama kerana anda terlalu sibuk menutup iklan demi iklan.
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = Jika anda ingin mengetahui lebih lanjut tentang sekatan iklan, terdapat ratusan sambungan penyekat iklan yang tersedia untuk { -brand-name-firefox } dan pelayar lain. Jika anda ingin mencuba penyekat iklan yang digunakan oleh { -brand-name-firefox }, <a href="{ $url }">klik di sini untuk memuat turun</a> pelayar yang mengutamakan privasi.

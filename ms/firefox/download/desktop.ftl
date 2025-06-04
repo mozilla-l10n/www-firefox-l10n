@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -24,7 +24,7 @@ firefox-desktop-download-get-the-browser = Dapatkan pelayar yang melindungi kepe
 
 firefox-desktop-download-fast-reliable-private = Pantas, boleh harap dan peribadi — demi kesejahteraan di atas talian.
 
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-no-shady = Tiada lagi polisi yang mencurigakan atau pintu belakang bagi pengiklan. Yang ada hanya pelayar pantas yang tidak menjual maklumat anda.
 
 firefox-desktop-download-download-options = Pilihan muat turun dan bahasa lain
@@ -33,7 +33,7 @@ firefox-desktop-download-browser-support = Bantuan { -brand-name-firefox-browser
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Buatlah apa yang anda gemari atas talian.<br> { -brand-name-firefox-browser } <strong>melindungi</strong> anda.
 
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = Buatlah apa yang anda perlu atas talian.<br> { -brand-name-firefox-browser } <strong>tidak</strong> memerhati.
 
 firefox-desktop-download-we-block-the-ad = Kami menyekat penjejak iklan. Anda mampu melayari internet lebih pantas.
@@ -128,9 +128,9 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } dihasilka
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Dengan pelbagai perubahan yang berlaku di internet, { -brand-name-firefox } kekal fokus dengan hak anda untuk privasi — inilah keutamaan kami. Ketahui lebih lanjut tentang amalan data kami di <a { $attrs }>Notis Privasi</a>.
 
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = Selagi internet berkembang dan berubah, { -brand-name-firefox } akan terus memberikan fokus kepada hak ke atas privasi anda - kami memanggilnya <a { $attrs }>Perjanjian Data Peribadi</a>: Ambil sedikit. Pastikan ia selamat. Tiada rahsia. Data, aktiviti, dan kehidupan anda dalam talian dilindungi oleh { -brand-name-firefox }.
 
 # Variables:
@@ -149,7 +149,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Ada soalan? <a { $attrs }>Bantuan { -brand-name-mozilla } </a> sedia membantu.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/thanks/
 
 firefox-desktop-download-almost-there = Hampir tiba!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -173,7 +173,7 @@ firefox-desktop-download-visit-support-for-more = Layari Sokongan untuk Maklumat
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = Muat turun anda akan bermula secara automatik. Tidak berjaya? <a id="{ $id }" href="{ $fallback_url }">Cuba muat turun semula.</a>
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } lebih daripada sekadar pelayar.
@@ -181,5 +181,5 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } lebih darip
 firefox-desktop-download-interrupted = Muat turun anda terganggu. Tapi jangan bimbang.
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Sistem anda mungkin tidak memenuhi syarat untuk { -brand-name-firefox }, tetapi anda boleh cuba salah satu <a href="{ $url }">versi ini</a>.

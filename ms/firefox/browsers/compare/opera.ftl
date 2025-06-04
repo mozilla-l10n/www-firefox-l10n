@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
+### URL: https://www-dev.springfield.moz.works/browsers/opera/
 
 # Page title
 compare-opera-firefox-vs-opera = { -brand-name-firefox } lwn Opera
@@ -11,7 +11,7 @@ compare-opera-firefox-vs-opera = { -brand-name-firefox } lwn Opera
 compare-opera-read-our-comparison = Baca perbandingan di antara pelayar { -brand-name-firefox } dan Opera berkaitan ciri-ciri, privasi dan tahap mesra pengguna.
 
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
 compare-opera-firefoxs-default-privacy-settings = Tetapan privasi lalai bagi { -brand-name-firefox } adalah lebih mantap berbanding Opera – selain ciri-ciri tambahan untuk mencegah laman web daripada menjejak anda seperti <a { $fingerprint }>perlindungan cap jari</a>.
 compare-opera-firefox-offers-a-wide-range-of = { -brand-name-firefox } menawarkan lebih banyak opsyen penyesuaian, termasuk mengalih menu dan bar alatan sehinggalah ke lokasi berlainan untuk jendela pelayar. Antara muka Opera tidak ada banyak pilihan penyesuaian.
 

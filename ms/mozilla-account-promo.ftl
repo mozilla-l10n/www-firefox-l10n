@@ -8,7 +8,7 @@ moz-account-promo-title = Satu log masuk. <br> <span { $class }>Segalanya tentan
 
 # Variables
 #   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
+#   $learn_more_url - link to https://www.mozilla.org/accounts/
 moz-account-already-have-v2 = Sudah ada akaun? <a { $sign_in_url }>Daftar Masuk</a> atau <a { $learn_more_url }>ketahui lebih lanjut</a> tentang menyertai { -brand-name-mozilla }.
 
 moz-account-product-firefox = { -brand-name-firefox }

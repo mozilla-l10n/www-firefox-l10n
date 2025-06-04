@@ -4,7 +4,7 @@
 
 # Required
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = Muat turun { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Muat turun { -brand-name-firefox } yang terpantas
@@ -12,21 +12,16 @@ firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = { -brand-name-firefox } terkini telah tiba. Pemuatan laman lebih pantas, penggunaan memori yang sedikit dan padat dengan ciri-ciri baru.
 firefox-new-get-the-latest-firefox = Dapatkan pelayar { -brand-name-firefox } terkini.
 
-# span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = Muat turun { -brand-name-firefox }<br> untuk { -brand-name-windows }
-firefox-new-download-firefox-for-macos = Muat turun { -brand-name-firefox }<br> untuk { -brand-name-mac }
-firefox-new-download-firefox-for-linux = Muat turun { -brand-name-firefox }<br> untuk { -brand-name-linux }
-
 firefox-new-free-web-browser = Pelayar Web Percuma
 firefox-new-advanced-install-options = Pilihan pemasangan lanjutan & lain-lain platform
 firefox-new-download-in-another-language = Muat turun dalam bahasa lain
 firefox-new-need-help = Perlukan bantuan?
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-firefox-new-should-begin = Muat turun anda akan bermula secara automatik. Tidak berjaya? <a id="{ $id }" href="{ $fallback_url }">Cuba muat turun semula.</a>
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } lebih daripada sekadar pelayar.
@@ -36,7 +31,7 @@ firefox-new-download-almost-there = Hampir tiba!
 firefox-new-download-select-linux = Pilih satu opsyen muat turun di bawah
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-system-may-not = Sistem anda mungkin tidak memenuhi syarat untuk { -brand-name-firefox }, tetapi anda boleh cuba salah satu <a href="{ $url }">versi ini</a>.
 
 firefox-new-windows = { -brand-name-windows }
@@ -48,7 +43,7 @@ firefox-new-visit-support-for-more = Layari Sokongan untuk Maklumat Lanjut
 
 # Not-Required
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Muat turun { -brand-name-firefox-browser }

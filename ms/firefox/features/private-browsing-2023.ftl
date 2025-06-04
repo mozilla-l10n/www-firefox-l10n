@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/private-browsing
+### URL: https://www-dev.springfield.moz.works/features/private-browsing/
 
 features-private-browsing-private-browsing-mode = Mod Pelayaran Peribadi
 
@@ -22,5 +22,5 @@ features-private-browsing-what-private-browsing-doesnt-do = Apa yang pelayaran p
 features-private-browsing-private-browsing-mode-will-not = Mod pelayaran peribadi tidak akan memadam penanda buku baru yang anda buat daripada jendela pelayar peribadi, atau melindungi anda daripada malware atau virus. Ia juga tidak mencegah laman web yang anda lawati daripada menjejaki lokasi fizikal anda serta menghentikan pembekal internet anda daripada mengelog apa yang anda buat. Anda perlukan <a href="{ $vpn }">VPN yang boleh dipercayai</a> untuk situasi itu.
 
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = bandingkan pelayaran peribadi { -brand-name-firefox } dengan <a href="{ $chrome }">mod inkognito Chrome</a>.

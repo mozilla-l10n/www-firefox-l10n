@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Muat turun { -brand-name-firefox-browser } pada Peranti Mudah Alih anda untuk { -brand-name-ios } dan { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } untuk Peranti Mudah Alih menyekat lebih daripada 2000 penjejak secara lalai, memberikan privasi yang berhak dinikmati dan kepantasan yang diperlukan dalam pelayar mudah alih peribadi.
