@@ -16,7 +16,7 @@ footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
-footer-custom-download = ჩამოტვირთვის მორგების პარამეტრები
+footer-custom-download = ჩამოტვირთვის მორგება
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
@@ -28,7 +28,7 @@ footer-nightly = { -brand-name-nightly }
 ## Download links for enterprise versions of Firefox.
 
 # Section title
-footer-business = { -brand-name-firefox } ბიზნესისთვის
+footer-business = { -brand-name-firefox } დაწესებულებისთვის
 footer-enterprise = { -brand-name-enterprise }
 
 ## Links to community groups.
@@ -43,7 +43,7 @@ footer-developer = შემმუშავებელი
 # Section title
 footer-resources = მასალები
 footer-compare = შედარება
-footer-release-notes = გამოშვების მონაცემები
+footer-release-notes = გამოშვების შენიშვნები
 footer-support = მხარდაჭერა
 footer-addons = დამატებები
 footer-blog = სვეტი
@@ -62,7 +62,7 @@ footer-websites-privacy-notice = საიტის პირადულობ�
 footer-terms-of-use = გამოყენების პირობები
 footer-websites-cookie-policy = ფუნთუშების დებულება
 footer-community-participation-guidelines = გზამკვლევი მონაწილეობისთვის
-footer-logo-trademark-licensing = ლოგოს სავაჭრო ნიშნების ლიცენზირება
+footer-logo-trademark-licensing = ლოგო, სავაჭრო ნიშნების ლიცენზია
 
 ## Language Switcher
 
