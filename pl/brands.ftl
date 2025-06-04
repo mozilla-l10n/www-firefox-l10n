@@ -28,15 +28,6 @@
         [loc] Facebooku
        *[nom] Facebook
     }
--brand-name-github =
-    { $case ->
-        [gen] GitHuba
-        [dat] GitHubowi
-        [acc] GitHuba
-        [ins] GitHubem
-        [loc] GitHubie
-       *[nom] GitHub
-    }
 -brand-name-google =
     { $case ->
         [gen] Google’a
@@ -67,26 +58,7 @@
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
 -brand-name-netscape = Netscape
--brand-name-twitter =
-    { $case ->
-        [gen] Twittera
-        [dat] Twitterowi
-        [acc] Twittera
-        [ins] Twitterem
-        [loc] Twitterze
-       *[nom] Twitter
-    }
--brand-name-wireguard = WireGuard
 -brand-name-linkedin = LinkedIn
--brand-name-tiktok =
-    { $case ->
-        [gen] TikToka
-        [dat] TikTokowi
-        [acc] TikToka
-        [ins] TikTokiem
-        [loc] TikToku
-       *[nom] TikTok
-    }
 -brand-name-spotify = Spotify
 
 ## Firefox browsers
@@ -250,24 +222,6 @@
         [loc] Firefoksie Aurora
        *[nom] Firefox Aurora
     }
--brand-name-aurora =
-    { $case ->
-        [gen] Aurory
-        [dat] Aurorze
-        [acc] Aurorę
-        [ins] Aurorą
-        [loc] Aurorze
-       *[nom] Aurora
-    }
--brand-name-firefox-quantum =
-    { $case ->
-        [gen] Firefoksa Quantum
-        [dat] Firefoksowi Quantum
-        [acc] Firefoksa Quantum
-        [ins] Firefoksem Quantum
-        [loc] Firefoksie Quantum
-       *[nom] Firefox Quantum
-    }
 
 ## Firefox products
 
@@ -310,116 +264,7 @@
 
 ## Firefox products (short names)
 
--brand-name-devtools =
-    { $case ->
-        [gen]
-            { $capitalization ->
-                [lower] narzędzi dla programistów
-               *[upper] Narzędzi dla programistów
-            }
-        [dat]
-            { $capitalization ->
-                [lower] narzędziom dla programistów
-               *[upper] Narzędziom dla programistów
-            }
-        [acc]
-            { $capitalization ->
-                [lower] narzędzia dla programistów
-               *[upper] Narzędzia dla programistów
-            }
-        [ins]
-            { $capitalization ->
-                [lower] narzędziami dla programistów
-               *[upper] Narzędziami dla programistów
-            }
-        [loc]
-            { $capitalization ->
-                [lower] narzędziach dla programistów
-               *[upper] Narzędziach dla programistów
-            }
-       *[nom]
-            { $capitalization ->
-                [lower] narzędzia dla programistów
-               *[upper] Narzędzia dla programistów
-            }
-    }
 -brand-name-relay = Relay
-
-## Firefox products (legacy)
-
--brand-name-firefox-account =
-    { $case ->
-        [gen]
-            { $capitalization ->
-                [lower] konta Firefoksa
-               *[upper] Konta Firefoksa
-            }
-        [dat]
-            { $capitalization ->
-                [lower] kontu Firefoksa
-               *[upper] Kontu Firefoksa
-            }
-        [acc]
-            { $capitalization ->
-                [lower] konto Firefoksa
-               *[upper] Konto Firefoksa
-            }
-        [ins]
-            { $capitalization ->
-                [lower] kontem Firefoksa
-               *[upper] Kontem Firefoksa
-            }
-        [loc]
-            { $capitalization ->
-                [lower] koncie Firefoksa
-               *[upper] Koncie Firefoksa
-            }
-       *[nom]
-            { $capitalization ->
-                [lower] konto Firefoksa
-               *[upper] Konto Firefoksa
-            }
-    }
--brand-name-firefox-accounts =
-    { $case ->
-        [gen]
-            { $capitalization ->
-                [lower] kont Firefoksa
-               *[upper] Kont Firefoksa
-            }
-        [dat]
-            { $capitalization ->
-                [lower] kontom Firefoksa
-               *[upper] Kontom Firefoksa
-            }
-        [acc]
-            { $capitalization ->
-                [lower] konta Firefoksa
-               *[upper] Konta Firefoksa
-            }
-        [ins]
-            { $capitalization ->
-                [lower] kontami Firefoksa
-               *[upper] Kontami Firefoksa
-            }
-        [loc]
-            { $capitalization ->
-                [lower] kontach Firefoksa
-               *[upper] Kontach Firefoksa
-            }
-       *[nom]
-            { $capitalization ->
-                [lower] konta Firefoksa
-               *[upper] Konta Firefoksa
-            }
-    }
--brand-name-firefox-marketplace = Firefox Marketplace
--brand-name-firefox-os = Firefox OS
--brand-name-firefox-private-network = Firefox Private Network
-
-## Firefox projects
-
--brand-name-firefox-labs = Laboratorium Firefoksa
 
 ## Pocket
 
@@ -429,66 +274,9 @@
 
 -brand-name-fakespot = Fakespot
 
-## Anonym
-
--brand-name-anonym = Anonym
-
 ## Mozilla projects
 
--brand-name-bugzilla =
-    { $case ->
-        [gen] Bugzilli
-        [dat] Bugzilli
-        [acc] Bugzillę
-        [ins] Bugzillą
-        [loc] Bugzilli
-       *[nom] Bugzilla
-    }
 -brand-name-gecko = Gecko
--brand-name-glean = Glean
--brand-name-irl-podcast =
-    { $case ->
-        [gen]
-            { $capitalization ->
-                [lower] podcastu IRL
-               *[upper] Podcastu IRL
-            }
-        [dat]
-            { $capitalization ->
-                [lower] podcastowi IRL
-               *[upper] Podcastowi IRL
-            }
-        [acc]
-            { $capitalization ->
-                [lower] podcast IRL
-               *[upper] Podcast IRL
-            }
-        [ins]
-            { $capitalization ->
-                [lower] podcastem IRL
-               *[upper] Podcastem IRL
-            }
-        [loc]
-            { $capitalization ->
-                [lower] podcaście IRL
-               *[upper] Podcaście IRL
-            }
-       *[nom]
-            { $capitalization ->
-                [lower] podcast IRL
-               *[upper] Podcast IRL
-            }
-    }
--brand-name-solo-ai = Solo AI
--brand-name-lumigator =
-    { $case ->
-        [gen] Lumigatora
-        [dat] Lumigatorowi
-        [acc] Lumigatora
-        [ins] Lumigatorem
-        [loc] Lumigatorze
-       *[nom] Lumigator
-    }
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs =
     { $case ->
@@ -523,7 +311,6 @@
                *[upper] Dokumentacja MDN
             }
     }
--brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account =
@@ -592,11 +379,8 @@
                *[upper] Konta Mozilli
             }
     }
--brand-name-mozilla-builders = Mozilla Builders
--brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
--brand-name-rise25 = Rise25
 -brand-name-thunderbird =
     { $case ->
         [gen] Thunderbirda
@@ -612,14 +396,6 @@
 -brand-name-common-voice = Common Voice
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
-
-## Mozilla projects (legacy)
-
--brand-name-webmaker = Webmaker
-
-## Open Source projects
-
--brand-name-rust = Rust
 
 ## Other browsers
 
@@ -697,7 +473,6 @@
 
 ## Facebook products
 
--brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram =
     { $case ->
         [gen] Instagrama
@@ -707,7 +482,6 @@
         [loc] Instagramie
        *[nom] Instagram
     }
--brand-name-workplace = Workplace
 
 ## Google products
 

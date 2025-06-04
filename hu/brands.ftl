@@ -16,7 +16,6 @@
     }
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook = Facebook
--brand-name-github = GitHub
 -brand-name-google = Google
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla =
@@ -35,10 +34,7 @@
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Alapítvány
 -brand-name-netscape = Netscape
--brand-name-twitter = Twitter
--brand-name-wireguard = WireGuard
 -brand-name-linkedin = LinkedIn
--brand-name-tiktok = TikTok
 -brand-name-spotify = Spotify
 
 ## Firefox browsers
@@ -155,8 +151,6 @@
         [acc] Firefox Aurorát
        *[nom] Firefox Aurora
     }
--brand-name-aurora = Aurora
--brand-name-firefox-quantum = Firefox Quantum
 
 ## Firefox products
 
@@ -167,20 +161,7 @@
 
 ## Firefox products (short names)
 
--brand-name-devtools = DevTools
 -brand-name-relay = Relay
-
-## Firefox products (legacy)
-
--brand-name-firefox-account = Firefox-fiók
--brand-name-firefox-accounts = Firefox-fiókok
--brand-name-firefox-marketplace = Firefox Marketplace
--brand-name-firefox-os = Firefox OS
--brand-name-firefox-private-network = Firefox Private Network
-
-## Firefox projects
-
--brand-name-firefox-labs = Firefox Labs
 
 ## Pocket
 
@@ -190,30 +171,17 @@
 
 -brand-name-fakespot = Fakespot
 
-## Anonym
-
--brand-name-anonym = Anonym
-
 ## Mozilla projects
 
--brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
--brand-name-glean = Glean
--brand-name-irl-podcast = IRL Podcast
--brand-name-solo-ai = Solo AI
--brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
--brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = Mozilla-fiók
 -brand-name-mozilla-accounts = Mozilla-fiókok
--brand-name-mozilla-builders = Mozilla Builders
--brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
--brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
@@ -227,14 +195,6 @@
        *[nominative] MDN
     }
 -brand-name-monitor = Monitor
-
-## Mozilla projects (legacy)
-
--brand-name-webmaker = Webmaker
-
-## Open Source projects
-
--brand-name-rust = Rust
 
 ## Other browsers
 
@@ -284,9 +244,7 @@
 
 ## Facebook products
 
--brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
--brand-name-workplace = Workplace
 
 ## Google products
 

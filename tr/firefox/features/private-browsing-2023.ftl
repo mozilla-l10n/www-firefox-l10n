@@ -18,5 +18,5 @@ features-private-browsing-what-private-browsing-doesnt-do = Gizli gezinti ne de�
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = Gizli gezinti modu, gizli gezinti penceresindeyken eklediğiniz yer imlerini silmez ve sizi kötü amaçlı yazılım ve virüslerden korumaz. Ayrıca, ziyaret ettiğiniz sitelerin IP adresinizi görmesini veya internet servis sağlayıcınızın yaptıklarınızı kaydetmesini engellemez. Bunun için <a href="{ $vpn }">güvenilir bir VPN</a>’e ihtiyacınız var.
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = { -brand-name-firefox }’un gizli gezintisini <a href="{ $chrome }">Chrome’un gizli modu</a> ile karşılaştırın.

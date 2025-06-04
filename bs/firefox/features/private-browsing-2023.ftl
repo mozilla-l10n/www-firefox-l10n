@@ -18,5 +18,5 @@ features-private-browsing-what-private-browsing-doesnt-do = Ono što privatno pr
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = Režim privatnog pretraživanja neće izbrisati nove oznake koje napravite iz prozora privatnog pretraživanja niti će vas zaštititi od zlonamjernog softvera ili virusa. To također ne sprječava web stranice koje posjećujete da vide gdje se fizički nalazite niti sprečava vašeg internet provajdera da evidentira ono što radite. Za to će vam trebati <a href="{ $vpn }">pouzdani VPN</a>.
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Uporedite privatno pretraživanje { -brand-name-firefox }a sa <a href="{ $chrome }">Chromeovim anonimnim načinom rada</a>.

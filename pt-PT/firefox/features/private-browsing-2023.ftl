@@ -18,5 +18,5 @@ features-private-browsing-what-private-browsing-doesnt-do = O que não faz a nav
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = O modo de navegação anónima não elimina quaisquer novos marcadores que adicione durante a sua utilização, nem protege contra malware ou vírus. Também não evita que os websites que visita detetem a sua localização física, nem impede que o seu fornecedor de serviços de Internet registe as suas atividades online. Para garantir essa proteção, será necessário recorrer a uma <a href="{ $vpn }">VPN de confiança</a>.
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Compare a navegação privada do { -brand-name-firefox } com o <a href="{ $chrome }">modo de navegação anónima do Chrome</a>.

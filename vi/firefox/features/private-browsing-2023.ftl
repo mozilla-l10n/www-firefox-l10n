@@ -18,5 +18,5 @@ features-private-browsing-what-private-browsing-doesnt-do = Duyệt web riêng t
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = Chế độ duyệt web riêng tư sẽ không xóa bất kỳ dấu trang mới nào bạn tạo từ cửa sổ duyệt web riêng tư hoặc bảo vệ bạn khỏi phần mềm độc hại hoặc virus. Nó cũng không ngăn các trang web bạn truy cập biết vị trí thực tế của bạn hoặc ngăn nhà cung cấp dịch vụ Internet của bạn ghi lại những gì bạn làm. Bạn cần một <a href="{ $vpn }">VPN đáng tin cậy</a> cho điều đó.
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = So sánh chế độ duyệt web riêng tư của { -brand-name-firefox } với <a href="{ $chrome }">chế độ ẩn danh của Chrome</a>.

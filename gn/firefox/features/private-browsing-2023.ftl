@@ -13,5 +13,5 @@ features-private-browsing-what-does-private-browsing-do = Mba’épa ojapo kunda
 features-private-browsing-a-firefox-window-in-private = Kundahára rovetã { -brand-name-firefox } kundahára ñemigua rekópe.
 features-private-browsing-what-private-browsing-doesnt-do = Ñeikundaha ñemigua ojapo’ỹva
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Embojuehe { -brand-name-firefox } kundahára ñemigua <a href="{ $chrome }">Chrome rekoñemi</a> rehe.

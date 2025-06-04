@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/
+### URL: https://www-dev.springfield.moz.works/browsers/desktop
 
 firefox-browsers-desktop = Datamaskin
 firefox-browsers-seriously-private-browsing = Seriøs privat surfing. { -brand-name-firefox } blokkerer automatisk over 2000 sporere fra å samle informasjon om hva du gjør på nettet.

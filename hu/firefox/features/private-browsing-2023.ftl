@@ -18,5 +18,5 @@ features-private-browsing-what-private-browsing-doesnt-do = Mit nem tesz a priv�
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = A privát böngészési mód nem törli a privát böngészési ablakokból létrehozott új könyvjelzőket, és nem védi meg a rosszindulatú programoktól és a vírusoktól. Nem akadályozza meg azt sem, hogy a meglátogatott webhelyek lássák az Ön tényleges tartózkodási helyét, és nem akadályozza meg az internetszolgáltatóját sem, hogy naplózza, mit csinál. Ehhez egy <a href="{ $vpn }">megbízható VPN-re</a> lesz szüksége.
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Hasonlítsa össze a { -brand-name-firefox } privát böngészését a <a href="{ $chrome }">Chrome inkognitó módjával</a>.

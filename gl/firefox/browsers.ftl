@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/
+### URL: https://www-dev.springfield.moz.works/browsers/desktop
 
 firefox-browsers-desktop = Escritorio
 firefox-browsers-seriously-private-browsing = Navegación completamente privada. O { -brand-name-firefox } impide de maneira automática que máis de 2000 rastrexadores recompilen información sobre ti mentres estás en liña.

@@ -18,10 +18,7 @@
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
 -brand-name-netscape = Netscape
--brand-name-twitter = Twitter
--brand-name-wireguard = WireGuard
 -brand-name-linkedin = LinkedIn
--brand-name-tiktok = TikTok
 -brand-name-spotify = Spotify
 
 ## Firefox browsers
@@ -49,8 +46,6 @@
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
--brand-name-aurora = Aurora
--brand-name-firefox-quantum = Firefox Quantum
 
 ## Firefox products
 
@@ -61,20 +56,7 @@
 
 ## Firefox products (short names)
 
--brand-name-devtools = DevTools
 -brand-name-relay = Relay
-
-## Firefox products (legacy)
-
--brand-name-firefox-account = Firefox Account
--brand-name-firefox-accounts = Firefox Accounts
--brand-name-firefox-marketplace = فروشگاه Firefox
--brand-name-firefox-os = سیستم‌عامل Firefox
--brand-name-firefox-private-network = شبکه خصوصی Firefox
-
-## Firefox projects
-
--brand-name-firefox-labs = Firefox Labs
 
 ## Pocket
 
@@ -83,12 +65,8 @@
 ## Fakespot
 
 
-## Anonym
-
-
 ## Mozilla projects
 
--brand-name-bugzilla = Bugzilla
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
@@ -99,14 +77,6 @@
 -brand-name-common-voice = آوای مشترک
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
-
-## Mozilla projects (legacy)
-
--brand-name-webmaker = Webmaker
-
-## Open Source projects
-
--brand-name-rust = Rust
 
 ## Other browsers
 
@@ -136,7 +106,6 @@
 
 ## Facebook products
 
--brand-name-facebook-messenger = پیغام‌رسان فیسبوک
 -brand-name-instagram = Instagram
 
 ## Google products

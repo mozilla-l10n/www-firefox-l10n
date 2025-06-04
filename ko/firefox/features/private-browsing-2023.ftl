@@ -18,5 +18,5 @@ features-private-browsing-what-private-browsing-doesnt-do = 사생활 보호 모
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = 사생활 보호 모드는 해당 모드에서 만든 새로운 북마크를 삭제하거나 악성 코드 또는 바이러스로부터 사용자를 보호하지 않습니다. 또한 방문하는 웹사이트에서 사용자의 물리적 위치를 보거나 인터넷 서비스 제공자가 사용자의 활동을 기록하는 것을 막지 못합니다. 그러려면 <a href="{ $vpn }">신뢰할 수 있는 VPN</a>이 필요합니다.
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = { -brand-name-firefox }의 사생활 보호 모드와 <a href="{ $chrome }">Chrome의 시크릿 모드</a>를 비교해 보세요.

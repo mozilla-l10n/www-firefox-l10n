@@ -13,5 +13,5 @@ features-private-browsing-what-does-private-browsing-do = D acu i txeddem tunigi
 features-private-browsing-a-firefox-window-in-private = Asfaylu n yiminig { -brand-name-firefox } deg uskar n tunigin tusligt.
 features-private-browsing-what-private-browsing-doesnt-do = Acu ur txeddem ara tunigin tusligt
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Serwes gar tunigin tusligt n { -brand-name-firefox } akked <a href="{ $chrome }">uskar incognito n Chrome</a>.

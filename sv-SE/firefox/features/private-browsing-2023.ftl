@@ -18,5 +18,5 @@ features-private-browsing-what-private-browsing-doesnt-do = Vad privat surfning 
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = Privat surfläge kommer inte att radera några nya bokmärken du skapar från ett privat surffönster eller skydda dig från skadlig programvara eller virus. Det hindrar inte heller de webbplatser du besöker från att se var du befinner dig fysiskt eller hindrar din internetleverantör från att logga vad du gör. Du behöver ett <a href="{ $vpn }">pålitligt VPN</a> för det.
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Jämför { -brand-name-firefox }s privata surfning med <a href="{ $chrome }">Chromes inkognitoläge</a>.

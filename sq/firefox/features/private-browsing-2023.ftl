@@ -18,5 +18,5 @@ features-private-browsing-what-private-browsing-doesnt-do = Ç’nuk kryen shfle
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = Mënyra e shfletimit privat s’do të fshijë ndonjë faqerojtës të ri që krijoni prej një dritareje shfletimi private, apo t’ju mbrojë nga <em>malware</em> apo viruse. As u pengon sajteve që vizitoni të shohin ku gjendeni fizikisht, apo t’i ndalojnë shërbimit tuaj internet të regjistrojë ç’bëni. Për këto, do t’ju duhej një <a href="{ $vpn }">VPN i besueshëm</a>.
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Krahasoni shfletimin privat në { -brand-name-firefox } me <a href="{ $chrome }">mënyrën <em>incognito</em> të Chrome-it</a>.

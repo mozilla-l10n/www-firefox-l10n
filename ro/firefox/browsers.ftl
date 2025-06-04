@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/
+### URL: https://www-dev.springfield.moz.works/browsers/desktop
 
 firefox-browsers-desktop = Calculator
 firefox-browsers-seriously-private-browsing = Navigare serios privată. { -brand-name-firefox } blochează automat peste 2000 de elemente de urmărire online împiedicându-le să colecteze informații despre ce faci online.

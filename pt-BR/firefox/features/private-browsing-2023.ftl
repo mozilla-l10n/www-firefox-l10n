@@ -18,5 +18,5 @@ features-private-browsing-what-private-browsing-doesnt-do = O que a navegação 
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = O modo de navegação privativa não exclui novos favoritos criados em uma janela de navegação privativa, nem te protege contra malware ou vírus. Também não impede que os sites visitados saibam onde você está fisicamente localizado, nem impede que seu provedor de serviços de internet registre o que você faz. Você precisa de uma <a href="{ $vpn }">VPN confiável</a> para isso.
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Compare a navegação privativa do { -brand-name-firefox } com o <a href="{ $chrome }">modo anônimo do Chrome</a>.

@@ -18,5 +18,5 @@ features-private-browsing-what-private-browsing-doesnt-do = Wat priveenavigaasje
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = Priveenavigaasje smyt gjin nije blêdwizers dy’t jo meitsje fan in priveenavigaasjefinster út fuort, en beskermet jo ek net tsjin malware of firussen. It ferhinderet ek net dat de websites dy’t jo besykje sjen kinne wêr’t jo fysyk binne of dat jo ynternetprovider registrearje kin wat jo dogge. Dêrfoar hawwe jo in <a href="{ $vpn }">betroubere VPN</a> nedich.
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Fergelykje priveenavigaasje fan { -brand-name-firefox } mei de <a href="{ $chrome }">ynkognitomodus fan Chrome</a>.

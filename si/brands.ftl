@@ -12,17 +12,13 @@
 -brand-name-apple = ඇපල්
 -brand-name-creative-commons = ක්‍රියේටිව් කොමන්ස්
 -brand-name-facebook = ෆේස්බුක්
--brand-name-github = ගිට්හබ්
 -brand-name-google = ගූගල්
 -brand-name-microsoft = මයික්‍රොසොෆ්ට්
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
 -brand-name-netscape = නෙට්ස්කේප්
--brand-name-twitter = ට්විටර්
--brand-name-wireguard = වයර්ගාඩ්
 -brand-name-linkedin = ලින්ක්ඩින්
--brand-name-tiktok = ටික්ටොක්
 -brand-name-spotify = ස්පොටිෆයි
 
 ## Firefox browsers
@@ -50,8 +46,6 @@
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
--brand-name-aurora = අවුරෝරා
--brand-name-firefox-quantum = ෆයර්ෆොක්ස් ක්වොන්ටම්
 
 ## Firefox products
 
@@ -62,17 +56,7 @@
 
 ## Firefox products (short names)
 
--brand-name-devtools = DevTools
 -brand-name-relay = රිලේ
-
-## Firefox products (legacy)
-
--brand-name-firefox-account = Firefox ගිණුම
--brand-name-firefox-accounts = Firefox ගිණුම්
--brand-name-firefox-private-network = Firefox පෞද්ගලික ජාලය
-
-## Firefox projects
-
 
 ## Pocket
 
@@ -82,26 +66,15 @@
 
 -brand-name-fakespot = ෆේක්ස්පොට්
 
-## Anonym
-
-
 ## Mozilla projects
 
--brand-name-bugzilla = Bugzilla
--brand-name-glean = ග්ලීන්
--brand-name-irl-podcast = IRL පොඩ්කාස්ට්
--brand-name-lumigator = ලුමිගේටර්
 -brand-name-mdn-plus = MDN ප්ලස්
 -brand-name-mdn-web-docs = MDN Web Docs
--brand-name-mozilla-festival = මොසිල්ලා උත්සවය
 -brand-name-mozilla-monitor = මොසිල්ලා මොනිටර්
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = මොසිල්ලා ගිණුම
 -brand-name-mozilla-accounts = මොසිල්ලා ගිණුම්
--brand-name-mozilla-builders = Mozilla Builders
--brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
--brand-name-rise25 = Rise25
 -brand-name-thunderbird = තන්ඩර්බර්ඩ්
 
 ## Mozilla projects (short names)
@@ -109,14 +82,6 @@
 -brand-name-common-voice = කොමන් වොයිස්
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
-
-## Mozilla projects (legacy)
-
--brand-name-webmaker = Webmaker
-
-## Open Source projects
-
--brand-name-rust = රස්ට්
 
 ## Other browsers
 
@@ -146,9 +111,7 @@
 
 ## Facebook products
 
--brand-name-facebook-messenger = ෆේස්බුක් මැසෙන්ජර්
 -brand-name-instagram = ඉන්ස්ටග්‍රෑම්
--brand-name-workplace = වර්ක්ප්ලේස්
 
 ## Google products
 

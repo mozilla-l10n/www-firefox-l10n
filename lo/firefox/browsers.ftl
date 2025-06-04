@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/
+### URL: https://www-dev.springfield.moz.works/browsers/desktop
 
 firefox-browsers-desktop = Desktop
 firefox-browsers-seriously-private-browsing = ການຊອກຫາສ່ວນຕົວຢ່າງຈິງຈັງ. { -brand-name-firefox } ອັດຕະໂນມັດບລັອກ 2000+ ຕົວຕິດຕາມອອນໄລນ໌ຈາກການລວບລວມຂໍ້ມູນກ່ຽວກັບສິ່ງທີ່ທ່ານເຮັດອອນໄລນ໌.

@@ -18,5 +18,5 @@ features-private-browsing-what-private-browsing-doesnt-do = Чего не дел
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = Режим приватного просмотра не удаляет новые закладки, сделанные вами в окне приватного просмотра, и не защищает вас от вредоносных программ и вирусов. Это также не мешает посещаемым вами веб-сайтам видеть, где вы физически находитесь, и не мешает вашему интернет-провайдеру регистрировать ваши действия. Для этого вам понадобится <a href="{ $vpn }">надежный VPN</a>.
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Сравните приватный режим { -brand-name-firefox } с <a href="{ $chrome }">режимом инкогнито в Chrome</a>.

@@ -15,5 +15,5 @@ features-private-browsing-private-browsing-mode-opens-v2 = Yksityinen selaustila
 features-private-browsing-a-firefox-window-in-private = { -brand-name-firefox }-selainikkuna yksityisessä selaustilassa.
 features-private-browsing-what-private-browsing-doesnt-do = Mitä yksityinen selaus ei tee
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Vertaa { -brand-name-firefox }in yksityistä selaustilaa <a href="{ $chrome }">Chromen incognito-tilaan</a>.

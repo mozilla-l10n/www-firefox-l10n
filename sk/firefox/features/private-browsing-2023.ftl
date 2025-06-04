@@ -18,5 +18,5 @@ features-private-browsing-what-private-browsing-doesnt-do = Čo súkromné prehl
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = Režim súkromného prehliadania neodstráni žiadne nové záložky, ktoré vytvoríte v okne súkromného prehliadania, ani vás nechráni pred škodlivým softvérom alebo vírusmi. Tiež to nezabráni webovým stránkam, ktoré navštívite, aby videli, kde sa fyzicky nachádzate, ani nezabráni vášmu poskytovateľovi internetových služieb zaznamenávať to, čo robíte. Na to budete potrebovať <a href="{ $vpn }">dôveryhodnú sieť VPN</a>.
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Porovnajte súkromné prehliadanie prehliadača { -brand-name-firefox } s <a href="{ $chrome }">režimom inkognito prehliadača Chrome</a>.

@@ -18,5 +18,5 @@ features-private-browsing-what-private-browsing-doesnt-do = Τι δεν κάνε
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = Η λειτουργία ιδιωτικής περιήγησης δεν θα διαγράψει τυχόν νέους σελιδοδείκτες που δημιουργήσατε από ένα παράθυρο ιδιωτικής περιήγησης, ούτε θα σας προστατεύσει από κακόβουλο λογισμικό και ιούς. Επίσης, δεν εμποδίζει τους ιστοτόπους που επισκέπτεστε από το να ανιχνεύσουν τη φυσική τοποθεσία σας, ούτε εμποδίζει τον πάροχο υπηρεσιών διαδικτύου σας από το να καταγράψει τη δραστηριότητά σας. Θα χρειαστείτε ένα <a href="{ $vpn }">αξιόπιστο VPN</a> για αυτούς τους σκοπούς.
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Συγκρίνετε την ιδιωτική περιήγηση του { -brand-name-firefox } με την <a href="{ $chrome }">ανώνυμη περιήγηση του Chrome</a>.

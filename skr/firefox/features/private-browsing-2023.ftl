@@ -18,5 +18,5 @@ features-private-browsing-what-private-browsing-doesnt-do = نجی براؤزن�
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = نجی براؤزنگ موڈ نجی براؤزنگ ونڈو نال تُہاݙے بݨائے ڳئے کئیں وی نویں بُک مارکس کوں حذف نہ کریسی، یا تُہاکوں میلویئر یا وائرس کنوں محفوظ نہ رکھیسی۔ اِیہ تُہاݙی ویب سائٹاں کوں اِیہ ݙیکھݨ کنوں وی نِھیں رُکین٘دا جو تُساں جسمانی طور تے کِتّھاں موجود ہِیوے یا تُہاݙے انٹرنیٹ سروس ݙیوݨ آلے کوں تُساں جو کُجھ کرین٘دے ہِیوے اِیکوں لاگ کرݨ کنوں رُکین٘دا ہِے۔ اِیں کِیتے تُہاکوں ہِک <a href="{ $vpn }">قابلِ بھرواسہ وی پی این</a>دی لوڑ ہوسی۔
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = { -brand-name-firefox }دی نجی براؤزنگ دا <a href="{ $chrome }">کروم دے لُکّل موڈ</a> نال موازنہ کرو۔

@@ -13,5 +13,5 @@ features-private-browsing-what-does-private-browsing-do = Što radi privatno pre
 features-private-browsing-a-firefox-window-in-private = Prozor { -brand-name-firefox } preglednika u privatnom modusu pregledavanja.
 features-private-browsing-what-private-browsing-doesnt-do = Što privatno pregledavanje ne radi
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Usporedi { -brand-name-firefox } privatno pregledavanje s <a href="{ $chrome }">Chromeovim anonimnim modusom</a>.

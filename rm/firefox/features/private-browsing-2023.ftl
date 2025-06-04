@@ -18,5 +18,5 @@ features-private-browsing-what-private-browsing-doesnt-do = Tge ch’il modus pr
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = Il modus privat na vegn ni a stizzar segnapaginas che ti agiuntas en ina fanestra dal modus privat, ni a ta proteger da software nuschaivla u virus. Il modus n’evitescha era betg che websites visitadas vesian tia posiziun geografica e n’impedescha era betg ch’il purschider d’internet registreschia tge che ti fas. Ti dovras in <a href="{ $vpn }">VPN fidabel</a> per quest intent.
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Cumparegliaziun dal modus privat da { -brand-name-firefox } cun il <a href="{ $chrome }">modus incognito da Chrome</a>.

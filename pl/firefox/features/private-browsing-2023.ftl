@@ -18,5 +18,5 @@ features-private-browsing-what-private-browsing-doesnt-do = Czego tryb prywatny 
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = Tryb prywatny nie usunie żadnych nowych zakładek utworzonych w oknie prywatnym ani nie ochroni Cię przed złośliwym oprogramowaniem lub wirusami. Nie uniemożliwia również odwiedzanym witrynom internetowym poznania Twojej fizycznej lokalizacji ani nie uniemożliwia dostawcy usług internetowych rejestrowania Twoich działań. W tym celu będziesz potrzebować <a href="{ $vpn }">godnego zaufania VPN-a</a>.
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Porównaj tryb prywatny { -brand-name-firefox(case: "gen") } z <a href="{ $chrome }">trybem incognito w przeglądarce Chrome</a>.

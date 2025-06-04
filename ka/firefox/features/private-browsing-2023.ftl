@@ -18,5 +18,5 @@ features-private-browsing-what-private-browsing-doesnt-do = რას არ ა
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = პირადი დათვალიერების რეჟიმი არ წაშლის პირადი ფანჯრიდან შექმნილ სანიშნებს, ვერ დაგიცავთ მავნე პროგრამებისა და ვირუსებისგან. ამასთანავე, ვერ შეუშლის ხელს თქვენ მიერ მონახულებულ საიტებს იხილონ თქვენი ადგილმდებარეობა და ვერ შეუზღუდავს თქვენი ინტერნეტმომსახურების მომწოდებელს აღრიცხოს, რას საქმიანობთ ვებსივრცეში. ამ ყველაფრისთვის დაგჭირდებათ <a href="{ $vpn }">სანდო VPN</a>.
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = შეადარეთ { -brand-name-firefox }-ის პირადი თვალიერების რეჟიმი <a href="{ $chrome }">Chrome-ის ინკოგნიტო რეჟიმს</a>.

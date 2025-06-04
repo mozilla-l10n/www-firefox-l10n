@@ -18,5 +18,5 @@ features-private-browsing-what-private-browsing-doesnt-do = Wat privénavigatie 
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = Privénavigatie verwijdert geen nieuwe bladwijzers die u maakt vanuit een privénavigatievenster, en beschermt u ook niet tegen malware of virussen. Het verhindert ook niet dat de websites die u bezoekt kunnen zien waar u zich fysiek bevindt of dat uw internetprovider kan registreren wat u doet. Daarvoor hebt u een <a href="{ $vpn }">betrouwbare VPN</a> nodig.
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Vergelijk privénavigatie van { -brand-name-firefox } met de <a href="{ $chrome }">incognitomodus van Chrome</a>.
