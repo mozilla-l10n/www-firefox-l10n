@@ -67,5 +67,5 @@ footer-logo-trademark-licensing = ლოგო, სავაჭრო ნიშ�
 ## Language Switcher
 
 footer-language = ენა
-footer-go = გადასვლა
+footer-go = წინ
 footer-firefox = { -brand-name-firefox }
