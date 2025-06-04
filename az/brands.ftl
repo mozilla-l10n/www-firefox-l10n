@@ -12,11 +12,13 @@
 -brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook = Facebook
+-brand-name-github = GitHub
 -brand-name-google = Google
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-twitter = Twitter
 
 ## Firefox browsers
 
@@ -51,6 +53,15 @@
 
 ## Firefox products (short names)
 
+-brand-name-devtools = DevTools
+
+## Firefox products (legacy)
+
+-brand-name-firefox-account = Firefox Hesabı
+-brand-name-firefox-accounts = Firefox Hesabları
+
+## Firefox projects
+
 
 ## Pocket
 
@@ -59,8 +70,12 @@
 ## Fakespot
 
 
+## Anonym
+
+
 ## Mozilla projects
 
+-brand-name-bugzilla = Bugzilla
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
@@ -71,12 +86,21 @@
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
 
+## Mozilla projects (legacy)
+
+
+## Open Source projects
+
+-brand-name-rust = Rust
+
 ## Other browsers
 
 -brand-name-brave = Brave
 -brand-name-chrome = Chrome
 -brand-name-edge = Edge
 -brand-name-ie = Internet Explorer
+-brand-name-opera = Opera
+-brand-name-safari = Safari
 
 ## Platforms
 
