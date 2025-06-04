@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = Sejarah Pelayar: Perebutan kuasa epik yang membawa pelayar moden kepada kita
 browser-history-the-browser-wars-underdogs-giants = Pertarungan pelayar, bukan pilihan vs gergasi dan detik yang mengubah dunia. Baca tentang sejarah pelayar web.
@@ -66,4 +66,3 @@ browser-history-in-the-future-the-v2 = Pada masa hadapan, internet bakal menjadi
 
 browser-history-whatever-the-future = Apa pun yang akan berlaku dengan web pada masa depan, { -brand-name-mozilla } dan { -brand-name-firefox } akan sentiasa menyokong pengguna, memastikan mereka mempunyai alat yang cukup hebat untuk mendapatkan pengalaman web dan semua yang ada padanya. Web adalah untuk semua orang dan semua orang perlu mempunyai kawalan terhadap pengalaman dalam talian mereka. Itulah sebabnya kami memberikan alatan { -brand-name-firefox } untuk melindungi privasi pengguna dan kami tidak pernah menjual data pengguna kepada pengiklan.
 browser-history-resources = Sumber
-browser-history-take-control-of = Kendalikan pelayar anda.

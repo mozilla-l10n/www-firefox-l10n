@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Blocage des publicités
@@ -17,7 +17,7 @@ features-adblocker-in-todays-digital-world = À l’ère du numérique, le Web e
 features-adblocker-ad-blockers-work = Les bloqueurs de publicités ont deux fonctions principales : ils empêchent le chargement des publicités et bloquent les sections des sites web qui hébergent ces éléments. Il peut s’agir de publicités vidéo, d’annonces personnalisées qui vous suivent sur le Web, et même de traqueurs tiers.
 
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = Les bloqueurs de publicités sont simples à utiliser. De nombreuses options éprouvées sont disponibles en tant que modules complémentaires pour navigateurs et vous permettent de trouver la solution qui correspond à vos besoins. Par exemple, <a href="{ $firefox }">{ -brand-name-firefox }</a> propose <a href="{ $addons }">une liste d’extensions approuvées</a>, conçues pour améliorer votre expérience de navigation tout en respectant votre vie privée.
 features-adblocker-finding-the-right = Trouver le bloqueur de publicité qui vous convient
@@ -39,5 +39,5 @@ features-adblocker-why-use = Pourquoi utiliser un bloqueur de publicités ?
 features-adblocker-ad-blockers-do-more = Les bloqueurs de publicités font bien plus que gérer les publicités indésirables : ils peuvent améliorer la vitesse et la sécurité de votre navigation en réduisant les contenus superflus. Ils vous permettent de vous créer une expérience web sur mesure, sans distractions, pour vous concentrer sur ce qui compte vraiment.
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-explore-hundreds = Découvrez les centaines de modules complémentaires axés sur la confidentialité disponibles pour { -brand-name-firefox }, et trouvez les outils qui vous conviennent. <a href="{ $url }">Téléchargez { -brand-name-firefox }</a> dès aujourd’hui pour profiter d’un navigateur conçu pour protéger votre vie privée et offrir de hautes performances.

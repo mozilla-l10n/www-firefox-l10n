@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = { -brand-name-ios } और { -brand-name-android } के लिए अपने मोबाइल पर { -brand-name-firefox-browser } डाउनलोड करें
 firefox-mobile-firefox-browser-for-mobile = मोबाइल के लिए { -brand-name-firefox-browser } तयशुदा रूप से 2000 से अधिक ट्रैकर्स ब्लॉक करता है और आपको वह निजता प्रदान करता है जिसके आप हकदार हैं और जिसकी आपको एक निजी मोबाइल ब्राउज़र में आवश्यकता है।

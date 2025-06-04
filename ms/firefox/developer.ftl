@@ -2,9 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/channel/desktop/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } ialah pelayar yang amat pantas yang menawarkan alatan pembangun canggih dan ciri terkini seperti sokongan CSS Grid dan menyahpepijat rangka kerja
@@ -67,35 +65,8 @@ firefox-developer-fonts-panel = Panel Fon
 firefox-developer-the-new-fonts-panel = Panel fon yang baru dalam { -brand-name-firefox-devtools } memberikan pembangun akses pantas kepada semua maklumat yang diperlukan tentang fon yang digunakan dalam sesuatu elemen. Ia juga merangkumi maklumat berharga seperti sumber fon, ketebalan, gaya dan banyak lagi.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } akan menghantar maklum balas kepada { -brand-name-mozilla } secara automatik.
 firefox-developer-download-the-firefox-browser = Muat turun pelayar { -brand-name-firefox } yang dibuat untuk pembangun
-firefox-developer-welcome-to-firefox-developer-edition = Selamat datang ke { -brand-name-firefox-developer-edition }
 
 firefox-developer-made-for-developers = Pelayar yang dibuat untuk pembangun
 firefox-developer-all-the-latest-v2 = Semua kelengkapan pembangun yang terkini dalam beta termasuklah ciri-ciri seperti Multi-line Console Editor dan WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>Profil dan laluan berasingan</strong> agar anda boleh menjalankannya bersama Release atau { -brand-name-beta } { -brand-name-firefox } dengan mudah.
 firefox-developer-preferences-tailored = Keutamaan <strong>disesuaikan untuk pembangun web</strong>: Pelayar dan nyahpepijat jauh didayakan secara lalai, begitu juga dengan tema gelap dan butang bar alatan pembangun.
-firefox-developer-congrats-you-now-have-latest-v2 = Anda kini sedang menggunakan versi terbaru { -brand-name-firefox-developer-edition }.
-
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Lihat <a { $attrs }>nota pelancaran</a> (Inggeris sahaja) untuk melihat kemas kini terkini.
-firefox-developer-developer-tools-user = Dokumen Pengguna Perkakas Pembangun
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Sumber untuk Pembangun, oleh Pembangun
-firefox-developer-mdn-playground = Ruang Eksperimentasi
-firefox-developer-mdn-write-test-and-share = Tulis, uji dan kongsi kod anda. Ruang untuk anda belajar dan berkongsi kerja anda dengan dunia luar
-firefox-developer-mdn-blog = Blog { -brand-name-mdn }
-firefox-developer-mdn-unlock-the-world = Temui dunia pembangunan web dengan Blog { -brand-name-mdn } — hab untuk pandangan pakar, piawaian internet terkini dan tip menulis kod.
-firefox-developer-mdn-updates = Terkini
-firefox-developer-mdn-the-web-doesnt-have = Internet tidak mempunyai rekod perubahan, tetapi { -brand-name-mdn } mampu membantu. Anda boleh tapis dan peribadikan keserasian pada pelayar atau kategori teknologi yang anda minati sama ada JavaScript, CSS dll.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = Rujukan { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } ialah projek kerjasama sumber terbuka yang mendokumenkan teknologi platform internet termasuklah CSS, HTML, JavaScript dan API Web.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = Kurikulum { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Sebuah panduan berstruktur untuk kemahiran dan latihan yang penting demi menjadi seorang pembangun bahagian depan, termasuk juga sumber pembelajaran yang disyorkan.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Sokonglah { -brand-name-mdn } dan jadikannya milik anda dengan koleksi, notifikasi dan pusat rekriasi.

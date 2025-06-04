@@ -25,6 +25,3 @@ sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly } और { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-android } { -brand-name-nightly } और { -brand-name-beta }
 sub-navigation-ios-test-flight = { -brand-name-ios } { -brand-name-test-flight }
-sub-navigation-what-is-a-browser = ब्राउज़र क्या है?
-sub-navigation-browsing-history = ब्राउज़िंग हिस्ट्री
-sub-navigation-browser-history = ब्राउज़र इतिहास

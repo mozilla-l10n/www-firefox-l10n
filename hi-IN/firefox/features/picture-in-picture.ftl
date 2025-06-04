@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
+### URL: https://www-dev.springfield.moz.works/features/picture-in-picture/
 
 # HTML page title
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } पिक्चर-इन-पिक्चर: पॉप-आउट वीडियो की सुविधा से और भी ज़्यादा काम करें
@@ -11,6 +11,7 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } प�
 features-pip-got-things-to-do-and-things-to-watch = काम भी करना है और वीडियो भी देखना है? { -brand-name-firefox } में पिक्चर-इन-पिक्चर से दोनों काम करें।
 
 features-pip-picture-in-picture = चित्र-में-चित्र
+
 features-pip-get-more-done-with-pop-out-videos = पॉप-आउट वीडियो की सुविधा से और भी ज़्यादा काम करें
 features-pip-got-things-to-do-do-both-with = काम भी करना है और वीडियो भी देखना है? { -brand-name-firefox } में पिक्चर-इन-पिक्चर से दोनों काम करें। इसकी मदद से आप वीडियो को वेबपेज से बाहर लाकर अपनी स्क्रीन पर पिन कर सकते हैं, ताकि आप दूसरे पेज, टैब और ऐप पर काम करते समय भी उसे देख सकें।
 features-pip-heres-how-it-works = यह ऐसे काम करता है:

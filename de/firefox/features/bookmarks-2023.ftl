@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
 # page title
 bookmark-manager-bookmark-manager = Lesezeichenverwaltung
@@ -11,10 +11,11 @@ bookmark-manager-bookmark-manager = Lesezeichenverwaltung
 bookmark-manager-organize-your-bookmarks-with = Organisiere deine Lesezeichen mit Ordnern und Tags.
 
 # Variables:
-#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+#   $sync (url) - link to https://www.firefox.com/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = Lesezeichen sind Links, die du in deinem Browser speichern kannst, um schnell und einfach auf deine Lieblingsseiten im Internet zuzugreifen. In { -brand-name-firefox } ist ein praktischer Lesezeichen-Manager enthalten, mit dem du <a { $sync }>all deine gespeicherten Links auf sämtlichen Geräten synchronisieren,</a> organisieren, suchen und aktualisieren kannst.
 bookmark-manager-organize-your-boomarks-into = Organisiere deine Lesezeichen in Ordnern mit Suchfunktion
 bookmark-manager-collect-your-bookmarks-in-folders = Sammle deine Lesezeichen in Ordnern und füge Tags hinzu mit weiteren Informationen. Du kannst deine Lesezeichen auch sortieren, um schnell die zu finden, die du benötigst.
+
 bookmark-manager-easily-import-bookmarks = Importiere deine Lesezeichen spielend
 bookmark-manager-you-can-import-your-bookmarks = Du kannst deine Lesezeichen mit dem Import-Wizard von { -brand-name-firefox } von Chrome, Safari oder Edge importieren. Klicke einfach auf „Lesezeichen“ > „Lesezeichen verwalten“ und wähle dann „Importieren und sichern“.
 

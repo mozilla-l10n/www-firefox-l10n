@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
+### URL: https://www-dev.springfield.moz.works/features/picture-in-picture/
 
 # HTML page title
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } ピクチャーインピクチャー: ポップアウト動画でもっと可能性が広がる
@@ -11,6 +11,7 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } ピ�
 features-pip-got-things-to-do-and-things-to-watch = 用事と動画視聴を一緒にこなしたいとき、{ -brand-name-firefox } のピクチャーインピクチャーなら両方できます。
 
 features-pip-picture-in-picture = ピクチャーインピクチャー
+
 features-pip-get-more-done-with-pop-out-videos = ポップアウト動画でもっと可能性が広がる
 features-pip-got-things-to-do-do-both-with = 用事と動画視聴を一緒にこなしたいとき、{ -brand-name-firefox } のピクチャーインピクチャーなら両方できます。ウェブページから動画をポップアウトさせて画面に固定できるので、他のページやタブ、アプリなどを開いていても視聴できます。
 features-pip-heres-how-it-works = 仕組みを紹介します。

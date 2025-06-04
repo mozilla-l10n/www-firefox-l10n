@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/set-as-default/
+### URL: https://www-dev.springfield.moz.works/default/
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = تعيين { -brand-name-firefox } مُتصفّك الافتراضي
@@ -10,7 +10,6 @@ set-as-default-landing-make-firefox-your-default = تعيين { -brand-name-fire
 # HTML page description
 set-as-default-landing-choose-the-browser = اختر المتصفح الذي يحمي خصوصيتك. عيّن { -brand-name-firefox } كمتصفح افتراضي خاص بك.
 
-set-as-default-landing-thanks-for-using-the = نشكُرك على استخدام مُتصفح { -brand-name-firefox } الأحدث. عندما تَختار { -brand-name-firefox }، فأنت تدعم شَبكة ويب أفضل لك وللآخرين. الآن اتخذ الخطوة التالية لِحماية نفسك.
 
 set-as-default-landing-make-sure-youre-protected = تأكّد من أنّك مَحمي متى اتصلت بالإنترنت
 

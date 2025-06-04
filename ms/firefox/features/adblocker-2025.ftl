@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Penyekat Iklan
@@ -17,7 +17,7 @@ features-adblocker-in-todays-digital-world = Di dalam dunia digital hari ini, in
 features-adblocker-ad-blockers-work = Penyekat iklan berfungsi dalam dua cara: mencegah kandungan, seperti iklan daripada dimulakan dan menyekat bahagian laman web yang menyimpan elemen tersebut. Ini termasuklah iklan video, iklan diperibadikan yang mengekori anda di segenap internet selain penjejak pihak ketiga.
 
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = Menggunakan penyekat iklan adalah mudah. Banyak pilihan yang boleh dipercayai sebagai add-on pelayar, menjadikannya mudah untuk mencari penyelesaian yang sesuai dengan anda. Contohnya, <a href="{ $firefox }">{ -brand-name-firefox }</a> menawarkan <a href="{ $addons }">senarai add-on yang diluluskan</a> yang direka khas untuk meningkatkan pengalaman pelayaran namun menghormati privasi anda.
 features-adblocker-finding-the-right = Mencari Penyekat Iklan yang Sesuai Untuk Anda
@@ -39,5 +39,5 @@ features-adblocker-why-use = Kenapa Guna Penyekat Iklan?
 features-adblocker-ad-blockers-do-more = Penyekat iklan bukan sekadar menguruskan iklan – ia mampu meningkatkan kelajuan dan keselamatan pelayaran dengan mengurangkan kandungan yang berlebihan. Ia memperkasakan anda untuk menikmati pengalaman pelayaran yang bebas-gangguan dan khusus dan membolehkan anda fokus kepada apa yang mustahak.
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-explore-hundreds = Terokai ratusan add-on privasi yang boleh didapati untuk { -brand-name-firefox } dan carilah add-on yang sesuai untuk anda. <a href="{ $url }">Muat turun { -brand-name-firefox }</a> hari ini untuk menggunakan pelayar internet yang mengutamakan privasi dan prestasi anda.

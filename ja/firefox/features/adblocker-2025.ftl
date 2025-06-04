@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = 広告ブロック
@@ -17,7 +17,7 @@ features-adblocker-in-todays-digital-world = 今日のデジタル社会では�
 features-adblocker-ad-blockers-work = 広告ブロッカーには、主に 2 通りの機能があります。広告などのコンテンツが読み込まれないようにするものと、これらの要素をホストするウェブサイトのセクションをブロックするものです。対象となるものには、ビデオ広告、ウェブ上でユーザーを追跡するパーソナライズ広告、サードパーティのトラッカーなどがあります。
 
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = 広告ブロッカーの使い方は簡単です。多くの信頼できるツールがブラウザーのアドオンとして提供されているため、ニーズに合ったソリューションを簡単に見つけることができます。例えば、<a href="{ $firefox }">{ -brand-name-firefox }</a> なら、プライバシーを尊重しながらブラウズ体験を向上させるために設計されている、<a href="{ $addons }">承認された拡張機能のリスト</a>を公開しています。
 features-adblocker-finding-the-right = あなたにぴったりの広告ブロッカーを見つける
@@ -39,5 +39,5 @@ features-adblocker-why-use = 広告ブロッカーを使う理由
 features-adblocker-ad-blockers-do-more = 広告ブロッカーは広告を管理するだけではありません。不要なコンテンツを減らすことで、ブラウジングのスピードとセキュリティを向上させることができます。ユーザーに合った、邪魔の入らないウェブ体験を実現し、大切なことに集中できます。
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-explore-hundreds = { -brand-name-firefox } で利用可能なプライバシー重視の何百ものアドオンを見て、あなたにぴったりのツールを見つけましょう。今すぐ <a href="{ $url }">{ -brand-name-firefox }をダウンロード</a>して、プライバシーとパフォーマンスのために設計されたブラウザーを体験してください。

@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Download – Der mobile { -brand-name-firefox-browser } für { -brand-name-ios } und { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = Der { -brand-name-firefox-browser } für Mobile blockt über 2000 Online-Tracker standardmäßig. Hol dir das Level an Privatsphäre und Geschwindigkeit, das du verdienst.

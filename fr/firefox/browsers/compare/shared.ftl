@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.springfield.moz.works/compare/
 
 compare-shared-compare-firefox = Comparez { -brand-name-firefox }
 compare-shared-footer-cta-title = Faites-en plus avec { -brand-name-firefox }
@@ -11,11 +11,11 @@ compare-shared-we-also-offer-easy = Nous proposons également aux utilisateurs e
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } possède également des outils intégrés comme :
 
 # Variables
-# $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
+# $pdf (url) - link to https://www.firefox.com/features/pdf-editor/
 compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Modifiez des PDF</a> directement dans la fenêtre { -brand-name-firefox } sans passer par un autre logiciel.
 
 # Variables
-# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+# $translate (url) - link to https://www.firefox.com/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>Traduisez une page web</a> de façon locale et en toute confidentialité.
 compare-shared-its-easy-to-switch = Une transition fluide
 compare-shared-since-we-dont-have-to-make = Nous n’avons pas d’actionnaires à satisfaire. Pour nous, c’est <strong>votre confort d’utilisation et votre vie privée qui priment</strong>.

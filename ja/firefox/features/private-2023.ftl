@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/private/
+### URL: https://www-dev.springfield.moz.works/features/private/
 
 features-private-is-firefox-a-private-browser = { -brand-name-firefox } はプライバシーを守るブラウザーですか？
 
@@ -10,7 +10,7 @@ features-private-is-firefox-a-private-browser = { -brand-name-firefox } はプ�
 features-private-were-focused-on-your-right-to = 私たちはあなたのプライバシーの権利に重点を置いています。ユーザーのデータ、ウェブ上の活動、オンライン生活は、{ -brand-name-firefox } が保護します。
 
 # Variables:
-#   $url (url) = link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) = link to https://www.firefox.com/features/private-browsing/
 features-private-yes-firefox-protects-your = はい、{ -brand-name-firefox } は、<a href="{ $url }">プライベートブラウジング</a>などの機能でプライバシーを保護します。自宅のコンピューターや { -brand-name-ipad } など、他の人と共有しているデバイスを使用している場合でも、閲覧履歴とパスワードを知られることがありません。
 
 # Variables:
@@ -21,7 +21,7 @@ features-private-sidenote-we-are-not-big-tech = <em>補足:</em> Mozilla は大�
 features-private-what-information-does-firefox = { -brand-name-firefox } が収集するデータには何がある？
 
 # Variables:
-#   $url (url) = link to https://www.mozilla.org/firefox/privacy/
+#   $url (url) = link to https://www.mozilla.org/privacy/
 features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } ({ -brand-name-firefox } の開発元) は、プライバシーを<strong>非常に</strong>重視しています。すべての { -brand-name-firefox } 製品では、<a href="{ $url }">個人データに関する約束</a>を守っています。それは、収集する個人データは最小限にすること、安全に保護すること、秘密を作らないこと。
 
 # Variables:

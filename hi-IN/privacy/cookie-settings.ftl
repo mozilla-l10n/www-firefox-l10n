@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
+### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = कुकी सेटिंग
 cookie-settings-page-desc = इस पेज में उन अलग-अलग प्रकार की कुकीज़ के बारे में बताया गया है जिनका उपयोग { -brand-name-mozilla } द्वारा किया जाना संभव है, और कंट्रोल आपके हाथ में दिया जाता है कि आप { -brand-name-mozilla } को किस प्रकार का डेटा इकट्ठा करने की अनुमति देते हैं।

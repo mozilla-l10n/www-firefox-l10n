@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = ブラウザー史: 現代のブラウザーを生み出したせめぎ合い
 browser-history-the-browser-wars-underdogs-giants = ブラウザー戦争、弱者 vs 巨人、そして世界を変えた瞬間。ウェブブラウザーの歴史についてご覧ください。
@@ -66,4 +66,3 @@ browser-history-in-the-future-the-v2 = 将来、ウェブはハイパーテキ�
 
 browser-history-whatever-the-future = ウェブの未来がどうなるにしても、{ -brand-name-mozilla } と { -brand-name-firefox } はユーザーのために立ち続け、ウェブとその全てを体験するための強力なツールを提供します。ウェブはあらゆる人のためのものであり、誰もが自身のオンライン体験をコントロールできるようにしなければなりません。そのために Mozilla はユーザーのプライバシーを保護する { -brand-name-firefox } ツールを提供しており、広告主にユーザーデータを売却しないことを約束します。
 browser-history-resources = リソース
-browser-history-take-control-of = ブラウザーを制御する

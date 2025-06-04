@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/
 
 # HTML page title
 browsers-mobile-firefox-mobile-browsers-put = Les navigateurs mobiles { -brand-name-firefox } accordent la priorité à votre vie privée

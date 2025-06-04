@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
+### URL: https://www-dev.springfield.moz.works/features/picture-in-picture/
 
 # HTML page title
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Picture-in-Picture: Selesaikan lebih banyak hal dengan video pop-out
@@ -11,6 +11,7 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Pictu
 features-pip-got-things-to-do-and-things-to-watch = Ada yang harus dilakukan saat menonton sesuatu? Lakukan keduanya dengan menggunakan fitur Picture-in-Picture di { -brand-name-firefox }.
 
 features-pip-picture-in-picture = Gambar-dalam-Gambar
+
 features-pip-get-more-done-with-pop-out-videos = Selesaikan lebih banyak hal dengan video pop-out
 features-pip-got-things-to-do-do-both-with = Ada yang harus dilakukan saat menonton sesuatu? Lakukan keduanya dengan menggunakan fitur Picture-in-Picture di { -brand-name-firefox }. Fitur ini memungkinkan Anda mengeluarkan video dari halaman webnya dan menyematkannya ke layar Anda sehingga Anda dapat terus menonton saat mengakses halaman, tab, dan aplikasi lain.
 features-pip-heres-how-it-works = Begini cara kerjanya:

@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
+### URL: https://www-dev.springfield.moz.works/features/picture-in-picture/
 
 # HTML page title
 features-pip-firefox-picture-in-picture-get-more = الفيديوهات المعترِضة في متصفح { -brand-name-firefox }: أَنْجِزْ المزيد من أعمالك وأنت تشاهد فيديوهات منبثقة
@@ -11,6 +11,7 @@ features-pip-firefox-picture-in-picture-get-more = الفيديوهات المع
 features-pip-got-things-to-do-and-things-to-watch = هل تريد إنجاز بعض المهام ومُشاهدة بعض الفيديوهات؟ افعل كِلا الأمرين باستخدام ميزة الفيديوهات صورة-في-صورة (PiP) في مُتصفح { -brand-name-firefox }.
 
 features-pip-picture-in-picture = صورة-في-صورة (PiP)
+
 features-pip-get-more-done-with-pop-out-videos = أَنْجِزْ المزيد من المهام وأنت تُشاهد الفيديوهات المنبثقة
 features-pip-got-things-to-do-do-both-with = هل تريد إنجاز بعض المهام ومُشاهدة بعض الفيديوهات؟ افعل كِلا الأمرين باستخدام ميزة الفيديوهات صورة-في-صورة (PiP) في مُتصفح { -brand-name-firefox }. إذ تتيح لك هذه الميزة فصل فيديو من صفحة الويب الخاصة به وتثبيته على شاشتك لتتمكن من مُتابعة المشاهدة وأنت تستخدم صفحات وعلامات تبويب وتطبيقات أخرى.
 features-pip-heres-how-it-works = إليك خطوات تشغيلها:

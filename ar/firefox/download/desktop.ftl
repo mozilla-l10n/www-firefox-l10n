@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -24,7 +24,7 @@ firefox-desktop-download-get-the-browser = احصل على المُتصفح ال
 
 firefox-desktop-download-fast-reliable-private = سرعة واعتمادية وخصوصية — للاستمتاع براحة البال على الإنترنت.
 
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-no-shady = لا نتبنى سياسات خصوصية مشبوهة أو أساليب مُلتوية للمُعلِنين. كما يَتميز المُتصفح بسرعته الفائقة وعدم بيع بياناتك أو التفريط فيها.
 
 firefox-desktop-download-download-options = خيارات التنزيل واللغات الأخرى
@@ -33,7 +33,7 @@ firefox-desktop-download-browser-support = دعم { -brand-name-firefox-browser 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = افعل كل ما يَحلو لك على الإنترنت.<br> فقد وفّر { -brand-name-firefox-browser } لك كل ما <strong>تحتاج</strong>.
 
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = افعل كل ما يحلو لك على الإنترنت. فمُتصفح { -brand-name-firefox-browser } <strong>لا</strong> يراقبك.
 
 firefox-desktop-download-we-block-the-ad = نحجب المتعقِّبات الإعلانية، لتتمكن من تصفح الإنترنت على نحو أسرع.
@@ -128,9 +128,9 @@ firefox-desktop-download-firefox-was-created = طوَّرت شركة <a { $attrs
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = مع انتشار الإنترنت وتغيُّر أنماطه، يُواصل متصفح { -brand-name-firefox } التركيز على حقك في الخصوصية — وهذا هو شغلنا الشاغل دائمًا. تعرّف على المزيد عن ممارسات البيانات المتبعة لدينا في <a { $attrs }>إشعار الخصوصية</a>.
 
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = رغم انتشار الإنترنت وتغيُّر أنماطه، يُمضي متصفح { -brand-name-firefox } في التركيز على حقك في الخصوصية - وهذا ما نُطلق عليه <a { $attrs }>وعد البيانات الشخصية</a>: نجمع بيانات شخصية أقل. نُحافظ على البيانات الشخصية. لا نُخفي عنك أسرارًا. فبياناتك ونشاطاتك وأوقاتك على الإنترنت محمية حين تستخدم { -brand-name-firefox }.
 
 # Variables:
@@ -149,7 +149,7 @@ firefox-desktop-download-firefox-automatically = يَعمل مُتصفح { -bran
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = هل لديك أسئلة؟ يمكنك الحصول على الجواب من <a { $attrs }>دعم { -brand-name-mozilla }</a>.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/thanks/
 
 firefox-desktop-download-almost-there = على وشك الانتهاء!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -173,7 +173,7 @@ firefox-desktop-download-visit-support-for-more = تفضل بزيارة الدع
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = التنزيل سيبدأ تلقائيًا. ألم ينجح ذلك؟ <a id="{ $id }" href="{ $fallback_url }">حاول التنزيل مرة أخرى.</a>
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } أكثر من مُجرد مُتصفح
@@ -181,5 +181,5 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } أكثر م
 firefox-desktop-download-interrupted = انقطعت عملية التنزيل. ولكن لم يُفقد كل شيء.
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = قد لا يفي نظامك بمُتطلبات { -brand-name-firefox }، ولكن يُمكنك تجربة أحد <a href="{ $url }">هذه الإصدارات</a>.

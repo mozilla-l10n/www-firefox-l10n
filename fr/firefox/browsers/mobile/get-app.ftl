@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Télécharger le { -brand-name-firefox-browser } pour mobile sur { -brand-name-ios } et { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = Le { -brand-name-firefox-browser } bloque plus de 2 000 traqueurs par défaut, vous offrant ainsi le respect que vous méritez et toute la rapidité dont vous avez besoin sur un navigateur mobile.

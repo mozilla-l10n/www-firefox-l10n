@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
+### URL: https://www-dev.springfield.moz.works/compare/chrome/
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } lwn Google Chrome
@@ -11,8 +11,8 @@ compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } lwn Google Chr
 compare-chome-read-our-comparison = Baca perbandingan di antara pelayar { -brand-name-firefox } dan Chrome berkaitan ciri-ciri, privasi dan tahap mesra pengguna.
 
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
-# $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
+# $adblocker (url) - link to https://www.firefox.com/features/adblocker/
 compare-chrome-firefoxs-default-privacy-settings = Tetapan privasi lalai bagi { -brand-name-firefox } adalah lebih mantap berbanding Chrome – selain kami juga ada ciri-ciri tambahan untuk mencegah laman web daripada menjejak anda seperti <a { $fingerprint }>perlindungan cap jari</a>, selain penambahan kepada <a { $adblocker }>penyekat iklan</a>.
 compare-chrome-we-block-trackers-by-default = Secara lalainya, kami memang menyekat penjejak. Tapi sebaliknya bagi Chrome.
 compare-chrome-in-fact-by-default-chrome-monitors = Malah, secara lalai, Chrome memantau pelayaran dan aktiviti anda agar mereka dapat mengenal pasti "topik iklan" untuk menghantar lebih banyak iklan bersasar kepada anda. Anda boleh menyekat sebanyak tiga topik tetapi anda tidak dapat menyekat mereka mengenal pasti lain-lain topik iklan untuk anda.

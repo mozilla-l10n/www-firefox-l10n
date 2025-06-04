@@ -16,8 +16,6 @@ newsletter-form-select-country-or-region = Pilih negara atau wilayah
 newsletter-form-select-language = Pilih bahasa
 newsletter-form-your-email-here = E-MEL ANDA DI SINI
 newsletter-form-get-firefox-news = Dapatkan berita { -brand-name-firefox }
-newsletter-form-join-the-community = Sertai komuniti
-newsletter-form-sign-up-to-receive = Berdaftarlah untuk menerima kemas kini bulanan daripada { -brand-name-firefox } serta trend internet yang membentuk kehidupan dalam talian anda.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
@@ -30,18 +28,13 @@ newsletter-form-we-will-only-send-firefox-v2 = Kami hanya akan menghantar anda m
 newsletter-form-if-you-havent-previously = Jika anda belum mengesahkan langganan buletin { -brand-name-mozilla }, anda mungkin perlu melakukannya. Sila semak peti e-mel atau penapis spam anda untuk e-mel daripada kami.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Anda
 newsletter-form-get-firefox-tips = Dapatkan { -brand-name-firefox } petua, tip, berita dan banyak lagi
-newsletter-form-get-mozilla-updates = Dapatkan kemas kini { -brand-name-mozilla }
 newsletter-form-available-languages = Bahasa yang Ada
 newsletter-form-select-country = Pilih negara
 newsletter-form-sign-me-up = Daftarkan saya
 newsletter-form-sign-up-now = Daftar sekarang
 newsletter-form-thanks = Terima kasih!
-newsletter-form-leave-this-field-empty = Biarkan medan ini kosong.
 newsletter-form-yes = Ya
 newsletter-form-no = Tidak
-
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = Borang melanggan buletin
 
 multi-newsletter-form-checkboxes-legend = Saya inginkan maklumat tentang:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }

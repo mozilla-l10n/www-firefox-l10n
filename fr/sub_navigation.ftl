@@ -25,6 +25,3 @@ sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly } et { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-nightly } et { -brand-name-beta } pour { -brand-name-android }
 sub-navigation-ios-test-flight = { -brand-name-test-flight } { -brand-name-ios }
-sub-navigation-what-is-a-browser = Qu’est-ce qu’un navigateur web ?
-sub-navigation-browsing-history = Historique de navigation
-sub-navigation-browser-history = L’histoire des navigateurs web

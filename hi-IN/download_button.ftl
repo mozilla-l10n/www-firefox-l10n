@@ -8,6 +8,7 @@ download-button-firefox-aurora = { -brand-name-firefox-aurora }
 download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span> { -brand-name-developer-edition }
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-systems-languages = सिस्टम और भाषाएँ
+
 download-button-google-play = { -brand-name-google-play } से इसे पाएँ
 download-button-download-app-store = { -brand-name-app-store } से डाउनलोड करें
 download-button-download-firefox = { -brand-name-firefox } डाउनलोड करें

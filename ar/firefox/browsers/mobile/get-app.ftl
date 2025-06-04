@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = تنزيل { -brand-name-firefox-browser } على هاتفك الذي يعمل بنظام { -brand-name-ios } و{ -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = يحظر { -brand-name-firefox-browser } للجوّال أكثر من 2000 أداة تتبّع ما يمنحك الخصوصية التي تستحقها والسرعة التي تحتاجها في مُتصفح جوّال خاص.

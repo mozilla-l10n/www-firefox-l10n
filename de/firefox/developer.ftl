@@ -2,9 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/channel/desktop/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = Bei der { -brand-name-firefox-developer-edition } für Dich drin: Top-Speed, richtungsweisende Developer Tools und starke Features wie CSS Grid Support und Framework Debugging.
@@ -67,35 +65,8 @@ firefox-developer-fonts-panel = Schriftart-Panel
 firefox-developer-the-new-fonts-panel = Mit dem neuen Schriftart-Panel in den { -brand-name-firefox-devtools } haben Entwickler schnellen Zugriff auf alle Informationen zu den von einem Element verwendeten Schriftarten. Dazu zählen auch wichtige Informationen wie die Quelle, das Gewicht und der Stil der Schriftart und mehr.
 firefox-developer-firefox-developer-edition-sends = Die { -brand-name-firefox-developer-edition } sendet automatisch Feedback an { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = { -brand-name-firefox } für Developer. Jetzt herunterladen.
-firefox-developer-welcome-to-firefox-developer-edition = Willkommen bei { -brand-name-firefox-developer-edition }
 
 firefox-developer-made-for-developers = Der Browser für Entwickler
 firefox-developer-all-the-latest-v2 = Die neuesten Entwicklerwerkzeuge als Beta-Version, plus Funktionen wie der mehrzeilige Konsoleneditor und WebSocket-Inspektor.
 firefox-developer-a-separate-profile = Ein <strong>getrenntes Profil mit eigenem Pfad</strong>, damit die Version neben dem Release oder { -brand-name-firefox } { -brand-name-beta } genutzt werden kann.
 firefox-developer-preferences-tailored = Einstellungen, <strong>die an Web-Entwickler angepasst wurden</strong>: Browser- und Fern-Debugging sind standardmäßig aktiviert, ebenso wie das dunkle Theme und die Schaltfläche für die Entwicker-Symbolleiste.
-firefox-developer-congrats-you-now-have-latest-v2 = Du hast die neueste Version von { -brand-name-firefox-developer-edition }.
-
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Sieh dir die <a { $attrs }>Versionshinweise</a> an (nur auf Englisch) und erfahre, was es Neues gibt.
-firefox-developer-developer-tools-user = DevTools User Docs
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Informationen für Entwickler von Entwicklern
-firefox-developer-mdn-playground = Spielplatz
-firefox-developer-mdn-write-test-and-share = Schreibe, teste und teile deinen Code. Dies ist dein Spielplatz – hier kannst du lernen und deine Arbeit mit der Welt teilen.
-firefox-developer-mdn-blog = Der { -brand-name-mdn } Blog
-firefox-developer-mdn-unlock-the-world = Schalte mit dem { -brand-name-mdn }-Blog die Welt der Webentwicklung frei – der Hub für Profi-Insights, die neuesten Webstandards und Coding-Tipps.
-firefox-developer-mdn-updates = Updates
-firefox-developer-mdn-the-web-doesnt-have = Das Web hat kein Änderungsprotokoll, aber { -brand-name-mdn } kann helfen. Du kannst basierend auf den Browsern oder der Tech-Kategorie, für die du dich interessierst (JavaScript, CSS usw.), personalisieren und nach Kompatibilität filtern.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn } Referenzen
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } ist ein gemeinschaftliches Open-Source-Projekt, das digitale Plattformtechnologien wie CSS, HTML, JavaScript und Web APIs dokumentiert.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } Curriculum
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Ein strukturierter Leitfaden mit grundlegenden Skills und Praktiken für erfolgreiche Frontend-Entwickler sowie empfohlenen Lernressourcen.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Unterstütze { -brand-name-mdn } und gestalte es dir mit Sammlungen, Benachrichtigungen und Playgrounds ganz nach deinem Geschmack.

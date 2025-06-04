@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = Comment cesser de voir trop de publicités et empêcher les entreprises de vous pister en ligne. Un guide du blocage de publicité par le navigateur web { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Le bloqueur de publicité, une arme secrète contre les publicités pénibles.
@@ -11,7 +11,7 @@ features-adblocker-the-average-person-sees = Une personne ordinaire voit en moye
 features-adblocker-an-ad-blocker-is-a-piece = Un bloqueur de publicité est un logiciel qui peut être utilisé pour bloquer des publicités et fonctionne de deux manières. La première consiste à bloquer le signal du serveur de l’annonceur afin que la publicité ne soit jamais affichée sur votre page. La seconde consiste à bloquer les sections d’un site web qui pourraient être des publicités.
 
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Ces publicités peuvent être des vidéos agressives, des publicités qui vous suivent sur le Web, des traqueurs, des cookies tiers, etc. Pour utiliser un bloqueur de publicité, vous pouvez rechercher des modules complémentaires disponibles dans votre navigateur. <a href="{ $firefox }">{ -brand-name-firefox }</a>, par exemple, possède <a href="{ $addons }">cette liste des modules approuvés pour le blocage des publicités</a>. Cliquez sur cette liste (ou sur les bloqueurs de publicité approuvés pour votre navigateur) et voyez lequel correspond à vos besoins.
 
@@ -33,8 +33,8 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> est également un excellent choix, permettant de bloquer les publicités, mais aussi de bénéficier de fonctionnalités anti-pistage.
 
 # Variables:
-#   $attrs1 (string) - link to /firefox/new/ with other attributes
-#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
+#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Ces extensions fonctionnent parfaitement sur <a { $attrs1 }>{ -brand-name-firefox } pour ordinateur</a> et <a { $attrs2 }>Android</a>.
 
 features-adblocker-create-a-tracker-free = Créer un espace de navigation sans pistage avec le blocage de contenu
@@ -50,7 +50,7 @@ features-adblocker-to-start-click-on-the-v2 = Pour commencer, cliquez sur le bou
 features-adblocker-go-easy-with-standard = Allez au plus simple, choisissez le mode standard
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
 features-adblocker-if-ads-dont-bother-you = Si les annonces ne vous ennuient pas et que les traqueurs et les cookies tiers ne vous dérangent pas, le paramètre standard devrait être suffisant pour vous. Pour vous débarrasser des traqueurs en mode standard, utilisez une fenêtre de <a href="{ $url }">navigation privée</a>.
 
 features-adblocker-get-tough-with-strict = Durcissez le ton avec le mode strict
@@ -66,9 +66,10 @@ features-adblocker-take-a-bite-out-of-cookies = Vous prendrez bien un cookie ?
 features-adblocker-cookies-are-sent-by-websites = Les <a href="{ $url }">cookies</a> vous sont envoyés par les sites que vous visitez. Ils sont actifs dans votre ordinateur et surveillent votre activité sur le site. Quand une compagnie aérienne vous affiche des propositions différentes parce que vous avez déjà cherché un billet d’avion ce jour-là, c’est à cause d’un cookie.
 
 features-adblocker-in-firefox-you-can-block = Dans { -brand-name-firefox }, vous pouvez bloquer tous les cookies tiers ou seulement ceux qui sont implantés par des traqueurs. Soyez bien conscients que bloquer tous les cookies peut empêcher l’accès à certains sites.
+
 features-adblocker-speed-up-thanks-to-ad = Navigation accélérée grâce aux bloqueurs de pub
 features-adblocker-in-some-cases-an-ad-blocker = Dans certains cas, un bloqueur de publicités peut aider votre navigateur à aller plus vite. Lorsqu’une annonce se charge, elle peut ralentir un site web. En outre, vous irez moins vite pour trouver ce que vous cherchez si vous passez votre temps à fermer annonce sur annonce.
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = Si vous voulez en savoir plus sur le blocage des publicités, des centaines d’extensions sont disponibles pour { -brand-name-firefox } et d’autres navigateurs. Si vous voulez essayer les bloqueurs que { -brand-name-firefox } utilise, <a href="{ $url }">cliquez ici pour télécharger</a> un navigateur qui fait passer la confidentialité de ses utilisateurs et utilisatrices avant tout le reste.

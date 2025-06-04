@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = L’histoire des navigateurs : des luttes de pouvoirs épiques qui nous ont apporté les navigateurs modernes
 browser-history-the-browser-wars-underdogs-giants = Les guerres des navigateurs, les outsiders contre les géants et les moments qui ont changé le monde. Découvrez l’histoire du navigateur web.
@@ -64,6 +64,4 @@ browser-history-in-the-future-the = À l’avenir, le Web va s’éloigner proba
 
 browser-history-in-the-future-the-v2 = À l’avenir, le Web va probablement s’éloigner de ses racines hypertextes pour devenir un vaste océan d’expériences interactives. La réalité virtuelle pointe à l’horizon depuis des décennies (au moins depuis la sortie de Lawnmower Man en 1992 et du Virtual Boy de Nintendo en 1995), mais le Web pourrait enfin l’offrir aux masses. { -brand-name-firefox } prend désormais en charge WebVR et A-Frame, qui permettent aux développeurs de créer rapidement et facilement des sites web de réalité virtuelle. La plupart des appareils mobiles modernes prennent en charge WebVR et peuvent facilement être utilisés comme casques avec de simples étuis en carton. Un Web en réalité virtuelle en 3D comme celui imaginé par l’auteur de science-fiction Neal Stephenson est peut-être à portée de main. Si tel est le cas, le navigateur web lui-même pourrait disparaître complètement et se transformer en une véritable fenêtre sur un autre monde.
 
-browser-history-whatever-the-future = Quoi que nous réserve l’avenir du Web, { -brand-name-mozilla } et { -brand-name-firefox } seront là pour les utilisateurs, s’assurant qu’ils disposent d’outils puissants pour profiter pleinement du Web et de tout ce qu’il a à offrir. Le Web est à tout le monde, et tout le monde devrait pouvoir contrôler son expérience en ligne. C’est la raison pour laquelle nous dotons { -brand-name-firefox } d’outils destinés à protéger la vie privée des utilisateurs et que nous ne vendons jamais de données aux annonceurs publicitaires.
 browser-history-resources = Ressources
-browser-history-take-control-of = Prenez le contrôle de votre navigateur.

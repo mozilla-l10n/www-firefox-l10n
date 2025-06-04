@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
 # page title
 bookmark-manager-bookmark-manager = Pengurus tandabuku
@@ -11,10 +11,11 @@ bookmark-manager-bookmark-manager = Pengurus tandabuku
 bookmark-manager-organize-your-bookmarks-with = Susun penanda buku dengan folder dan tag.
 
 # Variables:
-#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+#   $sync (url) - link to https://www.firefox.com/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = Penanda buku adalah pautan yang anda simpan di dalam pelayar agar anda mampu pergi ke laman kegemaran dengan lebih mudah. { -brand-name-firefox } ada ciri pengurusan penanda buku agar anda boleh menyusun, mencari, mengemas kini dan <a { $sync }>menyelaras semua pautan yang anda simpan di kesemua peranti sendiri</a>.
 bookmark-manager-organize-your-boomarks-into = Susun penanda buku anda di dalam folder yang mudah dicari
 bookmark-manager-collect-your-bookmarks-in-folders = Simpan penanda buku anda di dalam folder dan tagkan agar lebih mudah dicari. Anda juga boleh menyusun penanda buku untuk menemui apa yang anda cari dengan lebih tepat.
+
 bookmark-manager-easily-import-bookmarks = Import penanda buku dengan mudah
 bookmark-manager-you-can-import-your-bookmarks = Anda boleh mengimport penanda buku anda dari Chrome, Safari atau Edge dengan fungsi pengimport { -brand-name-firefox }. Hanya klik Penanda Buku > Uruskan Penanda Buku dan pilih "Import dan Backup".
 

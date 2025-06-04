@@ -2,9 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/channel/desktop/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } は最先端のデベロッパーツールや、CSS Grid 対応・フレームワークデバグなど、最新機能を備えた超高速ブラウザー
@@ -67,35 +65,8 @@ firefox-developer-fonts-panel = フォントパネル
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools } の新フォントパネルを使用して、要素で使用されているフォントに関して必要なすべての情報にすばやくアクセスできます。また、フォントのソース、太さ、スタイルなど、重宝する情報も含まれています。
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } は { -brand-name-mozilla } にフィードバックを自動送信します。
 firefox-developer-download-the-firefox-browser = デベロッパー専用に構築されたブラウザー、{ -brand-name-firefox } をダウンロード
-firefox-developer-welcome-to-firefox-developer-edition = ようこそ { -brand-name-firefox-developer-edition } へ
 
 firefox-developer-made-for-developers = デベロッパー専用に構築されたブラウザー
 firefox-developer-all-the-latest-v2 = Multi-line Console Editor や WebSocket Inspector 等の機能に加え、すべての最新ベータ版デベロッパーツール。
 firefox-developer-a-separate-profile = <strong>個別のプロフィールとパス</strong>で、リリースや { -brand-name-beta } { -brand-name-firefox } との同時実行が容易にできます。
 firefox-developer-preferences-tailored = <strong>ウェブデベロッパーに合わせてカスタマイズされた</strong>設定: ブラウザーとリモートデバッグのほか、ダークテーマやデベロッパーツールバーボタンが既定で有効になっています。
-firefox-developer-congrats-you-now-have-latest-v2 = { -brand-name-firefox-developer-edition }  の最新バージョンがインストールされました。
-
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = <a { $attrs }>リリースノート</a> (英語のみ) で更新内容をご確認ください。
-firefox-developer-developer-tools-user = デベロッパーツールのユーザードキュメント
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = デベロッパーによるデベロッパーのためのリソース
-firefox-developer-mdn-playground = Playground
-firefox-developer-mdn-write-test-and-share = コードを書き、テストし、共有しましょう。学び、あなたの作品を世界と共有するためのプレイグラウンドです。
-firefox-developer-mdn-blog = { -brand-name-mdn } のブログ
-firefox-developer-mdn-unlock-the-world = { -brand-name-mdn } ブログでウェブ開発の世界を知ってください。エキスパートの洞察や最新のウェブのスタンダード、コーディングのヒントが満載です。
-firefox-developer-mdn-updates = アップデート
-firefox-developer-mdn-the-web-doesnt-have = ウェブには変更ログはありませんが、{ -brand-name-mdn } が力になります。ブラウザーのほか、JavaScript や CSS など関心のある技術カテゴリをもとに、互換性の変更をパーソナライズして絞り込むことができます。
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn } のリファレンス
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } は、CSS、HTML、JavaScript、Web API などのウェブプラットフォーム技術を記録するオープンソースの共同プロジェクトです。
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } のカリキュラム
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = フロントエンドデベロッパーとして成功するために不可欠なスキルと実践方法を体系化したガイドと、推奨される学習リソースです。
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = { -brand-name-mdn } をサポートし、コレクション、通知、プレイグラウンドで自在に活用しましょう。

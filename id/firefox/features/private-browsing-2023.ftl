@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/private-browsing
+### URL: https://www-dev.springfield.moz.works/features/private-browsing/
 
 features-private-browsing-private-browsing-mode = Mode Penjelajahan Pribadi
 
@@ -22,5 +22,5 @@ features-private-browsing-what-private-browsing-doesnt-do = Yang tidak dilakukan
 features-private-browsing-private-browsing-mode-will-not = Mode penjelajahan pribadi tidak akan menghapus markah baru yang Anda buat saat berada di dalam jendela penjelajahan pribadi, dan juga tidak akan memberikan perlindungan terhadap malware atau virus. Hal ini juga tidak menghalangi situs web yang Anda kunjungi untuk melihat lokasi fisik Anda, atau menghentikan penyedia layanan internet untuk mencatat aktivitas daring Anda. Untuk itu, Anda butuh <a href="{ $vpn }">VPN yang tepercaya</a>.
 
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Bandingkan penjelajahan pribadi { -brand-name-firefox } dengan <a href="{ $chrome }">mode incognito Chrome</a>.

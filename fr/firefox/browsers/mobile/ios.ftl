@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/ios/
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } et { -brand-name-ipad })
@@ -18,7 +18,7 @@ mobile-ios-scan-alt-text = Scanner le QR code pour installer { -brand-name-firef
 mobile-ios-make-firefox-your = Faites de { -brand-name-firefox } votre navigateur par défaut
 mobile-ios-now-iphone-and = Désormais, les utilisateurs et utilisatrices d’{ -brand-name-iphone } et { -brand-name-ipad } peuvent choisir leur propre navigateur par défaut. Cela signifie que vous n’êtes plus obligé·e d’utiliser { -brand-name-safari } et que votre navigateur mobile peut rester synchronisé avec votre navigateur de bureau préféré. De plus, lorsque vous définissez { -brand-name-firefox } comme navigateur par défaut, vous soutenez une entreprise high-tech indépendante. Enfin, { -brand-name-firefox } est également le seul navigateur majeur soutenu par une organisation à but non lucratif.
 
-mobile-ios-fast-private-secure = Rapide. Privé. Sécurisé
+mobile-ios-fast-private-secure = Rapide. Confidentiel. Sécurisé
 mobile-ios-keep-whats-personal = Protégez votre vie privée sans sacrifier la rapidité. De plus, les fonctionnalités de navigation intelligente vous permettent d’emporter votre vie privée, vos mots de passe et vos marque-pages avec vous en toute sécurité où que vous alliez, ce qui facilite votre vie en ligne.
 
 mobile-ios-stay-private-online = Restez privé en ligne

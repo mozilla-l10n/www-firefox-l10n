@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/password-manager
+### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
 password-manager-free-password-manager = Pengurus kata laluan percuma
@@ -13,7 +13,7 @@ password-manager-firefox-password-manager-saves-all = Pengurus Kata Laluan { -br
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } menyimpan nama pengguna dan kata laluan anda untuk mengakses laman web, mengisi borang secara automatik untuk kesekian kalinya dan membenarkan anda mengurus log masuk tersimpan dengan ciri pengurusan kata laluan yang terbina dalam.
 
 # Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+#   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Dengan <a { $fxa }>{ -brand-name-mozilla-account } percuma</a> anda boleh menyelaraskan kata laluan anda dengan selamat di kesemua peranti. Anda juga mempunyai akses kepada lain-lain produk { -brand-name-mozilla } yang menghormati privasi anda.
 
 password-manager-password-autofill-for-easy-logins = Log masuk mudah dengan kata laluan automatik

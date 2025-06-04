@@ -8,6 +8,7 @@ download-button-firefox-aurora = { -brand-name-firefox-aurora }
 download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span> { -brand-name-developer-edition }
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-systems-languages = Sistem &amp; Bahasa
+
 download-button-google-play = Dapatkan di { -brand-name-google-play }
 download-button-download-app-store = Unduh di { -brand-name-app-store }
 download-button-download-firefox = Unduh { -brand-name-firefox }

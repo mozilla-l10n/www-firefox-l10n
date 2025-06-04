@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/more/
+### URL: https://www-dev.springfield.moz.works/more/
 
 firefox-products-are = صُممت منتجات { -brand-name-firefox } لحماية خصوصيتك
 learn-more-about-firefox = معرفة المزيد عن { -brand-name-firefox }، تاريخه وميزاته، ومهمته
@@ -15,14 +15,8 @@ what-is-a = ما المقصود بمتصفح الويب؟
 a-web-browser = يَصطحبك متصفح الويب إلى أي مكان على الإنترنت، مما يُتيح لك رؤية النصوص والصور ومقاطع الفيديو من أي مكان في العالم.
 update-your-browser = حدّث متصفحك بسرعة، وسلامة وأمان { -brand-name-firefox }.
 the-firefox-browser = تم بناء { -brand-name-firefox } لحماية خصوصيتك أينما ذهبت — فهو أسرع طريقك لتخليصك من عمليات التحميل البطيئة، والإعلانات السيئة، وأدوات التتبع.
-firefox-is-more = { -brand-name-firefox } هو أكثر من مجرد متصفّح
-get-the-browsers = احصل على متصفّح يضع خصوصيتك قبل أي شيء — وهو دائم الالتزام بذلك
-choose-which-firefox = اختر إصدار { -brand-name-firefox-browser } الذي تريد تنزيله بلُغتك
 firefox-more-firefox-chromebook = متصفح { -brand-name-firefox-browser } لنظام تشغيل { -brand-name-chromebook }
 firefox-more-while-on-chromebook = بينما يأتي { -brand-name-chromebook } مثبتًا عليه إصدار { -brand-name-chrome }، فإن تنزيل واستخدام { -brand-name-firefox } أثناء التنقل يوفر لك عدة ميزات.
-firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
-firefox-more-quantum-was-revolution = كان { -brand-name-firefox-quantum } بمثابة ثورة في تطور { -brand-name-firefox }. فقد تم إطلاقه في عام 2017، ليكون مُتصفحًا جديدًا وسريعًا يتحسن باستمرار. { -brand-name-firefox-quantum } هو { -brand-name-firefox-browser }.
-we-believe-everyone = نعتقد أنه يجب أن يُتاح للجميع إمكانية الوصول إلى الإنترنت — ولهذا نوفر { -brand-name-firefox-browser } بأكثر من 90 لغة بمساعدة متطوعين متخصصين من جميع أنحاء العالم.
 firefox-fights-for = متصفّ { -brand-name-firefox } يحارب بالوكالة عنك على { -brand-name-windows }
 easy-migration-of = سهولة ترحيل التفضيلات والإشارات المرجعية عند تنزيل { -brand-name-firefox } لـ { -brand-name-windows }.
 firefox-respects-your = يحترم { -brand-name-firefox } خصوصيتك على { -brand-name-mac-short }.
@@ -39,5 +33,3 @@ firefox-more-fingerprinter-blocking = حجب بصمات الأصابع
 firefox-more-fingerprinting-is-a = البصمات هي نوع من التتبع عبر الإنترنت وهو أكثر تغلغلًا من التتبع العادي المستند إلى ملفات تعريف الارتباط — ولهذا السبب يعمل { -brand-name-firefox-browser } على حظرها.
 firefox-more-translate-the-web = ترجمة محتوى الويب
 firefox-more-translate-more-than = ترجم أكثر من 100 لغة إلى لغتك مباشرة باستخدام { -brand-name-firefox-browser } - أسهل من ذي قبل.
-firefox-more-avoid-misinformation-heading = تجنّب المعلومات المغلوطة عبر الإنترنت – { -brand-name-firefox } هنا لمساعدتك.
-firefox-more-avoid-misinformation-desc = راجع التلميحات لرؤية معلومات مغلوطة أقل والتركيز على ما هو مُهم بالنسبة لك.

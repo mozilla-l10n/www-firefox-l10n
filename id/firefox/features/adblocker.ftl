@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = Cara berhenti melihat terlalu banyak iklan dan mencegah perusahaan agar tidak mengikuti Anda saat daring. Panduan pemblokir iklan dari peramban web { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Pemblokir iklan – senjata rahasia melawan iklan yang mengganggu.
@@ -11,7 +11,7 @@ features-adblocker-the-average-person-sees = Seseorang pada umumnya melihat rata
 features-adblocker-an-ad-blocker-is-a-piece = Pemblokir iklan adalah perangkat lunak yang dapat digunakan untuk memblokir iklan, dan mereka bekerja dengan dua cara. Yang pertama adalah dengan memblokir sinyal dari peladen pengiklan, sehingga iklan tidak akan muncul di halaman Anda. Yang kedua adalah dengan memblokir bagian-bagian situs web yang berisi iklan.
 
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Iklan ini mungkin berupa iklan video bersuara kencang, iklan yang mengikuti Anda di web, pelacak, kuki pihak ketiga, dan lainnya. Untuk menggunakan pemblokir iklan, Anda dapat mencari pengaya pemblokir iklan yang tersedia di peramban Anda. <a href="{ $firefox }">{ -brand-name-firefox }</a>, misalnya, memiliki <a href="{ $addons }">daftar pengaya pemblokir iklan yang disetujui</a>. Klik pada daftar ini (atau pemblokir iklan yang disetujui untuk peramban Anda) dan lihat mana yang sesuai dengan kebutuhan Anda.
 
@@ -33,8 +33,8 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> adalah pilihan yang bagus karena tidak hanya memblokir iklan, tetapi juga memiliki fitur anti-pelacakan tambahan.
 
 # Variables:
-#   $attrs1 (string) - link to /firefox/new/ with other attributes
-#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
+#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Ekstensi ini berfungsi dengan baik di <a { $attrs1 }>{ -brand-name-firefox } untuk desktop</a> dan <a { $attrs2 }>Android</a>.
 
 features-adblocker-create-a-tracker-free = Ciptakan zona bebas pelacak dengan Pemblokiran Konten
@@ -50,7 +50,7 @@ features-adblocker-to-start-click-on-the-v2 = Untuk memulai, klik perisai di seb
 features-adblocker-go-easy-with-standard = Mudah dengan mode Standar
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
 features-adblocker-if-ads-dont-bother-you = Jika iklan tidak mengganggu Anda dan Anda tidak keberatan diikuti oleh pelacak dan kuki pihak ketiga, setelan Standar tampaknya pas untuk Anda. Untuk mengusir pelacak di mode Standar, gunakan jendela <a href="{ $url }">Penjelajahan Pribadi</a>.
 
 features-adblocker-get-tough-with-strict = Tangguh dengan mode Ketat
@@ -66,9 +66,10 @@ features-adblocker-take-a-bite-out-of-cookies = Ambil sedikit kuki
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Kuki</a> dikirim oleh situs web yang Anda kunjungi. Mereka tinggal di komputer Anda dan memantau apa yang Anda lakukan di situs. Ketika sebuah maskapai menaikkan tarif Anda karena Anda telah melihat tiket pesawat sekali pada hari itu, itu adalah hasil karya kuki.
 
 features-adblocker-in-firefox-you-can-block = Di { -brand-name-firefox }, Anda dapat memblokir semua kuki pihak ketiga ataupun kuki yang dibawa oleh pelacak saja. Ketahuilah bahwa memblokir semua kuki dapat mengacaukan beberapa situs.
+
 features-adblocker-speed-up-thanks-to-ad = Semakin cepat berkat pemblokir iklan
 features-adblocker-in-some-cases-an-ad-blocker = Dalam beberapa kasus, pemblokir iklan dapat membantu peramban Anda berjalan lebih cepat. Ketika dimuat, iklan dapat memperlambat situs web. Pada saat yang sama, perlu waktu lebih lama untuk menemukan apa yang Anda cari jika Anda terlalu sibuk menutup iklan lainnya.
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = Jika Anda ingin mempelajari lebih lanjut tentang pemblokiran iklan, ada ratusan ekstensi pemblokir iklan yang tersedia di { -brand-name-firefox } dan peramban lainnya. Jika ingin mencoba pemblokir iklan yang digunakan { -brand-name-firefox }, <a href="{ $url }">klik di sini untuk mengunduh</a> peramban yang mengutamakan privasi.

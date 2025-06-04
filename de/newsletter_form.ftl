@@ -16,8 +16,6 @@ newsletter-form-select-country-or-region = Land oder Region auswählen
 newsletter-form-select-language = Sprache wählen
 newsletter-form-your-email-here = DEINE E-MAIL-ADRESSE
 newsletter-form-get-firefox-news = { -brand-name-firefox }. Der Newsletter. Das Abo. Bitte hier entlang.
-newsletter-form-join-the-community = Werde Mitglied der Community
-newsletter-form-sign-up-to-receive = Melde dich für monatliche Updates von { -brand-name-firefox } und den neuesten Internet-Trends an und gestalte dein Online-Leben.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
@@ -30,18 +28,13 @@ newsletter-form-we-will-only-send-firefox-v2 = Wir schicken dir nur Informatione
 newsletter-form-if-you-havent-previously = Wenn du bisher noch kein Abonnement eines { -brand-name-mozilla }-Newsletters bestätigt hast, musst du dies vielleicht jetzt tun. Schau bitte in deinem Posteingang oder deinem Spam-Filter nach einer E-Mail von uns.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + du
 newsletter-form-get-firefox-tips = Erfahre Tipps, Tricks, Neuigkeiten und mehr über { -brand-name-firefox }.
-newsletter-form-get-mozilla-updates = Erfahre Neuigkeiten von { -brand-name-mozilla }
 newsletter-form-available-languages = Verfügbare Sprachen
 newsletter-form-select-country = Land auswählen
 newsletter-form-sign-me-up = Abonnieren
 newsletter-form-sign-up-now = Jetzt abonnieren
 newsletter-form-thanks = Vielen Dank!
-newsletter-form-leave-this-field-empty = Lass dieses Feld leer.
 newsletter-form-yes = Ja
 newsletter-form-no = Nein
-
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = Newsletter-Anmeldeformular
 
 multi-newsletter-form-checkboxes-legend = Ich möchte Informationen über:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }

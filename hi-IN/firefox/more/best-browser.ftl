@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
+### URL: https://www-dev.springfield.moz.works/more/best-browser/
 
 best-browser-find-your-best-browser = गति, निजता और सुरक्षा के लिए अपना सर्वश्रेष्ठ ब्राउज़र खोजें।
 best-browser-so-many-browser-options = ब्राउज़रों के ढेर सारे विकल्प, लेकिन एक ही है जो कि आपकी ज़रूरतों के मुताबिक सबसे बेहतर काम करता है। बेहतरीन ब्राउज़र को गति और निजता सुरक्षा दोनों चीज़ें देनी चाहिए।
@@ -47,5 +47,3 @@ best-browser-choosing-the-best-browser = अपने लिए एक बेह
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = <a href="{ $firefox }">{ -brand-name-firefox }</a> में हमने एक ब्राउज़र को बनाने के लिए कड़ी मेहनत की है जो कि पहले की तुलना में दोगुना तेज़ है और उपयोगकर्ताओं को उनके ऑनलाइन जीवन के लिए और अधिक नियंत्रण देता है।
-
-best-browser-take-control-of-your = अपने ब्राउज़र पर नियंत्रण रखें।

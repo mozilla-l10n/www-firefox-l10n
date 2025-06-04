@@ -2,13 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
+### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = البصمات هي نوع من التتبع عبر الإنترنت وهو أكثر تغلغلًا من التتبع العادي المستند إلى ملفات تعريف الارتباط — ولهذا السبب يعمل { -brand-name-firefox-browser } على حظرها.
 
 features-fingerprinting-fingerprint-blocking = حجب تسجيل البصمات
 features-fingerprinting-firefox-blocks-fingerprinting = مُتصفح { -brand-name-firefox } يحجب بصمات المُتصفح
+
 features-fingerprinting-what-is-fingerprinting-body = ما المقصود ببصمات المتصفح؟
 features-fingerprinting-fingerprinting-is-a = إن تتبع بصمات المُتصفح نوع من أنواع التعقب الإلكتروني الأكثر تغلغلًا وخطورة من التعقب العادي المستند إلى ملفات تعريف الارتباط. وتتكون البصمة الرقمية عندما تُنشِئ شركة ما ملفًا شخصيًا فريدًا لك استنادًا إلى خصائص حاسوبك وبرامجك ووظائفك الإضافية وتفضيلاتك المثبَّتة عليه. ومن المُمكن أن تُستَغل أدواتك وإعداداتك، مثل الشاشة التي تستخدمها وأنواع الخطوط المثبتة على حاسوبك وحتى اختيارك لمُتصفح الويب، لإنشاء بصمة متصفح.
 features-fingerprinting-if-you-have = وإذا كنت تَستخدم جهاز كمبيوتر محمول أو جهاز كمبيوتر مكتبي أو هاتفًا ذكيًا يستخدمه كثير من الأشخاص، قد يكون من الصعب التعرّف على هذا الجهاز وتعقُّبه من خلال بصمة المُتصفح. ولكن كُلما زادت الميزات الإضافية وأنواع الخطوط والإعدادات الفريدة التي تستخدمها، زادت سُهولة الوصول إليك والتعرّف عليك. ويُمكن للشركات استخدام هذا المزيج الفريد من المعلومات لإنشاء بصمة مُتصفح لك. ومن ثمّ فإن مُتصفح { -brand-name-firefox } يَحجب البصمات المعروفة لِيظل بإمكانك استخدام المُلحقات والسمات والتخصيصات المُفضلة لديك دون أن تتعقبها الإعلانات.
@@ -31,5 +32,5 @@ features-fingerprinting-the-latest-firefox = إن الإصدار الأخير م
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = كما أن إعداد تعطيل تتبع بصمة المتصفح ليس بالأمر الصعب الذي يحتاج إلى بحث عميق للكشف عنه. ففي الإصدار الأخير من متصفح { -brand-name-firefox }، يُعتبر إعداد تعطيل تتبع بصمة المتصفح إعدادًا افتراضيًا قياسيًا. تفضل بزيارة <a { $url_protections }>لوحة معلومات حماية الخصوصية</a> لتتعرف على كيفية تعقُّبك في الخفاء، ولتكتشف التدابير التي يتخذها متصفح { -brand-name-firefox } لمنع هذا التعقُّب.
 
-# $url_download (string) - link to firefox/new
+# $url_download (string) - link to https://www.firefox.com/
 features-fingerprinting-you-probably-wouldnt = أنْ يتتبع شخصٌ ما تحركاتك في الحياة الواقعية ربما يكون أمر غير مُحبب لك. ولا يوجد سبب لقبول ذلك على الإنترنت. فإذا لم يكن مُتصفح { -brand-name-firefox } مُثبَّتًا على جهازك بالفعل، <a { $url_download }>نزِّله واحمِ نفسك</a> من البصمة الرقمية.

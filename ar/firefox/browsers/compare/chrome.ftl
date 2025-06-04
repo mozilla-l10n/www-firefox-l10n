@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
+### URL: https://www-dev.springfield.moz.works/compare/chrome/
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = مُتصفح { -brand-name-firefox } مقابل متصفح Google Chrome
@@ -11,8 +11,8 @@ compare-chrome-firefox-vs-google-chrome = مُتصفح { -brand-name-firefox } �
 compare-chome-read-our-comparison = اقرأ مقارنتنا بين متصفح { -brand-name-firefox } ومتصفح Chrome والتي تتضمن المزايا والخصوصية وسهولة الاستخدام.
 
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
-# $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
+# $adblocker (url) - link to https://www.firefox.com/features/adblocker/
 compare-chrome-firefoxs-default-privacy-settings = تُعتبر إعدادات الخصوصية الافتراضية في { -brand-name-firefox } أقوى بكثير من تلك الموجودة في Chrome– كما أن لدينا ميزات إضافية لمنع المواقع الإلكترونية من تعقّبك مثل <a { $fingerprint }>حجب مسجلات البصمات</a>، بالإضافة إلى اختيارك من الإضافات المُخصّصة <a { $adblocker }>لحظر الإعلانات</a>.
 compare-chrome-we-block-trackers-by-default = نحن نُغلق المتعقّبات تلقائيًا. علمًا بأن مُتصفح Chrome لا يفعل ذلك.
 compare-chrome-in-fact-by-default-chrome-monitors = في حقيقة الأمر، يَعمل Chrome تلقائيًا على مراقبة المواقع الإلكترونية التي تزورها وما تفعله بحيث يُمكنه التعرّف على "مواضيع الإعلانات" بحيث يَعرض عليك إعلانات أكثر استهدافًا. يُمكنك حظر ثلاثة مواضيع ولكن لا يُمكنك منعها من تحديد مواضيع الإعلانات الأخرى بالنسبة لك.

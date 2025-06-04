@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/404/
+### URL: https://www-dev.springfield.moz.works/404/
 
 not-found-page-not-found-page-page-not-found = 404: Seite nicht gefunden
 not-found-page-sorry-we-cant-find-that-page = Leider können wir diese Seite nicht finden
@@ -14,7 +14,7 @@ not-found-page-go-back = Zurück
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Erfahre mehr</a> über { -brand-name-mozilla }, die gemeinnützige Organisation hinter { -brand-name-firefox }.hr
 
 # Variables:
-#   $download (url) - link to https://www.mozilla.org/firefox/new/
+#   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Lade</a> den { -brand-name-firefox }-Browser für dein Mobilgerät oder deinen Desktop-PC herunter
 
 # Variables:

@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Werbeblocker
@@ -17,7 +17,7 @@ features-adblocker-in-todays-digital-world = In der heutigen digitalen Welt kann
 features-adblocker-ad-blockers-work = Sie haben zwei wichtige Funktionen: Zum einen verhindern sie, dass Inhalte, wie z. B. Anzeigen, geladen werden, und zum anderen blockieren sie die Teile der Websites, die diese Elemente hosten. Dazu gehören Videoanzeigen, personalisierte Anzeigen, die dir durch das Web folgen, und sogar Drittparteien-Tracker.
 
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = Die Nutzung von Werbeblockern ist einfach. Viele bewährte Optionen sind als Browser-Add-ons verfügbar. So ist es einfach, eine für dich passende Lösung zu finden. <a href="{ $firefox }">{ -brand-name-firefox }</a> beispielsweise bietet <a href="{ $addons }">eine Reihe zulässiger Erweiterungen</a> an, die deine Browsing-Experience verbessern und gleichzeitig deine Daten schützen.
 features-adblocker-finding-the-right = So findest du den passenden Werbeblocker
@@ -39,5 +39,5 @@ features-adblocker-why-use = Warum überhaupt einen Werbeblocker verwenden?
 features-adblocker-ad-blockers-do-more = Werbeblocker verwalten nicht nur Anzeigen – sie können deine Browsing-Geschwindigkeit und -Sicherheit verbessern, indem sie unnötige Inhalte reduzieren. Du kannst dir damit eine auf dich zugeschnittene, ablenkungsfreie Web-Experience gestalten und dich auf die Dinge konzentrieren, auf die es wirklich ankommt.
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-explore-hundreds = Erkunde Hunderte Add-ons mit Fokus auf Datenschutz, die für { -brand-name-firefox } verfügbar sind, und finde die Tools, die zu dir passen. <a href="{ $url }">Lade { -brand-name-firefox }</a> heute herunter, für ein Browser-Erlebnis, das für den Schutz deiner Daten und für maximale Leistung entwickelt wurde.

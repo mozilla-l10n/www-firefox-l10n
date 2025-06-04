@@ -1,0 +1,55 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+
+## Download links for stable versions of Firefox across multiple platforms.
+
+# Section title
+footer-download = Unduh
+footer-download-auto = Unduh { -brand-name-firefox }
+footer-windows = Windows
+footer-mac = Mac
+footer-ios = iOS
+footer-android = Android
+footer-linux = Linux
+
+## Download links for dev versions of Firefox (beta, nightly).
+
+footer-beta = { -brand-name-beta }
+footer-nightly = { -brand-name-nightly }
+
+## Download links for enterprise versions of Firefox.
+
+footer-enterprise = { -brand-name-enterprise }
+
+## Links to community groups.
+
+
+## Links to resources
+
+# Section title
+footer-resources = Sumber Daya
+footer-compare = Bandingkan
+footer-release-notes = Catatan Rilis
+footer-support = Dukungan
+footer-addons = Pengaya
+footer-blog = Blog
+
+## Links to social media
+
+footer-instagram = Instagram
+footer-youtube = YouTube
+footer-tiktok = TikTok
+
+## Legal links
+
+footer-websites-privacy-notice = Pemberitahuan Privasi Situs Web
+footer-community-participation-guidelines = Panduan Partisipasi Komunitas
+
+## Language Switcher
+
+footer-language = Bahasa
+footer-go = Buka
+
+footer-firefox = { -brand-name-firefox }

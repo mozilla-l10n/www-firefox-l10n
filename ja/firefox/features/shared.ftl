@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/
+### URL: https://www-dev.springfield.moz.works/features/
 
 features-shared-firefox-features = { -brand-name-firefox } の機能
 features-shared-footer-cta-title = { -brand-name-firefox } で可能性が広がる

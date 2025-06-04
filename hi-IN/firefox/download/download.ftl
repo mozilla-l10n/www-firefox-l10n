@@ -4,7 +4,7 @@
 
 # Required
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox } डाउनलोड करें
 firefox-new-download-the-fastest-firefox = अब तक का सबसे तेज़ { -brand-name-firefox } डाउनलोड करें
@@ -12,21 +12,16 @@ firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = अधिक तेज़ी से पेज लोडिंग, कम मेमोरी उपयोग और तमाम फ़ीचर्स से लैस, नया { -brand-name-firefox } हाजिर है।
 firefox-new-get-the-latest-firefox = एकदम नया { -brand-name-firefox } ब्राउज़र पाएँ।
 
-# span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = { -brand-name-firefox } डाउनलोड करें <br>{ -brand-name-windows } के लिए
-firefox-new-download-firefox-for-macos = { -brand-name-firefox } डाउनलोड करें <br>{ -brand-name-mac } के लिए
-firefox-new-download-firefox-for-linux = { -brand-name-firefox } डाउनलोड करें <br>{ -brand-name-linux } के लिए
-
 firefox-new-free-web-browser = मुफ़्त वेब ब्राउज़र
 firefox-new-advanced-install-options = उन्नत इंस्टॉल विकल्प और अन्य प्लेटफ़ॉर्म
 firefox-new-download-in-another-language = किसी अन्य भाषा में डाउनलोड करें
 firefox-new-need-help = मदद चाहिए?
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-firefox-new-should-begin = आपका डाउनलोड अपने आप चालू हो जाना चाहिए। काम नहीं कर रहा है? <a id="{ $id }" href="{ $fallback_url }">फिर से डाउनलोड करने की कोशिश करें</a>।
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } महज एक ब्राउज़र से कहीं अधिक है।
@@ -36,7 +31,7 @@ firefox-new-download-almost-there = बस होने ही वाला ह�
 firefox-new-download-select-linux = नीचे डाउनलोड विकल्प चुनें
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-system-may-not = आपका सिस्टम { -brand-name-firefox } के लिए ज़रूरी आवश्यकताओं पर खरा नहीं उतरता, मगर आप <a href="{ $url }">इनमें से कोई एक संस्करण</a> आज़मा सकते हैं।
 
 firefox-new-windows = { -brand-name-windows }
@@ -48,7 +43,7 @@ firefox-new-visit-support-for-more = और जानकारी के लि�
 
 # Not-Required
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = { -brand-name-firefox-browser } डाउनलोड करें

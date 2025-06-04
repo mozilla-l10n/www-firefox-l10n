@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/private-browsing
+### URL: https://www-dev.springfield.moz.works/features/private-browsing/
 
 features-private-browsing-private-browsing-mode = Privater Modus
 
@@ -22,5 +22,5 @@ features-private-browsing-what-private-browsing-doesnt-do = Was der Private Modu
 features-private-browsing-private-browsing-mode-will-not = Der Private Modus löscht keine neuen Lesezeichen, die du in einem Fenster im Privaten Modus setzt und schützt dich nicht vor Malware oder Viren. Er verhindert auch nicht, dass die Websites, die du besuchst, sehen können, an welchem Standort du dich physisch befindest, oder dass dein Internetdienstanbieter loggt, was du tust. Dafür brauchst du ein <a href="{ $vpn }">vertrauenswürdiges VPN</a>.
 
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Vergleich den { -brand-name-firefox } Privaten Modus mit dem <a href="{ $chrome }">Inkognito Modus von Chrome</a>.
