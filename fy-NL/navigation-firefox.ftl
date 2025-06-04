@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+navigation-firefox-home = { -brand-name-firefox }-startside
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = Primêr
 
@@ -12,6 +13,7 @@ navigation-features = Funksjes
 ## Resources
 
 navigation-resources = Boarnen
+navigation-close-resources-menu = Menu Helpboarnen slute
 navigation-product = Produkt
 navigation-desktop = Desktop
 navigation-mobile = Mobyl
