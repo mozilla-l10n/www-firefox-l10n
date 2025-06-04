@@ -12,12 +12,17 @@
 -brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook = Facebook
+-brand-name-github = GitHub
 -brand-name-google = Google
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-netscape = Netscape
+-brand-name-twitter = Twitter
+-brand-name-wireguard = WireGuard
 -brand-name-linkedin = LinkedIn
+-brand-name-tiktok = TikTok
 -brand-name-spotify = Spotify
 
 ## Firefox browsers
@@ -45,6 +50,8 @@
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
+-brand-name-aurora = አውሮራ
+-brand-name-firefox-quantum = ፋየርፎክስ Quantum
 
 ## Firefox products
 
@@ -55,7 +62,19 @@
 
 ## Firefox products (short names)
 
+-brand-name-devtools = DevTools
 -brand-name-relay = ቅብብል
+
+## Firefox products (legacy)
+
+-brand-name-firefox-account = Firefox Account
+-brand-name-firefox-accounts = Firefox Accounts
+-brand-name-firefox-marketplace = የፋየርፎክስ ገበያ ቦታ
+-brand-name-firefox-os = ፋየርፎክስ OS
+-brand-name-firefox-private-network = የፋየርፎክስ የግል አውታረ መረብ
+
+## Firefox projects
+
 
 ## Pocket
 
@@ -64,10 +83,16 @@
 ## Fakespot
 
 
+## Anonym
+
+
 ## Mozilla projects
 
+-brand-name-bugzilla = Bugzilla
+-brand-name-glean = ግሌን
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
+-brand-name-mozilla-festival = የሞዚላ ድግስ
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = የMozilla መለያ
@@ -80,12 +105,22 @@
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
 
+## Mozilla projects (legacy)
+
+-brand-name-webmaker = የድር ሰሪ
+
+## Open Source projects
+
+-brand-name-rust = Rust
+
 ## Other browsers
 
 -brand-name-brave = Brave
 -brand-name-chrome = Chrome
 -brand-name-edge = Edge
 -brand-name-ie = Internet Explorer
+-brand-name-opera = Opera
+-brand-name-safari = Safari
 
 ## Platforms
 
@@ -106,7 +141,9 @@
 
 ## Facebook products
 
+-brand-name-facebook-messenger = የፊስቡክ መለዕክተኛ
 -brand-name-instagram = Instagram
+-brand-name-workplace = የስራ ቦታ
 
 ## Google products
 

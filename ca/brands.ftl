@@ -12,12 +12,17 @@
 -brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook = Facebook
+-brand-name-github = GitHub
 -brand-name-google = Google
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-netscape = Netscape
+-brand-name-twitter = Twitter
+-brand-name-wireguard = WireGuard
 -brand-name-linkedin = LinkedIn
+-brand-name-tiktok = TikTok
 -brand-name-spotify = Spotify
 
 ## Firefox browsers
@@ -45,6 +50,8 @@
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
+-brand-name-aurora = Aurora
+-brand-name-firefox-quantum = Firefox Quantum
 
 ## Firefox products
 
@@ -55,7 +62,19 @@
 
 ## Firefox products (short names)
 
+-brand-name-devtools = DevTools
 -brand-name-relay = Relay
+
+## Firefox products (legacy)
+
+-brand-name-firefox-account = Compte del Firefox
+-brand-name-firefox-accounts = Comptes del Firefox
+-brand-name-firefox-marketplace = Firefox Marketplace
+-brand-name-firefox-os = Firefox OS
+-brand-name-firefox-private-network = Firefox Private Network
+
+## Firefox projects
+
 
 ## Pocket
 
@@ -65,10 +84,16 @@
 
 -brand-name-fakespot = Fakespot
 
+## Anonym
+
+
 ## Mozilla projects
 
+-brand-name-bugzilla = Bugzilla
+-brand-name-glean = Glean
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
+-brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
 
@@ -78,12 +103,22 @@
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
 
+## Mozilla projects (legacy)
+
+-brand-name-webmaker = Webmaker
+
+## Open Source projects
+
+-brand-name-rust = Rust
+
 ## Other browsers
 
 -brand-name-brave = Brave
 -brand-name-chrome = Chrome
 -brand-name-edge = Edge
 -brand-name-ie = Internet Explorer
+-brand-name-opera = Opera
+-brand-name-safari = Safari
 
 ## Platforms
 
@@ -104,7 +139,9 @@
 
 ## Facebook products
 
+-brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
+-brand-name-workplace = Workplace
 
 ## Google products
 
