@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
+### URL: https://www-dev.springfield.moz.works/compare/chrome/
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
@@ -11,8 +11,8 @@ compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chro
 compare-chome-read-our-comparison = Baca perbandingan antara peramban { -brand-name-firefox } dan Chrome, terkait fitur, privasi, dan kemudahan penggunaan.
 
 # Variables:
-# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
-# $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
+# $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
+# $adblocker (url) - link to https://www.firefox.com/features/adblocker/
 compare-chrome-firefoxs-default-privacy-settings = Pengaturan privasi default { -brand-name-firefox } jauh lebih andal dibandingkan Chrome – dan kami memiliki fitur tambahan untuk mencegah situs web melacak Anda, seperti <a { $fingerprint }>pemblokiran fingerprinting</a>, serta berbagai pengaya untuk <a { $adblocker }>pemblokiran iklan</a>.
 compare-chrome-we-block-trackers-by-default = Kami memblokir pelacak secara bawaan. Chrome tidak.
 compare-chrome-in-fact-by-default-chrome-monitors = Faktanya, secara bawaan, Chrome memantau situs web yang Anda kunjungi dan aktivitas Anda, sehingga Chrome dapat mengidentifikasi “topik iklan” untuk menyajikan iklan yang lebih tertarget kepada Anda. Anda bisa memblokir tiga topik, tapi tidak bisa menghentikannya mengidentifikasi topik lainnya untuk iklan yang ditargetkan kepada Anda.

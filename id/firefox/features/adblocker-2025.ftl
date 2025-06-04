@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Pemblokiran Iklan
@@ -17,7 +17,7 @@ features-adblocker-in-todays-digital-world = Dalam dunia digital saat ini, web b
 features-adblocker-ad-blockers-work = Pemblokir iklan berfungsi dengan dua cara utama: mencegah konten, seperti iklan, untuk dimuat dan memblokir bagian situs yang menampung elemen tersebut. Ini mencakup iklan video, iklan berbasis personalisasi yang mengikuti Anda di internet, dan pelacak pihak ketiga.
 
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = Menggunakan pemblokir iklan itu mudah. Ada banyak opsi tepercaya yang tersedia sebagai pengaya browser, sehingga Anda dapat dengan mudah menemukan solusi yang sesuai dengan kebutuhan. Misalnya, <a href="{ $firefox }">{ -brand-name-firefox }</a> menyediakan <a href="{ $addons }">daftar ekstensi terverifikasi</a> yang dirancang untuk meningkatkan pengalaman menjelajah Anda tanpa mengorbankan privasi.
 features-adblocker-finding-the-right = Menemukan Pemblokir Iklan yang Tepat untuk Anda
@@ -39,5 +39,5 @@ features-adblocker-why-use = Mengapa Menggunakan Pemblokir Iklan?
 features-adblocker-ad-blockers-do-more = Pemblokir iklan tidak hanya mengelola iklan – tetapi juga meningkatkan kecepatan dan keamanan penjelajahan Anda dengan mengurangi konten yang tidak perlu. Fitur ini membantu Anda untuk menciptakan pengalaman web yang disesuaikan dan bebas gangguan, sehingga Anda bisa fokus pada hal yang lebih penting.
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-explore-hundreds = Jelajahi ratusan pengaya yang berfokus pada privasi yang tersedia untuk { -brand-name-firefox } dan temukan alat yang tepat untuk Anda. <a href="{ $url }">Unduh { -brand-name-firefox }</a> sekarang juga untuk menikmati peramban yang dirancang dengan mempertimbangkan privasi dan kinerja Anda.

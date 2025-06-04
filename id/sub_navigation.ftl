@@ -25,6 +25,3 @@ sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly } dan { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-android } { -brand-name-nightly } dan { -brand-name-beta }
 sub-navigation-ios-test-flight = { -brand-name-ios } { -brand-name-test-flight }
-sub-navigation-what-is-a-browser = Apa itu Peramban?
-sub-navigation-browsing-history = Riwayat Peramban
-sub-navigation-browser-history = Riwayat Peramban

@@ -4,7 +4,7 @@
 
 # Required
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = Unduh { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Unduh { -brand-name-firefox } tercepat yang pernah ada
@@ -12,21 +12,16 @@ firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = Memuat halaman lebih cepat, menggunakan lebih sedikit memori, dan memiliki fitur yang lengkap, { -brand-name-firefox } terbaru telah hadir.
 firefox-new-get-the-latest-firefox = Dapatkan peramban { -brand-name-firefox } terbaru.
 
-# span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = Unduh { -brand-name-firefox }<br> untuk { -brand-name-windows }
-firefox-new-download-firefox-for-macos = Unduh { -brand-name-firefox }<br> untuk { -brand-name-mac }
-firefox-new-download-firefox-for-linux = Unduh { -brand-name-firefox }<br> untuk { -brand-name-linux }
-
 firefox-new-free-web-browser = Peramban Web Gratis
 firefox-new-advanced-install-options = Opsi penginstalan tingkat lanjut & platform lain
 firefox-new-download-in-another-language = Unduh dalam bahasa lain
 firefox-new-need-help = Butuh bantuan?
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-firefox-new-should-begin = Unduhan Anda akan dimulai secara otomatis. Tidak berhasil? <a id="{ $id }" href="{ $fallback_url }">Coba unduh lagi.</a>
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } lebih dari sekadar peramban.
@@ -36,7 +31,7 @@ firefox-new-download-almost-there = Hampir selesai!
 firefox-new-download-select-linux = Pilih opsi unduh di bawah ini
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-system-may-not = Sistem Anda mungkin tidak memenuhi persyaratan untuk { -brand-name-firefox }, tetapi Anda dapat menggunakan salah satu dari <a href="{ $url }">versi berikut</a> .
 
 firefox-new-windows = { -brand-name-windows }
@@ -48,7 +43,7 @@ firefox-new-visit-support-for-more = Kunjungi Dukungan untuk Informasi Lebih Lan
 
 # Not-Required
 
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Unduh { -brand-name-firefox-browser }

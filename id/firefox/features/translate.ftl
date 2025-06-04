@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/translate/
+### URL: https://www-dev.springfield.moz.works/features/translate/
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Terjemahkan halaman web dengan { -brand-name-firefox }
@@ -22,5 +22,5 @@ features-translate-and-more-languages-are-in = Dan masih ada banyak lagi bahasa 
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } berbicara dalam bahasa Anda
 
 # Variables:
-#   $download (url) = link to https://www.mozilla.org/firefox/new/
+#   $download (url) = link to https://www.firefox.com/
 features-translate-the-firefox-translations-feature-v2 = Fitur { -brand-name-firefox-translations } adalah cara lain { -brand-name-mozilla } dalam menjaga internet Anda tetap dipersonalisasi dan lebih pribadi. { -brand-name-mozilla } tidak melacak halaman web yang Anda terjemahkan. Dengan jutaan pengguna di seluruh dunia, { -brand-name-mozilla } ingin memastikan bahwa mereka yang menggunakan { -brand-name-firefox } akan belajar, berkomunikasi, berbagi, dan tetap mendapatkan informasi sesuai preferensi mereka sendiri. <a { $download }>Mulai dalam bahasa pilihan Anda dengan mengunduh { -brand-name-firefox }.</a>

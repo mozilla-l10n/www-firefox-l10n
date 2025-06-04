@@ -2,13 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
+### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Pengumpulan sidik jari (fingerprinting) adalah jenis pelacakan daring yang lebih invasif dibanding pelacakan berbasis cookie biasa — itulah sebabnya { -brand-name-firefox-browser } memblokirnya.
 
 features-fingerprinting-fingerprint-blocking = Pemblokiran Fingerprinting
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } memblokir pengumpulan sidik jari (fingerprinting)
+
 features-fingerprinting-what-is-fingerprinting-body = Apa itu pengumpulan sidik jari?
 features-fingerprinting-fingerprinting-is-a = Pengumpulan sidik jari adalah sejenis pelacakan daring yang lebih invasif dibanding pelacakan berbasis kuki biasa. Sidik jari digital dibuat saat perusahaan membuat profil unik Anda berdasarkan perangkat keras, perangkat lunak, pengaya, dan bahkan preferensi komputer Anda. Pengaturan Anda seperti layar yang digunakan, fon yang diinstal di komputer, dan bahkan pilihan peramban web Anda dapat digunakan untuk membuat sidik jari.
 features-fingerprinting-if-you-have = Jika Anda memiliki laptop, PC, atau smartphone yang biasa digunakan, maka biasanya akan lebih sulit mengidentifikasi perangkat Anda secara unik melalui sidik jari. Namun, semakin unik pengaya, fon, dan pengaturan yang Anda miliki, semakin mudah Anda menemukannya. Perusahaan dapat menggunakan kombinasi informasi unik ini untuk membuat sidik jari Anda. Itulah sebabnya { -brand-name-firefox } memblokir fingerprinting yang dikenal, sehingga Anda tetap dapat menggunakan ekstensi, tema, dan setelan favorit Anda tanpa diikuti oleh iklan.
@@ -31,5 +32,5 @@ features-fingerprinting-the-latest-firefox = { -brand-name-firefox } terbaru mel
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = Anda tidak perlu menyetel pengaturan yang rumit. Di { -brand-name-firefox } terbaru, pemblokiran sidik jari adalah setelan standar dan bawaan. Kunjungi <a { $url_protections }>dasbor perlindungan privasi</a> Anda untuk melihat bagaimana proses Anda dilacak dan cara { -brand-name-firefox } mencegahnya.
 
-# $url_download (string) - link to firefox/new
+# $url_download (string) - link to https://www.firefox.com/
 features-fingerprinting-you-probably-wouldnt = Mungkin Anda akan keberatan saat seseorang melacak gerakan Anda di kehidupan nyata. Begitu pula tidak ada alasan untuk menerimanya secara daring. Jika Anda belum memiliki { -brand-name-firefox }, <a { $url_download }>unduh dan lindungi diri Anda</a> dari pengumpulan sidik jari digital.
