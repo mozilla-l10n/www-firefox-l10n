@@ -58,5 +58,5 @@ firefox-developer-firefox-nightly-receives = Браузери «{ -brand-name-fi
 firefox-developer-faster-innovation = Маълумоти тезкор
 firefox-developer-fonts-panel = Лавҳаи ҳарфҳо
 firefox-developer-firefox-developer-edition-sends = Браузери «{ -brand-name-firefox-developer-edition }» омори истифодабариро ба ташкилоти «{ -brand-name-mozilla }» ба таври худкор мефиристонад.
-firefox-developer-download-the-firefox-browser = Браузери «{ -brand-name-firefox }»-ро ба даст оред, ки барои барномасозон эҷод карда шуд.
+firefox-developer-download-the-firefox-browser = Браузери «{ -brand-name-firefox }»-ро ба даст оред, ки барои барномасозон эҷод карда шудааст.
 firefox-developer-made-for-developers = Браузере, ки барои барномасозон сохта шудааст
