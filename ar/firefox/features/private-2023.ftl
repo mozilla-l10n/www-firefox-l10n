@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/private/
+### URL: https://www-dev.springfield.moz.works/features/private/
 
 features-private-is-firefox-a-private-browser = هل يحافظ متصفح { -brand-name-firefox } على الخصوصية؟
 
@@ -10,7 +10,7 @@ features-private-is-firefox-a-private-browser = هل يحافظ متصفح { -br
 features-private-were-focused-on-your-right-to = إننا نُركز على حقك في الخصوصية.فبياناتك ونشاطاتك وأوقاتك على الإنترنت تكون محمية حين تستخدم متصفح { -brand-name-firefox }.
 
 # Variables:
-#   $url (url) = link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) = link to https://www.firefox.com/features/private-browsing/
 features-private-yes-firefox-protects-your = نعم، يُحافظ متصفح { -brand-name-firefox } على خصوصيتك باستخدام ميزات مثل <a href="{ $url }">التصفح الخاص</a>.ويسمح لك بالحفاظ على خصوصية سِجل التصفح وكلمات المرور، حتى عند استخدام جهاز تُشاركه مع أشخاص آخرين، مثل الكمبيوتر المنزلي أو { -brand-name-ipad }.
 
 # Variables:
@@ -21,7 +21,7 @@ features-private-sidenote-we-are-not-big-tech = <em>ملحوظة</em>: لسنا 
 features-private-what-information-does-firefox = ما هي المعلومات التي يجمعها متصفح { -brand-name-firefox }؟
 
 # Variables:
-#   $url (url) = link to https://www.mozilla.org/firefox/privacy/
+#   $url (url) = link to https://www.mozilla.org/privacy/
 features-private-mozilla-the-maker-of-firefox = إنّ شركة { -brand-name-mozilla } (التي طوّرت متصفح { -brand-name-firefox }) تضع الخصوصية على رأس أولياتها.<strong>وتحملها محمل الجد</strong>.ويفي كل منتج من منتجات متصفح { -brand-name-firefox } <a href="{ $url }">بوعد البيانات الشخصية</a>: نجمع بيانات شخصية أقل.نُحافظ على البيانات الشخصية. لا نُخفي عنك أسرارًا.
 
 # Variables:

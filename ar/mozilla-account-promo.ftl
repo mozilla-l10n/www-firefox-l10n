@@ -8,7 +8,7 @@ moz-account-promo-title = تسجيل دخول واحد. <br> <span { $class }>ك
 
 # Variables
 #   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
+#   $learn_more_url - link to https://www.mozilla.org/accounts/
 moz-account-already-have-v2 = هل لديك حساب بالفعل؟ <a { $sign_in_url }>سجِّل الدخول</a> أو <a { $learn_more_url }>اطّلع على المزيد</a> حول الانضمام إلى { -brand-name-mozilla }.
 
 moz-account-product-firefox = { -brand-name-firefox }

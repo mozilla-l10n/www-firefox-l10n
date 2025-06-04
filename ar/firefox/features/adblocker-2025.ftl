@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = حجب الإعلانات
@@ -17,7 +17,7 @@ features-adblocker-in-todays-digital-world = قد يكون الويب مزدحم
 features-adblocker-ad-blockers-work = يَعمل حاجب الإعلانات بطريقتين رئيسيتين: من خلال منع تحميل المحتوى مثل الإعلانات ومن خلال حظر أقسام من المواقع التي تستضيف تلك العناصر. يُمكن أن يشمل ذلك إعلانات الفيديو، والإعلانات المخصصة التي تلاحقك عبر الويب، وحتى مُتتبعي الأطراف الثالثة
 
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = ليس هناك أسهل من استخدام حاجب الإعلانات. تتوفّر العديد من الخيارات الموثوقة كإضافات للمتصفح، مما يَجعل من السهل العثور على حل يناسب احتياجاتك. على سبيل المثال، يقدم <a href="{ $firefox }">{ -brand-name-firefox }</a> <a href="{ $addons }">قائمة بالإضافات المعتمدة</a> المُصمّمة لتحسين تجربة التصفح الخاصة بك مع احترام خصوصيتك.
 features-adblocker-finding-the-right = البحث عن حاجب الإعلانات المناسب لك
@@ -39,5 +39,5 @@ features-adblocker-why-use = ما أهمية استخدام حاجب إعلان�
 features-adblocker-ad-blockers-do-more = تقوم حاجبات الإعلانات بأكثر من مُجرد إدارة الإعلانات – حيث إنها تُعزز سرعة التصفّح والأمان من خلال تقليل المحتوى غير الضروري. كما أنها تمنحك القدرة على إنشاء تجربة تصفح مخصّصة وخالية من التشتّت، مما يُتيح لك التركيز على ما يهمك.
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-explore-hundreds = استكشف المئات من الإضافات التي تُركز على الخصوصية المتاحة لـ { -brand-name-firefox } وابحث عن الأدوات المناسبة لك. <a href="{ $url }">نزّل { -brand-name-firefox }</a> اليوم واستمتع بمتصفّح مُصمّم لمراعاة الخصوصية والأداء.

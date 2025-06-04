@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
+### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = إعدادات ملفات تعريف الارتباط
 cookie-settings-page-desc = تصف هذه الصفحة الأنواع المختلفة من ملفات تعريف الارتباط التي قد تستخدمها { -brand-name-mozilla }، وتُعطيك التحكّم في أنواع البيانات التي توافق على قيام { -brand-name-mozilla } بجمعها.

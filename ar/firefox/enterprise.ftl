@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = احصل على { -brand-name-firefox } لِشركتك مع { -brand-name-esr } والإصدار السريع
 firefox-enterprise-get-unmatched-data-protection = احصل على حماية بيانات لا مثيل لها على إيقاع الإصدار الذي يُناسبك مع { -brand-name-firefox } للشركات. نزّل { -brand-name-esr } والإصدار السريع.
@@ -48,5 +48,5 @@ firefox-enterprise-pkg-installer = أداة تثبيت PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 بت
 
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = نزّل { -brand-name-firefox-esr } أو الإصدار السريع<br> <a href="{ $firefox_all }">للغة أو منصة أخرى.</a>

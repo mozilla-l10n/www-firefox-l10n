@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/private-browsing
+### URL: https://www-dev.springfield.moz.works/features/private-browsing/
 
 features-private-browsing-private-browsing-mode = وضع التصفّح الخاص
 
@@ -22,5 +22,5 @@ features-private-browsing-what-private-browsing-doesnt-do = ما لا يفعله
 features-private-browsing-private-browsing-mode-will-not = لن يحذف وضع التصفح الخاص أي إشارات مرجعية جديدة تُنشِؤها في نافذة التصفح الخاص، ولن يحميك من البرامج الضارة أو الفيروسات،ولن يمنع مواقع الإنترنت التي تزورها من معرفة مكان تواجدك الفعلي، ولن يمنع مُزود خدمة الإنترنت من تسجيل ما تفعله.وستحتاج إلى <a href="{ $vpn }">شبكة VPN جديرة بالثقة</a> لهذه الأغراض.
 
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = قارن بين وضع التصفّح الخاص في متصفح { -brand-name-firefox } وبين <a href="{ $chrome }">وضع التصفّح المتخفي في متصفح Chrome</a>.
