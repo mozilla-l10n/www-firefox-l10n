@@ -7,6 +7,8 @@
 
 # Page title
 compare-opera-firefox-vs-opera = { -brand-name-firefox } napśeśiwo Opera
+# HTML page description
+compare-opera-read-our-comparison = Cytajśo našo pśirownanje mjazy wobglědowakoma { -brand-name-firefox } a Opera pó funkcijach, priwatnosći a lažkim wužywanim.
 # Variables:
 # $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
 compare-opera-firefoxs-default-privacy-settings = Standardne nastajenja priwatnosći { -brand-name-firefox } su mócnjejše ako te nastajenja Opera – a my mamy dalšne funkcije, aby my websedłam zawoborali, wam slědowaś, na pśikład <a { $fingerprint }>blokěrowanje palcowych wótśišćow</a>.

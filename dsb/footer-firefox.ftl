@@ -44,6 +44,9 @@ footer-developer = Wuwijaŕ
 footer-resources = Resurse
 footer-compare = Pśirownaś
 footer-release-notes = Wersijowe informacije
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Wukniśo
 footer-support = Pomoc
 footer-addons = Dodanki
 footer-blog = Blog

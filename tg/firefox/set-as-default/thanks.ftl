@@ -21,3 +21,7 @@ set-as-default-thanks-sign-up-for-a-free-account-v2 = Барои ройгон г
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Ба даст овардани ҳисоб
 set-as-default-thanks-having-trouble = Мушкилӣ мекашед?
+# Variables:
+#   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
+#   $desktop (url) - link to https://support.mozilla.org/kb/make-firefox-your-default-browser
+set-as-default-thanks-heres-everything-you-need-android-desktop = Дар ин ҷой барои шумо тамоми маълумот дар бораи насб кардани браузери пешфарз дар <a href="{ $android }">дастгоҳҳои «Android»</a> ё <a href="{ $desktop }">компютерҳои мизи корӣ</a> дастрас аст.

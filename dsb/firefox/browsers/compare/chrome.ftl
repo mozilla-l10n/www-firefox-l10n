@@ -7,6 +7,8 @@
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } napśeśiwo Google Chrome
+# HTML page description
+compare-chome-read-our-comparison = Cytajśo našo pśirownanje mjazy wobglědowakoma { -brand-name-firefox } a Chrome pó funkcijach, priwatnosći a lažkim wužywanim.
 # Variables:
 # $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
 # $adblocker (url) - link to https://www.firefox.com/features/adblocker/

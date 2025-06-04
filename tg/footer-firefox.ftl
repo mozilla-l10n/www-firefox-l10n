@@ -44,6 +44,9 @@ footer-developer = Барномасоз
 footer-resources = Манбаъҳо
 footer-compare = Муқоиса кардани браузерҳо
 footer-release-notes = Қайдҳои нашр
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Омӯзиш
 footer-support = Дастгирӣ
 footer-addons = Ҷузъҳои иловагӣ
 footer-blog = Блог
