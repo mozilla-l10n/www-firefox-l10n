@@ -18,5 +18,5 @@ features-private-browsing-what-private-browsing-doesnt-do = Che cosa non fa la n
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = La modalità di navigazione anonima non elimina i nuovi segnalibri creati da una finestra di navigazione anonima, né ti protegge da malware o virus. Inoltre, non impedisce ai siti web visitati di vedere dove ti trovi fisicamente, o al tuo fornitore di servizi internet di registrare la tua attività. Per questi scopi è necessaria una <a href="{ $vpn }">VPN affidabile</a>.
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Confronta la navigazione anonima di { -brand-name-firefox } con la <a href="{ $chrome }">modalità di navigazione in incognito di Chrome</a>.
