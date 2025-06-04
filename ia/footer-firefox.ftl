@@ -44,6 +44,9 @@ footer-developer = Disveloppator
 footer-resources = Ressources
 footer-compare = Comparar
 footer-release-notes = Notas de version
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Discoperi
 footer-support = Supporto
 footer-addons = Additivos
 footer-blog = Blog
@@ -67,4 +70,5 @@ footer-logo-trademark-licensing = Licentia de uso del marca del logo
 ## Language Switcher
 
 footer-language = Lingua
+footer-go = Ir
 footer-firefox = { -brand-name-firefox }
