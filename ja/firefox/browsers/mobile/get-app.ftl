@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/mobile/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = { -brand-name-ios }・{ -brand-name-android } 用 { -brand-name-firefox-browser } をダウンロード
 firefox-mobile-firefox-browser-for-mobile = モバイル用 { -brand-name-firefox-browser } は 既定の設定で 2,000 件を超えるトラッカーをブロックし、正当なプライバシーと、プライベートモバイルブラウザーに求められるスピードをユーザーに提供します。

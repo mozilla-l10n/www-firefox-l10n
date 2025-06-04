@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/adblocker/
+### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-how-to-stop-seeing-too = 多すぎる広告をブロックし、オンラインで追跡されなくする方法をご覧ください。{ -brand-name-firefox } ウェブブラウザーの広告ブロッカーガイドです。
 features-adblocker-the-ad-blocker-a-secret = 広告ブロッカー — 迷惑な広告に対抗する秘密兵器。
@@ -11,7 +11,7 @@ features-adblocker-the-average-person-sees = 平均的に、ユーザー 1 人�
 features-adblocker-an-ad-blocker-is-a-piece = 広告ブロッカーとは、広告をブロックするためのソフトウェアで、2 通りの方法で機能します。一つは、広告ブロッカーが広告主のサーバーからの信号をブロックすることで、広告がページに表示されなくします。もう一つは、ウェブサイト内の広告と考えられるセクションをブロックします。
 
 # Variables:
-#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = 広告の種類には、大きな音の出る動画広告、ウェブ上でつきまとう広告、トラッカー、サードパーティ Cookie などがあります。広告ブロッカーを利用するには、ブラウザーで利用可能な広告ブロッカーアドオンを検索してください。例えば、<a href="{ $firefox }">{ -brand-name-firefox }</a> は<a href="{ $addons }">承認した広告ブロッカーアドオンのリスト</a>を公開しています。このリスト (またはブラウザーでの利用が承認された広告ブロッカー) をクリックし、お好みに合ったものを探します。
 
@@ -33,8 +33,8 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> は、広告をブロックするだけでなく、トラッキング防止機能も付加します。
 
 # Variables:
-#   $attrs1 (string) - link to /firefox/new/ with other attributes
-#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
+#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = これらの拡張機能は、<a { $attrs1 }>デスクトップ版</a>および <a { $attrs2 }>Android 版 { -brand-name-firefox }</a> の両方に対応しています。
 
 features-adblocker-create-a-tracker-free = コンテンツブロッキングでノートラッカーゾーンを作る
@@ -50,7 +50,7 @@ features-adblocker-to-start-click-on-the-v2 = まず、任意のウェブペー�
 features-adblocker-go-easy-with-standard = スタンダードモードで簡単に
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
 features-adblocker-if-ads-dont-bother-you = 広告が邪魔ではなく、トラッカーやサードパーティ Cookie につきまとわれても構わない場合は、[スタンダード] 設定でよいでしょう。スタンダードモードでトラッカーを防止するには、<a href="{ $url }">プライベートブラウジング</a>ウィンドウを使用してください。
 
 features-adblocker-get-tough-with-strict = 厳格モードで見逃さない
@@ -66,9 +66,10 @@ features-adblocker-take-a-bite-out-of-cookies = Cookie を選び取る
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Cookie</a> は、ユーザーが訪問したウェブサイトから送信されます。ユーザーのコンピューターに常駐し、サイトでしている操作を監視します。過去に 1 度航空券を見たために航空会社が値上げしたとき、それは Cookie の仕業です。
 
 features-adblocker-in-firefox-you-can-block = { -brand-name-firefox } では、すべてのサードパーティ Cookie をブロックしたり、トラッカーが設定した Cookie だけをブロックしたりできます。すべての Cookie をブロックすると、一部のサイトが動作しなくなることがあるのでご注意ください。
+
 features-adblocker-speed-up-thanks-to-ad = 広告ブロッカーで高速化
 features-adblocker-in-some-cases-an-ad-blocker = 広告ブロッカーによってブラウザーが高速化することがあります。広告が読み込まれている間、ウェブサイトが重くなる可能性があります。同時に、広告を閉じる作業で忙しくなれば、探し物を見つけるのに時間がかかります。
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.firefox.com/
 features-adblocker-if-you-want-to-learn-more-v2 = 広告ブロックについて詳しく知りたい場合は、{ -brand-name-firefox } などのブラウザーで利用できる広告ブロッカー拡張機能をチェックしてみてください。数百という種類があります。{ -brand-name-firefox } が利用している広告ブロッカーを試す場合は、プライバシー第一を掲げるブラウザーを、<a href="{ $url }">ここをクリックしてダウンロード</a>してください。

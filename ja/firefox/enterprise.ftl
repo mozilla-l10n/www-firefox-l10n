@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = 業務用としての { -brand-name-esr } とRapid Release の { -brand-name-firefox }
 firefox-enterprise-get-unmatched-data-protection = 所属組織に合った頻度の { -brand-name-firefox } リリースで、業界随一のデータ保護を{ -brand-name-esr } と Rapid Release のダウンロード。
@@ -48,5 +48,5 @@ firefox-enterprise-pkg-installer = PKG インストーラー
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 ビット
 
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = <a href="{ $firefox_all }">別の言語または別のプラットフォーム用</a>の { -brand-name-firefox-esr } または Rapid Release をダウンロード

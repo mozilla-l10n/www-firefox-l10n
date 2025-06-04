@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/translate/
+### URL: https://www-dev.springfield.moz.works/features/translate/
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = { -brand-name-firefox } でウェブページを翻訳する
@@ -22,5 +22,5 @@ features-translate-and-more-languages-are-in = 他の言語も開発中です。
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } は、あなたの言語を理解します
 
 # Variables:
-#   $download (url) = link to https://www.mozilla.org/firefox/new/
+#   $download (url) = link to https://www.firefox.com/
 features-translate-the-firefox-translations-feature-v2 = { -brand-name-firefox-translations } 機能でも { -brand-name-mozilla } はあなたのインターネットをパーソナライズし、プライバシーを守ります。{ -brand-name-mozilla } は、ユーザーが翻訳したウェブページを追跡しません。世界中に数億万人のユーザーを擁する { -brand-name-mozilla } は、{ -brand-name-firefox } を利用する人々が自由に学び、コミュニケーションをとり、共有し、情報収集できるようにしたいと考えています。<a { $download }>{ -brand-name-firefox } をダウンロードして、お好みの言語で始めましょう。</a>

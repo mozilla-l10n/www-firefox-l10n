@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/all/
+### URL: https://www-dev.springfield.moz.works/download/all/
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = 日本語ほか 90 か国語以上に対応した { -brand-name-firefox } をダウンロード

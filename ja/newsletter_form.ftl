@@ -16,8 +16,6 @@ newsletter-form-select-country-or-region = 国または地域を選択してく�
 newsletter-form-select-language = 言語の選択
 newsletter-form-your-email-here = メールアドレスを入力してください
 newsletter-form-get-firefox-news = { -brand-name-firefox } ニュースを受け取る
-newsletter-form-join-the-community = コミュニティに参加
-newsletter-form-sign-up-to-receive = ニュースレターにご登録ください。{ -brand-name-firefox } からの毎月の最新情報や、あなたのオンライン生活を形成するインターネットのトレンドをお届けします。
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
@@ -30,18 +28,13 @@ newsletter-form-we-will-only-send-firefox-v2 = 送付されるのは { -brand-na
 newsletter-form-if-you-havent-previously = 以前に { -brand-name-mozilla } に関するニュースレターの定期購読を確定していない場合は、確定する必要があります。受信箱かスパムフィルターで Mozilla から送付されたメールを確認してください。
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + You
 newsletter-form-get-firefox-tips = { -brand-name-firefox } のヒントやコツ、ニュースなどをお届けします
-newsletter-form-get-mozilla-updates = { -brand-name-mozilla } の最新情報をお届けします。
 newsletter-form-available-languages = 使用可能な言語
 newsletter-form-select-country = 国または地域を選択してください
 newsletter-form-sign-me-up = 新規登録
 newsletter-form-sign-up-now = 今すぐサインアップ
 newsletter-form-thanks = ありがとうございました。
-newsletter-form-leave-this-field-empty = このフィールドは空欄のままにしてください。
 newsletter-form-yes = あり
 newsletter-form-no = なし
-
-# An accessible label used to describe purpose of the form.
-newsletter-form-label = ニュースレター登録フォーム
 
 multi-newsletter-form-checkboxes-legend = 希望する情報:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }

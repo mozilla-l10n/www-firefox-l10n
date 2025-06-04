@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/private-browsing
+### URL: https://www-dev.springfield.moz.works/features/private-browsing/
 
 features-private-browsing-private-browsing-mode = プライベートブラウジングモード
 
@@ -22,5 +22,5 @@ features-private-browsing-what-private-browsing-doesnt-do = プライベート�
 features-private-browsing-private-browsing-mode-will-not = プライベートブラウジングモードは、プライベートブラウジングウィンドウから作成した新しいブックマークは削除しません。マルウェアやウイルスからは保護できません。また、アクセスしたウェブサイトからユーザーの物理的な位置を確認されたり、ご契約のインターネットサービスプロバイダーからユーザーの行動を記録されたりすることは防止できません。これらを補うには、<a href="{ $vpn }">信頼できる VPN</a> が必要です。
 
 # Variables:
-#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = { -brand-name-firefox } のプライベートブラウジングと <a href="{ $chrome }">Chrome のシークレットモード</a>を比較してください。

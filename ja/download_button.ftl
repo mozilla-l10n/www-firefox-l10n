@@ -8,6 +8,7 @@ download-button-firefox-aurora = { -brand-name-firefox-aurora }
 download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span> { -brand-name-developer-edition }
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-systems-languages = システムと言語
+
 download-button-google-play = { -brand-name-google-play } で手に入れよう
 download-button-download-app-store = { -brand-name-app-store } からダウンロード
 download-button-download-firefox = { -brand-name-firefox } をダウンロード

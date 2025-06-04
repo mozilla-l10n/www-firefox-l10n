@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -24,7 +24,7 @@ firefox-desktop-download-get-the-browser = 大切なものを守るブラウザ�
 
 firefox-desktop-download-fast-reliable-private = 高速で信頼性が高く、プライベート — オンラインの安心を守ります。
 
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-no-shady = 怪しいプライバシーポリシーや広告業者用のバックドアはありません。あなたの個人情報を売却しない高速ブラウザーです。
 
 firefox-desktop-download-download-options = ダウンロードオプションと多言語
@@ -33,7 +33,7 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } サ�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = オンライン生活をご自由にお楽しみください。<br>{ -brand-name-firefox-browser } に<strong>お任せください</strong>。
 
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 firefox-desktop-download-do-what-you-do = オンライン生活をご自由にお楽しみください。<br>{ -brand-name-firefox-browser } が<strong>プライバシーを守ります</strong>。
 
 firefox-desktop-download-we-block-the-ad = 広告トラッカーをブロックします。もっと高速にインターネットをお楽しみください。
@@ -128,9 +128,9 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } は、{ -
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = インターネットが成長し変化するなか、{ -brand-name-firefox } はユーザーのプライバシー権を第一に考えています。Mozilla によるデータの取り扱いについて詳しくは、<a { $attrs }>プライバシー通知</a>をご覧ください。
 
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string
 # Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = インターネットが成長し変化するなか、{ -brand-name-firefox } はユーザーのプライバシー権を第一に考えています。私たちはこれを<a { $attrs }>個人データ保護の約束</a>と呼んでいます。掲げているのは、収集する個人データは最小限にすること、安全に保護すること、秘密を作らないこと。ユーザーのデータ、ウェブ上の活動、オンライン生活は、{ -brand-name-firefox } が保護します。
 
 # Variables:
@@ -149,7 +149,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } は、�
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = お問い合わせがありましたら、<a { $attrs }>{ -brand-name-mozilla } サポート</a>がお答えします。
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/thanks/
 
 firefox-desktop-download-almost-there = もう少しです!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -173,7 +173,7 @@ firefox-desktop-download-visit-support-for-more = 詳しくはサポートをご
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
-#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = ダウンロードは自動的に開始します。開始しない場合は、<a id="{ $id }" href="{ $fallback_url }">もう一度ダウンロードしてみてください。</a>
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } は、ただのブラウザーではありません
@@ -181,5 +181,5 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } は、た�
 firefox-desktop-download-interrupted = ダウンロードが中断されましたが、すべてが失われたわけではありません。
 
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/all/
+#   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = お使いのシステムが { -brand-name-firefox } の要件を満たしていない可能性がありますが、<a href="{ $url }">こちらのバージョン</a>のいずれかをお試しください。

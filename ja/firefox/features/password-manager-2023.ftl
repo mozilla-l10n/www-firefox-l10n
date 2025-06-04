@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/password-manager
+### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
 password-manager-free-password-manager = 無料のパスワードマネージャー
@@ -13,7 +13,7 @@ password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } �
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } は、ウェブサイトにアクセスするためのユーザー名とパスワードを安全に保存し、次回ウェブサイトにアクセスするときに自動的に入力し、内蔵のパスワード管理機能で保存したログイン情報を管理できるようにします。
 
 # Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+#   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = <a { $fxa }>無料の { -brand-name-mozilla-account }</a> で、すべてのデバイス間でパスワードを安全に同期できます。{ -brand-name-mozilla } のプライバシーを守る製品すべてにアクセスできます。
 
 password-manager-password-autofill-for-easy-logins = パスワードを自動入力して簡単にログイン
