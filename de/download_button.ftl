@@ -8,6 +8,7 @@ download-button-firefox-aurora = { -brand-name-firefox-aurora }
 download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span> { -brand-name-developer-edition }
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-systems-languages = Systeme &amp; Sprachen
+
 download-button-google-play = Bei { -brand-name-google-play } herunterladen
 download-button-download-app-store = Erhältlich im { -brand-name-app-store }
 download-button-download-firefox = { -brand-name-firefox } herunterladen

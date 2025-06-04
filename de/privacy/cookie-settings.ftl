@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
+### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = Cookie-Einstellungen
 cookie-settings-page-desc = Auf dieser Seite steht, welche verschiedenen Arten von Cookies { -brand-name-mozilla } eventuell nutzt. Hier kannst du bestimmen, welche Daten { -brand-name-mozilla } von dir sammeln darf.

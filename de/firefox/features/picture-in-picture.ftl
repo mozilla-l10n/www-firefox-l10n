@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
+### URL: https://www-dev.springfield.moz.works/features/picture-in-picture/
 
 # HTML page title
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Bild-im-Bild: Mehr Möglichkeiten mit Pop-out-Videos
@@ -11,6 +11,7 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Bild-
 features-pip-got-things-to-do-and-things-to-watch = Du hast einiges zu erledigen, aber die vielen Online-Videos wollen auch geguckt werden? Bring dein Multitasking aufs nächste Level mit dem Bild-im-Bild-Feature. von { -brand-name-firefox }.
 
 features-pip-picture-in-picture = Bild-im-Bild (PiP)
+
 features-pip-get-more-done-with-pop-out-videos = Noch mehr Möglichkeiten mit Pop-out-Videos
 features-pip-got-things-to-do-do-both-with = Du hast einiges zu erledigen, aber die vielen Online-Videos wollen auch geguckt werden? Bring dein Multitasking aufs nächste Level mit dem Bild-im-Bild-Feature von { -brand-name-firefox }. Du kannst ein Video aus seiner Webseite entnehmen und auf deinem Bildschirm anheften, sodass du weiter das Video schauen kannst, während du andere Seiten, Tabs und Apps nutzt.
 features-pip-heres-how-it-works = So funktioniert es:

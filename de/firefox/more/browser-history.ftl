@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
+### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = Geschichte der Internet-Browser: Die monumentalen Machtkämpfe, aus denen die Browser von heute entstanden
 browser-history-the-browser-wars-underdogs-giants = Browser-Kriege, Underdogs gegen Giganten und Momente, die die Welt veränderten. Hier erfährst du mehr zur Geschichte der Internet-Browser.
@@ -66,4 +66,3 @@ browser-history-in-the-future-the-v2 = Das Internet wird sich in Zukunft noch we
 
 browser-history-whatever-the-future = Was immer die Zukunft des Webs mit sich bringt, werden { -brand-name-mozilla } und { -brand-name-firefox } für ihre Nutzer da sein und sicherstellen, dass sie leistungsstarke Tools zur Verfügung haben, um das Internet mit all seinen Möglichkeiten optimal nutzen zu können. Das Internet ist für alle, und jeder sollte die Kontrolle über die eigene Interneterfahrung haben. Deshalb statten wir { -brand-name-firefox } mit Tools aus, die die Daten der Nutzer schützen und verkaufen Nutzerdaten niemals an Werbetreibende.
 browser-history-resources = Quellen
-browser-history-take-control-of = Übernimm die Kontrolle über deinen Browser.
