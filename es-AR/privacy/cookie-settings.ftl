@@ -42,5 +42,5 @@ cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } usa i
 ## Privacy section
 
 cookie-settings-privacy-heading = Nuestra nota de privacidad
-cookie-settings-privacy-desc = Para obtener información más detallada sobre los diferentes tipos de información que { -brand-name-mozilla } recopila cuando visitas nuestros sitios web, puedes encontrar un enlace a nuestro aviso de privacidad a continuación.
+cookie-settings-privacy-desc = Para obtener información más detallada sobre los diferentes tipos de información que { -brand-name-mozilla } recopila cuando visitás nuestros sitios web, podés encontrar un enlace a nuestra nota de privacidad a continuación.
 cookie-settings-privacy-policy-link = Nota de privacidad

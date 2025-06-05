@@ -10,7 +10,7 @@ set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = Gracias por e
 set-as-default-thanks-success-your-default-browser = ¡Bien! Tu navegador predeterminado es { -brand-name-firefox }.
 set-as-default-thanks-looks-like-youre-using-a = Parece que estás usando un navegador diferente en este momento. Asegurate de tener { -brand-name-firefox } descargado en tu dispositivo.
 # When a visitor sees this message a system dialog will also open on screen.
-set-as-default-thanks-youre-almost-done-just-change = Ya casi estás. Simplemente cambiá tu navegador predeterminado a { -brand-name-firefox } en el panel de configuración de tu pantalla.
+set-as-default-thanks-youre-almost-done-just-change = Ya casi estás. Simplemente cambiá tu navegador predeterminado a { -brand-name-firefox } en el panel de configuración en tu pantalla.
 set-as-default-thanks-having-trouble-setting-your = ¿Tenés problemas para configurar tu navegador predeterminado?
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
@@ -30,4 +30,4 @@ set-as-default-thanks-having-trouble = ¿Algún problema?
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
 #   $desktop (url) - link to https://support.mozilla.org/kb/make-firefox-your-default-browser
-set-as-default-thanks-heres-everything-you-need-android-desktop = Acá está todo lo que necesitás saber para configurar tu navegador predeterminado en <a href="{ $android }">dispositivos Android</a> o computadoras de escritorio <a href="{ $desktop }"></a>.
+set-as-default-thanks-heres-everything-you-need-android-desktop = Acá está todo lo que necesitás saber para configurar tu navegador predeterminado en <a href="{ $android }">dispositivos Android</a> o <a href="{ $desktop }">computadoras de escritorio</a>.
