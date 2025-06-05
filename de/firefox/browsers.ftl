@@ -7,6 +7,8 @@
 # HTML page title
 firefox-browsers-page-title-v2 = { -brand-name-firefox } für Desktop
 
+# HTML page description
+firefox-browsers-page-desc-v2 = Lade den Browser herunter, der deinen Datenschutz an erste Stelle stellt – hol dir { -brand-name-firefox } für Windows, macOS oder Linux auf Desktop.
 
 firefox-browsers-main-heading-v2 = { -brand-name-firefox } für Desktop-PCs
 
@@ -18,6 +20,7 @@ firefox-browsers-download-for-desktop = Für Desktop herunterladen
 firefox-browsers-windows = { -brand-name-firefox } für { -brand-name-windows }
 firefox-browsers-mac = { -brand-name-firefox } für { -brand-name-mac-short }
 firefox-browsers-linux = { -brand-name-firefox } für { -brand-name-linux }
+firefox-browsers-custom = Standard Download-Optionen
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Hol dir unübertroffenen Datenschutz mit Support-Zyklen, die auf die Anforderungen deines Unternehmens zugeschnitten sind.
 firefox-browsers-enterprise-packages = Pakete für { -brand-name-enterprise }
