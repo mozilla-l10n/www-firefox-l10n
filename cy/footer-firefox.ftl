@@ -46,7 +46,7 @@ footer-compare = Cymharu
 footer-release-notes = Nodiadau Rhyddhau
 # Link to learn more, discover info about Firefox. Link points to
 # https://www-dev.springfield.moz.works/more/
-footer-learn = Dysgwch
+footer-learn = Dysgu
 footer-support = Cefnogaeth
 footer-addons = Ychwanegion
 footer-blog = Blog
@@ -54,7 +54,7 @@ footer-blog = Blog
 ## Links to social media
 
 # Section title
-footer-follow-us = Dilynwch Ni
+footer-follow-us = Dilyn Ni
 footer-instagram = Instagram
 footer-youtube = YouTube
 footer-tiktok = TikTok
