@@ -16,12 +16,12 @@ footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
-footer-custom-download = Opsiynau Lawrlwytho Personol
+footer-custom-download = Dewisiadau Llwytho i Lawr Cyfaddas
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
 # Section title
-footer-latest = Adeiladau Diweddaraf
+footer-latest = Fersiynau Diweddaraf
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 
