@@ -15,3 +15,4 @@ features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }> برای یک
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/privacy/
 features-sync-all-your-data-is-encrypted-on-our = تمام داده‌های شما در سرورهای ما رمزگذاری شده‌اند، بنابراین ما نمی‌توانیم آن‌ها را بخوانیم – تنها شما به آن‌ها دسترسی دارید. ما اطلاعات شما را به تبلیغ‌کنندگان نمی‌فروشیم زیرا این برخلاف <a href="{ $privacy }">تعهد ما به حفظ حریم خصوصی داده‌ها</a> است.
+features-sync-send-tabs-from-one-device-to-another = ارسال زبانه‌ها از یک دستگاه به دستگاه دیگر
