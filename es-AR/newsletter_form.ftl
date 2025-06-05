@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Ingresá una dirección de correo electrónico válida.
-newsletter-form-you-must-agree-to = Tenés que aceptar el aviso de privacidad
+newsletter-form-you-must-agree-to = Tenés que aceptar la nota de privacidad
 newsletter-form-your-email-address = Tu dirección de correo electrónico
 newsletter-form-we-are-sorry-but-there = Lo sentimos, pero hubo un error en nuestro sistema. ¡Por favor, intentá de nuevo más tarde!
 newsletter-form-please-select-country = Seleccioná país o región
