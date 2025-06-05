@@ -5,7 +5,7 @@
 newsletter-form-please-enter-a-valid = Ingresá una dirección de correo electrónico válida.
 newsletter-form-you-must-agree-to = Tenés que aceptar la nota de privacidad
 newsletter-form-your-email-address = Tu dirección de correo electrónico
-newsletter-form-we-are-sorry-but-there = Lo sentimos, pero hubo un error en nuestro sistema. ¡Por favor, intentá de nuevo más tarde!
+newsletter-form-we-are-sorry-but-there = Lo sentimos, pero hubo un error en nuestro sistema. ¡Probá de nuevo más tarde!
 newsletter-form-please-select-country = Seleccioná país o región
 newsletter-form-please-select-language = Seleccioná un idioma
 # Only localize "yourname". Do not change "@example.com".
@@ -16,16 +16,16 @@ newsletter-form-your-email-here = TU CORREO AQUÍ
 newsletter-form-get-firefox-news = Obtené las noticias sobre { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
-newsletter-form-im-okay-with-mozilla = Estoy de acuerdo con que { -brand-name-mozilla } maneje mi información como se describe en <a href="{ $url }">esta nota de Privacidad</a>
+newsletter-form-im-okay-with-mozilla = Estoy de acuerdo con que { -brand-name-mozilla } maneje mi información como se describe en <a href="{ $url }">esta nota de privacidad</a>
 newsletter-form-we-will-only-send-v2 = Solo te enviaremos información relacionada con { -brand-name-mozilla }. Podés darte de baja en cualquier momento.
 newsletter-form-we-will-only-send-firefox-v2 = Solo te enviaremos información relacionada con { -brand-name-firefox }. Podés darte de baja en cualquier momento.
 newsletter-form-if-you-havent-previously = SI no confirmaste previamente una suscripción a un boletín relacionado con { -brand-name-mozilla } tenés que hacerlo. Buscá un correo electrónico nuestro en tu bandeja de entrada o en tu filtro de spam.
-newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> y tú
-newsletter-form-get-firefox-tips = Recibí consejos y noticias sobre { -brand-name-firefox }
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> y vos
+newsletter-form-get-firefox-tips = Recibí consejos, noticias y más sobre { -brand-name-firefox }
 newsletter-form-available-languages = Idiomas disponibles
 newsletter-form-select-country = Elegí el país
-newsletter-form-sign-me-up = Inscribime
-newsletter-form-sign-up-now = Inscribite ya
+newsletter-form-sign-me-up = Registrarme
+newsletter-form-sign-up-now = Registrate ya
 newsletter-form-thanks = ¡Gracias!
 newsletter-form-yes = Sí
 newsletter-form-no = No
