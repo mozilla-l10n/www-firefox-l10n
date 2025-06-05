@@ -44,6 +44,9 @@ footer-developer = Vývojár
 footer-resources = Zdroje
 footer-compare = Porovnanie
 footer-release-notes = Poznámky k vydaniu
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Dozvedieť sa viac
 footer-support = Podpora
 footer-addons = Doplnky
 footer-blog = Blog
