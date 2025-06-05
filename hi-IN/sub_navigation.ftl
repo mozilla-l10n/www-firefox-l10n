@@ -8,6 +8,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = ब्राउज़रों की तुलना करें
 sub-navigation-firefox-for-desktop = डेस्कटॉप के लिए { -brand-name-firefox }
 sub-navigation-release-notes = रिलीज़ नोट्स
+sub-navigation-release-channels = रिलीज़ चैनल
 sub-navigation-desktop = डेस्कटॉप
 sub-navigation-mobile = मोबाइल
 sub-navigation-android = { -brand-name-android }

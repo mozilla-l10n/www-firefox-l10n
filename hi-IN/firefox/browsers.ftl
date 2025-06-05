@@ -7,6 +7,8 @@
 # HTML page title
 firefox-browsers-page-title-v2 = डेस्कटॉप के लिए { -brand-name-firefox }
 
+# HTML page description
+firefox-browsers-page-desc-v2 = डाउनलोड करें ऐसा ब्राउज़र जो आपकी निजता को सर्वोच्च प्राथमिकता देता है — डेस्कटॉप पर Windows, macOS या Linux के लिए { -brand-name-firefox } डाउनलोड करें।
 
 firefox-browsers-main-heading-v2 = डेस्कटॉप के लिए { -brand-name-firefox }
 
@@ -18,6 +20,7 @@ firefox-browsers-download-for-desktop = डेस्कटॉप के लि�
 firefox-browsers-windows = { -brand-name-firefox } के लिए { -brand-name-windows }
 firefox-browsers-mac = { -brand-name-firefox } के लिए { -brand-name-mac-short }
 firefox-browsers-linux = { -brand-name-linux } के लिए { -brand-name-firefox }
+firefox-browsers-custom = कस्टम डाउनलोड विकल्प
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = आपकी कंपनी की आवश्यकताओं के अनुरूप बनी समर्थन प्रक्रिया के साथ बेजोड़ डेटा सुरक्षा प्राप्त करें।
 firefox-browsers-enterprise-packages = { -brand-name-enterprise } पैकेज
