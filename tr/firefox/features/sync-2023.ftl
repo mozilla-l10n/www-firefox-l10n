@@ -10,3 +10,5 @@ features-sync-firefox-browser-sync = { -brand-name-firefox } tarayıcı eşitlem
 # HTML page description
 features-sync-access-your-firefox-bookmarks = { -brand-name-firefox } yer imlerinize, parolalarınıza, açık sekmelerinize ve daha fazlasına istediğiniz cihazdan erişin.
 features-sync-send-tabs-from-one-device-to-another = Cihazdan cihaza sekme gönderme
+# Used as accessible alternative text for an image
+features-sync-an-image-of-a-firefox-application = { -brand-name-firefox } uygulama menüsünde “Sekmeyi cihaza gönder” seçeneğinin vurgulandığı bir resim.
