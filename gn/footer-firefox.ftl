@@ -44,6 +44,9 @@ footer-developer = Mboguatahára
 footer-resources = Mba’eita
 footer-compare = Moñondive
 footer-release-notes = Jehaipy rehegua
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Kuaa
 footer-support = Ñepytyvõ
 footer-addons = Moĩmbaha
 footer-blog = Blog
@@ -67,4 +70,5 @@ footer-logo-trademark-licensing = Marca registrada ra’ãnga’i ñemoneĩ
 ## Language Switcher
 
 footer-language = Ñe’ẽ
+footer-go = Jeho
 footer-firefox = { -brand-name-firefox }

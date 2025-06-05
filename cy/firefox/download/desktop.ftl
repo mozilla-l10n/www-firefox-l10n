@@ -26,7 +26,7 @@ firefox-desktop-download-no-shady = Dim polisïau preifatrwydd amheus na drysau 
 firefox-desktop-download-download-options = Dewisiadau llwytho i lawr ac ieithoedd eraill
 firefox-desktop-download-browser-support = Cymorth { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do-v2 = Gwnewch beth rydych yn ei wneud ar-lein.<br> Mae { -brand-name-firefox-browser } yn eich <strong>diogelu</strong>.
+firefox-desktop-download-do-what-you-do-v2 = Byddwch yn rhydd ar-lein.<br> Mae { -brand-name-firefox-browser } yn eich <strong>diogelu</strong>.
 # Obsolete string
 firefox-desktop-download-do-what-you-do = Gwnewch beth bynnag hoffwch chi ar-lein. D'yw <br> { -brand-name-firefox-browser } <strong>ddim</strong> yn eich gwylio.
 firefox-desktop-download-we-block-the-ad = Rydyn ni'n rhwystro tracwyr hysbysebion. Rydych chi'n crwydro'r rhyngrwyd yn gynt.
@@ -44,7 +44,7 @@ firefox-desktop-download-search-from-address = Chwilio o'r bar cyfeiriad
 firefox-desktop-download-search-engine-options = Dewis peiriant chwilio
 firefox-desktop-download-smart-search-suggestions = Awgrymiadau chwilio clyfar
 firefox-desktop-download-bookmark-history = Nodau tudalen, hanes a thab agored o fewn canlyniadau
-firefox-desktop-download-boost-your = Cynyddwch eich gweithgaredd
+firefox-desktop-download-boost-your = Cynyddu'ch gweithgaredd
 firefox-desktop-download-works-with-google = Yn gweithio gyda chynnyrch { -brand-name-google }
 firefox-desktop-download-built-in-screenshot = Teclyn llun sgrin mewnol
 firefox-desktop-download-bookmarks-manager = Rheolwr nodau tudalen
@@ -53,7 +53,7 @@ firefox-desktop-download-sync-across-devices = Cydweddu ar draws dyfeisiau
 firefox-desktop-download-reader-mode = Modd darllen
 firefox-desktop-download-spell-check = Gwirio sillafu
 firefox-desktop-download-pinned-tabs = Pinio Tabiau
-firefox-desktop-download-stream-share-play = Ffrydiwch, rhannwch a chwaraewch
+firefox-desktop-download-stream-share-play = Ffrydio, rhannu a chwarae
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Rhwystro Awtochwarae fideo a sain
 # Picture-in-Picture is a feature names and so is capitalized in English
@@ -72,7 +72,7 @@ firefox-desktop-download-built-in-password = Rheolwr cyfrinair mewnol
 firefox-desktop-download-clear-history = Clirio'r hanes
 firefox-desktop-download-form-autofill = Awtolanw ffurflenni
 firefox-desktop-download-automatic-updates = Diweddariadau awtomatig
-firefox-desktop-download-customize-your-browser = Cyfaddaswch eich porwr
+firefox-desktop-download-customize-your-browser = Cyfaddasu'ch porwr
 firefox-desktop-download-themes = Themâu
 firefox-desktop-download-dark-mode = Modd tywyll
 firefox-desktop-download-library-of-extensions = Llyfrgell o estyniadau
@@ -96,7 +96,7 @@ firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 firefox-desktop-download-download-this-browser = <a { $attrs }> Llwythwch i lawr yr estyniad porwr hwn </a> i atal { -brand-name-facebook } (ac { -brand-name-instagram }) rhag eich tracio o amgylch y we.
-firefox-desktop-download-sync-your-devices = Cydweddwch eich dyfeisiau
+firefox-desktop-download-sync-your-devices = Cydweddu'ch dyfeisiau
 firefox-desktop-download-screenshots = Lluniau Sgrin
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Diogelwch Uwch Rhag Tracio
