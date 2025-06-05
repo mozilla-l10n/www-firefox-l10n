@@ -4,3 +4,12 @@
 
 sub-navigation-all-languages = همه‌ زبان‌ها
 sub-navigation-firefox = { -brand-name-firefox }
+sub-navigation-compare-browsers = مقایسه مرورگرها
+sub-navigation-firefox-for-desktop = { -brand-name-firefox } برای رومیزی
+sub-navigation-release-notes = یادداشت‌های انتشار
+sub-navigation-release-channels = کانال‌های انتشار
+sub-navigation-desktop = رومیزی
+sub-navigation-mobile = تلفن همراه
+sub-navigation-android = { -brand-name-android }
+sub-navigation-ios = { -brand-name-ios }
+sub-navigation-desktop-beta-and-developer = رومیزی { -brand-name-beta } و { -brand-name-developer-edition }
