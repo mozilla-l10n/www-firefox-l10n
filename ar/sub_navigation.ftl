@@ -8,6 +8,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = قارِن بين المتصفحات
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } لأجهزة الكمبيوتر
 sub-navigation-release-notes = ملاحظات الإصدار
+sub-navigation-release-channels = قنوات الإصدار
 sub-navigation-desktop = أجهزة الكمبيوتر
 sub-navigation-mobile = الهواتف المحمولة
 sub-navigation-android = { -brand-name-android }

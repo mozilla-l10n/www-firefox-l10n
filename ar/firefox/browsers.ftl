@@ -7,6 +7,8 @@
 # HTML page title
 firefox-browsers-page-title-v2 = { -brand-name-firefox } لأجهزة الكمبيوتر
 
+# HTML page description
+firefox-browsers-page-desc-v2 = نزّل المُتصفّح الذي يضع خصوصيتك أولًا — احصل على { -brand-name-firefox } لـ Windows أو macOS أو Linux على الكمبيوتر.
 
 firefox-browsers-main-heading-v2 = { -brand-name-firefox } لأجهزة كمبيوتر سطح المكتب
 
@@ -18,6 +20,7 @@ firefox-browsers-download-for-desktop = نزِّله لأجهزة الكمبيو
 firefox-browsers-windows = متصفح { -brand-name-firefox } لنظام تشغيل { -brand-name-windows }
 firefox-browsers-mac = متصفح { -brand-name-firefox } لنظام تشغيل { -brand-name-mac-short }
 firefox-browsers-linux = مُتصفح { -brand-name-firefox } لنظام تشغيل { -brand-name-linux }
+firefox-browsers-custom = خيارات تنزيل مخصّصة
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = احصل على حماية بيانات لا مثيل لها وأوجه دعم مُصممة خصيصًا لتناسب احتياجات شركتك.
 firefox-browsers-enterprise-packages = حِزم { -brand-name-enterprise }
