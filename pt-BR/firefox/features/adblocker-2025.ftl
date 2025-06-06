@@ -30,4 +30,6 @@ features-adblocker-its-important-to-note = É importante notar que alguns sites 
 features-adblocker-enhanced-privacy = Privacidade e desempenho aprimorados com o { -brand-name-firefox }
 features-adblocker-beyond-ad-blockers = Além dos bloqueadores de anúncios, o { -brand-name-firefox } inclui recursos integrados para lhe dar controle ainda maior sobre sua navegação. Estas ferramentas ajudam a proteger sua privacidade e permitem que você personalize sua experiência de uso:
 features-adblocker-tool-1 = <strong>Modo normal:</strong> Uma opção equilibrada que bloqueia rastreadores comuns enquanto mantém funcionalidades fluidas de sites.
+features-adblocker-tool-2 = <strong>Modo rigoroso:</strong> Ideal para quem quer proteção de privacidade mais forte, bloqueando mais rastreadores e cookies. Note que neste modo alguns sites podem precisar de ajustes.
+features-adblocker-tool-3 = <strong>Modo personalizado:</strong> Para quem quer controle total, o modo personalizado permite selecionar o que bloquear, cookies, rastreadores e muito mais.
 features-adblocker-why-use = Por que usar um bloqueador de anúncios?
