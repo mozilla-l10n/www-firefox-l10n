@@ -7,6 +7,8 @@
 # HTML page title
 firefox-browsers-page-title-v2 = デスクトップ用 { -brand-name-firefox }
 
+# HTML page description
+firefox-browsers-page-desc-v2 = プライバシー第一のブラウザーをダウンロード — Windows、macOS、Linux 用のデスクトップ版 { -brand-name-firefox } をダウンロードしてください。
 
 firefox-browsers-main-heading-v2 = デスクトップ用 { -brand-name-firefox }
 
@@ -18,6 +20,7 @@ firefox-browsers-download-for-desktop = デスクトップ用をダウンロー�
 firefox-browsers-windows = { -brand-name-windows } 用 { -brand-name-firefox }
 firefox-browsers-mac = { -brand-name-mac-short } 用 { -brand-name-firefox }
 firefox-browsers-linux = { -brand-name-linux } 用 { -brand-name-firefox }
+firefox-browsers-custom = カスタムダウンロードオプション
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = 企業のニーズに合わせたサポートサイクルで、随一のデータ保護を実現します。
 firefox-browsers-enterprise-packages = { -brand-name-enterprise } パッケージ
