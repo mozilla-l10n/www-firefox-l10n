@@ -7,6 +7,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = 브라우저 비교
 sub-navigation-firefox-for-desktop = 데스크톱 용 { -brand-name-firefox }
 sub-navigation-release-notes = 출시 안내
+sub-navigation-release-channels = 출시 채널
 sub-navigation-desktop = 데스크톱
 sub-navigation-mobile = 모바일
 sub-navigation-android = { -brand-name-android }
