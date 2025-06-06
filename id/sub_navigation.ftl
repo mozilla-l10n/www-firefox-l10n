@@ -8,6 +8,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = Bandingkan Peramban
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } untuk Desktop
 sub-navigation-release-notes = Catatan Rilis
+sub-navigation-release-channels = Kanal Rilis
 sub-navigation-desktop = Desktop
 sub-navigation-mobile = Seluler
 sub-navigation-android = { -brand-name-android }

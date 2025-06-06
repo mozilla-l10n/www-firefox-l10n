@@ -8,6 +8,7 @@ sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = ブラウザーを比較する
 sub-navigation-firefox-for-desktop = デスクトップ用 { -brand-name-firefox }
 sub-navigation-release-notes = リリースノート
+sub-navigation-release-channels = リリースチャンネル
 sub-navigation-desktop = デスクトップ
 sub-navigation-mobile = モバイル
 sub-navigation-android = { -brand-name-android }

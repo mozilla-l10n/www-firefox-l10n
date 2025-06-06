@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+# An accessible label used to describe that the role of the element is the
+# primary website navigation.
+footer-landmark-label = 補足的
 
 ## Download links for stable versions of Firefox across multiple platforms.
 
@@ -13,20 +16,27 @@ footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
+footer-custom-download = カスタムダウンロードオプション
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
+# Section title
+footer-latest = 最新ビルド
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 
 ## Download links for enterprise versions of Firefox.
 
+# Section title
+footer-business = ビジネス向け { -brand-name-firefox }
 footer-enterprise = { -brand-name-enterprise }
 
 ## Links to community groups.
 
 # Section title
 footer-community = コミュニティ
+footer-contribute = 貢献
+footer-developer = 開発者
 
 ## Links to resources
 
@@ -34,12 +44,17 @@ footer-community = コミュニティ
 footer-resources = リソース
 footer-compare = 比較
 footer-release-notes = リリースノート
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = 学習
 footer-support = サポート
 footer-addons = アドオン
 footer-blog = ブログ
 
 ## Links to social media
 
+# Section title
+footer-follow-us = SNS
 footer-instagram = Instagram
 footer-youtube = YouTube
 footer-tiktok = TikTok
@@ -47,7 +62,10 @@ footer-tiktok = TikTok
 ## Legal links
 
 footer-websites-privacy-notice = ウェブサイトのプライバシーに関する通知
+footer-terms-of-use = 利用規約
+footer-websites-cookie-policy = Cookie ポリシー
 footer-community-participation-guidelines = コミュニティ参加ガイドライン
+footer-logo-trademark-licensing = ロゴ商標ライセンス
 
 ## Language Switcher
 

@@ -7,6 +7,8 @@
 # HTML page title
 firefox-browsers-page-title-v2 = { -brand-name-firefox } pour ordinateur
 
+# HTML page description
+firefox-browsers-page-desc-v2 = Téléchargez le navigateur qui donne la priorité à votre vie privée. Installez { -brand-name-firefox } pour Windows, macOS ou Linux sur votre ordinateur.
 
 firefox-browsers-main-heading-v2 = { -brand-name-firefox } pour ordinateur
 
@@ -18,6 +20,7 @@ firefox-browsers-download-for-desktop = Télécharger pour l’ordinateur
 firefox-browsers-windows = { -brand-name-firefox } pour { -brand-name-windows }
 firefox-browsers-mac = { -brand-name-firefox } pour { -brand-name-mac-short }
 firefox-browsers-linux = { -brand-name-firefox } pour { -brand-name-linux }
+firefox-browsers-custom = Options de téléchargement personnalisées
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Bénéficiez d’une protection incomparable de vos données avec des phases de soutien adaptées aux besoins de votre entreprise.
 firefox-browsers-enterprise-packages = Offres { -brand-name-enterprise }
