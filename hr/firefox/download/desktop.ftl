@@ -33,7 +33,7 @@ firefox-desktop-download-we-block-the-ad = Mi blokiramo oglase za praćenje. Ti 
 firefox-desktop-download-ads-are-distracting = Oglasi odvlače pažnju i usporavaju učitavanje web stranica, dok njihovi programi za praćenje prate svaki tvoj korak na internetu. { -brand-name-firefox-browser } automatski blokira većinu programa za praćenje, tako da ne moraš kopati po tvojim sigurnosnim postavkama.
 firefox-desktop-download-see-your-report = Pogledaj svoj izvještaj o zaštiti
 firefox-desktop-download-for-everyone = { -brand-name-firefox } je za svakoga
-firefox-desktop-download-available-in-over = Dostupan na više od 90 jezika i kompatibilan s { -brand-name-windows }, { -brand-name-mac-short } i { -brand-name-linux } uređajima, { -brand-name-firefox } radi bez obzira što koristiš ili gdje se nalaziš. Za najbolje iskustvo provjeri aktualnost tvog operacijskog sustava.
+firefox-desktop-download-available-in-over = Dostupan na više od 90 jezika i kompatibilan s { -brand-name-windows }, { -brand-name-mac-short } i { -brand-name-linux } uređajima, { -brand-name-firefox } radi bez obzira što koristiš ili gdje se nalaziš. Za najbolje iskustvo provjeri aktualnost tvog operativnog sustava.
 firefox-desktop-download-review-system-req = Pregledaj preduvjete za sustave
 firefox-desktop-download-all-your-devices = Instaliraj { -brand-name-firefox } na sve svoje uređaje
 firefox-desktop-download-take-your-privacy = Ponesi svoju privatnost svuda sa sobom. { -brand-name-firefox-browsers } za { -brand-name-ios } i { -brand-name-android } imaju iste jake postavke privatnosti za blokiranje programa za praćenje da te prate na webu, bez obzira gdje se nalaziš.
@@ -147,7 +147,7 @@ firefox-desktop-download-select-linux = Dolje odaberi opciju za <strong>preuzima
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Imaš problem? <a { $attrs }>Zatraži pomoć za instaliranje</a>.
-firefox-desktop-download-in-another-language = Preuzmi na jednom drugom jeziku ili za jedan drugi operacijski sustav.
+firefox-desktop-download-in-another-language = Preuzmi na jednom drugom jeziku ili za jedan drugi operativni sustav.
 firefox-desktop-download-windows = { -brand-name-windows }
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app

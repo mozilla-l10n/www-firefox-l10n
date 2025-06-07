@@ -53,6 +53,10 @@ footer-websites-privacy-notice = Napomena o privatnosti web stranice
 footer-terms-of-use = Uvjeti korištenja
 footer-websites-cookie-policy = Politika o kolačićima
 footer-community-participation-guidelines = Smjernice za sudjelovanje u zajednici
+footer-logo-trademark-licensing = Korištenje zaštitnih znakova i logotipova
 
 ## Language Switcher
 
+footer-language = Jezik
+footer-go = Idi
+footer-firefox = { -brand-name-firefox }
