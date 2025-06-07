@@ -5,6 +5,12 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
+# HTML page description
+features-adblocker-meta-desc = Saznaj kako blokatori oglasa funkcioniraju, što mogu učiniti za tebe i kako te { -brand-name-firefox } štiti od programa za praćenje i kolačića.
+# Variables:
+#   $firefox (url) - link to https://www.firefox.com/
+#   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
+features-adblocker-using-an-adblocker = Korištenje blokatora oglasa je jednostavno. Mnoge pouzdane opcije dostupne su kao dodaci za preglednik, što olakšava pronalaženje rješenja koje odgovara tvojim potrebama. Na primjer, <a href="{ $firefox }">{ -brand-name-firefox }</a> nudi <a href="{ $addons }">popis odobrenih proširenja</a> osmišljenih za poboljšanje tvog pregledavanja uz poštivanje tvoje privatnosti.
 features-adblocker-finding-the-right = Pronađi blokator oglasa koji tebi odgovara
 features-adblocker-there-are-many = Postoji mnogo alata za blokiranje oglasa koje možeš istražiti, a svaki nudi funkcije koje odgovaraju različitim preferencijama. Pronalaženje pravog blokera za tebe ovisi o tvojim željama i navikama pregledavanja. Evo nekoliko savjeta koje možeš uzeti u obzir:
 features-adblocker-tip-1 = <strong>Blokiranje oglasa:</strong> Ako želiš blokirati samo oglase, odaberi jednostavnu opciju.
@@ -13,6 +19,7 @@ features-adblocker-tip-3 = <strong>Prilagodljivost:</strong> Neki blokatori ogla
 features-adblocker-tip-4 = <strong>Kompatibilnost uređaja:</strong> Trebaš li ga za računalo, mobilni uređaj ili za oboje.
 features-adblocker-tip-5 = <strong>Blokiranje zlonamjernog softvera:</strong> Neki blokatori oglasa štite od zlonamjernih oglasa (npr. AdGuard).
 features-adblocker-tip-6 = <strong>Roditeljski nadzor:</strong> Korisno za blokiranje neprikladnog sadržaja.
+features-adblocker-its-important-to-note = Važno je napomenuti da se neke web stranice oslanjaju na oglase za učitavanje sadržaja ili pružanje funkcionalnosti. Blokiranje oglasa može uzrokovati prekid rada funkcija, poput nemogućnosti reprodukcije videa ili neuspjeha opcija prijave. Odaberi blokator oglasa koji se redovito aktualizira i ako ustanoviš da jedan blokator oglasa uzrokuje značajne probleme, isprobaj jedan drugi kako bi pronašao/la bolju ravnotežu između performanse i kompatibilnosti.
 features-adblocker-enhanced-privacy = Poboljšana privatnost i performansa s { -brand-name-firefox }om
 features-adblocker-beyond-ad-blockers = Osim blokatora oglasa, { -brand-name-firefox } uključuje ugrađene funkcije koje pružaju još veću kontrolu nad pregledavanjem. Ovi alati pomažu u zaštiti tvoje privatnosti, dok istovremeno omogućuju da prilagodiš svoje iskustvo:
 features-adblocker-tool-1 = <strong>Standardni modus:</strong> Uravnotežena opcija koja blokira uobičajene programe za praćenje, a istovremeno održava nesmetano funkcioniranje web stranice.
