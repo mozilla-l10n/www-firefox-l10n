@@ -16,6 +16,10 @@ features-adblocker-an-ad-blocker-is-a-piece = Bloker oglasa je softver koji slu�
 features-adblocker-these-ads-might-be-loud = Ti bi oglasi mogli biti glasni video oglasi, oglasi koji te prate po webu, programi za praćenje, kolačići trećih strana i još mnogo toga. Za upotrebu blokator oglasa, potraži dodatke za blokiranje oglasa koji su dostupni u tvom pregledniku. <a href="{ $firefox }">{ -brand-name-firefox }</a>, na primjer, <a href="{ $addons }">ima ovaj popis odobrenih dodataka za blokiranje oglasa</a>. Klikni ovaj popis (ili blokatore oglasa koji su odobreni za tvoj preglednik) i pogledaj koji odgovara tvojim potrebama.
 features-adblocker-find-the-right-ad-blocker = Pronađi bloker oglasa koji tebi odgovara
 # Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> blokira oglašavanje posvuda. Blokira oglase na webu, društvenim mrežama, čak i one dosadne skočne prozore (međutim, ako želiš samo suzbiti skočne prozore, ne možeš pogriješiti s <a { $attrs2 }>Popup Blocker</a>).
+# Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Ova proširenja izvrsno rade u <a { $attrs1 }>{ -brand-name-firefox }u za desktop</a> i <a { $attrs2 }>Android</a>.
