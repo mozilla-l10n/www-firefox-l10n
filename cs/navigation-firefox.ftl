@@ -16,14 +16,14 @@ navigation-resources = Zdroje
 navigation-close-resources-menu = Zavře nabídku Zdroje
 navigation-product = Produkt
 navigation-desktop = Počítač
-navigation-mobile = Mobil
+navigation-mobile = Mobilní zařízení
 navigation-release-notes = Poznámky k vydání
 navigation-support = Podpora
 navigation-add-ons = Doplňky
-navigation-learn = Naučit
+navigation-learn = Vzdělávání
 navigation-blog = Blog
 navigation-compare = Porovnání
-navigation-podcast = Audio kanál
+navigation-podcast = Podcast
 
 ## Download
 
