@@ -14,3 +14,4 @@ features-adblocker-tip-4 = <strong>Kompatibilnost uređaja:</strong> Trebaš li 
 features-adblocker-tip-5 = <strong>Blokiranje zlonamjernog softvera:</strong> Neki blokatori oglasa štite od zlonamjernih oglasa (npr. AdGuard).
 features-adblocker-tip-6 = <strong>Roditeljski nadzor:</strong> Korisno za blokiranje neprikladnog sadržaja.
 features-adblocker-enhanced-privacy = Poboljšana privatnost i performansa s { -brand-name-firefox }om
+features-adblocker-why-use = Zašto koristiti blokator oglasa?
