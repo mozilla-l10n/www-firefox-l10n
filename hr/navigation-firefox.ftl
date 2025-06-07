@@ -16,6 +16,15 @@ navigation-resources = Resursi
 navigation-close-resources-menu = Zatvori izbornik resursa
 navigation-product = Proizvod
 navigation-desktop = Desktop
+navigation-mobile = Mobitel
+navigation-release-notes = Napomene o izdanju
+navigation-support = Podrška
+navigation-add-ons = Dodaci
+navigation-learn = Nauči
+navigation-blog = Blog
+navigation-compare = Usporedi
+navigation-podcast = Podcast
 
 ## Download
 
+navigation-download = Preuzmi

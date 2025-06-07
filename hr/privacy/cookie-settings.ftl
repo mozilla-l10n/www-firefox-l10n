@@ -5,9 +5,14 @@
 
 ### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
 
+cookie-settings-page-title = Postavke kolačića
+cookie-settings-breadcrumb-link = Prethodna stranica
 cookie-settings-how-mozilla-heading = Kako { -brand-name-mozilla } koristi kolačiće
 cookie-settings-how-does-mozilla-use-subheading = Kako { -brand-name-mozilla } koristi ove podatke?
 cookie-settings-save-changes = Spremi promjene
+cookie-settings-your-cookie-settings-have = Tvoje postavke kolačića su aktualizirane.
+cookie-settings-i-agree = Slažem se
+cookie-settings-i-do-not-agree = Ne slažem se
 
 ## Necessary cookies section
 

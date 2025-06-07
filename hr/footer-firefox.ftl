@@ -16,6 +16,7 @@ footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
+footer-custom-download = Prilagođene opcije preuzimanja
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
