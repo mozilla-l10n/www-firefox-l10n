@@ -40,3 +40,7 @@ features-adblocker-do-it-yourself-custom = Prilagođeni način rada
 features-adblocker-cover-your-trail-block = Sakrij svoje radnje, blokiraj programe za praćenje
 features-adblocker-take-a-bite-out-of-cookies = Zaustavi kolačiće
 features-adblocker-speed-up-thanks-to-ad = Ubrzaj pregledavanje weba pomoću blokatora oglasa
+features-adblocker-in-some-cases-an-ad-blocker = U nekim slučajevima, blokator oglasa može ubrzati preglednika. Učitavanje oglasa može usporiti web stranicu. Uz to trebaš više vremena da bi pronašao/la ono što tražiš ako stalno moraš zatvarati oglase.
+# Variables:
+#   $url (url) - link to https://www.firefox.com/
+features-adblocker-if-you-want-to-learn-more-v2 = Ako želiš saznati više o blokiranju oglasa, postoje stotine proširenja za blokiranje oglasa za { -brand-name-firefox } i druge preglednike. Ako želiš isprobati blokatore oglasa koje koristi { -brand-name-firefox }, <a href="{ $url }">klikni ovdje za preuzimanje</a> preglednika koji privatnost stavlja na prvo mjesto.
