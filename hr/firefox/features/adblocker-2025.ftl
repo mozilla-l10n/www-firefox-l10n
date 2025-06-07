@@ -14,9 +14,11 @@ features-adblocker-tip-4 = <strong>Kompatibilnost uređaja:</strong> Trebaš li 
 features-adblocker-tip-5 = <strong>Blokiranje zlonamjernog softvera:</strong> Neki blokatori oglasa štite od zlonamjernih oglasa (npr. AdGuard).
 features-adblocker-tip-6 = <strong>Roditeljski nadzor:</strong> Korisno za blokiranje neprikladnog sadržaja.
 features-adblocker-enhanced-privacy = Poboljšana privatnost i performansa s { -brand-name-firefox }om
+features-adblocker-beyond-ad-blockers = Osim blokatora oglasa, { -brand-name-firefox } uključuje ugrađene funkcije koje pružaju još veću kontrolu nad pregledavanjem. Ovi alati pomažu u zaštiti tvoje privatnosti, dok istovremeno omogućuju da prilagodiš svoje iskustvo:
 features-adblocker-tool-1 = <strong>Standardni modus:</strong> Uravnotežena opcija koja blokira uobičajene programe za praćenje, a istovremeno održava nesmetano funkcioniranje web stranice.
 features-adblocker-tool-2 = <strong>Strogi modus:</strong> Idealno za korisnike koji žele jaču zaštitu privatnosti blokiranjem više programa za praćenje i kolačića. Imaj na umu da neke web stranice mogu zahtijevati prilagodbe u ovom modusu.
 features-adblocker-tool-3 = <strong>Prilagođeni modus:</strong> Za one koji žele potpunu kontrolu, prilagođeni modus omogućuje odabir onoga što želiš blokirati, od kolačića do programa za praćenje i još mnogo toga.
+features-adblocker-to-adjust = Za prilagođavanje ovih postavki klikni na ikonu štita lijevo od adresne trake na bilo kojoj web stranici i odaberi „Postavke zaštite”. Otvorit će se izbornik u kojem možeš odabrati odgovarajuću razinu zaštite.
 features-adblocker-why-use = Zašto koristiti blokator oglasa?
 features-adblocker-ad-blockers-do-more = Blokatori oglasa rade više od samog upravljanja oglasima – mogu poboljšati brzinu i sigurnost pregledavanja weba uklanjanjem nepotrebnog sadržaja. Omogućuju stvaranje posebnog online iskustva, bez ometanja te ti pomažu da se usredotočiš na ono što je najvažnije.
 # Variables:
