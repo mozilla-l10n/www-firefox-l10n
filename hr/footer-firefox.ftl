@@ -35,15 +35,24 @@ footer-enterprise = { -brand-name-enterprise }
 # Section title
 footer-community = Zajednica
 footer-contribute = Doprinesi
+footer-developer = Programer
 
 ## Links to resources
 
+# Section title
+footer-resources = Resursi
+footer-compare = Usporedi
+footer-release-notes = Napomene o izdanju
 
 ## Links to social media
 
 
 ## Legal links
 
+footer-websites-privacy-notice = Napomena o privatnosti web stranice
+footer-terms-of-use = Uvjeti korištenja
+footer-websites-cookie-policy = Politika o kolačićima
+footer-community-participation-guidelines = Smjernice za sudjelovanje u zajednici
 
 ## Language Switcher
 
