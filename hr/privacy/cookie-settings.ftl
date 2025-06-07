@@ -13,6 +13,7 @@ cookie-settings-save-changes = Spremi promjene
 cookie-settings-your-cookie-settings-have = Tvoje postavke kolačića su aktualizirane.
 cookie-settings-i-agree = Slažem se
 cookie-settings-i-do-not-agree = Ne slažem se
+cookie-settings-turn-on-javascript = Za aktualiziranje postavki kolačića uključi JavaScript.
 
 ## Necessary cookies section
 
