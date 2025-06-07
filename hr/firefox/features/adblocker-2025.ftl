@@ -5,9 +5,14 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
+# Breadcrumb navigation
+features-adblocker-ad-blocking = Blokiranje oglasa
+# Page Title
+features-adblocker-meta-title = O blokatorima oglasa – { -brand-name-firefox }
 # HTML page description
 features-adblocker-meta-desc = Saznaj kako blokatori oglasa funkcioniraju, što mogu učiniti za tebe i kako te { -brand-name-firefox } štiti od programa za praćenje i kolačića.
 features-adblocker-the-ad-blocker-a-tool = Blokator oglasa – alat za personalizirano i fokusirano iskustvo pregledavanja.
+features-adblocker-in-todays-digital-world = U današnjem digitalnom svijetu web može biti kaotičan i prenatrpan. Blokatori oglasa su moćni alati koji ti daju kontrolu nad tvojim iskustvom pregledavanja, omogućujući da odlučiš što će se prikazivati na tvom ekranu.
 features-adblocker-ad-blockers-work = Blokatori oglasa djeluju na dva ključna načina: sprečavaju učitavanje sadržaja, poput oglasa, i blokiraju dijelove web stranica koje sadrže te elemente. To mogu biti video oglasi, personalizirani oglasi koji te prate na webu, pa čak i programi za praćenje trećih strana.
 # Variables:
 #   $firefox (url) - link to https://www.firefox.com/
