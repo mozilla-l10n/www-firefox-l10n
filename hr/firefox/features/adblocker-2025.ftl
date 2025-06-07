@@ -15,3 +15,4 @@ features-adblocker-tip-5 = <strong>Blokiranje zlonamjernog softvera:</strong> Ne
 features-adblocker-tip-6 = <strong>Roditeljski nadzor:</strong> Korisno za blokiranje neprikladnog sadržaja.
 features-adblocker-enhanced-privacy = Poboljšana privatnost i performansa s { -brand-name-firefox }om
 features-adblocker-why-use = Zašto koristiti blokator oglasa?
+features-adblocker-ad-blockers-do-more = Blokatori oglasa rade više od samog upravljanja oglasima – mogu poboljšati brzinu i sigurnost pregledavanja weba uklanjanjem nepotrebnog sadržaja. Omogućuju stvaranje posebnog online iskustva, bez ometanja te ti pomažu da se usredotočiš na ono što je najvažnije.

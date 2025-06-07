@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
-features-adblocker-how-to-stop-seeing-too = Kako zaustaviti prikazivanje previše oglasa i spriječiti poduzeća da te prate na mreži. Priručnik za blokiranje oglasa u web pregledniku { -brand-name-firefox }.
+features-adblocker-how-to-stop-seeing-too = Kako zaustaviti prikazivanje previše oglasa i spriječiti poduzeća da te prate na internetu. Priručnik za blokiranje oglasa u web pregledniku { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Blokator oglasa – tajno oružje protiv dosadnih oglasa.
 features-adblocker-so-many-ads-so-little = Puno oglasa, malo strpljenja … Vrijeme je da se zaustavi ludilo.
 features-adblocker-the-average-person-sees = Prosječna osoba dnevno vidi u prosjeku 4000 oglasa. Ako misliš da je to previše, blokator oglasa je tvoj novi najbolji prijatelj.
