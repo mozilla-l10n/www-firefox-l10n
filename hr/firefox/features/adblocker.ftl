@@ -8,13 +8,13 @@
 features-adblocker-how-to-stop-seeing-too = Kako zaustaviti prikazivanje previše oglasa i spriječiti poduzeća da te prate na mreži. Priručnik za blokiranje oglasa u web pregledniku { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Blokator oglasa – tajno oružje protiv dosadnih oglasa.
 features-adblocker-so-many-ads-so-little = Puno oglasa, malo strpljenja … Vrijeme je da se zaustavi ludilo.
-features-adblocker-the-average-person-sees = Prosječna osoba dnevno vidi u prosjeku 4000 oglasa. Ako misliš da je to previše, bloker oglasa je tvoj novi najbolji prijatelj.
-features-adblocker-an-ad-blocker-is-a-piece = Bloker oglasa je softver koji služi blokiranju oglasa, a radi na dva načina. Prvi način je blokiranje signala s poslužitelja oglašivača, kako se oglas nikada ne bi prikazao na tvojoj stranici. Drugi način je blokiranje dijelova web-stranice koji bi mogli biti oglasi.
+features-adblocker-the-average-person-sees = Prosječna osoba dnevno vidi u prosjeku 4000 oglasa. Ako misliš da je to previše, blokator oglasa je tvoj novi najbolji prijatelj.
+features-adblocker-an-ad-blocker-is-a-piece = Blokator oglasa je softver koji služi blokiranju oglasa, a radi na dva načina. Prvi način je blokiranje signala s poslužitelja oglašivača, kako se oglas nikada ne bi prikazao na tvojoj stranici. Drugi način je blokiranje dijelova web stranice koji bi mogli biti oglasi.
 # Variables:
 #   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
-features-adblocker-these-ads-might-be-loud = Ti bi oglasi mogli biti glasni video oglasi, oglasi koji te prate po webu, programi za praćenje, kolačići trećih strana i još mnogo toga. Za upotrebu blokator oglasa, potraži dodatke za blokiranje oglasa koji su dostupni u tvom pregledniku. <a href="{ $firefox }">{ -brand-name-firefox }</a>, na primjer, <a href="{ $addons }">ima ovaj popis odobrenih dodataka za blokiranje oglasa</a>. Klikni ovaj popis (ili blokatore oglasa koji su odobreni za tvoj preglednik) i pogledaj koji odgovara tvojim potrebama.
-features-adblocker-find-the-right-ad-blocker = Pronađi bloker oglasa koji tebi odgovara
+features-adblocker-these-ads-might-be-loud = Ti bi oglasi mogli biti glasni video oglasi, oglasi koji te prate po webu, programi za praćenje, kolačići trećih strana i još mnogo toga. Za upotrebu blokatora oglasa, potraži dodatke za blokiranje oglasa koji su dostupni u tvom pregledniku. <a href="{ $firefox }">{ -brand-name-firefox }</a>, na primjer, <a href="{ $addons }">ima ovaj popis odobrenih dodataka za blokiranje oglasa</a>. Klikni ovaj popis (ili blokatore oglasa koji su odobreni za tvoj preglednik) i pogledaj koji odgovara tvojim potrebama.
+features-adblocker-find-the-right-ad-blocker = Pronađi blokator oglasa koji tebi odgovara
 # Variables:
 #   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
 #   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
