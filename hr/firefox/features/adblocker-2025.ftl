@@ -7,6 +7,8 @@
 
 # HTML page description
 features-adblocker-meta-desc = Saznaj kako blokatori oglasa funkcioniraju, što mogu učiniti za tebe i kako te { -brand-name-firefox } štiti od programa za praćenje i kolačića.
+features-adblocker-the-ad-blocker-a-tool = Blokator oglasa – alat za personalizirano i fokusirano iskustvo pregledavanja.
+features-adblocker-ad-blockers-work = Blokatori oglasa djeluju na dva ključna načina: sprečavaju učitavanje sadržaja, poput oglasa, i blokiraju dijelove web stranica koje sadrže te elemente. To mogu biti video oglasi, personalizirani oglasi koji te prate na webu, pa čak i programi za praćenje trećih strana.
 # Variables:
 #   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
