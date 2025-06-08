@@ -9,14 +9,14 @@ footer-landmark-label = Doplnkové
 ## Download links for stable versions of Firefox across multiple platforms.
 
 # Section title
-footer-download = Stiahnuť
+footer-download = Na stiahnutie
 footer-download-auto = Stiahnuť { -brand-name-firefox }
 footer-windows = Windows
 footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
-footer-custom-download = Možnosti vlastného sťahovania
+footer-custom-download = Ďalšie možnosti stiahnutia
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
