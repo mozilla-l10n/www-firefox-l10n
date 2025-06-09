@@ -16,6 +16,6 @@ set-as-default-landing-if-you-recently = Ako si nedavno aktualizirao/la svoje ra
 set-as-default-landing-choose-automatic-privacy = Odaberi automatsku privatnost
 set-as-default-landing-companies-keep-finding = Poduzeća stalno pronalaze nove načine, kako bi se dočepali tvojih osobnih podataka. { -brand-name-firefox } je preglednik s misijom pronalaženja novih načina zaštite.
 set-as-default-landing-choose-freedom-on-every = Odaberi slobodu na svakom uređaju
-set-as-default-landing-firefox-is-fast-and = { -brand-name-firefox } je brz i siguran na { -brand-name-windows }ima, { -brand-name-ios }, { -brand-name-android }u, { -brand-name-linux }u… na svima njima. Zaslužujete izbor preglednika i uređaja, umjesto da tu odluku donose umjesto vas.
+set-as-default-landing-firefox-is-fast-and = { -brand-name-firefox } je brz i siguran na sustavima { -brand-name-windows }, { -brand-name-ios }, { -brand-name-android }, { -brand-name-linux } … Zaslužuješ mogućnost biranja preglednika i uređaja, umjesto da tu odluku donose drugi.
 set-as-default-landing-choose-corporate-independence = Odaberi neovisnost od velikih poduzeća
 set-as-default-landing-firefox-is-the-only = { -brand-name-firefox } je jedini veći nezavisni preglednik. { -brand-name-chrome }, { -brand-name-edge } i { -brand-name-brave } su svi izgrađeni na { -brand-name-google } kodu, što znači davanje Googlu još više kontrole nad Internetom.
