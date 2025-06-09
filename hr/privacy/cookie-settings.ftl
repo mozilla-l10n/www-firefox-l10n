@@ -19,7 +19,7 @@ cookie-settings-turn-on-javascript = Za aktualiziranje postavki kolačića uklju
 
 cookie-settings-category-necessary-heading = Potrebni
 cookie-settings-category-necessary-what-are-subheading = Što su potrebni kolačići?
-cookie-settings-category-necessary-what-are-desc = Ove su tehnologije neophodne za podršku osnovnim funkcijama web stranice, kao što su prijava u sigurno područje web stranice ili dodavanje artikala u online košaricu, i ne mogu se onemogućiti.
+cookie-settings-category-necessary-what-are-desc = Ove su tehnologije neophodne za podržavanje osnovnih funkcija web stranice, kao što su prijava u sigurno područje web stranice ili dodavanje artikala u online košaricu, i ne mogu se isključiti.
 
 ## Preference cookies section
 
