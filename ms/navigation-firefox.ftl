@@ -3,6 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
+navigation-firefox-home = { -brand-name-firefox } Laman Utama
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = Utama
 
@@ -13,12 +14,14 @@ navigation-features = Ciri-ciri
 ## Resources
 
 navigation-resources = Sumber
+navigation-close-resources-menu = Menu Sumber Tertutup
 navigation-product = Produk
 navigation-desktop = Desktop
 navigation-mobile = Mudah alih
 navigation-release-notes = Nota Siaran
 navigation-support = Bantuan
 navigation-add-ons = Tambahan
+navigation-learn = Ketahui
 navigation-blog = Blog
 navigation-compare = Bandingkan
 navigation-podcast = Podcast
