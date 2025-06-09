@@ -44,6 +44,9 @@ footer-developer = Programeri
 footer-resources = Resursi
 footer-compare = Uporedite
 footer-release-notes = Napomene o izdanju
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Učite
 footer-support = Podrška
 footer-addons = Dodaci
 footer-blog = Blog
@@ -67,4 +70,5 @@ footer-logo-trademark-licensing = Licenciranje zaštitnog znaka logotipa
 ## Language Switcher
 
 footer-language = Jezik
+footer-go = Idi
 footer-firefox = { -brand-name-firefox }
