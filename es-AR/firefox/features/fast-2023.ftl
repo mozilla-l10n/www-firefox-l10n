@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/fast/
 
-features-fast-is-firefox-the-fastest-browser = ¿ { -brand-name-firefox } es el navegador más rápido?
+features-fast-is-firefox-the-fastest-browser = ¿{ -brand-name-firefox } es el navegador más rápido?
 # HTML description
 features-fast-firefox-uses-less-memory-than = { -brand-name-firefox } usa menos memoria que Chrome, por lo que tus otros programas pueden seguir funcionando a la máxima velocidad.
 features-fast-browse-faster = Navegá más rápido
