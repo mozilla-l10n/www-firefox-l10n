@@ -6,7 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/browsers/desktop
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong-v2 = Usa un navicaturi chi metti a privatizza ô primu postu — e chi l'ha fattu <strong>sempri</strong>
+firefox-browsers-get-the-browsers-strong-v2 = Usa un navicaturi chi metti a privatizza ô primu postu — e chi l’ha fattu <strong>sempri</strong>
 firefox-browsers-desktop = Scagnu
 firefox-browsers-download-for-desktop = Scàrrica a virsioni pû scagnu
 firefox-browsers-enterprise = { -brand-name-enterprise }
