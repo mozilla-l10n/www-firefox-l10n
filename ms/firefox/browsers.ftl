@@ -7,6 +7,8 @@
 # HTML page title
 firefox-browsers-page-title-v2 = { -brand-name-firefox } untuk Desktop
 
+# HTML page description
+firefox-browsers-page-desc-v2 = Muat turun pelayar yang mengutamakan privasi anda — dapatkan { -brand-name-firefox } untuk Windows, macOS atau Linux untuk desktop.
 
 firefox-browsers-main-heading-v2 = { -brand-name-firefox } untuk desktop
 
@@ -18,6 +20,7 @@ firefox-browsers-download-for-desktop = Muat turun untuk Desktop
 firefox-browsers-windows = { -brand-name-firefox } untuk { -brand-name-windows }
 firefox-browsers-mac = { -brand-name-firefox } untuk { -brand-name-mac-short }
 firefox-browsers-linux = { -brand-name-firefox } untuk { -brand-name-linux }
+firefox-browsers-custom = Opsyen Muat turun Khusus
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Dapatkan perlindungan data yang tiada tandingannya dengan kitaran sokongan yang dibuat mengikut keperluan syarikat anda.
 firefox-browsers-enterprise-packages = pakej { -brand-name-enterprise }
