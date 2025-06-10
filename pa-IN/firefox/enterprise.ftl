@@ -15,6 +15,7 @@ firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = ਆਪਣਾ ਡਾਊਨਲੋਡ ਚੁਣੋ
 firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI ਇੰਸਟਾਲਰ
+firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI ਇੰਸਟਾਲਰ
 firefox-enterprise-support = ਸਹਿਯੋਗ
 firefox-enterprise-msi-installers = MSI ਇੰਸਟਾਲਰ

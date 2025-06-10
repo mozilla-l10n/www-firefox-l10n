@@ -6,3 +6,5 @@
 ### URL: https://www-dev.springfield.moz.works/features/customize/
 
 features-customize-customize-your-firefox = ਆਪਣੇ { -brand-name-firefox } ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
+# HTML page description
+features-customize-choose-how-your-browser-looks = ਹਜ਼ਾਰਾਂ ਮੁਫ਼ਤ ਥੀਮਾਂ ਨਾਲ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਦਿੱਖ ਆਪਣੇ ਮੁਤਾਬਕ ਬਣਾਓ।
