@@ -44,6 +44,9 @@ footer-developer = Nhà phát triển
 footer-resources = Tài nguyên
 footer-compare = So sánh
 footer-release-notes = Ghi chú phát hành
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Tìm hiểu
 footer-support = Hỗ trợ
 footer-addons = Tiện ích
 footer-blog = Blog
