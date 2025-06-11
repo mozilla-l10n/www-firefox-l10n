@@ -60,3 +60,5 @@ firefox-developer-fonts-panel = Лавҳаи ҳарфҳо
 firefox-developer-firefox-developer-edition-sends = Браузери «{ -brand-name-firefox-developer-edition }» омори истифодабариро ба ташкилоти «{ -brand-name-mozilla }» ба таври худкор мефиристонад.
 firefox-developer-download-the-firefox-browser = Браузери «{ -brand-name-firefox }»-ро ба даст оред, ки барои барномасозон эҷод карда шудааст.
 firefox-developer-made-for-developers = Браузере, ки барои барномасозон сохта шудааст
+firefox-developer-all-the-latest-v2 = Ҳамаи абзорҳои барномарезӣ дар версияи бета илова ба бар хусусиятҳои монанд ба «Multi-line Console Editor» ва «WebSocket Inspector».
+firefox-developer-a-separate-profile = <strong>Профили алоҳида ва масир</strong>, то шумо тавонед онро ба осонӣ дар баробари релиз ё «{ -brand-name-beta } { -brand-name-firefox }» иҷро намоед.
