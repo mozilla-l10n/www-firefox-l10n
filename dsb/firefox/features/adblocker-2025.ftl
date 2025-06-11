@@ -19,6 +19,7 @@ features-adblocker-ad-blockers-work = Wabjeńske blokěrowaki na dwě głownej n
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-using-an-adblocker = Wužywanje wabjeńskego blokěrowaka jo lažke. Wjele dowěry gódnych nastajenjow jo ako dodanki wobglědowaka k dispoziciji, což wólažcujo, až rozwězanje namakajośo, kótarež wašym pótrjebnosćam  wótpowědujo. <a href="{ $firefox }">{ -brand-name-firefox }</a> na pśikład <a href="{ $addons }">lisćinu pśizwólonych rozšyrjenjow</a> bitujo, kótarež su se wuwili, aby wašo dožywjenje pśeglědowanja pólěpšyli a w jadnakem casu wašu priwatnosć respektěrowali.
 features-adblocker-finding-the-right = Pšawy wabjeński blokěrowak za sebje namakaś
+features-adblocker-there-are-many = Dajo wjele rědow za blokěrowanje wabjenja, kótarež móžośo wuslěźiś, kuždy funkcije bitujo, kótarež se k rozdźělnym preferencam góźe. Lěc pšawu za was namakajośo, wót wašych žycenjow a zwuconosćow pśeglědowanja wótwisujo. How su někotare pokazki, na kótarež wy měł źiwaś:
 features-adblocker-tip-1 = <strong>Wabjenje blokěrowaś:</strong> Jolic jano cośo wabjenje blokěrowaś, wubjeŕśo jadnoru a lažku móžnosć.
 features-adblocker-enhanced-privacy = Pólěpšona priwatnosć a pólěpšone wugbaśe z { -brand-name-firefox }
 features-adblocker-why-use = Cogodla wabjeński blokěrowak wužywaś?

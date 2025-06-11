@@ -21,5 +21,6 @@ features-adblocker-using-an-adblocker = Wužiwanje wabjenskeho blokowaka je loch
 features-adblocker-finding-the-right = Prawy wabjenski blokowak za sebje namakać
 features-adblocker-there-are-many = Je wjele nastroje za blokowanje wabjenja, kotrež móžeće wuslědźić, kóždy funkcije skići, kotrež so k rozdźělnym preferencam hodźa. Hač prawu za was namakaće, wot wašich přećow a zwučenosćow přehladowanja wotwisuje. Tu su někotre pokiwy, na kotrež wy měł dźiwać:
 features-adblocker-tip-1 = <strong>Wabjenje blokować:</strong> Jeli jenož chceće wabjenje blokować, wubjerće jednoru a lochku móžnosć.
+features-adblocker-tip-2 = <strong>Naležnosće priwatnosće:</strong> Jeli sej starosće wo přesćěhowakach činiće, pytajće za wabjenskim blokowakom ze zatwarjenymi funkcijemi priwatnosće.
 features-adblocker-enhanced-privacy = Polěpšena priwatnosć a polěpšeny wukon z { -brand-name-firefox }
 features-adblocker-why-use = Čehodla wabjenski blokowak wužiwać?
