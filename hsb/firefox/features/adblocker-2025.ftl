@@ -23,5 +23,6 @@ features-adblocker-there-are-many = Je wjele nastroje za blokowanje wabjenja, ko
 features-adblocker-tip-1 = <strong>Wabjenje blokować:</strong> Jeli jenož chceće wabjenje blokować, wubjerće jednoru a lochku móžnosć.
 features-adblocker-tip-2 = <strong>Naležnosće priwatnosće:</strong> Jeli sej starosće wo přesćěhowakach činiće, pytajće za wabjenskim blokowakom ze zatwarjenymi funkcijemi priwatnosće.
 features-adblocker-tip-3 = <strong>Přiměrjomnosć:</strong> Někotre wabjenske blokowaki drobne wothłosowanje zmóžnjeja, zo bychu wěste sydła do běłeje lisćiny přiwzali abo wěste elementy blokowali.
+features-adblocker-tip-4 = <strong>Gratowa kompatibelnosć:</strong> Přemyslće, hač jón za desktop, mobilny grat abo wobaj trjebaće.
 features-adblocker-enhanced-privacy = Polěpšena priwatnosć a polěpšeny wukon z { -brand-name-firefox }
 features-adblocker-why-use = Čehodla wabjenski blokowak wužiwać?
