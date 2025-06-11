@@ -12,6 +12,7 @@
 firefox-desktop-download-meta-title = Ześěgniśo { -brand-name-firefox-browser } – malsny, priwatny a dermotny – wót { -brand-name-mozilla }
 firefox-desktop-download-meta-title-v2 = Ześěgniśo { -brand-name-firefox } za dektop – wót { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Wobstarajśo se { -brand-name-firefox }, dermotny webwobglědowak, kótaryž se wót { -brand-name-mozilla }, za wše wužytneje organizacije, spěchujo, kótaraž se za internetnu strowosć a priwatnosć zasajźujo. Jo něnto na { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios } k dispoziciji.
+firefox-desktop-download-meta-desc-v2 = Wobstarajśo se { -brand-name-firefox } za { -brand-name-windows }, { -brand-name-mac-short } abo { -brand-name-linux }. { -brand-name-firefox } jo dermotny wobglědowak, kótaryž se wót { -brand-name-mozilla } pódpěra, za wše wužytna organizacija, kótaraž se za derjeměśe interneta a priwatnosć zasajźujo.
 firefox-desktop-download-og-title = Ześěgniśo nejmalsnjejšy { -brand-name-firefox }
 firefox-desktop-download-og-desc = Boki se malsnjej zacytaju, mjenjej składa se wužywa a z wjele funkcijami: Nowy { -brand-name-firefox } jo wujšeł.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
