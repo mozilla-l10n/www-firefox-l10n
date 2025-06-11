@@ -20,6 +20,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Samo nowšy { -brand-name-firefox } jo k dispoziciji. <a { $update_url }>Na nejnowšu wersiju aktualizěrowaś</a>
 firefox-desktop-download-get-the-browser = Wobstarajśo se wobglědowak, kótaryž šćita, což jo wažne.
+firefox-desktop-download-fast-reliable-private = Malsny, spušćobny a priwatny – za dušyny měr online.
 # Obsolete string
 firefox-desktop-download-no-shady = Žedne póchmurne pšawidła priwatnosći abo slězne źuŕka za wabjarje. Jano spěšnučki wobglědowak, kótaryž was njewobšuźujo.
 firefox-desktop-download-download-options = Ześěgnjeńske móžnosći a druge rěcy
@@ -112,6 +113,9 @@ firefox-desktop-download-from-security-to = Wót wěstoty pśez powěsći do gra
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } jo se napórał wót <a { $attrs }>{ -brand-name-mozilla }</a> ako malsnjejša, priwatnjejša alternatiwa k wobglědowakam ako { -brand-name-ie }, a něnto { -brand-name-chrome }. Źinsa našo pśedewześe a zgromaźeństwo dobrowólnikow hyšći našej misiji slědujotej, aby waš priwatnosć nade wšym stajiłej.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Tak kaž internet rosćo a se změnja, staja { -brand-name-firefox } dalej fokus na waše pšawo na priwatnosć – to jo južo pśecej było naša wěc. Zgóńśo wěcej wó našych datowych praktikach w našej <a { $attrs }>powěźeńce priwatnosći</a>.
 # Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/
