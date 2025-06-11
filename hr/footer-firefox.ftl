@@ -52,6 +52,8 @@ footer-addons = Dodaci
 
 ## Links to social media
 
+# Section title
+footer-follow-us = Prati nas
 
 ## Legal links
 
