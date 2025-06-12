@@ -17,6 +17,7 @@ navigation-release-notes = Informacje o wydaniu
 navigation-support = Pomoc
 navigation-add-ons = Dodatki
 navigation-blog = Blog
+navigation-podcast = Podcast
 
 ## Download
 
