@@ -5,6 +5,9 @@
 
 ## Download links for stable versions of Firefox across multiple platforms.
 
+# Section title
+footer-download = Pobieranie
+footer-download-auto = Pobierz { -brand-name-firefox(case: "acc") }
 footer-windows = Windows
 footer-mac = Mac
 footer-ios = iOS
@@ -18,13 +21,21 @@ footer-nightly = { -brand-name-nightly }
 
 ## Download links for enterprise versions of Firefox.
 
+# Section title
+footer-business = { -brand-name-firefox } dla biznesu
 footer-enterprise = { -brand-name-enterprise }
 
 ## Links to community groups.
 
+# Section title
+footer-community = Społeczność
+footer-developer = Developer
 
 ## Links to resources
 
+# Section title
+footer-resources = Zasoby
+footer-compare = Porównaj
 footer-release-notes = Informacje o wydaniu
 footer-support = Pomoc
 footer-addons = Dodatki
@@ -40,6 +51,7 @@ footer-tiktok = TikTok
 
 ## Legal links
 
+footer-terms-of-use = Warunki korzystania
 
 ## Language Switcher
 
