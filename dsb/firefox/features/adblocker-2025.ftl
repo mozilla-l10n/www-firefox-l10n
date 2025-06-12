@@ -24,5 +24,7 @@ features-adblocker-tip-1 = <strong>Wabjenje blokěrowaś:</strong> Jolic jano co
 features-adblocker-tip-2 = <strong>Nastupnosći priwatnosći:</strong> Jolic se starosći wó pśeslědowakach cyniśo, pytajśo za wabjeńskim blokěrowakom ze zatwarjonymi funkcijami priwatnosći.
 features-adblocker-tip-3 = <strong>Pśiměrjobnosć:</strong> Někotare wabjeńske blokěrowaki drobne wótgłosowanje zmóžnjaju, aby wěste sedła do běłeje lisćiny pśiwzeli abo wěste elementy blokěrowali.
 features-adblocker-tip-4 = <strong>Rědowa kompatibelnosć:</strong> Pśemysliśo, lěc jen za desktop, mobilny rěd abo wobej trjebaśo.
+features-adblocker-tip-5 = <strong>Blokěrowanje škódneje software:</strong> Někotare wabjeńske blokěrowaki pśeśiwo złosnemu wabjenju šćitaju (na pś. AdGuard)
+features-adblocker-tip-6 = <strong>Starjejšyna kontrola:</strong> Wužytna, jolic cośo njepśiměrjone wopśimjeśe blokěrowaś.
 features-adblocker-enhanced-privacy = Pólěpšona priwatnosć a pólěpšone wugbaśe z { -brand-name-firefox }
 features-adblocker-why-use = Cogodla wabjeński blokěrowak wužywaś?
