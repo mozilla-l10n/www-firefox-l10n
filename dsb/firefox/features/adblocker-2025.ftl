@@ -28,4 +28,5 @@ features-adblocker-tip-5 = <strong>Blokěrowanje škódneje software:</strong> N
 features-adblocker-tip-6 = <strong>Starjejšyna kontrola:</strong> Wužytna, jolic cośo njepśiměrjone wopśimjeśe blokěrowaś.
 features-adblocker-enhanced-privacy = Pólěpšona priwatnosć a pólěpšone wugbaśe z { -brand-name-firefox }
 features-adblocker-beyond-ad-blockers = Mimo wabjeńskich blokěrowakow { -brand-name-firefox } zatwarjone funkcije wopśimujo, aby wam samo wětšu kontrolu nad wašym pśeglědowanim dał. Toś te rědy pomagaju, wašu priwatnosć šćitaś, mjaztym až wam zmóžnjaju, waše dožywjenje pśiměriś:
+features-adblocker-tool-1 = <strong>Standardny modus:</strong> Wurownane nastajenje, kótarež zwucone pśeslědowaki blokěrujo, mjaztym až se běžna funkcionalnosć websedła zdźaržujo.
 features-adblocker-why-use = Cogodla wabjeński blokěrowak wužywaś?
