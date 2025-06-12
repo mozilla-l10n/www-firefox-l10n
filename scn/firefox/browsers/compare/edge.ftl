@@ -7,3 +7,4 @@
 
 # Page title
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } vs Microsoft Edge
+compare-edge-we-block-trackers-by-default = Bluccamu i trazzatura di manera pridifinuta. Edge nun u fa.
