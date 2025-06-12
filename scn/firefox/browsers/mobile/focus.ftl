@@ -14,5 +14,7 @@ mobile-focus-get-firefox-focus = Pigghia { -brand-name-firefox-focus }
 mobile-focus-scan-the-qr-code-to-get-started = Scanziuna u còdici QR p’accuminciari
 mobile-focus-scan-alt-text = Scanziuna u còdici QR pi scarricari { -brand-name-firefox-focus }
 mobile-focus-delete-your-history = Scancella a to crunuluggìa
+mobile-focus-take-private-mode = Porta a mudalità privata a n'autru liveḍḍu
 mobile-focus-tracking-protection = Prutizzioni dû trazzamentu
+mobile-focus-see-it-all = Nàvica cchiù lestu
 mobile-focus-made-by-mozilla = Fattu di { -brand-name-mozilla }

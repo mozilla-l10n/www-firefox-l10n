@@ -7,6 +7,7 @@
 
 browsers-mobile-firefox-for-android = { -brand-name-firefox } pi { -brand-name-android }
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } pi { -brand-name-ios }
+browsers-mobile-go-your-own-way = Vai pâ to strata cu { -brand-name-firefox } pû tilèfunu
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare = Apparaggia
 browsers-mobile-download = Scàrrica

@@ -16,4 +16,5 @@ mobile-ios-make-firefox-your = Cunfijura { -brand-name-firefox } comu navicaturi
 mobile-ios-fast-private-secure = Lestu, Privatu, Sicuru
 mobile-ios-stay-private-online = Arresta privatu ’n linia
 mobile-ios-your-browsing-history = A to crunuluggìa è storia passata
+mobile-ios-get-more-firefox = Ancora cchiù assai di { -brand-name-firefox } nnâ to vita
 mobile-ios-about-mozilla = Nfurmazzioni supra a { -brand-name-mozilla }
