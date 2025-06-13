@@ -65,7 +65,7 @@ footer-websites-privacy-notice = Informação de privacidade do site
 footer-terms-of-use = Termos de utilização
 footer-websites-cookie-policy = Política de cookies
 footer-community-participation-guidelines = Linhas orientadoras da participação na comunidade
-footer-logo-trademark-licensing = licenciamento de marca registada logótipo
+footer-logo-trademark-licensing = Licenciamento da marca registada do logótipo
 
 ## Language Switcher
 
