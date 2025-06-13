@@ -20,7 +20,6 @@ firefox-desktop-download-spell-check = Verificare ortografică
 firefox-desktop-download-pinned-tabs = File fixate
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Imagine în imagine
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser(case: "definite-article", capitalization: "upper") }
 firefox-desktop-download-get-firefox-android = Obține { -brand-name-firefox-browser } pentru <strong>{ -brand-name-android }</strong>
 
 ## URL: https://www-dev.springfield.moz.works/thanks/

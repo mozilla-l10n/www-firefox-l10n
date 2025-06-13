@@ -101,7 +101,6 @@ firefox-desktop-download-screenshots = Ảnh chụp màn hình
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Trình chống theo dõi nâng cao (ETP)
 firefox-desktop-download-from-watching-a = Từ việc xem hướng dẫn trên web đến theo dõi đội bóng yêu thích của bạn, video của bạn sẽ theo bạn trong khi bạn đa nhiệm.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Tải { -brand-name-firefox-browser } dành cho <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Tải { -brand-name-firefox-browser } dành cho <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Tải xuống trình duyệt di động { -brand-name-firefox } để bảo vệ tự động trên tất cả các thiết bị của bạn.

@@ -95,7 +95,6 @@ firefox-desktop-download-screenshots = ቅጽበታዊ ገጽ እይታዎች
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = የተሻሻለ የክትትል ጥበቃ (ኢቲፒ)
 firefox-desktop-download-from-watching-a = የድር አጋዥ ስልጠናን ከመመልከት ጀምሮ የሚወዱትን ቡድን እስከመከታተል፣ የተለያየ ሥራ በሚሰሩበት ጊዜ ተንቀሳቃሽ ምስልዎ ይከተልዎታል።
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = ለ<strong>{ -brand-name-android }</strong> { -brand-name-firefox-browser }ን ያግኙ
 firefox-desktop-download-get-firefox-ios = ለ<strong>{ -brand-name-ios }</strong> { -brand-name-firefox-browser } ያግኙ
 firefox-desktop-download-download-the-mobile = በሁሉም መሳሪያዎችዎ ላይ ለራስ-ሰር ጥበቃ { -brand-name-firefox } የስልክ አሳሽ ያውርዱ።

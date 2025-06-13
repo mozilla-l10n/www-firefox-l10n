@@ -88,7 +88,6 @@ firefox-desktop-download-sync-your-devices = Mtawi ibenkan-inek
 firefox-desktop-download-screenshots = Tuṭṭfiwin n wegdil
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Ammesten mgal aḍfaṛ yettwaseǧhed (ETP)
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Awi { -brand-name-firefox-browser } i <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Awi { -brand-name-firefox-browser } i <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Sader-d iminig { -brand-name-firefox } n uziraz i ummesten awurman ɣef meṛṛa ibenkan-inek·inem.

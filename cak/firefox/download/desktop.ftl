@@ -93,7 +93,6 @@ firefox-desktop-download-screenshots = Chapoj taq ruwäch
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Utzirisan Chajinïk chuwäch Ojqanem (ETP)
 firefox-desktop-download-from-watching-a = Toq natz'ët jun ajk'amaya'l k'utunïk chuqa' nawoyob'ej rutzijol jeb'ël amolaj, ri asilowäch yatrojqaj toq nab'än jalajöj taq asamaj.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Tik'ul { -brand-name-firefox-browser } richin <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Tik'ul { -brand-name-firefox-browser } richin <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Taqasaj ri { -brand-name-firefox } oyonib'äl okik'amaya'l richin ruyon yachajïx pa ronojel taq awokisab'al.

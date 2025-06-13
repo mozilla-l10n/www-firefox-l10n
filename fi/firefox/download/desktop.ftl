@@ -101,7 +101,6 @@ firefox-desktop-download-screenshots = Kuvakaappaukset
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Tehostettu seurannan suojaus (ETP)
 firefox-desktop-download-from-watching-a = Voit katsoa opetusvideoita tai suosikkijoukkueesi ottelua samalla, kun teet muita asioita.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Hanki { -brand-name-firefox-browser } <strong>{ -brand-name-android }ille</strong>
 firefox-desktop-download-get-firefox-ios = Hanki { -brand-name-firefox-browser } <strong>{ -brand-name-ios }:lle</strong>
 firefox-desktop-download-download-the-mobile = Lataa { -brand-name-firefox }-mobiiliselain saadaksesi automaattista suojaa kaikilla laitteillasi.

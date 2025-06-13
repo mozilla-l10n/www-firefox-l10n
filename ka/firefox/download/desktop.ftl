@@ -101,7 +101,6 @@ firefox-desktop-download-screenshots = ეკრანის სურათე�
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = თვალთვალისგან გაძლიერებული დაცვა
 firefox-desktop-download-from-watching-a = გაკვეთილს უყურებთ თუ საყვარელ გუნდს ადევნებთ თვალს, თქვენი ვიდეო მუდამ თქვენთან დარჩება სხვა საქმის კეთების დროსაც.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = გადმოწერეთ { -brand-name-firefox-browser } <strong>{ -brand-name-android }-ზე</strong>
 firefox-desktop-download-get-firefox-ios = გადმოწერეთ { -brand-name-firefox-browser } <strong>{ -brand-name-ios }-ზე</strong>
 firefox-desktop-download-download-the-mobile = ჩამოტვირთეთ { -brand-name-firefox } მობილურისთვის, თავისთავდი დაცვით, ყველა თქვენს მოწყობილობაზე.

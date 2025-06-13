@@ -101,7 +101,6 @@ firefox-desktop-download-screenshots = 畫面擷圖
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = 加強型追蹤保護（ETP）
 firefox-desktop-download-from-watching-a = 不論是觀看網路教學影片，還是要關心球賽打得怎樣了，都可以讓影片在您同時做不同事情時自動跟著走。
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = 下載 { -brand-name-firefox-browser } for <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = 下載 { -brand-name-firefox-browser } for <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = 下載 { -brand-name-firefox } 行動瀏覽器，讓您的隱私在所有裝置都能自動受到保護。

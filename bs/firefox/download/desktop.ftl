@@ -101,7 +101,6 @@ firefox-desktop-download-screenshots = Snimci ekrana
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Napredna zaštita od praćenja (ETP)
 firefox-desktop-download-from-watching-a = Bilo da gledate web priručnik, omiljenu seriju ili prenos uživo, video vas prati i omogućava da se koncentrišete na druge stvari.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Nabavite { -brand-name-firefox-browser } za <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Nabavite { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Preuzmite mobilni pretraživač { -brand-name-firefox } za automatsku zaštitu na svim vašim uređajima.

@@ -22,7 +22,6 @@ firefox-desktop-download-themes = Estilos
 firefox-desktop-download-dark-mode = Mou escuru
 firefox-desktop-download-library-of-extensions = Biblioteca d'estensiones
 firefox-desktop-download-screenshots = Captures de pantalla
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ¿Tienes entrugues? <a { $attrs }>Sofitu de { -brand-name-mozilla }</a> respuéndete.

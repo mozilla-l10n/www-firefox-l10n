@@ -101,7 +101,6 @@ firefox-desktop-download-screenshots = Στιγμιότυπα οθόνης
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Ενισχυμένη προστασία από καταγραφή (ΕΠΚ)
 firefox-desktop-download-from-watching-a = Από οδηγούς εκμάθησης μέχρι τον αγώνα της αγαπημένης σας ομάδας, τα βίντεο σας ακολουθούν στις υπόλοιπες σας εργασίες.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Λήψη του { -brand-name-firefox-browser } για <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Λήψη του { -brand-name-firefox-browser } για <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Κάντε λήψη του { -brand-name-firefox } για κινητά, με αυτόματη προστασία σε όλες τις συσκευές σας.

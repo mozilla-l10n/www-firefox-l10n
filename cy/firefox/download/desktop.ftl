@@ -101,7 +101,6 @@ firefox-desktop-download-screenshots = Lluniau Sgrin
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Diogelwch Uwch Rhag Tracio
 firefox-desktop-download-from-watching-a = O wylio tiwtorial gwe i gadw llygad ar eich hoff dîm, mae eich fideo yn eich dilyn wrth i chi amldasgio.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Cael { -brand-name-firefox-browser } <strong> { -brand-name-android } </strong>
 firefox-desktop-download-get-firefox-ios = Cael { -brand-name-firefox-browser } <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Llwythwch i lawr y porwr symudol { -brand-name-firefox } ar gyfer diogelwch awtomatig ar eich holl ddyfeisiau.

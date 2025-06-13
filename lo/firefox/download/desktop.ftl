@@ -101,7 +101,6 @@ firefox-desktop-download-screenshots = ພາບຫນ້າຈໍ
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = ການປັບປຸງການປົກປ້ອງການຕິດຕາມ (ETP)
 firefox-desktop-download-from-watching-a = ຈາກການເບິ່ງການສອນເວັບເພື່ອຕິດຕາມເບິ່ງທີມງານທີ່ທ່ານມັກ, ວິດີໂອຂອງທ່ານຕິດຕາມທ່ານໃນຂະນະທີ່ທ່ານເຮັດຫຼາຍວຽກ.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = ເອົາ { -brand-name-firefox-browser } ສໍາລັບ <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = ເອົາ { -brand-name-firefox-browser } ສໍາລັບ <strong>{ -brand-name-ios } </strong>
 firefox-desktop-download-download-the-mobile = ດາວໂຫລດຕົວທ່ອງເວັບມືຖື { -brand-name-firefox } ສໍາລັບການປົກປ້ອງອັດຕະໂນມັດໃນທຸກອຸປະກອນຂອງທ່ານ.

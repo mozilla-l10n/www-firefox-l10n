@@ -101,7 +101,6 @@ firefox-desktop-download-screenshots = Skermôfbyldingen
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Ferbettere beskerming tsjin folgjen (FBF)
 firefox-desktop-download-from-watching-a = Fan it besjen fan in webhantlieding oant it yn de gaten hâlden fan jo favorite team, jo fideo folget jo wylst jo multitaske.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Download { -brand-name-firefox-browser } foar <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Download { -brand-name-firefox-browser } foar <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Download de mobile { -brand-name-firefox }-browser foar automatyske beskerming fan al jo apparaten.

@@ -21,7 +21,6 @@ firefox-desktop-download-dark-mode = ഇരുളിമ പരി
 firefox-desktop-download-library-of-extensions = വിപുലീകരണങ്ങളുടെ ഗ്രന്ഥപ്പുര
 firefox-desktop-download-sync-your-devices = നിങ്ങളുടെ ഉപകരണങ്ങള്‍ സമന്വയിപ്പിക്കുക
 firefox-desktop-download-screenshots = പ്രതലപ്പിളൎപ്പുകൾ
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 
 ## URL: https://www-dev.springfield.moz.works/thanks/
 

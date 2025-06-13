@@ -101,7 +101,6 @@ firefox-desktop-download-screenshots = Mba’erechaha jejapyhy
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Tapykueho mo’ãha iporãvéva (ETP)
 firefox-desktop-download-from-watching-a = Ehechávo ñandutípe tutorial eikuaaseve nde equipo ehayhuvévagui peve, ne ra’ãngamýi nde rapykueho emba’apo aja.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Ereko { -brand-name-firefox-browser } <strong>{ -brand-name-android } peg̃uarã</strong>
 firefox-desktop-download-get-firefox-ios = Ereko { -brand-name-firefox-browser } <strong>{ -brand-name-ios } peg̃uarã</strong>
 firefox-desktop-download-download-the-mobile = Emboguejy kundahára oku’éva { -brand-name-firefox } ñemo’ã ijeheguíva opaite mba’e’okápe g̃uarã.

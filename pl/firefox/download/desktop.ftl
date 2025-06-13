@@ -101,7 +101,6 @@ firefox-desktop-download-screenshots = Zrzuty ekranu
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Wzmocniona ochrona przed śledzeniem
 firefox-desktop-download-from-watching-a = Od oglądania samouczka po obserwowanie swojej ulubionej drużyny, wideo jest zawsze przy Tobie, kiedy robisz wiele rzeczy jednocześnie.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Pobierz { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } na <strong>{ -brand-name-android(case: "acc") }</strong>
 firefox-desktop-download-get-firefox-ios = Pobierz { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } na <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Pobierz przeglądarkę { -brand-name-firefox } na telefon, aby automatycznie chronić wszystkie swoje urządzenia.

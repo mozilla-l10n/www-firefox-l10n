@@ -28,7 +28,6 @@ firefox-desktop-download-dark-mode = Mod teñval
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Goubredit ho trevnadoù
 firefox-desktop-download-screenshots = Tapadennoù-skramm
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Tapit { -brand-name-firefox-browser } evit <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Tapit { -brand-name-firefox-browser } evit <strong>{ -brand-name-ios }</strong>
 

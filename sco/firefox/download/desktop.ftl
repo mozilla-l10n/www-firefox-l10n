@@ -93,7 +93,6 @@ firefox-desktop-download-screenshots = Screenshots
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Augmentit Trackin Bieldin (ATB)
 firefox-desktop-download-from-watching-a = Fae watchin a wab tutorial tae keepin an ee on yer favourite team, yer video follaes ye while ye multitask.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Get { -brand-name-firefox-browser } fur <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Get { -brand-name-firefox-browser } fur <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Doonload the { -brand-name-firefox } mobile stravaiger fur automatic bieldin on aw yer devices.

@@ -10,7 +10,6 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } త�
 firefox-desktop-download-themes = అలంకారాలు
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-screenshots = తెరపట్లు
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 
 ## URL: https://www-dev.springfield.moz.works/thanks/
 

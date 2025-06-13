@@ -93,7 +93,6 @@ firefox-desktop-download-screenshots = තිර සේයා
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = දියුණු කළ ලුහුබැඳීමේ රැකවරණය (ETP)
 firefox-desktop-download-from-watching-a = මාර්ගගත ඉගැන්වීමක් නැරඹීමේ සිට ඔබගේ ප්‍රියතම කණ්ඩායම දෙස අවධානයෙන් සිටීම දක්වා, කාර්ය කිහිපයක් අතරතුර දෘශ්‍යක බලන්න.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong> සඳහා { -brand-name-firefox-browser } ගන්න
 firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> සඳහා { -brand-name-firefox-browser } ගන්න
 firefox-desktop-download-download-the-mobile = සියළුම උපාංගවල ස්වයංක්‍රීය රැකවරණයක් සහිතව පිරික්සීමට { -brand-name-firefox } ජංගම අතිරික්සුව බාගන්න.
