@@ -80,8 +80,8 @@ firefox-desktop-download-adjust-search-bar = De sykbalkeynstellingen oanpasse
 firefox-desktop-download-change-new-tab = De opmaak fan nije ljepblêden wizigje
 firefox-desktop-download-make-firefox-your = Meitsje <strong>{ -brand-name-firefox }</strong> fan josels
 firefox-desktop-download-extensions-for-every = Utwreidingen foar elke ynteresse
-firefox-desktop-download-change-up-your = Wizigje jo úterlik
-firefox-desktop-download-go-from-light = Gean fan ljochte modus nei donkere modus, ôfhinklik fan jo stimming of foarkar, of fleurich de boel op mei in oanpast tema (miskien in reinbôgienhoarn).
+firefox-desktop-download-change-up-your = Wizigje it uterlik
+firefox-desktop-download-go-from-light = Gean fan ljochte modus nei donkere modus, ôfhinklik fan jo stimming of foarkar, of fleur de boel op mei in oanpast tema (miskien in reinbôgienhoarn).
 firefox-desktop-download-tweak-your-settings = Pas jo ynstellingen oan
 firefox-desktop-download-theres-no-need = Jo hoege gjin fernoegen te nimmen mei de standert. Wizigje de nij-ljepblêdside, sykbalke, blêdwizers en mear om it ynternet te ferkennen sa as jo dat wolle.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -109,7 +109,7 @@ firefox-desktop-download-learn-about-the = Lês hjirûnder mear oer de { -brand-
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
-firefox-desktop-download-from-security-to = Fan befeiliging oant nijs oant game, der is <a { $attrs }>foar elkenien in útwreiding</a>. Foegje der sa folle ta as jo wolle, oant jo browser presys goed is.
+firefox-desktop-download-from-security-to = Fan befeiliging oant nijs oant games, der is <a { $attrs }>foar elkenien in útwreiding</a>. Foegje der sa folle ta as jo wolle, oant jo browser presys goed is.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } waard troch <a { $attrs }>{ -brand-name-mozilla }</a> makke as in flugger, persoanliker alternatyf foar browsers lykas { -brand-name-ie }, en no { -brand-name-chrome }. Tsjintwurdich bliuwe ús missy-dreaune bedriuw en ús frijwilligersmienskip jo privacy boppe alles stelle.
@@ -131,7 +131,7 @@ firefox-desktop-download-grab-a-high = Meitsje in ôfbylding mei in hege resolú
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>blokkearret automatysk in protte trackers fan tredden</a> dy’t jo webaktiviteit sammelje en ferkeapje.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-questions = Fragen? <a { $attrs }>{ -brand-name-mozilla }-stipe </a> is der foar jo.
+firefox-desktop-download-questions = Fragen? <a { $attrs }>{ -brand-name-mozilla }-stipe</a> is der foar jo.
 
 ## URL: https://www-dev.springfield.moz.works/thanks/
 
