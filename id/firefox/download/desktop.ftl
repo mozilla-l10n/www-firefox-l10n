@@ -109,7 +109,6 @@ firefox-desktop-download-screenshots = Tangkapan Layar
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Perlindungan Pelacakan yang Ditingkatkan (ETP)
 firefox-desktop-download-from-watching-a = Dari menonton situs tutorial hingga melihat tim kebanggaan Anda, video Anda akan mengikuti Anda sambil melakukan banyak tugas.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Dapatkan { -brand-name-firefox-browser } untuk <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Dapatkan { -brand-name-firefox-browser } untuk <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Unduh peramban seluler { -brand-name-firefox } untuk perlindungan otomatis di semua perangkat Anda.
