@@ -9,7 +9,7 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Ücretsiz web tarayıcısı
-new-platform-download-the-fastest = Bugüne kadarki en hızlı { -brand-name-firefox }'u indirin
+new-platform-download-the-fastest = Bugüne kadarki en hızlı { -brand-name-firefox }’u indirin
 new-platform-faster-page-loading = Daha hızlı açılan sayfalar, daha az bellek kullanımı ve bir sürü özelliğiyle yeni { -brand-name-firefox } burada.
 new-platform-2x-faster = 2 kat daha hızlı
 new-platform-advanced-install-options = Gelişmiş yükleme seçenekleri ve diğer platformlar

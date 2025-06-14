@@ -9,7 +9,7 @@
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox }’u indir
-firefox-new-download-the-fastest-firefox = Bugüne kadarki en hızlı { -brand-name-firefox }'u indirin
+firefox-new-download-the-fastest-firefox = Bugüne kadarki en hızlı { -brand-name-firefox }’u indirin
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = Daha hızlı açılan sayfalar, daha az bellek kullanımı ve bir sürü özelliğiyle yeni { -brand-name-firefox } burada.
 firefox-new-get-the-latest-firefox = En yeni { -brand-name-firefox } tarayıcısını indirin.
