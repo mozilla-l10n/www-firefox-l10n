@@ -4,4 +4,4 @@
 
 # Variables:
 # $link (url) - link to https://www.firefox.com
-m24-pencil-banner-firefox-has-moved = { -brand-name-firefox } გადავიდა – იგივე მიზანია. იგივე მნიშვნელობები. მოგესალმებათ <a { $link }>firefox.com</a>
+m24-pencil-banner-firefox-has-moved = { -brand-name-firefox } ახალ ადგილასაა – იმავე მიზნებით. იმავე ღირებულებებით. მოგესალმებათ <a { $link }>firefox.com</a>
