@@ -49,11 +49,15 @@ footer-release-notes = Napomene o izdanju
 footer-learn = Nauči
 footer-support = Podrška
 footer-addons = Dodaci
+footer-blog = Blog
 
 ## Links to social media
 
 # Section title
 footer-follow-us = Prati nas
+footer-instagram = Instagram
+footer-youtube = YouTube
+footer-tiktok = TikTok
 
 ## Legal links
 

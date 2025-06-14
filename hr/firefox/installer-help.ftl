@@ -16,6 +16,9 @@ installer-help-action-choose = Odaberi jedno preuzimanje.
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc-v2 = Nabavi najnoviju verziju. Automatska privatnost je stigla. Preuzmi { -brand-name-firefox } i blokiraj više od { $trackers } programa za praćenje.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
