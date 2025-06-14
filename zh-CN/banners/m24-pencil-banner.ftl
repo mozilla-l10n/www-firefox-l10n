@@ -4,4 +4,4 @@
 
 # Variables:
 # $link (url) - link to https://www.firefox.com
-m24-pencil-banner-firefox-has-moved = { -brand-name-firefox } 已搬走。依然使命不变。相同的价值观。欢迎访问 <a { $link }>firefox.com</a>
+m24-pencil-banner-firefox-has-moved = { -brand-name-firefox } 带上不变的使命和价值观，现已移到新网站。欢迎来到 <a { $link }>firefox.com</a>
