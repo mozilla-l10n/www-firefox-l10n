@@ -30,4 +30,4 @@ firefox-calls-it = { -brand-name-firefox } to naziva privatno pregledavanje, { -
 firefox-more-fingerprinter-blocking = Blokiranje digitalnih otisaka
 firefox-more-fingerprinting-is-a = Prikupljanje digitalnih otisaka je vrsta online praćenja koja je invazivnija od običnog praćenja pomoću kolačića – zato ga { -brand-name-firefox-browser } blokira.
 firefox-more-translate-the-web = Prevedi web
-firefox-more-translate-more-than = Prevedi više od 100 jezika na svoj jezik izravno u svom { -brand-name-firefox-browser } – lakše nego ikada.
+firefox-more-translate-more-than = Prevedi više od 100 jezika na svoj jezik izravno u { -brand-name-firefox-browser }u – lakše nego ikada.
