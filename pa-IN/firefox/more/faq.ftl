@@ -23,6 +23,8 @@ how-do-i = ਮੈਂ { -brand-name-firefox-browser } ਕਿਵੇਂ ਹਾਸ�
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = ਕੀ { -brand-name-firefox } ਮੁਫ਼ਤ ਹੈ?
+yep-the-firefox-browser-is-free = ਹਾਂ ਜੀ! { -brand-name-firefox-browser } ਮੁਫ਼ਤ ਹੈ। ਬਿਲਕੁਲ ਮੁਫ਼ਤ ਅਸਲ ਵਿੱਚ। ਕੋਈ ਵੀ ਲੁਕਵੀਂ ਕੀਮਤ ਜਾਂ ਏਦਾਂ ਦਾ ਕੁਝ ਨਹੀ। ਤੁਹਾਨੂੰ ਇਹ ਵਰਤਣ ਲਈ ਭੁਗਤਾਨ ਨਹੀਂ ਕਰਨਾ ਪੈਂਦਾ ਹੈ।
+related-questions-free = ਸੰਬੰਧਿਤ ਸਵਾਲ: ਕੀ { -brand-name-firefox-browser } ਮੁਫ਼ਤ ਹੈ, ਕੀ { -brand-name-firefox } ਲਈ ਪੈਸੇ ਲੱਗਦੇ ਹਨ
 is-chrome-better = ਕੀ { -brand-name-chrome } { -brand-name-firefox } ਤੋਂ ਵਧੀਆ ਹੈ?
 
 # Variables:
