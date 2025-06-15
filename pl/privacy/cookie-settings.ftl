@@ -21,6 +21,8 @@ cookie-settings-turn-on-javascript = Włącz JavaScript, aby zaktualizować usta
 ## Necessary cookies section
 
 cookie-settings-category-necessary-heading = Niezbędne
+cookie-settings-category-necessary-what-are-subheading = Czym są niezbędne ciasteczka?
+cookie-settings-category-necessary-what-are-desc = Technologie te są wymagane do obsługi podstawowych funkcji witryny internetowej, takich jak logowanie do bezpiecznej sekcji witryny lub dodawanie produktów do koszyka zakupów online, i nie można ich wyłączyć.
 
 ## Preference cookies section
 
@@ -30,6 +32,7 @@ cookie-settings-category-necessary-heading = Niezbędne
 cookie-settings-category-analytics-heading = Analityczne
 cookie-settings-category-analytics-what-are-subheading = Czym są ciasteczka analityczne?
 cookie-settings-category-analytics-what-are-desc = Technologie te zbierają informacje o tym, jak ludzie korzystają ze stron internetowych, np. odwiedzane strony, klikane linki, a także z jakich innych stron internetowych pochodzą wizyty.
+cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } wykorzystuje informacje analityczne, aby zrozumieć, w jaki sposób użytkownicy wchodzą w interakcje z naszymi witrynami, dzięki czemu możemy je ulepszyć i rozwiązać wszelkie problemy, które się pojawią. Możemy również wykorzystywać dane z ciasteczek, informacji o urządzeniach i adresów IP, aby pomóc nam zrozumieć, w jaki sposób użytkownicy wchodzą w interakcje z naszymi produktami, usługami, komunikacją, witrynami, kampaniami online, urządzeniami i innymi platformami. Będziemy zbierać informacje analityczne i ustawiać ciasteczka analityczne wyłącznie za Twoją zgodą.
 
 ## Privacy section
 

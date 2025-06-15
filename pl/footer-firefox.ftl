@@ -64,8 +64,11 @@ footer-tiktok = TikTok
 footer-websites-privacy-notice = Zasady ochrony prywatności
 footer-terms-of-use = Warunki korzystania
 footer-websites-cookie-policy = Polityka ciasteczek
+footer-community-participation-guidelines = Wytyczne dotyczące uczestnictwa w społeczności
+footer-logo-trademark-licensing = Licencjonowanie znaków towarowych
 
 ## Language Switcher
 
 footer-language = Język
+footer-go = Przejdź
 footer-firefox = { -brand-name-firefox }
