@@ -40,9 +40,22 @@ footer-developer = ਡਿਵੈਲਪਰ
 
 ## Links to resources
 
+# Section title
+footer-resources = ਸਰੋਤ
+footer-compare = ਮੁਕਾਬਲਾ
+footer-release-notes = ਰੀਲਿਜ਼ ਨੋਟਿਸ
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = ਸਿੱਖੋ
+footer-support = ਸਹਿਯੋਗ
+footer-addons = ਐਡ-ਆਨ
+footer-blog = ਬਲੌਗ
 
 ## Links to social media
 
+# Section title
+footer-follow-us = ਸਾਨੂੰ ਫ਼ਾਲੋ ਕਰੋ
+footer-instagram = ਇੰਸਟਾਗਰਾਮ
 footer-youtube = ਯੂਟਿਊਬ
 footer-tiktok = TikTok
 
