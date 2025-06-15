@@ -34,6 +34,7 @@ firefox-all-64-bit-installers = 64-ਬਿੱਟ ਇੰਸਟਾਲਰ
 firefox-all-choose-a-64-bit-installer = 64-ਬਿੱਟ ਪਰੋਸੈਸਰ ਵਾਲੇ ਕੰਪਿਊਟਰਾਂ ਲਈ 64-ਬਿੱਟ ਇੰਸਟਾਲਰ ਦੀ ਚੋਣ ਕਰੋ, ਜੋ ਕਿ ਉਹਨਾਂ ਨੂੰ ਵੱਖਰੇ ਪਰੋਗਰਾਮਾਂ ਲਈ ਵਧੇਰੇ RAM ਨਿਰਧਾਰਤ ਕਰਨ ਦੀ ਮਨਜੂਰੀ ਦਿੰਦਾ ਹੈ — ਖੇਡਾਂ ਅਤੇ ਹੋਰ ਮੰਗਾਂ ਵਾਲੇ ਕਾਰਜਾਂ ਲਈ ਵਿਸ਼ੇਸ਼ ਤੌਰ ਤੇ ਮਹੱਤਵਪੂਰਨ।
 firefox-all-32-bit-installers = 32-ਬਿੱਟ ਇੰਸਟਾਲਰ
 firefox-all-microsoft-store-installers = Microsoft ਸਟੋਰ
+firefox-all-choose-a-microsoft-store-installer = ਇਹ ਚੋਣ Microsoft Store ਵੈੱਬ ਪੋਰਟਲ ਵਿੱਚ { -brand-name-firefox } ਉਤਪਾਦ ਨੂੰ ਖੋਲ੍ਹੇਗੀ। ਜੇ ਤੁਸੀਂ ਵਿੰਡੋਜ਼ 10 ਜਾਂ ਵਿੰਡੋਜ਼ 11 ਵਰਤ ਰਹੇ ਹੋ ਤਾਂ ਇਹ ਚੋਣ ਇਸ ਸਫ਼ੇ ਤੋਂ Microsoft Store ਨੂੰ ਖੋਲ੍ਹੇਗੀ ਅਤੇ { -brand-name-firefox } ਨੂੰ ਇੰਸਟਾਲ ਕਰੇਗੀ। ਜੇ ਤੁਸੀਂ Microsoft Store ਤੋਂ ਇੰਸਟਾਲ ਕੀਤਾ ਹੈ ਤਾਂ { -brand-name-firefox } ਲਈ ਅੱਪਡੇਟ Microsoft Store ਰਾਹੀਂ ਕੀਤੇ ਜਾਣਗੇ। ਜਦੋਂ Microsoft Store ਤੋਂ ਇੰਸਟਾਲ ਕਰਦੇ ਹੋ ਤਾਂ { -brand-name-firefox } ਦੇ ਰਵੱਈਏ ਅਤੇ ਸਮਰੱਥਾ ਵਿੱਚ ਥੋੜ੍ਹਾ ਜਿਹਾ ਫ਼ਰਕ ਹੁੰਦਾ ਹੈ, ਪਰ ਬਹੁਤੇ ਵਰਤੋਂਕਾਰਾਂ ਨੂੰ ਪਤਾ ਵੀ ਨਹੀਂ ਲੱਗੇਗਾ।
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = { $esr_version } ਡਾਊਨਲੋਡ ਕਰੋ
@@ -77,3 +78,4 @@ firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-n
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
 firefox-all-download-esr-115 = ESR 115 ਡਾਊਨਲੋਡ ਕਰੋ
+firefox-all-note-unsupported = ਸੂਚਨਾ: ਜੇਕਰ ਤੁਸੀਂ Windows 7, Windows 8, Windows 8.1, ਜਾਂ macOS 10.12, 10.13 ਜਾਂ 10.14 ਵਰਤ ਰਹੇ ਹੋ, ਤਾਂ { -brand-name-firefox } ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ESR 115 ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ।

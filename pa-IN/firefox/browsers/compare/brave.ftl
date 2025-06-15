@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/compare/brave/
 
+# Page title
+compare-brave-firefox-vs-brave = { -brand-name-firefox } ਬਨਾਮ Brave
 # HTML page description
 compare-brave-read-our-comparison = { -brand-name-firefox } ਅਤੇ Brave ਬਰਾਊਜ਼ਰਾਂ ਦੇ ਫੀਚਰਾਂ, ਪਰਦੇਦਾਰੀ ਅਤੇ ਵਰਤਣ ਲਈ ਸੌਖਿਆਈ ਵਿਚਲੇ ਸਾਡੇ ਫ਼ਰਕ ਨੂੰ ਪੜ੍ਹੋ।
