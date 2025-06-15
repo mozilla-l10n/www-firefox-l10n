@@ -6,3 +6,4 @@
 ### URL: https://www-dev.springfield.moz.works/features/translate/
 
 features-translate-translate-the-web = ਵੈੱਬ ਦਾ ਉਲੱਥਾ ਕਰੋ
+features-translate-and-more-languages-are-in = ਅਤੇ ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਨੂੰ ਛੇਤੀ ਹੀ ਜੋੜਿਆ ਜਾ ਰਿਹਾ ਹੈ!
