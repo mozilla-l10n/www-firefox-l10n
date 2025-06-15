@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+# An accessible label used to describe that the role of the element is the
+# primary website navigation.
+footer-landmark-label = Dodatkowe
 
 ## Download links for stable versions of Firefox across multiple platforms.
 
@@ -13,9 +16,12 @@ footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
+footer-custom-download = Niestandardowe opcje pobierania
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
+# Section title
+footer-latest = Najnowsze kompilacje
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 
@@ -29,6 +35,7 @@ footer-enterprise = { -brand-name-enterprise }
 
 # Section title
 footer-community = Społeczność
+footer-contribute = Dołącz do nas
 footer-developer = Developer
 
 ## Links to resources
@@ -37,6 +44,9 @@ footer-developer = Developer
 footer-resources = Zasoby
 footer-compare = Porównaj
 footer-release-notes = Informacje o wydaniu
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Dowiedz się
 footer-support = Pomoc
 footer-addons = Dodatki
 footer-blog = Blog
@@ -51,7 +61,9 @@ footer-tiktok = TikTok
 
 ## Legal links
 
+footer-websites-privacy-notice = Zasady ochrony prywatności
 footer-terms-of-use = Warunki korzystania
+footer-websites-cookie-policy = Polityka ciasteczek
 
 ## Language Switcher
 

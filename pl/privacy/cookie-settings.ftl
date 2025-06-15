@@ -27,6 +27,9 @@ cookie-settings-category-necessary-heading = Niezbędne
 
 ## Analytics cookies section
 
+cookie-settings-category-analytics-heading = Analityczne
+cookie-settings-category-analytics-what-are-subheading = Czym są ciasteczka analityczne?
+cookie-settings-category-analytics-what-are-desc = Technologie te zbierają informacje o tym, jak ludzie korzystają ze stron internetowych, np. odwiedzane strony, klikane linki, a także z jakich innych stron internetowych pochodzą wizyty.
 
 ## Privacy section
 
