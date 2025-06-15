@@ -22,10 +22,15 @@ cookie-settings-turn-on-javascript = Włącz JavaScript, aby zaktualizować usta
 
 cookie-settings-category-necessary-heading = Niezbędne
 cookie-settings-category-necessary-what-are-subheading = Czym są niezbędne ciasteczka?
-cookie-settings-category-necessary-what-are-desc = Technologie te są wymagane do obsługi podstawowych funkcji witryny internetowej, takich jak logowanie do bezpiecznej sekcji witryny lub dodawanie produktów do koszyka zakupów online, i nie można ich wyłączyć.
+cookie-settings-category-necessary-what-are-desc = Technologie te są wymagane do obsługi podstawowych funkcji witryny internetowej, takich jak logowanie do bezpiecznej sekcji witryny lub dodawanie produktów do koszyka zakupów online, i nie można ich wyłączyć.
+cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } używa niezbędnych ciasteczek tylko do zapewnienia podstawowych funkcji witryny, takich jak logowanie za pomocą konta { -brand-name-mozilla-account(case: "gen") } lub zakup subskrypcji oprogramowania. Bez tych technologii podstawowe funkcje witryny nie mogą działać.
 
 ## Preference cookies section
 
+cookie-settings-category-preference-heading = Preferencyjne
+cookie-settings-category-preference-what-are-subheading = Czym są ciasteczka preferencyjne?
+cookie-settings-category-preference-what-are-desc = Te technologie są używane do zapamiętywania wyborów, których dokonałeś podczas poprzedniej wizyty na stronie internetowej. Przykłady mogą obejmować język, w którym wolisz czytać, lub który motyw kolorystyczny jest twoim ulubionym.
+cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } używa ciasteczek preferencyjnych, aby uszanować Twoje preferencje i poprawić Twoje doświadczenia podczas odwiedzania naszych witryn. Nie są one wykorzystywane do celów analitycznych. Ciasteczka preferencyjne obsługują funkcje w podobny sposób jak niezbędne ciasteczka, jednak witryna nadal może działać bez nich. W związku z tym możesz zrezygnować z ich używania.
 
 ## Analytics cookies section
 
