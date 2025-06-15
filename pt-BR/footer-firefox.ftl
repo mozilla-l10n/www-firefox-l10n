@@ -65,8 +65,10 @@ footer-websites-privacy-notice = Aviso de privacidade do site
 footer-terms-of-use = Termos de uso
 footer-websites-cookie-policy = Política de cookies
 footer-community-participation-guidelines = Diretrizes de participação na comunidade
+footer-logo-trademark-licensing = Licenciamento de marca registrada do logotipo
 
 ## Language Switcher
 
 footer-language = Idioma
+footer-go = Ir
 footer-firefox = { -brand-name-firefox }
