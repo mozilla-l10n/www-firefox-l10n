@@ -9,6 +9,8 @@ firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-get-firefox-for-your-enterprise = ਆਪਣੇ ਇੰਟਰਪ੍ਰਾਈਜ਼ ਲਈ { -brand-name-firefox } ਲਵੋ
 firefox-enterprise-your-data-stays-your-business = ਤੁਹਾਡਾ ਡਾਟਾ ਤੁਹਾਡੇ ਕਾਰੋਬਾਰ ਨਾਲ ਰਹਿੰਦਾ ਹੈ
 firefox-enterprise-deploy-when-and-how-you-want = ਜਦੋਂ ਤੇ ਜਿਵੇਂ ਤੁਸੀਂ ਚਾਹੋ ਸਥਾਪਤ ਕਰੋ
+firefox-enterprise-choose-your-release-cadence = ਆਪਣਾ ਰੀਲਿਜ਼ ਰਾਹ ਚੁਣੋ
+firefox-enterprise-get-rapid-releases-to-make = ਸਭ ਤੋਂ ਨਵੇਂ ਨਕੋਰ ਫ਼ੀਚਰ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਪ੍ਰਾਪਤ ਕਰਨ ਵਾਲੇ ਅਕਸਰ ਹੋਣ ਵਾਲੇ ਰੀਲਿਜ਼ ਲਵੋ ਜਾਂ ਬਹੁਤ ਸਥਿਰ ਤਜਰਬੇ ਨੂੰ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਹੌਲੀ ਰੀਲਿਜ਼ ਨੂੰ ਚੁਣੋ।
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } ਡਾਊਨਲੋਡ
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-ਬਿੱਟ
 firefox-enterprise-macos = { -brand-name-mac }
@@ -27,3 +29,6 @@ firefox-enterprise-release-notes = ਰੀਲਿਜ਼ ਨੋਟਿਸ
 firefox-enterprise-documentation-and-community = ਦਸਤਾਵੇਜ਼ ਅਤੇ ਕਮਿਊਨਟੀ ਸਹਿਯੋਗ
 firefox-enterprise-pkg-installer = PKG ਇੰਸਟਾਲਰ
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 64-ਬਿੱਟ
+# Variables:
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
+firefox-enterprise-download-firefox-esr-or-rapid = { -brand-name-firefox-esr } ਡਾਊਨਲੋਡ ਕਰੋ ਜਾਂ <br> <a href="{ $firefox_all }">ਹੋਰ ਭਾਸ਼ਾ ਜਾਂ ਪਲੇਟਫਾਰਮ</a> ਲਈ ਅਕਸਰ ਰੀਲਿਜ਼ ਨੂੰ ਲਵੋ।

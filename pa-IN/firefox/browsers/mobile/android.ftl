@@ -31,3 +31,4 @@ mobile-android-about-mozilla = { -brand-name-mozilla } ਬਾਰੇ
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = { -brand-name-android } ਲਈ { -brand-name-firefox } ਨਾਲ ਇੰਟਰਨੈੱਟ ਦਾ ਸ਼ਾਰਟਕੱਟ
 mobile-android-own-your-home = ਆਪਣੀ ਮੁੱਖ ਸਕਰੀਨ ਨੂੰ ਆਪਣਾ ਬਣਾਓ
+mobile-android-get-to-the-parts = ਇੰਟਰਨੈੱਟ ਦੇ ਉਨ੍ਹਾਂ ਹਿੱਸਿਆਂ ਤੱਕ ਤੇਜ਼ੀ ਨਾਲ ਪਹੁੰਚੋ, ਜਿਨ੍ਹਾਂ ਦੀ ਤੁਸੀਂ ਪਰਵਾਹ ਕਰਦੇ ਹੋ। ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ, ਹਾਲੀਆ ਖੋਜਾਂ, ਬੁੱਕਮਾਰਕਾਂ ਅਤੇ ਮਨਪਸੰਦ ਸਾਈਟਾਂ ਨੂੰ ਇੱਕੋ ਥਾਂ 'ਤੇ ਦੇਖਣ ਲਈ ਚੁਣੋ।

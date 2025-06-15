@@ -14,6 +14,8 @@ browsers-mobile-infinitely-customizable-private = { -brand-name-android } ਲਈ
 browsers-mobile-firefox-for-ios = { -brand-name-ios } ਲਈ { -brand-name-firefox }
 browsers-mobile-go-your-own-way = { -brand-name-firefox } ਮੋਬਾਈਲ ਨਾਲ ਆਪਣਾ ਰਾਹ ਆਪ ਬਣਾਓ
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } ਮੋਬਾਈਲ ਤੁਹਾਡੇ ਮੁਤਾਬਕ ਢਲ ਜਾਂਦਾ ਹੈ ਅਤੇ ਤੁਹਾਨੂੰ ਤੁਹਾਡੀਆਂ ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ, ਪਿਛਲੀਆਂ ਖੋਜਾਂ ਤੇ ਪਸੰਦੀਦਾ ਸਾਈਟਾਂ ਵੇਖਣ ਲਈ ਪਹਿਲਾਂ ਤੋਂ ਸੌਖਾ ਬਣਾ ਦਿੰਦਾ ਹੈ।
+# "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
+browsers-mobile-get-enhanced-tracking-protection = ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਲਵੋ ਅਤੇ { -brand-name-firefox } ਨੂੰ ਆਪਣੇ { -brand-name-iphone } ਅਤੇ { -brand-name-ipad } 'ਤੇ ਆਪਣਾ ਮੂਲ, ਹਰ ਵੇਲੇ ਨਾਲ, ਹਮੇਸ਼ਾ ਲਈ ਬਰਾਊਜ਼ਰ ਬਣਾਓ।
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare = ਤੁਲਨਾ
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
