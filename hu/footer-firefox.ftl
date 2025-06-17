@@ -72,3 +72,6 @@ footer-logo-trademark-licensing = Logóvédjegy licencelése
 footer-language = Nyelv
 footer-go = Ugrás
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+

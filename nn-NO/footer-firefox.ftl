@@ -63,3 +63,6 @@ footer-community-participation-guidelines = Retningslinjer for fellesskapsdeltak
 
 footer-language = Språk
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+

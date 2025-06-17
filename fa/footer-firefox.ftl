@@ -65,3 +65,6 @@ footer-logo-trademark-licensing = مجوز علامت تجاری آرم
 footer-language = زبان
 footer-go = برو
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+

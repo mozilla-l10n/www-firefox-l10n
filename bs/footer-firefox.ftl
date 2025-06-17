@@ -72,3 +72,6 @@ footer-logo-trademark-licensing = Licenciranje zaštitnog znaka logotipa
 footer-language = Jezik
 footer-go = Idi
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+

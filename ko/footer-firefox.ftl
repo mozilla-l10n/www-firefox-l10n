@@ -72,3 +72,6 @@ footer-logo-trademark-licensing = 로고 상표권 라이선스
 footer-language = 언어
 footer-go = 가기
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+

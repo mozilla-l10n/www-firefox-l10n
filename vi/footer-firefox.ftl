@@ -72,3 +72,6 @@ footer-logo-trademark-licensing = Cấp phép nhãn hiệu logo
 footer-language = Ngôn ngữ
 footer-go = Đi
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+

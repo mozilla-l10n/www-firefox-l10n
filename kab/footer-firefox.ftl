@@ -68,3 +68,6 @@ footer-logo-trademark-licensing = Turagt n tecreḍt yersen n ulugu
 
 footer-language = Tutlayt
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+

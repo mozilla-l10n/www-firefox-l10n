@@ -68,3 +68,6 @@ footer-logo-trademark-licensing = Ліцэнзаванне таварнага з
 
 footer-language = Мова
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+

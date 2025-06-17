@@ -72,3 +72,6 @@ footer-logo-trademark-licensing = ਲੋਗੋ ਮਾਰਕਾ ਲਸੰਸਿ�
 footer-language = ਭਾਸ਼ਾ
 footer-go = ਜਾਓ
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+

@@ -72,3 +72,6 @@ footer-logo-trademark-licensing = רישוי סימן מסחרי של לוגו
 footer-language = שפה
 footer-go = מעבר
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+

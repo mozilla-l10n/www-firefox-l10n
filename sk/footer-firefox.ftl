@@ -72,3 +72,6 @@ footer-logo-trademark-licensing = Licencovanie ochranných známok s logom
 footer-language = Jazyk
 footer-go = Prejsť
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+
