@@ -5,3 +5,4 @@
 # Variables:
 # $link (url) - link to https://www.firefox.com
 m24-pencil-banner-firefox-has-moved = A { -brand-name-firefox } elköltözött – Ugyanaz a küldetés. Ugyanazok az értékek. Üdvözli a <a { $link }>firefox.com</a>
+m24-pencil-banner-firefox-has-moved-v2 = A { -brand-name-firefox } elköltözött – Ugyanaz a küldetés. Ugyanazok az értékek. Üdvözli a firefox.com.

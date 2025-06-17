@@ -5,3 +5,4 @@
 # Variables:
 # $link (url) - link to https://www.firefox.com
 m24-pencil-banner-firefox-has-moved = Mae { -brand-name-firefox } wedi symud – Yr un genhadaeth. Yr un gwerthoedd. Croeso i <a { $link }>firefox.com</a>
+m24-pencil-banner-firefox-has-moved-v2 = Mae { -brand-name-firefox } wedi symud – Yr un genhadaeth. Yr un gwerthoedd. Croeso i firefox.com.

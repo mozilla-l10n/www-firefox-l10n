@@ -5,3 +5,4 @@
 # Variables:
 # $link (url) - link to https://www.firefox.com
 m24-pencil-banner-firefox-has-moved = O { -brand-name-firefox } mudou-se – A mesma missão. Os mesmos valores. Damos-lhe as boas-vindas ao <a { $link }>firefox.com</a>
+m24-pencil-banner-firefox-has-moved-v2 = O { -brand-name-firefox } mudou-se – A mesma missão. Os mesmos valores. Bem-vindo(a) ao firefox.com.

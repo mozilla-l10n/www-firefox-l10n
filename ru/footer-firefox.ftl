@@ -75,3 +75,5 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+footer-powdered-by = На движке { -brand-name-mozilla }
+footer-putting-people = Ставим людей выше прибыли с 1998 года

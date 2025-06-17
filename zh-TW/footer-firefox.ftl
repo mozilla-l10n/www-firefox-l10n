@@ -75,3 +75,5 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+footer-powdered-by = 由 { -brand-name-mozilla } 提供
+footer-putting-people = 自 1998 年起以人為本

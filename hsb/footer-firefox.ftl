@@ -75,3 +75,5 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+footer-powdered-by = Wot { -brand-name-mozilla } doprědka ćěrjeny
+footer-putting-people = Stajamy ludźi před profitom wot 1998
