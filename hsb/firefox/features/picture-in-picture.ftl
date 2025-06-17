@@ -21,5 +21,5 @@ features-pip-repeat-steps-1-3-to-have = <strong>Wospjetujće kroki 1-3</strong>,
 features-pip-3-more-ways-to-use-picture = Tři dalše móžnosće, kak da so Wobraz-we-wobrazu wužiwać
 features-pip-3-ways-to-use-picture = Tři móžnosće, kak da so Wobraz-we-wobrazu wužiwać
 features-pip-watch-a-lecture-or-meeting = Přednošk abo zetkanje wobhladać, mjeztym zo něšto notěrujeće
-features-pip-keep-a-tutorial-video-open = Wideo nawoda z receptom wočinjene dźeržeć, mjeztym zo wariće
+features-pip-keep-a-tutorial-video-open = Widejo nawoda z receptom wočinjene dźeržeć, mjeztym zo wariće
 features-pip-entertain-cats-dogs-and-kids = Kóčki, psyki a dźěći zabawjeć, mjeztym zo dźěło činiće
