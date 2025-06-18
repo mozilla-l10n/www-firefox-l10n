@@ -8,6 +8,7 @@
 browser-history-browser-history = Stawizny wobhladowakow: Episke boje wo móc, kotrež su nam moderne wobhladowaki přinjesli
 browser-history-the-browser-wars-underdogs-giants = Wójny wobhladowakow, outsiderojo přećiwo gigantam a wokomiki, kotrež su swět změnili. Čitajće wo stawiznach webwobhladowaka.
 browser-history-the-history-of-web = Historija webwobhladowakow
+browser-history-world-history-is = Swětowe stawizny su połne episkich bojow wo móc, tyranow, kotřiž swět dobywaja a heroiskich outsiderow. Stawizny webwobhladowakow jara hinak njejsu. Uniwersitni pioněrojo su jednoru software napisali, kotraž je informacisku rewoluciju wubudźiła a bój wo nadknjejstwo wobhladowaka a wo internetnych wužiwarjow.
 browser-history-before-web-era = Před dobu interneta
 browser-history-web-era = Doba interneta
 browser-history-the-browser-wars = Wójny wobhladowakow
