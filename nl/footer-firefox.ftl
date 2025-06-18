@@ -75,3 +75,5 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+footer-powdered-by = Mogelijk gemaakt door { -brand-name-mozilla }
+footer-putting-people = Stelt sinds 1998 mensen voor winst
