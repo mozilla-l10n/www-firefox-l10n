@@ -75,5 +75,5 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
-footer-powdered-by = 由 { -brand-name-mozilla } 提供
-footer-putting-people = 以人为本 始于 1998
+footer-powdered-by = 由 { -brand-name-mozilla } 鼎力支持
+footer-putting-people = 1998 年至今，始终坚持以人为本
