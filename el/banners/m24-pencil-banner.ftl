@@ -5,3 +5,4 @@
 # Variables:
 # $link (url) - link to https://www.firefox.com
 m24-pencil-banner-firefox-has-moved = Το { -brand-name-firefox } μετακόμισε. Η ίδια αποστολή. Οι ίδιες αξίες. Καλώς ορίσατε στο <a { $link }>firefox.com</a>
+m24-pencil-banner-firefox-has-moved-v2 = Το { -brand-name-firefox } μετακόμισε. Η ίδια αποστολή. Οι ίδιες αξίες. Καλώς ορίσατε στο firefox.com.

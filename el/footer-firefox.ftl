@@ -75,3 +75,4 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+footer-powdered-by = Με την υποστήριξη της { -brand-name-mozilla }
