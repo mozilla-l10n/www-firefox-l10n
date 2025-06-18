@@ -10,6 +10,8 @@ features-translate-translate-a-webpage-with-firefox = Přełožujće webstronu z
 features-translate-translate-the-web = Přełožujće web
 # HTML page description
 features-translate-firefox-translations-is-a-built-in-v2 = { -brand-name-firefox-translations } je zatwarjena přełožowanska funkcija, kotraž wam zmóžnja, web lochko we wašej preferowanej rěči přehladować. Zhońće wjace wo tym, kak tuta funkcija w { -brand-name-firefox } funguje, a kak { -brand-name-mozilla } pomha, to, štož přełožujeće, priwatne wostanje.
+features-translate-one-of-the-best-things-about = Jedna z najlěpšich wěcow wo interneće je, zo móžemy přistup k wobsahej po cyłym swěće měć. Hač dźe wo powěsćowe nastawki, blogi abo samo pohódnoćenje wašeho najnowšeho technologiskeho nastroja, móžeće wšitko w po wšěm zdaću njekónčnym webje namakać. Z najnowšej přełožowanskej funkciju { -brand-name-firefox } budźe tutón nastroj webstronu we woprawdźitym času njepřestawajcy přełožować.
+features-translate-while-other-browsers-rely-on-v2 = Mjeztym zo so druhe wobhladowaki na mróčelowe słužby spušćeja, so rěčne modele { -brand-name-firefox-translations } na wobhladowak wužiwarja sćahuja a přełožki so lokalnje přewjedu, tak zo { -brand-name-mozilla } njeregistruje, kotre webstrony přełožujeće.
 features-translate-when-you-translate-a-webpage = Hdyž webstronu přełožujeće, wona priwatna wostawa
 features-translate-what-languages-are-currently = Kotre rěče so tuchwilu podpěruja?
 # This is followed by a localized list of supported languages
