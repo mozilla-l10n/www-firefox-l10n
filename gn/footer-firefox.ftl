@@ -75,3 +75,4 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+footer-powdered-by = { -brand-name-mozilla } omboguatáva
