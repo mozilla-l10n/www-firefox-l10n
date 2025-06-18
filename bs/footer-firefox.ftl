@@ -75,3 +75,5 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+footer-powdered-by = Pokreće { -brand-name-mozilla }
+footer-putting-people = Stavljanje ljudi ispred profita od 1998. godine

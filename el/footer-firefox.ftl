@@ -76,3 +76,4 @@ footer-firefox = { -brand-name-firefox }
 ## Mozilla branding
 
 footer-powdered-by = Με την υποστήριξη της { -brand-name-mozilla }
+footer-putting-people = Προτεραιότητά μας οι άνθρωποι, όχι το κέρδος, από το 1998
