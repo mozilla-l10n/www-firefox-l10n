@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = ერთობა
 footer-contribute = წვლილის შეტანა
 footer-developer = შემმუშავებელი
+footer-connect = დაკავშირება
 
 ## Links to resources
 

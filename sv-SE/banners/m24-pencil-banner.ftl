@@ -5,3 +5,4 @@
 # Variables:
 # $link (url) - link to https://www.firefox.com
 m24-pencil-banner-firefox-has-moved = { -brand-name-firefox } har flyttat – Samma uppdrag. Samma värden. Välkommen till <a { $link }>firefox.com</a>
+m24-pencil-banner-firefox-has-moved-v2 = { -brand-name-firefox } har flyttat – Samma uppdrag. Samma värderingar. Välkommen till firefox.com.

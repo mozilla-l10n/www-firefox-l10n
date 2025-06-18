@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Komunita
 footer-contribute = Přispět
 footer-developer = Vývojář
+footer-connect = Připojit
 
 ## Links to resources
 

@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Cymuned
 footer-contribute = Cyfrannu
 footer-developer = Datblygwr
+footer-connect = Cysylltu
 
 ## Links to resources
 

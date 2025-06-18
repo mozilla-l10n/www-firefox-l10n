@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = 社区
 footer-contribute = 贡献
 footer-developer = 开发者
+footer-connect = Mozilla Connect
 
 ## Links to resources
 

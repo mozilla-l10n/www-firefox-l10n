@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Gemenskap
 footer-contribute = Bidra
 footer-developer = Utvecklare
+footer-connect = Anslut
 
 ## Links to resources
 
@@ -75,3 +76,5 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+footer-powdered-by = Drivs av { -brand-name-mozilla }
+footer-putting-people = Vi sätter människor före vinst sedan 1998

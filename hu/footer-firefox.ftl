@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Közösség
 footer-contribute = Közreműködés
 footer-developer = Fejlesztő
+footer-connect = Kapcsolódás
 
 ## Links to resources
 
