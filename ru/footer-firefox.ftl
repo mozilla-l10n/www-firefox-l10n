@@ -37,7 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Сообщество
 footer-contribute = Внести вклад
 footer-developer = Разработчик
-footer-connect = Подключить
+footer-connect = Подключиться
 
 ## Links to resources
 
@@ -76,5 +76,5 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
-footer-powdered-by = На движке { -brand-name-mozilla }
+footer-powdered-by = Поддерживается { -brand-name-mozilla }
 footer-putting-people = Ставим людей выше прибыли с 1998 года
