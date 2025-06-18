@@ -37,7 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = 社群
 footer-contribute = 貢獻
 footer-developer = 開發者
-footer-connect = 連線
+footer-connect = Connect
 
 ## Links to resources
 
