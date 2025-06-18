@@ -75,3 +75,5 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+footer-powdered-by = Potentiate per { -brand-name-mozilla }
+footer-putting-people = Anteponente personas a profito desde 1998
