@@ -76,3 +76,4 @@ footer-firefox = { -brand-name-firefox }
 ## Mozilla branding
 
 footer-powdered-by = { -brand-name-mozilla } omboguatáva
+footer-putting-people = Omotenonde yvypóra viru renondépe 1998 guive
