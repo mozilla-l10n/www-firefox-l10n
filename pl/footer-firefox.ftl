@@ -35,7 +35,7 @@ footer-enterprise = { -brand-name-enterprise }
 
 # Section title
 footer-community = Społeczność
-footer-contribute = Dołącz do nas
+footer-contribute = Wesprzyj nas
 footer-developer = Developer
 footer-connect = Connect
 
@@ -76,3 +76,4 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+footer-putting-people = Stawiamy ludzi ponad zyski od 1998 roku
