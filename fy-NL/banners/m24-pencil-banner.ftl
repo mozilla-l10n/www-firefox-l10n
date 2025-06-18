@@ -5,3 +5,4 @@
 # Variables:
 # $link (url) - link to https://www.firefox.com
 m24-pencil-banner-firefox-has-moved = { -brand-name-firefox } is ferhuze – deselde misje. Deselde wearden. Wolkom op <a { $link }>firefox.com</a>
+m24-pencil-banner-firefox-has-moved-v2 = { -brand-name-firefox } is ferhuze – Deselde misje. Deselde wearden. Wolkom op firefox.com.

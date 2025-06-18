@@ -75,3 +75,5 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+footer-powdered-by = Mooglik makke troch { -brand-name-mozilla }
+footer-putting-people = Stelt sûnt 1998 minsken boppe winst
