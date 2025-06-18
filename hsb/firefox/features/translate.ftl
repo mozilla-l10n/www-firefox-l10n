@@ -19,3 +19,6 @@ features-translate-what-languages-are-currently = Kotre rěče so tuchwilu podp�
 features-translate-the-languages-below-are-what-v2 = Slědowace rěče so tuchwilu přez přełožowansku funkciju  { -brand-name-firefox-translations } podpěruja:
 features-translate-and-more-languages-are-in = A dalše rěče su we wuwiću!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } wašu rěč rěči
+# Variables:
+#   $download (url) = link to https://www.firefox.com/
+features-translate-the-firefox-translations-feature-v2 = Funkcija { -brand-name-firefox-translations } je dalša móžnosć, kak { -brand-name-mozilla } waš internet personalizowany a priwatniši dźerži. { -brand-name-mozilla } tomu njesćěhuje, kotre webstrony přełožujeće. Z milionami wužiwarjemi po cyłym swěće chce { -brand-name-mozilla } zawěsćić, zo ći, kotřiž { -brand-name-firefox } wužiwaja, po swojich wuměnjenjach wuknu, komunikuja, dźěla a informowani wostawaja. <a { $download }>Sćehńće { -brand-name-firefox } a započńće w swojej preferowanej rěči.</a>
