@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Κοινότητα
 footer-contribute = Συνεισφορά
 footer-developer = Προγραμματιστές
+footer-connect = Connect
 
 ## Links to resources
 
