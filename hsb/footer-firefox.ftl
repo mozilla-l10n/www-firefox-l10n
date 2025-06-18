@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Zhromadźenstwo
 footer-contribute = Přinošować
 footer-developer = Wuwiwar
+footer-connect = Zwjazać
 
 ## Links to resources
 
