@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Topluluk
 footer-contribute = Katkıda Bulunun
 footer-developer = Geliştirici
+footer-connect = Connect
 
 ## Links to resources
 
@@ -75,3 +76,4 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+footer-powdered-by = { -brand-name-mozilla } desteğiyle
