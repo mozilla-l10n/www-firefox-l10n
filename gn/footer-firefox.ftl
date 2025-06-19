@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Tekoha
 footer-contribute = Pytyvõ
 footer-developer = Mboguatahára
+footer-connect = Jeike
 
 ## Links to resources
 

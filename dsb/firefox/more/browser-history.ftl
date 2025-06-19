@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
+browser-history-browser-history = Stawizny wobglědowakow: Episke wójowanja wó móc, kótarež su nam pśinjasli moderne wobglědowaki
+browser-history-the-browser-wars-underdogs-giants = Wójny wobglědowakow, outsidery pśeśiwo gigantam a wokognuśa, kótarež su změnili swět. Cytajśo wó stawiznach webwobglědowaka.
 browser-history-the-history-of-web = Historija webwobglědowakow
 browser-history-before-web-era = Pśed casom interneta
 browser-history-web-era = Doba interneta
