@@ -16,6 +16,9 @@ browser-history-in-1950-computers = W lěće 1950 su ličaki cyłe rumnosće zab
 browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> běše prěni wuspěšny syćowy projekt a w lěće 1979 je so prěnja powěsć pósłała, z laboratorija za kompjuterowu wědomosć na uniwersiće Kaliforniskeje, Los Angeles (UCLA) na slědźerski institut w Stanfordźe (SRI), tež w Kaliforniskej.
 browser-history-that-sparked-a-revolution = To je rewoluciju w splećenje ličakow zbudźiło. Nowe syće su so tworili, kotrež uniwersity a slědźenišća po cyłym swěće zwjazachu. Ale za přichodne 20 lět njeje internet za zjawnosć přistupny był. Wosta na slědźerjow uniwersitow a knježerstwow, studentow a priwatne předewzaća wobmjezowany. Běchu dwanatki programow, kotrež móžachu z informacijemi přez telefonowody wikować, ale žadyn z nich da so lochko wužiwać. Woprawdźity wotewrjeny internet a prěni webwobhladowak njejstej do lěta 1990 nastałoj.
 browser-history-web-era = Doba interneta
+# Variables:
+#   $cern (url) - https://home.cern/topics/birth-web
+browser-history-british-computer = Britiski kompjuterowy wědomostnik Tim Berners-Lee je w lěće 1990 prěni webserwer a grafiski wobhladowak wutworił, hdyž <a href="{ $cern }">w CERN dźěłaśe</a>, w europskej organizaciji za nuklearne slědźenje w Šwicarskej. Je swoje nowe wokno do interneta „WorldWideWeb“ mjenował. Je lochko wužiwajomny grafiski wužiwarski powjerch za ličak NeXT było. Prěni raz su so tekstowe dokumenty w zjawnej syći zwjazali – web, kaž jón znajemy.
 browser-history-the-browser-wars = Wójny wobhladowakow
 browser-history-browsing-the-web = Kaž web dźensa přehladujemy
 browser-history-resources = Resursy
