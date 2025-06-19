@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Cộng đồng
 footer-contribute = Đóng góp
 footer-developer = Nhà phát triển
+footer-connect = Kết nối
 
 ## Links to resources
 
@@ -75,3 +76,5 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+footer-powdered-by = Được hỗ trợ bởi { -brand-name-mozilla }
+footer-putting-people = Đặt mọi người trên lợi nhuận kể từ năm 1998
