@@ -11,6 +11,9 @@ browser-history-the-history-of-web = Historija webwobglědowakow
 browser-history-world-history-is = Swětowe stawizny su połne episkich wójowanjow wó móc, tyranow, kótarež swět dobywaju a heroiskich outsiderow. Stawizny webwobglědowakow njejsu wjelgin hynac. Uniwersitne pioněry su napisali jadnoru software, kótaraž jo zapaliła informacisku rewoluciju a wójowanje wó nadkněstwo wobglědowaka a wó internetne wužywarje.
 browser-history-before-web-era = Pśed casom interneta
 browser-history-in-1950-computers = W lěśe 1950 su licadła zabrali cełe rumy a su byli głupše ako źinsajšne kapsne licaki. Póstup pak jo był malsny a až do 1960 su mógli kompleksne programy wuwjasć. Kněžaŕstwa a uniwersity pó globusu su se myslili, až by wjelicnje było, jolic mašiny mógli se rozgranjaś, což by spěchowało zgromadne źěło a wědomnostne pśedrěśa.
+# Variables:
+#   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
+browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> jo był prědny wuspěšny seśowy projekt a w lěśe 1979 jo se prědna powěsć pósłała, z laboratoriuma za kompjuterowu wědomnosć na uniwersiśe Kaliforniskeje, Los Angeles (UCLA) na slěźeński institut w Stanforźe (SRI), teke w Kaliforniskej.
 browser-history-web-era = Doba interneta
 browser-history-the-browser-wars = Wójny wobglědowakow
 browser-history-browsing-the-web = Ako web źinsa pśeglědujomy
