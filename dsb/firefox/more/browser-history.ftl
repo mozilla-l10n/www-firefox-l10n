@@ -20,6 +20,12 @@ browser-history-web-era = Doba interneta
 #   $cern (url) - https://home.cern/topics/birth-web
 browser-history-british-computer = Britiski kompjuterowy wědomnostnik Tim Berners-Lee jo w lěśe 1990 prědny webserwer a grafiski wobglědowak napórał, gaž <a href="{ $cern }">jo źěłał w CERN</a>, w europskej organizaciji za nuklearne slěźenje w Šwicaŕskej. Jo pomjenił swójo nowe wokno do interneta „WorldWideWeb“. Jo był lažko wužywajobny grafiski wužywaŕski pówjerch za licak NeXT. Prědny raz su se tekstowe dokumenty zwězali w zjawnej seśi – web, kaž jen znajomy.
 browser-history-a-year-later-berners = Jadno lěto pózdźej jo Berners-Lee studenta matematiki w CERN, Nicola Pellow, pšosył, wobglědowak Line Mode napisaś, program za zakładne kompjuterowe terminale.
+# Variables:
+#   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
+browser-history-by-1993-the-web = Až do 1993 jo web eksploděrował. Uniwersity, kněžaŕstwa a priwatne pśedewześa su wiźeli swóje šanse we wótwórjonem interneśe. Kuždy jo trjebał nowe kompjuterowe programy za pśistup k njomu. W tom lěśe jo se napórał Mosaic na Nationall Center for Supercomputing Applications (NCSA) na uniwersiśe University of Illinois Urbana-Champaign wót kompjuterowego wědomnostnika Marc Andreesen. Jo był nejprědnjejšy popularny webwobglědowak a rany pśedchadnik  <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a>.
+# Variables:
+#   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
+browser-history-ncsa-mosaic-ran = NCSA Mosaic jo běžał na licakach { -brand-name-windows }, jo se dał lažko wužywaś a jo zmóžnił kuždemu z PC pśistup k prědnym webbokam, chatroomam a wobrazowym bibliotekam. W lěśe pó tom (1994) jo Andreesen  załožył <a href="{ $netscape }">{ -brand-name-netscape }</a> a wózjawił { -brand-name-netscape } Navigator. Jo był tšašnje wuspěšny, a jo był prědny wobglědowak za luźe. Jo teke był prědny kšac w nowej družynje wójny za internetne wužywarje.
 browser-history-the-browser-wars = Wójny wobglědowakow
 browser-history-browsing-the-web = Ako web źinsa pśeglědujomy
 browser-history-resources = Resurse
