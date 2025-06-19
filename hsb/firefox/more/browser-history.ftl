@@ -20,6 +20,9 @@ browser-history-web-era = Doba interneta
 #   $cern (url) - https://home.cern/topics/birth-web
 browser-history-british-computer = Britiski kompjuterowy wědomostnik Tim Berners-Lee je w lěće 1990 prěni webserwer a grafiski wobhladowak wutworił, hdyž <a href="{ $cern }">w CERN dźěłaśe</a>, w europskej organizaciji za nuklearne slědźenje w Šwicarskej. Je swoje nowe wokno do interneta „WorldWideWeb“ mjenował. Je lochko wužiwajomny grafiski wužiwarski powjerch za ličak NeXT było. Prěni raz su so tekstowe dokumenty w zjawnej syći zwjazali – web, kaž jón znajemy.
 browser-history-a-year-later-berners = Jedne lěto pozdźišo je Berners-Lee studenta matematiki w CERN, Nicola Pellow, prosył, wobhladowak Line Mode napisać, program za zakładne kompjuterowe terminale.
+# Variables:
+#   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
+browser-history-by-1993-the-web = Hač do 1993 web eksplodowaše. Uniwersity, knježerstwa a priwatne předewzaća we wotewrjenym interneće swoje šansy widźachu. Kóždy trjebaše nowe kompjuterowe programy za přistup k njemu. W tym lěće je so Mosaic na Nationall Center for Supercomputing Applications (NCSA) na uniwersiće University of Illinois Urbana-Champaign wot kompjuteroweho wědomostnika Marc Andreesen wutworił. Běše najprěńši popularny webwobhladowak a zažny předchadnik  <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a>.
 browser-history-the-browser-wars = Wójny wobhladowakow
 browser-history-browsing-the-web = Kaž web dźensa přehladujemy
 browser-history-resources = Resursy
