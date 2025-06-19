@@ -19,6 +19,7 @@ browser-history-web-era = Doba interneta
 # Variables:
 #   $cern (url) - https://home.cern/topics/birth-web
 browser-history-british-computer = Britiski kompjuterowy wědomostnik Tim Berners-Lee je w lěće 1990 prěni webserwer a grafiski wobhladowak wutworił, hdyž <a href="{ $cern }">w CERN dźěłaśe</a>, w europskej organizaciji za nuklearne slědźenje w Šwicarskej. Je swoje nowe wokno do interneta „WorldWideWeb“ mjenował. Je lochko wužiwajomny grafiski wužiwarski powjerch za ličak NeXT było. Prěni raz su so tekstowe dokumenty w zjawnej syći zwjazali – web, kaž jón znajemy.
+browser-history-a-year-later-berners = Jedne lěto pozdźišo je Berners-Lee studenta matematiki w CERN, Nicola Pellow, prosył, wobhladowak Line Mode napisać, program za zakładne kompjuterowe terminale.
 browser-history-the-browser-wars = Wójny wobhladowakow
 browser-history-browsing-the-web = Kaž web dźensa přehladujemy
 browser-history-resources = Resursy
