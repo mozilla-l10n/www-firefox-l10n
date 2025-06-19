@@ -6,6 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = Cookiejowe nastajenja
+cookie-settings-page-desc = Toś ten bok rozdźělne typy cookiejow wopisujo, kótarež { -brand-name-mozilla } móžo wužywaś a dawa wam kontrolu nad tym, do kótarych typow datow zwólijośo, gaž { -brand-name-mozilla } gromaźi.
 cookie-settings-breadcrumb-link = Pjerwjejšny bok
 cookie-settings-how-mozilla-heading = Ako { -brand-name-mozilla } cookieje wužywa
 cookie-settings-how-does-mozilla-use-subheading = Kak { -brand-name-mozilla } toś te daty wužywa?
@@ -33,4 +34,5 @@ cookie-settings-category-analytics-what-are-subheading = Co su analytiske cookie
 ## Privacy section
 
 cookie-settings-privacy-heading = Naša powěźeńka priwatnosći
+cookie-settings-privacy-desc = Za nadrobnjejše informacije wó rozdźělnych typach informacijow, kótarež { -brand-name-mozilla } gromaźi, gaž se k našym websedłam woglědujośo, namakajośo dołojce wótkaz na našu powěźeńku priwatnosći.
 cookie-settings-privacy-policy-link = Powěźeńka priwatnosći

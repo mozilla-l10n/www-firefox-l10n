@@ -34,5 +34,5 @@ cookie-settings-category-analytics-what-are-subheading = Što su analyzowe plack
 ## Privacy section
 
 cookie-settings-privacy-heading = Naša zdźělenka priwatnosće
-cookie-settings-privacy-desc = Za podrobniše informacije wo rozdźělnych typacj informacijow, kotrež { -brand-name-mozilla } hromadźi, hdyž naše websydła wopytujeće, namakaće deleka wotkaz na našu zdźělenku priwatnosće.
+cookie-settings-privacy-desc = Za podrobniše informacije wo rozdźělnych typach informacijow, kotrež { -brand-name-mozilla } hromadźi, hdyž naše websydła wopytujeće, namakaće deleka wotkaz na našu zdźělenku priwatnosće.
 cookie-settings-privacy-policy-link = Zdźělenka priwatnosće
