@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Zajednica
 footer-contribute = Doprinesite
 footer-developer = Programeri
+footer-connect = Poveži se
 
 ## Links to resources
 

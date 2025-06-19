@@ -27,5 +27,8 @@ browser-history-by-1993-the-web = Hač do 1993 web eksplodowaše. Uniwersity, kn
 #   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
 browser-history-ncsa-mosaic-ran = NCSA Mosaic na ličakach { -brand-name-windows } běžeše, da so lochko wužiwać a zmóžni kóždemu z PC přistup k prěnim webstronam, chatowym rumam a wobrazowym bibliotekam. W lěće po tym (1994) je Andreesen <a href="{ $netscape }">{ -brand-name-netscape }</a> załožił a { -brand-name-netscape } Navigator wozjewił. Je nad měru wuspěšny był, a běše prěni wobhladowak za ludźi. Je tež prěnja kročel w nowej družinje wójny za internetnych wužiwarjow był.
 browser-history-the-browser-wars = Wójny wobhladowakow
+# Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = Wot 1995 { -brand-name-netscape } Navigator jenička móžnosć njeběše so online dóstać. Gigant za kompjuterowu software { -brand-name-microsoft } stary kod Mosaic licencowaše a wuwiwaše swójske wokno do weba, <a href="{ $ie }">{ -brand-name-ie }</a>. Wozjewjenje wójnu wubudźi. { -brand-name-netscape } a { -brand-name-microsoft } hektisce dźěłaštej, zo byštej nowe wersije swojeju programow zhotowjałoj, kóždy spyta, druhi ze spěšnišimi, lěpšimi produktami přetrjechić.
 browser-history-browsing-the-web = Kaž web dźensa přehladujemy
 browser-history-resources = Resursy
