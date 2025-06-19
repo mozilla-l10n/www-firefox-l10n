@@ -8,6 +8,8 @@
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Pśełožujśo webbok z { -brand-name-firefox }
 features-translate-translate-the-web = Pśełožujśo web
+# HTML page description
+features-translate-firefox-translations-is-a-built-in-v2 = { -brand-name-firefox-translations } jo zatwarjona pśełožowańsku funkcija, kótaraž wam zmóžnja, web lažko we wašej preferěrowanej rěcy pśeglědowaś. Zgóńśo wěcej wó tom, kak toś ta funkcija w { -brand-name-firefox } funkcioněrujo, a kak { -brand-name-mozilla } pomaga, to, což pśełožujośo, priwatne wóstanjo.
 features-translate-when-you-translate-a-webpage = Gaž webbok pśełožujośo, wón priwatny wóstawa
 features-translate-what-languages-are-currently = Kótare rěcy se tuchylu pódpěraju?
 # This is followed by a localized list of supported languages
