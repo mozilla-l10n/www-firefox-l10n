@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Mienskip
 footer-contribute = Bydrage
 footer-developer = Untwikkeler
+footer-connect = Ferbine
 
 ## Links to resources
 
