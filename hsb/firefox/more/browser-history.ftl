@@ -23,6 +23,9 @@ browser-history-a-year-later-berners = Jedne lěto pozdźišo je Berners-Lee stu
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
 browser-history-by-1993-the-web = Hač do 1993 web eksplodowaše. Uniwersity, knježerstwa a priwatne předewzaća we wotewrjenym interneće swoje šansy widźachu. Kóždy trjebaše nowe kompjuterowe programy za přistup k njemu. W tym lěće je so Mosaic na Nationall Center for Supercomputing Applications (NCSA) na uniwersiće University of Illinois Urbana-Champaign wot kompjuteroweho wědomostnika Marc Andreesen wutworił. Běše najprěńši popularny webwobhladowak a zažny předchadnik  <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a>.
+# Variables:
+#   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
+browser-history-ncsa-mosaic-ran = NCSA Mosaic na ličakach { -brand-name-windows } běžeše, da so lochko wužiwać a zmóžni kóždemu z PC přistup k prěnim webstronam, chatowym rumam a wobrazowym bibliotekam. W lěće po tym (1994) je Andreesen <a href="{ $netscape }">{ -brand-name-netscape }</a> załožił a { -brand-name-netscape } Navigator wozjewił. Je nad měru wuspěšny był, a běše prěni wobhladowak za ludźi. Je tež prěnja kročel w nowej družinje wójny za internetnych wužiwarjow był.
 browser-history-the-browser-wars = Wójny wobhladowakow
 browser-history-browsing-the-web = Kaž web dźensa přehladujemy
 browser-history-resources = Resursy
