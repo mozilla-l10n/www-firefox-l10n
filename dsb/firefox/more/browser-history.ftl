@@ -33,5 +33,6 @@ browser-history-by-1995-netscape = Wót 1995 { -brand-name-netscape } Navigator 
 # Variables:
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = { -brand-name-netscape } jo naporał a wózjawił JavaScript, kótaryž jo dał websedłam mócne liceńske zamóžnosći, kótarež njejsu měli nigda do togo. (Teke pśewołane <a href="{ $blink }">wobznamjenje &lt;blink&gt;</a> jo se napórało.) { -brand-name-microsoft } jo konterował z Cascading Style Sheets (CSS), kótarež su se wuwili k standardoju za design webbokow.
+browser-history-other-competitors = Druge wuběźowarje su se pokazali kóńc 1990tych a 2000tych lět, mjazy nimi { -brand-name-opera }, { -brand-name-safari } a { -brand-name-google } { -brand-name-chrome }. { -brand-name-microsoft } { -brand-name-edge } jo narownał { -brand-name-ie } z wózjawjenim { -brand-name-windows } 10 w lěśe 2015.
 browser-history-browsing-the-web = Ako web źinsa pśeglědujomy
 browser-history-resources = Resurse
