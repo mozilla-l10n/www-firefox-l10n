@@ -30,5 +30,8 @@ browser-history-the-browser-wars = Wójny wobglědowakow
 # Variables:
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = Wót 1995 { -brand-name-netscape } Navigator njejo był jadnučka móžnosć, se online dostaś. Gigant za kompjuterowu software { -brand-name-microsoft } jo licencěrował stary kod Mosaic a jo wuwijał swójske wokno do weba, <a href="{ $ie }">{ -brand-name-ie }</a>. Wózjawjenje jo zapaliło wójnu. { -brand-name-netscape } a { -brand-name-microsoft }stej  hektiski źěłałej, aby nowe wersije swójeju programowu zgótowałej, kuždy jo wopytał, drugi z malsnymi, lěpšymi produktami pśetrjefiś.
+# Variables:
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
+browser-history-netscape-created = { -brand-name-netscape } jo naporał a wózjawił JavaScript, kótaryž jo dał websedłam mócne liceńske zamóžnosći, kótarež njejsu měli nigda do togo. (Teke pśewołane <a href="{ $blink }">wobznamjenje &lt;blink&gt;</a> jo se napórało.) { -brand-name-microsoft } jo konterował z Cascading Style Sheets (CSS), kótarež su se wuwili k standardoju za design webbokow.
 browser-history-browsing-the-web = Ako web źinsa pśeglědujomy
 browser-history-resources = Resurse
