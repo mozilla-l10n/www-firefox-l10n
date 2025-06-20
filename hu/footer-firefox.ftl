@@ -77,4 +77,4 @@ footer-firefox = { -brand-name-firefox }
 ## Mozilla branding
 
 footer-powdered-by = A motorháztető alatt: { -brand-name-mozilla }
-footer-putting-people = Embereket helyez a profit elé 1998 óta
+footer-putting-people = Az emberek a profit elé helyezése, 1998 óta
