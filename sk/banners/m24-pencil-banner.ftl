@@ -5,3 +5,4 @@
 # Variables:
 # $link (url) - link to https://www.firefox.com
 m24-pencil-banner-firefox-has-moved = { -brand-name-firefox } sa presťahoval. Rovnaké poslanie. Rovnaké hodnoty. Vitajte na <a { $link }>firefox.com</a>
+m24-pencil-banner-firefox-has-moved-v2 = { -brand-name-firefox } sa presťahoval. Rovnaké poslanie. Rovnaké hodnoty. Vitajte na firefox.com.

@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Komunita
 footer-contribute = Zapojte sa
 footer-developer = Vývojár
+footer-connect = Pripojte sa
 
 ## Links to resources
 
@@ -75,3 +76,5 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+footer-powdered-by = Od spoločnosti { -brand-name-mozilla }
+footer-putting-people = Uprednostňujeme ľudí pred ziskom od roku 1998
