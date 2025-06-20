@@ -20,4 +20,6 @@ features-adblocker-tip-6 = <strong>Ebeveyn denetimleri:</strong> Uygunsuz içeri
 features-adblocker-enhanced-privacy = { -brand-name-firefox } ile daha fazla gizlilik ve performans
 features-adblocker-beyond-ad-blockers = { -brand-name-firefox }, reklam engelleyicilerin yanı sıra, web’de gezinirken size daha fazla kontrol sağlayan yerleşik özellikler içerir. Bu araçlar, deneyiminizi özelleştirmenize olanak sağlarken gizliliğinizi korumanıza yardımcı olur:
 features-adblocker-tool-1 = <strong>Standart mod:</strong> Web sitelerinin işlevselliğini korurken yaygın takip kodlarını engelleyen dengeli bir seçenek.
+features-adblocker-tool-2 = <strong>Sıkı mod:</strong> Daha fazla takip kodunu ve çerezi engelleyerek daha güçlü gizlilik koruması isteyen kullanıcılar için idealdir. Bu moddayken bazı sitelerin çeşitli ayarlamalar gerektirebileceğini unutmayın.
+features-adblocker-tool-3 = <strong>Özel mod:</strong> Tam kontrol isteyenler için çerezlerden takip kodlarına kadar neleri engelleyebileceğinizi seçmenize olanak tanır.
 features-adblocker-why-use = Neden reklam engelleyici kullanmalısınız?
