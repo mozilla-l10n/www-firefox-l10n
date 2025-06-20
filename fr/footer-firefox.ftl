@@ -73,3 +73,8 @@ footer-language = Langue
 footer-go = OK
 
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+
+footer-powdered-by = Conçu par { -brand-name-mozilla }
+footer-putting-people = Pensé pour vous depuis 1998
