@@ -73,3 +73,8 @@ footer-language = 言語
 footer-go = 進む
 
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+
+footer-powdered-by = { -brand-name-mozilla } が開発
+footer-putting-people = 1998 年より、利益よりもユーザーを守ってきました
