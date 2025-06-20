@@ -73,3 +73,8 @@ footer-language = भाषा
 footer-go = जाएँ
 
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+
+footer-powdered-by = { -brand-name-mozilla } द्वारा संचालित
+footer-putting-people = वर्ष 1998 से ही मुनाफ़े के बजाय आम लोगों को तरजीह
