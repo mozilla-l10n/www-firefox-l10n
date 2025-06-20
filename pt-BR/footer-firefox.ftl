@@ -76,3 +76,5 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+footer-powdered-by = Com tecnologia { -brand-name-mozilla }
+footer-putting-people = Colocando as pessoas antes dos lucros desde 1998
