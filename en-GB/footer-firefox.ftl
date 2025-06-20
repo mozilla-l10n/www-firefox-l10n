@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Community
 footer-contribute = Contribute
 footer-developer = Developer
+footer-connect = Connect
 
 ## Links to resources
 
@@ -75,3 +76,5 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+footer-powdered-by = Powered by { -brand-name-mozilla }
+footer-putting-people = Putting people before profits since 1998
