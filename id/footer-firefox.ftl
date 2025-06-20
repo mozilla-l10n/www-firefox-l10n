@@ -73,3 +73,8 @@ footer-language = Bahasa
 footer-go = Buka
 
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+
+footer-powdered-by = Didukung oleh { -brand-name-mozilla }
+footer-putting-people = Mengutamakan pengguna daripada keuntungan sejak 1998.

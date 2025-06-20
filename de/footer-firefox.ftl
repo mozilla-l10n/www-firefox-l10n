@@ -73,3 +73,8 @@ footer-language = Sprache
 footer-go = Los
 
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+
+footer-powdered-by = Powered by { -brand-name-mozilla }
+footer-putting-people = Für dich und das Web. Schon seit 1998.
