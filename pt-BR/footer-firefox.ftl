@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Comunidade
 footer-contribute = Contribuir
 footer-developer = Desenvolvedor
+footer-connect = Conectar
 
 ## Links to resources
 
