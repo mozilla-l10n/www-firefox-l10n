@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Skupnost
 footer-contribute = Prispevaj
 footer-developer = Razvijalci
+footer-connect = Connect
 
 ## Links to resources
 
@@ -44,6 +45,9 @@ footer-developer = Razvijalci
 footer-resources = Viri
 footer-compare = Primerjaj
 footer-release-notes = Opombe ob izdaji
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Spoznajte nas
 footer-support = Podpora
 footer-addons = Dodatki
 footer-blog = Blog
@@ -72,3 +76,5 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+footer-powdered-by = Omogoča { -brand-name-mozilla }
+footer-putting-people = Ljudi postavljamo pred dobiček že od leta 1998
