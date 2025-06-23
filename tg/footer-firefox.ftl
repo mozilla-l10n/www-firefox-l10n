@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Ҷомеа
 footer-contribute = Иштирок доштан
 footer-developer = Барномасоз
+footer-connect = Пайваст шавед
 
 ## Links to resources
 

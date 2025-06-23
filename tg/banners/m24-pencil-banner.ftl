@@ -5,3 +5,4 @@
 # Variables:
 # $link (url) - link to https://www.firefox.com
 m24-pencil-banner-firefox-has-moved = «{ -brand-name-firefox }» ба ҷойи нав гузаронида шуд - Ҳамон вазифаҳо. Ҳамон арзишҳо. Хуш омадед ба сомонаи нави мо дар <a { $link }>firefox.com</a>
+m24-pencil-banner-firefox-has-moved-v2 = «{ -brand-name-firefox }» ба ҷойи нав гузаронида шуд - Ҳамон вазифаҳо. Ҳамон арзишҳо. Хуш омадед ба сомонаи нави мо дар firefox.com
