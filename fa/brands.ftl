@@ -18,8 +18,8 @@
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
 -brand-name-netscape = Netscape
--brand-name-linkedin = LinkedIn
--brand-name-spotify = Spotify
+-brand-name-linkedin = لینکدین
+-brand-name-spotify = اسپاتیفای
 
 ## Firefox browsers
 
@@ -67,9 +67,14 @@
 
 ## Mozilla projects
 
+-brand-name-gecko = Gecko
+-brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mozilla-account = حساب کاربری Mozilla
+-brand-name-mozilla-accounts = حساب‌های کاربری Mozilla
+-brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
@@ -84,18 +89,18 @@
 -brand-name-chrome = Chrome
 -brand-name-edge = Edge
 -brand-name-ie = Internet Explorer
--brand-name-opera = Opera
--brand-name-safari = Safari
+-brand-name-opera = اپرا
+-brand-name-safari = سافاری
 
 ## Platforms
 
--brand-name-android = Android
+-brand-name-android = اندروید
 -brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
--brand-name-linux = Linux
+-brand-name-linux = لینوکس
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
--brand-name-windows = Windows
+-brand-name-windows = ویندوز
 
 ## Apple products
 
@@ -106,11 +111,11 @@
 
 ## Facebook products
 
--brand-name-instagram = Instagram
+-brand-name-instagram = اینستاگرام
 
 ## Google products
 
--brand-name-chromium = Chromium
+-brand-name-chromium = کرومیوم
 -brand-name-google-play = Google Play
--brand-name-youtube = YouTube
--brand-name-chromebook = Chromebook
+-brand-name-youtube = یوتیوب
+-brand-name-chromebook = کروم‌بوک
