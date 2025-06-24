@@ -81,3 +81,6 @@ footer-putting-people = Rhoi pobl cyn elw ers 1998
 
 ## Feedback
 
+footer-feedback-found-a-bug = Wedi dod o hyd i fyg gyda'n gwefan newydd?
+# links to a Google Form that is English only
+footer-feedback-let-us-know = Rhowch wybod i ni.

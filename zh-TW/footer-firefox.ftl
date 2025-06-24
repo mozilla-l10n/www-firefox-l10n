@@ -81,3 +81,6 @@ footer-putting-people = 自 1998 年起就將人們比利益看得更重要
 
 ## Feedback
 
+footer-feedback-found-a-bug = 在我們的新網站中發現 bug
+# links to a Google Form that is English only
+footer-feedback-let-us-know = 讓我們知道。

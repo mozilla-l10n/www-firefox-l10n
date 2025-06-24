@@ -81,3 +81,6 @@ footer-putting-people = Az emberek a profit elé helyezése, 1998 óta
 
 ## Feedback
 
+footer-feedback-found-a-bug = Hibát talált az új weboldalunkkal?
+# links to a Google Form that is English only
+footer-feedback-let-us-know = Mondja el.

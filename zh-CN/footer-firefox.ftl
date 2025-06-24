@@ -81,3 +81,6 @@ footer-putting-people = 1998 年至今，始终坚持以人为本
 
 ## Feedback
 
+footer-feedback-found-a-bug = 发现新网站有缺陷
+# links to a Google Form that is English only
+footer-feedback-let-us-know = 告诉我们吧。

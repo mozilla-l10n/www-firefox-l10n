@@ -81,3 +81,6 @@ footer-putting-people = ხალხის მოგებაზე წინ �
 
 ## Feedback
 
+footer-feedback-found-a-bug = აღმოაჩინეთ ხარვეზი ჩვენს ახალ ვებსაიტზე?
+# links to a Google Form that is English only
+footer-feedback-let-us-know = გვაცნობეთ.
