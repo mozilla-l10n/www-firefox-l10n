@@ -25,6 +25,7 @@ cookie-settings-category-necessary-what-are-subheading = Кукиҳои зару
 
 cookie-settings-category-preference-heading = Хусусият
 cookie-settings-category-preference-what-are-subheading = Кукиҳои хусусӣ кадоманд?
+cookie-settings-category-preference-what-are-desc = Ин технологияҳо барои ба ёд овардани интихобҳое истифода мешаванд, ки корбар ҳангоми боздидҳои қаблии худ аз сомона анҷом додааст. Барои мисол, онҳо метавонанд забони афзалиятнок барои хондани маводи сомона ё мавзуи ранги дӯстдоштаи шуморо дар бар гиранд.
 
 ## Analytics cookies section
 
