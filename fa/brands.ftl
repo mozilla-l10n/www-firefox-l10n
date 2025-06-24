@@ -64,6 +64,7 @@
 
 ## Fakespot
 
+-brand-name-fakespot = Fakespot
 
 ## Mozilla projects
 
@@ -75,6 +76,7 @@
 -brand-name-mozilla-account = حساب کاربری Mozilla
 -brand-name-mozilla-accounts = حساب‌های کاربری Mozilla
 -brand-name-mozilla-ai-v2 = Mozilla.ai
+-brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
@@ -86,9 +88,9 @@
 ## Other browsers
 
 -brand-name-brave = Brave
--brand-name-chrome = Chrome
+-brand-name-chrome = کروم
 -brand-name-edge = Edge
--brand-name-ie = Internet Explorer
+-brand-name-ie = اینترنت اکسپلورر
 -brand-name-opera = اپرا
 -brand-name-safari = سافاری
 

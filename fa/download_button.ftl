@@ -41,3 +41,7 @@ download-button-linux-64-v2 = دریافت برای گنو/لینوکس ۶۴بی
 download-button-using-debian = آیا از دبیان، اوبونتو و یا دیگر توزیع‌های مبتنی بر دبیان استفاده می‌کنید؟<br>می‌توانید <a { $attrs }>مخزن APT</a>ما را به‌کار برید.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = از مایکروسافت بگیرید
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = نحوه آشنایی خود با { -brand-name-firefox } را هم‌رسانی کنید و اینکه از آن همراه با شرکای فناوری بازاریابی { -brand-name-mozilla } استفاده می‌کنید. این داده‌ها هرگز فروخته نمی‌شوند یا برای نمایش تبلیغات به شما استفاده نمی‌شوند. <a { $attrs }>بیاموزید که چگونه از این داده‌ها استفاده می‌کنیم</a>.

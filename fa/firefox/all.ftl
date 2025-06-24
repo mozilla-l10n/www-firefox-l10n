@@ -42,6 +42,8 @@ firefox-all-download-esr-version = دریافت { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = ما در دوره گذار بین نگارش‌های اصلی ESR { $esr_next_major } و { $esr_current_major } هستیم.
+firefox-all-esr-when-there-is = وقتی یک به‌روزرسانی نگارش اصلی منتشر می‌شود، همیشه چند نگارش از { -brand-name-firefox-esr } به‌صورت هم‌زمان در دسترس هستند تا به افرادی که از نگارش قدیمی استفاده می‌کنند فرصت داده شود برای مهاجرت به نگارش جدید آماده شوند.
+firefox-all-esr-if-you-choose = اگر نگارش قدیمی‌تر ESR را دریافت کنید، پس از پایان دوره انتقال، به‌صورت خودکار به نگارش جدید به‌روزرسانی خواهید شد.
 firefox-all-check-the-system-requirements = بررسی نیازمندی‌های سیستم
 firefox-all-release-notes = یادداشت‌های انتشار
 firefox-all-source-code = کد منبع
