@@ -20,11 +20,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = En endnu nyere version af { -brand-name-firefox } er tilgængelig. <a { $update_url }>>Opdater til den seneste version</a>
 firefox-desktop-download-get-the-browser = Få en browser, der beskytter dét, der er vigtigt
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = Ingen lyssky privatlivspolitikker eller bagdøre for annoncører. Bare en lynhurtig browser, der ikke svigter dig.
 firefox-desktop-download-download-options = Filhentningsmuligheder og andre sprog
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser }-support
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-do-what-you-do = Gør hvad du vil på nettet<br> { -brand-name-firefox-browser } holder <strong>IKKE</strong> øje med dig.
 firefox-desktop-download-we-block-the-ad = Vi forhindrer sporing. Og gør det hurtigere for dig at bruge nettet.
 firefox-desktop-download-ads-are-distracting = Annoncer distraherer og får websider til at indlæse langsommere, mens de sporer hver bevægelse, du foretager online. { -brand-name-firefox-browser } blokerer de fleste sporings-mekanismer automatisk, så du kan føle dig sikker på internettet uden at skulle finjustere dine sikkerhedsindstillinger.

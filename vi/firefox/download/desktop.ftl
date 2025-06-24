@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Một phiên bản mới của { -brand-name-firefox } đã có sẵn. <a { $update_url }>Cập nhật lên phiên bản mới nhất</a>
 firefox-desktop-download-get-the-browser = Tải trình duyệt bảo vệ những gì quan trọng
 firefox-desktop-download-fast-reliable-private = Nhanh chóng, đáng tin cậy và riêng tư — để bạn yên tâm khi trực tuyến.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = Không có chính sách bảo mật mờ ám hoặc cửa sau cho các nhà quảng cáo. Chỉ cần một trình duyệt nhanh như chớp mà không bán bất kỳ thứ gì của bạn.
 firefox-desktop-download-download-options = Tùy chọn tải xuống và các ngôn ngữ khác
 firefox-desktop-download-browser-support = Hỗ trợ { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Làm những gì bạn làm trực tuyến.<br> { -brand-name-firefox-browser } sẽ <strong>bảo vệ</strong> bạn.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-do-what-you-do = Làm những gì bạn làm trực tuyến.<br> { -brand-name-firefox-browser } <strong>sẽ không</strong> theo dõi.
 firefox-desktop-download-we-block-the-ad = Chúng tôi chặn trình theo dõi quảng cáo. Bạn khám phá internet nhanh hơn.
 firefox-desktop-download-ads-are-distracting = Quảng cáo gây mất tập trung và làm cho các trang web tải chậm hơn trong khi trình theo dõi của họ theo dõi mọi di chuyển bạn thực hiện trực tuyến. { -brand-name-firefox-browser } tự động chặn hầu hết các trình theo dõi, do đó, không cần phải đào sâu vào cài đặt bảo mật của bạn.

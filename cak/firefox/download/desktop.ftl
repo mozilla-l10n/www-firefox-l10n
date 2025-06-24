@@ -15,11 +15,11 @@ firefox-desktop-download-og-title = Tiqasäx ri { -brand-name-firefox }, ri yala
 firefox-desktop-download-og-desc = Ri rusamajib'exik ri aninäq ruxaq, rokisaxik jub'a' tzatzq'ob'äl chuqa' nojinäq chi b'anikil, wawe' k'o wi ri k'ak'a' { -brand-name-firefox }.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Tak'ulu' ri okik'amaya'l ri nuto' ri yalan k'atzinel
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = Majun itzel runa'ojil ichinanem o rij ruchi' jay chi kiwa ri eltzijonela'. Xa xe jun nïm anin okik'amaya'l, ri man yatruk'ayij ta.
 firefox-desktop-download-download-options = Rucha'oj qasanïk chuqa' ch'aqa' taq ch'ab'äl
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } tob'äl
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-do-what-you-do = Kasamäj pa k'amab'ey. <br> { -brand-name-firefox-browser } <strong> man </strong> yatrutz'ët ta.
 firefox-desktop-download-we-block-the-ad = Yeqaq'ät ojqanela'. Ruma ri' anin ri k'amaya'l.
 firefox-desktop-download-ads-are-distracting = Ri eltzijol nuk'äm atzub'al chuqa' nub'än eqal richin yesamajïx ri taq ruxaq, chi ri' toq ri rojqanela' nikitz'ët ronojel ri nab'än pa k'amab'ey. Ri { -brand-name-firefox-browser } ruyonil yeruq'ät konojel ri ojqanela', ruma ri' man k'atzinel ta nakanoj rub'eyal pa ri runuk'ulem jikomal.

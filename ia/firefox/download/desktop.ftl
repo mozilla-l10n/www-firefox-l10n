@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Un { -brand-name-firefox } mesmo plus nove es disponibile. <a { $update_url }>Actualisar al ultime version</a>
 firefox-desktop-download-get-the-browser = Installa le navigator que protege lo que es importante
 firefox-desktop-download-fast-reliable-private = Veloce, fidabile e private, pro le tranquillitate online.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = Nulle terminos e conditiones dubitose con clausulas que favori le annunciatores. Solmente un navigator, rapide como le fulmine, que non vende tu datos.
 firefox-desktop-download-download-options = Discarga optiones e altere linguas
 firefox-desktop-download-browser-support = Supporto de { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Face  online lo que tu vole.<br> { -brand-name-firefox-browser } te <strong>protege</strong>.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-do-what-you-do = Face lo que tu face online.<br> { -brand-name-firefox-browser } <strong>non sta</strong> spiar.
 firefox-desktop-download-we-block-the-ad = Nos bloca le traciatores de avisos publicitari. Tu explora internet plus velocemente.
 firefox-desktop-download-ads-are-distracting = Avisos publicitari distrahe e rende le cargamentos del paginas web plus lente durante que lor traciatores survelia cata movimento que tu face online. Le { -brand-name-firefox-browser } bloca le major parte del traciatores automaticamente, assi il non ha ulle besonio de excavar in tu parametros de securitate.

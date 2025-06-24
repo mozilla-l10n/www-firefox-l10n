@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Er is een nog nieuwere { -brand-name-firefox } beschikbaar. <a { $update_url }>Bijwerken naar de nieuwste versie</a>
 firefox-desktop-download-get-the-browser = Download de browser die beschermt wat belangrijk is
 firefox-desktop-download-fast-reliable-private = Snel, betrouwbaar en privé – voor gemoedsrust online.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = Geen schimmig privacybeleid of achterdeurtjes voor adverteerders. Gewoon een razendsnelle browser die u niet bedriegt.
 firefox-desktop-download-download-options = Downloadopties en andere talen
 firefox-desktop-download-browser-support = Ondersteuning voor { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Doe wat u online doet. <br> { -brand-name-firefox-browser } heeft u <strong>gedekt</strong>.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-do-what-you-do = Doe wat u online doet. <br> { -brand-name-firefox-browser } kijkt <strong>niet</strong> mee.
 firefox-desktop-download-we-block-the-ad = Wij blokkeren de advertentietrackers. U surft sneller over het internet.
 firefox-desktop-download-ads-are-distracting = Advertenties leiden af en zorgen ervoor dat webpagina’s langzamer worden geladen, terwijl hun trackers al uw online handelingen volgen. De { -brand-name-firefox-browser } blokkeert de meeste trackers automatisch, dus u hoeft uw beveiligingsinstellingen niet door te spitten.

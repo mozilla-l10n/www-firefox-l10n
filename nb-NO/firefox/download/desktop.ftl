@@ -15,11 +15,11 @@ firefox-desktop-download-og-title = Last ned den raskeste { -brand-name-firefox 
 firefox-desktop-download-og-desc = Raskere sidelasting, mindre minnebruk og fullastet av nye funksjoner, den nye { -brand-name-firefox } er her.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Få nettleseren som beskytter det som er viktig
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = Ingen lyssky personvernregler eller bakdører for annonsører. Bare en lynrask nettleser som ikke selger dine data.
 firefox-desktop-download-download-options = Nedlastingsalternativer og andre språk
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } brukerstøtte
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-do-what-you-do = Gjør hva du vil på nettet. <br> { -brand-name-firefox-browser } <strong>overvåker</strong> deg ikke.
 firefox-desktop-download-we-block-the-ad = Vi blokkerer annonsesporere. Du utforsker internett raskere.
 firefox-desktop-download-ads-are-distracting = Annonser er irriterende og gjør at nettsidene laster tregere mens sporere sporer aktivitetene dine på nettet. { -brand-name-firefox-browser } blokkerer ganske enkelt de fleste av disse sporere automatisk, uten at du trenger å endre sikkerhetsinnstillingene dine.

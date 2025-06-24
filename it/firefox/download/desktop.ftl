@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser(capitalization:
 firefox-desktop-out-of-date = È disponibile una versione ancora più recente di { -brand-name-firefox }. <a { $update_url }>Aggiorna all’ultima versione</a>
 firefox-desktop-download-get-the-browser = Installa il browser che protegge ciò che conta
 firefox-desktop-download-fast-reliable-private = Veloce, affidabile e riservato, per la massima tranquillità online.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = Nessuna informativa sulla privacy ambigua con scappatoie per gli inserzionisti. Solo un browser velocissimo che non ti vende a nessuno.
 firefox-desktop-download-download-options = Opzioni di download per sistema operativo e lingue
 firefox-desktop-download-browser-support = Supporto { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Fai ciò che desideri quando sei online.<br> { -brand-name-firefox-browser } ti <strong>protegge</strong>.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-do-what-you-do = Fai quello che ti piace fare online.<br>Il { -brand-name-firefox-browser } <strong>non</strong> ti spia.
 firefox-desktop-download-we-block-the-ad = Noi blocchiamo le pubblicità traccianti. Tu navighi più veloce.
 firefox-desktop-download-ads-are-distracting = Gli annunci pubblicitari ti distraggono e rallentano il caricamento delle pagine web, mentre i loro elementi traccianti spiano ogni mossa che fai online. Il { -brand-name-firefox-browser } blocca automaticamente la maggior parte degli elementi traccianti senza che tu metta mano alle impostazioni di sicurezza.

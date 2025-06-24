@@ -22,13 +22,13 @@ firefox-desktop-out-of-date = კიდევ უფრო ახალი { -br
 firefox-desktop-download-get-the-browser = ბრაუზერი, რომელიც იცავს იმას, რაც მეტად ღირებულია
 firefox-desktop-download-fast-reliable-private = სწრაფი, საიმედო და პირადი — ინტერნეტის მშვიდად გამოყენებისთვის.
 firefox-desktop-set-as-default = გახადეთ { -brand-name-firefox } ნაგულისხმევი ბრაუზერი.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = არავითარი ფარული მუხლები პირადულობის დებულებებში ან დატოვებული ხვრელები სარეკლამოებისთვის. მხოლოდ მსუბუქი ბრაუზერი, რომელიც თქვენი მონაცემებით არ ვაჭრობს.
 firefox-desktop-download-download-options = ჩამოტვირთვის ვარიანტები და სხვა ენები
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } მხარდაჭერა
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = აკეთეთ, რასაც აკეთებთ ხოლმე ინტერნეტში.<br> დანარჩენს { -brand-name-firefox-browser } <strong>მიხედავს</strong>.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-do-what-you-do = აკეთეთ ინტერნეტში, რაც მოგესურვებათ.<br> { -brand-name-firefox-browser } <strong>არ</strong> გითვალთვალებთ.
 firefox-desktop-download-we-block-the-ad = სარეკლამო მეთვალყურეები შეზღუდულია. ვებგვერდების მონახულება გაცილებით სწრაფად შეგიძლიათ.
 firefox-desktop-download-ads-are-distracting = რეკლამები ყურადღების გამფანტავია და ანელებს გვერდების ჩატვირთვას, როცა თვალს ადევნებს თითოეულ თქვენს მოქმედებას ინტერნეტში. { -brand-name-firefox-browser } ზღუდავს მეთვალყურეების უმეტესობას ავტომატურად, ასე რომ არ დაგჭირდებათ პარამეტრებში დამატებით ძრომიალი.

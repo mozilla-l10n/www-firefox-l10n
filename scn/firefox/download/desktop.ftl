@@ -20,11 +20,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Cc’è na virsioni ancora cchiù nova di { -brand-name-firefox }. <a { $update_url }>Attualizza a l’ùrtima virsioni</a>
 firefox-desktop-download-get-the-browser = Pigghia u navicaturi chi pruteggi soccu è mpurtanti
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = Senza pulìtichi di privatizza trùbbuli o lassapassari pi cu’ fa pubblicità. Sulu un navicaturi lestu comu na sajitta chi nun ti vinni a nuḍḍu.
 firefox-desktop-download-download-options = Scartati di scarricamentu e autri lingui
 firefox-desktop-download-browser-support = Supportu di { -brand-name-firefox-browser }
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-do-what-you-do = Fai soccu voi ’n linia.<br>U { -brand-name-firefox-browser } <strong>nun</strong> ti talìa.
 firefox-desktop-download-we-block-the-ad = Bluccamu i trazzatura dî pubblicità, e tu nàvighi cchiù lestu.
 firefox-desktop-download-ads-are-distracting = I pubblicità distràjinu e fannu i pàggini cchiù lenti di carricari, mentri chi i trazzatura talìanu tuttu chiḍḍu chi fai ’n linia. U { -brand-name-firefox-browser } blocca di manera autumàtica a majurìa dî trazzatura, senza chi metti manu nnê mpustazzioni di sicurizza.

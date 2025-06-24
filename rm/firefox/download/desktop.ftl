@@ -20,11 +20,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser(capitalization:
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Ina versiun anc pli nova da { -brand-name-firefox } è disponibla. <a { $update_url }>Actualisescha a la versiun la pli nova</a>
 firefox-desktop-download-get-the-browser = Va per il navigatur che protegia quai che quinta
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = Nagina protecziun da datas suspectusa cun largias per vendiders da reclama. Mo in navigatur sco ina frizza che na ta splima betg.
 firefox-desktop-download-download-options = Opziuns da telechargiadas ed autras linguas
 firefox-desktop-download-browser-support = Agid dal { -brand-name-firefox-browser }
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-do-what-you-do = Sta patgific en l'internet.<br> Il { -brand-name-firefox-browser } na t'observa <strong>betg</strong>.
 firefox-desktop-download-we-block-the-ad = Nus bloccain ils fastizaders da reclama. Ti navigheschas pli svelt en l'internet.
 firefox-desktop-download-ads-are-distracting = Reclamas distiran ed han per consequenza che paginas chargian pli plaun, fertant che lur fastizaders observan mintga pass che ti fas online. Il { -brand-name-firefox-browser } blochescha automaticamain la plipart dals fastizaders – uschia ch'i na fa gnanc da basegn da svutrar ditg en ils parameters da segirezza.

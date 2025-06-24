@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Ein endå nyare { -brand-name-firefox } er tilgjengeleg. <a { $update_url }>Oppdater til siste versjon</a>
 firefox-desktop-download-get-the-browser = Få nettlesaren som tek vare på det som er viktig
 firefox-desktop-download-fast-reliable-private = Rask, påliteleg og privat — for sinnsro på nettet.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = Ingen lyssky personvernreglar eller bakdører for annonsørar. Berre ein lynrask nettlesar som ikkje sel dataa dine.
 firefox-desktop-download-download-options = Nedlastingsalternativ og andre språk
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } brukarstøtte
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Gjer kva du vil på nettet.<br> { -brand-name-firefox-browser } <strong>beskyttar</strong> deg.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-do-what-you-do = Gjer det du vil på nettet. <br> { -brand-name-firefox-browser } <strong>overvakar</strong> deg ikkje.
 firefox-desktop-download-we-block-the-ad = Vi blokkerer annonsesporarar. Du utforskar internett raskare.
 firefox-desktop-download-ads-are-distracting = Annonsar er irriterande og gjer at nettsidene lastar tregare medan sporarar sporar aktivitetane dine på nettet. { -brand-name-firefox-browser } blokkerer ganske enkelt dei fleste av desse sporarane automatisk, utan at du treng å endre tryggingsinnstillingane dine.

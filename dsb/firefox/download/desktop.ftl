@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Samo nowšy { -brand-name-firefox } jo k dispoziciji. <a { $update_url }>Na nejnowšu wersiju aktualizěrowaś</a>
 firefox-desktop-download-get-the-browser = Wobstarajśo se wobglědowak, kótaryž šćita, což jo wažne.
 firefox-desktop-download-fast-reliable-private = Malsny, spušćobny a priwatny – za dušyny měr online.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = Žedne póchmurne pšawidła priwatnosći abo slězne źuŕka za wabjarje. Jano spěšnučki wobglědowak, kótaryž was njewobšuźujo.
 firefox-desktop-download-download-options = Ześěgnjeńske móžnosći a druge rěcy
 firefox-desktop-download-browser-support = Pomoc wó { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Cyńśo online, což cośo.<br> { -brand-name-firefox-browser } was <strong>šćita</strong>.
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-do-what-you-do = Cyńśo online, což cośo.<br> { -brand-name-firefox-browser } <strong>nje</strong>pśiglědujo.
 firefox-desktop-download-we-block-the-ad = My blokěrujomy wabjeńske pśeslědowaki. Wy pśeslěźujośo internet malsnjej.
 firefox-desktop-download-ads-are-distracting = Wabjenje móli a wjeźo k tomu, až se webboki pómałčej zacytuju, mjaztym až pśeslědowaki kužde pógib wobglěduju, kótaryž online cyniśo. { -brand-name-firefox-browser } nejwěcej pśeslědowakow awtomatiski blokěrujo, togodla njetrjebaśo se do swójich wěstotnych nastajenjow zaryś.

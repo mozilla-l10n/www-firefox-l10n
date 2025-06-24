@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = { -brand-name-firefox } รุ่นใหม่มีให้ใช้แล้ว <a { $update_url }>อัปเดตเป็นรุ่นล่าสุด</a>
 firefox-desktop-download-get-the-browser = รับเบราว์เซอร์ที่ปกป้องสิ่งที่สำคัญ
 firefox-desktop-download-fast-reliable-private = รวดเร็ว เชื่อถือได้ และเป็นส่วนตัว เพื่อความอุ่นใจทางออนไลน์
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = ไม่มีนโยบายความเป็นส่วนตัวที่คลุมเครือหรือประตูหลังสำหรับผู้โฆษณา มีเพียงเบบราว์เซอร์ที่เร็วสุด ๆ ที่ไม่เอาข้อมูลของคุณไปขาย
 firefox-desktop-download-download-options = ตัวเลือกการดาวน์โหลดและภาษาอื่น ๆ
 firefox-desktop-download-browser-support = การสนับสนุน { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = ให้คุณทำสิ่งที่คุณต้องการออนไลน์<br> { -brand-name-firefox-browser } จะ<strong>ไม่แอบดู</strong>คุณ
-# Obsolete string (expires: 2025-04-17)
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-do-what-you-do = ให้คุณทำสิ่งที่คุณต้องการออนไลน์<br> { -brand-name-firefox-browser } จะ<strong>ไม่</strong>แอบดูคุณ
 firefox-desktop-download-we-block-the-ad = เราจะปิดกั้นตัวติดตามเว็บเพื่อให้คุณสำรวจอินเทอร์เน็ตได้เร็วขึ้น
 firefox-desktop-download-ads-are-distracting = โฆษณาทำให้เสียสมาธิและทำให้หน้าเว็บโหลดช้าลงในขณะที่ตัวติดตามของพวกเขาจะคอยจับตาดูทุกการเคลื่อนไหวของคุณบนโลกออนไลน์ { -brand-name-firefox-browser } จะปิดกั้รตัวติดตามส่วนใหญ่โดยอัตโนมัติ ดังนั้นจึงไม่จำเป็นต้องเจาะการตั้งค่าความปลอดภัยของคุณ
