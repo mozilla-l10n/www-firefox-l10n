@@ -30,6 +30,7 @@ cookie-settings-category-preference-what-are-subheading = Кукиҳои хус�
 
 cookie-settings-category-analytics-heading = Таҳлил
 cookie-settings-category-analytics-what-are-subheading = Кукиҳои таҳлилӣ кадоманд?
+cookie-settings-category-analytics-what-are-desc = Ин технологияҳо маълумотро дар бораи рафтори корбарон дар сомонаҳо ҷамъ мекунанд, аз ҷумла кадом саҳифаҳо дида шудаанд, кадом истинодҳо зер шудаанд ва онҳо аз кадом сомонаҳо омадаанд.
 
 ## Privacy section
 
