@@ -7,6 +7,8 @@
 
 # HTML page title
 firefox-browsers-page-title-v2 = { -brand-name-firefox } mesa ariguápe
+# HTML page description
+firefox-browsers-page-desc-v2 = Emboguejy kundahára omoĩva ne ñemigua tenonderã — ehupyty { -brand-name-firefox } Windows, macOS térã Linux-pe g̃uarã mohendahápe.
 firefox-browsers-main-heading-v2 = { -brand-name-firefox } mesa ariguápe
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Ereko kundahára omotenondéva tekoñemi — ha <strong>tapiaite</strong> ojapovavoi
