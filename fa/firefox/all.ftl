@@ -44,6 +44,9 @@ firefox-all-download-esr-version = دریافت { $esr_version }
 firefox-all-esr-we-are-in-transition = ما در دوره گذار بین نگارش‌های اصلی ESR { $esr_next_major } و { $esr_current_major } هستیم.
 firefox-all-esr-when-there-is = وقتی یک به‌روزرسانی نگارش اصلی منتشر می‌شود، همیشه چند نگارش از { -brand-name-firefox-esr } به‌صورت هم‌زمان در دسترس هستند تا به افرادی که از نگارش قدیمی استفاده می‌کنند فرصت داده شود برای مهاجرت به نگارش جدید آماده شوند.
 firefox-all-esr-if-you-choose = اگر نگارش قدیمی‌تر ESR را دریافت کنید، پس از پایان دوره انتقال، به‌صورت خودکار به نگارش جدید به‌روزرسانی خواهید شد.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = برای کسب اطلاعات بیشتر درباره <a { $attrs }>چرخه انتشار { -brand-name-firefox-esr }</a> مطالعه کنید.
 firefox-all-check-the-system-requirements = بررسی نیازمندی‌های سیستم
 firefox-all-release-notes = یادداشت‌های انتشار
 firefox-all-source-code = کد منبع
