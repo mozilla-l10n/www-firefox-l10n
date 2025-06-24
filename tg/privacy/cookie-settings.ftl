@@ -20,6 +20,7 @@ cookie-settings-turn-on-javascript = Лутфан «JavaScript»-ро фаъол
 
 cookie-settings-category-necessary-heading = Зарур
 cookie-settings-category-necessary-what-are-subheading = Кукиҳои зарурӣ кадоманд?
+cookie-settings-category-necessary-what-are-desc = Ин технологияҳо барои дастгирии хусусиятҳои муҳими сомона, аз қабили ворид шудан ба бахши муҳофизатшуда ё илова кардани ашё ба сабади харидории онлайн, заруранд ва амали ғайрифаъолсозии онҳо ғайриимкон аст.
 
 ## Preference cookies section
 
