@@ -15,3 +15,6 @@ compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } این ا�
 # Variables:
 # $primary (url) - link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
 compare-brave-firefox-gives-you-the-option = { -brand-name-firefox } این امکان را به شما می‌دهد که گذرواژه‌های ذخیره‌شده خود را رمزگذاری کنید و می‌توانید <a { $primary }> با استفاده از یک گذرواژه اصلی به آن‌ها دسترسی داشته باشید</a>؛ گذرواژه‌های شما حتی در صورت هم‌رسانی رایانه نیز محافظت می‌شوند. Brave از گذرواژه‌هایتان با گذرواژه محافظت نمی‌کند.
+# Variables:
+# $howto (url) - link to https://support.mozilla.org/kb/import-data-another-browser
+compare-brave-switching-to-firefox-is-easy = تغییر به { -brand-name-firefox } آسان و سریع است – نشانک‌ها، گذرواژه‌ها، تاریخچه و تنظیمات Brave خود را تنها با یک کلیک وارد کنید و بلافاصله آماده استفاده از { -brand-name-firefox } شوید. در اینجا <a { $howto }>نحوه وارد کردن داده‌های Brave خود</a> آمده است.
