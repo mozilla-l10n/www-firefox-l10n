@@ -68,3 +68,6 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+
+## Feedback
+

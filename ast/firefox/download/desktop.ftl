@@ -7,7 +7,7 @@
 
 firefox-desktop-download-get-the-browser = Consigui'l restolador que protexe lo que ye importante
 firefox-desktop-download-download-options = Opciones de descarga y otres llingües
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Fai lo que quieras en llinia.<br>El { -brand-name-firefox-browser } <strong>nun</strong> t'escluca.
 firefox-desktop-download-for-everyone = { -brand-name-firefox } ye pa tol mundu
 firefox-desktop-download-all-your-devices = Pon { -brand-name-firefox } en tolos preseos

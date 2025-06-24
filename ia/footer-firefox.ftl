@@ -78,3 +78,6 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Potentiate per { -brand-name-mozilla }
 footer-putting-people = Anteponente personas a profito desde 1998
+
+## Feedback
+

@@ -15,11 +15,11 @@ firefox-desktop-download-og-title = Descarga-ne lo { -brand-name-firefox } mas r
 firefox-desktop-download-og-desc = Carga de pachinas mas rapida, menos uso de memoria y pleno de funcionalidatz, lo nuevo { -brand-name-firefox } ye aquí.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Obtiene lo navegador que proteche lo que ye important
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = No i hai politicas de privacidat sospitosas u puertas traseras pa los anunciants. Nomás un navegador a-saber-lo de rapido que no te vende.
 firefox-desktop-download-download-options = Opcions de descarga y atros idiomas
 firefox-desktop-download-browser-support = Aduya de { -brand-name-firefox-browser }
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Fe lo que fafass en linia.<br> { -brand-name-firefox-browser } <strong>no te ye</strong> mirando.
 firefox-desktop-download-we-block-the-ad = Blocamos los elementos de seguimiento publicitarios. Per ixo, puetz explorar mas aprisa internet.
 firefox-desktop-download-ads-are-distracting = La publicidat distraye y fa que las pachinas web se carguen mas pandas, mientres que los elementos de seguimiento observan cada movimiento que fas en linia. { -brand-name-firefox-browser } bloca la mayoría d'os elementos de seguimieto automaticament, per lo que no ye necesario rechirar en os achustes de seguranza.

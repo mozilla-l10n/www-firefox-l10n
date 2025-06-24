@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Daha yeni bir { -brand-name-firefox } sürümü mevcut. <a { $update_url }>Son sürüme güncelleme yapın</a>
 firefox-desktop-download-get-the-browser = Önemli olanı koruyan tarayıcıyı indirin
 firefox-desktop-download-fast-reliable-private = Hızlı, güvenilir ve gizli: İnternette içiniz rahat olsun.
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Anlaşılmaz gizlilik ilkelerimiz yok. Reklamcılara açık kapı bırakmak yok. Sizi satmayan, ışık hızında bir tarayıcı.
 firefox-desktop-download-download-options = İndirme seçenekleri ve diğer diller
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } desteği
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = İnternette ne yaparsanız yapın.<br> { -brand-name-firefox-browser } sizi <strong>koruyor</strong>.
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = İnternette ne yaparsanız yapın.<br> { -brand-name-firefox-browser } sizi <strong>izlemiyor</strong>.
 firefox-desktop-download-we-block-the-ad = Biz reklam takip kodlarını engelliyoruz, siz daha hızlı geziniyorsunuz
 firefox-desktop-download-ads-are-distracting = Reklamlar hem dikkatinizi dağıtıyor hem de web sayfalarını yavaşlatıyor, üstelik internette yaptığınız her hareketi izliyorlar. { -brand-name-firefox-browser } çoğu reklam takip kodunu otomatik olarak engelliyor. Güvenlik ayarlarına girmenize bile gerek yok.

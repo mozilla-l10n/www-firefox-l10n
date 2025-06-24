@@ -78,3 +78,6 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Поддерживается { -brand-name-mozilla }
 footer-putting-people = Ставим людей выше прибыли с 1998 года
+
+## Feedback
+

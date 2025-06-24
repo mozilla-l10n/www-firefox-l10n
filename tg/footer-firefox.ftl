@@ -78,3 +78,6 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Бо дастгирии «{ -brand-name-mozilla }» фаъолият мекунад
 footer-putting-people = Аз соли 1998 инсонҳо аз фоида авлотар дониста мешаванд
+
+## Feedback
+

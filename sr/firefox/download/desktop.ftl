@@ -20,11 +20,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Доступан је још новији { -brand-name-firefox }. <a { $update_url }>Ажурирајте на најновију верзију</a>
 firefox-desktop-download-get-the-browser = Преузмите прегледач који штити оно што је вредно
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Без нејасних правила о приватности или оглашивача из залеђа. Само брз прегледач који не тргује вашим подацима.
 firefox-desktop-download-download-options = Опције преузимања и језика
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } подршка
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Шта год да радите на мрежи, <br> { -brand-name-firefox-browser } <strong>не</strong> гледа.
 firefox-desktop-download-we-block-the-ad = Ми блокирамо огласе који вас прате. Ви брже прегледате интернет.
 firefox-desktop-download-ads-are-distracting = Огласи ометају и успоравају учитавање веб страница, док њихови пратиоци бележе сваки покрет који направите на интернету. { -brand-name-firefox-browser } блокира већину пратилаца аутоматски, тако да не морате да проучавате безбедносна подешавања.

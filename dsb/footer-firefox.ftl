@@ -78,3 +78,6 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Wót { -brand-name-mozilla }  pógonjony
 footer-putting-people = Stajamy luźe pśed profitom wót 1998
+
+## Feedback
+

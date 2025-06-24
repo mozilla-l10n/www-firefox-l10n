@@ -78,3 +78,6 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Mogelijk gemaakt door { -brand-name-mozilla }
 footer-putting-people = Stelt sinds 1998 mensen voor winst
+
+## Feedback
+

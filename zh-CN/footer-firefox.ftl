@@ -78,3 +78,6 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = 由 { -brand-name-mozilla } 鼎力支持
 footer-putting-people = 1998 年至今，始终坚持以人为本
+
+## Feedback
+

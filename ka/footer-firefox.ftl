@@ -78,3 +78,6 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = უზრუნველყოფს { -brand-name-mozilla }
 footer-putting-people = ხალხის მოგებაზე წინ დაყენება 1998 წლიდან
+
+## Feedback
+

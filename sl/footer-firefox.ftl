@@ -78,3 +78,6 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Omogoča { -brand-name-mozilla }
 footer-putting-people = Ljudi postavljamo pred dobiček že od leta 1998
+
+## Feedback
+

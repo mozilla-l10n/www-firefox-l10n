@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Доступна еще более новая версия { -brand-name-firefox }. <a { $update_url }>Обновить до последней версии</a>
 firefox-desktop-download-get-the-browser = Получите браузер, который защищает всё важное
 firefox-desktop-download-fast-reliable-private = Быстрый, надежный и приватный — для вашего спокойствия в Интернете.
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Никаких скрытых политик приватности или лазеек для рекламодателей. Просто молниеносный браузер, который никогда вас не предаст.
 firefox-desktop-download-download-options = Параметры загрузки и другие языки
 firefox-desktop-download-browser-support = Поддержка { -brand-name-firefox-browser(case: "genitive") }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Делайте что угодно в Интернете.<br> { -brand-name-firefox-browser(case: "nominative_uppercase") } обеспечит вас <strong>защитой</strong>.
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Делайте что угодно в Интернете.<br> { -brand-name-firefox-browser(case: "nominative_uppercase") } <strong>не</strong> следит за вами.
 firefox-desktop-download-we-block-the-ad = Мы блокируем рекламные трекеры. Вы быстрее работаете в Интернете.
 firefox-desktop-download-ads-are-distracting = Объявления отвлекают и замедляют загрузку веб-страниц, в то время как их трекеры отслеживают каждое ваше движение в Интернете. { -brand-name-firefox-browser(case: "nominative_uppercase") } автоматически блокирует большинство трекеров, поэтому нет необходимости копаться в настройках безопасности.

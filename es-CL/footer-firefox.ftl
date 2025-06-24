@@ -78,3 +78,6 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Potenciado por { -brand-name-mozilla }
 footer-putting-people = Priorizando a las personas antes que las ganancias desde 1998
+
+## Feedback
+

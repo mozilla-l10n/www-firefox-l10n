@@ -16,11 +16,11 @@ firefox-desktop-download-og-title = මෙතෙක් වේගවත්ම { -
 firefox-desktop-download-og-desc = වේගයෙන් පිටු පූරණය වන, අඩු මතක භාවිතයක් සහිත විශේෂාංග වලින් පිරී තිබෙන, නව { -brand-name-firefox } මෙහි තිබේ.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = වැදගත් දෑ ආරක්‍ෂා කරන අතිරික්සුව ගන්න
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = දැන්වීම්කරුවන් සඳහා වංක රහස්‍යතා ප්‍රතිපත්ති හෝ පසු දොරටු රහිතයි. ඔබව විකුණන්නේ නැති අධිවේගී අතිරික්සුවක් පමණි.
 firefox-desktop-download-download-options = බාගැනීමේ විකල්ප සහ වෙනත් භාෂා
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } සහාය
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = ඔබ මාර්ගගතව කරන දෑ කරන්න.<br> { -brand-name-firefox-browser } එය <strong>නරඹන්නේ නැත</strong>.
 firefox-desktop-download-we-block-the-ad = අපි ලුහුබඳින දැන්වීම් අවහිර කරන්නෙමු. ඔබ වේගයෙන් අන්තර්ජාලයේ සැරිසරන්න.
 firefox-desktop-download-ads-are-distracting = දැන්වීම් මගින් අවධානය වෙනතකට යොමු කරන අතර ඒවායේ ලුහුබැඳීම් ඔබ මාර්ගගතව තබන සෑම පියවරක්ම නරඹන බැවින් පිටු පූරණය මන්දගාමී වේ. { -brand-name-firefox-browser } ස්වයංක්‍රීයව බොහෝ ලුහුබැඳීම් අවහිර කරයි, එබැවින් ඔබගේ ආරක්‍ෂණ සැකසුම් හාරා බැලීමට අවශ්‍ය නොවේ.

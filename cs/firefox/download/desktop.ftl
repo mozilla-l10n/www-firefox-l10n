@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = K dispozici je novější verze { -brand-name-firefox(case: "gen") }. <a { $update_url }>Aktualizovat na nejnovější verzi</a>
 firefox-desktop-download-get-the-browser = Získejte prohlížeč, který chrání, co je důležité
 firefox-desktop-download-fast-reliable-private = Rychlé, spolehlivé a soukromé - pro klid na internetu.
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Žádné pochybné zásady ochrany osobních údajů ani zadní vrátka pro reklamní systémy. Jen bleskurychlý prohlížeč, který vás nezradí pro peníze.
 firefox-desktop-download-download-options = Další verze a jazyky
 firefox-desktop-download-browser-support = Stránky podpory { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Dělejte na internetu, co děláte.<br> { -brand-name-firefox-browser } vám <strong>kryje</strong> záda.
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Dělejte na internetu, cokoliv chcete.<br> { -brand-name-firefox-browser } <strong>se nedívá</strong>.
 firefox-desktop-download-we-block-the-ad = My blokujeme sledující reklamy. Vy prohlížíte internet rychleji.
 firefox-desktop-download-ads-are-distracting = Reklamy odvádějí vaši pozornost a zpomalují načítání webových stránek. Zároveň jejich sledovací prvky zaznamenávají každý pohyb, který na internetu uděláte. { -brand-name-firefox-browser } blokuje většinu sledovacích prvků zcela automaticky, takže není třeba sahat do nastavení zabezpečení.

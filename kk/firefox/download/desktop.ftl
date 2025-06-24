@@ -6,7 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/
 
 firefox-desktop-download-get-the-browser = Маңызды нәрсенің барлығын қорғайтын браузерді алыңыз
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Жарнама берушілер үшін ешқандай көлеңкелі құпиялылық саясаты немесе артқы есіктері жоқ. Жай ғана жылдам браузер, ол сізді сатпайды.
 firefox-desktop-download-download-options = Жүктеп алу опциялары және басқа тілдер
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } қолдауы

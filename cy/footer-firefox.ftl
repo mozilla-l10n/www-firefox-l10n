@@ -78,3 +78,6 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Wedi'i bweru gan { -brand-name-mozilla }
 footer-putting-people = Rhoi pobl cyn elw ers 1998
+
+## Feedback
+

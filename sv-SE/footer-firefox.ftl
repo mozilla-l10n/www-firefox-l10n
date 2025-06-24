@@ -78,3 +78,6 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Drivs av { -brand-name-mozilla }
 footer-putting-people = Vi sätter människor före vinst sedan 1998
+
+## Feedback
+

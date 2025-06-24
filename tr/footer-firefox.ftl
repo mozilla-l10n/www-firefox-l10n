@@ -78,3 +78,6 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = { -brand-name-mozilla } desteğiyle
 footer-putting-people = 1998’den beri para için değil, insanlık için çalışıyoruz
+
+## Feedback
+

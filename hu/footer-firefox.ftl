@@ -78,3 +78,6 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = A motorháztető alatt: { -brand-name-mozilla }
 footer-putting-people = Az emberek a profit elé helyezése, 1998 óta
+
+## Feedback
+

@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = ਹੋਰ ਵੀ ਨਵਾਂ { -brand-name-firefox } ਮੌਜੂਦ ਹੈ। <a { $update_url }>ਨਵੇਂ ਵਰਜ਼ਨ ਲਈ ਅੱਪਡੇਟ ਕਰੋ।</a>
 firefox-desktop-download-get-the-browser = ਉਹ ਬਰਾਊਜ਼ਰ ਲਵੋ, ਜੋ ਕਿ ਜ਼ਰੂਰੀ ਚੀਜ਼ਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਦਾ ਹੈ
 firefox-desktop-download-fast-reliable-private = ਤੇਜ਼, ਭਰੋਸੇਯੋਗ ਅਤੇ ਪ੍ਰਾਈਵੇਟ — ਆਨਲਾਈਨ ਮਨ ਦੇ ਸਕੂਨ ਲਈ।
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = ਕੋਈ ਵੀ ਸ਼ੱਕੀ ਪਰਦੇਦਾਰੀ ਨੀਤੀਆਂ ਨਹੀਂ ਨਾ ਹੀ ਇਸ਼ਤਿਹਾਰ ਦੇਣ ਵਾਲਿਆਂ ਲਈ ਚੋਰ ਮੋਰੀਆਂ ਹਨ। ਸਿਰਫ਼ ਬਹੁਤ ਤੇਜ਼ ਬਰਾਊਜ਼ਰ ਹੈ, ਜੋ ਤੁਹਾਨੂੰ ਵੇਚਦਾ ਨਹੀਂ ਹੈ।
 firefox-desktop-download-download-options = ਡਾਊਨਲੋਡ ਚੋਣਾਂ ਤੇ ਹੋਰ ਭਾਸ਼ਾਵਾਂ
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } ਸਹਿਯੋਗ
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = ਜੋ ਤੁਸੀਂ ਆਨਲਾਈਨ ਕਰਦੇ ਹੋ, ਉਹੀ ਕਰੋ।<br> { -brand-name-firefox-browser } ਤੁਹਾਡੇ ਲਈ<strong>ਢਾਲ</strong> ਹੈ।
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = ਜੋ ਤੁਸੀਂ ਆਨਲਾਈਨ ਕਰਦੇ ਹੋ, ਉਹੀ ਕਰੋ।<br> { -brand-name-firefox-browser } ਵੇਖ <strong>ਨਹੀਂ ਰਿਹਾ</strong> ਹੈ।
 firefox-desktop-download-we-block-the-ad = ਅਸੀਂ ਇਸ਼ਤਿਹਾਰੀ ਟਰੈਕਰਾਂ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦੇ ਹਾਂ। ਤੁਸੀਂ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਇੰਟਰਨੈੱਟ ਵਰਤਦੇ ਹੋ।
 firefox-desktop-download-ads-are-distracting = ਇਸ਼ਤਿਹਾਰ ਧਿਆਨ ਭਟਕਾਉਂਦੇ ਅਤੇ ਵੈੱਬ ਸਫ਼ਿਆਂ ਨੂੰ ਲੋਡ ਕਰਨਾ ਹੌਲੀ ਕਰ ਦਿੰਦੇ ਹਨ, ਜਦੋਂ ਕਿ ਟਰੈਕਰ ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਦੀ ਸੂਹ ਲੈਂਦੇ ਹਨ। { -brand-name-firefox-browser } ਆਪਣੇ-ਆਪ ਹੀ ਬਹੁਤੇ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਹੈ, ਤਾਂ ਕਿ ਤੁਹਾਨੂੰ ਆਪਣੀ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ ਦੀ ਜਾਂਚ ਨਾ ਕਰਨੀ ਪਵੇ।

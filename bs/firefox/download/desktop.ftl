@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Dostupan je još noviji { -brand-name-firefox }. <a { $update_url }>Ažurirajte na najnoviju verziju</a>
 firefox-desktop-download-get-the-browser = Nabavite pretraživač koji štiti ono što je važno
 firefox-desktop-download-fast-reliable-private = Brzo, pouzdano i privatno — za bezbrižnost na mreži.
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Bez nejasnih pravila o privatnosti ili oglašivača iz zaleđa. Samo brz pretraživač koji ne trguje vašim podacima.
 firefox-desktop-download-download-options = Opcije preuzimanja i drugi jezici
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } podrška
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Radite ono što radite na mreži.<br> { -brand-name-firefox-browser } vas <strong>pokriva</strong>.
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Radite ono što želite online.<br> { -brand-name-firefox-browser } <strong>ne</strong> gleda.
 firefox-desktop-download-we-block-the-ad = Blokiramo oglase za praćenje. Brže istražujete internet.
 firefox-desktop-download-ads-are-distracting = Oglasi odvlače pažnju i usporavaju učitavanje web stranica, dok njihovi pratioci prate svaki vaš pokret na mreži. { -brand-name-firefox-browser } automatski blokira većinu pratilaca, tako da nema potrebe da kopate po vašim sigurnosnim postavkama.

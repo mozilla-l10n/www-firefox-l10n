@@ -17,11 +17,11 @@ firefox-desktop-download-og-title = Сцягніце найхутчэйшы ў �
 firefox-desktop-download-og-desc = Хутчэйшая загрузка старонак, меншае спажыванне памяці, і мноства функцый, новы { -brand-name-firefox } ужо тут.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Атрымайце браўзер, які ахоўвае тое, што важна
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Ніякіх прыхаваных палітык прыватнасці ці чорных хадоў для рэкламадаўцаў. Проста бліскавічна хуткі браўзер, які не прадае вас.
 firefox-desktop-download-download-options = Варыянты сцягвання і іншыя мовы
 firefox-desktop-download-browser-support = Падтрымка { -brand-name-firefox-browser }
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Рабіце ў сеціве, што робіце.<br> { -brand-name-firefox-browser } <strong>не</strong> глядзіць.
 firefox-desktop-download-we-block-the-ad = Мы блакуем рэкламныя трэкеры. Вы хутчэй аглядаеце Інтэрнэт.
 firefox-desktop-download-ads-are-distracting = Рэклама адцягвае ўвагу і прымушае вэб-старонкі загружацца павольней, а іх трэкеры сочаць за кожным вашым крокам у Інтэрнэце. { -brand-name-firefox-browser } аўтаматычна блакуе большасць трэкераў, таму няма патрэбы рыцца у наладах бяспекі.

@@ -78,3 +78,6 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Službu poskytuje { -brand-name-mozilla }
 footer-putting-people = Od roku 1998 dáváme přednost lidem před ziskem
+
+## Feedback
+

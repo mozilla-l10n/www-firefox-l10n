@@ -78,3 +78,6 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Được hỗ trợ bởi { -brand-name-mozilla }
 footer-putting-people = Đặt mọi người trên lợi nhuận kể từ năm 1998
+
+## Feedback
+

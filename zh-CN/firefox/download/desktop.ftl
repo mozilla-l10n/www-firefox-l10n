@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = 已有更新的 { -brand-name-firefox } 可用。 <a { $update_url }>更新到最新版本</a>
 firefox-desktop-download-get-the-browser = 选择会保护重要数据的浏览器
 firefox-desktop-download-fast-reliable-private = 快速、可靠、私密——让您高枕无忧。
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = 没有晦涩难懂的隐私保护政策，更不向广告商预留后门，纯粹是一款闪电般快、不会出卖您的浏览器。
 firefox-desktop-download-download-options = 下载其他平台与语言版本
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser }用户支持
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = 上网无拘束<br>{ -brand-name-firefox-browser }为您<strong>护航</strong>
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = 上网无拘束。<br>{ -brand-name-firefox-browser }<strong>不会</strong>偷看。
 firefox-desktop-download-we-block-the-ad = 有我们拦截广告跟踪器，上网冲浪更畅快。
 firefox-desktop-download-ads-are-distracting = 广告使人分心，其中的跟踪器会监视您在网上的一举一动，并拖慢网页加载速度。{ -brand-name-firefox-browser }会自动拦截网上大部分的跟踪器，您大可不必深入研究哪些安全设置需要调整。

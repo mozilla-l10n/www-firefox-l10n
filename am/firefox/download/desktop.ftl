@@ -17,11 +17,11 @@ firefox-desktop-download-og-title = ከመቼውም ጊዜ ፈጣኑን { -brand
 firefox-desktop-download-og-desc = ፈጣን ገጽ መጫን፣ አነስተኛ የማህደረ ትውስታ አጠቃቀም እና በባህሪያት የታጨቀ፣ አዲሱ { -brand-name-firefox } እዚህ አለ።
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = አስፈላጊ የሆነውን የሚጠብቅ አሳሽ ያግኙ
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = ለአስተዋዋቂዎች ፍንጭ የሚሰጥ የግላዊነት መተዳደሪያ ወይም የኋላ በሮች የሉትም። እርስዎን የማይሸጥ መብረቅ የሆነ ፈጣን አሳሽ ብቻ።
 firefox-desktop-download-download-options = አማራጮችን እና ሌሎች ቋንቋዎችን አውርድ
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } ድጋፍ
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = በመስመር ላይ የሚያደርጉትን ያድርጉ።<br> { -brand-name-firefox-browser } <strong>አያይም</strong>።
 firefox-desktop-download-we-block-the-ad = እኛ የማስታወቂያ መከታተያዎችን እናግዳለን። እርስዎ በይነመረቡን በፍጥነት ያስሱ።
 firefox-desktop-download-ads-are-distracting = ማስታወቂያዎች ትኩረት የሚከፋፍሉ እና ድረ-ገጾች በዝግታ እንዲጫኑ ሲያደርጉ ተከታታዮቻቸው ደሞ በመስመር ላይ የሚያደርጉትን እያንዳንዱን እንቅስቃሴ ይመለከታሉ። { -brand-name-firefox-browser } ብዙ መከታተያዎችን በራስ ሰር ያግዳል፣ ስለዚህ የደህንነት ቅንብሮችዎ ውስጥ መቆፈር አያስፈልግም።

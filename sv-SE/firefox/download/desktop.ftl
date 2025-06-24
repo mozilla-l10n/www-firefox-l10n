@@ -21,13 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = En ännu nyare { -brand-name-firefox } är tillgänglig. <a { $update_url }>Uppdatera till den senaste versionen</a>
 firefox-desktop-download-get-the-browser = Skaffa webbläsaren som skyddar det som är viktigt
 firefox-desktop-download-fast-reliable-private = Snabb, pålitlig och privat — för sinnesfrid online.
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Inga konstiga sekretesspolicyer eller bakdörrar för annonsörer. Bara en blixtsnabb webbläsare som inte säljer din data.
 firefox-desktop-download-download-options = Nedladdningsalternativ och andra språk
 firefox-desktop-download-browser-support = Support { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Gör vad du vill online.<br> { -brand-name-firefox-browser } <strong>skyddar</strong> dig.
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Gör vad du vill på internet.<br> { -brand-name-firefox-browser } <strong>tittar inte</strong> på.
 firefox-desktop-download-we-block-the-ad = Vi blockerar annonsspårarna. Du utforskar internet snabbare.
 firefox-desktop-download-ads-are-distracting = Annonser är distraherande och gör att webbsidor laddar långsammare medan deras spårare tittar på varje drag du gör online. { -brand-name-firefox-browser } blockerar de flesta spårare automatiskt, så det finns inget behov av att kontrollera dina säkerhetsinställningar.

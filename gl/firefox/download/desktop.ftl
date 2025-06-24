@@ -15,11 +15,11 @@ firefox-desktop-download-og-title = Descargar o { -brand-name-firefox } máis r�
 firefox-desktop-download-og-desc = O novo { -brand-name-firefox } xa está aquí: carga as páxinas máis rápido, consome menos memoria e ten unha morea de características.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Obtén o navegador que protexe o que é importante
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Non hai políticas de privacidade sospeitosas nin portas traseiras para os anunciantes. Só un navegador que vai a fume de carozo e que non vende os teus datos.
 firefox-desktop-download-download-options = Opcións de descarga e outros idiomas
 firefox-desktop-download-browser-support = Asistencia do { -brand-name-firefox-browser }
-# Obsolete string
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Fai o que queiras na rede.<br> O { -brand-name-firefox-browser } <strong>non</strong> te vixía.
 firefox-desktop-download-we-block-the-ad = Nós bloqueamos a publicidade que te rastrexa e ti navegas máis rápido.
 firefox-desktop-download-ads-are-distracting = A publicidade molesta e impide que as páxinas carguen rápido. Ademais, os rastrexadores vixían cada movemento que fas na Internet. O { -brand-name-firefox-browser } bloquea automaticamente a maioría de rastrexadores, sen ter que indagar na configuración de seguridade.
