@@ -76,5 +76,5 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
-footer-powdered-by = <strong>مدعوم من شركة { -brand-name-mozilla }.</strong>
+footer-powdered-by = مدعوم من شركة { -brand-name-mozilla }
 footer-putting-people = الناس عندنا أهم من الأرباح منذ أنْ طوّرنا المُتصفح سنة 1998.
