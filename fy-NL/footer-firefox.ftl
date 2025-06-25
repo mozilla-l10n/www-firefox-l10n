@@ -81,3 +81,6 @@ footer-putting-people = Stelt sûnt 1998 minsken boppe winst
 
 ## Feedback
 
+footer-feedback-found-a-bug = Hawwe jo in bug yn ús nije webside fûn?
+# links to a Google Form that is English only
+footer-feedback-let-us-know = Lit it ús witte.
