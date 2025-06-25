@@ -29,5 +29,5 @@ incognito-browser-what = Gizli tarayıcı: Gerçekte ne anlama geliyor?
 firefox-calls-it = { -brand-name-firefox }’ta gizli gezinti, { -brand-name-chrome }’da gizli mod. Her ikisi de gezinti geçmişinizi kaydetmeden web'de dolaşmanızı sağlıyor.
 firefox-more-fingerprinter-blocking = Parmak izi toplayıcı engelleme
 firefox-more-fingerprinting-is-a = Parmak izi toplama, sıradan çerez tabanlı izlemeden daha istilacı bir çevrimiçi izleme türü. Neyse ki { -brand-name-firefox-browser } bunları engelliyor.
-firefox-more-translate-the-web = Web’i çevirin
+firefox-more-translate-the-web = Web’i dilinize çevirin
 firefox-more-translate-more-than = 100‘den fazla dili doğrudan { -brand-name-firefox-browser }ndan kendi dilinize çevirin.

@@ -7,7 +7,7 @@
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = { -brand-name-firefox } ile web sayfalarını çevirin
-features-translate-translate-the-web = Web’i çevirin
+features-translate-translate-the-web = Web’i dilinize çevirin
 # HTML page description
 features-translate-firefox-translations-is-a-built-in-v2 = { -brand-name-firefox-translations }, web’de kolayca istediğiniz dilde gezinmenizi sağlayan yerleşik bir çeviri özelliği. { -brand-name-firefox }’taki bu özelliğin nasıl çalıştığını ve { -brand-name-mozilla }’nın çevirdiğiniz içerikleri nasıl gizli tuttuğunu öğrenin.
 features-translate-one-of-the-best-things-about = İnternetin en iyi yanlarından biri, içeriklere dünyanın her yerine erişebilmemiz. Aradığınız haberleri, blog yazılarını, son teknoloji cihazınızın incelemelerini web’de bulabilirsiniz. { -brand-name-firefox }’un en yeni çeviri özelliğine sahip bu araç, web sayfalarını gerçek zamanlı olarak dilinize çeviriyor.

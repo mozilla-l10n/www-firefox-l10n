@@ -35,7 +35,7 @@ footer-enterprise = { -brand-name-enterprise }
 
 # Section title
 footer-community = Topluluk
-footer-contribute = Katkıda Bulunun
+footer-contribute = Katkıda bulunun
 footer-developer = Geliştirici
 footer-connect = Connect
 
@@ -76,7 +76,7 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
-footer-powdered-by = { -brand-name-mozilla } desteğiyle
+footer-powdered-by = { -brand-name-mozilla } güvencesiyle
 footer-putting-people = 1998’den beri para için değil, insanlık için çalışıyoruz
 
 ## Feedback
