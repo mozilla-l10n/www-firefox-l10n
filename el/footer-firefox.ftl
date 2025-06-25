@@ -81,3 +81,6 @@ footer-putting-people = Προτεραιότητά μας οι άνθρωποι,
 
 ## Feedback
 
+footer-feedback-found-a-bug = Βρήκατε κάποιο σφάλμα στον νέο μας ιστότοπο;
+# links to a Google Form that is English only
+footer-feedback-let-us-know = Ενημερώστε μας.
