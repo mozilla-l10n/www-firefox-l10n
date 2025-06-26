@@ -81,3 +81,5 @@ footer-putting-people = Ljudi postavljamo pred dobiček že od leta 1998
 
 ## Feedback
 
+# links to a Google Form that is English only
+footer-feedback-let-us-know = Obvestite nas.
