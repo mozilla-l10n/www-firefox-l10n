@@ -20,6 +20,7 @@ navigation-mobile = Mobil
 navigation-release-notes = Versjonsnotat
 navigation-support = Brukarstøtte
 navigation-add-ons = Tillegg
+navigation-learn = Les meir
 navigation-blog = Blogg
 navigation-compare = Samanlikn
 navigation-podcast = Podkast

@@ -71,6 +71,7 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+footer-powdered-by = Driven av { -brand-name-mozilla }
 
 ## Feedback
 
