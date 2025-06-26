@@ -13,7 +13,7 @@ navigation-features = Funktionen
 
 ## Resources
 
-navigation-resources = Quellen
+navigation-resources = Ressourcen
 navigation-close-resources-menu = Ressourcenmenü schließen
 navigation-product = Produkt
 navigation-desktop = Desktop

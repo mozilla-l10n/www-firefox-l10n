@@ -41,7 +41,7 @@ footer-developer = Entwickler
 ## Links to resources
 
 # Section title
-footer-resources = Quellen
+footer-resources = Ressourcen
 footer-compare = Vergleichen
 footer-release-notes = Versionshinweise
 # Link to learn more, discover info about Firefox. Link points to

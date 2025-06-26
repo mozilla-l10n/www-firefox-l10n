@@ -65,7 +65,7 @@ firefox-desktop-download-stream-share-play = Streamen, teilen und spielen
 firefox-desktop-download-block-autoplay-of = Blocke automatische Wiedergabe von Video und Audio
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Bild-im-Bild (PiP)
-firefox-desktop-download-curated-content-on = Kuratierte Artikel in neuen TabsKuratierter Inhalt auf neuen Tabs
+firefox-desktop-download-curated-content-on = Kuratierte Artikel in neuen Tabs
 firefox-desktop-download-share-links = Links teilen
 firefox-desktop-download-protect-your-privacy = Schütze deine Privatsphäre
 firefox-desktop-download-third-party-cookie = Blockt Cookies von Drittanbietern
@@ -138,7 +138,7 @@ firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } ist a
 
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
-firefox-desktop-download-grab-a-high = Direkt im Browser findest du ein integriertes <a { $attrs }>Bildschirmfoto</a> -Werkzeug. Damit lassen sich blitzschnell hochauflösende Screenshots erstellen
+firefox-desktop-download-grab-a-high = Direkt im Browser findest du ein integriertes <a { $attrs }>Bildschirmfoto</a> - Werkzeug. Damit lassen sich blitzschnell hochauflösende Screenshots erstellen
 
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
