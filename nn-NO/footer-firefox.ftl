@@ -34,6 +34,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Fellesskap
 footer-contribute = Bidra
 footer-developer = Utviklarar
+footer-connect = Kople til
 
 ## Links to resources
 
@@ -41,6 +42,9 @@ footer-developer = Utviklarar
 footer-resources = Resursar
 footer-compare = Samanlikn
 footer-release-notes = Versjonsnotat
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Les meir
 footer-support = Brukarstøtte
 footer-addons = Tillegg
 footer-blog = Blogg
@@ -62,6 +66,7 @@ footer-community-participation-guidelines = Retningslinjer for fellesskapsdeltak
 ## Language Switcher
 
 footer-language = Språk
+footer-go = Gå
 footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding

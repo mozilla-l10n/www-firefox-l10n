@@ -13,6 +13,7 @@ firefox-browsers-get-the-browsers-strong-v2 = Få nettlesarane som set personver
 firefox-browsers-desktop = Datamaskin
 firefox-browsers-seriously-private-browsing = Seriøs privat surfing. { -brand-name-firefox } blokkerer automatisk over 2000 sporarar frå å samle informasjon om det du gjer på nettet.
 firefox-browsers-download-for-desktop = Last ned for datamaskin
+firefox-browsers-windows = { -brand-name-firefox } for { -brand-name-windows }
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Få eineståande datavern med support-periodar tilpassa etter behovet til verksemda.
 firefox-browsers-enterprise-packages = { -brand-name-enterprise }-pakkar
