@@ -16,7 +16,7 @@ footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
-footer-custom-download = Niestandardowe opcje pobierania
+footer-custom-download = Inne opcje pobierania
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
