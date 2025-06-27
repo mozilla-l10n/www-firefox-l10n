@@ -81,3 +81,6 @@ footer-putting-people = Omotenonde yvypóra viru renondépe 1998 guive
 
 ## Feedback
 
+footer-feedback-found-a-bug = ¿Ejuhu jajavy ore ñanduti rogue pyahúpe?
+# links to a Google Form that is English only
+footer-feedback-let-us-know = Oremomarandúkena.
