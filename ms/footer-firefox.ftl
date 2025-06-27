@@ -78,3 +78,6 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Dikuasakan oleh { -brand-name-mozilla }
 footer-putting-people = Mementingkan pengguna sebelum keuntungan sejak 1998.
+
+## Feedback
+

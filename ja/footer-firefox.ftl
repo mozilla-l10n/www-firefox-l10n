@@ -78,3 +78,6 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = { -brand-name-mozilla } が開発
 footer-putting-people = 1998 年より、利益よりもユーザーを守ってきました
+
+## Feedback
+

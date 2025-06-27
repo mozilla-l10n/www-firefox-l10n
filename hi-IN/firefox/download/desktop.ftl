@@ -24,7 +24,8 @@ firefox-desktop-download-get-the-browser = ज़रूरी चीज़ों
 
 firefox-desktop-download-fast-reliable-private = तेज़, भरोसेमंद और गोपनीय — ऑनलाइन मानसिक सुकून के साथ।
 
-# Obsolete string
+
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = कोई भी संदेहजनक निजता नीति नहीं है या विज्ञापनदाताओं के लिए कोई चोर-दरवाजा नहीं है। यह बस एक तेज़ ब्राउज़र है, जो आपका डेटा किसी को बेचता नहीं है।
 
 firefox-desktop-download-download-options = डाउनलोड के विकल्प और अन्य भाषाएँ
@@ -33,7 +34,7 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } स�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = ऑनलाइन रहकर अपने सभी काम करें।<br> { -brand-name-firefox-browser } आपकी <strong>सहायता के लिए मौजूद है</strong>।
 
-# Obsolete string
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-do-what-you-do = ऑनलाइन रहकर अपने सभी काम करें।<br> { -brand-name-firefox-browser } <strong>नहीं</strong> देख रहा है।
 
 firefox-desktop-download-we-block-the-ad = हम विज्ञापन ट्रैकर ब्लॉक करते हैं। आप और तेज़ी से इंटरनेट चला सकते हैं।

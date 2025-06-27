@@ -78,3 +78,6 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Conçu par { -brand-name-mozilla }
 footer-putting-people = Pensé pour vous depuis 1998
+
+## Feedback
+

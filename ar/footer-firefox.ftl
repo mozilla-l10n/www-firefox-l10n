@@ -78,3 +78,6 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = مدعوم من شركة { -brand-name-mozilla }
 footer-putting-people = الناس عندنا أهم من الأرباح منذ أنْ طوّرنا المُتصفح سنة 1998.
+
+## Feedback
+
