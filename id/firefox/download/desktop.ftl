@@ -24,7 +24,8 @@ firefox-desktop-download-get-the-browser = Dapatkan peramban yang melindungi apa
 
 firefox-desktop-download-fast-reliable-private = Cepat, andal, dan pribadi — agar pikiran lebih tenang saat daring.
 
-# Obsolete string
+
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = Tanpa adanya kebijakan privasi yang menjebak ataupun pintu belakang bagi pengiklan. Hanya peramban secepat kilat yang tidak menjual Anda.
 
 firefox-desktop-download-download-options = Opsi unduhan dan bahasa lain
@@ -33,7 +34,7 @@ firefox-desktop-download-browser-support = Dukungan { -brand-name-firefox-browse
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Lakukan apa yang Anda lakukan saat daring.<br> { -brand-name-firefox-browser } siap <strong>membantu</strong> Anda.
 
-# Obsolete string
+# Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-do-what-you-do = Lakukan apa yang Anda lakukan saat daring.<br> { -brand-name-firefox-browser } <strong>tidak akan</strong> memantaunya.
 
 firefox-desktop-download-we-block-the-ad = Kami memblokir pelacak iklan. Anda menjelajahi internet lebih cepat.
