@@ -81,4 +81,6 @@ footer-putting-people = Colocando as pessoas antes dos lucros desde 1998
 
 ## Feedback
 
-footer-feedback-found-a-bug = Encontrou um bug em nosso novo site?
+footer-feedback-found-a-bug = Encontrou um erro em nosso novo site?
+# links to a Google Form that is English only
+footer-feedback-let-us-know = Nos avise.
