@@ -81,3 +81,4 @@ footer-putting-people = Colocando as pessoas antes dos lucros desde 1998
 
 ## Feedback
 
+footer-feedback-found-a-bug = Encontrou um bug em nosso novo site?
