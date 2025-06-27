@@ -31,5 +31,5 @@ cookie-settings-category-analytics-what-are-subheading = Što su kolačići anal
 
 ## Privacy section
 
-cookie-settings-privacy-heading = Naše napomene o privatnosti
-cookie-settings-privacy-policy-link = Napomene o privatnosti
+cookie-settings-privacy-heading = Naša napomena o privatnosti
+cookie-settings-privacy-policy-link = Napomena o privatnosti
