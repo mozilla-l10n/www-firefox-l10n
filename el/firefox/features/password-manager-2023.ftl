@@ -8,8 +8,8 @@
 # HTML page title
 password-manager-free-password-manager =
     { PLATFORM() ->
-        [macos] Δωρεάν διαχείριση συνθηματικών
-       *[other] Δωρεάν διαχείριση κωδικών πρόσβασης
+        [macos] Διαχείριση συνθηματικών
+       *[other] Διαχείριση κωδικών πρόσβασης
     }
 # HTML page description
 password-manager-firefox-password-manager-saves-all = Η Διαχείριση κωδικών πρόσβασης του { -brand-name-firefox } αποθηκεύει όλους τους κωδικούς πρόσβασης σας σε ένα μέρος κι έτσι, μπορείτε να συνδέεστε σε ιστοτόπους αυτόματα ή να ανακτάτε αποθηκευμένους κωδικούς.

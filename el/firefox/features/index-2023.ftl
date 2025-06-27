@@ -15,8 +15,8 @@ features-index-is-firefox-a-private-browser = Είναι το { -brand-name-fire
 features-index-were-focused-on-your-right-to = Εστιάζουμε στο δικαίωμά σας στην ιδιωτικότητα. Τα δεδομένα, η διαδικτυακή δραστηριότητα και η ηλεκτρονική σας ζωή προστατεύονται με το { -brand-name-firefox }.
 features-index-free-password-manager =
     { PLATFORM() ->
-        [macos] Δωρεάν διαχείριση συνθηματικών
-       *[other] Δωρεάν διαχείριση κωδικών πρόσβασης
+        [macos] Διαχείριση συνθηματικών
+       *[other] Διαχείριση κωδικών πρόσβασης
     }
 features-index-get-help-creating-new-passwords = Λάβετε βοήθεια κατά τη δημιουργία νέων κωδικών πρόσβασης, συμπληρώστε γρήγορα φόρμες και συνδεθείτε αυτόματα.
 features-index-customize-your-firefox-browser = Προσαρμογή του { -brand-name-firefox }
