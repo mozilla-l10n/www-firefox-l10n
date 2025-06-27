@@ -81,6 +81,6 @@ footer-putting-people = Anteponiendo a las personas a las ganancias desde 1998
 
 ## Feedback
 
-footer-feedback-found-a-bug = ¿Encontró un error en nuestro nuevo sitio web?
+footer-feedback-found-a-bug = ¿Encontraste un error en nuestro nuevo sitio web?
 # links to a Google Form that is English only
-footer-feedback-let-us-know = Infórmanos.
+footer-feedback-let-us-know = Informanos.
