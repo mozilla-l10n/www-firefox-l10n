@@ -20,6 +20,7 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> for { -brand-
 download-button-firefox-privacy = { -brand-name-firefox } personvern
 download-button-firefox-privacy-notice = { -brand-name-firefox } personvernbestemmelser
 download-button-download = Last ned
+download-button-please-download-esr = Last ned { -brand-name-firefox-esr } (Extended Support Release) for å bruke { -brand-name-firefox }.
 
 ## Linux
 
