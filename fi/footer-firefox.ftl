@@ -41,6 +41,9 @@ footer-developer = Kehittäjä
 footer-resources = Resurssit
 footer-compare = Vertaa
 footer-release-notes = Julkaisutiedot
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Opi
 footer-support = Tuki
 footer-addons = Lisäosat
 footer-blog = Blogi
@@ -68,6 +71,11 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
+footer-powdered-by = Voimanlähteenä { -brand-name-mozilla }
+footer-putting-people = Ihmiset voittojen edelle vuodesta 1998 lähtien
 
 ## Feedback
 
+footer-feedback-found-a-bug = Löysitkö virheen uusilta verkkosivuiltamme?
+# links to a Google Form that is English only
+footer-feedback-let-us-know = Kerro meille.
