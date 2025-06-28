@@ -63,7 +63,7 @@ footer-tiktok = TikTok
 ## Legal links
 
 footer-websites-privacy-notice = Aviso de confidentialitate del sito web
-footer-terms-of-use = Terminos de uso
+footer-terms-of-use = Conditiones de uso
 footer-websites-cookie-policy = Directiva re cookies
 footer-community-participation-guidelines = Lineas guida de participation al communitate
 footer-logo-trademark-licensing = Licentia de uso del marca del logo
