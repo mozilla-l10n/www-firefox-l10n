@@ -81,3 +81,6 @@ footer-putting-people = Uprednostňujeme ľudí pred ziskom od roku 1998
 
 ## Feedback
 
+footer-feedback-found-a-bug = Našli ste chybu na našej novej webovej stránke?
+# links to a Google Form that is English only
+footer-feedback-let-us-know = Dajte nám vedieť.
