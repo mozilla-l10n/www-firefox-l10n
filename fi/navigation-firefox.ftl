@@ -20,6 +20,7 @@ navigation-mobile = Mobiili
 navigation-release-notes = Julkaisutiedot
 navigation-support = Tuki
 navigation-add-ons = Lisäosat
+navigation-learn = Opi
 navigation-blog = Blogi
 navigation-compare = Vertaa
 navigation-podcast = Podcast

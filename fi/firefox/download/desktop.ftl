@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Uudempi { -brand-name-firefox } on saatavilla. <a { $update_url }>Päivitä uusimpaan versioon</a>
 firefox-desktop-download-get-the-browser = Hanki tärkeitä asioita suojaava selain
 firefox-desktop-download-fast-reliable-private = Nopea, luotettava ja yksityinen – mielenrauhan takaamiseksi verkossa.
+firefox-desktop-set-as-default = Aseta { -brand-name-firefox } oletusselaimeksesi.
 # Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = Ei hämäriä tietosuojakäytäntöjä tai takaovia mainostajille. Vain salamannopea selain, jolle et ole kauppatavaraa.
 firefox-desktop-download-download-options = Latausvalinnat ja muut kielet
