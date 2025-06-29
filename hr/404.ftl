@@ -7,7 +7,7 @@
 
 not-found-page-not-found-page-page-not-found = 404: Stranica nije pronađena
 not-found-page-sorry-we-cant-find-that-page = Oprosti! Ne možemo pronaći tu stranicu
-not-found-page-were-all-about-a-healthy-internet = Uvijek smo za zdrav Internet, ali ponekad se greške događaju.
+not-found-page-were-all-about-a-healthy-internet = Uvijek smo za zdrav internet, ali ponekad postoje pokvarene URL adrese.
 not-found-page-go-back = Idi natrag
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
