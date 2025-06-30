@@ -40,6 +40,7 @@ is-firefox-safe = Je li je { -brand-name-firefox } siguran?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
+not-only-is = { -brand-name-firefox } je siguran i štiti tvoje podatke i privatne podatke. { -brand-name-firefox-browser } automatski blokira poznate programe za praćenje trećih strana, programe za praćenje društvenih mreža, kriptorudare i identifikatore uređaja od prikupljanja tvojih podataka. <a href="{ $url }">Saznaj više o privatnosti u našim proizvodima.</a>
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
