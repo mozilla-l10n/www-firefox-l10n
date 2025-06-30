@@ -81,3 +81,6 @@ footer-putting-people = Priorizando a las personas antes que las ganancias desde
 
 ## Feedback
 
+footer-feedback-found-a-bug = ¿Encontraste un error en nuestro nuevo sitio web?
+# links to a Google Form that is English only
+footer-feedback-let-us-know = Háznoslo saber.
