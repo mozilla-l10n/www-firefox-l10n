@@ -114,7 +114,7 @@ firefox-desktop-download-from-security-to = Od sigurnosti preko vijesti do igara
 firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a> je izradila { -brand-name-firefox } kao bržu, privatniju alternativu preglednika kao što je { -brand-name-ie } i sada { -brand-name-chrome }. Danas naše poduzeće vođeno misijom i zajednicom volontera nastavlja stavljati tvoju privatnost iznad svega.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
-firefox-desktop-download-as-the-internet-v2 = Kako internet raste i mijenja se, { -brand-name-firefox } se i dalje usredotočuje na tvoje pravo na privatnost – to nam je oduvijek bilo najvažnije. Saznaj više o našim praksama u vezi s podacima na našoj stranici <a { $attrs }>napomena o privatnosti</a>.
+firefox-desktop-download-as-the-internet-v2 = Kako internet raste i mijenja se, { -brand-name-firefox } se i dalje usredotočuje na tvoje pravo na privatnost – to nam je oduvijek bilo najvažnije. Saznaj više o našim praksama u vezi s podacima na našoj stranici <a { $attrs }>napomene o privatnosti</a>.
 # Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/
