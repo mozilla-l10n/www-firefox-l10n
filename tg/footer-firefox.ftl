@@ -81,3 +81,6 @@ footer-putting-people = Аз соли 1998 инсонҳо аз фоида авл
 
 ## Feedback
 
+footer-feedback-found-a-bug = Дар сомонаи нави мо хатои техникиеро мушоҳида кардед?
+# links to a Google Form that is English only
+footer-feedback-let-us-know = Ба мо хабар диҳед.
