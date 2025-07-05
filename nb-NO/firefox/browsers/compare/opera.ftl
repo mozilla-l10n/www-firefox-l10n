@@ -5,3 +5,5 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/opera/
 
+# HTML page description
+compare-opera-read-our-comparison = Les sammenligningen vår av nettleseren { -brand-name-firefox } og Opera om funksjoner, personvern og brukervennlighet.

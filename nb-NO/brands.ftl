@@ -18,6 +18,8 @@
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
 -brand-name-netscape = Netscape
+-brand-name-linkedin = LinkedIn
+-brand-name-spotify = Spotify
 
 ## Firefox browsers
 
@@ -50,6 +52,7 @@
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-translations = Firefox Translations
 
 ## Firefox products (short names)
 
@@ -61,11 +64,19 @@
 
 ## Fakespot
 
+-brand-name-fakespot = Fakespot
 
 ## Mozilla projects
 
+-brand-name-gecko = Gecko
+-brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
+-brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mozilla-account = Mozilla-konto
+-brand-name-mozilla-accounts = Mozilla-kontoer
+-brand-name-mozilla-ai-v2 = Mozilla.ai
+-brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)

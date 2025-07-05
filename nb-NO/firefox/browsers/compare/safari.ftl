@@ -5,3 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/compare/safari/
 
+# Page title
+compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } mot Apple Safari
+# HTML page description
+compare-safari-read-our-comparison = Les sammenligningen vår av nettleseren { -brand-name-firefox } og Safari om funksjoner, personvern og brukervennlighet.
