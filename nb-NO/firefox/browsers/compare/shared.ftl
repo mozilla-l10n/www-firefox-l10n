@@ -5,3 +5,6 @@
 
 ### URL: https://www-dev.springfield.moz.works/compare/
 
+compare-shared-compare-firefox = Sammenlign { -brand-name-firefox }
+compare-shared-footer-cta-title = Gjør mer med { -brand-name-firefox }
+compare-shared-footer-cta-desc = Skaff deg den raske, lette og personvernfokuserte nettleseren som støttes av en ideell organisasjon og fungerer på tvers av alle enhetene dine.
