@@ -10,6 +10,10 @@ features-adblocker-the-ad-blocker-a-secret = Annonseblokkeren – et hemmelig v�
 features-adblocker-so-many-ads-so-little = Så mange annonser, så lite tålmodighet… Det er på tide å stoppe galskapen.
 features-adblocker-the-average-person-sees = Den gjennomsnittlige person ser i gjennomsnitt 4 000 annonser om dagen. Hvis du synes det er for mange, er en annonseblokker din nye beste venn.
 features-adblocker-find-the-right-ad-blocker = Finn den rette annonseblokkeren for deg
+features-adblocker-there-are-scores-of-content = Det finnes en mengde innholdsblokkeringer der ute, men her er noen fantastiske alternativer utvalgt av { -brand-name-mozilla }…
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = <a { $attrs }>uBlock Origin</a> regnes av mange som gullstandarden blant annonseblokkere, og er kjent for sin effektivitet. Den er svært tilpassbar, men fungerer også strålende rett «ut av esken».
 features-adblocker-take-a-bite-out-of-cookies = Gjør infokapsler mere spiselige
 features-adblocker-in-firefox-you-can-block = I { -brand-name-firefox } kan du blokkere alle tredjeparts infokapsler eller bare de som er satt av sporere. Merk at blokkering av alle infokapsler kan forhindre enkelte nettsteder fra å fungere.
 features-adblocker-speed-up-thanks-to-ad = Høyere hastighet takket være annonseblokkere
