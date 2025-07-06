@@ -5,6 +5,22 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/mobile/android/
 
+# HTML page title
+mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
+# HTML description
+mobile-android-firefox-browser-for = { -brand-name-firefox }-nettleser for { -brand-name-android } er rask, sikker og privat fra første gang du åpner det.
+mobile-android-firefox-browser = { -brand-name-firefox-browser }
+mobile-android-get-firefox-for = Last ned { -brand-name-firefox } for { -brand-name-android }
+mobile-android-send-a-download-link-to-your = Send en nedlastingslenke til telefonen din.
+mobile-android-scan-the-qr-code-to-get-started = Skann QR-koden for å komme i gang
+mobile-android-scan-alt-text = Skann QR-koden for å laste ned { -brand-name-firefox } til { -brand-name-android }
+mobile-android-fast-and-private = Rask og privat
+mobile-android-firefox-for-android = { -brand-name-firefox } for { -brand-name-android } gir uanstrengt personvernbeskyttelse med lynrask sideinnlasting. Utvidet sporingsbeskyttelse blokkerer automatisk nettsporere fra å følge deg rundt på nettet og gjøre sidene dine tregere.
+mobile-android-one-tap-to = Personvern med ett trykk
+mobile-android-get-to-private = Gå til privat nettlesingsmodus med bare ett trykk. Og når du lukker privat nettlesingsmodus, slettes nettleserloggen din automatisk fra enheten din.
+mobile-android-search-your-own = Søk på din egen måte
+mobile-android-got-a-big = Har du en stor telefon og tommelfingrer i normal størrelse? Ikke noe problem. Med { -brand-name-firefox } for { -brand-name-android } kan du flytte søkefeltet fra toppen til bunnen, noe som gjør det enklere å bruke med én hånd. Du kan også velge din egen søkemotor i nettleseren og angi { -brand-name-firefox } som standardnettleser hvis du vil.
+mobile-android-save-power-with = Spar strøm med mørk modus
 mobile-android-search-from-your = Søk fra startskjermen på telefonen
 mobile-android-no-need-to = Du trenger ikke å åpne appen. Legg til søkewidgeten { -brand-name-firefox } og søk på nettet direkte fra enhetens startskjerm.
 mobile-android-pin-videos-to = Fest videoer på skjermen
