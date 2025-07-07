@@ -22,6 +22,7 @@ mobile-android-search-your-own = Søk på din egen måte
 mobile-android-got-a-big = Har du en stor telefon og tommelfingrer i normal størrelse? Ikke noe problem. Med { -brand-name-firefox } for { -brand-name-android } kan du flytte søkefeltet fra toppen til bunnen, noe som gjør det enklere å bruke med én hånd. Du kan også velge din egen søkemotor i nettleseren og angi { -brand-name-firefox } som standardnettleser hvis du vil.
 mobile-android-save-power-with = Spar strøm med mørk modus
 mobile-android-switch-to-dark = Bytt til mørk modus når som helst for å redusere belastningen på øynene og forlenge batterilevetiden.
+mobile-android-easily-organize-your = Organiser enkelt dine faner
 mobile-android-search-from-your = Søk fra startskjermen på telefonen
 mobile-android-no-need-to = Du trenger ikke å åpne appen. Legg til søkewidgeten { -brand-name-firefox } og søk på nettet direkte fra enhetens startskjerm.
 mobile-android-pin-videos-to = Fest videoer på skjermen
