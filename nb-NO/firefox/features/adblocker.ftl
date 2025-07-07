@@ -14,6 +14,18 @@ features-adblocker-there-are-scores-of-content = Det finnes en mengde innholdsbl
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
 features-adblocker-considered-by-many-to-be-the = <a { $attrs }>uBlock Origin</a> regnes av mange som gullstandarden blant annonseblokkere, og er kjent for sin effektivitet. Den er svært tilpassbar, men fungerer også strålende rett «ut av esken».
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> blokkerer reklame overalt. Den blokkerer annonser på nettet, sosiale medier og til og med irriterende sprettoppvinduer (men hvis du bare vil slippe sprettoppvinduer, kan du ikke gå galt med <a { $attrs2 }>Popup Blocker</a>).
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> er et annet godt valg som ikke bare blokkerer annonser, men også gir ytterligere fordeler mot sporing.
+# Variables:
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
+#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Disse utvidelsene fungerer utmerket på både <a { $attrs1 }>{ -brand-name-firefox } for datamaskin</a> og <a { $attrs2 }>Android</a>.
+features-adblocker-create-a-tracker-free = Opprett en sporingsfri sone med innholdsblokkering
 features-adblocker-take-a-bite-out-of-cookies = Gjør infokapsler mere spiselige
 features-adblocker-in-firefox-you-can-block = I { -brand-name-firefox } kan du blokkere alle tredjeparts infokapsler eller bare de som er satt av sporere. Merk at blokkering av alle infokapsler kan forhindre enkelte nettsteder fra å fungere.
 features-adblocker-speed-up-thanks-to-ad = Høyere hastighet takket være annonseblokkere
