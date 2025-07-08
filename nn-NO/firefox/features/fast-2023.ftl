@@ -9,5 +9,5 @@ features-fast-is-firefox-the-fastest-browser = Er { -brand-name-firefox } den ra
 # HTML description
 features-fast-firefox-uses-less-memory-than = { -brand-name-firefox } brukar mindre minne enn Chrome, slik at dei andra programma dine kan halde fram med å køyre med toppfart.
 features-fast-browse-faster = Surf raskare
-features-fast-multi-tasking-with-multiple-tabs = Multi-tasking med fleire faner
+features-fast-multi-tasking-with-multiple-tabs = Fleiroppgåvekøyring med fleire faner
 features-fast-faster-gaming = Raskare spel
