@@ -11,6 +11,5 @@ moz-account-promo-title = Ein innskráning. <br> <span { $class }>Allt hjá</spa
 moz-account-already-have-v2 = Ertu nú þegar með reikning? <a { $sign_in_url }>Skráðu þig inn</a> eða <a { $learn_more_url }>fáðu frekari upplýsingar</a> um þátttöku í { -brand-name-mozilla }.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
 moz-account-product-relay = { -brand-name-relay }
