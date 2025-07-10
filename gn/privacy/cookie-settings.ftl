@@ -26,6 +26,7 @@ cookie-settings-category-necessary-what-are-desc = Ko’ã tembiporupyahu tuicha
 
 cookie-settings-category-preference-heading = Jerohoryvéva
 cookie-settings-category-preference-what-are-subheading = Mba’épa kookie jerohoryvéva rehegua
+cookie-settings-category-preference-what-are-desc = Ko’ã tembiporupyahu ojepurúkuri oporomomandu’a hag̃ua nde poravopy ejapova’ekue eikeramoguare ñanduti roguépe. Techapyrã, pe ñe’ẽ emoñe’ẽseha térã nde sa’y aty eguerohoryvéva.
 
 ## Analytics cookies section
 
@@ -36,4 +37,5 @@ cookie-settings-category-analytics-what-are-desc = Ko’ã tembiporupyahu ombyat
 ## Privacy section
 
 cookie-settings-privacy-heading = Ore marandu ñemi rehegua
+cookie-settings-privacy-desc = Ojeikuaave hag̃ua marandu opaichagua { -brand-name-mozilla } rehegua oñembyatyva’ekue eike jave ore ñanduti roguépe, ikatu ejuhu peteĩ juajuha ore marandu’i ñemigua rehegua eku’e jeývo.
 cookie-settings-privacy-policy-link = Marandu’i ñemiguáva
