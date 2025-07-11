@@ -81,3 +81,5 @@ footer-putting-people = 1998 年より、利益よりもユーザーを守って
 
 ## Feedback
 
+# links to a Google Form that is English only
+footer-feedback-let-us-know = ご連絡ください。
