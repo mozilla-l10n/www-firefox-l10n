@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = समुदाय
 footer-contribute = योगदान दें
 footer-developer = डेवलेपर
+footer-connect = जुड़ें
 
 ## Links to resources
 
@@ -81,3 +82,6 @@ footer-putting-people = वर्ष 1998 से ही मुनाफ़े �
 
 ## Feedback
 
+footer-feedback-found-a-bug = क्या आपको हमारी नई वेबसाइट में कोई बग या कोई समस्या दिखी?
+# links to a Google Form that is English only
+footer-feedback-let-us-know = हमें बताएँ।
