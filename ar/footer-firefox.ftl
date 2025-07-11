@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = المجتمع…
 footer-contribute = ساهم
 footer-developer = مطور التطبيق
+footer-connect = اتّصل
 
 ## Links to resources
 
@@ -81,3 +82,5 @@ footer-putting-people = الناس عندنا أهم من الأرباح منذ 
 
 ## Feedback
 
+# links to a Google Form that is English only
+footer-feedback-let-us-know = أعلمنا.
