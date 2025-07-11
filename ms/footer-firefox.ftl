@@ -81,3 +81,5 @@ footer-putting-people = Mementingkan pengguna sebelum keuntungan sejak 1998.
 
 ## Feedback
 
+# links to a Google Form that is English only
+footer-feedback-let-us-know = Beritahu kami.
