@@ -5,3 +5,4 @@
 # Variables:
 # $link (url) - link to https://www.firefox.com
 m24-pencil-banner-firefox-has-moved = { -brand-name-firefox } ਤਬਦੀਲ ਹੋ ਗਿਆ ਹੈ – ਟੀਚਾ ਉਹੀ ਹੈ। ਉਹੀ ਗੁਣ। <a { $link }>firefox.com</a> ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ।
+m24-pencil-banner-firefox-has-moved-v2 = { -brand-name-firefox } ਤਬਦੀਲ ਹੋ ਗਿਆ ਹੈ – ਟੀਚਾ ਉਹੀ ਹੈ। ਉਹੀ ਗੁਣ। firefox.com ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ।
