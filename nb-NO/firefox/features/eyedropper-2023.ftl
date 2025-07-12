@@ -7,3 +7,5 @@
 
 features-eyedropper-eyedropper-tool = Pipetteverktøy
 features-eyedropper-select-colors-in-firefox = Velg farger i { -brand-name-firefox } med pipetteverktøyet
+# HTML page description
+features-eyedropper-identify-the-exact-color-on-a = Identifiser den nøyaktige fargen på en side og kopier heksadesimalkoden.
