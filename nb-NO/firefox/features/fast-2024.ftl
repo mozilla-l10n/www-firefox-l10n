@@ -13,3 +13,4 @@ features-fast-speedometer-is-the-most-widely = Den mest brukte ytelsesmålestokk
 features-fast-the-new-speedomer-3-benchmark = Den nye Speedometer 3-referansetesten er den første store nettleserreferansetesten som noen gang er utviklet gjennom et samarbeid støttet av alle større nettlesere, designet for å være til fordel for hele nettet.
 features-fast-faster-every-day = Raskere hver dag
 features-fast-firefox-is-powered-by-the-world = { -brand-name-firefox } drives av den førsteklasses { -brand-name-gecko }-motoren, med sjokkerende rask styling og sideoppsett, moderne JavaScript-funksjoner og en uendelig mengde nye ytelsesforbedringer for å holde brukerne våre fornøyde og presse nettplattformen fremover.
+features-fast-towards-a-faster-web = Mot et raskere nett
