@@ -12,3 +12,5 @@ pdf-editor-add-text-to-pdfs-v2 = Rediger PDF-filer gratis med { -brand-name-fire
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Vis og rediger PDF-filer direkte i { -brand-name-firefox }.
 pdf-editor-fill-in-forms-online-without = Fyll ut skjemaer på nett uten å skrive ut og skanne
+pdf-editor-add-text = Legg til tekst
+pdf-editor-add-drawings-or-your-signature = Legg til tegninger (eller signaturen din)
