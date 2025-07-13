@@ -15,3 +15,4 @@ password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } kan
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = Bilde av et nettsteds innloggingsskjema med { -brand-name-firefox } som viser flere lagrede kontoer å velge mellom når du logger inn.
 password-manager-import-passwords = Importer passord
+password-manager-no-more-reusing-your-passwords = Unngå å bruke passord på nytt
