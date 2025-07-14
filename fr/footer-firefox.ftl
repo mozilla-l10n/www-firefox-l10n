@@ -82,3 +82,6 @@ footer-putting-people = Pensé pour vous depuis 1998
 
 ## Feedback
 
+footer-feedback-found-a-bug = Vous avez trouvé un bug sur notre nouveau site web ?
+# links to a Google Form that is English only
+footer-feedback-let-us-know = Dites-le-nous.
