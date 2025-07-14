@@ -15,3 +15,9 @@ features-private-yes-firefox-protects-your = Ja. { -brand-name-firefox } beskytt
 #   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 features-private-firefox-also-protects-your = { -brand-name-firefox } beskytter også personvernet ditt med <a href="{ $url }">utvidet sporingsbeskyttelse</a> for å blokkere sporere som følger deg fra nettsted til nettsted og samler inn informasjon om nettleservanene dine. Det inkluderer også beskyttelse mot skadelige skript og skadelig programvare.
 features-private-what-information-does-firefox = Hvilken informasjon samler { -brand-name-firefox } inn?
+# Variables:
+#   $url (url) = link to https://www.mozilla.org/privacy/
+features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } (produsenten av { -brand-name-firefox }) tar personvern svært alvorlig. <strong>Svært alvorlig</strong>. Faktisk holder alle { -brand-name-firefox }-produkter vi lager vårt <a href="{ $url }">løfte om personopplysninger</a>: Ta mindre. Hold det trygt. Ingen hemmeligheter.
+# Variables:
+#   $url (url) = link to https://www.mozilla.org/privacy/firefox/
+features-private-read-firefoxs-privacy-notice = Les <a href="{ $url }">{ -brand-name-firefox } sin personvernerklæring</a> for mer informasjon. Seriøst, sjekk den ut. Den er i normal skriftstørrelse og alt.
