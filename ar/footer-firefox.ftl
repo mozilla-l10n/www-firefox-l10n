@@ -82,5 +82,6 @@ footer-putting-people = الناس عندنا أهم من الأرباح منذ 
 
 ## Feedback
 
+footer-feedback-found-a-bug = هل وجدت مشكلة في موقعنا الإلكتروني الجديد؟
 # links to a Google Form that is English only
 footer-feedback-let-us-know = أعلمنا.

@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Komuniti
 footer-contribute = Sumbangan
 footer-developer = Pembangun
+footer-connect = Mari Berhubung
 
 ## Links to resources
 
@@ -81,5 +82,6 @@ footer-putting-people = Mementingkan pengguna sebelum keuntungan sejak 1998.
 
 ## Feedback
 
+footer-feedback-found-a-bug = Temui pepijat dengan laman web baru kami?
 # links to a Google Form that is English only
 footer-feedback-let-us-know = Beritahu kami.
