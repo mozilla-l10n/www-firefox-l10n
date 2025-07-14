@@ -13,6 +13,9 @@ features-adblocker-an-ad-blocker-is-a-piece = Reklam engelleyici, reklamları en
 features-adblocker-find-the-right-ad-blocker = Size en uygun reklam engelleyiciyi bulun
 features-adblocker-there-are-scores-of-content = Kullanabileceğiniz birçok içerik engelleyici var ama işte { -brand-name-mozilla }’nın seçtiği birkaç harika seçenek…
 # Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a>, reklamları engellemenin yanı sıra izlenme koruması özellikleri de sunan başka bir harika seçenek.
+# Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Bu uzantılar { -brand-name-firefox }’un hem <a { $attrs1 }>bilgisayar</a> hem de <a { $attrs2 }>Android</a> sürümlerinde çalışır.
