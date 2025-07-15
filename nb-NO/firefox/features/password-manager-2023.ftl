@@ -10,11 +10,17 @@ password-manager-free-password-manager = Gratis passordbehandler
 # HTML page description
 password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } passordbehandling lagrer alle passordene dine på en plass slik at du kan logge inn automatisk på nettsteder, eller finne lagrede passord.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } lagrer brukernavn og passord for å få tilgang til nettsteder sikkert, fyller dem automatisk ut for deg neste gang du besøker et nettsted, og lar deg behandle lagrede innlogginger med den innebygde passordbehandlingsfunksjonen.
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/accounts/
+password-manager-with-a-free-mozilla-account-v2 = Med en <a { $fxa }>gratis { -brand-name-mozilla-account }</a> kan du sikkert synkronisere passordene dine på tvers av alle enhetene dine. Du kan også få tilgang til alle andre personvernrespekterende produkter fra { -brand-name-mozilla }.
 password-manager-password-autofill-for-easy-logins = Autofyll av passord for enkle innlogginger
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } kan automatisk fylle inn dine lagrede brukernavn og passord. Hvis du har mer enn én pålogging for et nettsted, kan du bare velge kontoen du ønsker, så tar vi det derfra.
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = Bilde av et nettsteds innloggingsskjema med { -brand-name-firefox } som viser flere lagrede kontoer å velge mellom når du logger inn.
 password-manager-import-passwords = Importer passord
+password-manager-you-can-use-the-import-wizard = Du kan bruke importveiviseren til å enkelt (magisk) importere brukernavn og passord som er lagret i Chrome, Edge, Safari eller andre nettlesere. Velg Passord fra menyen, og klikk deretter på «importer dem til { -brand-name-firefox }» nederst på siden Innlogginger og passord.
+# Used as an accessible text alternative for an image
+password-manager-image-of-the-firefox-import-wizard = Bilde av dialogvinduet for importveiviseren i { -brand-name-firefox }, som viser alternativer for å importere innstillinger og data fra andre nettlesere.
 password-manager-no-more-reusing-your-passwords = Unngå å bruke passord på nytt
 # Variables:
 #   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
