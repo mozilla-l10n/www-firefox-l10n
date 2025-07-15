@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/
+### URL: https://www-dev.springfield.moz.works/?xv=legacy
 
 firefox-desktop-download-og-title = Pellgargit ar buanañ { -brand-name-firefox } n'eus bet morse
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/
+### URL: https://www-dev.springfield.moz.works/?xv=legacy
 
 firefox-desktop-download-get-the-browser = Consigui'l restolador que protexe lo que ye importante
 firefox-desktop-download-download-options = Opciones de descarga y otres llingües

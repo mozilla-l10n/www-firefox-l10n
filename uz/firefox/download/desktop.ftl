@@ -3,9 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/
+### URL: https://www-dev.springfield.moz.works/?xv=legacy
 
 firefox-desktop-download-bookmarks-manager = Xatchoʻplar menejeri
-
-## URL: https://www-dev.springfield.moz.works/thanks/
-

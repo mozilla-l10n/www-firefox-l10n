@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/
+### URL: https://www-dev.springfield.moz.works/?xv=legacy
 
 firefox-desktop-download-og-title = Descarcă cel mai rapid { -brand-name-firefox } care a existat vreodată
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }

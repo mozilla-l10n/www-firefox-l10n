@@ -3,13 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/
+### URL: https://www-dev.springfield.moz.works/?xv=legacy
 
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } తోడ్పాటు
 firefox-desktop-download-themes = అలంకారాలు
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-screenshots = తెరపట్లు
-
-## URL: https://www-dev.springfield.moz.works/thanks/
-
