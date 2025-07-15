@@ -35,11 +35,13 @@ firefox-home-bye-boring = Čěs, wostudły wobhladowak
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
 firefox-home-the-internet-can = Internet móže róžojte městno być, z prawej přidawkowej <a { $theme_attrs }>drastu</a>.
 firefox-home-billionaire-free = Bjez miliardarow wot přez 20 lět
+firefox-home-firefox-was-created = { -brand-name-firefox } je so w lěće 2004 wot { -brand-name-mozilla } jako spěšniša, priwatniša a bóle přiměrjomna alternatiwa k wobhladowakam kaž Internet Explorer. Dźensa smy hišće powšitkownosći wužitni, hišće njesłušamy někajkim miliardaram a dźěłamy hišće, zo bychmy internet – a čas, za kotryž w nim přebywaće, polěpšili.
 firefox-home-set-firefox-as = Čińće { -brand-name-firefox } k swojemu standardnemu wobhladowakej.
 firefox-home-firefox-on-desktop = { -brand-name-firefox } na desktopje a mobilnym graće.
 
 # Used as accessible alternative text for an image
 
+firefox-home-happy-toggle = Wjesoła změna.
 firefox-home-multiple-cursors = Wjacore cursory.
 firefox-home-lots-of-open = Wjele wočinjenych rajtarkow.
 firefox-home-a-human-brain = Čłowjeske mozy su ze swětom zwjazane.
