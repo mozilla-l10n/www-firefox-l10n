@@ -11,6 +11,9 @@ compare-shared-footer-cta-desc = Skaff deg den raske, lette og personvernfokuser
 compare-shared-we-also-offer-easy = Vi tilbyr også brukervennlige funksjoner som:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } har også innebygde verktøy som:
 # Variables
+# $pdf (url) - link to https://www.firefox.com/features/pdf-editor/
+compare-shared-edit-pdfs-on-the-go = a { $pdf }>Rediger PDF-filer</a> direkte i { -brand-name-firefox }-vinduet – uten behov for ekstra programvare.
+# Variables
 # $translate (url) - link to https://www.firefox.com/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>Oversett en nettside</a> lokalt og privat.
 compare-shared-its-easy-to-switch = Det er enkelt å bytte
