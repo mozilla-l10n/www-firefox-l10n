@@ -36,6 +36,12 @@ features-adblocker-create-a-tracker-free = Opprett en sporingsfri sone med innho
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = På { -brand-name-firefox } kan du bruke innstillingene for <a href="{ $privacy }">personvern</a> eller <a href="{ $blocking }">Innholdsblokkering</a> for å få enda mer kontroll over annonsesporere som viser deg annonsene.
 features-adblocker-choose-your-level-of-protection = Velg ditt beskyttelsesnivå
+features-adblocker-to-start-click-on-the-v2 = For å komme i gang, klikk på skjoldet til venstre for adressefeltet på en hvilken som helst nettside, og velg «Beskyttelsesinnstillinger». Dette åpner { -brand-name-firefox }-innstillingene for personvern og sikkerhet i en ny fane. Du vil se en blå rute med ulike valg.
+features-adblocker-go-easy-with-standard = Ta det rolig med standardmodus
+# Variables:
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
+features-adblocker-if-ads-dont-bother-you = Hvis annonser ikke plager deg, og du ikke har noe imot å bli fulgt av sporere og tredjeparts infokapsler, bør standardinnstillingen fungere for deg. For å bli kvitt sporere i standardmodus, bruk et <a href="{ $url }">privat nettlesings</a>-vindu.
+features-adblocker-get-tough-with-strict = Vær tøff med streng modus
 features-adblocker-take-a-bite-out-of-cookies = Gjør infokapsler mere spiselige
 features-adblocker-in-firefox-you-can-block = I { -brand-name-firefox } kan du blokkere alle tredjeparts infokapsler eller bare de som er satt av sporere. Merk at blokkering av alle infokapsler kan forhindre enkelte nettsteder fra å fungere.
 features-adblocker-speed-up-thanks-to-ad = Høyere hastighet takket være annonseblokkere
