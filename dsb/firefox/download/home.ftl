@@ -16,6 +16,8 @@ firefox-home-keep-tabs-on = Wobchowajśo rejtariki na wšych wašych rejtarikach
 firefox-home-close-duplicates = Zacyńśo duplikaty, pytajśo a pśipniśo wócynjone rejtariki – jo skóro njeskóńcnje wjele móžnosćow za skóro njeskóńcnje wjele wócynjonych rejtarikow.
 firefox-home-see-release = Glejśo wersijowe informacije
 firefox-home-get-the-browser = Wobstarajśo se wobglědowak, kótaryž wam pomaga, wašo źěło gótowaś
+firefox-home-block-ad-trackers = Blokěrujśo wabjeńske pśeslědowaki bźez togo, aby palc gnuł
+firefox-home-ad-trackers-make = Wabjeńske pśeślědowaki webbokow spómałšuju. Z { -brand-name-firefox } njetrjebaśo nastajenja pśepytaś, aby ten problem rozwězał, dokulaž nejwěcej pśeslědowakow blokěrujomy.
 
 # Used as accessible alternative text for an image
 
