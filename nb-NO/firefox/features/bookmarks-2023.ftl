@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
+# page title
+bookmark-manager-bookmark-manager = Bokmerkebehandler
+# HTML page description
+bookmark-manager-organize-your-bookmarks-with = Organiser bokmerkene dine med mapper og tagger.
 bookmark-manager-easily-import-bookmarks = Importer bokmerker enkelt
 bookmark-manager-you-can-import-your-bookmarks = Du kan importere bokmerkene dine fra Chrome, Safari eller Edge med importveiviseren i { -brand-name-firefox }. Bare klikk på Bokmerker > Behandle bokmerker, og velg deretter «Importer og sikkerhetskopier».
 bookmark-manager-bookmarks-toolbar = Bokmerkeverktøylinje
