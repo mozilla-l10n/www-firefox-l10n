@@ -19,9 +19,21 @@ firefox-home-get-the-browser = Wobstarajće sej wobhladowak, kotryž wam pomha, 
 firefox-home-block-ad-trackers = Blokujće wabjenske přesćěhowaki, bjeztoho zo njebyšće ani porsćika zhibnył
 firefox-home-ad-trackers-make = Wabjenske přeścěhowaki webstronow spomaleja. Z { -brand-name-firefox } njetrjebaće nastajenja přepytać, zo byšće tón problem rozrisał, dokelž najwjace přesćěhowakow blokujemy.
 firefox-home-swear-off = Wzdajće so wotwjedźenjow
+# Variables
+#   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
+#   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
+firefox-home-stay-focused = Wostańće koncentrowany z rozšěrjenjemi kaž <a { $tomato_clock_attrs }>Tomato Clock</a> a <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> – poručeja so, štož je kaž naša złota hwěžka za to, zo wosebitu wěstotu a funkcionalnosć skićimy.
 firefox-home-your-stuff = Waša maćizna, na wšěch wašich wobrazowkach
+firefox-home-get-firefox-mobile = Wobstarajće sej { -brand-name-firefox } za mobilne graty, zo byšće móhł swoje hesła, rajtarki a historiju – a priwatnosć a wěstotu, na kotrejž so spušćeće – wšudźe sobu wzać.
+firefox-home-really-make-it = Čińće jón *woprawdźe* k swojemu
 firefox-home-work-smarter = Dźěłajće inteligentnišo, hrajće ćešo
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = Wuslědźće móžnosće za rešeršu, nakupowanje a wjace w <a { $extensions_attrs }>rozšěrjenjach</a>.
 firefox-home-bye-boring = Čěs, wostudły wobhladowak
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = Internet móže róžojte městno być, z prawej přidawkowej <a { $theme_attrs }>drastu</a>.
 firefox-home-billionaire-free = Bjez miliardarow wot přez 20 lět
 firefox-home-set-firefox-as = Čińće { -brand-name-firefox } k swojemu standardnemu wobhladowakej.
 firefox-home-firefox-on-desktop = { -brand-name-firefox } na desktopje a mobilnym graće.
