@@ -16,6 +16,7 @@ firefox-home-keep-tabs-on = Wobchowajće rajtarki na wšěch wašich rajtarkach
 firefox-home-close-duplicates = Začińće duplikaty, pytajće a připniće wočinjene rajtarki – je nimale njeskónčnje wjele móžnosćow za nimale njeskónčnje wjele wočinjenych rajtarkow.
 firefox-home-see-release = Hlejće wersijowe informacije
 firefox-home-get-the-browser = Wobstarajće sej wobhladowak, kotryž wam pomha, waše dźěło činić
+firefox-home-block-ad-trackers = Blokujće wabjenske přesćěhowaki, bjeztoho zo njebyšće ani porsćika zhibnył
 firefox-home-your-stuff = Waša maćizna, na wšěch wašich wobrazowkach
 firefox-home-work-smarter = Dźěłajće inteligentnišo, hrajće ćešo
 firefox-home-bye-boring = Čěs, wostudły wobhladowak
