@@ -44,6 +44,7 @@ firefox-home-firefox-on-desktop = { -brand-name-firefox } na desktopje a mobilny
 firefox-home-happy-toggle = Wjesoła změna.
 firefox-home-multiple-cursors = Wjacore cursory.
 firefox-home-lots-of-open = Wjele wočinjenych rajtarkow.
+firefox-home-shield-and-hand = Tarč a ruka, kotrejž rajtark wobhladowaka škitatej.
 firefox-home-a-human-brain = Čłowjeske mozy su ze swětom zwjazane.
 firefox-home-desktop-laptop-and-phone = Desktop, laptop a telefon.
 firefox-home-firefox-in-dark = { -brand-name-firefox } w ćmowym modusu.
