@@ -6,6 +6,7 @@
 ## URL: https://www-dev.springfield.moz.works/
 
 firefox-home-take-control = Kontrolujće swój internet
+firefox-home-go-online = Dźiće online z mjenje wotwjedźenjemi, haru a stresom. Myslće na nas jako dych čerstweho powětra.
 firefox-home-latest-features = Najnowše funkcije { -brand-name-firefox }
 firefox-home-multitasking = Multitasking?
 firefox-home-keep-tabs-on = Wobchowajće rajtarki na wšěch wašich rajtarkach
