@@ -35,7 +35,17 @@ firefox-home-bye-boring = Mě sej, wóstudny wobglědowak
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
 firefox-home-the-internet-can = Internet móžo rožojte městno byś, z pšaweju dodankoweju <a { $theme_attrs }>drastwu</a>.
 firefox-home-billionaire-free = Bźez miliardarjow wót wušej 20 lět
+firefox-home-firefox-was-created = { -brand-name-firefox } jo se napórał w lěśe 2004 wot { -brand-name-mozilla } ako malsnjejša, wěcej priwatna a wěcej pśiměrjobna alternatiwa k wobglědowakam ako Internet Explorer. Źinsa smy hyšći za wše wužytne, hyšći njesłušamy někakim miliardarjam a źěłamy hyšći, aby internet – a cas, za kótaryž w nim pśebywaśo, pólěpšyli.
+firefox-home-set-firefox-as = Cyńśo { -brand-name-firefox } k swójomu standardnemu wobglědowakoju.
+firefox-home-firefox-on-desktop = { -brand-name-firefox } na desktopje a mobilnem rěźe.
 
 # Used as accessible alternative text for an image
 
+firefox-home-happy-toggle = Wjasoła změna.
 firefox-home-multiple-cursors = Někotare cursory.
+firefox-home-lots-of-open = Wjele wócynjonych rejtarikow.
+firefox-home-shield-and-hand = Šćit a ruka, kótarejž rejtarik wobglědowaka šćitatej.
+firefox-home-a-human-brain = Cłowjeske mórzgi su ze swětom zwězane.
+firefox-home-desktop-laptop-and-phone = Desktop, laptop a telefon.
+firefox-home-firefox-in-dark = { -brand-name-firefox } w śamnem modusu.
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } na desktopje.
