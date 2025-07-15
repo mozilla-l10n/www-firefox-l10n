@@ -18,6 +18,7 @@ firefox-browsers-download-for-desktop = Last ned for datamaskin
 firefox-browsers-windows = { -brand-name-firefox } for { -brand-name-windows }
 firefox-browsers-mac = { -brand-name-firefox } for { -brand-name-mac-short }
 firefox-browsers-linux = { -brand-name-firefox } for { -brand-name-linux }
+firefox-browsers-custom = Tilpassa nedlastingsalternativ
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Få eineståande datavern med support-periodar tilpassa etter behovet til verksemda.
 firefox-browsers-enterprise-packages = { -brand-name-enterprise }-pakkar
