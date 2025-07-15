@@ -18,6 +18,24 @@ firefox-home-see-release = Glejśo wersijowe informacije
 firefox-home-get-the-browser = Wobstarajśo se wobglědowak, kótaryž wam pomaga, wašo źěło gótowaś
 firefox-home-block-ad-trackers = Blokěrujśo wabjeńske pśeslědowaki bźez togo, aby palc gnuł
 firefox-home-ad-trackers-make = Wabjeńske pśeślědowaki webbokow spómałšuju. Z { -brand-name-firefox } njetrjebaśo nastajenja pśepytaś, aby ten problem rozwězał, dokulaž nejwěcej pśeslědowakow blokěrujomy.
+firefox-home-swear-off = Zbydniśo se wótchylenjow
+# Variables
+#   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
+#   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
+firefox-home-stay-focused = Wóstańśo koncentrěrowany z rozšyrjenjami ako <a { $tomato_clock_attrs }>Tomato Clock</a> a <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> – pórucaju se, což jo ako naša złota gwězdka za to, až wósebnu wěstotu a funkcionalnosć bitujomy.
+firefox-home-your-stuff = Waša maśizna, na wšych wašych wobrazowkach
+firefox-home-get-firefox-mobile = Wobstarajśo se { -brand-name-firefox } za mobilne rědy, aby mógał swóje gronidła, rejtariki a historiju – a priwatnosć a wěstotu, na kótarejž se spušćaśo – wšuźi sobu wześ.
+firefox-home-really-make-it = Cyńśo jen *napšawdu* k swójomu
+firefox-home-work-smarter = Źěłajśo inteligentnjej, grajśo śěžčej
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = Wuslěźćo móžnosći za rešeršu, nakupowanje a wěcej w <a { $extensions_attrs }>rozšyrjenjach</a>.
+firefox-home-bye-boring = Mě sej, wóstudny wobglědowak
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = Internet móžo rožojte městno byś, z pšaweju dodankoweju <a { $theme_attrs }>drastwu</a>.
+firefox-home-billionaire-free = Bźez miliardarjow wót wušej 20 lět
 
 # Used as accessible alternative text for an image
 
+firefox-home-multiple-cursors = Někotare cursory.
