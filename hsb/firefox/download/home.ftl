@@ -20,3 +20,8 @@ firefox-home-firefox-on-desktop = { -brand-name-firefox } na desktopje a mobilny
 # Used as accessible alternative text for an image
 
 firefox-home-multiple-cursors = Wjacore cursory.
+firefox-home-lots-of-open = Wjele wočinjenych rajtarkow.
+firefox-home-a-human-brain = Čłowjeske mozy su ze swětom zwjazane.
+firefox-home-desktop-laptop-and-phone = Desktop, laptop a telefon.
+firefox-home-firefox-in-dark = { -brand-name-firefox } w ćmowym modusu.
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } na desktopje.
