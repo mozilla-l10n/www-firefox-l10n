@@ -37,6 +37,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = コミュニティ
 footer-contribute = 貢献
 footer-developer = 開発者
+footer-connect = つながる
 
 ## Links to resources
 
@@ -81,5 +82,6 @@ footer-putting-people = 1998 年より、利益よりもユーザーを守って
 
 ## Feedback
 
+footer-feedback-found-a-bug = 新しいウェブサイトにバグが見つかりましたか？
 # links to a Google Form that is English only
 footer-feedback-let-us-know = ご連絡ください。
