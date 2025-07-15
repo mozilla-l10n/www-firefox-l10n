@@ -20,7 +20,7 @@ password-manager-image-of-a-websites-login-form = Bilde på innloggingsskjema ti
 password-manager-import-passwords = importer passord
 password-manager-you-can-use-the-import-wizard = Du kan bruke importgaiden for å enkelt (magisk) importere brukarnamn og passord lagra i Chrome, Edge, Safari eller andre nettlesarar. Vel Passord frå menyen og klikk so på «importer dei til { -brand-name-firefox }» lengst nede på sida Inloggingar og passord.
 # Used as an accessible text alternative for an image
-password-manager-image-of-the-firefox-import-wizard = Bilde av dialogruta for importgaiden { -brand-name-firefox }, som viser alternativ for å importere innstillingar og data frå andra nettlesarar.
+password-manager-image-of-the-firefox-import-wizard = Bilde av dialovindauget for importgaiden { -brand-name-firefox }, som viser alternativ for å importere innstillingar og data frå andra nettlesarar.
 password-manager-no-more-reusing-your-passwords = Ikkje lenger gjenbruk av passorda dine
 # Variables:
 #   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
