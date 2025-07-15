@@ -9,6 +9,11 @@ features-adblocker-how-to-stop-seeing-too = Hvordan du kan slutte å se for mang
 features-adblocker-the-ad-blocker-a-secret = Annonseblokkeren – et hemmelig våpen mot irriterende annonser.
 features-adblocker-so-many-ads-so-little = Så mange annonser, så lite tålmodighet… Det er på tide å stoppe galskapen.
 features-adblocker-the-average-person-sees = Den gjennomsnittlige person ser i gjennomsnitt 4 000 annonser om dagen. Hvis du synes det er for mange, er en annonseblokker din nye beste venn.
+features-adblocker-an-ad-blocker-is-a-piece = En annonseblokker er et program som kan brukes til å blokkere annonser, og det fungerer på to måter. Den første er at annonseblokkereren stopper signalet fra annonsørens server, slik at annonsen aldri vises på siden din. Den andre måten er at den skjuler deler av et nettsted som kan være annonser.
+# Variables:
+#   $firefox (url) - link to https://www.firefox.com/
+#   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
+features-adblocker-these-ads-might-be-loud = Disse annonsene kan være høylytte videoannonser, annonser som følger deg rundt på nettet, spore, tredjeparts infokapsler og mer. For å bruke en annonseblokkerer kan du søke etter tillegg for annonseblokkering som er tilgjengelige i nettleseren din. <a href="{ $firefox }">{ -brand-name-firefox }</a> har for eksempel <a href="{ $addons }">denne listen over godkjente tillegg for annonseblokkering</a>. Klikk på denne listen (eller annonseblokkere som er godkjent for nettleseren din) og se hvilken som passer dine behov.
 features-adblocker-find-the-right-ad-blocker = Finn den rette annonseblokkeren for deg
 features-adblocker-there-are-scores-of-content = Det finnes en mengde innholdsblokkeringer der ute, men her er noen fantastiske alternativer utvalgt av { -brand-name-mozilla }…
 # Variables:
@@ -26,6 +31,11 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> er et 
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Disse utvidelsene fungerer utmerket på både <a { $attrs1 }>{ -brand-name-firefox } for datamaskin</a> og <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Opprett en sporingsfri sone med innholdsblokkering
+# Variables:
+#   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
+#   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
+features-adblocker-on-firefox-you-can-use = På { -brand-name-firefox } kan du bruke innstillingene for <a href="{ $privacy }">personvern</a> eller <a href="{ $blocking }">Innholdsblokkering</a> for å få enda mer kontroll over annonsesporere som viser deg annonsene.
+features-adblocker-choose-your-level-of-protection = Velg ditt beskyttelsesnivå
 features-adblocker-take-a-bite-out-of-cookies = Gjør infokapsler mere spiselige
 features-adblocker-in-firefox-you-can-block = I { -brand-name-firefox } kan du blokkere alle tredjeparts infokapsler eller bare de som er satt av sporere. Merk at blokkering av alle infokapsler kan forhindre enkelte nettsteder fra å fungere.
 features-adblocker-speed-up-thanks-to-ad = Høyere hastighet takket være annonseblokkere

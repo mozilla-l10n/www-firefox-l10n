@@ -28,4 +28,13 @@ features-adblocker-tip-5 = <strong>Blokkering av skadeprogram:</strong> Noen ann
 features-adblocker-tip-6 = <strong>Foreldrekontroll:</strong> Nyttig hvis du vil blokkere upassende innhold.
 features-adblocker-its-important-to-note = Det er viktig å merke seg at noen nettsteder er avhengige av annonser for å laste innhold eller tilby funksjonalitet. Blokkering av annonser kan føre til at funksjoner ikke fungerer, for eksempel at videoer ikke spilles av eller at innloggingsalternativer ikke fungerer. Velg en annonseblokker som oppdateres regelmessig, og hvis du synes én annonseblokker forårsaker betydelige problemer, kan du prøve en annen for å finne en bedre balanse mellom ytelse og kompatibilitet.
 features-adblocker-enhanced-privacy = Forbedret personvern og ytelse med { -brand-name-firefox }
+features-adblocker-beyond-ad-blockers = Utover annonseblokkering inkluderer { -brand-name-firefox } innebygde funksjoner som gir deg enda større kontroll over nettlesingen din. Disse verktøyene bidrar til å beskytte personvernet ditt samtidig som du kan tilpasse opplevelsen din:
+features-adblocker-tool-1 = <strong>Standardmodus:</strong> Et balansert alternativ som blokkerer vanlige sporere samtidig som nettstedets funksjonalitet opprettholdes.
+features-adblocker-tool-2 = <strong>Streng modus:</strong> Ideell for brukere som ønsker sterkere personvernbeskyttelse ved å blokkere flere sporere og infokapsler. Merk at noen nettsteder kan kreve justeringer i denne modusen.
+features-adblocker-tool-3 = <strong>Tilpasset modus:</strong> For de som ønsker full kontroll, lar tilpasset modus deg velge hva som skal blokkeres, fra infokapsler til sporere og mer.
+features-adblocker-to-adjust = For å justere disse innstillingene, klikk på skjoldikonet til venstre for adressefeltet på en hvilken som helst nettside og velg «Beskyttelsesinnstillinger». Dette åpner en meny der du kan velge riktig beskyttelsesnivå for deg.
 features-adblocker-why-use = Hvorfor bruke en annonseblokkerer?
+features-adblocker-ad-blockers-do-more = Annonseblokkeringer gjør mer enn å bare behandle annonser – de kan forbedre nettleserhastigheten og sikkerheten din ved å redusere unødvendig innhold. De gir deg muligheten til å skape en skreddersydd, distraksjonsfri nettopplevelse, slik at du kan fokusere på det som betyr mest.
+# Variables:
+#   $url (url) - link to https://www.firefox.com/
+features-adblocker-explore-hundreds = Utforsk hundrevis av personvernfokuserte tillegg tilgjengelig for { -brand-name-firefox } og finn de riktige verktøyene for deg. <a href="{ $url }">Last ned { -brand-name-firefox } </a> i dag for å oppleve en nettleser designet med ditt personvern og din ytelse i tankene.
