@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-# An accessible label used to describe that the role of the element is the
-# primary website navigation.
-footer-landmark-label = 부가 기능
 
 ## Download links for stable versions of Firefox across multiple platforms.
 
@@ -72,9 +69,3 @@ footer-logo-trademark-licensing = 로고 상표권 라이선스
 footer-language = 언어
 footer-go = 가기
 footer-firefox = { -brand-name-firefox }
-
-## Mozilla branding
-
-
-## Feedback
-
