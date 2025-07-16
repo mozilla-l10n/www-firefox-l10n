@@ -7,6 +7,12 @@
 
 # HTML page title
 features-index-firefox-browser-features = { -brand-name-firefox } nettleserfunksjoner
+features-index-firefox-keeps-getting-faster = { -brand-name-firefox } blir stadig raskere
+features-index-the-latest-browser-speed-benchmarks = De nyeste hastighetstestene for nettlesere viser at { -brand-name-firefox } er raskere enn noensinne.
+features-index-is-firefox-a-private-browser = Er { -brand-name-firefox } en privat nettleser?
+features-index-were-focused-on-your-right-to = Vi fokuserer på din rett til personvern. Dine data, din nettaktivitet og ditt liv på nettet er beskyttet med { -brand-name-firefox }.
+features-index-free-password-manager = Gratis passordbehandler
+features-index-get-help-creating-new-passwords = Få hjelp med å opprette nye passord, fyll ut nettskjemaer automatisk og logg inn automatisk.
 features-index-customize-your-firefox-browser = Tilpass din { -brand-name-firefox }-nettleser
 features-index-choose-how-your-browser-looks = Velg hvordan nettleseren din ser ut med tusenvis av gratis tema.
 features-index-firefox-browser-sync = { -brand-name-firefox } nettlesersynkronisering
