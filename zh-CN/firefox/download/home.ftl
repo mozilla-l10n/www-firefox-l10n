@@ -20,7 +20,8 @@ firefox-home-swear-off = 扫清干扰内容
 #   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
 firefox-home-stay-focused = 保持专注，有<a { $tomato_clock_attrs }>番茄钟</a>和<a { $turn_off_the_lights_attrs }>关灯看视频</a>等扩展来相助。两者皆是我们的“推荐扩展”，表示具有出众的功能和安全性。
 firefox-home-get-firefox-mobile = 获取 { -brand-name-firefox } 移动版，将密码、标签页、历史记录随身带着走，让隐私与安全时刻伴您行。
-firefox-home-work-smarter = 巧工作，尽兴玩
+firefox-home-work-smarter = 巧妙工作，尽兴玩乐
+firefox-home-billionaire-free = 独立自主 20+ 载
 
 # Used as accessible alternative text for an image
 
