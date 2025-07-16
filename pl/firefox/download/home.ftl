@@ -11,6 +11,8 @@ firefox-home-latest-features = Najnowsze funkcje { -brand-name-firefox(case: "ge
 firefox-home-dial-down = Wycisz hałas
 firefox-home-block-ads = Blokuj reklamy i zwiększ swoją prywatność dzięki konfigurowalnym ustawieniom i licznym rozszerzeniom do pobrania.
 firefox-home-multitasking = Wielozadaniowość?
+firefox-home-go-into-reading = Przechodź do trybu czytania, oglądaj filmy w okienku i organizuj się dzięki pionowym kartom i grupom kart.
+firefox-home-keep-tabs-on = Miej oko na wszystkie swoje karty
 firefox-home-close-duplicates = Zamykaj duplikaty, wyszukuj i przypinaj otwarte karty - istnieją niemal nieskończone możliwości dla niemal nieskończonej liczby kart, które masz otwarte.
 firefox-home-see-release = Informacje o wydaniu
 firefox-home-block-ad-trackers = Blokuj trackery reklamowe bez ruszenia palcem
@@ -21,6 +23,7 @@ firefox-home-swear-off = Pozbądź się rozpraszaczy
 #   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
 firefox-home-stay-focused = Zachowaj koncentrację dzięki rozszerzeniom takim jak <a { $tomato_clock_attrs }>Tomato Clock</a> i <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — są one polecane, co jest jak nasza złota gwiazdka za wyjątkowe bezpieczeństwo i funkcjonalność.
 firefox-home-get-firefox-mobile = Pobierz { -brand-name-firefox(case: "gen") } na telefon komórkowy, aby Twoje hasła, karty i historia — a także prywatność i bezpieczeństwo, na których polegasz — były zawsze z Tobą.
+firefox-home-work-smarter = Pracuj mądrzej, graj ostrzej
 firefox-home-bye-boring = Żegnaj, nudna przeglądarko
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
