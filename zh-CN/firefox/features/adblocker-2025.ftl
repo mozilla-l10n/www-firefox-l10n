@@ -7,6 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = 广告拦截
+# Page Title
+features-adblocker-meta-title-v2 = 关于广告拦截器
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = 关于广告拦截器 - { -brand-name-firefox }
 # HTML page description

@@ -5,6 +5,10 @@
 
 ## URL: https://www-dev.springfield.moz.works/
 
+firefox-home-take-control = Ta kontroll over ditt internett
+firefox-home-latest-features = De nyeste { -brand-name-firefox }-funksjoner
+firefox-home-dial-down = Skru ned støyen
+firefox-home-block-ads = Blokker annonser og forbedre personvernet ditt med tilpassbare innstillinger og massevis av nedlastbare utvidelser.
 firefox-home-billionaire-free = Milliardærfri i over 20 år
 firefox-home-set-firefox-as = Sett { -brand-name-firefox } som standard nettleser.
 firefox-home-firefox-on-desktop = { -brand-name-firefox } på datamaskin og mobil.

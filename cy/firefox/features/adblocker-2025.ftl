@@ -7,6 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Rhwystro Hysbysebion
+# Page Title
+features-adblocker-meta-title-v2 = Am Atalyddion Hysbysebion
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Ynghylch Rhwystro Hysbysebion - { -brand-name-firefox }
 # HTML page description

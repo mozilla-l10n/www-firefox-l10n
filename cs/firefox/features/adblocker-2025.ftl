@@ -7,6 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Blokování reklam
+# Page Title
+features-adblocker-meta-title-v2 = O blokátorech reklamy
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = O nástrojích na blokování reklam - { -brand-name-firefox }
 # HTML page description

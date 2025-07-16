@@ -7,6 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Reklámblokkolás
+# Page Title
+features-adblocker-meta-title-v2 = A reklámblokkolókról
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = A reklámblokkolókról – { -brand-name-firefox }
 # HTML page description
