@@ -7,8 +7,6 @@
 
 firefox-mobile-download-the-firefox-browser = ჩამოტვირთეთ { -brand-name-firefox-browser } თქვენს მობილურზე { -brand-name-ios }-ისა და { -brand-name-android }-ისთვის
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } მობილურისთვის ზღუდავს 2000-ზე მეტ მეთვალყურეს ნაგულისხმევად, განიჭებთ პირადულობას, რომელსაც იმსახურებთ და სიჩქარეს, რომელიც გჭირდებათ პირად მობილურ ბრაუზერში.
-firefox-mobile-firefox = { -brand-name-firefox }
-firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = გადმოწერეთ მობილური ბრაუზერი, რომელიც თქვენთვისაა შექმნილი არა რეკლამის დამკვეთთათვის
 firefox-mobile-check-out-firefox-again-its = გაიცანით { -brand-name-firefox } ხელახლა. იგი არის მეტად სწრაფი, პირადული და თქვენს მხარეზე. { -brand-name-ios }-ისა და { -brand-name-android }-ისთვის.
 firefox-mobile-get-firefox-mobile = გადმოწერეთ მობილური { -brand-name-firefox }

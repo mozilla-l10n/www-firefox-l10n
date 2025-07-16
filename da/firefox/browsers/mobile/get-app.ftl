@@ -7,8 +7,6 @@
 
 firefox-mobile-download-the-firefox-browser = Hent { -brand-name-firefox-browser } til din mobil ({ -brand-name-ios } og { -brand-name-android })
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } til mobil blokerer som standard mere end 2000 sporings-mekanismer, så du kan få den beskyttelse af dit privatliv, du fortjener - og den hastighed, du har brug for.
-firefox-mobile-firefox = { -brand-name-firefox }
-firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Få mobil-browseren, der er udviklet til dig - ikke til annoncører
 firefox-mobile-check-out-firefox-again-its = Prøv { -brand-name-firefox } igen. Den er hurtig, altid på din side og den beskytter dit privatliv. Til { -brand-name-ios } og { -brand-name-android }.
 firefox-mobile-get-firefox-mobile = Hent { -brand-name-firefox } til mobilen

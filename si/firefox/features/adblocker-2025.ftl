@@ -7,5 +7,5 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = දැන්වීම් අවහිරය
-# Page Title
+# Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = දැන්වීම් අවහිරකය ගැන - { -brand-name-firefox }

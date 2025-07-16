@@ -7,6 +7,6 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Mainosten esto
-# Page Title
+# Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Tietoja mainosten estosta - { -brand-name-firefox }
 features-adblocker-why-use = Miksi käyttää mainosten estoa?

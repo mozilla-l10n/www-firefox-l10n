@@ -7,7 +7,7 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = 광고 차단
-# Page Title
+# Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = 광고 차단 기능 소개 - { -brand-name-firefox }
 # HTML page description
 features-adblocker-meta-desc = 광고 차단기 작동 방식과 우리에게 무엇을 할 수 있는지, 그리고 추적기와 쿠키로부터 { -brand-name-firefox }를 보호하는 방법에 대해 알아보세요.

@@ -7,7 +7,7 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Annonseblokkering
-# Page Title
+# Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Om annonseblokkerarar - { -brand-name-firefox }
 features-adblocker-finding-the-right = Finn rett annonseblokkerar for deg
 features-adblocker-enhanced-privacy = Forbetra personvern og yting med { -brand-name-firefox }

@@ -7,7 +7,7 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Blocada del avisos publicitari
-# Page Title
+# Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Re Blocada del avisos publicitari - { -brand-name-firefox }
 # HTML page description
 features-adblocker-meta-desc = Discoperi como functiona le blocatores de annuncios publicitari, lo que pote illos facer pro te, e como { -brand-name-firefox } te protege de traciatores e cookies.

@@ -7,8 +7,6 @@
 
 firefox-mobile-download-the-firefox-browser = Last ned { -brand-name-firefox-browser }en på din mobil for { -brand-name-ios } og { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser }en for mobil blokkerer som standard over 2000 sporere, noe som gir deg privatlivet du fortjener og hastigheten du trenger i en privat mobilnettleser.
-firefox-mobile-firefox = { -brand-name-firefox }
-firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Få mobilnettleseren utviklet for deg, ikke annonsører
 firefox-mobile-check-out-firefox-again-its = Prøv { -brand-name-firefox } igjen. Det er raskt, privat og på din side. For { -brand-name-ios } og { -brand-name-android }.
 firefox-mobile-get-firefox-mobile = Last ned { -brand-name-firefox } for mobil

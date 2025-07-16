@@ -7,7 +7,7 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Rhwystro Hysbysebion
-# Page Title
+# Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Ynghylch Rhwystro Hysbysebion - { -brand-name-firefox }
 # HTML page description
 features-adblocker-meta-desc = Darganfyddwch sut mae atalwyr hysbysebion yn gweithio, beth allan nhw ei wneud i chi, a sut mae { -brand-name-firefox } yn eich amddiffyn rhag tracwyr a chwcis.

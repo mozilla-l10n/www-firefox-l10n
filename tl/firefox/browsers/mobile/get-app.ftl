@@ -5,8 +5,6 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
-firefox-mobile-firefox = { -brand-name-firefox }
-firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-firefox-mobile = Kunin ang { -brand-name-firefox } Mobile
 firefox-mobile-send-a-download-link-to-your = Magpadala ng download link sa iyong phone.
 firefox-mobile-scan-the-qr-code-to-get-started = I-scan ang QR code para makapag simula

@@ -7,8 +7,6 @@
 
 firefox-mobile-download-the-firefox-browser = Instale o { -brand-name-firefox-browser } em seu celular { -brand-name-ios } ou { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = O { -brand-name-firefox-browser } para dispositivos móveis bloqueia por padrão mais de 2000 rastreadores, lhe dando a privacidade que merece e a velocidade que precisa em um navegador privativo.
-firefox-mobile-firefox = { -brand-name-firefox }
-firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Instale o navegador para dispositivos móveis feito para você, não para anunciantes
 firefox-mobile-check-out-firefox-again-its = Experimente o { -brand-name-firefox } novamente. É rápido, privativo e a seu favor. Para { -brand-name-ios } e { -brand-name-android }.
 firefox-mobile-get-firefox-mobile = Instale o { -brand-name-firefox } para dispositivos móveis

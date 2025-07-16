@@ -7,7 +7,7 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Blokěrowanje wabjenja
-# Page Title
+# Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Wó blokěrowakach wabjenja – { -brand-name-firefox }
 # HTML page description
 features-adblocker-meta-desc = Wuslěźćo, kak wabjeńske blokěrowaki funkcioněruju, co mógu za was cyniś a kak { -brand-name-firefox } was pśed pśeslědowakami a cookiejami šćita.

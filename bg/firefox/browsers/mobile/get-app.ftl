@@ -5,6 +5,4 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
-firefox-mobile-firefox = { -brand-name-firefox }
-firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-scan-the-qr-code-to-get-started = Сканирайте кода на QR за начало

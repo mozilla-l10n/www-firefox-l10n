@@ -5,7 +5,5 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
-firefox-mobile-firefox = { -brand-name-firefox }
-firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-send-a-download-link-to-your = သင့်ဖုန်းသို့ download link တစ်ခုပို့ပါ
 firefox-mobile-scan-the-qr-code-to-get-started = စတင်ရန် QRကုဒ်ကို စစ်ပါ

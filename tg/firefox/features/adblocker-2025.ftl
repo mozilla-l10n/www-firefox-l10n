@@ -7,7 +7,7 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Манъкунии реклама
-# Page Title
+# Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Дар бораи васоити манъкунии реклама - «{ -brand-name-firefox }»
 # HTML page description
 features-adblocker-meta-desc = Бифаҳмед, ки чӣ тавр манъкунандаи реклама кор мекунанд, онҳо барои шумо чӣ кор карда метавонанд ва чӣ гуна браузери «{ -brand-name-firefox }» шуморо аз васоити пайгирӣ ва кукиҳо муҳофизат мекунад.

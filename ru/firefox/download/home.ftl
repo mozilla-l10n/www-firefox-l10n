@@ -22,7 +22,7 @@ firefox-home-swear-off = Откажитесь от отвлекающих фак
 # Variables
 #   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
 #   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
-firefox-home-stay-focused = Сосредоточьтесь с помощью таких расширений, как <a { $tomatic_hour_attrs }>Tomato Clock</a> и <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — они рекомендуются, что является чем-то вроде нашей золотой звезды за исключительную безопасность и функциональность.
+firefox-home-stay-focused = Сосредоточьтесь с помощью таких расширений, как <a { $tomato_clock_attrs }>Tomato Clock</a> и <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — они рекомендуются, что является чем-то вроде нашей золотой звезды за исключительную безопасность и функциональность.
 firefox-home-your-stuff = Ваши вещи на всех ваших экранах
 firefox-home-get-firefox-mobile = Загрузите мобильный { -brand-name-firefox }, чтобы ваши пароли, вкладки и история, а также приватность и безопасность, на которые вы можете положиться, были с вами, куда бы вы ни собрались.
 firefox-home-really-make-it = *Действительно* сделайте его своим

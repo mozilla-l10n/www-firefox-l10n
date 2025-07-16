@@ -7,7 +7,7 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Ad Blocking
-# Page Title
+# Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = About Ad Blockers - { -brand-name-firefox }
 # HTML page description
 features-adblocker-meta-desc = Find out how ad blockers work, what they can do for you, and how { -brand-name-firefox } protects you from trackers and cookies.

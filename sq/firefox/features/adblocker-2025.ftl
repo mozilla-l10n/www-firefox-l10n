@@ -7,7 +7,7 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Bllokim Reklamash
-# Page Title
+# Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Mbi Bllokues Reklamash- { -brand-name-firefox }
 # HTML page description
 features-adblocker-meta-desc = Shihni se si funksionojnë bllokuesit e reklamave, ç’mund të bëjnë për ju dhe si ju mbron { -brand-name-firefox }-i nga gjurmues dhe “cookies”.

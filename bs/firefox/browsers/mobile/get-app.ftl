@@ -7,8 +7,6 @@
 
 firefox-mobile-download-the-firefox-browser = Preuzmite { -brand-name-firefox-browser } na svoj mobilni za { -brand-name-ios } i { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } za mobitele blokira više od 2.000 programa za praćenje, pružajući privatnost koju zaslužuješ i brzinu koja trebaš u privatnom pretraživaču za mobilne uređaje.
-firefox-mobile-firefox = { -brand-name-firefox }
-firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Preuzmi pretraživač za mobitele izgrađen za tebe, a ne za oglašivače
 firefox-mobile-check-out-firefox-again-its = Ponovo pogledaj { -brand-name-firefox }. { -brand-name-firefox } je brz, privatan i na tvojoj je strani. Za { -brand-name-ios } i { -brand-name-android }.
 firefox-mobile-get-firefox-mobile = Preuzmi { -brand-name-firefox } za mobitel

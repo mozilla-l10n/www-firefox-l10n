@@ -7,5 +7,5 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Bloqueo de anuncios
-# Page Title
+# Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Acerca de los bloqueadores de anuncios - { -brand-name-firefox }

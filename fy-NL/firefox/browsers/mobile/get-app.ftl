@@ -7,8 +7,6 @@
 
 firefox-mobile-download-the-firefox-browser = Download de { -brand-name-firefox-browser } op jo mobyl foar { -brand-name-ios } en { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } foar mobyl blokkearret standert mear as 2000 trackers, wêrtroch jo de privacy dy’t jo fertsjinje en de snelheid dy’t jo nedich hawwe yn in privee mobile browser krije.
-firefox-mobile-firefox = { -brand-name-firefox }
-firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Download de mobile browser dy’t foar jo boud is, net foar advertearders
 firefox-mobile-check-out-firefox-again-its = Sjoch ris nei { -brand-name-firefox }. It is fluch, privee en stiet oan jo kant. Foar { -brand-name-ios } en { -brand-name-android }.
 firefox-mobile-get-firefox-mobile = Download { -brand-name-firefox } Mobyl

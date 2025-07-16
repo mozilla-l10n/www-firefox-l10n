@@ -7,7 +7,7 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Bloccada da reclama
-# Page Title
+# Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Davart la bloccada da reclama – { -brand-name-firefox }
 # HTML page description
 features-adblocker-meta-desc = Ve a savair co la bloccada da reclama funcziuna, tge ch’ella po far per tai e co { -brand-name-firefox } ta protegia da fastizaders e cookies.

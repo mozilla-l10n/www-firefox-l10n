@@ -5,6 +5,4 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
-firefox-mobile-firefox = { -brand-name-firefox }
-firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-send-a-download-link-to-your = Enviar un ligam de telecargar al vòstre telefòn.

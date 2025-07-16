@@ -7,8 +7,6 @@
 
 firefox-mobile-download-the-firefox-browser = Ześěgniśo { -brand-name-firefox-browser } na swójom mobilnem rěźe za { -brand-name-ios } a { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } za mobilne rědy wěcej ako 2000 pśeslědowakow pó standarźe blokěrujo a dawa wam priwatnosć, kótaruž se zasłužyjośo a malsnosć, kótaruž trjebaśo, w priwatnem mobilnem wobhlědowaku.
-firefox-mobile-firefox = { -brand-name-firefox }
-firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Wobstarajśo se mobilny wobglědowak, kótaryž jo se za was wuwił, nic za wabjerje
 firefox-mobile-check-out-firefox-again-its = Wopytujśo { -brand-name-firefox } znowego. Jo malsny, priwatny a na wašom boku. Za { -brand-name-ios } a { -brand-name-android }.
 firefox-mobile-get-firefox-mobile = Wobstarajśo se { -brand-name-firefox } Mobile

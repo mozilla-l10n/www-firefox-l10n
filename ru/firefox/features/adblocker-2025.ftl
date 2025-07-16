@@ -7,7 +7,7 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Блокировка рекламы
-# Page Title
+# Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = О блокировщиках рекламы - { -brand-name-firefox }
 # HTML page description
 features-adblocker-meta-desc = Узнайте, как работают блокировщики рекламы, что они могут сделать для вас, и как { -brand-name-firefox } защищает вас от трекеров и куков.

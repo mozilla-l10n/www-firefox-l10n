@@ -7,7 +7,7 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = ਇਸ਼ਤਿਹਾਰ ਰੋਕੂ
-# Page Title
+# Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = ਇਸ਼ਤਿਹਾਰ ਰੋਕੂ ਬਾਰੇ - { -brand-name-firefox }
 # HTML page description
 features-adblocker-meta-desc = ਪਤਾ ਕਰੋ ਕਿ ਇਸ਼ਤਿਹਾਰ ਰੋਕੂ ਕਿਵੇਂ ਕੰਮ ਕਰਦੇ ਹੈ, ਤੁਹਾਡੇ ਨਾਲ ਉਹ ਕੀ ਕਰ ਸਕਦੇ ਹਨ ਅਤੇ { -brand-name-firefox } ਤੁਹਾਨੂੰ ਟਰੈਕਰਾਂ ਅਤੇ ਕੂਕੀਜ਼ ਤੋਂ ਕਿਵੇਂ ਸੁਰੱਖਿਅਤ ਰੱਖਦਾ ਹੈ।

@@ -6,8 +6,6 @@
 ### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
 firefox-mobile-download-the-firefox-browser = Scàrricati { -brand-name-firefox-browser } nnô tilèfunu pi { -brand-name-ios } e { -brand-name-android }
-firefox-mobile-firefox = { -brand-name-firefox }
-firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-check-out-firefox-again-its = Prova arrè { -brand-name-firefox }. È lestu, privatu, e sta sempri dâ to parti. Pi { -brand-name-ios } e { -brand-name-android }.
 firefox-mobile-get-firefox-mobile = Pigghia { -brand-name-firefox } pû tilèfunu
 firefox-mobile-send-a-download-link-to-your = Manna na lijami pû scarricamentu ô to tilèfunu.

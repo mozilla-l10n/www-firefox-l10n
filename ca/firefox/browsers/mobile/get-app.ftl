@@ -5,8 +5,6 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
-firefox-mobile-firefox = { -brand-name-firefox }
-firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-firefox-mobile = Baixa el { -brand-name-firefox } per al mòbil
 firefox-mobile-send-a-download-link-to-your = Rebeu un enllaç de baixada en el vostre telèfon.
 firefox-mobile-scan-the-qr-code-to-get-started = Escanegeu el codi QR per començar

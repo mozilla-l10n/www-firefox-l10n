@@ -7,7 +7,7 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Reklam engelleme
-# Page Title
+# Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Reklam Engelleyiciler Hakkında - { -brand-name-firefox }
 # HTML page description
 features-adblocker-meta-desc = Reklam engelleyicilerin nasıl çalıştığını, sizin için neler yapabileceğini ve { -brand-name-firefox }’un sizi takip kodlarından ve çerezlerden nasıl koruduğunu öğrenin.
