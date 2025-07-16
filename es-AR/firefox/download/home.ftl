@@ -16,6 +16,7 @@ firefox-home-see-release = Ver notas de la versión
 firefox-home-get-the-browser = Conseguí el navegador que te ayuda a hacer el trabajo
 firefox-home-block-ad-trackers = Bloqueá los rastreadores de publicidad sin mover un dedo
 firefox-home-ad-trackers-make = Los rastreadores de publicidad hacen que las páginas web se carguen más lentamente. Con { -brand-name-firefox }, no tendrás que buscar en la configuración para solucionar eso, porque bloqueamos automáticamente la mayoría de los rastreadores.
+firefox-home-swear-off = Libre de distracciones
 # Variables
 #   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
 #   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
@@ -38,6 +39,8 @@ firefox-home-firefox-on-desktop = { -brand-name-firefox } en computadoras de esc
 
 # Used as accessible alternative text for an image
 
+firefox-home-happy-toggle = Cambio feliz.
+firefox-home-multiple-cursors = Cursores múltiples.
 firefox-home-lots-of-open = Demasiadas pestañas abiertas
 firefox-home-shield-and-hand = Escudo y mano protegiendo una pestaña del navegador.
 firefox-home-a-human-brain = Un cerebro humano conectado con el mundo.
