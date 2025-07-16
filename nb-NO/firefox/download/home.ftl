@@ -16,6 +16,7 @@ firefox-home-see-release = Se versjonsnotat
 firefox-home-get-the-browser = Skaff deg nettleseren som hjelper deg med å få jobben gjort
 firefox-home-block-ad-trackers = Blokker annonsesporere uten å løfte en finger
 firefox-home-ad-trackers-make = Annonsesporere gjør at nettsider lastes saktere. Med { -brand-name-firefox } trenger du ikke å rote rundt i innstillingene for å fikse dette, fordi vi automatisk blokkerer de fleste sporere.
+firefox-home-your-stuff = Dine ting, på alle skjermene dine
 firefox-home-billionaire-free = Milliardærfri i over 20 år
 firefox-home-set-firefox-as = Sett { -brand-name-firefox } som standard nettleser.
 firefox-home-firefox-on-desktop = { -brand-name-firefox } på datamaskin og mobil.
