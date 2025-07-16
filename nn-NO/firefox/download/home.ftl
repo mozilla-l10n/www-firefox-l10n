@@ -5,6 +5,7 @@
 
 ## URL: https://www-dev.springfield.moz.works/
 
+firefox-home-take-control = Ta kontroll over ditt internett
 firefox-home-multitasking = Multitasking?
 
 # Used as accessible alternative text for an image
