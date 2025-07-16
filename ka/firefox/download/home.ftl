@@ -27,6 +27,14 @@ firefox-home-your-stuff = კუთვნილი მასალები ყ�
 firefox-home-get-firefox-mobile = გადმოწერეთ { -brand-name-firefox } მობილურზე, რომ თქვენი პაროლები, ჩანართები და ისტორია — ყველგან თან წაიყოლოთ.
 firefox-home-really-make-it = *ნამდვილად* თქვენებური
 firefox-home-work-smarter = მეტი შედეგიანობა, მეტი გართობა
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = აღმოაჩინეთ ახალი გზები მასალების მოსაძიებლად, საყიდლების შესაძენად და ა.შ. მრავალფეროვანი <a { $extensions_attrs }>გაფართოებებით</a>.
+firefox-home-bye-boring = დაემშვიდობეთ მოსაწყენ ბრაუზერს
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = ვებსივრცე შეგიძლიათ გახადოთ მეტად ფერადოვანი სათანადო <a { $theme_attrs }>გაფორმების</a> დამატებით.
+firefox-home-billionaire-free = მილიარდერების გარეშე, უკვე 20+ წელია
 
 # Used as accessible alternative text for an image
 
