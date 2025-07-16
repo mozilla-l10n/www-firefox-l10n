@@ -22,11 +22,12 @@ firefox-home-swear-off = 扫清干扰内容
 #   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
 firefox-home-stay-focused = 想凝神专注？<a { $tomato_clock_attrs }>番茄钟</a>和<a { $turn_off_the_lights_attrs }>关灯看视频</a>等扩展来相助。两者皆是我们的“推荐扩展”，表示具有出众的功能和安全性。
 firefox-home-get-firefox-mobile = 获取 { -brand-name-firefox } 移动版，将密码、标签页、历史记录随身带着走，让隐私与安全时刻伴您行。
-firefox-home-work-smarter = 巧妙工作，尽兴玩乐
+firefox-home-really-make-it = 随心定制，称心使用
+firefox-home-work-smarter = 巧妙工作，尽兴玩
 # Variables
 #   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
 firefox-home-explore-the-possibilities = 高深如科研，日常如购物，都能用<a { $extensions_attrs }>扩展</a>来拓展新招式。
-firefox-home-bye-boring = 浏览器也倍有范儿
+firefox-home-bye-boring = 一改单调，倍有范
 firefox-home-billionaire-free = 独立自主 20+ 载
 firefox-home-firefox-was-created = { -brand-name-mozilla } 于 2004 年打造了 { -brand-name-firefox }，凭借更快、更私密、可定制等优点，为用户提供除 Internet Explorer 等浏览器外的另一选择。时至今日，我们依旧不为营利，依旧独立自主，依旧致力于让互联网更美好、让上网时光更愉悦。
 firefox-home-set-firefox-as = 将 { -brand-name-firefox } 设为默认浏览器。
