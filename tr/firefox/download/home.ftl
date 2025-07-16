@@ -8,7 +8,7 @@
 firefox-home-take-control = İnternetin kontrolünü eline al
 firefox-home-latest-features = En yeni { -brand-name-firefox } özellikleri
 firefox-home-dial-down = Gürültüyü azaltın
-firefox-home-block-ads = Özelleştirilebilir ayarlarla ve indirilebileceğiniz pek çok uzantıyla reklamları engelleyin, gizliliğinizi artırın.
+firefox-home-block-ads = Özelleştirilebilir ayarlarla ve indirebileceğiniz pek çok uzantıyla reklamları engelleyin, gizliliğinizi artırın.
 firefox-home-multitasking = Aynı anda çok iş yapın
 firefox-home-keep-tabs-on = Sekmelerinizi kolayca yönetin
 firefox-home-see-release = Sürüm notlarına bakın
