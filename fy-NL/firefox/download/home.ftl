@@ -24,6 +24,28 @@ firefox-home-swear-off = Swar ôfliedingen ôf
 #   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
 firefox-home-stay-focused = Bliuw fokust mei útwreidingen lykas <a { $tomato_clock_attrs }>Tomato Clock</a> en <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> - se wurde oanrekommandearre, wat ús gouden stjer is foar útsûnderlike feiligens en funksjonaliteit.
 firefox-home-your-stuff = Jo saken, op al jo skermen
+firefox-home-get-firefox-mobile = Download  { -brand-name-firefox } mobyl, sadat jo wachtwurden, ljepblêden en skiednis – en de privacy en befeiliging wêr’t jo op fertrouwe – oeral mei jo meigiet.
+firefox-home-really-make-it = Meitsje it *echt* fan jo
+firefox-home-work-smarter = Wurkje tûker, spylje hurder
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = Ferken de mooglikheden foar ûndersyk, winkeljen en mear yn <a { $extensions_attrs }>útwreidingen</a>.
+firefox-home-bye-boring = Oant sjen, saaie browser
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = It ynternet kin in moai plak wêze, mei it krekte <a { $theme_attrs }>tema</a>-add-on.
+firefox-home-billionaire-free = Al mear as 20 jier frij fan miljardêrs
+firefox-home-firefox-was-created = { -brand-name-firefox } waard yn 2004 makke troch { -brand-name-mozilla } as in rapper, mear privee en oanpasber alternatyf foar browsers lykas Internet Explorer. Tsjintwurdich binne wy noch altyd sûnder winsteachmerk, noch altyd net eigendom fan miljardêrs en noch altyd wurkje wy om it ynternet better te meitsjen – en de tiid dy’t jo deroan besteegje.
+firefox-home-set-firefox-as = { -brand-name-firefox } as jo standertbrowser ynstelle.
+firefox-home-firefox-on-desktop = { -brand-name-firefox } op desktop en mobyl.
 
 # Used as accessible alternative text for an image
 
+firefox-home-happy-toggle = Blide skeakeler.
+firefox-home-multiple-cursors = Meardere kursors.
+firefox-home-lots-of-open = In protte iepen ljepblêden.
+firefox-home-shield-and-hand = Skyld en hân dy’t in browserljeblêd beskermet.
+firefox-home-a-human-brain = In minsklik brein ferbûn mei de wrâld.
+firefox-home-desktop-laptop-and-phone = Desktop, laptop en telefoan.
+firefox-home-firefox-in-dark = { -brand-name-firefox } yn tsjustere modus.
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } op in desktop.
