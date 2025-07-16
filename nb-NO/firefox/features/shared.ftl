@@ -5,3 +5,6 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/
 
+features-shared-firefox-features = { -brand-name-firefox }-funksjoner
+features-shared-footer-cta-title = Gjør mer med { -brand-name-firefox }
+features-shared-footer-cta-desc = Få den raske, lette og personvernfokuserte nettleseren som støttes av en ideell organisasjon og fungerer på tvers av alle enhetene dine.
