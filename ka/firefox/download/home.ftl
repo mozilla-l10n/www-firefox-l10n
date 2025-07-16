@@ -5,20 +5,24 @@
 
 ## URL: https://www-dev.springfield.moz.works/
 
-firefox-home-take-control = თავად განკარგეთ თქვენი საქმიანობა ინტერნეტში
-firefox-home-go-online = იმოგზაურეთ ვებსივრცეში ყურადღების გაუფანტავად, ნაკლები აურზაურითა და დაძაბულობით. ჩვენ თქვენთვის ვიქნებით სუფთა ჰაერივით.
+firefox-home-take-control = თავად განკარგეთ საკუთარი საქმიანობა ინტერნეტში
+firefox-home-go-online = იმოგზაურეთ ვებსივრცეში ყურადღების გაუფანტავად, ნაკლები აურზაურითა და დაძაბულობით. თქვენთვის სუფთა ჰაერივით ვიქნებით.
 firefox-home-latest-features = რა ახალი შესაძლებლობებითაა { -brand-name-firefox }
 firefox-home-dial-down = ჩაახშეთ აურზაური
 firefox-home-block-ads = შეზღუდეთ რეკლამები და გაიუმჯობესეთ პირადულობა სრულად მოსარგები პარამეტრებითა ჩამოსატვირთი გაფართოებებით.
-firefox-home-multitasking = მრავალამოცანიანობა?
+firefox-home-multitasking = მრავალი საქმე ერთდროულად?
 firefox-home-go-into-reading = გადადით კითხვის რეჟიმზე, განათავზეთ ზემოდან ვიდეოები და მოაწესრიგეთ საქმიანობა შვეული ჩანართებითა თუ ჩანართების დაჯგუფებით.
-firefox-home-keep-tabs-on = დატოვეთ ყველა ჩანართი მხდედველობის არეში
+firefox-home-keep-tabs-on = თვალი ადევნეთ ყველა ჩანართს
 firefox-home-close-duplicates = დახურეთ გაორკეცებული, მოიძიეთ გახნილებს შორის სასურველი და მიამაგრეთ – თითქმის ულევი შესაძლებლობა თითქმის ულევი ოდენობით გახსნილი ჩანართებისთვის.
 firefox-home-see-release = იხილეთ გამოშვების მონაცემები
 firefox-home-get-the-browser = გამოიყენეთ ბრაუზერი, რომელიც საქმეში გადგებათ
 firefox-home-block-ad-trackers = შეზღუდეთ სარეკლამო მეთვალყურეები თითის შეუხებლად
 firefox-home-ad-trackers-make = სარეკლამო მეთვალყურეები ანელებს გვერდების ჩატვირთვას. მათ ასარიდებლად { -brand-name-firefox } არ საჭიროებს პარამეტრებში გარკვევას, ვინაიდან თავისთავად ზღუდავს მეთვალყურეების უმეტესობას.
 firefox-home-swear-off = დაიცავით თავი ყურადღების გაფანტვისგან
+# Variables
+#   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
+#   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
+firefox-home-stay-focused = მუდამ გულისყურით აკეთეთ საქმე ისეთი გაფართოებების დახმარებით, როგორებიცაა <<a { $tomato_clock_attrs }>Tomaty Clock</a> და<a { $turn_off_the_lights_attrs }>Turn off  the lights</a> — ორივე მეტად სასურველია და ჩვენგან ოქროს ვარსკვლავიც დაიმსახურეს განსაკუთრებული უსაფრთხოებისა და შესაძლებლობების გამო.
 
 # Used as accessible alternative text for an image
 
