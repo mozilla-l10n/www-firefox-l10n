@@ -12,6 +12,10 @@ firefox-home-firefox-on-desktop = { -brand-name-firefox } på datamaskin og mobi
 # Used as accessible alternative text for an image
 
 firefox-home-happy-toggle = Gladbryter.
+firefox-home-multiple-cursors = Flere musepekere.
 firefox-home-lots-of-open = Mange åpne faner.
 firefox-home-shield-and-hand = Skjold og hånd som beskytter en nettleserfane.
 firefox-home-a-human-brain = En menneskelig hjerne koblet til verden.
+firefox-home-desktop-laptop-and-phone = Stasjonær, bærbar og telefon.
+firefox-home-firefox-in-dark = { -brand-name-firefox } i mørk modus.
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } på en datamaskin.
