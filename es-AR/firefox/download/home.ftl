@@ -13,6 +13,29 @@ firefox-home-go-into-reading = Entrá en el modo lectura, mirá videos emergente
 firefox-home-keep-tabs-on = Mantené el control de todas tus pestañas
 firefox-home-close-duplicates = Cerrar duplicados, buscar y pegar pestañas abiertas — hay posibilidades casi infinitas para la cantidad casi infinita de pestañas que tenés abiertas.
 firefox-home-see-release = Ver notas de la versión
+firefox-home-get-the-browser = Conseguí el navegador que te ayuda a hacer el trabajo
+firefox-home-block-ad-trackers = Bloqueá los rastreadores de publicidad sin mover un dedo
+firefox-home-ad-trackers-make = Los rastreadores de publicidad hacen que las páginas web se carguen más lentamente. Con { -brand-name-firefox }, no tendrás que buscar en la configuración para solucionar eso, porque bloqueamos automáticamente la mayoría de los rastreadores.
+# Variables
+#   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
+#   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
+firefox-home-stay-focused = Mantenete enfocado con extensiones como <a { $tomato_clock_attrs }>Tomato Clock</a> y <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — son Recomendadas, que es como nuestra estrella dorada por tener una seguridad excepcional y funcionalidad.
+firefox-home-your-stuff = Tus cosas, en todas las pantallas
+firefox-home-get-firefox-mobile = Conseguí { -brand-name-firefox } móvil para que tus contraseñas, pestañas e historial, así como la privacidad y seguridad en las que confiás, vayan contigo dondequiera que vayas.
+firefox-home-work-smarter = Trabajá de manera más inteligente, jugá más duro
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = Explorá las posibilidades de búsqueda, compras y más en <a { $extensions_attrs }>extensiones</a>.
+firefox-home-bye-boring = Adiós, navegador aburrido
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = Internet puede ser un lugar prometedor, con el complemento de <a { $theme_attrs }>tema</a> adecuado.
+firefox-home-billionaire-free = Libre de multimillonarios por más de 20 años
+firefox-home-firefox-was-created = { -brand-name-firefox } fue creado en 2004 por { -brand-name-mozilla } como una alternativa más rápida, privada y personalizable a navegadores como Internet Explorer. Hoy en día, seguimos sin fines de lucro, todavía no somos propiedad de ningún multimillonario y seguimos trabajando para mejorar Internet, y el tiempo que invertís en ella.
+firefox-home-set-firefox-as = Establecé { -brand-name-firefox } como tu navegador predeterminado.
+firefox-home-firefox-on-desktop = { -brand-name-firefox } en computadoras de escritorio y dispositivos móviles.
 
 # Used as accessible alternative text for an image
 
+firefox-home-firefox-in-dark = { -brand-name-firefox } en modo oscuro.
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } en el escritorio.
