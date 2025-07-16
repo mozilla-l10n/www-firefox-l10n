@@ -22,6 +22,7 @@ firefox-home-ad-trackers-make = Los rastreadores de publicidad hacen que las pá
 firefox-home-stay-focused = Mantenete enfocado con extensiones como <a { $tomato_clock_attrs }>Tomato Clock</a> y <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — son Recomendadas, que es como nuestra estrella dorada por tener una seguridad excepcional y funcionalidad.
 firefox-home-your-stuff = Tus cosas, en todas las pantallas
 firefox-home-get-firefox-mobile = Conseguí { -brand-name-firefox } móvil para que tus contraseñas, pestañas e historial, así como la privacidad y seguridad en las que confiás, vayan contigo dondequiera que vayas.
+firefox-home-really-make-it = *Realmente* hacelo tuyo
 firefox-home-work-smarter = Trabajá de manera más inteligente, jugá más duro
 # Variables
 #   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
@@ -37,5 +38,9 @@ firefox-home-firefox-on-desktop = { -brand-name-firefox } en computadoras de esc
 
 # Used as accessible alternative text for an image
 
+firefox-home-lots-of-open = Demasiadas pestañas abiertas
+firefox-home-shield-and-hand = Escudo y mano protegiendo una pestaña del navegador.
+firefox-home-a-human-brain = Un cerebro humano conectado con el mundo.
+firefox-home-desktop-laptop-and-phone = Escritorio, laptop y teléfono.
 firefox-home-firefox-in-dark = { -brand-name-firefox } en modo oscuro.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } en el escritorio.
