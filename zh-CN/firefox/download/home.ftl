@@ -15,7 +15,8 @@ firefox-home-go-into-reading = 进入阅读模式、小窗播放视频。更有�
 firefox-home-keep-tabs-on = 全局掌控标签页
 firefox-home-close-duplicates = 从搜索、固定标签页，到关闭重复项，标签页的用法一如其数量，几无上限。
 firefox-home-see-release = 查看发行说明
-firefox-home-get-the-browser = 是浏览器，更是好帮手
+firefox-home-get-the-browser = 是浏览器，更是浏览好帮手
+firefox-home-block-ad-trackers = 带您甩掉广告跟踪器
 firefox-home-ad-trackers-make = 广告跟踪器会拖慢网页加载速度。{ -brand-name-firefox } 能自动拦截大多数跟踪器，无需您费心设置。
 firefox-home-swear-off = 扫清干扰内容
 # Variables
