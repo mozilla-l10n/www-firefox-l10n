@@ -14,15 +14,15 @@ firefox-channel-see-something-that-isnt-working = ¿Ves daqué que nun funciona?
 firefox-channel-file-a-bug-now = Informar agora d'un fallu
 firefox-channel-tips-for-filing-a-bug = Conseyos pa informar fallos
 firefox-channel-try-new-features-in-a-pre = Prueba les novedaes na versión de prellanzamientu del restolador p'{ -brand-name-android } | { -brand-name-firefox }
-firefox-channel-download-and-test-future = Baxa y prueba les versiones en desendolcu de { -brand-name-firefox } pa escritoriu, { -brand-name-android } ya { -brand-name-ios }.
-firefox-channel-experience-cutting-edge-android-updated = Esperimenta les útlimes novedaes nuna versión de prellanzamientu del restolador p'{ -brand-name-android }: { -brand-name-firefox-beta } y { -brand-name-firefox-nightly }. ¡Instálalos agora!
+firefox-channel-download-and-test-future = Baxa ya prueba les versiones en desendolcu de { -brand-name-firefox } pa escritoriu, { -brand-name-android } ya { -brand-name-ios }.
+firefox-channel-experience-cutting-edge-android-updated = Esperimenta les últimes novedaes nuna versión de prellanzamientu del restolador p'{ -brand-name-android }: { -brand-name-firefox-beta } ya { -brand-name-firefox-nightly }. ¡Instálalos agora!
 firefox-channel-experience-cutting-edge-android = Esperimenta les últimes novedaes nuna versión prellanzamientu del restolador p'{ -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } y { -brand-name-firefox-nightly }. ¡Instálalos agora!
-firefox-channel-try-the-latest-android-features = Prueba lo último d'{ -brand-name-android } enantes de llanzalo al restu del mundu.
-firefox-channel-all-languages-and-platforms = Toles llingües y plataformes
-firefox-channel-all-languages-and-builds = Toles llingües y versiones
+firefox-channel-try-the-latest-android-features = Prueba lo último d'{ -brand-name-android } enantes de que se publique al restu del mundu.
+firefox-channel-all-languages-and-platforms = Toles llingües ya plataformes
+firefox-channel-all-languages-and-builds = Toles llingües ya versiones
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } ye una plataforma de desendolcu y pruebes inestable. Por defeutu, { -brand-name-beta } unvia datos a { -brand-name-mozilla }, y a vegaes a los nuesos socios, p'ayudanos a remanar los problemes y probar idees. <a href="{ $link }">Llei lo que se comparte</a>.
+firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } ye una plataforma de desendolcu ya pruebes inestable. Por defeutu, { -brand-name-beta } unvia datos a { -brand-name-mozilla }, ya a vegaes a los nuesos socios, p'ayudanos a remanar los problemes ya probar idees. <a href="{ $link }">Llei lo que se comparte</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } unvia automáticamente información a { -brand-name-mozilla }.
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
