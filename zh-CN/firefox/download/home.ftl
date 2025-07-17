@@ -15,12 +15,14 @@ firefox-home-go-into-reading = 进入阅读模式、小窗播放视频。更有�
 firefox-home-keep-tabs-on = 全局掌控标签页
 firefox-home-close-duplicates = 从搜索、固定标签页，到关闭重复项，标签页的用法一如其数量，几无上限。
 firefox-home-see-release = 查看发行说明
+firefox-home-get-the-browser = 是浏览器，更是好帮手
 firefox-home-ad-trackers-make = 广告跟踪器会拖慢网页加载速度。{ -brand-name-firefox } 能自动拦截大多数跟踪器，无需您费心设置。
 firefox-home-swear-off = 扫清干扰内容
 # Variables
 #   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
 #   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
 firefox-home-stay-focused = 想凝神专注？<a { $tomato_clock_attrs }>番茄钟</a>和<a { $turn_off_the_lights_attrs }>关灯看视频</a>等扩展来相助。两者皆是我们的“推荐扩展”，表示具有出众的功能和安全性。
+firefox-home-your-stuff = 跨设备同步数据
 firefox-home-get-firefox-mobile = 获取 { -brand-name-firefox } 移动版，将密码、标签页、历史记录随身带着走，让隐私与安全时刻伴您行。
 firefox-home-really-make-it = 随心定制，称心使用
 firefox-home-work-smarter = 巧妙工作，尽兴玩
