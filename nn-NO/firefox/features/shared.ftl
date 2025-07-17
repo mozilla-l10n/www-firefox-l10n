@@ -7,4 +7,4 @@
 
 features-shared-firefox-features = { -brand-name-firefox }-funksjonar
 features-shared-footer-cta-title = Gjer meir med { -brand-name-firefox }
-features-shared-footer-cta-desc = Få den raske, lette, personfokuserte nettlesaren som er støtta av ein ideell organisation og fungerer på alle einingane dine.
+features-shared-footer-cta-desc = Få den raske, lette, personvernfokuserte nettlesaren som er støtta av ein ideell organisation og fungerer på alle einingane dine.
