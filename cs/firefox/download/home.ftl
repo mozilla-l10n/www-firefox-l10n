@@ -19,8 +19,13 @@ firefox-home-get-the-browser = Pořiďte si prohlížeč, který vám pomůže d
 firefox-home-block-ad-trackers = Blokujte sledující reklamy bez hnutí prstem
 firefox-home-ad-trackers-make = Sledující reklamy zpomalují načítání webových stránek. S { -brand-name-firefox(case: "ins") } už nebudete muset hledat cestu v nastavení, abyste to napravili, protože většinu sledovacích prvků blokujeme automaticky.
 firefox-home-swear-off = Nenechte se rozptylovat
+# Variables
+#   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
+#   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
+firefox-home-stay-focused = Zůstaňte soustředění s rozšířeními jako <a { $tomato_clock_attrs }>Tomato Clock</a> a <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> - jsou doporučené, což je jako naše zlatá hvězda za výjimečné zabezpečení a funkčnost.
 firefox-home-your-stuff = Vaše věci na všech obrazovkách
 firefox-home-get-firefox-mobile = Pořiďte si { -brand-name-firefox } do mobilu, abyste měli svá hesla, panely, historie – a soukromí a zabezpečení, na které spoléháte – všude s sebou.
+firefox-home-really-make-it = *Skutečně* si ho udělejte svůj
 firefox-home-work-smarter = Pracujte chytřeji, hrajte si více
 # Variables
 #   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/

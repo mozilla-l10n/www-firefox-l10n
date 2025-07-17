@@ -22,7 +22,7 @@ firefox-home-swear-off = Zweer afleiding af
 # Variables
 #   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
 #   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
-firefox-home-stay-focused = Blijf gefocust met extensies zoals <a { $tomato_klok_attrs }>Tomato Clock</a> en <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> – ze worden aanbevolen, wat als onze gouden ster is voor uitzonderlijke beveiliging en functionaliteit.
+firefox-home-stay-focused = Blijf gefocust met extensies zoals <a { $tomato_clock_attrs }>Tomato Clock</a> en <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> – ze worden aanbevolen, wat als onze gouden ster is voor uitzonderlijke beveiliging en functionaliteit.
 firefox-home-your-stuff = Uw zaken, op al uw schermen
 firefox-home-get-firefox-mobile = Download { -brand-name-firefox } mobiel, zodat uw wachtwoorden, tabbladen en geschiedenis – en de privacy en beveiliging waarop u vertrouwt – overal mee naartoe gaan.
 firefox-home-really-make-it = Maak het *echt* van u
