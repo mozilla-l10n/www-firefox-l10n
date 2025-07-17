@@ -34,6 +34,18 @@ firefox-home-bye-boring = Viszlát, unalmas böngésző
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
 firefox-home-the-internet-can = Az internet rózsás hely lehet a megfelelő <a { $theme_attrs }>témával</a>.
+firefox-home-billionaire-free = Milliárdosmentes, több mint 20 éve
+firefox-home-firefox-was-created = A { -brand-name-firefox }ot 2004-ben készítette a { -brand-name-mozilla }, mint az Internet Explorerhez hasonló böngészők gyorsabb, biztonságosabb és testreszabhatóbb alternatívája. Továbbra is nonprofit szervezet vagyunk, továbbra sem vagyunk milliárdosok tulajdona, és továbbra is azon dolgozunk, hogy az internet – és az internetre fordított ideje – jobb legyen.
+firefox-home-set-firefox-as = A { -brand-name-firefox } beállítása alapértelmezett böngészőként.
+firefox-home-firefox-on-desktop = { -brand-name-firefox } asztali gépen és mobilon.
 
 # Used as accessible alternative text for an image
 
+firefox-home-happy-toggle = Boldog kapcsoló.
+firefox-home-multiple-cursors = Több kurzor.
+firefox-home-lots-of-open = Sok nyitott lap.
+firefox-home-shield-and-hand = Pajzs és kéz, mely egy böngészőlapot véd.
+firefox-home-a-human-brain = A világhoz kapcsolódó emberi agy.
+firefox-home-desktop-laptop-and-phone = Asztali számítógép, laptop és telefon.
+firefox-home-firefox-in-dark = { -brand-name-firefox } sötét módban
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } egy asztali gépen.
