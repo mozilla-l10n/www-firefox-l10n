@@ -7,6 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Blokiranje oglasa
+# Page Title
+features-adblocker-meta-title-v2 = O blokatorima oglasa
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = O blokatorima oglasa - { -brand-name-firefox }
 # HTML page description

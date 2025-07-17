@@ -34,6 +34,18 @@ firefox-home-bye-boring = Zbogom, dosadni pregledniku
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
 firefox-home-the-internet-can = Internet može biti ružičasto mjesto, uz pravu <a { $theme_attrs }>temu</a> dodatka.
+firefox-home-billionaire-free = Bez milijardera više od 20 godina
+firefox-home-firefox-was-created = { -brand-name-firefox } je kreiran 2004. godine od strane { -brand-name-mozilla } kao brža, privatnija i prilagodljivija alternativa preglednicima poput Internet Explorera. Danas smo i dalje neprofitna organizacija, još uvijek nismo u vlasništvu milijardera i još uvijek radimo na tome da internet - i vrijeme koje provodite na njemu - učinimo boljim.
+firefox-home-set-firefox-as = Postavite { -brand-name-firefox } kao zadani preglednik.
+firefox-home-firefox-on-desktop = { -brand-name-firefox } na računaru i mobilnim uređajima.
 
 # Used as accessible alternative text for an image
 
+firefox-home-happy-toggle = Sretna promjena.
+firefox-home-multiple-cursors = Više kursora.
+firefox-home-lots-of-open = Mnogo otvorenih tabova.
+firefox-home-shield-and-hand = Štit i ruka štite tab preglednika.
+firefox-home-a-human-brain = Ljudski mozak povezan sa svijetom.
+firefox-home-desktop-laptop-and-phone = Računar, laptop i telefon.
+firefox-home-firefox-in-dark = { -brand-name-firefox } u tamnom režimu.
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } na računaru.
