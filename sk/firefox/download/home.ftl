@@ -31,6 +31,21 @@ firefox-home-work-smarter = Pracujte inteligentnejšie, bavte sa viac
 #   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
 firefox-home-explore-the-possibilities = Preskúmajte možnosti výskumu, nakupovania a ďalších funkcií, ktoré ponúkajú <a { $extensions_attrs }>rozšírenia</a>.
 firefox-home-bye-boring = Zbohom, nudný prehliadač
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = Internet môže byť ružový, ak máte správnu <a { $theme_attrs }>tému</a>.
+firefox-home-billionaire-free = Viac ako 20 rokov bez miliardárov
+firefox-home-firefox-was-created = Prehliadač { -brand-name-firefox } bol vytvorený v roku 2004 { -brand-name-mozilla(case: "ins") } ako rýchlejšia, súkromnejšia a prispôsobiteľnejšia alternatíva k prehliadačom, ako je Internet Explorer. Dnes sme stále nezisková organizácia, stále nás nevlastnia žiadni miliardári a stále pracujeme na tom, aby sme internet – a čas, ktorý na ňom trávite – vylepšili.
+firefox-home-set-firefox-as = Nastavte si { -brand-name-firefox } ako predvolený prehliadač.
+firefox-home-firefox-on-desktop = { -brand-name-firefox } na počítači aj mobile.
 
 # Used as accessible alternative text for an image
 
+firefox-home-happy-toggle = Šťastné prepínanie.
+firefox-home-multiple-cursors = Viacero kurzorov.
+firefox-home-lots-of-open = Veľa otvorených kariet.
+firefox-home-shield-and-hand = Štít a ruka chrániace kartu prehliadača.
+firefox-home-a-human-brain = Ľudský mozog spojený so svetom.
+firefox-home-desktop-laptop-and-phone = Stolný počítač, notebook a telefón.
+firefox-home-firefox-in-dark = { -brand-name-firefox } v tmavom režime.
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } na počítači.

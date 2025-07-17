@@ -9,9 +9,9 @@ firefox-home-take-control = 您的上网体验，由您来掌控。
 firefox-home-go-online = 上网更专注、更清爽、更自在。这款浏览器，恰如一阵清风。
 firefox-home-latest-features = { -brand-name-firefox } 最新功能
 firefox-home-dial-down = 驱散干扰
-firefox-home-block-ads = 设置可按需定制，并有丰富扩展可供下载，助力拦截广告、增强隐私。
+firefox-home-block-ads = 设置可按需定制，并有丰富扩展任您下载，助力拦截广告、增强隐私。
 firefox-home-multitasking = 事事并行不悖
-firefox-home-go-into-reading = 进入阅读模式、小窗播放视频。更有垂直标签页和标签页群组帮衬，一切井井有条。
+firefox-home-go-into-reading = 进入阅读模式、小窗播放视频。更有垂直标签页和标签页群组帮衬，浏览体验井井有条。
 firefox-home-keep-tabs-on = 全局掌控标签页
 firefox-home-close-duplicates = 从搜索、固定标签页，到关闭重复项，标签页的用法一如其数量，几无上限。
 firefox-home-see-release = 查看发行说明
@@ -31,6 +31,9 @@ firefox-home-work-smarter = 巧妙工作，尽兴玩
 #   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
 firefox-home-explore-the-possibilities = 高深如科研，日常如购物，都能用<a { $extensions_attrs }>扩展</a>来拓展新招式。
 firefox-home-bye-boring = 一改单调，倍有范
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = 搭配合心意的<a { $theme_attrs }>主题</a>附加组件，上网自有好心情。
 firefox-home-billionaire-free = 独立自主 20+ 载
 firefox-home-firefox-was-created = { -brand-name-mozilla } 于 2004 年打造了 { -brand-name-firefox }，凭借更快、更私密、可定制等优点，为用户提供除 Internet Explorer 等浏览器外的另一选择。时至今日，我们依旧不为营利，依旧独立自主，依旧致力于让互联网更美好、让上网时光更愉悦。
 firefox-home-set-firefox-as = 将 { -brand-name-firefox } 设为默认浏览器。
