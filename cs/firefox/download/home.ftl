@@ -6,6 +6,7 @@
 ## URL: https://www-dev.springfield.moz.works/
 
 firefox-home-take-control = Převezměte kontrolu nad svým internetem
+firefox-home-go-online = Na internet se připojujte s menším množstvím rušivých vlivů, hluku a stresu. Berte nás jako závan čerstvého vzduchu.
 
 # Used as accessible alternative text for an image
 
