@@ -7,6 +7,7 @@
 
 firefox-home-take-control = Tomá el control de tu internet
 firefox-home-latest-features = Últimas características de { -brand-name-firefox }
+firefox-home-dial-down = Bajá el nivel de ruido
 firefox-home-block-ads = Bloqueá publicidades y mejorá tu privacidad con configuraciones personalizables y toneladas de extensiones descargables.
 firefox-home-multitasking = ¿Multitarea?
 firefox-home-go-into-reading = Entrá en el modo lectura, mirá videos emergentes y organizate mejor con pestañas verticales y grupos de pestañas.
