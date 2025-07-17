@@ -27,6 +27,13 @@ firefox-home-your-stuff = A dolgai, az összes képernyőjén
 firefox-home-get-firefox-mobile = Szerezze be a mobilos { -brand-name-firefox }ot, így jelszavait, lapjait és előzményeit – valamint az adatvédelmét és biztonságát, amelyre támaszkodik – bárhová magával viheti.
 firefox-home-really-make-it = *Valóban* tegye a sajátjává
 firefox-home-work-smarter = Dolgozzon okosabban, játsszon keményebben
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = Fedezze fel a kutatási, vásárlási és egyéb <a { $extensions_attrs }>kiegészítők</a> lehetőségeit.
+firefox-home-bye-boring = Viszlát, unalmas böngésző
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = Az internet rózsás hely lehet a megfelelő <a { $theme_attrs }>témával</a>.
 
 # Used as accessible alternative text for an image
 
