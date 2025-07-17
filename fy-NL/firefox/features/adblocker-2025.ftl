@@ -7,6 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Advertinsjeblokkearring
+# Page Title
+features-adblocker-meta-title-v2 = Oer adblockers
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Oer adblockers – { -brand-name-firefox }
 # HTML page description
