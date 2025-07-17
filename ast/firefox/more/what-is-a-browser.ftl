@@ -8,5 +8,5 @@
 # HTML page title
 what-is-a-browser-what-is-a-web = ¿Qué ye un restolador web?
 # HTML page description
-what-is-a-browser-a-web-browser = Un restolador web llévate a tolos sitios d'internet permitiéndote ver testu, imáxenes y vídeos de cualesquier llugar del mundu.
+what-is-a-browser-a-web-browser = Un restolador web llévate a tolos sitios d'internet permitiéndote ver testu, imáxenes ya vídeos de cualesquier llugar del mundu.
 what-is-a-browser-how-does-a-web = ¿Cómo funciona un restolador?

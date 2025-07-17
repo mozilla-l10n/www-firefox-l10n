@@ -5,13 +5,9 @@
 
 ### URL: https://www-dev.springfield.moz.works/404/
 
-not-found-page-not-found-page-page-not-found = 404: Nun s’atopó la páxina
+not-found-page-not-found-page-page-not-found = 404: nun s’atopó la páxina
 not-found-page-sorry-we-cant-find-that-page = Nun podemos atopar la páxina
-not-found-page-were-all-about-a-healthy-internet = Curiamos qu'internet seya saludable mas a vegaes pue haber URLs estropiaes.
 not-found-page-go-back = Dir p'atrás
-# Variables:
-#   $about (url) - link to https://www.mozilla.org/about/
-not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Llei más</a> tocante a { -brand-name-mozilla }, la organización ensin ánimu de llucru darrera de { -brand-name-firefox }.
 # Variables:
 #   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Baxa</a>'l restolador { -brand-name-firefox } pal móvil u ordenador

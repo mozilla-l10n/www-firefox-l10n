@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-error-page-error-page-internal-server-error = 500: Fallu internu del sirvidor
+error-page-error-page-internal-server-error = 500: error internu del sirvidor
 error-page-something-went-wrong = Asocedió daqué malo
 error-page-its-probably-just-a-server-error = Quiciabes seya namás un fallu del sirvidor mas tamos trabayando n'igualu.
 # Variables:
