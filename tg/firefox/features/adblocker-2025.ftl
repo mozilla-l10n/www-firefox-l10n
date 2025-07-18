@@ -7,6 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Манъкунии реклама
+# Page Title
+features-adblocker-meta-title-v2 = Дар бораи «Манъкунандаи реклама»
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Дар бораи васоити манъкунии реклама - «{ -brand-name-firefox }»
 # HTML page description
