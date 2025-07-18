@@ -33,7 +33,7 @@ firefox-home-explore-the-possibilities = 高深如科研，日常如购物，都
 firefox-home-bye-boring = 一改单调，倍有范
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
-firefox-home-the-internet-can = 搭配合心意的<a { $theme_attrs }>主题</a>附加组件，上网自有好心情。
+firefox-home-the-internet-can = 搭配心仪的<a { $theme_attrs }>主题</a>附加组件，上网自有好心情。
 firefox-home-billionaire-free = 独立自主 20+ 载
 firefox-home-firefox-was-created = { -brand-name-mozilla } 于 2004 年打造了 { -brand-name-firefox }，凭借更快、更私密、可定制等优点，为用户提供除 Internet Explorer 等浏览器外的另一选择。时至今日，我们依旧不为营利，依旧独立自主，依旧致力于让互联网更美好、让上网时光更愉悦。
 firefox-home-set-firefox-as = 将 { -brand-name-firefox } 设为默认浏览器。
