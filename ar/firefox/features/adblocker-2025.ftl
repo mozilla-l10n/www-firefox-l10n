@@ -7,7 +7,8 @@
 # Breadcrumb navigation
 features-adblocker-ad-blocking = حجب الإعلانات
 
-# Page Title
+
+# Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = نبذة عن حاجبات الإعلانات - { -brand-name-firefox }
 
 # HTML page description

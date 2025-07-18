@@ -7,7 +7,8 @@
 # Breadcrumb navigation
 features-adblocker-ad-blocking = विज्ञापन अवरोधन
 
-# Page Title
+
+# Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = ऐड ब्लॉकर के बारे में - { -brand-name-firefox }
 
 # HTML page description

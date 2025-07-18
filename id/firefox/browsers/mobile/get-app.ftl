@@ -6,8 +6,6 @@
 
 firefox-mobile-download-the-firefox-browser = Unduh { -brand-name-firefox-browser } di ponsel Anda untuk { -brand-name-ios } dan { -brand-name-android }
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } untuk Seluler memblokir lebih dari 2000 pelacak secara bawaan, memberi Anda privasi yang pantas Anda dapatkan dan kecepatan yang Anda butuhkan di peramban seluler pribadi.
-firefox-mobile-firefox = { -brand-name-firefox }
-firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Dapatkan peramban seluler yang dibuat untuk Anda, bukan pengiklan
 firefox-mobile-check-out-firefox-again-its = Lihat { -brand-name-firefox } kembali. Cepat, privat, dan berpihak pada Anda. Untuk { -brand-name-ios } dan { -brand-name-android }.
 firefox-mobile-get-firefox-mobile = Dapatkan { -brand-name-firefox } Mobile
