@@ -17,6 +17,7 @@ firefox-home-close-duplicates = Lat att duplikat, søk og fest opne faner — de
 firefox-home-see-release = Sjå versjonsnotatet
 firefox-home-get-the-browser = Skaff deg nettlesaren som hjelper deg med å få jobben gjort
 firefox-home-block-ad-trackers = Blokker annonsesporarar utan å løfte ein finger
+firefox-home-ad-trackers-make = Annonsesporarar gjer at nettsider blir lasta saktare. Med { -brand-name-firefox } treng du ikkje å rote rundt i innstillingane for å fikse dette, fordi vi automatisk blokkerer dei fleste sporarar.
 
 # Used as accessible alternative text for an image
 
