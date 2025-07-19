@@ -5,10 +5,12 @@
 
 ## URL: https://www-dev.springfield.moz.works/
 
+firefox-home-take-control = Prendi il controllo della tua navigazione
 firefox-home-go-online = Connettiti con meno distrazioni, confusione e stress: prendi una boccata d’aria fresca.
 firefox-home-latest-features = Funzionalità più recenti di { -brand-name-firefox }
 firefox-home-dial-down = Riduci la confusione
 firefox-home-block-ads = Blocca le pubblicità e proteggi la tua privacy con impostazioni personalizzabili e tantissime estensioni disponibili.
+firefox-home-multitasking = Sei multitasking?
 firefox-home-keep-tabs-on = Tieni sotto controllo tutte le tue schede
 firefox-home-see-release = Leggi le note di versione
 firefox-home-block-ad-trackers = Blocca le pubblicità traccianti senza muovere un dito
