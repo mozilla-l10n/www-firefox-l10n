@@ -7,6 +7,7 @@
 
 firefox-home-take-control = Интернети худро дар зери назорати шахсӣ истифода баред
 firefox-home-latest-features = Ҳусусиятҳои навтарини «{ -brand-name-firefox }»
+firefox-home-your-stuff = Маводи шумо, дар ҳамаи экранҳои шумо
 
 # Used as accessible alternative text for an image
 
