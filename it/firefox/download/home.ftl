@@ -19,6 +19,10 @@ firefox-home-get-the-browser = Scarica il browser che ti aiuta a svolgere al meg
 firefox-home-block-ad-trackers = Blocca le pubblicità traccianti senza muovere un dito
 firefox-home-ad-trackers-make = Gli annunci pubblicitari traccianti rallentano il caricamento delle pagine web. Con { -brand-name-firefox } non dovrai più cercare tra le impostazioni per risolvere il problema, perché la maggior parte degli elementi traccianti vengono bloccati automaticamente.
 firefox-home-swear-off = Liberati dalle distrazioni
+# Variables
+#   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
+#   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
+firefox-home-stay-focused = Rimani concentrato con estensioni come <a { $tomato_clock_attrs }>Tomato Clock</a> e <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a>: fanno parte dei componenti aggiuntivi "Consigliati", premiati per la loro eccezionale sicurezza e funzionalità.
 firefox-home-your-stuff = I tuoi dati salvati su tutti i tuoi dispositivi
 firefox-home-get-firefox-mobile = Installa { -brand-name-firefox } per dispositivi mobili: password, schede e cronologia, insieme alla privacy e alla sicurezza su cui fai affidamento, ti accompagneranno ovunque tu vada.
 firefox-home-really-make-it = Rendi il browser *davvero* tuo
