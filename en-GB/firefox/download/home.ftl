@@ -36,6 +36,16 @@ firefox-home-bye-boring = Bye, boring browser
 firefox-home-the-internet-can = The internet can be a rosy place, with the right add-on <a { $theme_attrs }>theme</a>.
 firefox-home-billionaire-free = Billionaire-free for 20+ years
 firefox-home-firefox-was-created = { -brand-name-firefox } was created in 2004 by { -brand-name-mozilla } as a faster, more private, and customisable alternative to browsers like Internet Explorer. Today, we are still not-for-profit, still not owned by any billionaires and still working to make the internet — and the time you spend on it — better.
+firefox-home-set-firefox-as = Set { -brand-name-firefox } as your default browser.
+firefox-home-firefox-on-desktop = { -brand-name-firefox } on desktop and mobile.
 
 # Used as accessible alternative text for an image
 
+firefox-home-happy-toggle = Happy toggle.
+firefox-home-multiple-cursors = Multiple cursors.
+firefox-home-lots-of-open = Lots of open tabs.
+firefox-home-shield-and-hand = Shield and hand protecting a browser tab.
+firefox-home-a-human-brain = A human brain connected to the world.
+firefox-home-desktop-laptop-and-phone = Desktop, laptop and phone.
+firefox-home-firefox-in-dark = { -brand-name-firefox } in dark mode.
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } on a desktop.
