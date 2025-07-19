@@ -13,6 +13,7 @@ firefox-home-work-smarter = Боақлтар кор кунед, ҷиддитар
 # Variables
 #   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
 firefox-home-explore-the-possibilities = Имкониятҳои таҳқиқотӣ, харидорӣ ва ғайраро ба воситаи <a { $extensions_attrs }>васеъшавиҳо</a> баррасӣ намоед.
+firefox-home-bye-boring = Хуш бош, браузери зиқовар!
 
 # Used as accessible alternative text for an image
 
