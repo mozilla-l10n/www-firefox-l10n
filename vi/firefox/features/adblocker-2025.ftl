@@ -7,6 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Chặn quảng cáo
+# Page Title
+features-adblocker-meta-title-v2 = Về trình chặn quảng cáo
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Về chặn quảng cáo - { -brand-name-firefox }
 # HTML page description
