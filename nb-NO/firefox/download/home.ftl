@@ -6,6 +6,7 @@
 ## URL: https://www-dev.springfield.moz.works/
 
 firefox-home-take-control = Ta kontroll over ditt internett
+firefox-home-go-online = Gå på nett med færre distraksjoner, støy og stress. Tenk på oss som et friskt pust.
 firefox-home-latest-features = De nyeste { -brand-name-firefox }-funksjoner
 firefox-home-dial-down = Skru ned støyen
 firefox-home-block-ads = Blokker annonser og forbedre personvernet ditt med tilpassbare innstillinger og massevis av nedlastbare utvidelser.
