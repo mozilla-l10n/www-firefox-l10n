@@ -8,7 +8,7 @@
 # Breadcrumb navigation
 features-adblocker-ad-blocking = რეკლამის შეზღუდვა
 # Page Title
-features-adblocker-meta-title-v2 = სარეკლამო ბლოკატორების შესახებ
+features-adblocker-meta-title-v2 = რეკლამის შემზღუდავების შესახებ
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = რეკლამის შემზღუდავები – { -brand-name-firefox }
 # HTML page description
