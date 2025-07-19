@@ -7,6 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Blocada del avisos publicitari
+# Page Title
+features-adblocker-meta-title-v2 = Re le blocatores de avisos publicitari
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Re Blocada del avisos publicitari - { -brand-name-firefox }
 # HTML page description
