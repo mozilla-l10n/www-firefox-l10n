@@ -11,7 +11,9 @@ firefox-home-latest-features = Funzionalità più recenti di { -brand-name-firef
 firefox-home-dial-down = Riduci la confusione
 firefox-home-block-ads = Blocca le pubblicità e proteggi la tua privacy con impostazioni personalizzabili e tantissime estensioni disponibili.
 firefox-home-multitasking = Sei multitasking?
+firefox-home-go-into-reading = Passa alla Modalità lettura, apri i video in primo piano e organizza le tue attività con le schede verticali e i gruppi di schede.
 firefox-home-keep-tabs-on = Tieni sotto controllo tutte le tue schede
+firefox-home-close-duplicates = Appunta le schede, chiudi quelle duplicate o cerca tra quelle aperte: ci sono possibilità quasi infinite per il numero quasi infinito di schede che tieni aperte.
 firefox-home-see-release = Leggi le note di versione
 firefox-home-get-the-browser = Scarica il browser che ti aiuta a svolgere al meglio le tue attività
 firefox-home-block-ad-trackers = Blocca le pubblicità traccianti senza muovere un dito
@@ -28,6 +30,7 @@ firefox-home-bye-boring = Addio, browser noiosi
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
 firefox-home-the-internet-can = Internet può essere un posto splendido con il giusto componente aggiuntivo per il <a { $theme_attrs }>tema</a> del browser.
+firefox-home-billionaire-free = Liberi dai miliardari da più di 20 anni
 firefox-home-firefox-was-created = { -brand-name-firefox } è stato creato nel 2004 da { -brand-name-mozilla } come un’alternativa più veloce, privata e personalizzabile a browser come Internet Explorer. Oggi siamo ancora un’organizzazione senza fini di lucro, non siamo proprietà di nessun miliardario e continuiamo a lavorare per migliorare Internet e valorizzare il tempo che ci dedichi.
 firefox-home-set-firefox-as = Imposta { -brand-name-firefox } come browser predefinito.
 firefox-home-firefox-on-desktop = { -brand-name-firefox } su computer desktop e dispositivi mobili.
