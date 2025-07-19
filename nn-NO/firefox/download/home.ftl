@@ -9,7 +9,10 @@ firefox-home-take-control = Ta kontroll over ditt internett
 firefox-home-go-online = Gå på nett med færre distraksjonar, støy og stress. Tenk på oss som ein friskt pust.
 firefox-home-latest-features = Dei nyaste funksjonane i { -brand-name-firefox }
 firefox-home-dial-down = Skru ned støyen
+firefox-home-block-ads = Blokkar annonsar og forbetre personvernet ditt med tilpassbare innstillingar og massevis av nedlastbare utvidingar.
 firefox-home-multitasking = Multitasking?
+firefox-home-go-into-reading = Gå inn i lesemodus, sprett ut videoar og bli meir organisert med vertikale faner og fanegrupper.
+firefox-home-keep-tabs-on = Hald oversikt over alle fanane dine
 
 # Used as accessible alternative text for an image
 
