@@ -6,7 +6,7 @@
 ## URL: https://www-dev.springfield.moz.works/
 
 firefox-home-take-control = Tomá el control de tu internet
-firefox-home-go-online = Conectate a Internet con menos distracciones, ruido y estrés. Pensá en nosotros como un soplo de aire fresco.
+firefox-home-go-online = Conectate a Internet con menos distracciones, confusión y estrés. Pensá en nosotros como un soplo de aire fresco.
 firefox-home-latest-features = Últimas características de { -brand-name-firefox }
 firefox-home-dial-down = Bajá el nivel de ruido
 firefox-home-block-ads = Bloqueá publicidades y mejorá tu privacidad con configuraciones personalizables y toneladas de extensiones descargables.
