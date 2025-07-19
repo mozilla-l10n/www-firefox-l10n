@@ -11,12 +11,17 @@ firefox-home-latest-features = De nyeste { -brand-name-firefox }-funksjoner
 firefox-home-dial-down = Skru ned støyen
 firefox-home-block-ads = Blokker annonser og forbedre personvernet ditt med tilpassbare innstillinger og massevis av nedlastbare utvidelser.
 firefox-home-multitasking = Fleroppgavekjøring?
+firefox-home-go-into-reading = Gå inn i lesemodus, sprett ut videoer og bli mer organisert med vertikale faner og fanegrupper.
 firefox-home-keep-tabs-on = Hold oversikt over alle fanene dine
 firefox-home-close-duplicates = Lukk duplikater, søk og fest åpne faner — det finnes nesten uendelige muligheter for det nesten uendelige antallet faner du har åpne.
 firefox-home-see-release = Se versjonsnotat
 firefox-home-get-the-browser = Skaff deg nettleseren som hjelper deg med å få jobben gjort
 firefox-home-block-ad-trackers = Blokker annonsesporere uten å løfte en finger
 firefox-home-ad-trackers-make = Annonsesporere gjør at nettsider lastes saktere. Med { -brand-name-firefox } trenger du ikke å rote rundt i innstillingene for å fikse dette, fordi vi automatisk blokkerer de fleste sporere.
+# Variables
+#   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
+#   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
+firefox-home-stay-focused = Hold fokus med utvidelser som <a { $tomato_clock_attrs }>Tomato Clock</a> og <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — de er anbefalt av oss, noe som tilsvarer gullstjerne for eksepsjonell sikkerhet og funksjonalitet.
 firefox-home-your-stuff = Dine ting, på alle skjermene dine
 firefox-home-billionaire-free = Milliardærfri i over 20 år
 firefox-home-set-firefox-as = Sett { -brand-name-firefox } som standard nettleser.
