@@ -23,6 +23,8 @@ firefox-home-ad-trackers-make = Annonsesporere gjør at nettsider lastes saktere
 #   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
 firefox-home-stay-focused = Hold fokus med utvidelser som <a { $tomato_clock_attrs }>Tomato Clock</a> og <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — de er anbefalt av oss, noe som tilsvarer gullstjerne for eksepsjonell sikkerhet og funksjonalitet.
 firefox-home-your-stuff = Dine ting, på alle skjermene dine
+firefox-home-get-firefox-mobile = Få { -brand-name-firefox } mobil, så blir passordene dine, fanene, nettleserloggen – og personvernet og sikkerheten du stoler på – med deg uansett hvor du går.
+firefox-home-really-make-it = Gjør det *virkelig* til ditt eget
 firefox-home-billionaire-free = Milliardærfri i over 20 år
 firefox-home-set-firefox-as = Sett { -brand-name-firefox } som standard nettleser.
 firefox-home-firefox-on-desktop = { -brand-name-firefox } på datamaskin og mobil.
