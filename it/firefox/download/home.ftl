@@ -13,6 +13,7 @@ firefox-home-block-ads = Blocca le pubblicità e proteggi la tua privacy con imp
 firefox-home-multitasking = Sei multitasking?
 firefox-home-keep-tabs-on = Tieni sotto controllo tutte le tue schede
 firefox-home-see-release = Leggi le note di versione
+firefox-home-get-the-browser = Scarica il browser che ti aiuta a svolgere al meglio le tue attività
 firefox-home-block-ad-trackers = Blocca le pubblicità traccianti senza muovere un dito
 firefox-home-ad-trackers-make = Gli annunci pubblicitari traccianti rallentano il caricamento delle pagine web. Con { -brand-name-firefox } non dovrai più cercare tra le impostazioni per risolvere il problema, perché la maggior parte degli elementi traccianti vengono bloccati automaticamente.
 firefox-home-swear-off = Liberati dalle distrazioni
@@ -28,7 +29,16 @@ firefox-home-bye-boring = Addio, browser noiosi
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
 firefox-home-the-internet-can = Internet può essere un posto splendido con il giusto componente aggiuntivo per il <a { $theme_attrs }>tema</a> del browser.
 firefox-home-firefox-was-created = { -brand-name-firefox } è stato creato nel 2004 da { -brand-name-mozilla } come un’alternativa più veloce, privata e personalizzabile a browser come Internet Explorer. Oggi siamo ancora un’organizzazione senza fini di lucro, non siamo proprietà di nessun miliardario e continuiamo a lavorare per migliorare Internet e valorizzare il tempo che ci dedichi.
+firefox-home-set-firefox-as = Imposta { -brand-name-firefox } come browser predefinito.
+firefox-home-firefox-on-desktop = { -brand-name-firefox } su computer desktop e dispositivi mobili.
 
 # Used as accessible alternative text for an image
 
+firefox-home-happy-toggle = Interruttore sorridente.
 firefox-home-multiple-cursors = Cursori multipli.
+firefox-home-lots-of-open = Browser con molte schede aperte.
+firefox-home-shield-and-hand = Uno scudo e una mano che proteggono una scheda del browser.
+firefox-home-a-human-brain = Un cervello connesso con il mondo.
+firefox-home-desktop-laptop-and-phone = Computer desktop, portatile e dispositivi mobili.
+firefox-home-firefox-in-dark = { -brand-name-firefox } in modalità scura.
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } su un computer desktop.
