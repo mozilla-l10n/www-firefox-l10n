@@ -46,6 +46,7 @@ features-adblocker-if-seeing-too-many-ads = Hvis det å se for mange annonser ø
 features-adblocker-do-it-yourself-custom = Tilpasset modus med egne innstillinger
 features-adblocker-the-custom-setting-gives = Innstillingene under Tilpasset gir deg det ultimate valget. Du kan bestemme hva du blokkerer, inkludert sporingsprogrammer, infokapsler og mer. Hvis du tillater infokapsler fra et nettsted, vil du automatisk være i tilpasset modus.
 features-adblocker-cover-your-trail-block = Skjul dine spor, blokker sporere
+features-adblocker-click-on-the-trackers = Klikk på Sporere-ruten, så kan du blokkere sporere på to måter. Én måte å blokkere sporere på er å gjøre det når du jobber i et privat vindu. En annen måte å gjøre det på er å blokkere sporere i alle vinduer. Husk at hvis du velger å alltid blokkere sporere, kan det hende at noen sider ikke lastes inn på rett måte.
 features-adblocker-take-a-bite-out-of-cookies = Gjør infokapsler mere spiselige
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/storage

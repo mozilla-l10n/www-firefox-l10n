@@ -19,6 +19,33 @@ firefox-home-get-the-browser = Skaffa webbläsaren som hjälper dig att få jobb
 firefox-home-block-ad-trackers = Blockera annonsspårare utan att lyfta ett finger
 firefox-home-ad-trackers-make = Annonsspårare gör att webbsidor laddas långsammare. Med { -brand-name-firefox } behöver du inte leta i inställningarna för att åtgärda det, eftersom vi automatiskt blockerar de flesta spårare.
 firefox-home-swear-off = Gör dig av med distraktioner
+# Variables
+#   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
+#   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
+firefox-home-stay-focused = Håll fokus med tillägg som <a { $tomato_clock_attrs }>Tomato Clock</a> och <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — de rekommenderas, vilket är som vår guldstjärna för att de har exceptionell säkerhet och funktionalitet.
+firefox-home-your-stuff = Dina grejer, på alla dina skärmar
+firefox-home-get-firefox-mobile = Skaffa { -brand-name-firefox } för mobil så att du har dina lösenord, flikar och din historik — och den integritet och säkerhet du litar på — med dig vart du än går.
+firefox-home-really-make-it = Gör den *verkligen* till din egen
+firefox-home-work-smarter = Jobba smartare, spela hårdare
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = Utforska möjligheterna för forskning, shopping och mer i <a { $extensions_attrs }>tillägg</a>.
+firefox-home-bye-boring = Hej då, tråkig webbläsare
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = Internet kan vara en ljus plats, med rätt tilläggstema.
+firefox-home-billionaire-free = Miljardärsfri i över 20 år
+firefox-home-firefox-was-created = { -brand-name-firefox } skapades 2004 av { -brand-name-mozilla } som ett snabbare, mer privat och anpassningsbart alternativ till webbläsare som Internet Explorer. Idag är vi fortfarande ideella, ägs fortfarande inte av några miljardärer och arbetar fortfarande för att göra internet — och den tid du spenderar på det — bättre.
+firefox-home-set-firefox-as = Ställ in { -brand-name-firefox } som din standardwebbläsare.
+firefox-home-firefox-on-desktop = { -brand-name-firefox } på dator och mobil.
 
 # Used as accessible alternative text for an image
 
+firefox-home-happy-toggle = Glad växel.
+firefox-home-multiple-cursors = Flera muspekare.
+firefox-home-lots-of-open = Massor av öppna flikar.
+firefox-home-shield-and-hand = Sköld och hand som skyddar en webbläsarflik.
+firefox-home-a-human-brain = En mänsklig hjärna kopplad till världen.
+firefox-home-desktop-laptop-and-phone = Stationär dator, bärbar dator och telefon.
+firefox-home-firefox-in-dark = { -brand-name-firefox } i mörkt läge.
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } på en dator.

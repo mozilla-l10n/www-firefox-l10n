@@ -7,6 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Annonsblockering
+# Page Title
+features-adblocker-meta-title-v2 = Om annonsblockerare
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Om annonsblockerare - { -brand-name-firefox }
 # HTML page description
