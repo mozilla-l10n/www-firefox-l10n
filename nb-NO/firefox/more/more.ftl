@@ -28,4 +28,6 @@ we-worry-about = Vi bekymrer oss for datasikkerheten din, slik at du slipper det
 incognito-browser-what = Inkognito-nettleser: Hva det egentlig betyr
 firefox-calls-it = { -brand-name-firefox } kaller det privat nettlesing, { -brand-name-chrome } kaller det inkognitomodus. Begge lar deg surfe på nettet uten å lagre nettleserhistorikken din.
 firefox-more-fingerprinter-blocking = Blokkering av fingeravtrykksporere
+firefox-more-fingerprinting-is-a = Fingeravtrykksporing er en type sporing på nett som er mer inngripende enn vanlig infokapselbasert sporing — det er derfor { -brand-name-firefox-browser } blokkerer det.
 firefox-more-translate-the-web = Oversett nettet
+firefox-more-translate-more-than = Oversett mer enn 100 språk til ditt språk direkte i { -brand-name-firefox-browser } – enklere enn noensinne.
