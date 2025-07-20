@@ -34,6 +34,15 @@ firefox-home-bye-boring = Farvel, kjedelege nettlesar
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
 firefox-home-the-internet-can = Internett kan vere ein flott plass – med rett tilleggs<a { $theme_attrs }>tema</a>.
+firefox-home-billionaire-free = Milliardærfri i over 20 år
+firefox-home-firefox-was-created = { -brand-name-firefox } vart oppretta i 2004 av { -brand-name-mozilla } som eit raskare, meir privat og brukartilpassa alternativ til nettlesarar som Internet Explorer. I dag er vi framleis ein ideell organisasjon, framleis ikkje eigd av milliardærar, og vi jobbar framleis med å gjere internett — og tida du brukar på det — betre.
+firefox-home-set-firefox-as = Bruk { -brand-name-firefox } som standard nettlesar.
+firefox-home-firefox-on-desktop = { -brand-name-firefox } på datamaskin og mobil.
 
 # Used as accessible alternative text for an image
 
+firefox-home-happy-toggle = Gladbrytar.
+firefox-home-multiple-cursors = Fleire musepeikarar.
+firefox-home-lots-of-open = Mange opne faner.
+firefox-home-shield-and-hand = Skjold og hand som beskyttar ei nettlesarfane.
+firefox-home-a-human-brain = Ein menneskeleg hjerne kopla til verda.
