@@ -42,6 +42,7 @@ is-firefox-safe = Er { -brand-name-firefox } trygg?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+why-is-firefox = Hvorfor er { -brand-name-firefox } så treg?
 does-firefox-use = Bruker { -brand-name-firefox } { -brand-name-google }?
 
 # Variables:
