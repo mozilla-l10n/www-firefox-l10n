@@ -43,6 +43,9 @@ does-firefox-use = Bruker { -brand-name-firefox } { -brand-name-google }?
 
 firefoxs-default-search = { -brand-name-google } er standard søkemotor i { -brand-name-firefox }, som betyr at du kan søke på nettet direkte fra adressefeltet. <a href="{ $url }">Les mer om søkemotorinnstillinger og endring av standardinnstillinger.</a>
 does-firefox-have = Har { -brand-name-firefox } en innebygd VPN?
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } har ikke innebygd VPN (virtuelt privat nettverk), men { -brand-name-mozilla } har utviklet et produkt kalt <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> som du kan bruke i tillegg til den private { -brand-name-firefox-browser }. Det kan beskytte tilkoblingen din på Wi-Fi og skjule IP-adressen din.
 related-questions-ip = Relaterte spørsmål: skjuler { -brand-name-firefox } IP-adressen din
 who-owns-firefox = Hvem eier { -brand-name-firefox }?
 
@@ -50,3 +53,4 @@ who-owns-firefox = Hvem eier { -brand-name-firefox }?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } er laget av { -brand-name-mozilla-corporation }, et heleid datterselskap av den ideelle organisasjonen <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> og styres av prinsippene i { -brand-name-mozilla }-manifestet. Les mer om skaperen av { -brand-name-firefox } <a href="{ $url2 }">her.</a>
