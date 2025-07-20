@@ -47,13 +47,14 @@ is-firefox-safe = Er { -brand-name-firefox } trygg?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
-not-only-is = Ikke bare er { -brand-name-firefox } trygt å bruke, det bidrar også til å holde dataene og privat informasjon trygg. { -brand-name-firefox-browser } blokkerer automatisk kjente tredjepartssporere, sporing via sosiale medier, kryptominere og fingeravtrykksporing fra å samle inn dataene dine. <a href="{ $url }">Les mer om personvernet i produktene våre.</a>
+not-only-is = Ikke bare er { -brand-name-firefox } trygt å bruke, det bidrar også til å holde dataene og privat informasjon trygg. { -brand-name-firefox-browser } blokkerer automatisk kjente tredjepartssporere, sporing via sosiale medier, kryptoutvinnere og fingeravtrykksporing fra å samle inn dataene dine. <a href="{ $url }">Les mer om personvernet i produktene våre.</a>
 related-questions-safe = Relaterte spørsmål: er { -brand-name-firefox } bra for personvernet, er { -brand-name-firefox } sikkert, er { -brand-name-firefox } bedre for personvernet
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 why-is-firefox = Hvorfor er { -brand-name-firefox } så treg?
+firefox-isnt-slow = { -brand-name-firefox } er ikke treg … nå. I 2017 bygde vi nettlesermotoren vår (kalt Quantum) helt på nytt, for å sikre at { -brand-name-firefox } kunne konkurrere med andre store nettlesere. I tillegg hjelper sporingsblokkerne våre sidene med å laste enda raskere. Så { -brand-name-firefox } er lynrask – uten at det går på bekostning av personvernet ditt.
 is-firefox-chromium = Er { -brand-name-firefox } basert på { -brand-name-chromium }?
 firefox-is-not = { -brand-name-firefox } er ikke basert på { -brand-name-chromium } (nettleserprosjektet med åpen kildekode som ligger til grunn for { -brand-name-google } { -brand-name-chrome }). Faktisk er vi en av de siste store nettleserne som ikke er det. { -brand-name-firefox } kjører på vår Quantum-nettlesermotor som er spesielt utviklet for { -brand-name-firefox }, slik at vi kan sørge for at dataene dine håndteres respektfullt og holdes private.
 does-firefox-use = Bruker { -brand-name-firefox } { -brand-name-google }?
