@@ -19,6 +19,17 @@ firefox-home-get-the-browser = Skaff deg nettlesaren som hjelper deg med å få 
 firefox-home-block-ad-trackers = Blokker annonsesporarar utan å løfte ein finger
 firefox-home-ad-trackers-make = Annonsesporarar gjer at nettsider blir lasta saktare. Med { -brand-name-firefox } treng du ikkje å rote rundt i innstillingane for å fikse dette, fordi vi automatisk blokkerer dei fleste sporarar.
 firefox-home-swear-off = Bli kvitt distraksjonar
+# Variables
+#   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
+#   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
+firefox-home-stay-focused = Hald fokus med utvidingar som <a { $tomato_clock_attrs }>Tomato Clock</a> og <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — dei er tilrådde av oss, noko som svarer til gullstjerne for eksepsjonell tryggleik og funksjonalitet.
+firefox-home-your-stuff = Dine ting, på alle skjermane dine
+firefox-home-get-firefox-mobile = Få { -brand-name-firefox } mobil, så blir passorda dine, fanene, nettlesarloggen – og personvernet og sikkerheita du stolar på – med deg same kvar du går.
+firefox-home-really-make-it = Gjer det *verkeleg* til ditt eige
+firefox-home-work-smarter = Jobb smartare, spel hardare
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = Utforsk moglegheitene for forsking, shopping og meir i <a { $extensions_attrs }>utvidingar</a>.
 
 # Used as accessible alternative text for an image
 
