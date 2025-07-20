@@ -36,4 +36,11 @@ cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } bruk
 
 cookie-settings-category-analytics-heading = Analyse
 cookie-settings-category-analytics-what-are-subheading = Hva er analyseinfokapsler?
-cookie-settings-category-analytics-what-are-desc = Disse teknologiene samler inn informasjon om hvordan folk bruker nettsider, for eksempel hvilke sider som besøkes, hvilke lenker som klikkes på, og hvilke andre nettsteder besøket kommer fra.
+cookie-settings-category-analytics-what-are-desc = Disse teknologiene samler inn informasjon om hvordan folk bruker nettsteder, for eksempel hvilke sider som besøkes, hvilke lenker som klikkes på, og hvilke andre nettsteder besøket kommer fra.
+cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } bruker analysedata for å forstå hvordan brukere samhandler med våre nettsteder, slik at vi kan forbedre dem og rette opp eventuelle problemer som oppstår. Vi kan også bruke data fra infokapsler, enhetsinformasjon og IP-adresser for å hjelpe oss å forstå hvordan brukere engasjerer seg med våre produkter, tjenester, kommunikasjonen, nettsteder, nettkampanjer, enheter og andre plattformer. Vi samler kun inn analysedata og setter analysedata-infokapsler med ditt samtykke.
+
+## Privacy section
+
+cookie-settings-privacy-heading = Vår personvernerklæring
+cookie-settings-privacy-desc = Hvis du vil ha mer detaljert informasjon om de ulike typene informasjon som { -brand-name-mozilla } samler inn når du besøker nettstedene våre, finner du en lenke til personvernerklæringen vår nedenfor.
+cookie-settings-privacy-policy-link = Personvernerklæring
