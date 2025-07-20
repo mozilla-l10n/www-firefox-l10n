@@ -53,3 +53,6 @@ features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Infokapsler
 features-adblocker-in-firefox-you-can-block = I { -brand-name-firefox } kan du blokkere alle tredjeparts infokapsler eller bare de som er satt av sporere. Merk at blokkering av alle infokapsler kan forhindre enkelte nettsteder fra å fungere.
 features-adblocker-speed-up-thanks-to-ad = Høyere hastighet takket være annonseblokkere
 features-adblocker-in-some-cases-an-ad-blocker = I noen tilfeller kan en annonseblokkering hjelpe nettleseren din til å kjøre raskere. Når en annonse lastes inn, kan den gjøre nettstedet tregere. Samtidig tar det lengre tid å finne det du leter etter hvis du er for opptatt med å lukke enda en annonse.
+# Variables:
+#   $url (url) - link to https://www.firefox.com/
+features-adblocker-if-you-want-to-learn-more-v2 = Hvis du vil lese mer om annonseblokkering, finnes det hundrevis av annonseblokkeringsutvidelser tilgjengelig for { -brand-name-firefox } og andre nettlesere. Hvis du vil prøve ut annonseblokkeringene { -brand-name-firefox } bruker, <a href="{ $url }">klikk her for å laste ned</a> en nettleser som setter personvern først.
