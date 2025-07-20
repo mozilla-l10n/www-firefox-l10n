@@ -30,6 +30,10 @@ firefox-home-work-smarter = Jobb smartare, spel hardare
 # Variables
 #   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
 firefox-home-explore-the-possibilities = Utforsk moglegheitene for forsking, shopping og meir i <a { $extensions_attrs }>utvidingar</a>.
+firefox-home-bye-boring = Farvel, kjedelege nettlesar
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = Internett kan vere ein flott plass – med rett tilleggs<a { $theme_attrs }>tema</a>.
 
 # Used as accessible alternative text for an image
 
