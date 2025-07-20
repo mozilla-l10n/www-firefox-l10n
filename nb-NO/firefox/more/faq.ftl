@@ -47,7 +47,7 @@ is-firefox-safe = Er { -brand-name-firefox } trygg?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
-not-only-is = Ikke bare er { -brand-name-firefox } trygt å bruke, det bidrar også til å holde dataene og privat informasjon trygg. { -brand-name-firefox-browser } blokkerer automatisk kjente tredjepartssporere, sporere for sosiale medier, kryptominere og fingeravtrykksporing fra å samle inn dataene dine. <a href="{ $url }">Les mer om personvernet i produktene våre.</a>
+not-only-is = Ikke bare er { -brand-name-firefox } trygt å bruke, det bidrar også til å holde dataene og privat informasjon trygg. { -brand-name-firefox-browser } blokkerer automatisk kjente tredjepartssporere, sporing via sosiale medier, kryptominere og fingeravtrykksporing fra å samle inn dataene dine. <a href="{ $url }">Les mer om personvernet i produktene våre.</a>
 related-questions-safe = Relaterte spørsmål: er { -brand-name-firefox } bra for personvernet, er { -brand-name-firefox } sikkert, er { -brand-name-firefox } bedre for personvernet
 
 # Variables:
