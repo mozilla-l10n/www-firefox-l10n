@@ -54,7 +54,7 @@ related-questions-safe = Relaterte spørsmål: er { -brand-name-firefox } bra fo
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 why-is-firefox = Hvorfor er { -brand-name-firefox } så treg?
-firefox-isnt-slow = { -brand-name-firefox } er ikke treg … nå. I 2017 bygde vi nettlesermotoren vår (kalt Quantum) helt på nytt, for å sikre at { -brand-name-firefox } kunne konkurrere med andre store nettlesere. I tillegg hjelper sporingsblokkerne våre sidene med å laste enda raskere. Så { -brand-name-firefox } er lynrask – uten at det går på bekostning av personvernet ditt.
+firefox-isnt-slow = { -brand-name-firefox } er ikke treg … nå. I 2017 bygde vi nettlesermotoren vår (kalt Quantum) helt på nytt, for å sikre at { -brand-name-firefox } kunne konkurrere med andre store nettlesere. I tillegg hjelper våre sporingsblokkeringer sidene med å laste enda raskere. Så { -brand-name-firefox } er lynrask – uten at det går på bekostning av personvernet ditt.
 is-firefox-chromium = Er { -brand-name-firefox } basert på { -brand-name-chromium }?
 firefox-is-not = { -brand-name-firefox } er ikke basert på { -brand-name-chromium } (nettleserprosjektet med åpen kildekode som ligger til grunn for { -brand-name-google } { -brand-name-chrome }). Faktisk er vi en av de siste store nettleserne som ikke er det. { -brand-name-firefox } kjører på vår Quantum-nettlesermotor som er spesielt utviklet for { -brand-name-firefox }, slik at vi kan sørge for at dataene dine håndteres respektfullt og holdes private.
 does-firefox-use = Bruker { -brand-name-firefox } { -brand-name-google }?
@@ -63,7 +63,7 @@ does-firefox-use = Bruker { -brand-name-firefox } { -brand-name-google }?
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
 firefoxs-default-search = { -brand-name-google } er standard søkemotor i { -brand-name-firefox }, som betyr at du kan søke på nettet direkte fra adressefeltet. <a href="{ $url }">Les mer om søkemotorinnstillinger og endring av standardinnstillinger.</a>
-does-firefox-have = Har { -brand-name-firefox } en innebygd VPN?
+does-firefox-have = Har { -brand-name-firefox } innebygd VPN?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } har ikke innebygd VPN (virtuelt privat nettverk), men { -brand-name-mozilla } har utviklet et produkt kalt <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> som du kan bruke i tillegg til den private { -brand-name-firefox-browser }. Det kan beskytte tilkoblingen din på Wi-Fi og skjule IP-adressen din.
