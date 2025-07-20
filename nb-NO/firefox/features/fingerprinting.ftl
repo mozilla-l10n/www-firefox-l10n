@@ -10,3 +10,4 @@ features-fingerprinting-fingerprinting-is-a-desc = Fingeravtrykksporing er en ty
 features-fingerprinting-fingerprint-blocking = Blokkering av fingeravtrykksporere
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blokkerer fingeravtrykksporing
 features-fingerprinting-what-is-fingerprinting-body = Hva er fingeravtrykksporing?
+features-fingerprinting-fingerprinting-is-bad = Fingeravtrykksporing er dårlig for nettet

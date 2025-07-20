@@ -22,3 +22,4 @@ what-is-a-browser-sadly-not-all = Dessverre velger ikke alle nettleserprodusente
 # Variables:
 #   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
 what-is-a-browser-when-the-web-browser = Når nettleseren henter data fra en internettilkoblet server, bruker den et program som kalles en renderingsmotor for å oversette disse dataene til tekst og bilder. Disse dataene skrives i <a href="{ $html }">Hypertext Markup Language</a> (HTML), og nettlesere leser denne koden for å lage det vi ser, hører og opplever på internett.
+what-is-a-browser-understanding = Forstå personvern
