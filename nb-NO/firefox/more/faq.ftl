@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/more/faq/
 
+# HTML page title
+firefox-faq = { -brand-name-firefox } vanlige spørsmål
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
@@ -34,10 +36,13 @@
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+does-firefox-use = Bruker { -brand-name-firefox } { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+related-questions-ip = Relaterte spørsmål: skjuler { -brand-name-firefox } IP-adressen din
+who-owns-firefox = Hvem eier { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org

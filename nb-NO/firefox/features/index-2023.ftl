@@ -7,6 +7,8 @@
 
 # HTML page title
 features-index-firefox-browser-features = { -brand-name-firefox } nettleserfunksjoner
+# HTML page description
+features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } er den raske, lette, personvernfokuserte nettleseren som fungerer på alle enhetene dine.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } blir stadig raskere
 features-index-the-latest-browser-speed-benchmarks = De nyeste hastighetstestene for nettlesere viser at { -brand-name-firefox } er raskere enn noensinne.
 features-index-is-firefox-a-private-browser = Er { -brand-name-firefox } en privat nettleser?
