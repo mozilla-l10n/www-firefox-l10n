@@ -7,8 +7,14 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Annonseblokkering
+# Page Title
+features-adblocker-meta-title-v2 = Om annonseblokkerarar
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Om annonseblokkerarar - { -brand-name-firefox }
+# HTML page description
+features-adblocker-meta-desc = Finn ut korleis annonseblokkering fungerer, kva dei kan gjere for deg, og korleis { -brand-name-firefox } vernar deg mot sporingsprogram og infokapslar.
+features-adblocker-the-ad-blocker-a-tool = Annonseblokkeraren – eit verktøy for ei personleg og fokusert nettlesaroppleving.
+features-adblocker-in-todays-digital-world = I dagens digitale verd kan nettet vere travelt og rotete. Annonseblokkering er kraftige verktøy som gir deg kontroll over nettlesaropplevinga di, slik at du kan bestemme kva som blir vist på skjermen.
 features-adblocker-finding-the-right = Finn rett annonseblokkerar for deg
 features-adblocker-enhanced-privacy = Forbetra personvern og yting med { -brand-name-firefox }
 features-adblocker-why-use = Kvifor bruke ein annonseblokkerar?

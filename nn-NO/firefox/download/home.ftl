@@ -46,3 +46,6 @@ firefox-home-multiple-cursors = Fleire musepeikarar.
 firefox-home-lots-of-open = Mange opne faner.
 firefox-home-shield-and-hand = Skjold og hand som beskyttar ei nettlesarfane.
 firefox-home-a-human-brain = Ein menneskeleg hjerne kopla til verda.
+firefox-home-desktop-laptop-and-phone = Stasjonær, berbar og telefon.
+firefox-home-firefox-in-dark = { -brand-name-firefox } i mørk modus.
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } på ei datamaskin.
