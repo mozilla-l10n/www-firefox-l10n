@@ -25,7 +25,9 @@ firefox-home-stay-focused = Hold fokus med utvidelser som <a { $tomato_clock_att
 firefox-home-your-stuff = Dine ting, på alle skjermene dine
 firefox-home-get-firefox-mobile = Få { -brand-name-firefox } mobil, så blir passordene dine, fanene, nettleserloggen – og personvernet og sikkerheten du stoler på – med deg uansett hvor du går.
 firefox-home-really-make-it = Gjør det *virkelig* til ditt eget
+firefox-home-bye-boring = Ha det, kjedelig nettleser
 firefox-home-billionaire-free = Milliardærfri i over 20 år
+firefox-home-firefox-was-created = { -brand-name-firefox } ble opprettet i 2004 av { -brand-name-mozilla } som et raskere, mer privat og tilpassbart alternativ til nettlesere som Internet Explorer. I dag er vi fortsatt en ideell organisasjon, fortsatt ikke eid av noen milliardærer, og vi jobber fortsatt med å gjøre internett — og tiden du bruker på det — bedre.
 firefox-home-set-firefox-as = Sett { -brand-name-firefox } som standard nettleser.
 firefox-home-firefox-on-desktop = { -brand-name-firefox } på datamaskin og mobil.
 

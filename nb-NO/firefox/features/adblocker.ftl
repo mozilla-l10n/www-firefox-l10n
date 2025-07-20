@@ -47,5 +47,9 @@ features-adblocker-do-it-yourself-custom = Tilpasset modus med egne innstillinge
 features-adblocker-the-custom-setting-gives = Innstillingene under Tilpasset gir deg det ultimate valget. Du kan bestemme hva du blokkerer, inkludert sporingsprogrammer, infokapsler og mer. Hvis du tillater infokapsler fra et nettsted, vil du automatisk være i tilpasset modus.
 features-adblocker-cover-your-trail-block = Skjul dine spor, blokker sporere
 features-adblocker-take-a-bite-out-of-cookies = Gjør infokapsler mere spiselige
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/storage
+features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Infokapsler</a> sendes av nettsteder du besøker. De lagres på datamaskinen din og holder øye med hva du gjør på et nettsted. Når et flyselskap skrur opp prisene fordi du har sett på flybilletter én gang samme dag, er det infokapselen som står bak.
 features-adblocker-in-firefox-you-can-block = I { -brand-name-firefox } kan du blokkere alle tredjeparts infokapsler eller bare de som er satt av sporere. Merk at blokkering av alle infokapsler kan forhindre enkelte nettsteder fra å fungere.
 features-adblocker-speed-up-thanks-to-ad = Høyere hastighet takket være annonseblokkere
+features-adblocker-in-some-cases-an-ad-blocker = I noen tilfeller kan en annonseblokkering hjelpe nettleseren din til å kjøre raskere. Når en annonse lastes inn, kan den gjøre nettstedet tregere. Samtidig tar det lengre tid å finne det du leter etter hvis du er for opptatt med å lukke enda en annonse.
