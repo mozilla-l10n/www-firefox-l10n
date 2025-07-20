@@ -7,6 +7,7 @@
 
 # HTML page title
 firefox-faq = { -brand-name-firefox } vanlige spørsmål
+what-is-firefox = Hva er { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
@@ -38,11 +39,14 @@ is-firefox-safe = Er { -brand-name-firefox } trygg?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
+related-questions-safe = Relaterte spørsmål: er { -brand-name-firefox } bra for personvernet, er { -brand-name-firefox } sikkert, er { -brand-name-firefox } bedre for personvernet
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 why-is-firefox = Hvorfor er { -brand-name-firefox } så treg?
+is-firefox-chromium = Er { -brand-name-firefox } basert på { -brand-name-chromium }?
+firefox-is-not = { -brand-name-firefox } er ikke basert på { -brand-name-chromium } (nettleserprosjektet med åpen kildekode som ligger til grunn for { -brand-name-google } { -brand-name-chrome }). Faktisk er vi en av de siste store nettleserne som ikke er det. { -brand-name-firefox } kjører på vår Quantum-nettlesermotor som er spesielt utviklet for { -brand-name-firefox }, slik at vi kan sørge for at dataene dine håndteres respektfullt og holdes private.
 does-firefox-use = Bruker { -brand-name-firefox } { -brand-name-google }?
 
 # Variables:
