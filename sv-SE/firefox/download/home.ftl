@@ -33,7 +33,7 @@ firefox-home-explore-the-possibilities = Utforska möjligheterna för forskning,
 firefox-home-bye-boring = Hej då, tråkig webbläsare
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
-firefox-home-the-internet-can = Internet kan vara en ljus plats, med rätt tilläggstema.
+firefox-home-the-internet-can = Internet kan vara en ljus plats, med rätt <a { $theme_attrs }>tilläggstema</a>.
 firefox-home-billionaire-free = Miljardärsfri i över 20 år
 firefox-home-firefox-was-created = { -brand-name-firefox } skapades 2004 av { -brand-name-mozilla } som ett snabbare, mer privat och anpassningsbart alternativ till webbläsare som Internet Explorer. Idag är vi fortfarande ideella, ägs fortfarande inte av några miljardärer och arbetar fortfarande för att göra internet — och den tid du spenderar på det — bättre.
 firefox-home-set-firefox-as = Ställ in { -brand-name-firefox } som din standardwebbläsare.
