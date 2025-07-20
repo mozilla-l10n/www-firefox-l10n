@@ -41,6 +41,8 @@ does-firefox-use = Bruker { -brand-name-firefox } { -brand-name-google }?
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } er standard søkemotor i { -brand-name-firefox }, som betyr at du kan søke på nettet direkte fra adressefeltet. <a href="{ $url }">Les mer om søkemotorinnstillinger og endring av standardinnstillinger.</a>
+does-firefox-have = Har { -brand-name-firefox } en innebygd VPN?
 related-questions-ip = Relaterte spørsmål: skjuler { -brand-name-firefox } IP-adressen din
 who-owns-firefox = Hvem eier { -brand-name-firefox }?
 
