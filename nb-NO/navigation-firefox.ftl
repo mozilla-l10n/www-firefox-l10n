@@ -15,4 +15,16 @@ navigation-features = Funksjoner
 navigation-resources = Resurser
 navigation-close-resources-menu = Lukk ressurser-menyen
 navigation-product = Produkt
+navigation-desktop = Datamaskin
+navigation-mobile = Mobil
 navigation-release-notes = Versjonsnotat
+navigation-support = Brukerstøtte
+navigation-add-ons = Tillegg
+navigation-learn = Les mer
+navigation-blog = Blogg
+navigation-compare = Sammenlign
+navigation-podcast = Podkast
+
+## Download
+
+navigation-download = Last ned
