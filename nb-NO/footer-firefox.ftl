@@ -69,3 +69,15 @@ footer-logo-trademark-licensing = Logo varemerkelisensiering
 
 footer-language = Språk
 footer-go = Gå
+footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+
+footer-powdered-by = Drevet av { -brand-name-mozilla }
+footer-putting-people = Vi har satt mennesker foran profitt siden 1998
+
+## Feedback
+
+footer-feedback-found-a-bug = Fant du en feil med den nye nettsiden vår?
+# links to a Google Form that is English only
+footer-feedback-let-us-know = Gi oss beskjed.
