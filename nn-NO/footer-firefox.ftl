@@ -31,7 +31,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Fellesskap
 footer-contribute = Bidra
 footer-developer = Utviklarar
-footer-connect = Kople til
+footer-connect = Connect
 
 ## Links to resources
 
