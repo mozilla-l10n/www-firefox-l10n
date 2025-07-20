@@ -7,12 +7,16 @@
 
 # HTML page title
 firefox-faq = { -brand-name-firefox } vanlige spørsmål
+whether-you-searched-privacy = Uansett om du lette etter en rask nettleser som beskytter personvernet ditt, er disse vanlige spørsmålene her for å svare på de viktigste spørsmålene om { -brand-name-firefox }.
+whether-you-searched-independant = Uansett om du lette etter en rask nettleser, eller du leter etter uavhengig teknologi som beskytter personvernet ditt, er disse vanlige spørsmålene her for å svare på de viktigste spørsmålene om { -brand-name-firefox }.
 what-is-firefox = Hva er { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+the-firefox-browser-the-only = { -brand-name-firefox-browser }, den eneste store nettleseren som støttes av en ideell organisasjon, hjelper deg med å beskytte din personlige informasjon. Les mer om <a href="{ $url }">{ -brand-name-firefox-browsers }</a> og <a href="{ $url2 }">andre produkter.</a>
+how-do-i = Hvordan får jeg tak i { -brand-name-firefox-browser }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -23,22 +27,27 @@ what-is-firefox = Hva er { -brand-name-firefox }?
 
 is-firefox-free = Er { -brand-name-firefox } gratis?
 yep-the-firefox-browser-is-free = Jepp! { -brand-name-firefox-browser } er gratis. Helt gratis, faktisk. Ingen skjulte kostnader eller noe. Du betaler ingenting for å bruke den.
+related-questions-free = Relaterte spørsmål: er { -brand-name-firefox-browser } gratis, koster { -brand-name-firefox } penger
 is-chrome-better = Er { -brand-name-chrome } bedre enn { -brand-name-firefox }?
+no-we-dont = Nei, vi synes ikke { -brand-name-chrome } er bedre enn { -brand-name-firefox }, og her er grunnen: når folk spør hvilken nettleser som er bedre, spør de egentlig hvilken nettleser som er raskere og tryggere. { -brand-name-firefox } oppdateres månedlig for å sikre at du har den raskeste nettleseren som respekterer personvernet ditt automatisk.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Se hvordan { -brand-name-firefox } er sammenlignet med { -brand-name-chrome }.</a>
+related-questions-better = Relaterte spørsmål: er { -brand-name-firefox } bedre enn { -brand-name-chrome }, er { -brand-name-firefox } bedre enn { -brand-name-google }, er { -brand-name-firefox } tryggere enn { -brand-name-chrome }, er { -brand-name-firefox } mer privat enn { -brand-name-chrome }
 is-firefox-safe-download = Er det trygt å laste ned { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Å beskytte personvernet ditt er vår førsteprioritet, og vi sørger for at det er helt trygt å installere { -brand-name-firefox } på enhetene dine – men sørg alltid for at du laster ned fra et pålitelig { -brand-name-mozilla }/{ -brand-name-firefox }-nettsted, som <a href="{ $url }">nedlastingssiden vår.</a>
 is-firefox-safe = Er { -brand-name-firefox } trygg?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
+not-only-is = Ikke bare er { -brand-name-firefox } trygt å bruke, det bidrar også til å holde dataene og privat informasjon trygg. { -brand-name-firefox-browser } blokkerer automatisk kjente tredjepartssporere, sporere for sosiale medier, kryptominere og fingeravtrykksporing fra å samle inn dataene dine. <a href="{ $url }">Les mer om personvernet i produktene våre.</a>
 related-questions-safe = Relaterte spørsmål: er { -brand-name-firefox } bra for personvernet, er { -brand-name-firefox } sikkert, er { -brand-name-firefox } bedre for personvernet
 
 # Variables:
