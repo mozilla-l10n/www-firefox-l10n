@@ -18,6 +18,7 @@ firefox-home-see-release = Se versjonsnotat
 firefox-home-get-the-browser = Skaff deg nettleseren som hjelper deg med å få jobben gjort
 firefox-home-block-ad-trackers = Blokker annonsesporere uten å løfte en finger
 firefox-home-ad-trackers-make = Annonsesporere gjør at nettsider lastes saktere. Med { -brand-name-firefox } trenger du ikke å rote rundt i innstillingene for å fikse dette, fordi vi automatisk blokkerer de fleste sporere.
+firefox-home-swear-off = Bli kvitt distraksjoner
 # Variables
 #   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
 #   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
@@ -25,7 +26,14 @@ firefox-home-stay-focused = Hold fokus med utvidelser som <a { $tomato_clock_att
 firefox-home-your-stuff = Dine ting, på alle skjermene dine
 firefox-home-get-firefox-mobile = Få { -brand-name-firefox } mobil, så blir passordene dine, fanene, nettleserloggen – og personvernet og sikkerheten du stoler på – med deg uansett hvor du går.
 firefox-home-really-make-it = Gjør det *virkelig* til ditt eget
+firefox-home-work-smarter = Jobb smartere, spill hardere
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = Utforsk mulighetene for forskning, shopping og mer i <a { $extensions_attrs }>utvidelser</a>.
 firefox-home-bye-boring = Ha det, kjedelig nettleser
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = Internett kan være et hyggelig sted – med riktig tilleggs<a { $theme_attrs }>tema</a>.
 firefox-home-billionaire-free = Milliardærfri i over 20 år
 firefox-home-firefox-was-created = { -brand-name-firefox } ble opprettet i 2004 av { -brand-name-mozilla } som et raskere, mer privat og tilpassbart alternativ til nettlesere som Internet Explorer. I dag er vi fortsatt en ideell organisasjon, fortsatt ikke eid av noen milliardærer, og vi jobber fortsatt med å gjøre internett — og tiden du bruker på det — bedre.
 firefox-home-set-firefox-as = Sett { -brand-name-firefox } som standard nettleser.
