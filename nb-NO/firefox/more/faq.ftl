@@ -20,14 +20,20 @@ firefox-faq = { -brand-name-firefox } vanlige spørsmål
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+is-firefox-free = Er { -brand-name-firefox } gratis?
+yep-the-firefox-browser-is-free = Jepp! { -brand-name-firefox-browser } er gratis. Helt gratis, faktisk. Ingen skjulte kostnader eller noe. Du betaler ingenting for å bruke den.
+is-chrome-better = Er { -brand-name-chrome } bedre enn { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">Se hvordan { -brand-name-firefox } er sammenlignet med { -brand-name-chrome }.</a>
+is-firefox-safe-download = Er det trygt å laste ned { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+is-firefox-safe = Er { -brand-name-firefox } trygg?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
@@ -54,3 +60,4 @@ who-owns-firefox = Hvem eier { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } er laget av { -brand-name-mozilla-corporation }, et heleid datterselskap av den ideelle organisasjonen <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> og styres av prinsippene i { -brand-name-mozilla }-manifestet. Les mer om skaperen av { -brand-name-firefox } <a href="{ $url2 }">her.</a>
+related-questions-who = Relaterte spørsmål: hvem eies { -brand-name-firefox } av, hvem eier { -brand-name-firefox-browser }, eies { -brand-name-firefox } av { -brand-name-google }, eies { -brand-name-mozilla } { -brand-name-firefox } av { -brand-name-google }
