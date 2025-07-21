@@ -23,6 +23,12 @@ browser-history-a-year-later-berners = Eit år seinare bad Berners-Lee CERN-stud
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
 browser-history-by-1993-the-web = I 1993 eksploderte nettet. Universitet, styresmakter og private selskap såg moglegheitene i det opne internettet. Alle trong nye program for å få tilgang. Det året vart Mosaic laga ved National Center for Supercomputing Applications (NCSA) ved University of Illinois Urbana-Champaign, av datavitskapsmannen Marc Andreessen. Dette var den første populære nettlesaren og ein tidleg forløpar til <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a>.
+# Variables:
+#   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
+browser-history-ncsa-mosaic-ran = NCSA Mosaic køyrde på { -brand-name-windows }-maskiner, var enkel å bruke og gav alle med PC tilgang til tidlege nettsider, chatte-rom og biletbibliotek. Året etter (1994) grunnla Andreessen <a href="{ $netscape }">{ -brand-name-netscape }</a> og lanserte { -brand-name-netscape } Navigator for publikum. Den vart ein stor suksess og var den første nettlesaren for folk flest. Den var også første trekk i ein ny type krig om internettbrukarane.
 browser-history-the-browser-wars = Nettlesarkrigen
+# Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = I 1995 var ikkje { -brand-name-netscape } Navigator den einaste måten å kome seg på nett på. Programvaregiganten { -brand-name-microsoft } lisensierte den gamle Mosaic-koden og bygde sitt eige vindauge mot nettet, <a href="{ $ie }">{ -brand-name-ie }</a>. Utgivinga utløyste ein krig. { -brand-name-netscape } og { -brand-name-microsoft } jobba febrilsk for å lage nye versjonar av programma sine, og prøvde kvar især å overgå den andre med raskare og betre produkt.
 browser-history-browsing-the-web = Surfing på nettet i dag
 browser-history-resources = Ressursar
