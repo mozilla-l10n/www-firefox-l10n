@@ -26,5 +26,6 @@ features-adblocker-tip-1 = <strong>Blokkering av annonsar:</strong> Om du berre 
 features-adblocker-tip-2 = <strong>Personvernomsyn:</strong> Om du er bekymra for sporingsprogram, bør du sjå etter ein annonseblokkerar med innebygde personvernfunksjonar.
 features-adblocker-tip-3 = <strong>Tilpassingsmoglegheiter:</strong> Nokre annonseblokkerarar tillèt finjustering for å kviteliste visse nettstadar eller blokkere visse element.
 features-adblocker-tip-4 = <strong>Einingskompatibilitet:</strong> Vurder om du treng det på datamaskin, mobil eller begge delar.
+features-adblocker-tip-5 = <strong>Blokkering av skadeprogram:</strong> Nokre annonseblokkerarar vernar mot skadelege annonsar (t.d. AdGuard).
 features-adblocker-enhanced-privacy = Forbetra personvern og yting med { -brand-name-firefox }
 features-adblocker-why-use = Kvifor bruke ein annonseblokkerar?
