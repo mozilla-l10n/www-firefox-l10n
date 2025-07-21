@@ -27,5 +27,7 @@ features-adblocker-tip-2 = <strong>Personvernomsyn:</strong> Om du er bekymra fo
 features-adblocker-tip-3 = <strong>Tilpassingsmoglegheiter:</strong> Nokre annonseblokkerarar tillèt finjustering for å kviteliste visse nettstadar eller blokkere visse element.
 features-adblocker-tip-4 = <strong>Einingskompatibilitet:</strong> Vurder om du treng det på datamaskin, mobil eller begge delar.
 features-adblocker-tip-5 = <strong>Blokkering av skadeprogram:</strong> Nokre annonseblokkerarar vernar mot skadelege annonsar (t.d. AdGuard).
+features-adblocker-tip-6 = <strong>Foreldrekontroll:</strong> Nyttig om du vil blokkere upassande innhald.
+features-adblocker-its-important-to-note = Det er viktig å merke seg at nokre nettstadar er avhengige av annonsar for å laste innhald eller tilby funksjonalitet. Blokkering av annonsar kan føre til at funksjonar ikkje fungerer, til dømes at videoar ikkje blir spelte av eller at innloggingsalternativ ikkje fungerer. Vel ein annonseblokkerar som blir oppdatert regelmessig, og om du synest éin annonseblokker lagar store problem, kan du prøve ein annan for å finne ein betre balanse mellom yting og kompatibilitet.
 features-adblocker-enhanced-privacy = Forbetra personvern og yting med { -brand-name-firefox }
 features-adblocker-why-use = Kvifor bruke ein annonseblokkerar?
