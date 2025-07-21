@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
+browser-history-browser-history = Nettleserhistorikk: Episk maktkamp som formet dagens nettlesere
+browser-history-the-browser-wars-underdogs-giants = Nettleserkrigene, de svakere mot giganter, og øyeblikk som endret verden. Les om nettleserens historie.
+browser-history-the-history-of-web = Historien om nettleserne
+browser-history-world-history-is = Verdenshistorien er full av episke maktkamper, verdensherredømme og heltemodige underdogs. Historien om nettlesere er ikke så ulik. Pionerer ved universiteter skrev enkel programvare som startet en informasjonsrevolusjon, og kampen om nettlesernes dominans og brukere fulgte.
 browser-history-the-browser-wars = Nettleserkrigene
 # Variables:
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
