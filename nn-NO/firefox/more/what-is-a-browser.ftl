@@ -23,6 +23,10 @@ what-is-a-browser-sadly-not-all = Diverre vel ikkje alle nettlesarprodusentane �
 # Variables:
 #   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
 what-is-a-browser-when-the-web-browser = Når ein nettlesar hentar data frå ein internett-tilkopla sørvar brukar han ei programvare som vert kalla ein renderingsmotor for å omsette data til tekst og bilde. Desse dataa er skrivne i <a href="{ $html }">Hypertext Markup Language</a> (HTML) og nettlesarar les denne koden for å lage det vi ser, høyrer og opplever på internett.
+# Variables:
+#   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
+#   $url(url) - link to https://wikipedia.org/wiki/URL
+what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Hyperlenker</a> lèt brukarar følgje ein sti til andre sider eller nettstadar på nettet. Kvar nettside, bilde og video har sin eigen unike <a href="{ $url }">Uniform Resource Locator</a> (URL), også kjent som ei nettadresse. Når ein nettlesar hentar data frå ein server, fortel nettadressa nettlesaren kvar han skal leite etter kvart element som er skildra i HTML-koden, som igjen fortel nettlesaren kvar elementet skal visast på nettsida.
 what-is-a-browser-cookies-not-the = Infokapslar eller cookies-kjeks (ikkje dei du kan ete)
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
