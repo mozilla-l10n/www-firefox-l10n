@@ -22,7 +22,7 @@ browser-history-british-computer = Den britiske datavitskapsmannen Tim Berners-L
 browser-history-a-year-later-berners = Eit år seinare bad Berners-Lee CERN-student Nicola Pellow å lage Line Mode Browser, eit program for enkle dataterminalar.
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
-browser-history-by-1993-the-web = I 1993 eksploderte nettet. Universitet, styresmakter og private selskap såg moglegheitene i det opne internettet. Alle trengde nye program for å få tilgang. Det året vart Mosaic laget ved National Center for Supercomputing Applications (NCSA) ved University of Illinois Urbana-Champaign, av datavitskapsmannen Marc Andreessen. Dette var den første populære nettlesaren og ein tidleg forløpar til <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a>.
+browser-history-by-1993-the-web = I 1993 eksploderte nettet. Universitet, styresmakter og private selskap såg moglegheitene i det opne internettet. Alle trong nye program for å få tilgang. Det året vart Mosaic laga ved National Center for Supercomputing Applications (NCSA) ved University of Illinois Urbana-Champaign, av datavitskapsmannen Marc Andreessen. Dette var den første populære nettlesaren og ein tidleg forløpar til <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a>.
 browser-history-the-browser-wars = Nettlesarkrigen
 browser-history-browsing-the-web = Surfing på nettet i dag
 browser-history-resources = Ressursar
