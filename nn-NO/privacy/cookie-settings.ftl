@@ -28,13 +28,19 @@ cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } br
 ## Preference cookies section
 
 cookie-settings-category-preference-heading = Innstilling
+cookie-settings-category-preference-what-are-subheading = Kva er innstillingsinfokapslar?
+cookie-settings-category-preference-what-are-desc = Desse teknologiane blir brukte til å hugse val du har gjort under eit tidlegare besøk på ein nettstad. Døme kan vere kva språk du føretrekkjer å lese på, eller kva fargetema du likar best.
+cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } brukar innstillingsinfokapslar for å hugse dine val og forbetre opplevinga når du besøkjer nettsidene våre. Dei blir ikkje brukte til analyseformål. Innstillingsinfokapslar støttar funksjonar på ein liknande måte som nødvendige infokapslar, men ei nettside kan framleis fungere utan dei. Derfor kan du velje å ikkje tillate bruk av dei.
 
 ## Analytics cookies section
 
 cookie-settings-category-analytics-heading = Analyse
 cookie-settings-category-analytics-what-are-subheading = Kva er analyse-infokapslar?
+cookie-settings-category-analytics-what-are-desc = Desse teknologiane samlar inn informasjon om korleis folk brukar nettstadar, til dømes kva sider som blir besøkte, kva lenkjer som blir klikka på, og kva for nokre andre nettstadar besøket kjem frå.
+cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } brukar analysedata for å forstå korleis brukarar samhandlar med nettstadane våre, slik at vi kan forbetre dei og rette opp eventuelle problem som oppstår. Vi kan også bruke data frå infokapslar, einingsinformasjon og Ip-adresser for å hjelpe oss å forstå korleis brukarar engasjerer seg med produkta våre, tenester, kommunikasjonen, nettstadar, nettkampanjar, einingar og andre plattformer. Vi samlar berre inn analysedata og set analysedata-infokapslar med ditt samtykke.
 
 ## Privacy section
 
 cookie-settings-privacy-heading = Personvernerklæringa vår
+cookie-settings-privacy-desc = Om du vil ha meir detaljert informasjon om dei ulike typane informasjon som { -brand-name-mozilla } samlar inn når du besøkjer nettstadane våre, finn du ei lenkje til personvernerklæringa vår nedanfor.
 cookie-settings-privacy-policy-link = Personvernpraksis
