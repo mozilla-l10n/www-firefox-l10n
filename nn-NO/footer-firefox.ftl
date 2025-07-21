@@ -13,9 +13,12 @@ footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
+footer-custom-download = Tilpassa nedlastingsalternativ
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
+# Section title
+footer-latest = De siste versjonane
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 
@@ -58,7 +61,9 @@ footer-tiktok = TikTok
 
 footer-websites-privacy-notice = Personvernfråsegn for nettstaden
 footer-terms-of-use = Brukarvilkår
+footer-websites-cookie-policy = Retningslinjer for infokapslar
 footer-community-participation-guidelines = Retningslinjer for fellesskapsdeltaking
+footer-logo-trademark-licensing = Logo varemerkelisensiering
 
 ## Language Switcher
 
@@ -69,3 +74,10 @@ footer-firefox = { -brand-name-firefox }
 ## Mozilla branding
 
 footer-powdered-by = Driven av { -brand-name-mozilla }
+footer-putting-people = Vi har sett menneske framfor profitt sidan 1998
+
+## Feedback
+
+footer-feedback-found-a-bug = Fann du ein feil med den nye nettsida vår?
+# links to a Google Form that is English only
+footer-feedback-let-us-know = Gi oss beskjed.
