@@ -24,5 +24,7 @@ features-adblocker-finding-the-right = Finn rett annonseblokkerar for deg
 features-adblocker-there-are-many = Det finst mange annonseblokkeringsverktøy å utforske, og kvart tilbyr funksjonar som passar ulike preferansar. Å finne det rette for deg avheng av ønska og nettlesarvanane dine. Her er nokre tips du bør vurdere:
 features-adblocker-tip-1 = <strong>Blokkering av annonsar:</strong> Om du berre vil blokkere annonsar, vel eit enkelt og lett alternativ.
 features-adblocker-tip-2 = <strong>Personvernomsyn:</strong> Om du er bekymra for sporingsprogram, bør du sjå etter ein annonseblokkerar med innebygde personvernfunksjonar.
+features-adblocker-tip-3 = <strong>Tilpassingsmoglegheiter:</strong> Nokre annonseblokkerarar tillèt finjustering for å kviteliste visse nettstadar eller blokkere visse element.
+features-adblocker-tip-4 = <strong>Einingskompatibilitet:</strong> Vurder om du treng det på datamaskin, mobil eller begge delar.
 features-adblocker-enhanced-privacy = Forbetra personvern og yting med { -brand-name-firefox }
 features-adblocker-why-use = Kvifor bruke ein annonseblokkerar?
