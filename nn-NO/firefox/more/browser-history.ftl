@@ -30,5 +30,16 @@ browser-history-the-browser-wars = Nettlesarkrigen
 # Variables:
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = I 1995 var ikkje { -brand-name-netscape } Navigator den einaste måten å kome seg på nett på. Programvaregiganten { -brand-name-microsoft } lisensierte den gamle Mosaic-koden og bygde sitt eige vindauge mot nettet, <a href="{ $ie }">{ -brand-name-ie }</a>. Utgivinga utløyste ein krig. { -brand-name-netscape } og { -brand-name-microsoft } jobba febrilsk for å lage nye versjonar av programma sine, og prøvde kvar især å overgå den andre med raskare og betre produkt.
+# Variables:
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
+browser-history-netscape-created = { -brand-name-netscape } laga og lanserte JavaScript, som gav nettstadar kraftige databehandlingsmoglegheiter dei aldri hadde hatt før. (Dei laga også den berykta <a href="{ $blink }">&lt;blink&gt;-taggen</a>.) { -brand-name-microsoft } kontra dette med Cascading Style Sheets (CSs), som vart standarden for nettsidedesign.
+# Variables:
+#   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
+browser-history-things-got-a-little = Ting gjekk litt ut av kontroll i 1997 då { -brand-name-microsoft } gav ut { -brand-name-ie } 4.0. Teamet bygde ein gigantisk bokstav «e» og sneik han ned på plenen til { -brand-name-netscape }s hovudkvarter. { -brand-name-netscape }-teamet velta raskt den gigantiske «e»-ein og <a href="{ $dino }">sette sin eigen { -brand-name-mozilla } dinosaurmaskot oppå han</a>.
+# Variables:
+#   $mozilla (url) - https://en.wikipedia.org/wiki/Mozilla
+#   $marketshare (url) - https://en.wikipedia.org/wiki/Internet_Explorer#Market_adoption_and_usage_share
+browser-history-then-microsoft-began = Så byrja { -brand-name-microsoft } å levere { -brand-name-ie } med operativsystemet sitt { -brand-name-windows }. Innan fire år hadde dei 75 % av marknaden, og i 1999 hadde dei 99 % av marknaden. Selskapet vart tvinga til antitrust-søksmål på grunn av overgangen, og { -brand-name-netscape } bestemde seg for å bruke open kjeldekode for kodebasen sin og oppretta den ideelle organisasjonen <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, som seinare oppretta og lanserte { -brand-name-firefox } i 2002. Då dei innsåg at det å ha eit nettlesarmonopol ikkje var i brukaranes og den beste interessa i det opne nettet, vart { -brand-name-firefox } oppretta for å gi nettbrukarar valmoglegheiter. Innan 2010 hadde { -brand-name-mozilla } { -brand-name-firefox } og andre <a href="{ $marketshare }">redusert { -brand-name-ie } sin marknadsdel til 50 %</a>.
+browser-history-other-competitors = Andre konkurrentar dukka opp på slutten av 90-talet og byrjinga av 2000-talet, inkludert { -brand-name-opera }, { -brand-name-safari } og { -brand-name-google } { -brand-name-chrome }. { -brand-name-microsoft } { -brand-name-edge } erstatta { -brand-name-ie } med utgivinga av { -brand-name-windows } 10 i 2015.
 browser-history-browsing-the-web = Surfing på nettet i dag
 browser-history-resources = Ressursar
