@@ -6,7 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
 browser-history-browser-history = Nettlesarhistorikk: Episke maktkampar som gav oss moderne nettlesarar
-browser-history-the-browser-wars-underdogs-giants = Nettlesarkrig, dei svakare mot kjempene og stunder som endra verda. Les om historia til nettlesaren.
+browser-history-the-browser-wars-underdogs-giants = Nettlesarkrig, utfordrarar mot gigantar, og stunder som endra verda. Les om historia til nettlesaren.
 browser-history-the-history-of-web = Historia om nettlesarane
 browser-history-before-web-era = Før nett-æraen
 browser-history-web-era = Nett-æraen
