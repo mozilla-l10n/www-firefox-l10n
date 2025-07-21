@@ -16,6 +16,13 @@ features-adblocker-meta-desc = Finn ut korleis annonseblokkering fungerer, kva d
 features-adblocker-the-ad-blocker-a-tool = Annonseblokkeraren – eit verktøy for ei personleg og fokusert nettlesaroppleving.
 features-adblocker-in-todays-digital-world = I dagens digitale verd kan nettet vere travelt og rotete. Annonseblokkering er kraftige verktøy som gir deg kontroll over nettlesaropplevinga di, slik at du kan bestemme kva som blir vist på skjermen.
 features-adblocker-ad-blockers-work = Annonseblokkering fungerer på to viktige måtar: ved å forhindre at innhald, til dømes annonsar, blir lasta inn, og ved å blokkere delar av nettstadar som er vert for desse elementa. Dette kan inkludere videoannonsar, personlege annonsar som følgjer deg rundt på nettet, og til og med tredjepartssporarar.
+# Variables:
+#   $firefox (url) - link to https://www.firefox.com/
+#   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
+features-adblocker-using-an-adblocker = Det er lett å bruke ein annonseblokkerar. Mange pålitelege alternativ er tilgjengelege som nettlesartillegg, noko som gjer det enkelt å finne ei løysing som fungerer for behova dine. Til dømes tilbyr <a href="{ $firefox }">{ -brand-name-firefox }</a> <a href="{ $addons }">ei liste over godkjende utvidingar</a> som er utforma for å forbetre nettlesaropplevinga di samtidig som personvernet ditt blir respektert.
 features-adblocker-finding-the-right = Finn rett annonseblokkerar for deg
+features-adblocker-there-are-many = Det finst mange annonseblokkeringsverktøy å utforske, og kvart tilbyr funksjonar som passar ulike preferansar. Å finne det rette for deg avheng av ønska og nettlesarvanane dine. Her er nokre tips du bør vurdere:
+features-adblocker-tip-1 = <strong>Blokkering av annonsar:</strong> Om du berre vil blokkere annonsar, vel eit enkelt og lett alternativ.
+features-adblocker-tip-2 = <strong>Personvernomsyn:</strong> Om du er bekymra for sporingsprogram, bør du sjå etter ein annonseblokkerar med innebygde personvernfunksjonar.
 features-adblocker-enhanced-privacy = Forbetra personvern og yting med { -brand-name-firefox }
 features-adblocker-why-use = Kvifor bruke ein annonseblokkerar?
