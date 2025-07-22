@@ -7,6 +7,12 @@
 
 firefox-home-take-control = ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਦਾ ਕੰਟਰੋਲ ਆਪਣੇ ਹੱਥ ਲਵੋ
 firefox-home-latest-features = ਨਵੇਂ { -brand-name-firefox } ਫ਼ੀਚਰ
+firefox-home-multitasking = ਮਲਟੀ-ਟਾਸਕ ਕਰਨੇ?
+firefox-home-keep-tabs-on = ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਕਾਬੂ ਹੇਠ ਰੱਖੋ
+firefox-home-see-release = ਰੀਲਿਜ਼ ਨੋਟਿਸ ਨੂੰ ਵੇਖੋ
+firefox-home-block-ad-trackers = ਉਂਗਲ ਚੁੱਕੇ ਬਿਨਾਂ ਇਸ਼ਤਿਹਾਰ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
+firefox-home-your-stuff = ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਤੁਹਾਡੀਆਂ ਸਭ ਸਕਰੀਨਾਂ ਉੱਤੇ
+firefox-home-work-smarter = ਸਮਝਦਾਰੀ ਨਾਲ ਕੰਮ ਕਰੋ, ਰੱਜ ਕੇ ਆਨੰਦ ਮਾਣੋ
 
 # Used as accessible alternative text for an image
 
