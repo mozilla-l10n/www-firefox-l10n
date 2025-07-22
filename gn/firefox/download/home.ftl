@@ -29,6 +29,10 @@ firefox-home-bye-boring = Aháma, kundaha oiko’ỹva
 firefox-home-the-internet-can = Ñanduti ikatu ha’e peteĩ tenda iporãva, <a { $theme_attrs }>téma</a> moĩmbaha ndive.
 firefox-home-billionaire-free = Ndaipóri iviruetáva 20 ary pukukue
 firefox-home-set-firefox-as = Ejapo { -brand-name-firefox }-gui kundahára ypyguáva.
+firefox-home-firefox-on-desktop = { -brand-name-firefox } mohendaha mesa arigua ha pumbyrýpe.
 
 # Used as accessible alternative text for an image
 
+firefox-home-happy-toggle = Vy’ápe moambue.
+firefox-home-multiple-cursors = Mbohapehaita.
+firefox-home-lots-of-open = Heta tendayke juruja.
