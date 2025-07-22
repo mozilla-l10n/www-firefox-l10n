@@ -6,6 +6,9 @@
 ## URL: https://www-dev.springfield.moz.works/
 
 firefox-home-take-control = Ejapyhy ne kundaha jepuru
+firefox-home-go-online = Eike ñandutípe ñepysãnga, jepáy ha kane’õ’ỹre. Erénte orerehe mba’eporãmeme.
+firefox-home-latest-features = { -brand-name-firefox } oreko pyahúva
+firefox-home-dial-down = Emboguejy mba’eryapu
 
 # Used as accessible alternative text for an image
 
