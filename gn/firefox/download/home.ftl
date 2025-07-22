@@ -36,3 +36,4 @@ firefox-home-firefox-on-desktop = { -brand-name-firefox } mohendaha mesa arigua 
 firefox-home-happy-toggle = Vy’ápe moambue.
 firefox-home-multiple-cursors = Mbohapehaita.
 firefox-home-lots-of-open = Heta tendayke juruja.
+firefox-home-shield-and-hand = Ñemo’ãha ha po omo’ãva kundaha rendayképe.
