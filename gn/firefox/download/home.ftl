@@ -20,6 +20,15 @@ firefox-home-swear-off = Eñemomombyry mba’evaígui
 firefox-home-your-stuff = Nemba’e, opaite ne mba’erechahápe
 firefox-home-really-make-it = *Añete* ejapo nemba’erã
 firefox-home-work-smarter = Emba’apove, eñembosarái hatãve
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = Ehecha mba’eichaitépa ehekakuaa, ejoguáta ha hetave mba’e <a { $extensions_attrs }>jepysokue</a>.
+firefox-home-bye-boring = Aháma, kundaha oiko’ỹva
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = Ñanduti ikatu ha’e peteĩ tenda iporãva, <a { $theme_attrs }>téma</a> moĩmbaha ndive.
+firefox-home-billionaire-free = Ndaipóri iviruetáva 20 ary pukukue
+firefox-home-set-firefox-as = Ejapo { -brand-name-firefox }-gui kundahára ypyguáva.
 
 # Used as accessible alternative text for an image
 
