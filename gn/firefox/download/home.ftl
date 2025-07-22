@@ -17,6 +17,9 @@ firefox-home-see-release = Ehecha haipyre peteĩchagua
 firefox-home-get-the-browser = Eguereko kundaha nepytyvõtava emba’apo hag̃ua
 firefox-home-block-ad-trackers = Ejoko umi ñemurã rapykuehoha eku’e’ỹre
 firefox-home-swear-off = Eñemomombyry mba’evaígui
+firefox-home-your-stuff = Nemba’e, opaite ne mba’erechahápe
+firefox-home-really-make-it = *Añete* ejapo nemba’erã
+firefox-home-work-smarter = Emba’apove, eñembosarái hatãve
 
 # Used as accessible alternative text for an image
 
