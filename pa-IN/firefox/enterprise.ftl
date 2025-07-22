@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+firefox-enterprise-get-firefox-for-your-enterprise-with = { -brand-name-esr } ਅਤੇ ਰੈਪਿਡ ਰੀਲਿਜ਼ ਨਾਲ ਆਪਣੇ ਇੰਟਰਪ੍ਰਾਈਜ਼ ਲਈ { -brand-name-firefox } ਲਵੋ।
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-get-firefox-for-your-enterprise = ਆਪਣੇ ਇੰਟਰਪ੍ਰਾਈਜ਼ ਲਈ { -brand-name-firefox } ਲਵੋ
 firefox-enterprise-your-data-stays-your-business = ਤੁਹਾਡਾ ਡਾਟਾ ਤੁਹਾਡੇ ਕਾਰੋਬਾਰ ਨਾਲ ਰਹਿੰਦਾ ਹੈ

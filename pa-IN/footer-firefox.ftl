@@ -34,6 +34,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = ਕਮਿਊਨਟੀ
 footer-contribute = ਯੋਗਦਾਨ
 footer-developer = ਡਿਵੈਲਪਰ
+footer-connect = ਕਨੈਕਟ ਕਰੋ
 
 ## Links to resources
 
@@ -69,3 +70,14 @@ footer-logo-trademark-licensing = ਲੋਗੋ ਮਾਰਕਾ ਲਸੰਸਿ�
 footer-language = ਭਾਸ਼ਾ
 footer-go = ਜਾਓ
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+
+footer-powdered-by = { -brand-name-mozilla } ਵਲੋਂ ਬਣਾਇਆ
+footer-putting-people = 1998 ਤੋਂ ਲੈਕੇ ਲੋਕਾਂ ਨੂੰ ਫ਼ਾਇਦੇ ਨਾਲੋਂ ਪਹਿਲ ਦਿੱਤੀ
+
+## Feedback
+
+footer-feedback-found-a-bug = ਸਾਡੀ ਨਵੀ ਵੈੱਬਸਾਈਟ ਵਿੱਚ ਕੋਈ ਬੱਗ ਲੱਭਿਆ ਹੈ?
+# links to a Google Form that is English only
+footer-feedback-let-us-know = ਸਾਨੂੰ ਦੱਸੋ।

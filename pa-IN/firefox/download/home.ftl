@@ -13,6 +13,15 @@ firefox-home-see-release = ਰੀਲਿਜ਼ ਨੋਟਿਸ ਨੂੰ ਵੇ�
 firefox-home-block-ad-trackers = ਉਂਗਲ ਚੁੱਕੇ ਬਿਨਾਂ ਇਸ਼ਤਿਹਾਰ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
 firefox-home-your-stuff = ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਤੁਹਾਡੀਆਂ ਸਭ ਸਕਰੀਨਾਂ ਉੱਤੇ
 firefox-home-work-smarter = ਸਮਝਦਾਰੀ ਨਾਲ ਕੰਮ ਕਰੋ, ਰੱਜ ਕੇ ਆਨੰਦ ਮਾਣੋ
+firefox-home-set-firefox-as = { -brand-name-firefox } ਨੂੰ ਆਪਣਾ ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਬਣਾਓ।
+firefox-home-firefox-on-desktop = ਡੈਸਕਟਾਪ ਅਤੇ ਮੋਬਾਈਲ ਲਈ { -brand-name-firefox }।
 
 # Used as accessible alternative text for an image
 
+firefox-home-happy-toggle = ਖੁਸ਼ੀ ਨਾਲ ਬਦਲੋ।
+firefox-home-multiple-cursors = ਕਈ ਕੋਨੇ।
+firefox-home-lots-of-open = ਬਹੁਤ ਸਾਰੀਆਂ ਖੋਲ੍ਹੀਆਂ ਟੈਬਾਂ।
+firefox-home-a-human-brain = ਸੰਸਾਰ ਨਾਲ ਜੁੜਿਆ ਹੋਇਆ ਮਨੁੱਖੀ ਦਿਮਾਗ।
+firefox-home-desktop-laptop-and-phone = ਡੈਸਕਟਾਪ, ਲੈਪਟਾਪ ਅਤੇ ਫ਼ੋਨ।
+firefox-home-firefox-in-dark = ਗੂੜ੍ਹੇ ਰੰਗ ਵਿੱਚ { -brand-name-firefox }।
+firefox-home-firefox-on-a-desktop = ਡੈਸਕਟਾਪ ਉੱਤੇ { -brand-name-firefox }।

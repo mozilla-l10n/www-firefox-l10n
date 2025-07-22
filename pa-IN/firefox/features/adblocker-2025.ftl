@@ -7,6 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = ਇਸ਼ਤਿਹਾਰ ਰੋਕੂ
+# Page Title
+features-adblocker-meta-title-v2 = ਇਸ਼ਤਿਹਾਰ ਰੋਕੂ ਬਾਰੇ
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = ਇਸ਼ਤਿਹਾਰ ਰੋਕੂ ਬਾਰੇ - { -brand-name-firefox }
 # HTML page description
