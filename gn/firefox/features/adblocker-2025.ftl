@@ -7,6 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Ñemurã jejoko
+# Page Title
+features-adblocker-meta-title-v2 = Ñemurã jokoha rehegua
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Ñemurã jokoha rehegua - { -brand-name-firefox }
 # HTML page description
