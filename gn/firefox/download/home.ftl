@@ -14,6 +14,7 @@ firefox-home-multitasking = ¿Tembiaporãita?
 firefox-home-go-into-reading = Eike moñe’ẽrã rekópe, ehecha umi ta’ãngamýi apysẽ ha emoĩporãve tendayke ñembo’y ha tendayke aty ndive.
 firefox-home-keep-tabs-on = Ehechapaite umi tendayke
 firefox-home-see-release = Ehecha haipyre peteĩchagua
+firefox-home-get-the-browser = Eguereko kundaha nepytyvõtava emba’apo hag̃ua
 firefox-home-swear-off = Eñemomombyry mba’evaígui
 
 # Used as accessible alternative text for an image
