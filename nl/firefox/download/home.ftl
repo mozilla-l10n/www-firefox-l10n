@@ -3,10 +3,18 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## URL: https://www-dev.springfield.moz.works/
+### URL: https://www-dev.springfield.moz.works/
+
+
+## Intro
 
 firefox-home-take-control = Neem de controle over uw internet
 firefox-home-go-online = Ga online met minder afleiding, lawaai en stress. Zie ons als een teug frisse lucht.
+firefox-home-set-firefox-as = { -brand-name-firefox } als uw standaardbrowser instellen.
+
+## What's new
+
+# accessible section heading
 firefox-home-latest-features = Nieuwste { -brand-name-firefox }-functies
 firefox-home-dial-down = Verminder de ruis
 firefox-home-block-ads = Blokkeer advertenties en verbeter uw privacy met aanpasbare instellingen en massa’s downloadbare extensies.
@@ -15,9 +23,13 @@ firefox-home-go-into-reading = Schakel over naar de leesmodus, bekijk video’s 
 firefox-home-keep-tabs-on = Houd al uw tabbladen in de gaten
 firefox-home-close-duplicates = Sluit dubbele tabbladen, doorzoek en zet open tabbladen vast – er zijn bijna oneindige mogelijkheden voor het bijna oneindige aantal open tabbladen.
 firefox-home-see-release = Uitgaveopmerkingen bekijken
+
+## Features
+
 firefox-home-get-the-browser = Download de browser die u helpt de klus te klaren
 firefox-home-block-ad-trackers = Blokkeer advertentietrackers zonder een vinger uit te steken
 firefox-home-ad-trackers-make = Advertentietrackers zorgen ervoor dat webpagina’s langzamer worden geladen. Met { -brand-name-firefox } hoeft u niet in instellingen te zoeken om dat op te lossen, omdat we de meeste trackers automatisch blokkeren.
+# "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Zweer afleiding af
 # Variables
 #   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
@@ -25,6 +37,10 @@ firefox-home-swear-off = Zweer afleiding af
 firefox-home-stay-focused = Blijf gefocust met extensies zoals <a { $tomato_clock_attrs }>Tomato Clock</a> en <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> – ze worden aanbevolen, wat als onze gouden ster is voor uitzonderlijke beveiliging en functionaliteit.
 firefox-home-your-stuff = Uw zaken, op al uw schermen
 firefox-home-get-firefox-mobile = Download { -brand-name-firefox } mobiel, zodat uw wachtwoorden, tabbladen en geschiedenis – en de privacy en beveiliging waarop u vertrouwt – overal mee naartoe gaan.
+
+## Customization
+
+# asterisks provide playful emphasis, omit or use symbols appropriate in your language
 firefox-home-really-make-it = Maak het *echt* van u
 firefox-home-work-smarter = Werk slimmer, speel harder
 # Variables
@@ -34,13 +50,15 @@ firefox-home-bye-boring = Dag saaie browser
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
 firefox-home-the-internet-can = Het internet kan een mooie plek zijn, met de juiste <a { $theme_attrs }>thema</a>-add-on.
+
+## Final call-out
+
 firefox-home-billionaire-free = Al meer dan 20 jaar vrij van miljardairs
 firefox-home-firefox-was-created = { -brand-name-firefox } werd in 2004 gemaakt door { -brand-name-mozilla } als een sneller, meer privé en aanpasbaar alternatief voor browsers zoals Internet Explorer. Vandaag de dag zijn we nog steeds non-profit, nog steeds geen eigendom van miljardairs en werken we nog steeds aan het verbeteren van het internet – en de tijd die u eraan besteedt.
-firefox-home-set-firefox-as = { -brand-name-firefox } als uw standaardbrowser instellen.
+
+## Used as accessible alternative text for images.
+
 firefox-home-firefox-on-desktop = { -brand-name-firefox } op desktop en mobiel.
-
-# Used as accessible alternative text for an image
-
 firefox-home-happy-toggle = Blije schakelaar.
 firefox-home-multiple-cursors = Meerdere cursors.
 firefox-home-lots-of-open = Veel open tabbladen.

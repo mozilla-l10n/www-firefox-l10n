@@ -3,20 +3,33 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## URL: https://www-dev.springfield.moz.works/
+### URL: https://www-dev.springfield.moz.works/
+
+
+## Intro
 
 firefox-home-take-control = İnternetin kontrolünü eline al
+firefox-home-set-firefox-as = { -brand-name-firefox }’u varsayılan tarayıcınız yapın.
+
+## What's new
+
+# accessible section heading
 firefox-home-latest-features = En yeni { -brand-name-firefox } özellikleri
 firefox-home-dial-down = Gürültüyü azaltın
 firefox-home-block-ads = Özelleştirilebilir ayarlarla ve indirebileceğiniz pek çok uzantıyla reklamları engelleyin, gizliliğinizi artırın.
 firefox-home-multitasking = Aynı anda çok iş yapın
 firefox-home-keep-tabs-on = Sekmelerinizi kolayca yönetin
 firefox-home-see-release = Sürüm notlarına bakın
-firefox-home-block-ad-trackers = Parmağınızı bile kıpırdatmadan reklam takip kodlarını engelleyin
-firefox-home-bye-boring = Güle güle sıkıcı tarayıcı
-firefox-home-set-firefox-as = { -brand-name-firefox }’u varsayılan tarayıcınız yapın.
 
-# Used as accessible alternative text for an image
+## Features
+
+firefox-home-block-ad-trackers = Parmağınızı bile kıpırdatmadan reklam takip kodlarını engelleyin
+
+## Customization
+
+firefox-home-bye-boring = Güle güle sıkıcı tarayıcı
+
+## Used as accessible alternative text for images.
 
 firefox-home-happy-toggle = Gülümseyen açma/kapama düğmesi.
 firefox-home-multiple-cursors = Birden çok işaretçi.

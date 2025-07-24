@@ -3,10 +3,18 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## URL: https://www-dev.springfield.moz.works/
+### URL: https://www-dev.springfield.moz.works/
+
+
+## Intro
 
 firefox-home-take-control = Ejapyhy ne kundaha jepuru
 firefox-home-go-online = Eike ñandutípe ñepysãnga, jepáy ha kane’õ’ỹre. Erénte orerehe mba’eporãmeme.
+firefox-home-set-firefox-as = Ejapo { -brand-name-firefox }-gui kundahára ypyguáva.
+
+## What's new
+
+# accessible section heading
 firefox-home-latest-features = { -brand-name-firefox } oreko pyahúva
 firefox-home-dial-down = Emboguejy mba’eryapu
 firefox-home-block-ads = Ejoko ñemurã ha emoporãve ne rekoñemi ñemboheko mba’eteéva ha heta jepysokue mboguejykuaáva ndive.
@@ -14,10 +22,18 @@ firefox-home-multitasking = ¿Tembiaporãita?
 firefox-home-go-into-reading = Eike moñe’ẽrã rekópe, ehecha umi ta’ãngamýi apysẽ ha emoĩporãve tendayke ñembo’y ha tendayke aty ndive.
 firefox-home-keep-tabs-on = Ehechapaite umi tendayke
 firefox-home-see-release = Ehecha haipyre peteĩchagua
+
+## Features
+
 firefox-home-get-the-browser = Eguereko kundaha nepytyvõtava emba’apo hag̃ua
 firefox-home-block-ad-trackers = Ejoko umi ñemurã rapykuehoha eku’e’ỹre
+# "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Eñemomombyry mba’evaígui
 firefox-home-your-stuff = Nemba’e, opaite ne mba’erechahápe
+
+## Customization
+
+# asterisks provide playful emphasis, omit or use symbols appropriate in your language
 firefox-home-really-make-it = *Añete* ejapo nemba’erã
 firefox-home-work-smarter = Emba’apove, eñembosarái hatãve
 # Variables
@@ -27,12 +43,14 @@ firefox-home-bye-boring = Aháma, kundaha oiko’ỹva
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
 firefox-home-the-internet-can = Ñanduti ikatu ha’e peteĩ tenda iporãva, <a { $theme_attrs }>téma</a> moĩmbaha ndive.
+
+## Final call-out
+
 firefox-home-billionaire-free = Ndaipóri iviruetáva 20 ary pukukue
-firefox-home-set-firefox-as = Ejapo { -brand-name-firefox }-gui kundahára ypyguáva.
+
+## Used as accessible alternative text for images.
+
 firefox-home-firefox-on-desktop = { -brand-name-firefox } mohendaha mesa arigua ha pumbyrýpe.
-
-# Used as accessible alternative text for an image
-
 firefox-home-happy-toggle = Vy’ápe moambue.
 firefox-home-multiple-cursors = Mbohapehaita.
 firefox-home-lots-of-open = Heta tendayke juruja.

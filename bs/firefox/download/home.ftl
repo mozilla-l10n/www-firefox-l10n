@@ -3,10 +3,18 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## URL: https://www-dev.springfield.moz.works/
+### URL: https://www-dev.springfield.moz.works/
+
+
+## Intro
 
 firefox-home-take-control = Preuzmite kontrolu nad svojim internetom
 firefox-home-go-online = Budite online s manje ometanja, buke i stresa. Smatrajte nas da smo dašak svježeg zraka.
+firefox-home-set-firefox-as = Postavite { -brand-name-firefox } kao zadani preglednik.
+
+## What's new
+
+# accessible section heading
 firefox-home-latest-features = Najnovije funkcije { -brand-name-firefox }a
 firefox-home-dial-down = Smanjite buku
 firefox-home-block-ads = Blokirajte oglase i poboljšajte svoju privatnost pomoću prilagodljivih postavki i mnoštva ekstenzija za preuzimanje.
@@ -15,9 +23,13 @@ firefox-home-go-into-reading = Uđite u način rada za čitanje, prikažite vide
 firefox-home-keep-tabs-on = Pratite sve svoje tabove
 firefox-home-close-duplicates = Zatvorite duplikate, pretražite i zakačite otvorene tabove — postoje gotovo beskonačne mogućnosti za gotovo beskonačan broj tabova koje imate otvorene.
 firefox-home-see-release = Pogledajte napomene o izdanju
+
+## Features
+
 firefox-home-get-the-browser = Nabavite preglednik koji vam pomaže da obavite posao
 firefox-home-block-ad-trackers = Blokirajte alate za praćenje oglasa bez da prstom pomaknete
 firefox-home-ad-trackers-make = Praćenje oglasa usporava učitavanje web stranica. Sa { -brand-name-firefox }, nećete morati kopati po postavkama da biste to popravili, jer automatski blokira većinu praćenja.
+# "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Zakunite se da ne ometate stvari
 # Variables
 #   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
@@ -25,6 +37,10 @@ firefox-home-swear-off = Zakunite se da ne ometate stvari
 firefox-home-stay-focused = Ostanite fokusirani uz ekstenzije poput <a { $tomato_clock_attrs }>Tomato Clock</a> i <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — one su preporučene, što je poput naše zlatne zvjezdice za izuzetnu sigurnost i funkcionalnost.
 firefox-home-your-stuff = Vaše stvari, na svim vašim ekranima
 firefox-home-get-firefox-mobile = Nabavite { -brand-name-firefox } mobilnu verziju kako bi vaše lozinke, tabovi i historija - kao i privatnost i sigurnost na koje se oslanjate - bile s vama gdje god da idete.
+
+## Customization
+
+# asterisks provide playful emphasis, omit or use symbols appropriate in your language
 firefox-home-really-make-it = Učinite to *zaista* svojim
 firefox-home-work-smarter = Radite pametnije, igrajte se više
 # Variables
@@ -34,13 +50,15 @@ firefox-home-bye-boring = Zbogom, dosadni pregledniku
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
 firefox-home-the-internet-can = Internet može biti ružičasto mjesto, uz pravu <a { $theme_attrs }>temu</a> dodatka.
+
+## Final call-out
+
 firefox-home-billionaire-free = Bez milijardera više od 20 godina
 firefox-home-firefox-was-created = { -brand-name-firefox } je kreiran 2004. godine od strane { -brand-name-mozilla } kao brža, privatnija i prilagodljivija alternativa preglednicima poput Internet Explorera. Danas smo i dalje neprofitna organizacija, još uvijek nismo u vlasništvu milijardera i još uvijek radimo na tome da internet - i vrijeme koje provodite na njemu - učinimo boljim.
-firefox-home-set-firefox-as = Postavite { -brand-name-firefox } kao zadani preglednik.
+
+## Used as accessible alternative text for images.
+
 firefox-home-firefox-on-desktop = { -brand-name-firefox } na računaru i mobilnim uređajima.
-
-# Used as accessible alternative text for an image
-
 firefox-home-happy-toggle = Sretna promjena.
 firefox-home-multiple-cursors = Više kursora.
 firefox-home-lots-of-open = Mnogo otvorenih tabova.

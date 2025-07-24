@@ -3,10 +3,18 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## URL: https://www-dev.springfield.moz.works/
+### URL: https://www-dev.springfield.moz.works/
+
+
+## Intro
 
 firefox-home-take-control = Prendi il controllo della tua navigazione
 firefox-home-go-online = Connettiti con meno distrazioni, confusione e stress: prendi una boccata d’aria fresca.
+firefox-home-set-firefox-as = Imposta { -brand-name-firefox } come browser predefinito.
+
+## What's new
+
+# accessible section heading
 firefox-home-latest-features = Funzionalità più recenti di { -brand-name-firefox }
 firefox-home-dial-down = Riduci la confusione
 firefox-home-block-ads = Blocca le pubblicità e proteggi la tua privacy con impostazioni personalizzabili e tantissime estensioni disponibili.
@@ -15,9 +23,13 @@ firefox-home-go-into-reading = Passa alla Modalità lettura, apri i video in pri
 firefox-home-keep-tabs-on = Tieni sotto controllo tutte le tue schede
 firefox-home-close-duplicates = Appunta le schede, chiudi quelle duplicate o cerca tra quelle aperte: ci sono possibilità quasi infinite per il numero quasi infinito di schede che tieni aperte.
 firefox-home-see-release = Leggi le note di versione
+
+## Features
+
 firefox-home-get-the-browser = Scarica il browser che ti aiuta a svolgere al meglio le tue attività
 firefox-home-block-ad-trackers = Blocca le pubblicità traccianti senza muovere un dito
 firefox-home-ad-trackers-make = Gli annunci pubblicitari traccianti rallentano il caricamento delle pagine web. Con { -brand-name-firefox } non dovrai più cercare tra le impostazioni per risolvere il problema, perché la maggior parte degli elementi traccianti vengono bloccati automaticamente.
+# "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Liberati dalle distrazioni
 # Variables
 #   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
@@ -25,6 +37,10 @@ firefox-home-swear-off = Liberati dalle distrazioni
 firefox-home-stay-focused = Rimani concentrato con estensioni come <a { $tomato_clock_attrs }>Tomato Clock</a> e <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a>: fanno parte dei componenti aggiuntivi "Consigliati", premiati per la loro eccezionale sicurezza e funzionalità.
 firefox-home-your-stuff = I tuoi dati salvati su tutti i tuoi dispositivi
 firefox-home-get-firefox-mobile = Installa { -brand-name-firefox } per dispositivi mobili: password, schede e cronologia, insieme alla privacy e alla sicurezza su cui fai affidamento, ti accompagneranno ovunque tu vada.
+
+## Customization
+
+# asterisks provide playful emphasis, omit or use symbols appropriate in your language
 firefox-home-really-make-it = Rendi il browser *davvero* tuo
 firefox-home-work-smarter = Lavora meglio, ottieni di più
 # Variables
@@ -34,13 +50,15 @@ firefox-home-bye-boring = Addio, browser noiosi
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
 firefox-home-the-internet-can = Internet può essere un posto splendido con il giusto componente aggiuntivo per il <a { $theme_attrs }>tema</a> del browser.
+
+## Final call-out
+
 firefox-home-billionaire-free = Liberi dai miliardari da più di 20 anni
 firefox-home-firefox-was-created = { -brand-name-firefox } è stato creato nel 2004 da { -brand-name-mozilla } come un’alternativa più veloce, privata e personalizzabile a browser come Internet Explorer. Oggi siamo ancora un’organizzazione senza fini di lucro, non siamo proprietà di nessun miliardario e continuiamo a lavorare per migliorare Internet e valorizzare il tempo che ci dedichi.
-firefox-home-set-firefox-as = Imposta { -brand-name-firefox } come browser predefinito.
+
+## Used as accessible alternative text for images.
+
 firefox-home-firefox-on-desktop = { -brand-name-firefox } su computer desktop e dispositivi mobili.
-
-# Used as accessible alternative text for an image
-
 firefox-home-happy-toggle = Interruttore sorridente.
 firefox-home-multiple-cursors = Cursori multipli.
 firefox-home-lots-of-open = Browser con molte schede aperte.

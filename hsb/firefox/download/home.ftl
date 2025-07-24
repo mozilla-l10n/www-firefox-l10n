@@ -3,10 +3,18 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## URL: https://www-dev.springfield.moz.works/
+### URL: https://www-dev.springfield.moz.works/
+
+
+## Intro
 
 firefox-home-take-control = Kontrolujće swój internet
 firefox-home-go-online = Dźiće online z mjenje wotwjedźenjemi, haru a stresom. Myslće na nas jako dych čerstweho powětra.
+firefox-home-set-firefox-as = Čińće { -brand-name-firefox } k swojemu standardnemu wobhladowakej.
+
+## What's new
+
+# accessible section heading
 firefox-home-latest-features = Najnowše funkcije { -brand-name-firefox }
 firefox-home-dial-down = Pomjeńšće haru
 firefox-home-block-ads = Blokujće wabjenje a polěpšće swoju priwatnosć z přiměrjomnymi nastajenjemi a tonami sćahujomnych rozšěrjenjow.
@@ -15,9 +23,13 @@ firefox-home-go-into-reading = Přeńdźće k čitanskemu modusej, wobhladajće 
 firefox-home-keep-tabs-on = Wobchowajće rajtarki na wšěch wašich rajtarkach
 firefox-home-close-duplicates = Začińće duplikaty, pytajće a připniće wočinjene rajtarki – je nimale njeskónčnje wjele móžnosćow za nimale njeskónčnje wjele wočinjenych rajtarkow.
 firefox-home-see-release = Hlejće wersijowe informacije
+
+## Features
+
 firefox-home-get-the-browser = Wobstarajće sej wobhladowak, kotryž wam pomha, waše dźěło činić
 firefox-home-block-ad-trackers = Blokujće wabjenske přesćěhowaki, bjeztoho zo byšće porsćik zhibnył
 firefox-home-ad-trackers-make = Wabjenske přeścěhowaki webstronow spomaleja. Z { -brand-name-firefox } njetrjebaće nastajenja přepytać, zo byšće tón problem rozrisał, dokelž najwjace přesćěhowakow blokujemy.
+# "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Wzdajće so wotwjedźenjow
 # Variables
 #   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
@@ -25,6 +37,10 @@ firefox-home-swear-off = Wzdajće so wotwjedźenjow
 firefox-home-stay-focused = Wostańće koncentrowany z rozšěrjenjemi kaž <a { $tomato_clock_attrs }>Tomato Clock</a> a <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> – poručeja so, štož je kaž naša złota hwěžka za to, zo wosebitu wěstotu a funkcionalnosć skićimy.
 firefox-home-your-stuff = Waša maćizna, na wšěch wašich wobrazowkach
 firefox-home-get-firefox-mobile = Wobstarajće sej { -brand-name-firefox } za mobilne graty, zo byšće móhł swoje hesła, rajtarki a historiju – a priwatnosć a wěstotu, na kotrejž so spušćeće – wšudźe sobu wzać.
+
+## Customization
+
+# asterisks provide playful emphasis, omit or use symbols appropriate in your language
 firefox-home-really-make-it = Čińće jón *woprawdźe* k swojemu
 firefox-home-work-smarter = Dźěłajće inteligentnišo, hrajće ćešo
 # Variables
@@ -34,13 +50,15 @@ firefox-home-bye-boring = Čěs, wostudły wobhladowak
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
 firefox-home-the-internet-can = Internet móže róžojte městno być, z prawej přidawkowej <a { $theme_attrs }>drastu</a>.
+
+## Final call-out
+
 firefox-home-billionaire-free = Bjez miliardarow wot přez 20 lět
 firefox-home-firefox-was-created = { -brand-name-firefox } je so w lěće 2004 wot { -brand-name-mozilla } jako spěšniša, priwatniša a bóle přiměrjomna alternatiwa k wobhladowakam kaž Internet Explorer wutworił. Dźensa smy hišće powšitkownosći wužitni, hišće njesłušamy někajkim miliardaram a dźěłamy hišće, zo bychmy internet – a čas, za kotryž w nim přebywaće, polěpšili.
-firefox-home-set-firefox-as = Čińće { -brand-name-firefox } k swojemu standardnemu wobhladowakej.
+
+## Used as accessible alternative text for images.
+
 firefox-home-firefox-on-desktop = { -brand-name-firefox } na desktopje a mobilnym graće.
-
-# Used as accessible alternative text for an image
-
 firefox-home-happy-toggle = Wjesoła změna.
 firefox-home-multiple-cursors = Wjacore cursory.
 firefox-home-lots-of-open = Wjele wočinjenych rajtarkow.

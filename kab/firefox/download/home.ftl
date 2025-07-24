@@ -3,9 +3,9 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## URL: https://www-dev.springfield.moz.works/
+### URL: https://www-dev.springfield.moz.works/
+
+
+## What's new
 
 firefox-home-see-release = Wali iwenniten n lqem
-
-# Used as accessible alternative text for an image
-

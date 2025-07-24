@@ -3,10 +3,18 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## URL: https://www-dev.springfield.moz.works/
+### URL: https://www-dev.springfield.moz.works/
+
+
+## Intro
 
 firefox-home-take-control = Tomá el control de tu internet
 firefox-home-go-online = Conectate a Internet con menos distracciones, confusión y estrés. Pensá en nosotros como un soplo de aire fresco.
+firefox-home-set-firefox-as = Establecé { -brand-name-firefox } como tu navegador predeterminado.
+
+## What's new
+
+# accessible section heading
 firefox-home-latest-features = Últimas características de { -brand-name-firefox }
 firefox-home-dial-down = Bajá el nivel de ruido
 firefox-home-block-ads = Bloqueá publicidades y mejorá tu privacidad con configuraciones personalizables y toneladas de extensiones descargables.
@@ -15,9 +23,13 @@ firefox-home-go-into-reading = Entrá en el modo lectura, mirá videos emergente
 firefox-home-keep-tabs-on = Mantené el control de todas tus pestañas
 firefox-home-close-duplicates = Cerrar duplicados, buscar y pegar pestañas abiertas — hay posibilidades casi infinitas para la cantidad casi infinita de pestañas que tenés abiertas.
 firefox-home-see-release = Ver notas de la versión
+
+## Features
+
 firefox-home-get-the-browser = Conseguí el navegador que te ayuda a hacer el trabajo
 firefox-home-block-ad-trackers = Bloqueá los rastreadores de publicidad sin mover un dedo
 firefox-home-ad-trackers-make = Los rastreadores de publicidad hacen que las páginas web se carguen más lentamente. Con { -brand-name-firefox }, no tendrás que buscar en la configuración para solucionar eso, porque bloqueamos automáticamente la mayoría de los rastreadores.
+# "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Libre de distracciones
 # Variables
 #   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
@@ -25,6 +37,10 @@ firefox-home-swear-off = Libre de distracciones
 firefox-home-stay-focused = Mantenete enfocado con extensiones como <a { $tomato_clock_attrs }>Tomato Clock</a> y <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — son Recomendadas, que es como nuestra estrella dorada por tener una seguridad excepcional y funcionalidad.
 firefox-home-your-stuff = Tus cosas, en todas las pantallas
 firefox-home-get-firefox-mobile = Conseguí { -brand-name-firefox } móvil para que tus contraseñas, pestañas e historial, así como la privacidad y seguridad en las que confiás, vayan contigo dondequiera que vayas.
+
+## Customization
+
+# asterisks provide playful emphasis, omit or use symbols appropriate in your language
 firefox-home-really-make-it = *Realmente* hacelo tuyo
 firefox-home-work-smarter = Trabajá de manera más inteligente, jugá más duro
 # Variables
@@ -34,13 +50,15 @@ firefox-home-bye-boring = Adiós, navegador aburrido
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
 firefox-home-the-internet-can = Internet puede ser un lugar prometedor, con el complemento de <a { $theme_attrs }>tema</a> adecuado.
+
+## Final call-out
+
 firefox-home-billionaire-free = Libre de multimillonarios por más de 20 años
 firefox-home-firefox-was-created = { -brand-name-firefox } fue creado en 2004 por { -brand-name-mozilla } como una alternativa más rápida, privada y personalizable a navegadores como Internet Explorer. Hoy en día, seguimos sin fines de lucro, todavía no somos propiedad de ningún multimillonario y seguimos trabajando para mejorar Internet, y el tiempo que invertís en ella.
-firefox-home-set-firefox-as = Establecé { -brand-name-firefox } como tu navegador predeterminado.
+
+## Used as accessible alternative text for images.
+
 firefox-home-firefox-on-desktop = { -brand-name-firefox } en computadoras de escritorio y dispositivos móviles.
-
-# Used as accessible alternative text for an image
-
 firefox-home-happy-toggle = Cambio feliz.
 firefox-home-multiple-cursors = Cursores múltiples.
 firefox-home-lots-of-open = Demasiadas pestañas abiertas
