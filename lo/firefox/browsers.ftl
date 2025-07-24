@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/desktop
 
+# HTML page title
+firefox-browsers-page-title-v2 = { -brand-name-firefox } ສໍາລັບເດັສທັອບ
 firefox-browsers-desktop = Desktop
 firefox-browsers-seriously-private-browsing = ການຊອກຫາສ່ວນຕົວຢ່າງຈິງຈັງ. { -brand-name-firefox } ອັດຕະໂນມັດບລັອກ 2000+ ຕົວຕິດຕາມອອນໄລນ໌ຈາກການລວບລວມຂໍ້ມູນກ່ຽວກັບສິ່ງທີ່ທ່ານເຮັດອອນໄລນ໌.
 firefox-browsers-download-for-desktop = ດາວໂຫລດສໍາລັບ Desktop
