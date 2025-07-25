@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
-consent-banner-heading = Ajùtani a fari megghiu a to spirienza cu { -brand-name-mozilla }
 consent-banner-body-v2 = Superchiu dî viscotta nicissari pi fari funziunari stu situ, vulìssimu u to pirmissu pi mèttiri quarchi autru viscottu pi capiri megghiu soccu ti serbi quannu nàvighi e pi fari megghiu a to spirienza. Nun ti frasturnari — avemu a cori a to privatizza.
 consent-banner-button-reject = Rifiuta tutti i viscotta addizziunali
 consent-banner-button-accept = Accetta tutti i viscotta addizziunali

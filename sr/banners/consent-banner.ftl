@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
-consent-banner-heading = Помозите да побољшамо ваше { -brand-name-mozilla } искуство
 consent-banner-button-reject = Одбиј све додатне колачиће
 consent-banner-button-accept = Прихвати све додатне колачиће
 consent-banner-settings-link = Подешавања колачића

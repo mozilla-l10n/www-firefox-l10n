@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
-consent-banner-heading = Helpwch ni i wella eich profiad o { -brand-name-mozilla }
 consent-banner-body-v2 = Yn ogystal â’r Cwcis sydd eu hangen er mwyn i’r wefan hon weithredu, hoffem gael eich caniatâd i osod Cwcis ychwanegol er mwyn deall eich anghenion pori yn well a gwella’ch profiad. Gallwch fod yn dawel eich meddwl am hyn - rydym yn gwerthfawrogi eich preifatrwydd.
 consent-banner-button-reject = Gwrthod Pob Cwci Ychwanegol
 consent-banner-button-accept = Derbyn Pob Cwci Ychwanegol

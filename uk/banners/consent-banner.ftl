@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
-consent-banner-heading = Допоможіть нам покращити ваш досвід з { -brand-name-mozilla }
 consent-banner-body-v2 = Крім файлів cookie, необхідних для роботи цього сайту, ми хотіли б отримати ваш дозвіл на встановлення додаткових файлів cookie, щоб краще зрозуміти ваші потреби та вдосконалити роботу. Будьте впевнені – ми цінуємо вашу приватність.
 consent-banner-button-reject = Відхилити всі додаткові файли cookie
 consent-banner-button-accept = Прийняти всі додаткові файли cookie

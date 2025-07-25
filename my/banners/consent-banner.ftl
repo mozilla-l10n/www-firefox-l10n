@@ -5,6 +5,5 @@
 
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
-consent-banner-heading = သင်၏ { -brand-name-mozilla } အတွေ့အကြုံကို ပိုမိုကောင်းမွန်အောင် ကူညီပေးပါ။
 consent-banner-button-reject = နောက်ထပ် ကွတ်ကီး အားလုံးကို ငြင်းပယ်ပါ။
 consent-banner-button-accept = ထပ်လောင်းကွတ်ကီးအားလုံးကို လက်ခံပါ။

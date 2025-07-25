@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
-consent-banner-heading = עזרו לנו לשפר את החוויה שלכם ב־{ -brand-name-mozilla }
 consent-banner-body-v2 = בנוסף לעוגיות הנחוצות לתפקוד אתר זה, אנחנו מעוניינים לקבל את רשותכם להגדיר עוגיות נוספות כדי להבין טוב יותר את צרכי הגלישה שלכם ולשפר את החוויה שלכם. אל חשש - אנחנו מעריכים את הפרטיות שלכם.
 consent-banner-button-reject = דחיית כל העוגיות הנוספות
 consent-banner-button-accept = קבלת כל העוגיות הנוספות
