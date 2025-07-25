@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
+consent-banner-fx-heading = Segítsen nekünk javítani a firefox.com élményét
 consent-banner-body-v2 = Az oldal működéséhez szükséges sütik mellett az engedélyét kérjük néhány további süti beállításához is, hogy jobban megértsük az Ön böngészési igényeit és javítsuk az élményét. Nyugodt lehet – tiszteletben tartjuk az adatvédelmét.
 consent-banner-button-reject = Összes további süti elutasítása
 consent-banner-button-accept = Összes további süti elfogadása
