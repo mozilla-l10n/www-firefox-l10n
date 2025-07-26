@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
+consent-banner-fx-heading = Hjälp oss att förbättra din upplevelse av firefox.com
 consent-banner-body-v2 = Utöver de kakor som är nödvändiga för att den här webbplatsen ska fungera, vill vi gärna ha din tillåtelse att ställa in några kakor för att bättre förstå dina surfbehov och förbättra din upplevelse. Var säker — vi värderar din integritet.
 consent-banner-button-reject = Avvisa alla ytterligare kakor
 consent-banner-button-accept = Tillåt alla ytterligare kakor
