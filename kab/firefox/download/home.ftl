@@ -6,6 +6,12 @@
 ### URL: https://www-dev.springfield.moz.works/
 
 
+## Intro
+
+firefox-home-take-control = Internet gar ifassen-ik⋅im
+
 ## What's new
 
+# accessible section heading
+firefox-home-latest-features = Timahilin n { -brand-name-firefox } tineggura
 firefox-home-see-release = Wali iwenniten n lqem
