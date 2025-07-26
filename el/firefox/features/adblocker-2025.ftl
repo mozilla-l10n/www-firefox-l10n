@@ -7,6 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Φραγή διαφημίσεων
+# Page Title
+features-adblocker-meta-title-v2 = Σχετικά με τη φραγή διαφημίσεων
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Σχετικά με τη φραγή διαφημίσεων - { -brand-name-firefox }
 # HTML page description
