@@ -6,6 +6,10 @@
 ### URL: https://www-dev.springfield.moz.works/
 
 
+## Intro
+
+firefox-home-take-control = Πάρτε τον έλεγχο της περιήγησής σας
+
 ## What's new
 
 firefox-home-see-release = Προβολή σημειώσεων έκδοσης
