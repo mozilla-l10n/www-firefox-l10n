@@ -5,14 +5,34 @@
 
 ### URL: https://www-dev.springfield.moz.works/download/all/
 
+firefox-all-choose-browser = Escolle un navegador para continuar
+firefox-all-choose-platform = Escolle unha plataforma para continuar
+firefox-all-choose-language = Escolle un idioma para continuar
+firefox-all-change-browser = Escolla un produto diferente
+firefox-all-change-platform = Escolle unha plataforma diferente
+firefox-all-change-language = Escolle un idioma diferente
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Escolle da seguinte lista
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Precisas axuda?
+firefox-all-browser-v2 = 1. Navegador:
+firefox-all-platform-v2 = 2. Plataforma:
+firefox-all-language-v2 = 3. idioma:
+firefox-all-download = 4. Descarga:
+firefox-all-desktop = Escritorio
+firefox-all-mobile = Móbil
+firefox-all-recommended = (Recomendado)
 firefox-all-lang-multi = Multilingüe
+firefox-all-plat-mobile = Android e iOS
 firefox-all-sorry-we-couldnt-find = Sentímolo, non puidemos encontrar a descarga que buscabas. Téntao de novo ou selecciona unha descarga da lista.
 firefox-all-the-pre-alpha-version = A versión previa á alfa para usuarios avanzados aos que lles gusta buscar erros e probar novas características tan pronto como estean codificadas.
 firefox-all-64-bit-installers = Instaladores de 64 bits
 firefox-all-choose-a-64-bit-installer = Escolle un instalador de 64 bits para computadores con procesadores de 64 bits, o cal lles permite asignar máis memoria RAM a programas individuais (especialmente importante para xogos e outras aplicacións esixentes).
 firefox-all-32-bit-installers = Instaladores de 32 bits
+firefox-all-microsoft-store-installers = Microsoft Store
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Descargar { $esr_version }
 firefox-all-check-the-system-requirements = Comproba os requisitos do sistema
 firefox-all-release-notes = Notas da versión
 firefox-all-source-code = Código fonte
@@ -42,3 +62,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox }{ -brand-name-ios }
+firefox-all-download-esr-115 = Descargar ESR 115

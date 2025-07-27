@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/compare/brave/
+### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
-# Page title
-compare-brave-firefox-vs-brave = { -brand-name-firefox } vs Brave
+consent-banner-settings-link = Configuración de cookies
+consent-banner-aria-label = Aviso de cookies

@@ -5,3 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/compare/
 
+compare-shared-footer-cta-title = Fai máis con { -brand-name-firefox }
+compare-shared-its-easy-to-switch = É doado cambiar
+# Used as a small link to a cited source
+compare-shared-source = fonte

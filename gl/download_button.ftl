@@ -20,6 +20,14 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> para { -brand
 download-button-firefox-privacy = Privacidade do { -brand-name-firefox }
 download-button-firefox-privacy-notice = Política de privacidade do { -brand-name-firefox }
 download-button-download = Descargar
+download-firefox-esr = Descargar { -brand-name-firefox-esr }
+download-firefox-esr-32 = Descargar { -brand-name-firefox-esr } de 32 bits
+download-firefox-esr-64 = Descargar { -brand-name-firefox-esr } de 64 bits
+download-a-different-build = Descarga unha compilación diferente
 
 ## Linux
 
+download-button-linux-32-v2 = Descargar para Linux de 32 bits
+download-button-linux-64-v2 = Descargar para Linux 64 bits
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Obtelo de Microsoft
