@@ -40,7 +40,7 @@ firefox-home-work-smarter = Εργαστείτε εξυπνότερα, διασ�
 # Variables
 #   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
 firefox-home-explore-the-possibilities = Εξερευνήστε τις δυνατότητες για έρευνα, αγορές και πολλά άλλα με τις <a { $extensions_attrs }>επεκτάσεις</a>.
-firefox-home-bye-boring = Αντίο, βαρετό πρόγραμμα περιήγησης
+firefox-home-bye-boring = Πείτε «αντίο» στα βαρετά προγράμματα περιήγησης
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
 firefox-home-the-internet-can = Το διαδίκτυο μπορεί να είναι ένα ευχάριστο μέρος, με το σωστό <a { $theme_attrs }>θέμα</a>.
