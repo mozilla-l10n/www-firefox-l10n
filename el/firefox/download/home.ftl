@@ -9,6 +9,7 @@
 ## Intro
 
 firefox-home-take-control = Πάρτε τον έλεγχο της περιήγησής σας
+firefox-home-go-online = Πλοηγηθείτε στο διαδίκτυο με λιγότερους περισπασμούς, θόρυβο και άγχος. Εδώ μπορείτε να πάρετε μια ανάσα καθαρού αέρα.
 firefox-home-set-firefox-as = Ορίστε το { -brand-name-firefox } ως το προεπιλεγμένο σας πρόγραμμα περιήγησης.
 
 ## What's new
@@ -30,6 +31,10 @@ firefox-home-block-ad-trackers = Αποκλείστε ιχνηλάτες δια�
 firefox-home-ad-trackers-make = Οι ιχνηλάτες διαφημίσεων επιβραδύνουν τη φόρτωση των ιστοτόπων. Με το { -brand-name-firefox }, δεν θα χρειαστεί να ψάξετε στις ρυθμίσεις για να το διορθώσετε αυτό, επειδή αποκλείουμε αυτόματα τους περισσότερους.
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Αποφύγετε τους περισπασμούς
+# Variables
+#   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
+#   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
+firefox-home-stay-focused = Μείνετε συγκεντρωμένοι με επεκτάσεις όπως τα <a { $tomato_clock_attrs }>Tomato Clock</a> και <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a>: αυτά φέρουν την ένδειξη «Προτεινόμενο», δηλαδή πληρούν υψηλές προδιαγραφές ασφαλείας και λειτουργικότητας.
 firefox-home-your-stuff = Τα δεδομένα σας, σε όλες τις οθόνες σας
 firefox-home-get-firefox-mobile = Αποκτήστε το { -brand-name-firefox } για κινητές συσκευές, ώστε οι κωδικοί πρόσβασης, οι καρτέλες και το ιστορικό σας — καθώς και το απόρρητο και η ασφάλειά σας — να είναι μαζί σας όπου κι αν πάτε.
 
