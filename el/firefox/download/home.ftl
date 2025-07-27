@@ -31,6 +31,7 @@ firefox-home-ad-trackers-make = Οι ιχνηλάτες διαφημίσεων �
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Αποφύγετε τους περισπασμούς
 firefox-home-your-stuff = Τα δεδομένα σας, σε όλες τις οθόνες σας
+firefox-home-get-firefox-mobile = Αποκτήστε το { -brand-name-firefox } για κινητές συσκευές, ώστε οι κωδικοί πρόσβασης, οι καρτέλες και το ιστορικό σας — καθώς και το απόρρητο και η ασφάλειά σας — να είναι μαζί σας όπου κι αν πάτε.
 
 ## Customization
 
@@ -48,6 +49,7 @@ firefox-home-the-internet-can = Το διαδίκτυο μπορεί να είν
 ## Final call-out
 
 firefox-home-billionaire-free = Χωρίς δισεκατομμυριούχους για 20+ χρόνια
+firefox-home-firefox-was-created = Το { -brand-name-firefox } δημιουργήθηκε το 2004 από τη { -brand-name-mozilla } ως μια πιο γρήγορη, πιο ιδιωτική και προσαρμόσιμη εναλλακτική λύση για προγράμματα περιήγησης, όπως το Internet Explorer. Σήμερα, παραμένουμε ένας μη κερδοσκοπικός οργανισμός, δεν ανήκουμε σε κανέναν δισεκατομμυριούχο και συνεχίζουμε να εργαζόμαστε για να κάνουμε το διαδίκτυο — και τον χρόνο που περνάτε σε αυτό — καλύτερο.
 
 ## Used as accessible alternative text for images.
 
