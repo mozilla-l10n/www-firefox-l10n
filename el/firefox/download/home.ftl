@@ -13,13 +13,21 @@ firefox-home-set-firefox-as = Ορίστε το { -brand-name-firefox } ως τ�
 
 ## What's new
 
+# accessible section heading
+firefox-home-latest-features = Οι νεότερες δυνατότητες του { -brand-name-firefox }
+firefox-home-dial-down = Μειώστε τον θόρυβο
+firefox-home-block-ads = Αποκλείστε διαφημίσεις και ενισχύστε το απόρρητό σας με προσαρμόσιμες ρυθμίσεις και πολλές επεκτάσεις.
 firefox-home-multitasking = Εκτελείτε πολλαπλές εργασίες;
+firefox-home-go-into-reading = Εκκινήστε τη λειτουργία ανάγνωσης, δείτε βίντεο σε αναδυόμενο παράθυρο και οργανωθείτε με τις κάθετες καρτέλες και τις ομάδες καρτελών.
 firefox-home-keep-tabs-on = Εποπτεύστε όλες τις καρτέλες σας
 firefox-home-close-duplicates = Κλείστε τις διπλές καρτέλες, αναζητήστε και καρφιτσώστε τις ανοικτές· υπάρχουν σχεδόν άπειρες δυνατότητες για τον σχεδόν άπειρο αριθμό καρτελών που έχετε ανοίξει.
 firefox-home-see-release = Προβολή σημειώσεων έκδοσης
 
 ## Features
 
+firefox-home-get-the-browser = Αποκτήστε το πρόγραμμα περιήγησης που σας βοηθά να ολοκληρώνετε τις εργασίες σας
+firefox-home-block-ad-trackers = Αποκλείστε ιχνηλάτες διαφημίσεων χωρίς κόπο
+firefox-home-ad-trackers-make = Οι ιχνηλάτες διαφημίσεων επιβραδύνουν τη φόρτωση των ιστοτόπων. Με το { -brand-name-firefox }, δεν θα χρειαστεί να ψάξετε στις ρυθμίσεις για να το διορθώσετε αυτό, επειδή αποκλείουμε αυτόματα τους περισσότερους.
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Αποφύγετε τους περισπασμούς
 firefox-home-your-stuff = Τα δεδομένα σας, σε όλες τις οθόνες σας
