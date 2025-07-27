@@ -14,6 +14,12 @@ firefox-home-take-control = Πάρτε τον έλεγχο της περιήγη
 
 firefox-home-see-release = Προβολή σημειώσεων έκδοσης
 
+## Features
+
+# "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
+firefox-home-swear-off = Αποφύγετε τους περισπασμούς
+firefox-home-your-stuff = Τα δεδομένα σας, σε όλες τις οθόνες σας
+
 ## Used as accessible alternative text for images.
 
 firefox-home-happy-toggle = Διακόπτης με χαρούμενη φατσούλα.
