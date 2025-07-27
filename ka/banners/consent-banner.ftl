@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
-consent-banner-fx-heading = დაგვეხმარეთ Firefox.com საიტის გაუმჯობესებაში
+consent-banner-fx-heading = დაგვეხმარეთ, მეტად მოსახერხებელი გავხადოთ firefox.com
 consent-banner-body-v2 = ამ საიტის მუშაობისთვის აუცილებელი ფუნთუშების გარდა, თქვენგან ვითხოვთ დამატებითი ფუნთუშების დაყენების ნებართვას თქვენი საჭიროებების უკეთ გასაგებად და შედეგიანობის გასაუმჯობესებლად. ნუ იღელვებთ – ჩვენთვის თქვენი პირადულობა მეტად ღირებულია.
 consent-banner-button-reject = ყველა დამატებითი ფუნთუშის უარყოფა
 consent-banner-button-accept = ყველა დამატებითი ფუნთუშის მიღება
