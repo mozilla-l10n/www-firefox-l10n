@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
+consent-banner-fx-heading = firefox.com deneyiminizi geliştirmemize yardım edin
 consent-banner-body-v2 = Bu sitenin çalışması için gerekli çerezlere ek olarak, gezinti ihtiyaçlarınızı daha iyi anlamak ve deneyiminizi geliştirmek için bazı ek çerezlere izin vermenizi rica ediyoruz. İçiniz rahat olsun, gizliliğinize değer veriyoruz.
 consent-banner-button-reject = Tüm ek çerezleri reddet
 consent-banner-button-accept = Tüm ek çerezleri kabul et
