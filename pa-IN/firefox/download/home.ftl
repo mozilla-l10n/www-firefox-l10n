@@ -9,18 +9,21 @@
 ## Intro
 
 firefox-home-take-control = ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਦਾ ਕੰਟਰੋਲ ਆਪਣੇ ਹੱਥ ਲਵੋ
+firefox-home-go-online = ਘੱਟ ਰੁਕਾਵਟਾਂ, ਰੌਲੇ ਅਤੇ ਤਣਾਅ ਨਾਲ ਆਨਲਾਈਨ ਰਹੋ। ਜਿਵੇਂ ਅਸੀਂ ਤਾਜ਼ੀ ਹਵਾ ਵਿੱਚ ਸਾਹ ਲੈਂਦੇ ਹਾਂ।
 firefox-home-set-firefox-as = { -brand-name-firefox } ਨੂੰ ਆਪਣਾ ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਬਣਾਓ।
 
 ## What's new
 
 # accessible section heading
 firefox-home-latest-features = ਨਵੇਂ { -brand-name-firefox } ਫ਼ੀਚਰ
+firefox-home-dial-down = ਰੌਲੇ ਨੂੰ ਘਟਾਓ
 firefox-home-multitasking = ਮਲਟੀ-ਟਾਸਕ ਕਰਨੇ?
 firefox-home-keep-tabs-on = ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਕਾਬੂ ਹੇਠ ਰੱਖੋ
 firefox-home-see-release = ਰੀਲਿਜ਼ ਨੋਟਿਸ ਨੂੰ ਵੇਖੋ
 
 ## Features
 
+firefox-home-get-the-browser = ਬਰਾਊਜ਼ਰ, ਜੋ ਤੁਹਾਨੂੰ ਕੰਮ ਪੂਰਾ ਕਰਨ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ, ਉਹ ਲਵੋ।
 firefox-home-block-ad-trackers = ਉਂਗਲ ਚੁੱਕੇ ਬਿਨਾਂ ਇਸ਼ਤਿਹਾਰ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
 firefox-home-your-stuff = ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਤੁਹਾਡੀਆਂ ਸਭ ਸਕਰੀਨਾਂ ਉੱਤੇ
 
