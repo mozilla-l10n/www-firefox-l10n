@@ -49,7 +49,7 @@ firefox-home-explore-the-possibilities = 探索如何使用<a { $extensions_attr
 firefox-home-bye-boring = 再會了，無聊的瀏覽器
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
-firefox-home-the-internet-can = 網際網路可以是一個能有合適附加元件<a { $theme_attrs }>佈景主題</a>的地方。
+firefox-home-the-internet-can = 使用合適的附加元件<a { $theme_attrs }>佈景主題</a>後，網際網路可以是一個美好的地方。
 
 ## Final call-out
 
