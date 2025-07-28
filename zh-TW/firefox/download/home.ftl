@@ -34,7 +34,7 @@ firefox-home-swear-off = 遠離讓人分心的內容
 # Variables
 #   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
 #   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
-firefox-home-stay-focused = 使用諸如 <a { $tomato_clock_attrs }>Thomato時鐘</a>、<a { $turn_off_the_lights_attrs }>關掉燈</a>之類的擴充套件讓您保持專注 — 這些擴充套件是推薦的產品。這些擴充套件就像我們金子中提供的安全性與功能一樣的更多資訊。
+firefox-home-stay-focused = 我們推薦使用 <a { $tomato_clock_attrs }>Thomato Clock</a>、<a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> 之類的擴充套件讓您保持專注 — 這些擴充套件的安全性與功能性都非常傑出。
 firefox-home-your-stuff = 由您決定、顯示於所有螢幕上
 firefox-home-get-firefox-mobile = 使用 { -brand-name-firefox } 行動版隨身帶著您的密碼、分頁、上網紀錄以及您所倚靠的隱私權與安全性一起隨身帶著走。
 
