@@ -9,6 +9,7 @@
 ## Intro
 
 firefox-home-take-control = İnternetin kontrolünü eline al
+firefox-home-go-online = İnternette dikkat dağıtıcı şeyleri, gürültüyü ve stresi azaltın. Bizimle ferah bir nefes alın.
 firefox-home-set-firefox-as = { -brand-name-firefox }’u varsayılan tarayıcınız yapın.
 
 ## What's new
@@ -18,11 +19,14 @@ firefox-home-latest-features = En yeni { -brand-name-firefox } özellikleri
 firefox-home-dial-down = Gürültüyü azaltın
 firefox-home-block-ads = Özelleştirilebilir ayarlarla ve indirebileceğiniz pek çok uzantıyla reklamları engelleyin, gizliliğinizi artırın.
 firefox-home-multitasking = Aynı anda çok iş yapın
+firefox-home-go-into-reading = Okuma moduna geçin, videoları sayfa dışında izleyin, dikey sekmeler ve sekme gruplarıyla organize olun.
 firefox-home-keep-tabs-on = Sekmelerinizi kolayca yönetin
+firefox-home-close-duplicates = Açık sekmeleriniz çok fazlaysa seçenekleriniz de çok: Tekrarlanan sekmeleri yapın, açık sekmelerde arama yapın, kolayca erişmek istediklerinizi sabitleyin.
 firefox-home-see-release = Sürüm notlarına bakın
 
 ## Features
 
+firefox-home-get-the-browser = İşinizi kolaylaştıran tarayıcıyı indirin
 firefox-home-block-ad-trackers = Parmağınızı bile kıpırdatmadan reklam takip kodlarını engelleyin
 
 ## Customization
