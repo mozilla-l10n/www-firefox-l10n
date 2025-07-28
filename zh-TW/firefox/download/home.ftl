@@ -45,7 +45,7 @@ firefox-home-really-make-it = *真正* 有您的風格
 firefox-home-work-smarter = 更聰明地工作，也玩得更多
 # Variables
 #   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
-firefox-home-explore-the-possibilities = 探索如何在<a { $extensions_attrs }>擴充套件</a>進行研究、購物等可能性。
+firefox-home-explore-the-possibilities = 探索如何使用<a { $extensions_attrs }>擴充套件</a>進行研究、購物等可能性。
 firefox-home-bye-boring = 再會了，無聊的瀏覽器
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
