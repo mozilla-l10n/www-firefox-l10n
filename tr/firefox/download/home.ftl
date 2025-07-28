@@ -10,7 +10,7 @@
 
 firefox-home-take-control = İnternetin kontrolünü eline al
 firefox-home-go-online = İnternette dikkat dağıtıcı şeyleri, gürültüyü ve stresi azaltın. Bizimle ferah bir nefes alın.
-firefox-home-set-firefox-as = { -brand-name-firefox }’u varsayılan tarayıcınız yapın.
+firefox-home-set-firefox-as = { -brand-name-firefox }’u varsayılan tarayıcım yap
 
 ## What's new
 
@@ -21,13 +21,22 @@ firefox-home-block-ads = Özelleştirilebilir ayarlarla ve indirebileceğiniz pe
 firefox-home-multitasking = Aynı anda çok iş yapın
 firefox-home-go-into-reading = Okuma moduna geçin, videoları sayfa dışında izleyin, dikey sekmeler ve sekme gruplarıyla organize olun.
 firefox-home-keep-tabs-on = Sekmelerinizi kolayca yönetin
-firefox-home-close-duplicates = Açık sekmeleriniz çok fazlaysa seçenekleriniz de çok: Tekrarlanan sekmeleri yapın, açık sekmelerde arama yapın, kolayca erişmek istediklerinizi sabitleyin.
+firefox-home-close-duplicates = Açık sekmeleriniz çok fazlaysa seçenekleriniz de çok: Tekrarlanan sekmeleri kapatın, açık sekmelerde arama yapın, kolayca erişmek istediklerinizi sabitleyin.
 firefox-home-see-release = Sürüm notlarına bakın
 
 ## Features
 
 firefox-home-get-the-browser = İşinizi kolaylaştıran tarayıcıyı indirin
 firefox-home-block-ad-trackers = Parmağınızı bile kıpırdatmadan reklam takip kodlarını engelleyin
+firefox-home-ad-trackers-make = Reklam takip kodları web sayfalarının daha yavaş yüklenmesine yol açar. { -brand-name-firefox } çoğu takip kodunu otomatik olarak engellediği için ayarları kurcalamanıza bile gerek yok.
+# "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
+firefox-home-swear-off = Dikkat dağınıklığına son
+# Variables
+#   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
+#   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
+firefox-home-stay-focused = <a { $tomato_clock_attrs }>Tomato Clock</a> ve <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> gibi uzantılarla odaklanma güçlüğünden kurtulun. “Önerilen” rozetini taşıyan bu uzantılar güvenlik ve işlevsellik bakımından denetleniyor.
+firefox-home-your-stuff = Verilerinize bütün cihazlarınızdan ulaşın
+firefox-home-get-firefox-mobile = { -brand-name-firefox } mobil uygulamasıyla parolalarınız, sekmeleriniz, geçmişiniz hep yanınızda; tabii bizden beklediğiniz gizlilik ve güvenlikle birlikte.
 
 ## Customization
 
