@@ -40,10 +40,20 @@ firefox-home-get-firefox-mobile = { -brand-name-firefox } mobil uygulamasıyla p
 
 ## Customization
 
+# asterisks provide playful emphasis, omit or use symbols appropriate in your language
+firefox-home-really-make-it = Gerçekten özelleştirilebilen tarayıcı
+firefox-home-work-smarter = İster çalışın ister oynayın
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = Araştırma, alışveriş ve daha birçok konuda işinize yarayacak <a { $extensions_attrs }>uzantıları</a> keşfedin.
 firefox-home-bye-boring = Güle güle sıkıcı tarayıcı
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = En beğendiğiniz <a { $theme_attrs }>tema</a> ile interneti kendi istediğiniz gibi görün.
 
 ## Used as accessible alternative text for images.
 
+firefox-home-firefox-on-desktop = { -brand-name-firefox } hem masaüstü hem de mobil cihazlarda.
 firefox-home-happy-toggle = Gülümseyen açma/kapama düğmesi.
 firefox-home-multiple-cursors = Birden çok işaretçi.
 firefox-home-lots-of-open = Çok fazla açık sekme.
