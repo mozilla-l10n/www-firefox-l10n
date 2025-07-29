@@ -51,6 +51,11 @@ firefox-home-bye-boring = Güle güle sıkıcı tarayıcı
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
 firefox-home-the-internet-can = En beğendiğiniz <a { $theme_attrs }>tema</a> ile interneti kendi istediğiniz gibi görün.
 
+## Final call-out
+
+firefox-home-billionaire-free = 20+ yıldır bağımsız
+firefox-home-firefox-was-created = { -brand-name-mozilla }, 2004 yılında Internet Explorer gibi tarayıcılara daha hızlı, daha gizlilik yanlısı ve özelleştirilebilir bir alternatif olması için { -brand-name-firefox }’u yarattı. Bugün hâlâ kâr amacı gütmüyoruz, hâlâ zenginlerin oyuncağı olmadık ve hâlâ interneti iyileştirmek için çalışıyoruz.
+
 ## Used as accessible alternative text for images.
 
 firefox-home-firefox-on-desktop = { -brand-name-firefox } hem masaüstü hem de mobil cihazlarda.
