@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = ມີ { -brand-name-firefox } ທີ່ໃໝ່ກວ່ານີ້. <a { $update_url }>ອັບເດດເປັນເວີຊັນຫຼ້າສຸດ</a>
 firefox-desktop-download-get-the-browser = ເອົາຕົວທ່ອງເວັບທີ່ປົກປ້ອງສິ່ງທີ່ສໍາຄັນ
 firefox-desktop-download-fast-reliable-private = ໄວ, ເຊື່ອຖືໄດ້ ແລະ ເປັນສ່ວນຕົວ — ເພື່ອຄວາມສະຫງົບທາງອອນໄລນ໌.
+firefox-desktop-set-as-default = ຕັ້ງ { -brand-name-firefox } ເປັນຕົວທ່ອງເວັບເລີ່ມຕົ້ນຂອງທ່ານ.
 # Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = ບໍ່ມີນະໂຍບາຍຄວາມເປັນສ່ວນຕົວທີ່ຮົ່ມຫຼືປະຕູຫລັງສໍາລັບຜູ້ໂຄສະນາ. ພຽງແຕ່ເປັນຕົວທ່ອງເວັບໄວຟ້າຜ່າທີ່ບໍ່ຂາຍຂໍ້ມູນທ່ານ.
 firefox-desktop-download-download-options = ທາງເລືອກໃນການດາວໂຫຼດ ແລະພາສາອື່ນໆ
