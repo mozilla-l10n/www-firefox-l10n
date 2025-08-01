@@ -26,6 +26,9 @@ cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } nu
 
 ## Preference cookies section
 
+cookie-settings-category-preference-heading = Nastavitve
+cookie-settings-category-preference-what-are-subheading = Kaj so nastavitveni piškotki?
+cookie-settings-category-preference-what-are-desc = Te tehnologije so namenjene shranjevanju izbir, ki ste jih sprejeli ob prejšnjem obisku spletnega mesta – na primer jezika, v katerem najraje berete, ali barvne teme, ki vam je najljubša.
 
 ## Analytics cookies section
 
