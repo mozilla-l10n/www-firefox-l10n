@@ -14,6 +14,7 @@ firefox-home-take-control = Интернети худро дар зери наз
 
 # accessible section heading
 firefox-home-latest-features = Ҳусусиятҳои навтарини «{ -brand-name-firefox }»
+firefox-home-see-release = Дидани қайдҳои нашр
 
 ## Features
 
