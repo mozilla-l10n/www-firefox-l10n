@@ -6,7 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
 # page description
-features-fingerprinting-fingerprinting-is-a-desc = La detección de huellas digitales es un tipo de rastreo en línea que es más invasivo que el rastreo  basado en cookies; por eso, { -brand-name-firefox-browser } lo bloquea.
+features-fingerprinting-fingerprinting-is-a-desc = Los sistemas identificadores son un tipo de rastreo en línea que es más invasivo que el rastreo  basado en cookies; por eso, { -brand-name-firefox-browser } lo bloquea.
 features-fingerprinting-fingerprint-blocking = Bloqueo del detector de huellas digitales
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } bloquea la detección de huellas digitales
 features-fingerprinting-what-is-fingerprinting-body = ¿Qué es la detección de huellas digitales?
@@ -26,6 +26,6 @@ features-fingerprinting-the-practice-of = La práctica de la detección de huell
 # $url_details (string) - https://blog.mozilla.org/security/2020/01/07/firefox-72-fingerprinting/
 features-fingerprinting-the-latest-firefox = La nueva versión del navegador { -brand-name-firefox } te protege contra la toma de huellas digitales bloqueando solicitudes de terceros de empresas conocidas por participar en el rastreo de huellas digitales. Hemos trabajado duro para habilitar esta protección de privacidad sin romper los sitios web que disfrutás visitando. (Podés leer más aquí, si querés los <a { $url_details }>detalles técnicos</a>).
 # $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
-features-fingerprinting-and-its-not = Y no es una configuración escondida que tenés que revolver para encontrar. En la última versión del navegador { -brand-name-firefox }, el bloqueo de huellas digitales es estándar y está activado por defecto. Visita el <a { $url_protections }>panel de protección de privacidad</a> para ver cómo estás siendo rastreado sin enterarte y como { -brand-name-firefox } lo evita.
+features-fingerprinting-and-its-not = Y no es una configuración escondida que tenés que revolver para encontrar. En la última versión del navegador { -brand-name-firefox }, el bloqueo de sistemas identificadores es estándar y está activado por defecto. Visitá el <a { $url_protections }>panel de protección de privacidad</a> para ver cómo estás siendo rastreado sin enterarte y como { -brand-name-firefox } lo evita.
 # $url_download (string) - link to https://www.firefox.com/
 features-fingerprinting-you-probably-wouldnt = Probablemente no te gustaría que alguien rastree tus movimientos en la vida real. No hay razón para aceptarlo en línea. Si todavía no tienes { -brand-name-firefox }, <a { $url_download }>descárgalo y protégete</a> del rastreo de huellas digitales.
