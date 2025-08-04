@@ -18,6 +18,7 @@ firefox-browsers-download-for-desktop = ດາວໂຫລດສໍາລັບ 
 firefox-browsers-windows = { -brand-name-firefox } ສໍາລັບ { -brand-name-windows }
 firefox-browsers-mac = { -brand-name-firefox } ສໍາລັບ { -brand-name-mac-short }
 firefox-browsers-linux = { -brand-name-firefox } ສຳລັບ { -brand-name-linux }
+firefox-browsers-custom = ຕົວເລືອກການດາວໂຫຼດແບບກຳນົດເອງ
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = ຮັບການປົກປ້ອງຂໍ້ມູນທີ່ບໍ່ກົງກັນກັບຮອບວຽນການຊ່ວຍເຫຼືອທີ່ປັບແຕ່ງໃຫ້ເຫມາະສົມກັບຄວາມຕ້ອງການຂອງບໍລິສັດຂອງທ່ານ.
 firefox-browsers-enterprise-packages = ແພັກເກດ { -brand-name-enterprise }

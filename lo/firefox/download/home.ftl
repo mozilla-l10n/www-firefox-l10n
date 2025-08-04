@@ -9,3 +9,4 @@
 ## What's new
 
 firefox-home-dial-down = ຫຼຸດສຽງລົບກວນລົງ
+firefox-home-see-release = ເບິ່ງບັນທຶກການປ່ອຍ
