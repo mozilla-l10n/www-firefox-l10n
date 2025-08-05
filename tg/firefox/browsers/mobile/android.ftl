@@ -35,6 +35,7 @@ mobile-android-pop-videos-out = Видеоҳоро аз сомонаҳо ё пл
 mobile-android-about-mozilla = Дар бораи «{ -brand-name-mozilla }»
 # Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = Ташкилоти «{ -brand-name-mozilla }» барои сохтани Интернет ҳамчун манбаи ҷамъиятӣ барои ҳамаи мо фаъолият дорад, зеро ки мо боварӣ дорем, ки Интернети кушода ва озод нисбат ба Интернети пӯшида ва назоратшаванда  беҳтар аст. Мо маҳсулотеро монанд ба «{ -brand-name-firefox }» ва «{ -brand-name-pocket }» месозем, то онҳо имкони интихоб, шаффофият ва назоратро пешбарӣ кунанд.
+mobile-android-mozilla-exists-to-v2 = Ташкилоти «{ -brand-name-mozilla }» барои сохтани Интернет ҳамчун манбаи ҷамъиятӣ барои ҳамаи мо фаъолият дорад, зеро ки мо боварӣ дорем, ки Интернети кушода ва озод нисбат ба Интернети пӯшида ва назоратшаванда  беҳтар аст. Мо маҳсулотеро монанд ба «{ -brand-name-firefox }» месозем, то онҳо имкони интихоб, шаффофият ва назоратро пешбарӣ кунанд.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Ба фазои Интернет тавассути браузери «{ -brand-name-firefox }» барои «{ -brand-name-android }» якбора дароед
 mobile-android-see-all-your-open-tabs = Бо браузери «{ -brand-name-firefox }» барои «{ -brand-name-android }» ҳамаи варақаҳои кушодашуда, ҷустуҷӯҳои охирин ва сомонаҳои дӯстдоштаи худро дар як ҷой аз назар гузаронед.
