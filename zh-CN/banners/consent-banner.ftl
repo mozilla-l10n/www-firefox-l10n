@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
-consent-banner-fx-heading = 帮助我们改善您的 firefox.com 使用体验
+consent-banner-fx-heading = 帮助我们改善 firefox.com 使用体验
 consent-banner-body-v2 = 除运行本网站所必须的 Cookie 外，我们还希望您愿意接受增设一些 Cookie，以更好地了解您的浏览需求及改进使用体验。请放心，我们尊重您的隐私。
 consent-banner-button-reject = 拒绝所有附加 Cookie
 consent-banner-button-accept = 接受所有附加 Cookie
