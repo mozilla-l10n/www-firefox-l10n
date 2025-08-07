@@ -12,3 +12,6 @@ not-found-page-go-back = Назад
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Научете</a> за { -brand-name-mozilla }, нестопанската цел на { -brand-name-firefox }.
+# Variables:
+#   $download (url) - link to https://www.firefox.com/
+not-found-page-download-the-firefox-browser = <a href={ $download }>Изтеглете</a> четец { -brand-name-firefox } за вашето мобилно устройство или настолен компютър
