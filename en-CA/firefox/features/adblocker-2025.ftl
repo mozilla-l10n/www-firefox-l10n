@@ -7,6 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Ad Blocking
+# Page Title
+features-adblocker-meta-title-v2 = About Ad Blockers
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = About Ad Blockers - { -brand-name-firefox }
 # HTML page description
