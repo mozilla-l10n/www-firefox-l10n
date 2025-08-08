@@ -11,4 +11,4 @@ firefox-mobile-get-the-mobile-browser-built = გადმოწერეთ მ
 firefox-mobile-check-out-firefox-again-its = გაიცანით { -brand-name-firefox } ხელახლა. იგი არის მეტად სწრაფი, პირადული და თქვენს მხარეზე. { -brand-name-ios }-ისა და { -brand-name-android }-ისთვის.
 firefox-mobile-get-firefox-mobile = გადმოწერეთ მობილური { -brand-name-firefox }
 firefox-mobile-send-a-download-link-to-your = გაგზავნეთ ჩამოსატვირთი ბმული თქვენს ტელეფონზე.
-firefox-mobile-scan-the-qr-code-to-get-started = წააკითხეთ QR-კოდი, დასაწყებად
+firefox-mobile-scan-the-qr-code-to-get-started = გადაუღეთ QR-კოდს დასაწყებად
