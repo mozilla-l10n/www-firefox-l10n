@@ -20,13 +20,19 @@ firefox-home-block-ads = ປິດກັ້ນການໂຄສະນາ ແລ
 firefox-home-multitasking = ເຮັດຫຼາຍວຽກ?
 firefox-home-go-into-reading = ເຂົ້າສູ່ໂໝດການອ່ານ, ປາກົດວິດີໂອ ແລະ ຈັດລະບຽບຫຼາຍຂຶ້ນດ້ວຍແຖບຕັ້ງ ແລະ ກຸ່ມແຖບ.
 firefox-home-keep-tabs-on = ຮັກສາແຖບຢູ່ໃນແຖບທັງຫມົດຂອງທ່ານ
+firefox-home-close-duplicates = ປິດການຊໍ້າກັນ, ຄົ້ນຫາ ແລະ ປັກໝຸດແຖບເປີດ — ມີຄວາມເປັນໄປໄດ້ເກືອບບໍ່ຈຳກັດສຳລັບຈຳນວນແຖບເກືອບບໍ່ຈຳກັດທີ່ທ່ານໄດ້ເປີດ.
 firefox-home-see-release = ເບິ່ງບັນທຶກການປ່ອຍ
+
+## Features
+
+firefox-home-get-the-browser = ເອົາຕົວທ່ອງເວັບທີ່ຊ່ວຍໃຫ້ທ່ານເຮັດວຽກສໍາເລັດ
 
 ## Customization
 
 # asterisks provide playful emphasis, omit or use symbols appropriate in your language
 firefox-home-really-make-it = * ແທ້ໆ * ເຮັດ​ໃຫ້​ມັນ​ເປັນ​ຂອງ​ທ່ານ​
 firefox-home-work-smarter = ການເຮັດວຽກທີ່ສະຫຼາດກວ່າ, ການຫຼິ້ນທີ່ໜັກກວ່າ
+firefox-home-bye-boring = ລາກ່ອນ, ຕົວທ່ອງເວັບທີ່ຫນ້າເບື່ອ
 
 ## Used as accessible alternative text for images.
 
