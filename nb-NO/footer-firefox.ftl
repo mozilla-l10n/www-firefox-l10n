@@ -59,7 +59,7 @@ footer-tiktok = TikTok
 
 ## Legal links
 
-footer-websites-privacy-notice = Nettstedets personvernbestemmelser
+footer-websites-privacy-notice = Nettstedets personvernerklæring
 footer-terms-of-use = Bruksvilkår
 footer-websites-cookie-policy = Retningslinjer for infokapsler
 footer-community-participation-guidelines = Retningslinjer for fellesskapsdeltakelse
