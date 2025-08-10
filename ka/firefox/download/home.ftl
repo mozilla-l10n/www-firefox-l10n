@@ -45,7 +45,7 @@ firefox-home-really-make-it = *ნამდვილად* თქვენე�
 firefox-home-work-smarter = მეტი შედეგიანობა, მეტი გართობა
 # Variables
 #   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
-firefox-home-explore-the-possibilities = აღმოაჩინეთ ახალი გზები მასალების მოსაძიებლად, საყიდლების შესაძენად და ა.შ. მრავალფეროვანი <a { $extensions_attrs }>გაფართოებებით</a>.
+firefox-home-explore-the-possibilities = აღმოაჩინეთ ახალი გზები მასალების მოსაძიებლად, საყიდლების შესაძენად და სხვა საქმიანობებისთვის მრავალფეროვანი <a { $extensions_attrs }>გაფართოებებით</a>.
 firefox-home-bye-boring = დაემშვიდობეთ მოსაწყენ ბრაუზერს
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
