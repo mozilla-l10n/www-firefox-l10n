@@ -17,11 +17,11 @@ firefox-home-set-firefox-as = გახადეთ { -brand-name-firefox } ნ�
 # accessible section heading
 firefox-home-latest-features = რა ახალი შესაძლებლობებითაა { -brand-name-firefox }
 firefox-home-dial-down = ჩაახშეთ აურზაური
-firefox-home-block-ads = შეზღუდეთ რეკლამები და გაიუმჯობესეთ პირადულობა სრულად მოსარგები პარამეტრებითა ჩამოსატვირთი გაფართოებებით.
+firefox-home-block-ads = შეზღუდეთ რეკლამები და გაიუმჯობესეთ პირადულობა სრულად მოსარგები პარამეტრებითა და ჩამოსატვირთი გაფართოებებით.
 firefox-home-multitasking = მრავალი საქმე ერთდროულად?
-firefox-home-go-into-reading = გადადით კითხვის რეჟიმზე, განათავზეთ ზემოდან ვიდეოები და მოაწესრიგეთ საქმიანობა შვეული ჩანართებითა თუ ჩანართების დაჯგუფებით.
+firefox-home-go-into-reading = გადადით კითხვის რეჟიმზე, განათავსეთ ზემოდან ვიდეოები და მოაწესრიგეთ გვერდების ჩვენება შვეული ჩანართებითა თუ ჩანართების დაჯგუფებით.
 firefox-home-keep-tabs-on = მართეთ ყველა ჩანართი
-firefox-home-close-duplicates = დახურეთ გაორკეცებული, მოიძიეთ უკვე გახსნილი და მიამაგრეთ – თითქმის ულევი შესაძლებლობა თითქმის ულევი ოდენობით გახსნილი ჩანართისთვის.
+firefox-home-close-duplicates = დახურეთ გაორკეცებული, მოიძიეთ უკვე გახსნილი და დატოვეთ მიმაგრებული – თითქმის ულევი შესაძლებლობა თითქმის ულევი ოდენობით გახსნილი ჩანართისთვის.
 firefox-home-see-release = იხილეთ გამოშვების მონაცემები
 
 ## Features
@@ -36,7 +36,7 @@ firefox-home-swear-off = დაიცავით თავი ყურად�
 #   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
 firefox-home-stay-focused = მუდამ გულისყურით აკეთეთ საქმე ისეთი გაფართოებების დახმარებით, როგორებიცაა <a { $tomato_clock_attrs }>Tomaty Clock</a> და <a { $turn_off_the_lights_attrs }>Turn off  the lights</a> — ორივე მეტად სასურველია და ჩვენგან ოქროს ვარსკვლავიც დაიმსახურეს განსაკუთრებული უსაფრთხოებისა და შესაძლებლობების გამო.
 firefox-home-your-stuff = კუთვნილი მასალები ყველა ეკრანზე
-firefox-home-get-firefox-mobile = გადმოწერეთ { -brand-name-firefox } მობილურზე, რომ თქვენი პაროლები, ჩანართები და ისტორია — ყველგან თან წაიყოლოთ.
+firefox-home-get-firefox-mobile = გადმოწერეთ { -brand-name-firefox } მობილურზე, რომ თქვენი პაროლები, ჩანართები და ისტორია — ყველგან თან გაიყოლოთ.
 
 ## Customization
 
