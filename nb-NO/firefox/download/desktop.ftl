@@ -23,7 +23,7 @@ firefox-desktop-download-get-the-browser = Få nettleseren som beskytter det som
 firefox-desktop-download-fast-reliable-private = Raskt, pålitelig og privat — for trygghet på nett.
 firefox-desktop-set-as-default = Sett { -brand-name-firefox } som standard nettleser.
 # Obsolete string (expires: 2025-07-21)
-firefox-desktop-download-no-shady = Ingen lyssky personvernregler eller bakdører for annonsører. Bare en lynrask nettleser som ikke selger dine data.
+firefox-desktop-download-no-shady = Ingen lyssky personvernerklæringer eller bakdører for annonsører. Bare en lynrask nettleser som ikke selger dine data.
 firefox-desktop-download-download-options = Nedlastingsalternativer og andre språk
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } brukerstøtte
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
