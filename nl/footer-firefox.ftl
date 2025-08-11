@@ -75,9 +75,3 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Mogelijk gemaakt door { -brand-name-mozilla }
 footer-putting-people = Stelt sinds 1998 mensen voor winst
-
-## Feedback
-
-footer-feedback-found-a-bug = Hebt u een bug in onze nieuwe website gevonden?
-# links to a Google Form that is English only
-footer-feedback-let-us-know = Laat het ons weten.

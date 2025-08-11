@@ -75,9 +75,3 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Potentiate per { -brand-name-mozilla }
 footer-putting-people = Anteponente personas a profito desde 1998
-
-## Feedback
-
-footer-feedback-found-a-bug = Trovava tu un error con nostre nove sito web?
-# links to a Google Form that is English only
-footer-feedback-let-us-know = Face nos saper.

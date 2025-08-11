@@ -75,9 +75,3 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Wedi'i bweru gan { -brand-name-mozilla }
 footer-putting-people = Rhoi pobl cyn elw ers 1998
-
-## Feedback
-
-footer-feedback-found-a-bug = Wedi dod o hyd i wall gyda'n gwefan newydd?
-# links to a Google Form that is English only
-footer-feedback-let-us-know = Rhowch wybod i ni.

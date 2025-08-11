@@ -75,9 +75,3 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Napędzane przez { -brand-name-mozilla(case: "acc") }
 footer-putting-people = Stawiamy ludzi ponad zyski od 1998 roku
-
-## Feedback
-
-footer-feedback-found-a-bug = Znalazłeś błąd na naszej nowej witrynie?
-# links to a Google Form that is English only
-footer-feedback-let-us-know = Daj nam znać.

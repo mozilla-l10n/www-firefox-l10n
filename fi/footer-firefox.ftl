@@ -73,9 +73,3 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Voimanlähteenä { -brand-name-mozilla }
 footer-putting-people = Ihmiset voittojen edelle vuodesta 1998 lähtien
-
-## Feedback
-
-footer-feedback-found-a-bug = Löysitkö virheen uusilta verkkosivuiltamme?
-# links to a Google Form that is English only
-footer-feedback-let-us-know = Kerro meille.

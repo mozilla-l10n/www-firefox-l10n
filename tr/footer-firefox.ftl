@@ -75,9 +75,3 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = { -brand-name-mozilla } güvencesiyle
 footer-putting-people = 1998’den beri para için değil, insanlık için çalışıyoruz
-
-## Feedback
-
-footer-feedback-found-a-bug = Yeni sitemizde hata mı buldunuz?
-# links to a Google Form that is English only
-footer-feedback-let-us-know = Bize bildirin.

@@ -75,9 +75,3 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Pokreće { -brand-name-mozilla }
 footer-putting-people = Stavljanje ljudi ispred profita od 1998. godine
-
-## Feedback
-
-footer-feedback-found-a-bug = Pronašli ste grešku na našoj novoj web stranici?
-# links to a Google Form that is English only
-footer-feedback-let-us-know = Javite nam.

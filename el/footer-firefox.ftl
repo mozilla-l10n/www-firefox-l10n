@@ -75,9 +75,3 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Με την υποστήριξη της { -brand-name-mozilla }
 footer-putting-people = Προτεραιότητά μας οι άνθρωποι, όχι το κέρδος, από το 1998
-
-## Feedback
-
-footer-feedback-found-a-bug = Βρήκατε κάποιο σφάλμα στον νέο μας ιστότοπο;
-# links to a Google Form that is English only
-footer-feedback-let-us-know = Ενημερώστε μας.

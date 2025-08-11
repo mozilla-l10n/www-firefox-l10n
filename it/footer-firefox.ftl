@@ -75,9 +75,3 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Realizzato da { -brand-name-mozilla }
 footer-putting-people = Dal 1998 anteponiamo le persone ai profitti
-
-## Feedback
-
-footer-feedback-found-a-bug = Hai trovato un problema nel nostro nuovo sito web?
-# links to a Google Form that is English only
-footer-feedback-let-us-know = Faccelo sapere.

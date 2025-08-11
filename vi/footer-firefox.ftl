@@ -75,9 +75,3 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Được hỗ trợ bởi { -brand-name-mozilla }
 footer-putting-people = Đặt mọi người trên lợi nhuận kể từ năm 1998
-
-## Feedback
-
-footer-feedback-found-a-bug = Bạn có tìm thấy lỗi ở trang web mới của chúng tôi không?
-# links to a Google Form that is English only
-footer-feedback-let-us-know = Hãy cho chúng tôi biết.

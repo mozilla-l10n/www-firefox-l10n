@@ -75,9 +75,3 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Wot { -brand-name-mozilla } doprědka ćěrjeny
 footer-putting-people = Stajamy ludźi před profitom wot 1998
-
-## Feedback
-
-footer-feedback-found-a-bug = Sće problem z našim nowym websydłom namakał?
-# links to a Google Form that is English only
-footer-feedback-let-us-know = Dajće nam wědźeć.
