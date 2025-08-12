@@ -4,9 +4,6 @@
 
 navigation-firefox-home = صفحه اصلی { -brand-name-firefox }
 
-## Features
-
-
 ## Resources
 
 navigation-resources = منابع
