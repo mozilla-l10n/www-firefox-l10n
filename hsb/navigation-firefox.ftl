@@ -9,6 +9,13 @@ navigation-landmark-label = Primarny
 ## Features
 
 navigation-features = Funkcije
+navigation-close-features-menu = Meni funkcijow začinić
+navigation-top-features = Najwažniše funkcije
+navigation-fingerprint-blocking = Blokowanje porstowych wotćišćow
+navigation-ad-tracker-blocking = Blokowanje wabjenskeho slědowanja
+navigation-private-browsing = Priwatny modus
+navigation-password-manager = Darmotny zrjadowak hesłow
+navigation-features-all = Wšě funkcije { -brand-name-firefox } pokazać
 
 ## Resources
 
