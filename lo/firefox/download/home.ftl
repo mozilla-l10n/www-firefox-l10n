@@ -38,6 +38,10 @@ firefox-home-really-make-it = * ແທ້ໆ * ເຮັດ​ໃຫ້​ມັ
 firefox-home-work-smarter = ການເຮັດວຽກທີ່ສະຫຼາດກວ່າ, ການຫຼິ້ນທີ່ໜັກກວ່າ
 firefox-home-bye-boring = ລາກ່ອນ, ຕົວທ່ອງເວັບທີ່ຫນ້າເບື່ອ
 
+## Final call-out
+
+firefox-home-billionaire-free = ມະຫາເສດຖີຟຣີເປັນເວລາ 20+ ປີ
+
 ## Used as accessible alternative text for images.
 
 firefox-home-happy-toggle = ມ່ວນຊື່ນໃນການສະຫຼັບ.

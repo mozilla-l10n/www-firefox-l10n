@@ -7,6 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = ບັອກການໂຄສະນາ
+# Page Title
+features-adblocker-meta-title-v2 = ກ່ຽວກັບ Ad Blockers
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = ກ່ຽວກັບຕົວບລັອກໂຄສະນາ - { -brand-name-firefox }
 # HTML page description
