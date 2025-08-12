@@ -5,6 +5,14 @@
 
 ### URL: https://www-dev.springfield.moz.works/download/all/
 
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Descarcă { -brand-name-firefox } în engleză (SUA) și peste 90 de alte limbi
+firefox-all-choose-browser = Alege un browser pentru a continua
+firefox-all-choose-platform = Alege o platformă pentru a continua
+firefox-all-choose-language = Alege o limbă pentru a continua
+firefox-all-change-browser = Alege alt produs
+firefox-all-change-platform = Alege altă platformă
+firefox-all-change-language = Alege altă limbp
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Obține ajutor
 firefox-all-lang-multi = Multiple limbi
