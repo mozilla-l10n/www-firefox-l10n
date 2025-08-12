@@ -9,6 +9,13 @@ navigation-landmark-label = Cynradd
 ## Features
 
 navigation-features = Nodweddion
+navigation-close-features-menu = Cau'r ddewislen Nodweddion
+navigation-top-features = Nodweddion Uchaf
+navigation-fingerprint-blocking = Blocio Olion Bysedd
+navigation-ad-tracker-blocking = Rhwystro Tracwyr Hysbysebion
+navigation-private-browsing = Modd Pori Preifat
+navigation-password-manager = Rheolwr Cyfrinair Rhad ac Am Ddim
+navigation-features-all = Gweld pob un o'r { -brand-name-firefox } Nodwedd
 
 ## Resources
 

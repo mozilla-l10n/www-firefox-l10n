@@ -9,6 +9,13 @@ navigation-landmark-label = ძირითადი
 ## Features
 
 navigation-features = შესაძლებლობები
+navigation-close-features-menu = შესაძლებლობების მენიუს დახურვა
+navigation-top-features = ძირითადი შესაძლებლობები
+navigation-fingerprint-blocking = თითის ანაბეჭდის დაბლოკვა
+navigation-ad-tracker-blocking = სარეკლამო მეთვალყურეების შეზღუდვა
+navigation-private-browsing = პირადი თვალიერება
+navigation-password-manager = პაროლების უფასო მმართველი
+navigation-features-all = { -brand-name-firefox }-ვე შესაძლებლობის ნახვა
 
 ## Resources
 

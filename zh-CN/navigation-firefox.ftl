@@ -9,6 +9,13 @@ navigation-landmark-label = 主要
 ## Features
 
 navigation-features = 特色
+navigation-close-features-menu = 关闭功能菜单
+navigation-top-features = 热门功能
+navigation-fingerprint-blocking = 阻止指纹跟踪
+navigation-ad-tracker-blocking = 拦截广告跟踪器
+navigation-private-browsing = 隐私浏览模式
+navigation-password-manager = 免费密码管理器
+navigation-features-all = 查看所有 { -brand-name-firefox } 功能
 
 ## Resources
 

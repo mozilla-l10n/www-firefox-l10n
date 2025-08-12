@@ -9,6 +9,8 @@ navigation-landmark-label = Primær
 ## Features
 
 navigation-features = Funksjonar
+navigation-password-manager = Gratis passordhandsamar
+navigation-features-all = Vis alle { -brand-name-firefox }-funksjonane
 
 ## Resources
 
