@@ -9,6 +9,11 @@ navigation-landmark-label = Primær
 ## Features
 
 navigation-features = Funksjonar
+navigation-close-features-menu = Lat att funksjonsmenyen
+navigation-top-features = Toppfunksjoner
+navigation-fingerprint-blocking = Blokkering av fingeravtrykksporarar
+navigation-ad-tracker-blocking = Blokkering av annonsesporarar
+navigation-private-browsing = Privat nettlesingsmodus
 navigation-password-manager = Gratis passordhandsamar
 navigation-features-all = Vis alle { -brand-name-firefox }-funksjonane
 
