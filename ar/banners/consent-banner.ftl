@@ -4,6 +4,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
+consent-banner-fx-heading = ساعدنا على تحسين تجربتك مع firefox.com
 consent-banner-body-v2 = بالإضافة إلى ملفات تعريف الارتباط (الكوكيز) اللازمة لتشغيل هذا الموقع الإلكتروني، فإننا نود الحصول على إذنك لضبط بعض الكوكيز الإضافية لفهم احتياجات التصفّح الخاصة بك وتحسين تجربتك. اطمئن — فنحن نهتم بخصوصيتك.
 
 consent-banner-button-reject = رفض جميع ملفات تعريف الارتباط الإضافية

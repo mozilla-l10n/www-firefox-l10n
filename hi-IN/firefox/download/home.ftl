@@ -26,6 +26,7 @@ firefox-home-see-release = रिलीज़ नोट्स देखें
 
 firefox-home-get-the-browser = ऐसा ब्राउज़र पाएं जो आपका काम आसान बनाए
 firefox-home-block-ad-trackers = बिना कुछ किए, ऐड ट्रैकर्स को रोकें
+firefox-home-ad-trackers-make = ऐड ट्रैकर्स से वेबसाइट स्लो हो जाती है। { -brand-name-firefox } है तो बेफिक्र रहें, आपको सेटिंग में जाकर कुछ करने की ज़रूरत नहीं है, क्योंकि हम खुद-ब-खुद ज़्यादातर ट्रैकर्स को ब्लॉक कर देते हैं।
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = ध्यान भटकने से पक्का बचाव
 # Variables

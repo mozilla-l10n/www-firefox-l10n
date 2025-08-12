@@ -75,9 +75,3 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = { -brand-name-mozilla } द्वारा संचालित
 footer-putting-people = वर्ष 1998 से ही मुनाफ़े के बजाय आम लोगों को तरजीह
-
-## Feedback
-
-footer-feedback-found-a-bug = क्या आपको हमारी नई वेबसाइट में कोई बग या कोई समस्या दिखी?
-# links to a Google Form that is English only
-footer-feedback-let-us-know = हमें बताएँ।

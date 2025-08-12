@@ -26,6 +26,7 @@ firefox-home-see-release = انظر ملاحظات الإصدار
 
 firefox-home-get-the-browser = حمّل المتصفح الذي يساعدك على إنجاز المهام
 firefox-home-block-ad-trackers = احظر مُتعقّبات الإعلانات دون أي مجهود
+firefox-home-ad-trackers-make = تتسبّب مُتعقّبات الإعلانات في بطء تحميل صفحات الويب. لكن مع { -brand-name-firefox }، لن تحتاج إلى البحث في الإعدادات لإيقافها فنحن نحظر مُعظم المتعقّبات تلقائيًا.
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = وداعًا للمشتّتات
 # Variables
