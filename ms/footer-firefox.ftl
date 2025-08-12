@@ -75,9 +75,3 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Dikuasakan oleh { -brand-name-mozilla }
 footer-putting-people = Mementingkan pengguna sebelum keuntungan sejak 1998.
-
-## Feedback
-
-footer-feedback-found-a-bug = Temui pepijat dengan laman web baru kami?
-# links to a Google Form that is English only
-footer-feedback-let-us-know = Beritahu kami.
