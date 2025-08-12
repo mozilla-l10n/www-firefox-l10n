@@ -5,9 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/desktop
 
+# HTML page title
+firefox-browsers-page-title-v2 = { -brand-name-firefox } pentru desktop
+firefox-browsers-main-heading-v2 = { -brand-name-firefox } pentru desktop
 firefox-browsers-desktop = Calculator
 firefox-browsers-seriously-private-browsing = Navigare serios privată. { -brand-name-firefox } blochează automat peste 2000 de elemente de urmărire online împiedicându-le să colecteze informații despre ce faci online.
 firefox-browsers-download-for-desktop = Descarcă pentru desktop
+firefox-browsers-custom = Opțiuni de descărcare personalizate
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Obține o protecție neegalată a datelor cu cicluri de suport concepute pentru nevoile firmei tale.
 firefox-browsers-enterprise-packages = Pachete { -brand-name-enterprise }

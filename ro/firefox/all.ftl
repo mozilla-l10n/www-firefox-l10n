@@ -12,9 +12,16 @@ firefox-all-choose-platform = Alege o platformă pentru a continua
 firefox-all-choose-language = Alege o limbă pentru a continua
 firefox-all-change-browser = Alege alt produs
 firefox-all-change-platform = Alege altă platformă
-firefox-all-change-language = Alege altă limbp
+firefox-all-change-language = Alege altă limbă
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Alege din lista de mai jos
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Obține ajutor
+firefox-all-browser-v2 = 1. Browser:
+firefox-all-platform-v2 = 2. Platformă:
+firefox-all-language-v2 = 3. Limbă:
+firefox-all-download = 4. Descarcă:
+firefox-all-desktop = Desktop
 firefox-all-lang-multi = Multiple limbi
 firefox-all-sorry-we-couldnt-find = Ne pare rău, nu am găsit descărcarea pe care o cauți. Încearcă din nou sau alege o descărcare din lista de mai jos.
 firefox-all-the-pre-alpha-version = Versiunea pre-alfa pentru utilizatorii experimentați care doresc să caute problemele și să testeze funcțiile noi, pe măssură ce acestea sunt implementate.

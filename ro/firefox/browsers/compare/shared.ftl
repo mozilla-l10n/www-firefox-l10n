@@ -5,3 +5,6 @@
 
 ### URL: https://www-dev.springfield.moz.works/compare/
 
+compare-shared-compare-firefox = Compară { -brand-name-firefox }
+# Used as a small link to a cited source
+compare-shared-source = sursă
