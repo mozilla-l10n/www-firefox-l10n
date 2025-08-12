@@ -75,9 +75,3 @@ footer-firefox = { -brand-name-firefox }
 
 footer-powdered-by = Powered by { -brand-name-mozilla }
 footer-putting-people = Für dich und das Web. Schon seit 1998.
-
-## Feedback
-
-footer-feedback-found-a-bug = Auf unserer neuen Website gibt es einen Bug?
-# links to a Google Form that is English only
-footer-feedback-let-us-know = Gib Bescheid.
