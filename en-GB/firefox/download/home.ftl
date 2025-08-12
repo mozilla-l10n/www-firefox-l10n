@@ -28,7 +28,7 @@ firefox-home-see-release = See Release Notes
 
 firefox-home-get-the-browser = Get the browser that helps you get the job done
 firefox-home-block-ad-trackers = Block ad trackers without lifting a finger
-firefox-home-ad-trackers-make = Ad trackers make web pages load slower. With { -brand-name-firefox }, you won’t have to dig around in settings to fix that, because we automatically blocks most trackers.
+firefox-home-ad-trackers-make = Ad trackers make web pages load slower. With { -brand-name-firefox }, you won’t have to dig around in settings to fix that, because we automatically block most trackers.
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Swear off distractions
 # Variables
