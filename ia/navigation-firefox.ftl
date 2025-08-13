@@ -9,6 +9,13 @@ navigation-landmark-label = Primari
 ## Features
 
 navigation-features = Functionalitates
+navigation-close-features-menu = Clauder menu de functiones
+navigation-top-features = Melior functiones
+navigation-fingerprint-blocking = Blocada de dactylogrammas
+navigation-ad-tracker-blocking = Blocada del publicitate traciante
+navigation-private-browsing = Modo de navigation private
+navigation-password-manager = Gestor de contrasignos gratuite
+navigation-features-all = Vider tote le functiones de { -brand-name-firefox }
 
 ## Resources
 
