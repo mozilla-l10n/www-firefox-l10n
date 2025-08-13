@@ -9,6 +9,7 @@
 ## Intro
 
 firefox-home-take-control = Prevzemite nadzor nad svojim internetom
+firefox-home-set-firefox-as = Nastavite si { -brand-name-firefox(sklon: "tozilnik") } kot privzeti brskalnik.
 
 ## What's new
 
@@ -28,3 +29,7 @@ firefox-home-ad-trackers-make = Sledilci oglasov upočasnjujejo nalaganje spletn
 
 # asterisks provide playful emphasis, omit or use symbols appropriate in your language
 firefox-home-really-make-it = Napravite ga *resnično* svojega
+
+## Used as accessible alternative text for images.
+
+firefox-home-firefox-on-desktop = { -brand-name-firefox } na računalniku in mobilni napravi.
