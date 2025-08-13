@@ -7,6 +7,8 @@
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Pemblokiran Iklan
 
+# Page Title
+features-adblocker-meta-title-v2 = Tentang Pemblokir Iklan
 
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Tentang Pemblokir Iklan - { -brand-name-firefox }
