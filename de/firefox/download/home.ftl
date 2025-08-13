@@ -26,6 +26,7 @@ firefox-home-see-release = Versionshinweise ansehen
 
 firefox-home-get-the-browser = Hol dir den Browser, mit dem du alles schaffst
 firefox-home-block-ad-trackers = Blockiere Werbe-Tracker, ohne dafür einen Finger krumm zu machen
+firefox-home-ad-trackers-make = Werbe-Tracker beeinflussen, wie schnell Websites geladen werden. Mit { -brand-name-firefox } musst du dich nicht erst durch die Einstellungen wühlen, um dich darum zu kümmern. Wir blockieren automatisch die meisten Tracker.
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Lass dich nicht ablenken
 # Variables

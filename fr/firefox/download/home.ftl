@@ -26,6 +26,7 @@ firefox-home-see-release = Voir les notes de mise à jour
 
 firefox-home-get-the-browser = Choisissez le navigateur qui vous aide à accomplir toutes vos tâches
 firefox-home-block-ad-trackers = Bloquez les traqueurs publicitaires sans lever le petit doigt
+firefox-home-ad-trackers-make = Les traqueurs publicitaires ralentissent le chargement des pages web. Avec { -brand-name-firefox }, inutile de perdre votre temps à fouiller dans les paramètres pour les désactiver : nous bloquons automatiquement la majorité des traqueurs.
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Oubliez les distractions
 # Variables
