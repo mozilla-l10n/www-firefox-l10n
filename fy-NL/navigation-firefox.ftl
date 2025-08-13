@@ -9,6 +9,13 @@ navigation-landmark-label = Primêr
 ## Features
 
 navigation-features = Funksjes
+navigation-close-features-menu = Menu Funksjes slute
+navigation-top-features = Topfunksjes
+navigation-fingerprint-blocking = Blokkearjen fan fingerprinters
+navigation-ad-tracker-blocking = Blokkearjen fan advertinsjetrackers
+navigation-private-browsing = Priveenavigaasjemodus
+navigation-password-manager = Fergeze wachtwurdbehearder
+navigation-features-all = Alle { -brand-name-firefox }-funksjes besjen
 
 ## Resources
 
