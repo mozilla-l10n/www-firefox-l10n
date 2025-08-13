@@ -26,6 +26,7 @@ firefox-home-see-release = Lihat Nota Pelepasan
 
 firefox-home-get-the-browser = Dapatkan pelayar yang membantu anda menyiapkan tugasan
 firefox-home-block-ad-trackers = Halang penjejak iklan tanpa bersusah-payah
+firefox-home-ad-trackers-make = Penjejak iklan melembapkan muatan laman web. Dengan { -brand-name-firefox }, anda tidak perlu bertungkus-lumus membuat tetapan kerana kami menghalang kebanyakan penjejak secara automatik.
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Hentikan gangguan
 # Variables

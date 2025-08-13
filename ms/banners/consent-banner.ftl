@@ -4,6 +4,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
+consent-banner-fx-heading = Bantu kami meningkatkan pengalaman anda bersama firefox.com
 consent-banner-body-v2 = Selain kuki untuk kelancaran laman ini, kami merisik kebenaran anda untuk tetapan Kuki tambahan agar kami lebih memahami keperluan dan meningkatkan pengalaman pelayaran anda. Kami jamin — privasi anda sentiasa dilindungi.
 
 consent-banner-button-reject = Tolak Semua Kuki Tambahan
