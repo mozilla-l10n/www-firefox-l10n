@@ -9,6 +9,13 @@ navigation-landmark-label = Primario
 ## Features
 
 navigation-features = Caratteristiche
+navigation-close-features-menu = Chiudi il menu Caratteristiche
+navigation-top-features = Caratteristiche principali
+navigation-fingerprint-blocking = Blocco dei fingerprinter
+navigation-ad-tracker-blocking = Blocco delle pubblicità traccianti
+navigation-private-browsing = Navigazione anonima
+navigation-password-manager = Gestore password gratuito
+navigation-features-all = Visualizza tutte le caratteristiche di { -brand-name-firefox }
 
 ## Resources
 
