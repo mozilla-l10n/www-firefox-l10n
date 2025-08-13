@@ -9,7 +9,7 @@ navigation-landmark-label = Основной
 ## Features
 
 navigation-features = Возможности
-navigation-close-features-menu = Закрыть меню « Возможности»
+navigation-close-features-menu = Закрыть меню «Возможности»
 navigation-top-features = Основные возможности
 navigation-fingerprint-blocking = Блокировка цифровых отпечатков
 navigation-ad-tracker-blocking = Блокировка рекламных трекеров
