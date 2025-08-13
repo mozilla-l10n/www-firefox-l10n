@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Dostupan je još noviji { -brand-name-firefox }. <a { $update_url }>Aktualiziraj na najnoviju verziju</a>
 firefox-desktop-download-get-the-browser = Nabavi preglednik koji štiti ono što je važno
 firefox-desktop-download-fast-reliable-private = Brz, pouzdan i privatan – za bezbrižno pregledavanje interneta.
+firefox-desktop-set-as-default = Postavi { -brand-name-firefox } kao standardni preglednik.
 # Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = Bez nejasnih pravila o privatnosti ili oglašivača u pozadini. Jednostavno brz preglednik koji ne trguje tvojim podacima.
 firefox-desktop-download-download-options = Mogućnosti preuzimanja i drugi jezici
