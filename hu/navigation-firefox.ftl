@@ -11,11 +11,11 @@ navigation-landmark-label = Elsődleges
 navigation-features = Funkciók
 navigation-close-features-menu = Funkciók menü bezárása
 navigation-top-features = Legjobb funkciók
-navigation-fingerprint-blocking = Ujjlenyomat-blokkolás
-navigation-ad-tracker-blocking = Reklámkövető blokkolás
-navigation-private-browsing = Privát böngészés
+navigation-fingerprint-blocking = Ujjlenyomat-készítők blokkolása
+navigation-ad-tracker-blocking = Reklámkövetők blokkolása
+navigation-private-browsing = Privát böngészési mód
 navigation-password-manager = Ingyenes jelszókezelő
-navigation-features-all = Összes { -brand-name-firefox } funkció megtekintése
+navigation-features-all = Összes { -brand-name-firefox }-funkció megtekintése
 
 ## Resources
 
