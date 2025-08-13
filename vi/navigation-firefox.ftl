@@ -9,6 +9,13 @@ navigation-landmark-label = Chính
 ## Features
 
 navigation-features = Tính năng
+navigation-close-features-menu = Đóng menu Tính năng
+navigation-top-features = Các tính năng hàng đầu
+navigation-fingerprint-blocking = Chặn dấu vết
+navigation-ad-tracker-blocking = Chặn trình theo dõi quảng cáo
+navigation-private-browsing = Chế độ duyệt web riêng tư
+navigation-password-manager = Trình quản lý mật khẩu miễn phí
+navigation-features-all = Xem tất cả tính năng của { -brand-name-firefox }
 
 ## Resources
 
