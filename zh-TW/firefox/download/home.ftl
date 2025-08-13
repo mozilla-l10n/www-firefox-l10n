@@ -36,7 +36,7 @@ firefox-home-swear-off = 遠離讓人分心的內容
 #   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
 firefox-home-stay-focused = 我們推薦使用 <a { $tomato_clock_attrs }>Thomato Clock</a>、<a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> 之類的擴充套件讓您保持專注 — 這些擴充套件的安全性與功能性都非常傑出。
 firefox-home-your-stuff = 由您決定、顯示於所有螢幕上
-firefox-home-get-firefox-mobile = 使用 { -brand-name-firefox } 行動版隨身帶著您的密碼、分頁、上網紀錄以及您所倚靠的隱私權與安全性一起隨身帶著走。
+firefox-home-get-firefox-mobile = 使用 { -brand-name-firefox } 行動版，讓您的密碼、分頁、上網紀錄，以及您所倚靠的隱私權與安全性一起隨身帶著走。
 
 ## Customization
 
