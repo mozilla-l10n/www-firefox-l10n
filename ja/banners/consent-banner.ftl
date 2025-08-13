@@ -4,6 +4,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
+consent-banner-fx-heading = firefox.com の改善にご協力ください
 consent-banner-body-v2 = このサイトが機能するために必要な Cookie に加えて、あなたの閲覧のニーズをより理解し、エクスペリエンスを向上させるために、追加の Cookie を設定する許可をお願いします。プライバシーは侵害しませんのでご安心ください。
 
 consent-banner-button-reject = すべての追加 Cookie を拒否

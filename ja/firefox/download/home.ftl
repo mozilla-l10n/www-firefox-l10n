@@ -26,6 +26,7 @@ firefox-home-see-release = リリースノートを見る
 
 firefox-home-get-the-browser = 仕事をお手伝いするブラウザーを手に入れましょう
 firefox-home-block-ad-trackers = 操作いらずで広告トラッカーをブロック
+firefox-home-ad-trackers-make = 広告トラッカーは、ウェブページの読み込みを遅くします。{ -brand-name-firefox } なら、ほとんどのトラッカーを自動的にブロックするため、設定で修正する必要はありません。
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = 気が散る原因を断つ
 # Variables
