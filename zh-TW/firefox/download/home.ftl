@@ -20,7 +20,7 @@ firefox-home-dial-down = 降低噪音
 firefox-home-block-ads = 透過一大票可安裝的擴充套件來封鎖廣告，並且用可調整的選像來加強隱私。
 firefox-home-multitasking = 多工作業中？
 firefox-home-go-into-reading = 使用垂直分頁與分頁群組功能進入閱讀模式、彈出影片等功能讓頁面變得更有條理。
-firefox-home-keep-tabs-on = 在所有分頁中保留分頁
+firefox-home-keep-tabs-on = 在所有分頁中釘選分頁
 firefox-home-close-duplicates = 關閉重複項目、搜尋、釘選開啟的分頁 — 幾乎有無限種可能性自己開啟。
 firefox-home-see-release = 閱讀發行公告
 
