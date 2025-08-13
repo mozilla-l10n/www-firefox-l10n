@@ -21,14 +21,14 @@ firefox-home-block-ads = 透過一大票可安裝的擴充套件來封鎖廣告�
 firefox-home-multitasking = 多工作業中？
 firefox-home-go-into-reading = 使用垂直分頁與分頁群組功能進入閱讀模式、彈出影片等功能讓頁面變得更有條理。
 firefox-home-keep-tabs-on = 在所有分頁中釘選分頁
-firefox-home-close-duplicates = 關閉重複項目、搜尋、釘選開啟的分頁 — 幾乎有無限種可能性自己開啟。
+firefox-home-close-duplicates = 關閉重複分頁，搜尋、釘選開啟的分頁 — 對您開啟的分頁幾乎有無限可能。
 firefox-home-see-release = 閱讀發行公告
 
 ## Features
 
-firefox-home-get-the-browser = 使用能幫助您完成工作的瀏覽器
+firefox-home-get-the-browser = 獲得能幫助您完成工作的瀏覽器
 firefox-home-block-ad-trackers = 不費力就能直接封鎖廣告追蹤器
-firefox-home-ad-trackers-make = 廣告追踪器讓網頁載入變得更慢。安裝 { -brand-name-firefox } 後我們就自動會封鎖大部分的追踪器了。
+firefox-home-ad-trackers-make = 廣告追蹤器讓網頁載入變得更慢。使用 { -brand-name-firefox } 之後，我們會自動封鎖大部分的追蹤器，不用再在設定頁面辛苦調整。
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = 遠離讓人分心的內容
 # Variables
