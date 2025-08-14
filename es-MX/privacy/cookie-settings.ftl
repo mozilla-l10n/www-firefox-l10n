@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
 
+cookie-settings-how-mozilla-heading = Cómo { -brand-name-mozilla } utiliza las cookies
 cookie-settings-i-agree = Estoy de acuerdo
 cookie-settings-i-do-not-agree = No estoy de acuerdo
 cookie-settings-turn-on-javascript = Activa JavaScript para actualizar tus ajustes de cookies.
@@ -18,9 +19,3 @@ cookie-settings-category-necessary-what-are-subheading = ¿Qué son las cookies 
 
 cookie-settings-category-preference-heading = Preferencia
 cookie-settings-category-preference-what-are-subheading = ¿Qué son las cookies de preferencia?
-
-## Analytics cookies section
-
-
-## Privacy section
-
