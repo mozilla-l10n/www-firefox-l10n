@@ -8,6 +8,10 @@
 firefox-browsers-desktop = Escritorio
 firefox-browsers-seriously-private-browsing = Navegación privada de verdad. { -brand-name-firefox } bloquea automáticamente más de 2000 rastreadores en línea para que no recopilen información sobre lo que haces en la web.
 firefox-browsers-download-for-desktop = Descargar para Escritorio
+firefox-browsers-windows = { -brand-name-firefox } para { -brand-name-windows }
+firefox-browsers-mac = { -brand-name-firefox } para { -brand-name-mac-short }
+firefox-browsers-linux = { -brand-name-firefox } para { -brand-name-linux }
+firefox-browsers-custom = Opciones de descarga personalizadas
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Consigue una protección de datos inigualable con ciclos de soporte adaptados a las necesidades de tu empresa.
 firefox-browsers-enterprise-packages = Paquetes { -brand-name-enterprise }

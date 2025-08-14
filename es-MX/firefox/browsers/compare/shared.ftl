@@ -7,5 +7,6 @@
 
 compare-shared-compare-firefox = Comparar { -brand-name-firefox }
 compare-shared-footer-cta-title = Haz más con { -brand-name-firefox }
+compare-shared-its-easy-to-switch = Es fácil cambiar
 # Used as a small link to a cited source
 compare-shared-source = fuente
