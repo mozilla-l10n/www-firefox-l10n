@@ -9,6 +9,13 @@ navigation-landmark-label = Κύριο
 ## Features
 
 navigation-features = Δυνατότητες
+navigation-close-features-menu = Κλείσιμο μενού δυνατοτήτων
+navigation-top-features = Κορυφαίες δυνατότητες
+navigation-fingerprint-blocking = Φραγή fingerprinting
+navigation-ad-tracker-blocking = Φραγή διαφημιστικών ιχνηλατών
+navigation-private-browsing = Λειτουργία ιδιωτικής περιήγησης
+navigation-password-manager = Δωρεάν διαχείριση κωδικών πρόσβασης
+navigation-features-all = Προβολή όλων των δυνατοτήτων του { -brand-name-firefox }
 
 ## Resources
 
