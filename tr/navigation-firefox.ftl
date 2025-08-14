@@ -10,6 +10,12 @@ navigation-landmark-label = Ana
 
 navigation-features = Özellikler
 navigation-close-features-menu = Özellikler menüsünü kapat
+navigation-top-features = Öne Çıkan Özellikler
+navigation-fingerprint-blocking = Parmak İzi Engelleme
+navigation-ad-tracker-blocking = Reklam Takip Kodlarını Engelleme
+navigation-private-browsing = Gizli Gezinti Modu
+navigation-password-manager = Ücretsiz Parola Yöneticisi
+navigation-features-all = Tüm { -brand-name-firefox } özelliklerini görün
 
 ## Resources
 
