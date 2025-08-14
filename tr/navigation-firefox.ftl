@@ -9,6 +9,7 @@ navigation-landmark-label = Ana
 ## Features
 
 navigation-features = Özellikler
+navigation-close-features-menu = Özellikler menüsünü kapat
 
 ## Resources
 
