@@ -9,6 +9,7 @@ navigation-landmark-label = Ñepyrũgua
 ## Features
 
 navigation-features = Reheguáva
+navigation-close-features-menu = Emboty poravorã rembiapoite
 
 ## Resources
 
