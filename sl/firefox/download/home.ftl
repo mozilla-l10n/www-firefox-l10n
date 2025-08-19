@@ -22,6 +22,7 @@ firefox-home-see-release = Preberite opombe ob izdaji
 
 ## Features
 
+firefox-home-get-the-browser = Izberite brskalnik, ki vam pomaga pri opravilih
 firefox-home-block-ad-trackers = Blokirajte sledilce oglasov, ne da bi mignili s prstom
 firefox-home-ad-trackers-make = Sledilci oglasov upočasnjujejo nalaganje spletnih strani. V { -brand-name-firefox(sklon: "mestnik") } vam je brskanje po nastavitvah prihranjeno, saj privzeto blokira večino sledilcev.
 
