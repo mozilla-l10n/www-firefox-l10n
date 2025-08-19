@@ -47,6 +47,9 @@ firefox-home-work-smarter = ການເຮັດວຽກທີ່ສະຫຼ�
 #   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
 firefox-home-explore-the-possibilities = ສຳຫຼວດຄວາມເປັນໄປໄດ້ສຳລັບການຄົ້ນຄວ້າ, ການຊື້ເຄື່ອງ ແລະ ອື່ນໆໃນ <a { $extensions_attrs }>extensions</a>.
 firefox-home-bye-boring = ລາກ່ອນ, ຕົວທ່ອງເວັບທີ່ຫນ້າເບື່ອ
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = ອິນເຕີເນັດສາມາດເປັນບ່ອນທີ່ມີສີສັນ, ມີສ່ວນເສີມທີ່ຖືກຕ້ອງ <a { $theme_attrs }>theme</a>.
 
 ## Final call-out
 
