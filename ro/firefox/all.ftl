@@ -7,6 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Descarcă { -brand-name-firefox } în engleză (SUA) și peste 90 de alte limbi
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Toți merită acces la internet — limba nu ar trebui să fie niciodată o barieră. De aceea — cu ajutorul voluntarilor dedicați din întreaga lume — facem { -brand-name-firefox } disponibil în peste 90 de limbi.
 firefox-all-choose-browser = Alege un browser pentru a continua
 firefox-all-choose-platform = Alege o platformă pentru a continua
 firefox-all-choose-language = Alege o limbă pentru a continua
@@ -22,12 +24,18 @@ firefox-all-platform-v2 = 2. Platformă:
 firefox-all-language-v2 = 3. Limbă:
 firefox-all-download = 4. Descarcă:
 firefox-all-desktop = Desktop
+firefox-all-mobile = Mobil
 firefox-all-lang-multi = Multiple limbi
+firefox-all-plat-mobile = Android și iOS
 firefox-all-sorry-we-couldnt-find = Ne pare rău, nu am găsit descărcarea pe care o cauți. Încearcă din nou sau alege o descărcare din lista de mai jos.
 firefox-all-the-pre-alpha-version = Versiunea pre-alfa pentru utilizatorii experimentați care doresc să caute problemele și să testeze funcțiile noi, pe măssură ce acestea sunt implementate.
 firefox-all-64-bit-installers = Programe de instalare pe 64 de biți
 firefox-all-choose-a-64-bit-installer = Alege un program de instalare pe 64 de biți pentru calculatoarele cu procesoare pe 64 de biți, care le permit să aloce mai mult RAM programelor individuale — un aspect important în special pentru jocuri și alte aplicații solicitante.
 firefox-all-32-bit-installers = Programe de instalare pe 32 de biți
+firefox-all-microsoft-store-installers = Microsoft Store
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Descarcă { $esr_version }
 firefox-all-check-the-system-requirements = Verifică cerințele de sistem
 firefox-all-release-notes = Note privind versiunea
 firefox-all-source-code = Cod sursă
