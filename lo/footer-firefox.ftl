@@ -19,11 +19,21 @@ footer-custom-download = ຕົວເລືອກການດາວໂຫຼດ�
 
 # Section title
 footer-latest = ການສ້າງຫຼ້າສຸດ
+footer-beta = { -brand-name-beta }
+footer-nightly = { -brand-name-nightly }
+
+## Download links for enterprise versions of Firefox.
+
+# Section title
+footer-business = { -brand-name-firefox } ສໍາລັບທຸລະກິດ
+footer-enterprise = { -brand-name-enterprise }
 
 ## Links to community groups.
 
 # Section title
 footer-community = ຊຸມຊົນ
+footer-contribute = ສະໜັບສະໜູນ
+footer-developer = ນັກພັດທະນາ
 
 ## Legal links
 
