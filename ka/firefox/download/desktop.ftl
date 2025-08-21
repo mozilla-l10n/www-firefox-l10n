@@ -24,8 +24,8 @@ firefox-desktop-download-fast-reliable-private = სწრაფი, საი�
 firefox-desktop-set-as-default = გახადეთ { -brand-name-firefox } ნაგულისხმევი ბრაუზერი.
 # Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = არავითარი ფარული მუხლები პირადულობის დებულებებში ან დატოვებული ხვრელები სარეკლამოებისთვის. მხოლოდ მსუბუქი ბრაუზერი, რომელიც თქვენი მონაცემებით არ ვაჭრობს.
-firefox-desktop-download-download-options = ჩამოტვირთვის ვარიანტები და სხვა ენები
-firefox-desktop-download-browser-support = { -brand-name-firefox-browser } მხარდაჭერა
+firefox-desktop-download-download-options = ჩამოტვირთვის ასარჩევი და სხვა ენები
+firefox-desktop-download-browser-support = { -brand-name-firefox-browser(case: "gen") } მხარდაჭერა
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = აკეთეთ, რასაც აკეთებთ ხოლმე ინტერნეტში.<br> დანარჩენს { -brand-name-firefox-browser } <strong>მიხედავს</strong>.
 # Obsolete string (expires: 2025-07-21)
@@ -131,7 +131,7 @@ firefox-desktop-download-grab-a-high = გადაიღეთ მაღალ�
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } თავისთავად <a { $attrs }>უზღუდავს გარეშე მეთვალყურეების უმეტესობას</a> თქვენი მოქმედებების აღრიცხვისა და გაყიდვის შესაძლებლობას.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-questions = კითხვები გაქვთ? <a { $attrs }>{ -brand-name-mozilla } მხარდაჭერა</a> გამოგადგებათ.
+firefox-desktop-download-questions = კითხვები გაქვთ? იხილეთ <a { $attrs }>{ -brand-name-mozilla }-ს მხარდაჭერა</a>.
 
 ## URL: https://www-dev.springfield.moz.works/thanks/
 
