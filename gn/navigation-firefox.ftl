@@ -11,6 +11,10 @@ navigation-landmark-label = Ñepyrũgua
 navigation-features = Reheguáva
 navigation-close-features-menu = Emboty poravorã rembiapoite
 navigation-top-features = Peteĩchagua iporãvéva
+navigation-fingerprint-blocking = Ñemokuãhũ jejoko
+navigation-ad-tracker-blocking = Ñemurã jejoko rapykuehoha
+navigation-private-browsing = Kundaha Ñemigua Reko
+navigation-password-manager = Ñe’ẽñemi reigua ñangarekoha
 
 ## Resources
 
