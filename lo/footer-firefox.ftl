@@ -35,14 +35,34 @@ footer-community = ຊຸມຊົນ
 footer-contribute = ສະໜັບສະໜູນ
 footer-developer = ນັກພັດທະນາ
 
+## Links to resources
+
+footer-addons = Add-ons
+footer-blog = ບົດຄວາມ
+
+## Links to social media
+
+# Section title
+footer-follow-us = ຕິດຕາມພວກເຮົາ
+footer-instagram = Instagram
+footer-youtube = YouTube
+footer-tiktok = TikTok
+
 ## Legal links
 
+footer-websites-privacy-notice = ປະກາດຄວາມເປັນສ່ວນຕົວຂອງເວັບໄຊທ໌
+footer-terms-of-use = ເງື່ອນໄຂການນໍາໃຊ້
+footer-websites-cookie-policy = ນະໂຍບາຍຄຸກກີ
 footer-community-participation-guidelines = ຂໍ້ແນະນຳການມີສ່ວນຮ່ວມຂອງຊຸມຊົນ
+footer-logo-trademark-licensing = ໃບອະນຸຍາດເຄື່ອງໝາຍການຄ້າໂລໂກ້
 
 ## Language Switcher
 
+footer-language = ພາສາ
 footer-go = ໄປ
+footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
 footer-powdered-by = ຂັບເຄື່ອນໂດຍ { -brand-name-mozilla }
+footer-putting-people = ເອົາຄົນກ່ອນຜົນກຳໄລຕັ້ງແຕ່ປີ 1998
