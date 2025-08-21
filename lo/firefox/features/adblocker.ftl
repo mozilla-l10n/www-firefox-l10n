@@ -17,6 +17,9 @@ features-adblocker-these-ads-might-be-loud = ໂຄສະນາເຫຼົ່�
 features-adblocker-find-the-right-ad-blocker = ຊອກຫາຕົວສະກັດການໂຄສະນາທີ່ເຫມາະສົມສໍາລັບທ່ານ
 features-adblocker-there-are-scores-of-content = ມີຫຼາຍຕົວບລັອກເນື້ອຫາຢູ່ບ່ອນນັ້ນ, ແຕ່ນີ້ແມ່ນບາງທາງເລືອກທີ່ດີເລີດທີ່ຈັດໂດຍ { -brand-name-mozilla }…
 # Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = ຫຼາຍຄົນພິຈາລະນາວ່າເປັນມາດຕະຖານຄໍາໃນບັນດາຕົວບລັອກໂຄສະນາ, <a { $attrs }>uBlock Origin</a> ແມ່ນມີຊື່ສຽງສໍາລັບປະສິດທິພາບ ແລະ ປະສິດທິພາບຂອງມັນ. ສາມາດປັບແຕ່ງໄດ້ສູງ, ແຕ່ມັນຍັງເຮັດວຽກໄດ້ດີ "ອອກຈາກກ່ອງ."
+# Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = ສ່ວນຂະຫຍາຍເຫຼົ່ານີ້ໃຊ້ໄດ້ຢ່າງສວຍງາມໃນທັງ <a { $attrs1 }>{ -brand-name-firefox } ສໍາລັບເດັສທັອບ</a> ແລະ <a { $attrs2 }>Android</a>.

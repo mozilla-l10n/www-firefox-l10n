@@ -38,3 +38,11 @@ footer-developer = ນັກພັດທະນາ
 ## Legal links
 
 footer-community-participation-guidelines = ຂໍ້ແນະນຳການມີສ່ວນຮ່ວມຂອງຊຸມຊົນ
+
+## Language Switcher
+
+footer-go = ໄປ
+
+## Mozilla branding
+
+footer-powdered-by = ຂັບເຄື່ອນໂດຍ { -brand-name-mozilla }
