@@ -28,7 +28,7 @@ firefox-home-see-release = იხილეთ გამოშვების მ
 
 firefox-home-get-the-browser = გამოიყენეთ ბრაუზერი, რომელიც საქმეში გადგებათ
 firefox-home-block-ad-trackers = შეზღუდეთ სარეკლამო მეთვალყურეები თითის შეუხებლად
-firefox-home-ad-trackers-make = სარეკლამო მეთვალყურეები ანელებს გვერდების ჩატვირთვას. მათ ასარიდებლად { -brand-name-firefox } არ საჭიროებს პარამეტრებში გარკვევას, ვინაიდან თავისთავად ზღუდავს მეთვალყურეების უმეტესობას.
+firefox-home-ad-trackers-make = სარეკლამო მეთვალყურეები ანელებს გვერდების ჩატვირთვას. მათ ასარიდებლად { -brand-name-firefox } არ საჭიროებს პარამეტრებში ჩაძრომას, ვინაიდან თავისთავად ზღუდავს მეთვალყურეების უმეტესობას.
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = დაიცავით თავი ყურადღების გაფანტვისგან
 # Variables
