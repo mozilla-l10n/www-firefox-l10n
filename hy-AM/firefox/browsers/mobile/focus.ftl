@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/mobile/focus/
 
+# HTML page title
+mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }. գաղտնիության ծանուցում
 # HTML description
 mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus }-ը ձեր անձնական տվյալների պաշտպանության համար նախատեսված դիտարկիչ է՝ հետագծման ինքնաշխատ պաշտպանությամբ։
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }

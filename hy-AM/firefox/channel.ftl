@@ -29,14 +29,21 @@ firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta }-ն ի�
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Հայտնեք ձեր կարծիքը</a>՝ մեզ օգնելով ուղղել արտադրողականության և գործառության վերջին թերությունները կայուն միջավայրում:
 firefox-channel-check-out-new-android-features = Ծանոթացեք { -brand-name-android }-ի նոր յուրահատկություններին նախնական փուլում: Վայելեք ձեր պատասխանատվությամբ:
 firefox-channel-nightly-blog = { -brand-name-nightly }-ի բլոգը
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly }-ը անկայուն փորձարկման և մշակման հարթակ է: Ըստ լռելյայնի, { -brand-name-nightly }-ը տվյալներ է ուղարկում { -brand-name-mozilla }-ին՝ և երբեմն մեր գործընկերներին՝ մեզ օգնելու լուծել խնդիրները և փորձարկել գաղափարներ: <a href="{ $link }">Իմացեք, թե ինչ է համօգտագործվում</a>:
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly }-ին ինքնաբար է ուղարկում արձագանքը { -brand-name-mozilla }-ին:
 firefox-channel-experience-cutting-edge-desktop = Փորձարկեք նորագույն յուրահատկությունները դիտարկիչի նախաթողարկվող տարբերակներում. { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } և { -brand-name-firefox-nightly }. Տեղադրեք հիմա:
 firefox-channel-download-and-test-the-latest-desktop = Ներբեռնեք և փորձարկեք { -brand-name-firefox }-ի ամենավերջին յուրահատկությունները { -brand-name-developer-edition }-ով, { -brand-name-beta }-ով և { -brand-name-nightly }-ով:
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Փորձարկեք այն յուրահատկությունները, որոնք թողարկվելու են առավել կայուն նախաթողարկվող տարբերակում:
 firefox-channel-release-notes = Թողարկման նշումները
+firefox-channel-previous-nightly-builds = Նախորդ { -brand-name-nightly } կառուցվածքները
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Կառուցել, փորձարկել, մասշտաբավորել և ավելին՝ միակ դիտարկիչով, որ ստեղծված է ծրագրավորողների համար:
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+firefox-channel-developer-edition-is-an = { -brand-name-developer-edition }-ը անկայուն փորձարկման և մշակման հարթակ է: Սկզբնադիր, { -brand-name-developer-edition }-ը տվյալներ է ուղարկում { -brand-name-mozilla }-ին՝ և երբեմն մեր գործընկերներին՝ մեզ օգնելու լուծել խնդիրները և փորձարկել գաղափարներ: <a href="{ $link }">Իմացեք, թե ինչ է համօգտագործվում</a>:
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition }-ը ինքնաբար է ուղարկում արձագանքը { -brand-name-mozilla }-ին:
 firefox-channel-nightly = { -brand-name-nightly }
 firefox-channel-get-a-sneak-peek-at-our = Ունեցեք մեր հաջորդ սերնդի դիտարկիչը և օգնեք մեզ այն դարձնել լավագույնը. փորձեք { -brand-name-firefox-nightly }-ին:
@@ -47,3 +54,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = Փորձարկեք { -b
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Թեստավորել { -brand-name-firefox } for { -brand-name-ios }-ի beta տարբերակները { -brand-name-apple } { -brand-name-test-flight } ծրագրով:
 firefox-channel-sign-up-now = Գրանցվել
+firefox-channel-nightly-update-one-or-more-times = Նշում. { -brand-name-firefox-nightly }-ը կթարմացվի օրական մոտավորապես մեկ կամ երկու անգամ։

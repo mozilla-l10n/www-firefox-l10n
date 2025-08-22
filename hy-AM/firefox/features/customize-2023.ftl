@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/customize/
 
+features-customize-customize-your-firefox = Անհատականացրեք ձեր { -brand-name-firefox } դիտարկիչը
+# HTML page description
+features-customize-choose-how-your-browser-looks = Ընտրեք, թե ինչ տեսք կունենա ձեր դիտարկիչը հազարավոր անվճար ոճերով։
+features-customize-firefox-themes-let-you-change = { -brand-name-firefox } թեմաները թույլ են տալիս փոխել ձեր զննարկչի տեսքը։ Դրանք սահմանում են գունային սխեման զննարկչի ընտրացանկերի և { -brand-name-firefox } համակարգի էջերի համար, և նույնիսկ կարող են ֆոնային պատկեր ավելացնել ձեր { -brand-name-firefox } գործիքագոտուն։
+features-customize-firefox-comes-with-a-default = { -brand-name-firefox }-ը գալիս է լռելյայն համակարգային թեմայով և նախապես բեռնված է բաց, մուգ և գունագեղ տարբերակներով։
 # Used as accessible alternative text for an image
 features-customize-image-of-the-default-themes = { -brand-name-firefox }-ի հետ մատակարարվող սկզբնադիր թեմաների պատկեր, որը ցույց է տալիս բաց, մուգ և գունագեղ տարբերակները։
 # Variables:

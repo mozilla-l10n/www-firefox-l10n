@@ -11,8 +11,14 @@ firefox-desktop-download-bookmarks-manager = Էջանիշների կառավար
 firefox-desktop-download-sync-across-devices = Համաժամեցում բոլոր սարքերի միջև
 firefox-desktop-download-spell-check = Ուղղագրության ստուգում
 firefox-desktop-download-pinned-tabs = Ամրացված ներդիրները
+firefox-desktop-download-stream-share-play = Հեռարձակեք, կիսվեք և նվագարկեք
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Արգելափակել տեսանյութի և աուդիոյի ավտոմատ նվագարկումը
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Նկարը նկարում
+firefox-desktop-download-curated-content-on = Ընտրված բովանդակություն նոր ներդիրում
+firefox-desktop-download-share-links = Համօգտագործել հղումը
+firefox-desktop-download-protect-your-privacy = Կառավարեք ձեր գաղտնիությունը
 firefox-desktop-download-third-party-cookie = Երրորդ կողմի թխուկների արգելափակում
 firefox-desktop-download-fingerprinter-blocking = Մատնահետքի արգելափակում
 firefox-desktop-download-cryptominer-blocking = Քրիպտոմայների արգելափակում
@@ -98,3 +104,19 @@ firefox-desktop-download-select-linux = Ընտրեք <strong>ներբեռնմա�
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Խնդիրներ ունե՞ք։ <a { $attrs }>Ստացեք օգնություն տեղադրման հետ կապված</a>։
+firefox-desktop-download-in-another-language = Ներբեռնել այլ լեզվով կամ այլ օպերացիոն համակարգի համար։
+firefox-desktop-download-windows = { -brand-name-windows }
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Եթե տեսնում եք հուշում, որ այն հավելվածը, որը փորձում եք տեղադրել, { -brand-name-microsoft }-ի կողմից ստուգված հավելված չէ, սեղմեք «Տեղադրել միևնույն է» կամ <a { $attrs }>փոխել հավելվածի առաջարկության կարգավորումները</a>:
+firefox-desktop-download-visit-support-for-more = Ավելի մանրամասն տեղեկությունների համար այցելեք Աջակցության բաժին
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
+firefox-desktop-download-your-firefox-new-should-begin = Ձեր ներբեռնումը պետք է սկսվի ինքնաշխատ։ Չաշխատե՞ց։ <a id="{ $id }" href="{ $fallback_url }">Փորձեք կրկին ներբեռնել։</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }-ը ավելին է, քան դիտարկիչը:
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
+firefox-desktop-download-interrupted = Ձեր ներբեռնումը ընդհատվեց։ Բայց դեռ ամեն ինչ կորած չէ։
+# Variables:
+#   $url (url) - link to https://www.firefox.com/download/all/
+firefox-desktop-download-your-system-may-not = Ձեր համակարգը կարող է չհամապատասխանել { -brand-name-firefox }-ի պահանջներին, բայց կարող եք փորձել <a href="{ $url }">այս տարբերակներից</a> մեկը։

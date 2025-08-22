@@ -7,6 +7,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition }-ը արտակարգ արագ դիտարկիչ է, որը առաջարկում է մուտք առաջնային տեխնոլոգիաներին և ամենվերջին յուրահատկություններ, որոնցից է CSS ցանցի աջակցումը և կառուցվածքի վրիպազերծումը:
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Բարի գալուստ ձեր նոր ընտրյալ դիտարկիչ: Ստացեք ամենավերջին յուրահատկությունները, արագագործություն և ծրագրավորողի գործիքներ, որոնք ձեզ անհրաժեշտ են բաց վեբ կառուցելու համար:
 firefox-developer-speak-up = Խոսել
 firefox-developer-feedback-makes-us = Ձեր արձագանքը օգնում է մեզ: Ասացեք մեզ, թե ինչպես լավարկել դիտարկիչը և Ծրագրավորողի գործիքները:
@@ -48,9 +49,12 @@ firefox-developer-style-editor = Style Editor
 firefox-developer-edit-and-manage = Խմբագրեք և կառավարեք ձեր բոլոր CSS ոճաթերթերը ձեր դիտարկիչում:
 firefox-developer-learn-more-about-style = Իմանալ ավելին Ոճի խմբագրիչի մասին
 firefox-developer-new-tools = Նոր գործիքներ
+firefox-developer-inactive-css = Inactive CSS
+firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtools }-ն այժմ մոխրագույն է դարձնում CSS հայտարարագրերը, որոնք ազդեցություն չունեն էջի վրա: Երբ մկնիկի կուրսորը պահեք տեղեկատվության պատկերակի վրա, կտեսնեք օգտակար հաղորդագրություն այն մասին, թե ինչու CSS-ը չի կիրառվում, ներառյալ խնդիրը լուծելու վերաբերյալ հուշում:
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Նոր { -brand-name-firefox-devtools }-ը հզոր է, ճկուն և որ ամենալավն է՝ հեշտ փոփոխվող: Այն ներառում է լավագույնը իր տեսակում JavaScript վրիպազերծիչ, որը նմանակել բազմակի դիտարկիչներ և կառուցված է React-ի և Redux-ի հիման վրա:
 firefox-developer-master-css-grid = CSS ցանցի կառավարում
+firefox-developer-built-for-developers = Ստեղծված է մշակողների համար
 firefox-developer-master-innovative-features = Նորարարական յուրահատկություններ
 firefox-developer-want-to-be-on-the-cutting-edge = Ցանկանու՞մ եք առաջնային գծում լինել:
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly }-ին ստանում է օրական թարմացումներ և թույլատրում է ձեզ մատչել յուրահատկություններին մեկ ամիս ավելի շուտ:

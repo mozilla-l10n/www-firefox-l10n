@@ -36,3 +36,8 @@ mobile-android-about-mozilla = { -brand-name-mozilla }-ի մասին
 # Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = { -brand-name-mozilla }-ն գոյություն ունի ինտերնետը որպես բոլորի համար հասանելի հանրային ռեսուրս կառուցելու համար, քանի որ մենք հավատում ենք, որ բաց և անվճար տարբերակը ավելի լավ է, քան փակ և վերահսկվողը։ Մենք ստեղծում ենք այնպիսի արտադրանքներ, ինչպիսիք են { -brand-name-firefox }-ը և { -brand-name-pocket }-ը՝ ընտրությունը, թափանցիկությունը և վերահսկողությունը խթանելու համար։
 mobile-android-mozilla-exists-to-v2 = { -brand-name-mozilla }-ն գոյություն ունի ինտերնետը որպես բոլորի համար հասանելի հանրային ռեսուրս կառուցելու համար, քանի որ մենք հավատում ենք, որ բաց և անվճար տարբերակը ավելի լավ է, քան փակ և վերահսկվողը։ Մենք ստեղծում ենք { -brand-name-firefox }-ի նման արտադրանք՝ ընտրությունը, թափանցիկությունը և վերահսկողությունը խթանելու համար։
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = Կարճացրեք համացանցը { -brand-name-firefox }-ով { -brand-name-android }-ի համար
+mobile-android-see-all-your-open-tabs = Տեսեք ձեր բոլոր բաց ներդիրները, վերջին որոնումները և սիրելի կայքերը՝ բոլորը մեկ տեղում՝ { -brand-name-firefox } դիտարկչի միջոցով { -brand-name-android }-ի համար։
+mobile-android-own-your-home = Ավելացնել հեռախոսի էկրանին
+mobile-android-get-to-the-parts = Ավելի արագ հասեք ինտերնետի այն հատվածներին, որոնք ձեզ հետաքրքրում են: Ընտրեք՝ տեսնելու ձեր բոլոր բաց ներդիրները, վերջին որոնումները, էջանիշները և սիրելի կայքերը՝ բոլորը մեկ տեղում:
