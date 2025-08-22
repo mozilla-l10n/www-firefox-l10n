@@ -21,6 +21,11 @@ download-button-firefox-privacy = { -brand-name-firefox }-ի գաղտնիութ�
 download-button-firefox-privacy-notice = { -brand-name-firefox }-ի գաղտնիության ծանուցում
 download-button-download = Ներբեռնել
 download-firefox-esr = Ներբեռնել { -brand-name-firefox-esr }-ը
+download-a-different-build = Ներբեռնեք այլ տարբերակ
 
 ## Linux
 
+download-button-linux-32-v2 = Ներբեռնել Linux 32-բիթանոցի համար
+download-button-linux-64-v2 = Ներբեռնել Linux 32-բիթանոցի համար
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Ստացեք այն Microsoft-ից

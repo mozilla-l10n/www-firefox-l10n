@@ -6,4 +6,5 @@
 ### URL: https://www-dev.springfield.moz.works/404/
 
 not-found-page-not-found-page-page-not-found = 404. էջը չի գնվել
+not-found-page-sorry-we-cant-find-that-page = Կներեք, մենք չենք կարողանում գտնել այդ էջը
 not-found-page-go-back = Հետ գնալ

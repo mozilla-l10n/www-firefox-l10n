@@ -17,6 +17,7 @@
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-netscape = Netscape
 -brand-name-linkedin = LinkedIn
 -brand-name-spotify = Spotify
 
@@ -55,6 +56,7 @@
 
 ## Firefox products (short names)
 
+-brand-name-relay = Relay
 
 ## Pocket
 
@@ -66,9 +68,15 @@
 
 ## Mozilla projects
 
+-brand-name-gecko = Gecko
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
+-brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mozilla-account = Mozilla հաշիվ
+-brand-name-mozilla-accounts = Mozilla հաշիվներ
+-brand-name-mozilla-ai-v2 = Mozilla.ai
+-brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
@@ -83,6 +91,8 @@
 -brand-name-chrome = Chrome
 -brand-name-edge = Edge
 -brand-name-ie = Internet Explorer
+-brand-name-opera = Opera
+-brand-name-safari = Safari­
 
 ## Platforms
 

@@ -8,8 +8,20 @@
 firefox-all-choose-browser = Ընտրեք դիտարկիչ՝ շարունակելու համար
 firefox-all-choose-platform = Ընտրեք հարթակ՝ շարունակելու համար
 firefox-all-choose-language = Ընտրեք լեզու՝ շարունակելու համար
+firefox-all-change-browser = Ընտրեք այլ ապրանք
+firefox-all-change-platform = Ընտրեք այլ հարթակ
+firefox-all-change-language = Ընտրեք այլ լեզու
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Ընտրեք ստորև բերված ցանկից
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Օգնություն ստանալ
+firefox-all-browser-v2 = 1. Դիտարկիչ՝
+firefox-all-platform-v2 = 2. Հարթակ՝
+firefox-all-language-v2 = 3. Լեզու՝
+firefox-all-download = 4. Ներբեռնել՝
+firefox-all-desktop = Դեսքթոփ
+firefox-all-mobile = Բջջային
+firefox-all-recommended = (Խորհուրդ է տրվում)
 firefox-all-plat-mobile = Android և iOS
 firefox-all-sorry-we-couldnt-find = Ներեցեք, մենք չկարողացանք գտնել ձեր փնտրած ներբեռնումը: Խնդրում ենք կրկին փորձել կամ ընտրեք ներբեռնումը ստրև ցուցակից:
 firefox-all-the-pre-alpha-version = Նախանախնական տարբերակ հզոր օգտատերերի համար, ովքեր սիրում են որսալ վթարներ և թեստավորել նոր յուրահատկություններ:
