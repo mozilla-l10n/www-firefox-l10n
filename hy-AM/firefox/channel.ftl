@@ -20,6 +20,9 @@ firefox-channel-experience-cutting-edge-android = Փորձարկեք նորագ�
 firefox-channel-try-the-latest-android-features = Փորձեք ամենավերջին յուրահատկությունները { -brand-name-android }-ում՝ մինչև դրանց թողարկումը:
 firefox-channel-all-languages-and-platforms = Բոլոր լեզուները և հարթակները
 firefox-channel-all-languages-and-builds = Բոլոր լեզուներ և կառուցումները
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta }-ն անկայուն փորձարկման և մշակման հարթակ է: Սկզբնադիր, { -brand-name-beta }-ն տվյալներ է ուղարկում { -brand-name-mozilla }-ին՝ և երբեմն մեր գործընկերներին՝ մեզ օգնելու լուծել խնդիրները և փորձարկել գաղափարներ: <a href="{ $link }">Իմացեք, թե ինչ է համօգտագործվում</a>:
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta }-ն ինքնաբար է ուղարկում արձագանքը { -brand-name-mozilla }-ին:
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
