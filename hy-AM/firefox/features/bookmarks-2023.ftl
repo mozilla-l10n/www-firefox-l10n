@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
+bookmark-manager-easily-import-bookmarks = Հեշտությամբ ներմուծեք էջանիշներ
+bookmark-manager-you-can-import-your-bookmarks = Դուք կարող եք ներմուծել ձեր էջանիշերը Chrome-ից, Safari-ից կամ Edge-ից՝ օգտագործելով { -brand-name-firefox }-ի ներմուծման օգնականը: Պարզապես սեղմեք «Էջանիշներ» > «Կառավարել էջանիշները» և այնուհետև ընտրեք «Ներմուծել և պահուստավորել»:
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-the-firefox-import-wizard = { -brand-name-firefox } ներմուծման օգնականի երկխոսության պատուհանի պատկերը, որը ցույց է տալիս կարգավորումները և տվյալները այլ դիտարկիչներից ներմուծելու տարբերակները։
 bookmark-manager-bookmarks-toolbar = Էջանիշների գործիքագոտի
