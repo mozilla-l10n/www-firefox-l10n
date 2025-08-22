@@ -16,8 +16,14 @@ installer-help-action-choose = Ընտրեք ներբեռնումը ստորև:
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc-v2 = Ստացեք վերջին տարբերակը։ Ինքնաշխատ գաղտնիությունը այստեղ է։ Ներբեռնեք { -brand-name-firefox }-ը՝ { $trackers } հետագծումներն արգելափակելու համար։
+installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Փորձարկեք նախատեսվող յուրահատկությունները առավել կայուն նախաթողարկման տարբերակում:
+installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Կառուցեք, փորձարկեք, մասշտաբավորեք և ավելին՝ միակ զննարկիչով, որ ստեղծված է մշակողների համար:
+installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = Նայեք մեր հաջորդ սերնդի զննարկիչին, և օգնեք մեզ այն դարձնել այն լավագույն զննարկիչը, որը կարող է լինել:
 installer-help-need-help = Տեղադրման համար օգնությո՞ւն է պետք:
 # Variables:
