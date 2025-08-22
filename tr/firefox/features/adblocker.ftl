@@ -32,7 +32,7 @@ features-adblocker-create-a-tracker-free = İçerik engelleme sayesinde takip ko
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = Reklam takip kodları üzerinde daha da fazla kontrol sahibi olmak için { -brand-name-firefox }’ta <a href="{ $privacy }">gizlilik</a> ve <a href="{ $blocking }">içerik engelleme</a> ayarlarını kullanabilirsiniz.
 features-adblocker-choose-your-level-of-protection = Koruma düzeyinizi seçin
-features-adblocker-to-start-click-on-the-v2 = Başlamak için herhangi bir web sayfasında adres çubuğunun solundaki kalkana tıklayıp “Koruma ayarları”nı seçin. Yeni bir sekmede{ -brand-name-firefox } ayarlarınızın gizlilik ve güvenlik paneli açılacaktır. Çeşitli seçenekler sunan mavi bir kutu göreceksiniz.
+features-adblocker-to-start-click-on-the-v2 = Başlamak için herhangi bir web sayfasında adres çubuğunun solundaki kalkana tıklayıp “Koruma ayarları”nı seçin. Yeni bir sekmede { -brand-name-firefox } ayarlarınızın gizlilik ve güvenlik paneli açılacaktır. Çeşitli seçenekler sunan mavi bir kutu göreceksiniz.
 features-adblocker-go-easy-with-standard = Standart mod ile ağırdan alın
 # Variables:
 #   $url (url) - link to https://www.firefox.com/features/private-browsing/
