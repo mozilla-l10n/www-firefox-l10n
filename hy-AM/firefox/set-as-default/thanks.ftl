@@ -22,6 +22,8 @@ set-as-default-thanks-youre-all-set = Պատրաստ է:
 set-as-default-thanks-get-firefox-for-mobile = Ստացեք { -brand-name-firefox }-ը բջջայինի համար
 set-as-default-thanks-travel-the-internet-with = Ճանապարհորդեք համացանցով պաշտպանված՝ Ձեր բոլոր սարքերով:
 set-as-default-thanks-download-the-app = Ներբեռնեք հավելվածը
+set-as-default-create-an-account = Ստեղծել հաշիվ
+set-as-default-thanks-sign-up-for-a-free-account-v2 = Գրանցվեք անվճար { -brand-name-mozilla-account } համար և համաժամեցրեք ձեր բոլոր գաղտնաբառերը, զննարկման պատմությունը և նախընտրությունները ձեր բոլոր սարքերում։
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Ստանալ հաշիվ
 set-as-default-thanks-having-trouble = Խնդիր ունե՞ք:
