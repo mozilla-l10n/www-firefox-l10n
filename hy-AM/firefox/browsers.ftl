@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/desktop
 
+# HTML page title
+firefox-browsers-page-title-v2 = { -brand-name-firefox } համակարգչի համար
+# HTML page description
+firefox-browsers-page-desc-v2 = Ներբեռնեք այն դիտարկիչը, որը ձեր գաղտնիությունը դնում է առաջին տեղում՝ ներբեռնեք { -brand-name-firefox }-ը Windows-ի, macOS-ի կամ Linux-ի համար՝ համակարգչի վրա։
+firefox-browsers-main-heading-v2 = { -brand-name-firefox } համակարգչի համար
 firefox-browsers-desktop = Դեսքթոփ
 firefox-browsers-seriously-private-browsing = Լուրջ գաղտնի զննարկում: { -brand-name-firefox }-ը ինքնաշխատ կերպով արգելափակում է 2000+ առցանց հետագծիչներ, որոնք տեղեկատվություն են հավաքում համացանցում, թե դուք ինչ եք անում:
 firefox-browsers-download-for-desktop = Ներբեռնեք աշխատասեղանի համար
