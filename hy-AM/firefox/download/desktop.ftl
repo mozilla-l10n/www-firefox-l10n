@@ -67,7 +67,34 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox }-ը ստե
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Համացանցի աճի և փոփոխությունների հետ մեկտեղ, { -brand-name-firefox }-ը շարունակում է կենտրոնանալ ձեր գաղտնիության իրավունքի վրա. դա միշտ էլ մեր սկզբունքն է եղել: Իմացեք ավելին մեր տվյալների հետ աշխատելու պրակտիկայի մասին մեր <a { $attrs }>Գաղտնիության ծանուցման</a> մեջ:
+# Obsolete string
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
+firefox-desktop-download-as-the-internet = Քանի որ համացանցը զարգանում և փոխվում է, { -brand-name-firefox }-ը շարունակում է կենտրոնանալ ձեր գաղտնիության իրավունքի վրա. մենք այն անվանում ենք <a { $attrs }>Անձնական տվյալների խոստում</a>. Վերցրեք ավելի քիչ։ Պահպանեք այն անվտանգ։ Առանց գաղտնիքների։ Ձեր տվյալները, ձեր վեբ գործունեությունը, ձեր առցանց կյանքը պաշտպանված են { -brand-name-firefox }-ով։
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox }-ը հասանելի է ձեր բոլոր սարքերում. ձեզ հետ վերցրեք ձեր ներդիրները, պատմությունը և էջանիշները: Ձեզ անհրաժեշտ է միայն <a { $attrs }>{ -brand-name-mozilla-account }</a>, և դուք կստանաք համաժամեցման և այլ { -brand-name-mozilla } ապրանքների հասանելիություն:
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Ստացեք առցանց ցանկացած բանի բարձր թույլտվությամբ պատկեր՝ օգտագործելով մեր <a { $attrs }>էկրանային նկար</a> գործիքը, որը ներկառուցված է անմիջապես դիտարկիչում
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox }-ը ինքնաշխատ <a { $attrs }>արգելափակում է բազմաթիվ երրորդ կողմի հետևորդների</a> կողմից ձեր վեբ գործունեությունը հավաքագրելու և վաճառելու հնարավորությունը։
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Հարցեր ունե՞ք։ <a { $attrs }>{ -brand-name-mozilla } աջակցության ծառայությունը</a> կօգնի ձեզ։
 
 ## URL: https://www-dev.springfield.moz.works/thanks/
 
 firefox-desktop-download-almost-there = Գրեթե պատրաստ է։
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Հիմա ավարտեք { -brand-name-firefox }-ի <strong>տեղադրումը</strong>։
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Հիմա <strong>աշխատեցրեք</strong> հենց նոր ներբեռնված տեղակայիչը։
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Հիմա <strong>բացեք</strong> հենց նոր ներբեռնված ֆայլը։
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Ընտրեք <strong>ներբեռնման</strong> տարբերակը ստորև
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Խնդիրներ ունե՞ք։ <a { $attrs }>Ստացեք օգնություն տեղադրման հետ կապված</a>։
