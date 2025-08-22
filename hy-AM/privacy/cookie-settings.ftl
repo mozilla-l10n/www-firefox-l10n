@@ -5,9 +5,23 @@
 
 ### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
 
+cookie-settings-page-title = Թխուկների կարգավորումներ
+cookie-settings-page-desc = Այս էջը նկարագրում է { -brand-name-mozilla }-ի կողմից օգտագործվող տարբեր տեսակի քուքիները և ձեզ հնարավորություն է տալիս վերահսկել, թե { -brand-name-mozilla }-ի կողմից որ տեսակի տվյալների հավաքագրմանն եք համաձայն։
+cookie-settings-breadcrumb-link = Նախորդ էջը
+cookie-settings-explainer = Թխուկները փոքր ֆայլեր են, որոնք պարունակում են տեղեկատվության կտորներ, որոնք պահվում են ձեր համակարգչում կամ սարքում, երբ դուք այցելում եք որևէ կայք։ { -brand-name-mozilla }-ն օգտագործում է Քուքիները՝ մեր կայքերի աշխատանքը հեշտացնելու, ինչպես նաև մեր կայքերի օգտագործման և դրանց հետ փոխազդեցության վերաբերյալ տեղեկատվություն հավաքելու համար, ինչպիսիք են այցելած էջերը։
+cookie-settings-page-intro-v2 = Այս էջը նկարագրում է { -brand-name-mozilla }-ի կողմից օգտագործվող տարբեր տեսակի թխուկներ և նմանատիպ տեխնոլոգիաներ, ինչպիսիք են պիքսելային թեգերը, վեբ փիքսերը, մաքուր GIF-երը, JavaScript-ը և տեղական պահեստը (այսուհետ՝ «Թխուկներ»), և ձեզ հնարավորություն է տալիս վերահսկել, թե որ տեսակի տվյալներն եք համաձայնում հավաքել { -brand-name-mozilla }-ի կողմից։
+cookie-settings-how-mozilla-heading = Ինչպես է { -brand-name-mozilla }-ն օգտագործում թխուկները
+cookie-settings-how-does-mozilla-use-subheading = Ինչպե՞ս է { -brand-name-mozilla }-ն օգտագործում այս տվյալները։
+cookie-settings-save-changes = Պահել փոփոխությունները
+cookie-settings-your-cookie-settings-have = Ձեր թխուկների կարգավորումները թարմացվել են։
+cookie-settings-i-agree = Ես համաձայն եմ
+cookie-settings-i-do-not-agree = Ես համաձայն չեմ
+cookie-settings-turn-on-javascript = Խնդրում ենք միացնել JavaScript-ը՝ ձեր թխուկների կարգավորումները թարմացնելու համար։
 
 ## Necessary cookies section
 
+cookie-settings-category-necessary-heading = Անհրաժեշտ
+cookie-settings-category-necessary-what-are-subheading = Ի՞նչ են անհրաժեշտ թխուկները։
 cookie-settings-category-necessary-what-are-desc = Այս տեխնոլոգիաները անհրաժեշտ են կայքի հիմնական գործառույթները ապահովելու համար, ինչպիսիք են կայքի անվտանգ տարածք մուտք գործելը կամ առցանց գնումների զամբյուղում ապրանքներ ավելացնելը, և չեն կարող անջատվել։
 cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla }-ն օգտագործում է անհրաժեշտ թխուկներ միայն կայքի հիմնական գործառույթները ապահովելու համար, ինչպիսիք են՝ մուտք գործելը ձեր { -brand-name-mozilla-account }-ի միջոցով կամ ծրագրային բաժանորդագրություն գնելը վճարման ժամանակ: Առանց այս տեխնոլոգիաների կայքի հիմնական գործառույթները կարող են չաշխատել:
 

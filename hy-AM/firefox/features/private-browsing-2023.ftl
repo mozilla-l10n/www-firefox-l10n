@@ -8,7 +8,7 @@
 features-private-browsing-private-browsing-mode = Գաղտնի դիտարկման կերպ
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox } գաղտնի դիտարկման կերպ
-features-private-browsing-if-you-share-a-computer = Եթե համակարգիչը կիսում եք այլ մարդկանց հետ կամ ցանկանում եք սահմանափակել կայքերի կողմից ձեր մասին հավաքագրվող տվյալների քանակը, կարող եք օգտագործել { -brand-name-firefox }-ի գաղտնի զննարկման ռեժիմը։ Գաղտնի զննարկումը ջնջում է առցանց զննարկելիս թողած թվային հետքերը՝ պատկերացրեք դրանք անտառի միջով թողած հետքերի պես։
+features-private-browsing-if-you-share-a-computer = Եթե համակարգիչը կիսում եք այլ մարդկանց հետ կամ ցանկանում եք սահմանափակել կայքերի կողմից ձեր մասին հավաքագրվող տվյալների քանակը, կարող եք օգտագործել { -brand-name-firefox }-ի գաղտնի դիտարկման ռեժիմը։ Գաղտնի դիտարկումը ջնջում է առցանց դիտարկելիս թողած թվային հետքերը՝ պատկերացրեք դրանք անտառի միջով թողած հետքերի պես։
 features-private-browsing-what-does-private-browsing-do = Ի՞նչ է անում անձնական դիտարկումը։
 features-private-browsing-private-browsing-mode-opens-v2 = Գաղտնի դիտարկման կերպը բացում է դիտարկիչի նոր պատուհան: Երբ փակեք վերջին մասնավոր դիտարկման պատուհանը, ձեր դիտարկման պատմությունը և այցելած կայքերի բոլոր հետևողական քուքիները կջնջվեն: <strong>{ -brand-name-firefox } Մասնագիտական խորհուրդ.</strong> Ավարտելուց հետո մի մոռացեք փակել ձեր բոլոր մասնավոր դիտարկման պատուհանները:
 # Used as an accessible text alternative for an image

@@ -6,7 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
-password-manager-free-password-manager = Գաղտնաբառերի անվար կառավարիչ
+password-manager-free-password-manager = Գաղտնաբառերի անվճար կառավարիչ
 # HTML page description
 password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } Գաղտնաբառերի կառավարիչը պահպանում է ձեր բոլոր գաղտնաբառերը մեկ տեղում, որպեսզի դուք կարողանաք ավտոմատ կերպով մուտք գործել կայքեր կամ վերականգնել պահպանված գաղտնաբառերը։
 password-manager-firefox-securely-stores-your = { -brand-name-firefox }-ը անվտանգ կերպով պահպանում է ձեր օգտանուններն ու գաղտնաբառերը կայքեր մուտք գործելու համար, ավտոմատ կերպով լրացնում է դրանք ձեզ համար հաջորդ անգամ կայք այցելելիս և թույլ է տալիս կառավարել ձեր պահված մուտքանունները իր ներկառուցված գաղտնաբառերի կառավարման գործառույթի միջոցով։
@@ -18,7 +18,7 @@ password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox }-ը 
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = Կայքի մուտքի ձևի պատկեր՝ { -brand-name-firefox }-ով, որը ցույց է տալիս մուտք գործելիս ընտրելու համար մի քանի պահպանված հաշիվներ։
 password-manager-import-passwords = Ներմուծել գաղտնաբառերը
-password-manager-you-can-use-the-import-wizard = Դուք կարող եք օգտագործել ներմուծման օգնականը՝ Chrome-ում, Edge-ում, Safari-ում կամ որևէ այլ զննարկիչներում պահված օգտանուններն ու գաղտնաբառերը հեշտությամբ (կախարդականորեն) ներմուծելու համար: Ընտրեք Գաղտնաբառեր ցանկից, ապա սեղմեք «ներմուծել դրանք { -brand-name-firefox }-ում»՝ Մուտքեր և գաղտնաբառեր էջի ներքևի մասում:
+password-manager-you-can-use-the-import-wizard = Դուք կարող եք օգտագործել ներմուծման օգնականը՝ Chrome-ում, Edge-ում, Safari-ում կամ որևէ այլ դիտարկիչներում պահված օգտանուններն ու գաղտնաբառերը հեշտությամբ (կախարդականորեն) ներմուծելու համար: Ընտրեք Գաղտնաբառեր ցանկից, ապա սեղմեք «ներմուծել դրանք { -brand-name-firefox }-ում»՝ Մուտքեր և գաղտնաբառեր էջի ներքևի մասում:
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = { -brand-name-firefox } ներմուծման օգնականի երկխոսության պատուհանի պատկերը, որը ցույց է տալիս կարգավորումները և տվյալները այլ դիտարկիչներից ներմուծելու տարբերակները։
 password-manager-no-more-reusing-your-passwords = Այլևս անհրաժեշտ չէ վերօգտագործել ձեր գաղտնաբառերը

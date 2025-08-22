@@ -9,8 +9,8 @@ firefox-new-download-firefox = Ներբեռնել { -brand-name-firefox }-ը
 firefox-new-download-the-fastest-firefox = Ներբեռնեք երբևէ ամենաարագ { -brand-name-firefox }-ը
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = էջերի արագ բեռնում, հիշողության քիչ օգտագործում և նորանոր յուրահատկություններ { -brand-name-firefox }-ում: Այն արդեն այստեղ է:
-firefox-new-get-the-latest-firefox = Ստացեք ամենավերջին { -brand-name-firefox } զննարկիչը:
-firefox-new-free-web-browser = Անվճար վեբ զննարկիչ
+firefox-new-get-the-latest-firefox = Ստացեք ամենավերջին { -brand-name-firefox } դիտարկիչը:
+firefox-new-free-web-browser = Անվճար վեբ դիտարկիչ
 firefox-new-advanced-install-options = Ընդլայնված տեղադրման ընտրանքներ և այլ հարթակներ
 firefox-new-download-in-another-language = Ներբեռնել այլ լեզվով
 firefox-new-need-help = Օգնության կարի՞ք ունեք
@@ -21,7 +21,7 @@ firefox-new-need-help = Օգնության կարի՞ք ունեք
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-firefox-new-should-begin = Ներբեռնումը շուտով կսկսվի: Չի՞ սկսվել: <a id="{ $id }" href="{ $fallback_url }">Կրկին փորձեք</a>:
-firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }-ը ավելին է, քան զննարկիչը:
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }-ը ավելին է, քան դիտարկիչը:
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Ձեր ներբեռնումը ընդհատվեց։ Բայց դեռ ամեն ինչ կորած չէ։
 firefox-new-download-almost-there = Գրեթե պատրաստ է։

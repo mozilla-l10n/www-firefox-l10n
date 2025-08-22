@@ -11,10 +11,10 @@ firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-get-firefox-for-your-enterprise = Ստացեք { -brand-name-firefox }-ը ձեր ձեռնարկության համար
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
-firefox-enterprise-get-the-firefox-extended-support = Ստացեք <a href="{ $url }"> { -brand-name-firefox-extended-support-release } կամ արագ թողարկում</a> զննարկիչը` տվյալների համապարփակ անվտանգության և պաշտպանության համար:
+firefox-enterprise-get-the-firefox-extended-support = Ստացեք <a href="{ $url }"> { -brand-name-firefox-extended-support-release } կամ արագ թողարկում</a> դիտարկիչը` տվյալների համապարփակ անվտանգության և պաշտպանության համար:
 firefox-enterprise-unmatched-data-protection = Անհամեմատելի տվյալների պաշտպանություն. թողարկման ռիթմում, որը հարմար է ձեզ
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-firefox-enterprise-the-firefox-browser-is-open = { -brand-name-firefox } զննարկիչը բաց աղբյուր է և ապահովում է Հետագծումների ուժեղացված պաշտպանություն՝ տվյալների պաշտպանության մեր երկարամյա նվիրվածության ամբողջ մասը:
+firefox-enterprise-the-firefox-browser-is-open = { -brand-name-firefox } դիտարկիչը բաց աղբյուր է և ապահովում է Հետագծումների ուժեղացված պաշտպանություն՝ տվյալների պաշտպանության մեր երկարամյա նվիրվածության ամբողջ մասը:
 firefox-enterprise-your-data-stays-your-business = Ձեր տվյալները մնում են ձեր գործը
 firefox-enterprise-deploy-when-and-how-you-want = Տեղակայեք երբ և ինչպես եք ուզում
 firefox-enterprise-with-install-packages-and = Տեղադրեք փաթեթներ և խմբային քաղաքականության և առանձնահատկությունների լայն ընդլայնում, տեղակայումը ավելի արագ և ճկուն է, քան երբևէ, և { -brand-name-windows } 7-ի և { -brand-name-mac }- ի միջավայրում քամի է առաջացել:
@@ -30,7 +30,7 @@ firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-exte
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI տեղակայիչ
 firefox-enterprise-support = Աջակցում
 firefox-enterprise-msi-installers = MSI տեղադրիչներ
-firefox-enterprise-legacy-browser-support = Legacy զննարկչի աջակցություն
+firefox-enterprise-legacy-browser-support = Legacy դիտարկիչի աջակցություն
 firefox-enterprise-admx-templates = ADMX ձևանմուշներ
 firefox-enterprise-deployment-guide = Տեղակայման ուղեցույց
 firefox-enterprise-policy-documentation = Քաղաքականության փաստաթղթեր

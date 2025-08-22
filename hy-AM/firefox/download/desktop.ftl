@@ -11,7 +11,7 @@
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Ներբեռնեք { -brand-name-firefox-browser }-ը — Արագ, գաղտնի և անվճար — { -brand-name-mozilla }-ից
 firefox-desktop-download-meta-title-v2 = Ներբեռնեք { -brand-name-firefox }-ը համակարգչի համար՝ { -brand-name-mozilla }-ից
-firefox-desktop-download-meta-desc = Ստացեք { -brand-name-firefox }-ը՝ անվճար վեբ զննարկիչ, որը աջակցվում է { -brand-name-mozilla }-ի կողմից, որը ոչ առևտրային կազմակերպություն է, որը նվիրված է ինտերնետի առողջությանը և գաղտնիությանը: Հասանելի է այժմ { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } և { -brand-name-ios } համար:
+firefox-desktop-download-meta-desc = Ստացեք { -brand-name-firefox }-ը՝ անվճար վեբ դիտարկիչ, որը աջակցվում է { -brand-name-mozilla }-ի կողմից, որը ոչ առևտրային կազմակերպություն է, որը նվիրված է ինտերնետի առողջությանը և գաղտնիությանը: Հասանելի է այժմ { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } և { -brand-name-ios } համար:
 firefox-desktop-download-meta-desc-v2 = Ստացեք { -brand-name-firefox }-ը { -brand-name-windows }, { -brand-name-mac-short } կամ { -brand-name-linux } օպերացիոն համակարգերի համար: { -brand-name-firefox }-ը անվճար վեբ դիտարկիչ է, որը աջակցվում է { -brand-name-mozilla }-ի կողմից, որը ոչ առևտրային կազմակերպություն է, որը նվիրված է ինտերնետի առողջությանը և գաղտնիությանը:
 firefox-desktop-download-og-title = Ներբեռնեք երբևէ ամենաարագ { -brand-name-firefox }-ը
 firefox-desktop-download-og-desc = էջերի արագ բեռնում, հիշողության քիչ օգտագործում և նորանոր յուրահատկություններ { -brand-name-firefox }-ում: Այն արդեն այստեղ է:
@@ -112,7 +112,7 @@ firefox-desktop-download-learn-about-the = Իմացեք { -brand-name-firefox } 
 firefox-desktop-download-from-security-to = Անվտանգությունից մինչև նորություններ և խաղեր, կա <a { $attrs }>ընդլայնում բոլորի համար</a>: Ավելացրեք այնքան, որքան ցանկանում եք, մինչև ձեր դիտարկիչը հարմար լինի:
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
-firefox-desktop-download-firefox-was-created = { -brand-name-firefox }-ը ստեղծվել է <a { $attrs }>{ -brand-name-mozilla }</a>-ի կողմից՝ որպես { -brand-name-ie }-ի և այժմ նաև { -brand-name-chrome }-ի նման զննարկիչների ավելի արագ և ավելի անձնական այլընտրանք։ Այսօր մեր առաքելությամբ առաջնորդվող ընկերությունը և կամավորական համայնքը շարունակում են ձեր գաղտնիությունը դնել ամեն ինչից վեր։
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox }-ը ստեղծվել է <a { $attrs }>{ -brand-name-mozilla }</a>-ի կողմից՝ որպես { -brand-name-ie }-ի և այժմ նաև { -brand-name-chrome }-ի նման դիտարկիչների ավելի արագ և ավելի անձնական այլընտրանք։ Այսօր մեր առաքելությամբ առաջնորդվող ընկերությունը և կամավորական համայնքը շարունակում են ձեր գաղտնիությունը դնել ամեն ինչից վեր։
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Համացանցի աճի և փոփոխությունների հետ մեկտեղ, { -brand-name-firefox }-ը շարունակում է կենտրոնանալ ձեր գաղտնիության իրավունքի վրա. դա միշտ էլ մեր սկզբունքն է եղել: Իմացեք ավելին մեր տվյալների հետ աշխատելու պրակտիկայի մասին մեր <a { $attrs }>Գաղտնիության ծանուցման</a> մեջ:
