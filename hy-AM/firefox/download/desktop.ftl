@@ -5,8 +5,49 @@
 
 ### URL: https://www-dev.springfield.moz.works/?xv=legacy
 
+# meta title, this shows as the link in search results
+# the em dash is used in English to show a change of thought and
+# the em dash is used in meta titles to separate the title of a page from the title of the whole site
+# this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
+firefox-desktop-download-meta-title = Ներբեռնեք { -brand-name-firefox-browser }-ը — Արագ, գաղտնի և անվճար — { -brand-name-mozilla }-ից
+firefox-desktop-download-meta-title-v2 = Ներբեռնեք { -brand-name-firefox }-ը համակարգչի համար՝ { -brand-name-mozilla }-ից
+firefox-desktop-download-meta-desc = Ստացեք { -brand-name-firefox }-ը՝ անվճար վեբ զննարկիչ, որը աջակցվում է { -brand-name-mozilla }-ի կողմից, որը ոչ առևտրային կազմակերպություն է, որը նվիրված է ինտերնետի առողջությանը և գաղտնիությանը: Հասանելի է այժմ { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } և { -brand-name-ios } համար:
+firefox-desktop-download-meta-desc-v2 = Ստացեք { -brand-name-firefox }-ը { -brand-name-windows }, { -brand-name-mac-short } կամ { -brand-name-linux } օպերացիոն համակարգերի համար: { -brand-name-firefox }-ը անվճար վեբ դիտարկիչ է, որը աջակցվում է { -brand-name-mozilla }-ի կողմից, որը ոչ առևտրային կազմակերպություն է, որը նվիրված է ինտերնետի առողջությանը և գաղտնիությանը:
+firefox-desktop-download-og-title = Ներբեռնեք երբևէ ամենաարագ { -brand-name-firefox }-ը
+firefox-desktop-download-og-desc = էջերի արագ բեռնում, հիշողության քիչ օգտագործում և նորանոր յուրահատկություններ { -brand-name-firefox }-ում: Այն արդեն այստեղ է:
+firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Ավելի նոր { -brand-name-firefox }-ը հասանելի է։ <a { $update_url }>Թարմացրեք վերջին տարբերակին</a>
+firefox-desktop-download-get-the-browser = Ստացեք դիտարկիչ, որը պաշտպանում է կարևորը
+firefox-desktop-download-fast-reliable-private = Արագ, հուսալի և գաղտնի՝ առցանց հանգստության համար։
+firefox-desktop-set-as-default = Սահմանեք { -brand-name-firefox }-ը որպես ձեր սկզբնադիր դիտարկիչ։
+# Obsolete string (expires: 2025-07-21)
+firefox-desktop-download-no-shady = Գովազդատուների համար կասկածելի գաղտնիության քաղաքականություն կամ գաղտնի դռներ չկան։ Պարզապես կայծակնային արագությամբ դիտարկիչ, որը ձեզ չի վաճառում։
+firefox-desktop-download-download-options = Ներբեռնման տարբերակներ և այլ լեզուներ
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser }-ի աջակցում
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Անեք այն, ինչ անում եք առցանց։<br> { -brand-name-firefox-browser }-ը ձեզ <strong>ապահովում</strong> է։
+# Obsolete string (expires: 2025-07-21)
+firefox-desktop-download-do-what-you-do = Անեք այն, ինչ անում եք առցանց։<br> { -brand-name-firefox-browser } <strong>չի</strong> դիտում։
+firefox-desktop-download-we-block-the-ad = Մենք արգելափակում ենք գովազդի հետևորդները։ Դուք ավելի արագ եք ուսումնասիրում համացանցը։
+firefox-desktop-download-ads-are-distracting = Գովազդները շեղում են ուշադրությունը և դանդաղեցնում վեբ էջերի բեռնումը, մինչդեռ դրանց հետևորդները հետևում են ձեր առցանց կատարած յուրաքանչյուր քայլին: { -brand-name-firefox-browser }-ը ավտոմատ կերպով արգելափակում է հետևորդների մեծ մասը, ուստի անհրաժեշտ չէ խորանալ ձեր անվտանգության կարգավորումների մեջ:
+firefox-desktop-download-see-your-report = Դիտեք ձեր պաշտպանության մասին զեկույցը
+firefox-desktop-download-for-everyone = { -brand-name-firefox }-ը բոլորի համար է
+firefox-desktop-download-available-in-over = Հասանելի է ավելի քան 90 լեզուներով և համատեղելի է { -brand-name-windows }, { -brand-name-mac-short } և { -brand-name-linux } օպերացիոն համակարգերի հետ, { -brand-name-firefox }-ը աշխատում է անկախ նրանից, թե ինչ եք օգտագործում կամ որտեղ եք գտնվում: Համոզվեք, որ ձեր օպերացիոն համակարգը թարմացված է՝ լավագույն փորձառության համար:
 firefox-desktop-download-review-system-req = Վերանայել համակարգի պահանջները
+firefox-desktop-download-all-your-devices = Տեղադրեք { -brand-name-firefox }-ը ձեր բոլոր սարքերի վրա
+firefox-desktop-download-take-your-privacy = Ձեր գաղտնիությունը ձեզ հետ տարեք ամենուր։ { -brand-name-firefox-browsers }-ը { -brand-name-ios }-ի և { -brand-name-android }-ի համար ունի նույն ուժեղ գաղտնիության կարգավորումները՝ հետևորդներին արգելափակելու համար, որպեսզի նրանք չհետևեն ձեզ համացանցում, անկախ նրանից, թե որտեղ եք գտնվում։
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = Արեք <strong>ամեն ինչ</strong> { -brand-name-firefox }-ով
+firefox-desktop-download-search-smarter = Ավելի խելացի և արագ որոնում
+firefox-desktop-download-search-from-address = Որոնել հասցեի տողից
+firefox-desktop-download-search-engine-options = Որոնիչների ընտրանքներ
+firefox-desktop-download-smart-search-suggestions = Խելացի որոնման առաջարկներ
+firefox-desktop-download-bookmark-history = Արդյունքներում էջանիշեր, պատմություն և բաց ներդիր
+firefox-desktop-download-boost-your = Բարձրացրեք ձեր արտադրողականությունը
+firefox-desktop-download-works-with-google = Աշխատում է { -brand-name-google } արտադրանքի հետ
+firefox-desktop-download-built-in-screenshot = Ներկառուցված էկրանի նկարման գործիք
 firefox-desktop-download-bookmarks-manager = Էջանիշների կառավարիչ
 firefox-desktop-download-sync-across-devices = Համաժամեցում բոլոր սարքերի միջև
 firefox-desktop-download-spell-check = Ուղղագրության ստուգում

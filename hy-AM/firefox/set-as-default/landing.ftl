@@ -11,6 +11,7 @@ set-as-default-landing-make-firefox-your-default = Դարձրեք { -brand-name-
 set-as-default-landing-choose-the-browser = Ընտրեք զննարկիչ, որը պաշտպանում է ձեր գաղտնիությունը: Կայեք { -brand-name-firefox }-ը որպես սկզբնադիր զննարկիչ:
 set-as-default-landing-thanks-for-using-the = Շնորհակալություն { -brand-name-firefox }-ի նոր տարբերակը օգտագործելու համար: Երբ ընտրում եք { -brand-name-firefox }-ը, Դուք աջակցում եք ավելի լավ վեբ միջավայրին՝ Ձեզ և ուրիշների համար: Այժմ կատարեք հաջորդ քայլը՝ ինքներդ Ձեզ պաշտանելու համար:
 set-as-default-landing-make-sure-youre-protected = Համոզվեք, որ պաշտպանված եք՝ ամեն անգամ առցանց լինելիս
+set-as-default-landing-you-should-get = Դուք պետք է իրավունք ունենաք ընտրել, թե ինչպես եք դիտարկում
 set-as-default-landing-choose-automatic-privacy = Ընտրեք ինքնաշխատ գաղտնիությունը
 set-as-default-landing-companies-keep-finding = Ընկերությունները նոր ուղիներ են մտածում ձեր անձնական տվյալներին հասու լինելու համար: { -brand-name-firefox }-ը զննարկիչ է, ով նոր ուղիներ է փնտրում Ձեզ պաշտպանելու համար:
 set-as-default-landing-choose-freedom-on-every = Ընտրեք ազատություն յուրաքանչյուր սարքում
