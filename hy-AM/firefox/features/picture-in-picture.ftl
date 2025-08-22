@@ -7,3 +7,4 @@
 
 features-pip-picture-in-picture = Նկարը նկարում
 features-pip-heres-how-it-works = Իմացեք, թե ինչպես է այն աշխատում.
+features-pip-play-any-video-in-your-updated = <strong>Նվագարկեք ցանկացած տեսանյութ</strong> ձեր { -brand-name-firefox } դիտարկիչում, ինչպես որ սա է:
