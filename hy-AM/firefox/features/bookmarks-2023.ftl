@@ -5,6 +5,15 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/bookmarks/
 
+# page title
+bookmark-manager-bookmark-manager = Էջանիշների կառավարիչ
+# HTML page description
+bookmark-manager-organize-your-bookmarks-with = Կազմակերպեք ձեր էջանիշները թղթապանակների և պիտակների միջոցով։
+# Variables:
+#   $sync (url) - link to https://www.firefox.com/features/sync/
+bookmark-manager-bookmarks-are-links-you-save = Էջանիշները հղումներ են, որոնք դուք պահում եք ձեր զննարկիչում, որպեսզի կարողանաք արագ և հեշտությամբ վերադառնալ ձեր սիրելի վայրերին համացանցում: { -brand-name-firefox }-ն ներառում է հարմար էջանիշերի կառավարիչ, որպեսզի կարողանաք կազմակերպել, որոնել, թարմացնել և <a { $sync }>համաժամեցնել ձեր բոլոր պահպանված հղումները ձեր բոլոր սարքերում</a>:
+bookmark-manager-organize-your-boomarks-into = Կազմակերպեք ձեր էջանիշները որոնելի թղթապանակներում
+bookmark-manager-collect-your-bookmarks-in-folders = Հավաքեք ձեր էջանիշները թղթապանակներում և նշեք դրանք ավելի մանրամասն պիտակներով: Կարող եք նաև տեսակավորել ձեր էջանիշները՝ արագ գտնելու համար ձեզ անհրաժեշտները:
 bookmark-manager-easily-import-bookmarks = Հեշտությամբ ներմուծեք էջանիշներ
 bookmark-manager-you-can-import-your-bookmarks = Դուք կարող եք ներմուծել ձեր էջանիշերը Chrome-ից, Safari-ից կամ Edge-ից՝ օգտագործելով { -brand-name-firefox }-ի ներմուծման օգնականը: Պարզապես սեղմեք «Էջանիշներ» > «Կառավարել էջանիշները» և այնուհետև ընտրեք «Ներմուծել և պահուստավորել»:
 # Used as an accessible text alternative for an image

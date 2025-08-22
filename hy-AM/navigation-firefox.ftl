@@ -9,3 +9,12 @@ navigation-landmark-label = Առաջնահերթություն
 ## Features
 
 navigation-features = Յուրահատկություններ
+navigation-close-features-menu = Փակել «Յուրահատկություններ» ցանկը
+navigation-top-features = Հիմնական յուրահատկություններ
+navigation-fingerprint-blocking = Մատնահետքերի արգելափակում
+
+## Resources
+
+navigation-resources = Աղբյուրներ
+navigation-close-resources-menu = Փակել «Յուրահատկություններ» ցանկը
+navigation-product = Արտադրանք
