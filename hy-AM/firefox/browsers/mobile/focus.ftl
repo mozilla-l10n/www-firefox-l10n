@@ -5,4 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/mobile/focus/
 
+mobile-focus-get-firefox-focus = Ստացեք { -brand-name-firefox-focus }-ը
+mobile-focus-scan-the-qr-code-to-get-started = Սկանավորեք QR կոդը՝ սկսելու համար:
+mobile-focus-delete-your-history = Ջնջել պատմությունը
 mobile-focus-tracking-protection = Հետագծման պաշտպանություն

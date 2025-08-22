@@ -18,9 +18,4 @@ new-platform-need-help = Օգնության կարիք ունե՞ք
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-
+new-platform-download-mozilla-linux = Ներբեռնել { -brand-name-mozilla } { -brand-name-firefox }-ը { -brand-name-linux }-ի համար

@@ -5,3 +5,6 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
+firefox-mobile-get-firefox-mobile = Ստացեք { -brand-name-firefox } բջջայինը
+firefox-mobile-send-a-download-link-to-your = Ուղարկել ներբեռնման հղումը ձեր հեռախոսին:
+firefox-mobile-scan-the-qr-code-to-get-started = Սկանավորեք QR կոդը՝ սկսելու համար:
