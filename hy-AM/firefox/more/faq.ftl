@@ -15,7 +15,7 @@ what-is-firefox = Ի՞նչ է { -brand-name-firefox }-ը։
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
-the-firefox-browser-the-only = { -brand-name-firefox-browser }-ը, որը միակ խոշոր զննարկիչն է, որը հովանավորվում է ոչ առևտրային կազմակերպության կողմից, օգնում է ձեզ պաշտպանել ձեր անձնական տեղեկությունները: Իմացեք ավելին <a href="{ $url }">{ -brand-name-firefox-browsers }</a>-ի և <a href="{ $url2 }">այլ ապրանքների</a> մասին:
+the-firefox-browser-the-only = { -brand-name-firefox-browser }-ը, որը միակ խոշոր դիտարկիչն է, որը հովանավորվում է ոչ առևտրային կազմակերպության կողմից, օգնում է ձեզ պաշտպանել ձեր անձնական տեղեկությունները: Իմացեք ավելին <a href="{ $url }">{ -brand-name-firefox-browsers }</a>-ի և <a href="{ $url2 }">այլ ապրանքների</a> մասին:
 how-do-i = Ինչպե՞ս կարող եմ ստանալ { -brand-name-firefox-browser }-ը։
 
 # Variables:
@@ -30,7 +30,7 @@ is-firefox-free = { -brand-name-firefox }-ն անվճա՞ր է։
 yep-the-firefox-browser-is-free = Այո՛։ { -brand-name-firefox-browser }-ն անվճար է։ Իրականում շատ անվճար է։ Ոչ մի թաքնված վճար կամ այլ բան չկա։ Դուք ոչինչ չեք վճարում այն օգտագործելու համար։
 related-questions-free = Առնչվող հարցեր՝ անվտա՞նգ է { -brand-name-firefox-browser }-ը, արժե՞ { -brand-name-firefox }-ը։
 is-chrome-better = { -brand-name-chrome }-ն ավելի լավն է, քան { -brand-name-firefox }-ը։
-no-we-dont = Ոչ, մենք չենք կարծում, որ { -brand-name-chrome }-ն ավելի լավն է, քան { -brand-name-firefox }-ը, և ահա թե ինչու. երբ մարդիկ հարցնում են, թե որ զննարկիչն է ավելի լավ, նրանք իրականում հարցնում են, թե որ զննարկիչն է ավելի արագ և անվտանգ: { -brand-name-firefox }-ը թարմացվում է ամեն ամիս՝ համոզվելու համար, որ դուք ունեք ամենաարագ զննարկիչը, որը ավտոմատ կերպով հարգում է ձեր գաղտնիությունը:
+no-we-dont = Ոչ, մենք չենք կարծում, որ { -brand-name-chrome }-ն ավելի լավն է, քան { -brand-name-firefox }-ը, և ահա թե ինչու. երբ մարդիկ հարցնում են, թե որ դիտարկիչն է ավելի լավ, նրանք իրականում հարցնում են, թե որ դիտարկիչն է ավելի արագ և անվտանգ: { -brand-name-firefox }-ը թարմացվում է ամեն ամիս՝ համոզվելու համար, որ դուք ունեք ամենաարագ դիտարկիչը, որը ավտոմատ կերպով հարգում է ձեր գաղտնիությունը:
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
