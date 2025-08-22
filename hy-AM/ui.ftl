@@ -20,3 +20,8 @@ ui-show-less = Ավելի քիչ
 ui-show-all = Ցուցադրել բոլորը
 ui-hide-all = Թաքցնել բոլորը
 ui-learn-more = Մանրամասն
+ui-view = Տեսք
+ui-pause-animation = Դադարեցնել անիմացիան
+ui-play-animation = Նվագարկել շարժումացում
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = Առաջխաղացում

@@ -5,5 +5,10 @@
 
 ### URL: https://www-dev.springfield.moz.works/ (View on an Android or iOS browser)
 
+banner-firefox-app-store-title = { -brand-name-firefox }: Գաղտնի, անվտանգ դիտարկիչ
+banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: Գաղտնիության դիտարկիչ
+banner-firefox-app-store-mozilla = { -brand-name-mozilla }
 banner-firefox-app-store-free-google-play = Անվճար ներբեռնեք { -brand-name-google-play }-ից
 banner-firefox-app-store-free-app-store = Անվճար ներբեռնեք { -brand-name-app-store }-ից
+# An accessible label used to describe the purpose of the page element.
+banner-firefox-app-store-label = Հավելվածների խանութի ներբեռնում

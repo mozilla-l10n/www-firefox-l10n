@@ -10,6 +10,8 @@ firefox-browsers-page-title-v2 = { -brand-name-firefox } համակարգչի հ
 # HTML page description
 firefox-browsers-page-desc-v2 = Ներբեռնեք այն դիտարկիչը, որը ձեր գաղտնիությունը դնում է առաջին տեղում՝ ներբեռնեք { -brand-name-firefox }-ը Windows-ի, macOS-ի կամ Linux-ի համար՝ համակարգչի վրա։
 firefox-browsers-main-heading-v2 = { -brand-name-firefox } համակարգչի համար
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Ստացեք այն դիտարկիչը, որը ձեր գաղտնիությունը դնում է առաջին տեղում՝ և <strong>միշտ</strong> այդպես է եղել
 firefox-browsers-desktop = Դեսքթոփ
 firefox-browsers-seriously-private-browsing = Լուրջ գաղտնի զննարկում: { -brand-name-firefox }-ը ինքնաշխատ կերպով արգելափակում է 2000+ առցանց հետագծիչներ, որոնք տեղեկատվություն են հավաքում համացանցում, թե դուք ինչ եք անում:
 firefox-browsers-download-for-desktop = Ներբեռնեք աշխատասեղանի համար

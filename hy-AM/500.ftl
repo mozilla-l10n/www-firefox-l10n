@@ -6,3 +6,8 @@ error-page-mozilla = { -brand-name-mozilla }
 error-page-firefox = { -brand-name-firefox }
 error-page-error-page-internal-server-error = 500. Ներքին սպասարկիչի սխալ
 error-page-something-went-wrong = Ինչ-որ բան այն չէ
+error-page-its-probably-just-a-server-error = Հավանաբար դա պարզապես սերվերի սխալ է, և մենք աշխատում ենք այն շտկելու ուղղությամբ։
+# Variables:
+#   $firefox (url) - link to https://firefox.com/
+#   $mozilla (url) - link to https://www.mozilla.org/
+error-page-you-can-also-try-refreshing = Կարող եք նաև փորձել թարմացնել այս էջը կամ այցելել <a href={ $firefox }>firefox.com</a> կամ <a href={ $mozilla }>mozilla.org</a> կայքերը։
