@@ -21,7 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Ավելի նոր { -brand-name-firefox }-ը հասանելի է։ <a { $update_url }>Թարմացրեք վերջին տարբերակին</a>
 firefox-desktop-download-get-the-browser = Ստացեք դիտարկիչ, որը պաշտպանում է կարևորը
 firefox-desktop-download-fast-reliable-private = Արագ, հուսալի և գաղտնի՝ առցանց հանգստության համար։
-firefox-desktop-set-as-default = Սահմանեք { -brand-name-firefox }-ը որպես ձեր սկզբնադիր դիտարկիչ։
+firefox-desktop-set-as-default = Սահմանել { -brand-name-firefox }-ը որպես ձեր սկզբնադիր դիտարկիչ։
 # Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-no-shady = Գովազդատուների համար կասկածելի գաղտնիության քաղաքականություն կամ գաղտնի դռներ չկան։ Պարզապես կայծակնային արագությամբ դիտարկիչ, որը ձեզ չի վաճառում։
 firefox-desktop-download-download-options = Ներբեռնման տարբերակներ և այլ լեզուներ

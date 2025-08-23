@@ -9,8 +9,8 @@
 ## Intro
 
 firefox-home-take-control = Վերահսկեք ձեր համացանցը
-firefox-home-go-online = Մուտք գործեք առցանց՝ ավելի քիչ շեղող գործոններով, աղմուկով և սթրեսով։ Մտածեք մեզ մասին որպես թարմ օդի շունչ։
-firefox-home-set-firefox-as = Սահմանեք { -brand-name-firefox }-ը որպես ձեր սկզբնադիր դիտարկիչ։
+firefox-home-go-online = Մուտք գործեք առցանց՝ ավելի քիչ շեղող գործոններով, աղմուկով և սթրեսով։ Մտածեք մեր մասին որպես օդի թարմ շնչի։
+firefox-home-set-firefox-as = Սահմանել { -brand-name-firefox }-ը որպես ձեր սկզբնադիր դիտարկիչ։
 
 ## What's new
 
@@ -18,11 +18,11 @@ firefox-home-set-firefox-as = Սահմանեք { -brand-name-firefox }-ը որպ
 firefox-home-latest-features = { -brand-name-firefox }-ի յուրահատկությունները
 firefox-home-dial-down = Նվազեցրեք աղմուկը
 firefox-home-block-ads = Արգելափակեք գովազդները և բարելավեք ձեր գաղտնիությունը՝ օգտագործելով հարմարեցվող կարգավորումներ և բազմաթիվ ներբեռնվող ընդլայնումներ։
-firefox-home-multitasking = Միաժամանակյա գործողություններ միաժամանակ կատարե՞լը։
+firefox-home-multitasking = Բազմակի առաջադրանքնե՞ր
 firefox-home-go-into-reading = Անցեք ընթերցման ռեժիմի, բացեք տեսանյութերը և ավելի կազմակերպված եղեք ուղղահայաց ներդիրների և ներդիրների խմբերի միջոցով։
 firefox-home-keep-tabs-on = Հետևեք ձեր բոլոր ներդիրներին
 firefox-home-close-duplicates = Փակեք կրկնօրինակները, որոնեք և ամրացրեք բաց ներդիրները. բացված ներդիրների գրեթե անվերջ թվի համար կան գրեթե անվերջ հնարավորություններ։
-firefox-home-see-release = Տես թողարկման նշումները
+firefox-home-see-release = Տե՛ս թողարկման նշումները
 
 ## Features
 
