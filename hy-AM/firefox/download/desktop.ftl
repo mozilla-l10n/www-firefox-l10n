@@ -156,7 +156,7 @@ firefox-desktop-download-visit-support-for-more = Ավելի մանրամասն 
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.firefox.com/download/all/
-firefox-desktop-download-your-firefox-new-should-begin = Ձեր ներբեռնումը պետք է սկսվի ինքնաշխատ։ Չաշխատե՞ց։ <a id="{ $id }" href="{ $fallback_url }">Փորձեք կրկին ներբեռնել։</a>
+firefox-desktop-download-your-firefox-new-should-begin = Ձեր ներբեռնումը ինքնաշխատ կսկսվի։ Չաշխատե՞ց։ <a id="{ $id }" href="{ $fallback_url }">Փորձեք կրկին ներբեռնել։</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }-ը ավելին է, քան դիտարկիչը:
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Ձեր ներբեռնումը ընդհատվեց։ Բայց դեռ ամեն ինչ կորած չէ։
