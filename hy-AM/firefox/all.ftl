@@ -43,7 +43,7 @@ firefox-all-download-esr-version = Ներբեռնել { $esr_version }-ը
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Մենք գտնվում ենք ESR-ի հիմնական տարբերակների՝ { $esr_next_major } և { $esr_current_major } միջև անցումային շրջանում։
 firefox-all-esr-when-there-is = Երբ կա որևէ խոշոր տարբերակի թարմացում, միշտ կա մի քանի { -brand-name-firefox-esr } կետային թողարկումների համընկնում, որպեսզի հին տարբերակը օգտագործող մարդիկ կարողանան պատրաստվել նորին անցնելուն։
-firefox-all-esr-if-you-choose = Եթե որոշեք ներբեռնել ESR-ի հին տարբերակը, անցումային շրջանի ավարտից հետո ավտոմատ կերպով կթարմացվեք նոր տարբերակին։
+firefox-all-esr-if-you-choose = Եթե որոշեք ներբեռնել ESR-ի հին տարբերակը, անցումային շրջանի ավարտից հետո ինքնաշխատ կթարմացվեք նոր տարբերակին։
 # Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
 firefox-all-esr-read-more = Ավելին կարդացեք <a { $attrs }>{ -brand-name-firefox-esr } թողարկման ցիկլի</a> մասին։

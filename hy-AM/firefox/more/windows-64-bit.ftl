@@ -25,7 +25,7 @@ windows-64-bit-how-do-you-get-64 = Ինչպե՞ս ստանալ 64-բիթանոց
 # $version (url) - link to https://support.microsoft.com/help/13443/windows-which-operating-system
 # $check (url) - link to https://support.mozilla.org/kb/update-firefox-latest-version
 windows-64-bit-if-youre-running = Եթե դուք օգտագործում եք 64-բիթանոց { -brand-name-windows } (<a href="{ $version }">ահա թե ինչպես ստուգել</a>), ձեր { -brand-name-firefox }-ը կարող է արդեն 64-բիթանոց լինել։ <a href="{ $check }">Ստուգեք ձեր { -brand-name-firefox } տարբերակը</a> («About { -brand-name-firefox }» պատուհանում) և տարբերակի համարից հետո փնտրեք «(32-bit)» կամ «(64-bit)»։
-windows-64-bit-if-you-see-32-bit-older = Եթե տեսնում եք «(32-bit)» և օգտագործում եք { -brand-name-firefox } 56.0 կամ ավելի հին տարբերակ, { -brand-name-firefox }-ի վերջին տարբերակին թարմացնելը պետք է ավտոմատ կերպով թարմացնի այն մինչև 64-bit:
+windows-64-bit-if-you-see-32-bit-older = Եթե տեսնում եք «(32-bit)» և օգտագործում եք { -brand-name-firefox } 56.0 կամ ավելի հին տարբերակ, { -brand-name-firefox }-ի վերջին տարբերակին թարմացնելը պետք է ինքնաշխատ թարմացնի այն մինչև 64-bit:
 windows-64-bit-if-you-see-32-bit-newer = Եթե տեսնում եք «(32-bit)» և օգտագործում եք { -brand-name-firefox } 56.0.1 կամ ավելի նոր տարբերակ, ապա ձեր համակարգիչը կարող է չբավարարել 64-bit տարբերակի համար անհրաժեշտ հիշողության նվազագույն պահանջը (3 ԳԲ RAM կամ ավելի): Դուք դեռ կարող եք ձեռքով տեղադրել 64-bit { -brand-name-firefox } տարբերակը, եթե ցանկանում եք:
 # Variables:
 # $all (url) - link to https://www.mozilla.org/firefox/all/

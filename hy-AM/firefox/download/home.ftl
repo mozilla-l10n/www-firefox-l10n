@@ -28,7 +28,7 @@ firefox-home-see-release = Տե՛ս թողարկման նշումները
 
 firefox-home-get-the-browser = Ստացեք այն դիտարկիչը, որը կօգնի ձեզ կատարել աշխատանքը
 firefox-home-block-ad-trackers = Արգելափակեք գովազդի հետագծիչները՝ առանց մատը շարժելու
-firefox-home-ad-trackers-make = Գովազդի հետագծիչները դանդաղեցնում են վեբ էջերի բեռնումը: { -brand-name-firefox }-ի միջոցով դուք ստիպված չեք լինի կարգավորումներում խորանալ՝ դա շտկելու համար, քանի որ մենք ավտոմատ կերպով արգելափակում ենք հետագծիչների մեծ մասը:
+firefox-home-ad-trackers-make = Գովազդի հետագծիչները դանդաղեցնում են վեբ էջերի բեռնումը: { -brand-name-firefox }-ի միջոցով դուք ստիպված չեք լինի կարգավորումներում խորանալ՝ դա շտկելու համար, քանի որ մենք ինքնաշխատ արգելափակում ենք հետագծիչների մեծ մասը:
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Խուսափեք շեղող գործոններից
 # Variables

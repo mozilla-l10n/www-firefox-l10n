@@ -31,7 +31,7 @@ firefox-desktop-download-do-what-you-do-v2 = Անեք այն, ինչ անում 
 # Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-do-what-you-do = Անեք այն, ինչ անում եք առցանց։<br> { -brand-name-firefox-browser } <strong>չի</strong> դիտում։
 firefox-desktop-download-we-block-the-ad = Մենք արգելափակում ենք գովազդի հետագծումները։ Դուք ավելի արագ եք ուսումնասիրում համացանցը։
-firefox-desktop-download-ads-are-distracting = Գովազդները շեղում են ուշադրությունը և դանդաղեցնում վեբ էջերի բեռնումը, մինչդեռ դրանց հետագծիչները հետևում են ձեր առցանց կատարած յուրաքանչյուր քայլին: { -brand-name-firefox-browser }-ը ավտոմատ կերպով արգելափակում է հետագծիչների մեծ մասը, ուստի անհրաժեշտ չէ խորանալ ձեր անվտանգության կարգավորումների մեջ:
+firefox-desktop-download-ads-are-distracting = Գովազդները շեղում են ուշադրությունը և դանդաղեցնում վեբ էջերի բեռնումը, մինչդեռ դրանց հետագծիչները հետևում են ձեր առցանց կատարած յուրաքանչյուր քայլին: { -brand-name-firefox-browser }-ը ինքնաշխատ արգելափակում է հետագծիչների մեծ մասը, ուստի անհրաժեշտ չէ խորանալ ձեր անվտանգության կարգավորումների մեջ:
 firefox-desktop-download-see-your-report = Դիտեք ձեր պաշտպանության մասին զեկույցը
 firefox-desktop-download-for-everyone = { -brand-name-firefox }-ը բոլորի համար է
 firefox-desktop-download-available-in-over = Հասանելի է ավելի քան 90 լեզուներով և համատեղելի է { -brand-name-windows }, { -brand-name-mac-short } և { -brand-name-linux } օպերացիոն համակարգերի հետ, { -brand-name-firefox }-ը աշխատում է անկախ նրանից, թե ինչ եք օգտագործում կամ որտեղ եք գտնվում: Համոզվեք, որ ձեր օպերացիոն համակարգը թարմացված է՝ լավագույն փորձառության համար:
@@ -56,7 +56,7 @@ firefox-desktop-download-spell-check = Ուղղագրության ստուգու
 firefox-desktop-download-pinned-tabs = Ամրացված ներդիրները
 firefox-desktop-download-stream-share-play = Հեռարձակեք, կիսվեք և նվագարկեք
 # Autoplay is a feature names and so is capitalized in English
-firefox-desktop-download-block-autoplay-of = Արգելափակել տեսանյութի և աուդիոյի ավտոմատ նվագարկումը
+firefox-desktop-download-block-autoplay-of = Արգելափակել տեսանյութի և աուդիոյի ինքնաշխատ նվագարկումը
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Նկարը նկարում
 firefox-desktop-download-curated-content-on = Ընտրված բովանդակություն նոր ներդիրում

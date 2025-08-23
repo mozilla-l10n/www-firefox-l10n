@@ -8,13 +8,13 @@
 # HTML page title
 password-manager-free-password-manager = Գաղտնաբառերի անվճար կառավարիչ
 # HTML page description
-password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } Գաղտնաբառերի կառավարիչը պահպանում է ձեր բոլոր գաղտնաբառերը մեկ տեղում, որպեսզի դուք կարողանաք ավտոմատ կերպով մուտք գործել կայքեր կամ վերականգնել պահպանված գաղտնաբառերը։
-password-manager-firefox-securely-stores-your = { -brand-name-firefox }-ը անվտանգ կերպով պահպանում է ձեր օգտանուններն ու գաղտնաբառերը կայքեր մուտք գործելու համար, ավտոմատ կերպով լրացնում է դրանք ձեզ համար հաջորդ անգամ կայք այցելելիս և թույլ է տալիս կառավարել ձեր պահված մուտքանունները իր ներկառուցված գաղտնաբառերի կառավարման գործառույթի միջոցով։
+password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } Գաղտնաբառերի կառավարիչը պահպանում է ձեր բոլոր գաղտնաբառերը մեկ տեղում, որպեսզի դուք կարողանաք ինքնաշխատ մուտք գործել կայքեր կամ վերականգնել պահպանված գաղտնաբառերը։
+password-manager-firefox-securely-stores-your = { -brand-name-firefox }-ը անվտանգ կերպով պահպանում է ձեր օգտանուններն ու գաղտնաբառերը կայքեր մուտք գործելու համար, ինքնաշխատ լրացնում է դրանք ձեզ համար հաջորդ անգամ կայք այցելելիս և թույլ է տալիս կառավարել ձեր պահված մուտքանունները իր ներկառուցված գաղտնաբառերի կառավարման գործառույթի միջոցով։
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Անվճար { -brand-name-mozilla-account }-ի միջոցով դուք կարող եք անվտանգ կերպով համաժամեցնել ձեր գաղտնաբառերը ձեր բոլոր սարքերում: Դուք կարող եք նաև մուտք գործել { -brand-name-mozilla }-ի մյուս գաղտնիությունը հարգող արտադրանքներին:
-password-manager-password-autofill-for-easy-logins = Գաղտնաբառի ավտոմատ լրացում՝ հեշտ մուտք գործելու համար
-password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox }-ը կարող է ավտոմատ կերպով լրացնել ձեր պահպանված օգտատիրոջ անունը և գաղտնաբառը։ Եթե կայքում ունեք մեկից ավելի մուտքանուն, կարող եք պարզապես ընտրել ձեզ անհրաժեշտ հաշիվը, և մենք այն կվերցնենք այնտեղից։
+password-manager-password-autofill-for-easy-logins = Գաղտնաբառի ինքնաշխատ լրացում՝ հեշտ մուտք գործելու համար
+password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox }-ը կարող է ինքնաշխատ լրացնել ձեր պահպանված օգտատիրոջ անունը և գաղտնաբառը։ Եթե կայքում ունեք մեկից ավելի մուտքանուն, կարող եք պարզապես ընտրել ձեզ անհրաժեշտ հաշիվը, և մենք այն կվերցնենք այնտեղից։
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = Կայքի մուտքի ձևի պատկեր՝ { -brand-name-firefox }-ով, որը ցույց է տալիս մուտք գործելիս ընտրելու համար մի քանի պահպանված հաշիվներ։
 password-manager-import-passwords = Ներմուծել գաղտնաբառերը

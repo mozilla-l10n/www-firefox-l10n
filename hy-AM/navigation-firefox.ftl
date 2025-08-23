@@ -12,8 +12,8 @@ navigation-features = Յուրահատկություններ
 navigation-close-features-menu = Փակել «Յուրահատկություններ» ցանկը
 navigation-top-features = Հիմնական յուրահատկություններ
 navigation-fingerprint-blocking = Մատնահետքերի արգելափակում
-navigation-ad-tracker-blocking = Գովազդի հետագծողի արգելափակում
-navigation-private-browsing = Դիտարկման գաղտնի կերպ
+navigation-ad-tracker-blocking = Գովազդի հետագծիչի արգելափակում
+navigation-private-browsing = Գաղտնի դիտարկման կերպ
 navigation-password-manager = Գաղտնաբառերի անվճար կառավարիչ
 navigation-features-all = Դիտել { -brand-name-firefox }-ի բոլոր հնարավորությունները
 
