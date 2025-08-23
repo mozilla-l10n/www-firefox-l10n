@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/channel/
 
-firefox-channel-desktop = Դեսքթոփ
+firefox-channel-desktop = Դեսքթոփ (համակարգչային)
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
 firefox-channel-take-a-browse-on-the-wild-side = Փորձարկեք նոր յուրահատկությունները:

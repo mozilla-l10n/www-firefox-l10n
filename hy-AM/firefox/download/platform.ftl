@@ -44,7 +44,7 @@ new-platform-privacy-comes-first = Գաղտնիությունը առաջնայի
 new-platform-firefox-doesnt-spy = { -brand-name-firefox }-ը չի լրտեսում որոնումները։ Մենք կանխում ենք երրորդ կողմի հետևողական թխուկները և ձեզ տալիս ենք լիակատար վերահսկողություն։
 new-platform-get-speed-and-security = Ստացեք արագություն և անվտանգություն։ { -brand-name-firefox }-ը արագ է { -brand-name-mac-short }-ում, քանի որ մենք չենք հետևում ձեր քայլերին։
 new-platform-block-trackers = Հետագծիչների արգելափակում
-new-platform-be-the-master-of-your = Եղեք ձեր տիրույթի տերը խիստ բովանդակության արգելափակման միջոցով: Անջատեք բոլոր թխուկներն ու հետևորդները:
+new-platform-be-the-master-of-your = Եղեք ձեր տիրույթի տերը խիստ բովանդակության արգելափակման միջոցով: Անջատեք բոլոր թխուկներն ու հետագծիչները:
 
 ## Windows
 

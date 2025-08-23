@@ -67,4 +67,4 @@ firefox-developer-download-the-firefox-browser = Ներբեռնեք { -brand-nam
 firefox-developer-made-for-developers = Դիտարկիչ, որը ստեղծվել է մշակողների համար
 firefox-developer-all-the-latest-v2 = Բոլոր ամենաթարմ մշակողների գործիքները բետա տարբերակում, ինչպես նաև բազմատող կոնսոլի խմբագրիչը և WebSocket Inspector-ը նման գործառույթներ։
 firefox-developer-a-separate-profile = Առանձին պրոֆիլ և ուղի</strong>, որպեսզի կարողանաք հեշտությամբ գործարկել այն Release-ի կամ { -brand-name-beta } { -brand-name-firefox }-ի հետ միասին։
-firefox-developer-preferences-tailored = Նախընտրություններ՝ <strong>հարմարեցված վեբ մշակողների համար</strong>. Բրաուզերի և հեռակա վրիպազերծման կարգավորումները միացված են ըստ լռելյայնի, ինչպես նաև մուգ թեման և մշակողի գործիքագոտու կոճակը։
+firefox-developer-preferences-tailored = Նախընտրություններ՝ <strong>հարմարեցված վեբ մշակողների համար</strong>. Դիտարկիչի և հեռակա վրիպազերծման կարգավորումները միացված են ըստ լռելյայնի, ինչպես նաև մուգ թեման և մշակողի գործիքագոտու կոճակը։

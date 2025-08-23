@@ -33,7 +33,7 @@ features-index-pdf-editor = PDF խմբագրիչ
 features-index-view-and-edit-pdf-files = Դիտեք և խմբագրեք PDF ֆայլերը անմիջապես { -brand-name-firefox }-ում։
 features-index-fingerprint-blocking = Մատնահետքի արգելափակում
 features-index-ad-tracker-blocking = Գովազդի հետագծման արգելափակում
-features-index-firefox-automatically-blocks = { -brand-name-firefox }-ը ինքնաշխատ կերպով արգելափակում է 2000+ գովազդային հետևորդների հետևումը ձեզ ինտերնետում։
+features-index-firefox-automatically-blocks = { -brand-name-firefox }-ը ինքնաշխատ կերպով արգելափակում է 2000+ գովազդային հետագծիչների հետևումը համացանցում։
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
 features-index-ditch-the-sticky-ads = Հրաժարվեք ձեզ հետևող կպչուն գովազդներից՝ { -brand-name-firefox }-ի ներկառուցված մատնահետքերի արգելափակիչների միջոցով։
 features-index-translate-the-web = Թարգմանեք համացանցը

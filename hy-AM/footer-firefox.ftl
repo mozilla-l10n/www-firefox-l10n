@@ -47,7 +47,7 @@ footer-release-notes = Թողարկման նշումներ
 footer-learn = Սովորել
 footer-support = Աջակցում
 footer-addons = Հավելումներ
-footer-blog = Բլոգը
+footer-blog = Բլոգ
 
 ## Links to social media
 

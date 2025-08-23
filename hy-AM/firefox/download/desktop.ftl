@@ -30,14 +30,14 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser }-ի ա
 firefox-desktop-download-do-what-you-do-v2 = Անեք այն, ինչ անում եք առցանց։<br> { -brand-name-firefox-browser }-ը ձեզ <strong>ապահովում</strong> է։
 # Obsolete string (expires: 2025-07-21)
 firefox-desktop-download-do-what-you-do = Անեք այն, ինչ անում եք առցանց։<br> { -brand-name-firefox-browser } <strong>չի</strong> դիտում։
-firefox-desktop-download-we-block-the-ad = Մենք արգելափակում ենք գովազդի հետևորդները։ Դուք ավելի արագ եք ուսումնասիրում համացանցը։
-firefox-desktop-download-ads-are-distracting = Գովազդները շեղում են ուշադրությունը և դանդաղեցնում վեբ էջերի բեռնումը, մինչդեռ դրանց հետևորդները հետևում են ձեր առցանց կատարած յուրաքանչյուր քայլին: { -brand-name-firefox-browser }-ը ավտոմատ կերպով արգելափակում է հետևորդների մեծ մասը, ուստի անհրաժեշտ չէ խորանալ ձեր անվտանգության կարգավորումների մեջ:
+firefox-desktop-download-we-block-the-ad = Մենք արգելափակում ենք գովազդի հետագծումները։ Դուք ավելի արագ եք ուսումնասիրում համացանցը։
+firefox-desktop-download-ads-are-distracting = Գովազդները շեղում են ուշադրությունը և դանդաղեցնում վեբ էջերի բեռնումը, մինչդեռ դրանց հետագծիչները հետևում են ձեր առցանց կատարած յուրաքանչյուր քայլին: { -brand-name-firefox-browser }-ը ավտոմատ կերպով արգելափակում է հետագծիչների մեծ մասը, ուստի անհրաժեշտ չէ խորանալ ձեր անվտանգության կարգավորումների մեջ:
 firefox-desktop-download-see-your-report = Դիտեք ձեր պաշտպանության մասին զեկույցը
 firefox-desktop-download-for-everyone = { -brand-name-firefox }-ը բոլորի համար է
 firefox-desktop-download-available-in-over = Հասանելի է ավելի քան 90 լեզուներով և համատեղելի է { -brand-name-windows }, { -brand-name-mac-short } և { -brand-name-linux } օպերացիոն համակարգերի հետ, { -brand-name-firefox }-ը աշխատում է անկախ նրանից, թե ինչ եք օգտագործում կամ որտեղ եք գտնվում: Համոզվեք, որ ձեր օպերացիոն համակարգը թարմացված է՝ լավագույն փորձառության համար:
 firefox-desktop-download-review-system-req = Վերանայել համակարգի պահանջները
 firefox-desktop-download-all-your-devices = Տեղադրեք { -brand-name-firefox }-ը ձեր բոլոր սարքերի վրա
-firefox-desktop-download-take-your-privacy = Ձեր գաղտնիությունը ձեզ հետ տարեք ամենուր։ { -brand-name-firefox-browsers }-ը { -brand-name-ios }-ի և { -brand-name-android }-ի համար ունի նույն ուժեղ գաղտնիության կարգավորումները՝ հետևորդներին արգելափակելու համար, որպեսզի նրանք չհետևեն ձեզ համացանցում, անկախ նրանից, թե որտեղ եք գտնվում։
+firefox-desktop-download-take-your-privacy = Ձեր գաղտնիությունը ձեզ հետ տարեք ամենուր։ { -brand-name-firefox-browsers }-ը { -brand-name-ios }-ի և { -brand-name-android }-ի համար ունի նույն ուժեղ գաղտնիության կարգավորումները՝ հետագծումներն արգելափակելու համար, որպեսզի նրանք չհետևեն ձեզ համացանցում, անկախ նրանից, թե որտեղ եք գտնվում։
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Արեք <strong>ամեն ինչ</strong> { -brand-name-firefox }-ով
 firefox-desktop-download-search-smarter = Ավելի խելացի և արագ որոնում
@@ -128,7 +128,7 @@ firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox }-ը հ
 firefox-desktop-download-grab-a-high = Ստացեք առցանց ցանկացած բանի բարձր թույլտվությամբ պատկեր՝ օգտագործելով մեր <a { $attrs }>էկրանային նկար</a> գործիքը, որը ներկառուցված է անմիջապես դիտարկիչում
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-firefox-automatically = { -brand-name-firefox }-ը ինքնաշխատ <a { $attrs }>արգելափակում է բազմաթիվ երրորդ կողմի հետևորդների</a> կողմից ձեր վեբ գործունեությունը հավաքագրելու և վաճառելու հնարավորությունը։
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox }-ը ինքնաշխատ <a { $attrs }>արգելափակում է բազմաթիվ երրորդ կողմի հետագծիչների</a> կողմից ձեր վեբ գործունեությունը հավաքագրելու և վաճառելու հնարավորությունը։
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Հարցեր ունե՞ք։ <a { $attrs }>{ -brand-name-mozilla } աջակցության ծառայությունը</a> կօգնի ձեզ։

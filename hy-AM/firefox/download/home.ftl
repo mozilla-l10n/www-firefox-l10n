@@ -27,8 +27,8 @@ firefox-home-see-release = Տե՛ս թողարկման նշումները
 ## Features
 
 firefox-home-get-the-browser = Ստացեք այն դիտարկիչը, որը կօգնի ձեզ կատարել աշխատանքը
-firefox-home-block-ad-trackers = Արգելափակեք գովազդի հետևորդները՝ առանց մատը շարժելու
-firefox-home-ad-trackers-make = Գովազդի հետևորդները դանդաղեցնում են վեբ էջերի բեռնումը: { -brand-name-firefox }-ի միջոցով դուք ստիպված չեք լինի կարգավորումներում խորանալ՝ դա շտկելու համար, քանի որ մենք ավտոմատ կերպով արգելափակում ենք հետևորդների մեծ մասը:
+firefox-home-block-ad-trackers = Արգելափակեք գովազդի հետագծիչները՝ առանց մատը շարժելու
+firefox-home-ad-trackers-make = Գովազդի հետագծիչները դանդաղեցնում են վեբ էջերի բեռնումը: { -brand-name-firefox }-ի միջոցով դուք ստիպված չեք լինի կարգավորումներում խորանալ՝ դա շտկելու համար, քանի որ մենք ավտոմատ կերպով արգելափակում ենք հետագծիչների մեծ մասը:
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Խուսափեք շեղող գործոններից
 # Variables
@@ -49,12 +49,12 @@ firefox-home-explore-the-possibilities = Ուսումնասիրեք <a { $extens
 firefox-home-bye-boring = Հաջողություն, ձանձրալի դիտարկիչ
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
-firefox-home-the-internet-can = Համացանցը կարող է վարդագույն լինել՝ ճիշտ հավելումով՝ <a { $theme_attrs }>ոչ</a>:
+firefox-home-the-internet-can = Համացանցը կարող է վարդագույն լինել՝ ճիշտ հավելված<a { $theme_attrs }>ոճով</a>:
 
 ## Final call-out
 
 firefox-home-billionaire-free = Միլիարդատերերից զերծ՝ 20+ տարի
-firefox-home-firefox-was-created = { -brand-name-firefox }-ը ստեղծվել է 2004 թվականին { -brand-name-mozilla }-ի կողմից՝ որպես Internet Explorer-ի նման բրաուզերների ավելի արագ, ավելի գաղտնի և հարմարեցվող այլընտրանք։ Այսօր մենք դեռևս շահույթ չհետապնդող ենք, դեռևս որևէ միլիարդատիրոջ չենք պատկանում և դեռևս աշխատում ենք ինտերնետը և դրա վրա ծախսած ժամանակը ավելի լավը դարձնելու ուղղությամբ։
+firefox-home-firefox-was-created = { -brand-name-firefox }-ը ստեղծվել է 2004 թվականին { -brand-name-mozilla }-ի կողմից՝ որպես Internet Explorer-ի նման դիտարկիչների ավելի արագ, ավելի գաղտնի և հարմարեցվող այլընտրանք։ Այսօր մենք դեռևս շահույթ չհետապնդող ենք, դեռևս որևէ միլիարդատիրոջ չենք պատկանում և դեռևս աշխատում ենք ինտերնետը և դրա վրա ծախսած ժամանակը ավելի լավը դարձնելու ուղղությամբ։
 
 ## Used as accessible alternative text for images.
 
