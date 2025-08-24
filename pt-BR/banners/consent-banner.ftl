@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
+consent-banner-fx-heading = Ajude-nos a melhorar sua experiência no firefox.com
 consent-banner-body-v2 = Além dos cookies necessários para o funcionamento deste site, gostaríamos da sua permissão para definir alguns cookies adicionais para ajudar a entender melhor suas necessidades de navegação e melhorar sua experiência de uso. Fique tranquilo, valorizamos sua privacidade.
 consent-banner-button-reject = Rejeitar todos os cookies adicionais
 consent-banner-button-accept = Aceitar todos os cookies adicionais

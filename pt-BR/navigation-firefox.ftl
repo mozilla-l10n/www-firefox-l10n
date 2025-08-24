@@ -9,6 +9,8 @@ navigation-landmark-label = Primário
 ## Features
 
 navigation-features = Funcionalidades
+navigation-password-manager = Gerenciador de senhas gratuito
+navigation-features-all = Veja todos os recursos do { -brand-name-firefox }
 
 ## Resources
 
