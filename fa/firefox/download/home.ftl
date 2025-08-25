@@ -35,3 +35,9 @@ firefox-home-swear-off = از حواس‌پرتی‌ها دوری کنید
 #   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
 firefox-home-stay-focused = با افزونه‌هایی مانند <a { $tomato_clock_attrs }>Tomato Clock</a> و <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> متمرکز بمانید — این‌ها توصیه‌شده هستند، که مانند ستاره طلایی ما برای امنیت و عملکرد فوق‌العاده است.
 firefox-home-your-stuff = اطلاعات شما، روی همه صفحه‌نمایش‌هایتان
+firefox-home-get-firefox-mobile = نگارش موبایل { -brand-name-firefox } را دریافت کنید تا گذرواژه‌ها، زبانه‌ها و تاریخچه — و همچنین حریم خصوصی و امنیتی که به آن اعتماد دارید — همیشه همراهتان باشد.
+
+## Customization
+
+# asterisks provide playful emphasis, omit or use symbols appropriate in your language
+firefox-home-really-make-it = *واقعا* آن را مال خودت کن
