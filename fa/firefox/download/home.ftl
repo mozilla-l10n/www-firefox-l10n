@@ -62,3 +62,7 @@ firefox-home-firefox-on-desktop = { -brand-name-firefox } در رومیزی و �
 firefox-home-multiple-cursors = نشانگرهای متعدد.
 firefox-home-lots-of-open = زبانه‌های باز فراوان.
 firefox-home-shield-and-hand = سپر و دستی که از یک زبانه مرورگر محافظت می‌کند.
+firefox-home-a-human-brain = یک مغز انسان متصل به جهان.
+firefox-home-desktop-laptop-and-phone = رومیزی، لپ‌تاپ و موبایل.
+firefox-home-firefox-in-dark = { -brand-name-firefox } در حالت تیره.
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } در یک رومیزی.
