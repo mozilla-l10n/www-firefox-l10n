@@ -12,7 +12,7 @@ password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } Գ
 password-manager-firefox-securely-stores-your = { -brand-name-firefox }-ը անվտանգ կերպով պահպանում է ձեր օգտանուններն ու գաղտնաբառերը կայքեր մուտք գործելու համար, ինքնաշխատ լրացնում է դրանք ձեզ համար հաջորդ անգամ կայք այցելելիս և թույլ է տալիս կառավարել ձեր պահված մուտքանունները իր ներկառուցված գաղտնաբառերի կառավարման գործառույթի միջոցով։
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/accounts/
-password-manager-with-a-free-mozilla-account-v2 = Անվճար { -brand-name-mozilla-account }-ի միջոցով դուք կարող եք անվտանգ կերպով համաժամեցնել ձեր գաղտնաբառերը ձեր բոլոր սարքերում: Դուք կարող եք նաև մուտք գործել { -brand-name-mozilla }-ի մյուս գաղտնիությունը հարգող արտադրանքներին:
+password-manager-with-a-free-mozilla-account-v2 = <a { $fxa }>Անվճար { -brand-name-mozilla-account }-ի</a> միջոցով դուք կարող եք անվտանգ կերպով համաժամեցնել ձեր գաղտնաբառերը ձեր բոլոր սարքերում: Դուք կարող եք նաև մուտք գործել { -brand-name-mozilla }-ի մյուս գաղտնիությունը հարգող արտադրանքներին:
 password-manager-password-autofill-for-easy-logins = Գաղտնաբառի ինքնաշխատ լրացում՝ հեշտ մուտք գործելու համար
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox }-ը կարող է ինքնաշխատ լրացնել ձեր պահպանված օգտատիրոջ անունը և գաղտնաբառը։ Եթե կայքում ունեք մեկից ավելի մուտքանուն, կարող եք պարզապես ընտրել ձեզ անհրաժեշտ հաշիվը, և մենք այն կվերցնենք այնտեղից։
 # Used as an accessible text alternative for an image

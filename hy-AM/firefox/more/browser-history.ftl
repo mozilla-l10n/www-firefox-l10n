@@ -18,7 +18,7 @@ browser-history-that-sparked-a-revolution = Դա հեղափոխություն ա
 browser-history-web-era = Վեբի դարաշրջան
 # Variables:
 #   $cern (url) - https://home.cern/topics/birth-web
-browser-history-british-computer = Բրիտանացի համակարգչային գիտնական Թիմ Բերներս-Լին 1990 թվականին ստեղծեց առաջին վեբ սերվերը և գրաֆիկական վեբ դիտարկիչը, երբ <a href="{ $cern }">աշխատում էր CERN-ում՝ Եվրոպական միջուկային հետազոտությունների կազմակերպությունում, Շվեյցարիայում: Նա իր նոր պատուհանը դեպի համացանց անվանեց «WorldWideWeb»: Դա հեշտ օգտագործման գրաֆիկական ինտերֆեյս էր, որը ստեղծվել էր NeXT համակարգչի համար: Առաջին անգամ տեքստային փաստաթղթերը միացված էին միմյանց հանրային ցանցի՝ այն վեբի միջոցով, ինչպես մենք այն գիտենք:
+browser-history-british-computer = Բրիտանացի համակարգչային գիտնական Թիմ Բերներս-Լին 1990 թվականին ստեղծեց առաջին վեբ սերվերը և գրաֆիկական վեբ դիտարկիչը, երբ <a href="{ $cern }">աշխատում էր CERN-ում՝</a> Եվրոպական միջուկային հետազոտությունների կազմակերպությունում, Շվեյցարիայում: Նա իր նոր պատուհանը դեպի համացանց անվանեց «WorldWideWeb»: Դա հեշտ օգտագործման գրաֆիկական ինտերֆեյս էր, որը ստեղծվել էր NeXT համակարգչի համար: Առաջին անգամ տեքստային փաստաթղթերը միացված էին միմյանց հանրային ցանցի՝ այն վեբի միջոցով, ինչպես մենք այն գիտենք:
 browser-history-a-year-later-berners = Մեկ տարի անց Բերներս-Լին խնդրեց CERN-ի մաթեմատիկայի ուսանող Nicola Pellow-ին գրել Line Mode Browser-ը՝ համակարգչային հիմնական տերմինալների համար նախատեսված ծրագիր։
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
@@ -32,7 +32,7 @@ browser-history-the-browser-wars = Դիտարկիչի պատերազմներ
 browser-history-by-1995-netscape = 1995 թվականին { -brand-name-netscape } Navigator-ը առցանց մուտք գործելու միակ միջոցը չէր։ Համակարգչային ծրագրային ապահովման հսկա { -brand-name-microsoft }-ը լիցենզավորեց հին Mosaic կոդը և ստեղծեց իր սեփական պատուհանը դեպի համացանց՝ <a href="{ $ie }">{ -brand-name-ie }</a>: Թողարկումը պատերազմ առաջացրեց։ { -brand-name-netscape }-ը և { -brand-name-microsoft }-ը տենդագին աշխատում էին իրենց ծրագրերի նոր տարբերակներ ստեղծելու վրա՝ յուրաքանչյուրը փորձելով գերազանցել մյուսին ավելի արագ և ավելի լավ արտադրանքներով։
 # Variables:
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
-browser-history-netscape-created = { -brand-name-netscape }-ը ստեղծեց և թողարկեց JavaScript-ը, որը կայքերին տվեց հզոր հաշվողական հնարավորություններ, որոնք նրանք նախկինում չունեին: (Նրանք նաև ստեղծեցին հայտնի <a href="{ $blink }"><blink&gt; tag</a>-ը:) { -brand-name-microsoft }-ը հակադարձեց Cascading Style Sheets (CSS)-ին, որը դարձավ վեբ էջերի դիզայնի ստանդարտը:
+browser-history-netscape-created = { -brand-name-netscape }-ը ստեղծեց և թողարկեց JavaScript-ը, որը կայքերին տվեց հզոր հաշվողական հնարավորություններ, որոնք նրանք նախկինում չունեին: (Նրանք նաև ստեղծեցին հայտնի <a href="{ $blink }">&lt;blink&gt; tag</a>-ը:) { -brand-name-microsoft }-ը հակադարձեց Cascading Style Sheets (CSS)-ին, որը դարձավ վեբ էջերի դիզայնի ստանդարտը:
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
 browser-history-things-got-a-little = Իրավիճակը մի փոքր վերահսկողությունից դուրս եկավ 1997 թվականին, երբ { -brand-name-microsoft }-ը թողարկեց { -brand-name-ie } 4.0 տարբերակը։ Թիմը կառուցեց մի հսկայական «e» տառ և այն գաղտագողի տեղադրեց { -brand-name-netscape }-ի գլխավոր գրասենյակի մարգագետնում։ { -brand-name-netscape } թիմը անմիջապես գցեց հսկայական «e»-ն և <a href="{ $dino }">դրեց իր սեփական { -brand-name-mozilla } դինոզավրի թալիսմանը դրա վրա</a>։
