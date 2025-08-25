@@ -22,14 +22,10 @@ firefox-desktop-out-of-date = Mae { -brand-name-firefox } mwy diweddar byth ar g
 firefox-desktop-download-get-the-browser = Cael y porwr sy'n diogelu'r hyn sy'n bwysig
 firefox-desktop-download-fast-reliable-private = Cyflym, dibynadwy a phreifat - er tawelwch meddwl ar-lein.
 firefox-desktop-set-as-default = Gosod { -brand-name-firefox } fel eich porwr rhagosodedig.
-# Obsolete string (expires: 2025-07-21)
-firefox-desktop-download-no-shady = Dim polisïau preifatrwydd amheus na drysau cefn i hysbysebwyr. Porwr cyflym iawn sydd ddim yn eich trin fel rhywbeth i'w werthu.
 firefox-desktop-download-download-options = Dewisiadau llwytho i lawr ac ieithoedd eraill
 firefox-desktop-download-browser-support = Cymorth { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Byddwch yn rhydd ar-lein.<br> Mae { -brand-name-firefox-browser } yn eich <strong>diogelu</strong>.
-# Obsolete string (expires: 2025-07-21)
-firefox-desktop-download-do-what-you-do = Gwnewch beth bynnag hoffwch chi ar-lein. D'yw <br> { -brand-name-firefox-browser } <strong>ddim</strong> yn eich gwylio.
 firefox-desktop-download-we-block-the-ad = Rydyn ni'n rhwystro tracwyr hysbysebion. Rydych chi'n crwydro'r rhyngrwyd yn gynt.
 firefox-desktop-download-ads-are-distracting = Mae hysbysebion yn blino pawb ac yn gwneud i dudalennau gwe lwytho'n arafach, tra bod eu tracwyr yn gwylio pob symudiad rydych chi'n ei wneud ar-lein. Mae'r { -brand-name-firefox-browser } yn rhwystro'r mwyafrif o dracwyr yn awtomatig, felly does dim angen i chi fynd i'ch gosodiadau diogelwch.
 firefox-desktop-download-see-your-report = Gweld eich adroddiad diogelu
@@ -116,7 +112,7 @@ firefox-desktop-download-firefox-was-created = Crëwyd { -brand-name-firefox } g
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Wrth i'r rhyngrwyd dyfu a newid, mae { -brand-name-firefox } yn parhau i ganolbwyntio ar eich hawl i breifatrwydd - dyna fu ein peth ni erioed. Darllenwch ragor am ein harferion data yn ein <a { $attrs }>Hysbysiad Preifatrwydd</a>.
-# Obsolete string
+# Obsolete string (expires 19-09-2025)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = Wrth i'r rhyngrwyd dyfu a newid, mae { -brand-name-firefox } yn parhau i ganolbwyntio ar eich hawl i breifatrwydd - rydyn ni'n ei alw'n <a { $attrs }>Addewid Data Personol</a>: Cymerwch lai. Cadwch e'n ddiogel. Dim cyfrinachau. Mae eich data, eich gweithgaredd gwe, eich bywyd ar-lein wedi'i warchod gyda { -brand-name-firefox }.

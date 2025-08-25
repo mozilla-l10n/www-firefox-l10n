@@ -22,14 +22,10 @@ firefox-desktop-out-of-date = Na voljo je še novejši { -brand-name-firefox }. 
 firefox-desktop-download-get-the-browser = Izberite brskalnik, ki ščiti pomembne stvari
 firefox-desktop-download-fast-reliable-private = Hiter, zanesljiv in zaseben – za brezskrbno spletno življenje.
 firefox-desktop-set-as-default = Nastavite si { -brand-name-firefox(sklon: "tozilnik") } kot privzeti brskalnik.
-# Obsolete string (expires: 2025-07-21)
-firefox-desktop-download-no-shady = Brez dvoumnih politik zasebnosti ali oglaševalcev za vašim hrbtom. Le bliskovito hiter brskalnik, ki ne kuje dobička na vaš račun.
 firefox-desktop-download-download-options = Možnosti prenosa in drugi jeziki
 firefox-desktop-download-browser-support = Podpora za { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Počnite na spletu, kar želite.<br> { -brand-name-firefox-browser } vam <strong>krije hrbet</strong>.
-# Obsolete string (expires: 2025-07-21)
-firefox-desktop-download-do-what-you-do = Počnite na spletu, kar želite.<br> { -brand-name-firefox-browser } vas <strong>ne</strong> opazuje.
 firefox-desktop-download-we-block-the-ad = Mi zavračamo oglaševalske sledilce. Vi hitreje brskate po sletu.
 firefox-desktop-download-ads-are-distracting = Oglasi so moteči in upočasnjujejo nalaganje spletnih strani, njihovi sledilci pa spremljajo vaš vsak korak na spletu. { -brand-name-firefox-browser } večino sledilcev samodejno zavrača, zato ni potrebe po poglabljanju v varnostne nastavitve.
 firefox-desktop-download-see-your-report = Oglejte si svoje poročilo o zaščiti
@@ -116,7 +112,7 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } je ustvar
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Medtem ko internet raste in se spreminja, se { -brand-name-firefox } še naprej osredotoča na vašo pravico do zasebnosti – to nam je bila vedno prioriteta. Preberite več o tem, kako ravnamo s podatki, v našem <a { $attrs }>obvestilu o zasebnosti</a>.
-# Obsolete string
+# Obsolete string (expires 19-09-2025)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = Medtem ko internet raste in se spreminja, se { -brand-name-firefox } še naprej osredotoča na vašo pravico do zasebnosti – mi to imenujemo <a { $attrs }>obljuba o osebnih podatkih</a>: Vzemi manj. Obdrži jih varne. Brez skrivnosti. Vaše podatke, vašo dejavnost in življenje na spletu ščiti { -brand-name-firefox }.

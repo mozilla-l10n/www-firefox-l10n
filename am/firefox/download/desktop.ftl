@@ -17,12 +17,8 @@ firefox-desktop-download-og-title = ከመቼውም ጊዜ ፈጣኑን { -brand
 firefox-desktop-download-og-desc = ፈጣን ገጽ መጫን፣ አነስተኛ የማህደረ ትውስታ አጠቃቀም እና በባህሪያት የታጨቀ፣ አዲሱ { -brand-name-firefox } እዚህ አለ።
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = አስፈላጊ የሆነውን የሚጠብቅ አሳሽ ያግኙ
-# Obsolete string (expires: 2025-07-21)
-firefox-desktop-download-no-shady = ለአስተዋዋቂዎች ፍንጭ የሚሰጥ የግላዊነት መተዳደሪያ ወይም የኋላ በሮች የሉትም። እርስዎን የማይሸጥ መብረቅ የሆነ ፈጣን አሳሽ ብቻ።
 firefox-desktop-download-download-options = አማራጮችን እና ሌሎች ቋንቋዎችን አውርድ
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } ድጋፍ
-# Obsolete string (expires: 2025-07-21)
-firefox-desktop-download-do-what-you-do = በመስመር ላይ የሚያደርጉትን ያድርጉ።<br> { -brand-name-firefox-browser } <strong>አያይም</strong>።
 firefox-desktop-download-we-block-the-ad = እኛ የማስታወቂያ መከታተያዎችን እናግዳለን። እርስዎ በይነመረቡን በፍጥነት ያስሱ።
 firefox-desktop-download-ads-are-distracting = ማስታወቂያዎች ትኩረት የሚከፋፍሉ እና ድረ-ገጾች በዝግታ እንዲጫኑ ሲያደርጉ ተከታታዮቻቸው ደሞ በመስመር ላይ የሚያደርጉትን እያንዳንዱን እንቅስቃሴ ይመለከታሉ። { -brand-name-firefox-browser } ብዙ መከታተያዎችን በራስ ሰር ያግዳል፣ ስለዚህ የደህንነት ቅንብሮችዎ ውስጥ መቆፈር አያስፈልግም።
 firefox-desktop-download-see-your-report = የጥበቃ ሪፖርትዎን ይመልከቱ
@@ -106,7 +102,7 @@ firefox-desktop-download-from-security-to = ከደህንነት እስከ ዜና 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } የተፈጠረው በ<a { $attrs }>{ -brand-name-mozilla }</a> እንደ ፈጣን እና የበለጠ የግል አሳሾች እንደ { -brand-name-ie }፣ እና አሁን { -brand-name-chrome }። ዛሬ፣ በተልዕኮ የሚመራ ኩባንያችን እና የበጎ ፈቃደኞች ማህበረሰቦች የእርስዎን ግላዊነት ከምንም በላይ ማስቀደማቸውን ቀጥለዋል።
-# Obsolete string
+# Obsolete string (expires 19-09-2025)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = በይነመረቡ ሲያድግ እና ሲቀየር { -brand-name-firefox } በእርስዎ የግላዊነት መብት ላይ ማተኮር ይቀጥላል - እኛ <a { $attrs }>የግል ውሂብ ቃል ኪዳን</a> እንለዋን፡- ትንሽ ይውሰዱ። ደህንነቱ የተጠበቀ ያድርጉት። ምንም ሚስጥሮች የሉም። የእርስዎ ውሂብ፣ የእርስዎ የድር እንቅስቃሴ፣ የመስመር ላይ ህይወትዎ በ{ -brand-name-firefox } የተጠበቀ ነው።

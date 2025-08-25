@@ -21,14 +21,10 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Доступний ще новіший { -brand-name-firefox }. <a { $update_url }>Оновіться до найновішої версії</a>
 firefox-desktop-download-get-the-browser = Отримайте браузер, який захищає все важливе
 firefox-desktop-download-fast-reliable-private = Швидкий, надійний і приватний — для спокійного користування інтернетом.
-# Obsolete string (expires: 2025-07-21)
-firefox-desktop-download-no-shady = Жодних прихованих політик приватності чи потаємних лазів для рекламодавців. Просто блискавичний браузер, який не продає вас.
 firefox-desktop-download-download-options = Параметри завантаження та інші мови
 firefox-desktop-download-browser-support = Підтримка { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Робіть в Інтернеті що завгодно.<br> { -brand-name-firefox-browser } <strong>захищає</strong> вас.
-# Obsolete string (expires: 2025-07-21)
-firefox-desktop-download-do-what-you-do = Робіть в Інтернеті що завгодно.<br> { -brand-name-firefox-browser } <strong>не</strong> стежить.
 firefox-desktop-download-we-block-the-ad = Ми блокуємо елементи стеження оголошень. Ви швидше переглядаєте в Інтернеті.
 firefox-desktop-download-ads-are-distracting = Оголошення відвертають увагу та сповільнюють завантаження вебсторінок, а їхні елементи стеження слідкують за кожним вашим кроком в Інтернеті. { -brand-name-firefox-browser } блокує більшість елементів стеження автоматично, тому не потрібно заглиблюватися в налаштування безпеки.
 firefox-desktop-download-see-your-report = Переглянути звіт про ваш захист
@@ -115,7 +111,7 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ство�
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Зі зростанням та змінами інтернету, { -brand-name-firefox } продовжує зосереджуватися на вашій приватності — це завжди було нашим пріоритетом. Дізнайтеся більше про наші методи обробки даних у нашому <a { $attrs }>Положенні про приватність</a>.
-# Obsolete string
+# Obsolete string (expires 19-09-2025)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = Разом зі зростанням та зміною Інтернету, { -brand-name-firefox } продовжує зосереджуватись на вашому праві на приватність  — ми називаємо це <a { $attrs }>Зобов'язанням щодо персональних даних</a>: Отримуємо менше. Зберігаємо безпечно. Жодних секретів. Ваші дані, ваші дії в Мережі, ваше життя в Інтернеті захищено { -brand-name-firefox }.

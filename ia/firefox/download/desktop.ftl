@@ -22,14 +22,10 @@ firefox-desktop-out-of-date = Un { -brand-name-firefox } mesmo plus nove es disp
 firefox-desktop-download-get-the-browser = Installa le navigator que protege lo que es importante
 firefox-desktop-download-fast-reliable-private = Veloce, fidabile e private, pro le tranquillitate online.
 firefox-desktop-set-as-default = Elige { -brand-name-firefox } como tu navigator predefinite.
-# Obsolete string (expires: 2025-07-21)
-firefox-desktop-download-no-shady = Nulle terminos e conditiones dubitose con clausulas que favori le annunciatores. Solmente un navigator, rapide como le fulmine, que non vende tu datos.
 firefox-desktop-download-download-options = Discarga optiones e altere linguas
 firefox-desktop-download-browser-support = Supporto de { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Face  online lo que tu vole.<br> { -brand-name-firefox-browser } te <strong>protege</strong>.
-# Obsolete string (expires: 2025-07-21)
-firefox-desktop-download-do-what-you-do = Face lo que tu face online.<br> { -brand-name-firefox-browser } <strong>non sta</strong> spiar.
 firefox-desktop-download-we-block-the-ad = Nos bloca le traciatores de avisos publicitari. Tu explora internet plus velocemente.
 firefox-desktop-download-ads-are-distracting = Avisos publicitari distrahe e rende le cargamentos del paginas web plus lente durante que lor traciatores survelia cata movimento que tu face online. Le { -brand-name-firefox-browser } bloca le major parte del traciatores automaticamente, assi il non ha ulle besonio de excavar in tu parametros de securitate.
 firefox-desktop-download-see-your-report = Vide tu reporto de protection
@@ -116,7 +112,7 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ha essite
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = A mesura que internet cresce e cambia, { -brand-name-firefox } continua a concentrar se sur tu derecto al confidentialitate, que sempre ha essite cosa nostre. Discoperi nostre practicas de datos in nostre <a { $attrs }>Aviso de confidentialitate</a>.
-# Obsolete string
+# Obsolete string (expires 19-09-2025)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = Assi que Internet cresce e cambia, { -brand-name-firefox } continua concentrar se sur tu derecto al confidentialitate, nos lo appella le <a { $attrs }>Promissa re datos personal</a>: prender minus, mantener lo secur e transparentia. Tu datos, tu activitate web, tu vita online es protegite per { -brand-name-firefox }.

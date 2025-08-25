@@ -20,12 +20,8 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Cc’è na virsioni ancora cchiù nova di { -brand-name-firefox }. <a { $update_url }>Attualizza a l’ùrtima virsioni</a>
 firefox-desktop-download-get-the-browser = Pigghia u navicaturi chi pruteggi soccu è mpurtanti
-# Obsolete string (expires: 2025-07-21)
-firefox-desktop-download-no-shady = Senza pulìtichi di privatizza trùbbuli o lassapassari pi cu’ fa pubblicità. Sulu un navicaturi lestu comu na sajitta chi nun ti vinni a nuḍḍu.
 firefox-desktop-download-download-options = Scartati di scarricamentu e autri lingui
 firefox-desktop-download-browser-support = Supportu di { -brand-name-firefox-browser }
-# Obsolete string (expires: 2025-07-21)
-firefox-desktop-download-do-what-you-do = Fai soccu voi ’n linia.<br>U { -brand-name-firefox-browser } <strong>nun</strong> ti talìa.
 firefox-desktop-download-we-block-the-ad = Bluccamu i trazzatura dî pubblicità, e tu nàvighi cchiù lestu.
 firefox-desktop-download-ads-are-distracting = I pubblicità distràjinu e fannu i pàggini cchiù lenti di carricari, mentri chi i trazzatura talìanu tuttu chiḍḍu chi fai ’n linia. U { -brand-name-firefox-browser } blocca di manera autumàtica a majurìa dî trazzatura, senza chi metti manu nnê mpustazzioni di sicurizza.
 firefox-desktop-download-see-your-report = Vidi u to papellu di prutizzioni
@@ -109,7 +105,7 @@ firefox-desktop-download-from-security-to = Dâ sicurizza, ê nutizzi ê jòcura
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } fu criatu di <a { $attrs }>{ -brand-name-mozilla }</a> comu un navicaturi cchiù lestu e privatu di autri, a tipu { -brand-name-ie } e { -brand-name-chrome }. Oji a nostra cumpagnìa e a nostra cumunità di vuluntari ànnu na missioni: a to privatizza veni prima di tuttu.
-# Obsolete string
+# Obsolete string (expires 19-09-2025)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = Sicutannu a riti chi crisci e cancia, { -brand-name-firefox } cuntinua a cuncintràrisi ncapu ô to dirittu â privatizza — a chiamamu <a { $attrs }>Prumisa dî Dati Pirsunali</a>: ricògghiri cchiù picca dati, tinìrili ô sicuru, nuḍḍu sicritu. I to dati, a to attività e a to vita ’n linia sunnu prutetti di { -brand-name-firefox }.

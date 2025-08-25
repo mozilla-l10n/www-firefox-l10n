@@ -21,14 +21,10 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser(case: "a") }
 firefox-desktop-out-of-date = גרסה חדשה אף יותר של { -brand-name-firefox } זמינה. <a { $update_url }>עדכון לגרסה האחרונה</a>
 firefox-desktop-download-get-the-browser = קבלו את הדפדפן שמגן על מה שחשוב
 firefox-desktop-download-fast-reliable-private = מהיר, אמין ופרטי - לשקט נפשי באינטרנט.
-# Obsolete string (expires: 2025-07-21)
-firefox-desktop-download-no-shady = ללא מדיניות פרטיות מפוקפקת או דלתות אחוריות למפרסמים. רק דפדפן מהיר כברק שלא מוכר אתכם.
 firefox-desktop-download-download-options = אפשרויות הורדה ושפות אחרות
 firefox-desktop-download-browser-support = תמיכה ב{ -brand-name-firefox-browser(case: "a") }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = עשו מה שאתם עושים באינטרנט.<br> { -brand-name-firefox-browser(case: "the") } </strong>דואג<strong> לכם.
-# Obsolete string (expires: 2025-07-21)
-firefox-desktop-download-do-what-you-do = עשו מה שאתם עושים באינטרנט.<br> ה{ -brand-name-firefox-browser(case: "a") } </strong>לא<strong> מסתכל.
 firefox-desktop-download-we-block-the-ad = אנחנו חוסמים את עוקבי הפרסומות. אתם גולשים באינטרנט מהר יותר.
 firefox-desktop-download-ads-are-distracting = פרסומות מסיחות את הדעת וגורמות לדפי אינטרנט להיטען לאט יותר בזמן שרכיבי המעקב שלהם צופים בכל תנועה שאתם עושים ברשת. { -brand-name-firefox-browser(case: "the") } חוסם את רוב רכיבי המעקב באופן אוטומטי, כך שאין צורך לחפור בתוך הגדרות האבטחה שלכם.
 firefox-desktop-download-see-your-report = הצגת דוח ההגנה שלכם
@@ -114,7 +110,7 @@ firefox-desktop-download-firefox-was-created = ‏{ -brand-name-firefox } נוצ
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = ככל שהאינטרנט גדל ומשתנה, { -brand-name-firefox } ממשיך להתמקד בזכות שלכם לפרטיות - זו תמיד הייתה המשימה שלנו. למידע נוסף על נוהלי המידע שלנו, קראו את <a { $attrs }>הודעת הפרטיות</a> שלנו.
-# Obsolete string
+# Obsolete string (expires 19-09-2025)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = ככל שהאינטרנט גדל ומשתנה, { -brand-name-firefox } ממשיך להתמקד בזכות שלכם לפרטיות - אנו קוראים לזה <a { $attrs }>הבטחת המידע האישי</a>: לקחת פחות. לשמור על זה מאובטח. ללא סודות. הנתונים שלכם, הפעילות המקוונת שלכם והחיים שלך באינטרנט מוגנים עם { -brand-name-firefox }.

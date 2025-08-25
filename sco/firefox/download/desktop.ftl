@@ -15,12 +15,8 @@ firefox-desktop-download-og-title = Doonload the fastest { -brand-name-firefox }
 firefox-desktop-download-og-desc = Faster page loadin, less memory yaise and hoachin wi featurs, the new { -brand-name-firefox } is here.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Get the stravaiger that bields whit maitters
-# Obsolete string (expires: 2025-07-21)
-firefox-desktop-download-no-shady = Nae sleekit privacy policies or back doors fur advertisers. Jist a lichtnin fast stravaiger that disnae sell ye oot.
 firefox-desktop-download-download-options = Doonload options and ither leids
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } support
-# Obsolete string (expires: 2025-07-21)
-firefox-desktop-download-do-what-you-do = Dae whit ye dae online.<br> { -brand-name-firefox-browser } <strong>isnae</strong> watchin.
 firefox-desktop-download-we-block-the-ad = We block the ad trackers. You stravaig the internet faster.
 firefox-desktop-download-ads-are-distracting = Ads are distractin and mak wab pages load slower while their trackers tak tent o ilka muive ye mak online. The { -brand-name-firefox-browser } blocks maist trackers automatically, sae there’s nae need tae gang howkin intae yer siccarness settins.
 firefox-desktop-download-see-your-report = Hae a deek at yer bieldin report
@@ -104,7 +100,7 @@ firefox-desktop-download-from-security-to = Fae siccarness tae news tae gemmes, 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } wis makkit by <a { $attrs }>{ -brand-name-mozilla }</a> as a faster, mair private alternative tae stravaigers like { -brand-name-ie }, and noo { -brand-name-chrome }. The day, oor mission-driven company and volunteer community haud forrit wi pittin yer privacy abuin awthin else.
-# Obsolete string
+# Obsolete string (expires 19-09-2025)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = As the internet growes and chynges, { -brand-name-firefox } continues tae focus on yer richt tae privacy  — we caw it the <a { $attrs }>Personal Data Promise</a>: Tak less. Keep it sauf. Nae secrets. Yer data, yer wab ongauns, yer life online is bieldit wi { -brand-name-firefox }.

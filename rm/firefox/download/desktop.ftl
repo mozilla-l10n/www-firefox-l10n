@@ -20,12 +20,8 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser(capitalization:
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Ina versiun anc pli nova da { -brand-name-firefox } è disponibla. <a { $update_url }>Actualisescha a la versiun la pli nova</a>
 firefox-desktop-download-get-the-browser = Va per il navigatur che protegia quai che quinta
-# Obsolete string (expires: 2025-07-21)
-firefox-desktop-download-no-shady = Nagina protecziun da datas suspectusa cun largias per vendiders da reclama. Mo in navigatur sco ina frizza che na ta splima betg.
 firefox-desktop-download-download-options = Opziuns da telechargiadas ed autras linguas
 firefox-desktop-download-browser-support = Agid dal { -brand-name-firefox-browser }
-# Obsolete string (expires: 2025-07-21)
-firefox-desktop-download-do-what-you-do = Sta patgific en l'internet.<br> Il { -brand-name-firefox-browser } na t'observa <strong>betg</strong>.
 firefox-desktop-download-we-block-the-ad = Nus bloccain ils fastizaders da reclama. Ti navigheschas pli svelt en l'internet.
 firefox-desktop-download-ads-are-distracting = Reclamas distiran ed han per consequenza che paginas chargian pli plaun, fertant che lur fastizaders observan mintga pass che ti fas online. Il { -brand-name-firefox-browser } blochescha automaticamain la plipart dals fastizaders – uschia ch'i na fa gnanc da basegn da svutrar ditg en ils parameters da segirezza.
 firefox-desktop-download-see-your-report = Vesair tes rapport da protecziun
@@ -109,7 +105,7 @@ firefox-desktop-download-from-security-to = Da la segirezza fin als gieus, i dat
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } è vegnì creà da <a { $attrs }>{ -brand-name-mozilla }</a> sco alternativa pli svelta, pli privata a navigaturs sco { -brand-name-ie } ed ussa { -brand-name-chrome }. Anc oz essan nus ina interpresa cun princips che sa basa sin ina communitad da voluntaris e metta las persunas en il center, betg il profit.
-# Obsolete string
+# Obsolete string (expires 19-09-2025)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = Fertant che l'internet crescha e sa mida, sa concentrescha { -brand-name-firefox } vinavant sin la protecziun da datas — nus numnain quai l'<a { $attrs }>engaschi per las datas persunalas</a>: Rimnar pauc, memorisar a moda segira e na zuppentar nagut. Tias datas, tias activitads en il web e tia vita online èn protegidas cun { -brand-name-firefox }.
