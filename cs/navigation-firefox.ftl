@@ -14,8 +14,8 @@ navigation-top-features = Hlavní funkce
 navigation-fingerprint-blocking = Blokování otisku prohlížeče
 navigation-ad-tracker-blocking = Blokování sledujících reklam
 navigation-private-browsing = Režim anonymního prohlížení
-navigation-password-manager = Zdarma správce hesel
-navigation-features-all = Zobrazit všechny funkce v aplikaci { -brand-name-firefox }
+navigation-password-manager = Bezplatný správce hesel
+navigation-features-all = Zobrazit všechny funkce { -brand-name-firefox(case: "gen") }
 
 ## Resources
 
