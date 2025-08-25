@@ -10,6 +10,7 @@
 
 firefox-home-take-control = کنترل اینترنت خود را به دست بگیرید
 firefox-home-go-online = با حواس‌پرتی، شلوغی و استرس کمتر آنلاین شوید. ما را همچون نسیمی تازه تصور کنید.
+firefox-home-set-firefox-as = { -brand-name-firefox } را به‌عنوان مرورگر پیش‌فرض خود تنظیم کنید.
 
 ## What's new
 
@@ -41,3 +42,23 @@ firefox-home-get-firefox-mobile = نگارش موبایل { -brand-name-firefox 
 
 # asterisks provide playful emphasis, omit or use symbols appropriate in your language
 firefox-home-really-make-it = *واقعا* آن را مال خودت کن
+firefox-home-work-smarter = هوشمندانه‌تر کار کنید، پرانرژی‌تر بازی کن
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = امکانات تحقیق، خرید و موارد دیگر را در <a { $extensions_attrs }>افزونه‌ها</a> کشف کنید.
+firefox-home-bye-boring = خداحافظ مرورگر خسته‌کننده
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = اینترنت می‌تواند جای دل‌پذیری باشد، با افزونه مناسب <a { $theme_attrs }>پوسته</a>.
+
+## Final call-out
+
+firefox-home-billionaire-free = بیش از +۲۰ سال بدون حضور میلیاردرها
+firefox-home-firefox-was-created = { -brand-name-firefox } در سال ۱۳۸۳ توسط { -brand-name-mozilla } به‌عنوان جایگزینی سریع‌تر، خصوصی‌تر و قابل شخصی‌سازی برای مرورگرهایی مانند Internet Explorer ساخته شد. امروزه، ما همچنان غیرانتفاعی هستیم، همچنان متعلق به هیچ میلیاردر نیستیم و همچنان تلاش می‌کنیم اینترنت — و زمانی که در آن صرف می‌کنید — را بهتر کنیم.
+
+## Used as accessible alternative text for images.
+
+firefox-home-firefox-on-desktop = { -brand-name-firefox } در رومیزی و موبایل.
+firefox-home-multiple-cursors = نشانگرهای متعدد.
+firefox-home-lots-of-open = زبانه‌های باز فراوان.
+firefox-home-shield-and-hand = سپر و دستی که از یک زبانه مرورگر محافظت می‌کند.
