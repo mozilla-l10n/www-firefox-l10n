@@ -26,6 +26,7 @@
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser = Firefox Browser
+-brand-name-firefox-browsers = Firefox четци
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
@@ -51,6 +52,7 @@
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-translations = Firefox преводи
 
 ## Firefox products (short names)
 
@@ -62,12 +64,16 @@
 
 ## Fakespot
 
+-brand-name-fakespot = Fakespot
 
 ## Mozilla projects
 
 -brand-name-gecko = Gecko
+-brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mozilla-account = Mozilla профил
+-brand-name-mozilla-accounts = Mozilla профили
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
