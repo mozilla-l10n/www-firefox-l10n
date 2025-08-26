@@ -17,6 +17,6 @@ compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Խմբագրեք PDF ֆայլե
 # $translate (url) - link to https://www.firefox.com/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>Թարգմանեք վեբ էջը</a> տեղային և անհատական եղանակով։
 compare-shared-its-easy-to-switch = Հեշտ է անցնել
-compare-shared-since-we-dont-have-to-make = Քանի որ մենք պարտավոր չենք բաժնետերերին երջանիկ դարձնել, մենք կարող ենք կենտրոնանալ ձեզ երջանիկ դարձնելու վրա և միշտ ձեր գաղտնիությունն ու հարմարավետությունը դնել առաջին տեղում։
+compare-shared-since-we-dont-have-to-make = Քանի որ մենք պարտավոր չենք բաժնետերերին երջանիկ դարձնել, մենք կարող ենք կենտրոնանալ <strong>ձեզ</strong> երջանիկ դարձնելու վրա և միշտ ձեր գաղտնիությունն ու հարմարավետությունը դնել առաջին տեղում։
 # Used as a small link to a cited source
 compare-shared-source = աղբյուր
