@@ -21,3 +21,7 @@ ui-show-all = ສະແດງທັງໝົດ
 ui-hide-all = ເຊື່ອງທັງໝົດ
 ui-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 ui-view = ມູມມອງ
+ui-pause-animation = ຢຸດການເຄື່ອນໄຫວຊົ່ວຄາວ
+ui-play-animation = ຫຼິ້ນພາບເຄື່ອນໄຫວ
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = ການສົ່ງເສີມ
