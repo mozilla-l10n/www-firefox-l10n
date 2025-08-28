@@ -10,6 +10,13 @@ navigation-landmark-label = プライマリ
 ## Features
 
 navigation-features = 機能
+navigation-close-features-menu = 機能メニューを閉じる
+navigation-top-features = 人気の機能
+navigation-fingerprint-blocking = フィンガープリント採取をブロック
+navigation-ad-tracker-blocking = 広告トラッカーのブロック
+navigation-private-browsing = プライベートブラウジングモード
+navigation-password-manager = 無料のパスワードマネージャー
+navigation-features-all = { -brand-name-firefox } の全機能を見る
 
 ## Resources
 
