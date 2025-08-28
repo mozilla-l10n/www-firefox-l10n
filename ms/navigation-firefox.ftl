@@ -10,6 +10,13 @@ navigation-landmark-label = Utama
 ## Features
 
 navigation-features = Ciri-ciri
+navigation-close-features-menu = Menu Ciri Tertutup
+navigation-top-features = Ciri Popular
+navigation-fingerprint-blocking = Menyekat Pengecap Jari
+navigation-ad-tracker-blocking = Sekatan Penjejak Iklan
+navigation-private-browsing = Mod Pelayaran Peribadi
+navigation-password-manager = Pengurus Kata Laluan Percuma
+navigation-features-all = Lihat semua Ciri { -brand-name-firefox }
 
 ## Resources
 
