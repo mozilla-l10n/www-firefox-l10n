@@ -10,6 +10,13 @@ navigation-landmark-label = أساسي
 ## Features
 
 navigation-features = الميزات
+navigation-close-features-menu = إغلاق قائمة المزايا
+navigation-top-features = المزايا الأعلى
+navigation-fingerprint-blocking = حجب تسجيل البصمات
+navigation-ad-tracker-blocking = حجب المتعقّبات الإعلانية
+navigation-private-browsing = وضع التصفح الخاص
+navigation-password-manager = إدارة كلمات المرور مجانًا
+navigation-features-all = عرض جميع مزايا { -brand-name-firefox }
 
 ## Resources
 
