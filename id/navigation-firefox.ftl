@@ -10,6 +10,13 @@ navigation-landmark-label = Utama
 ## Features
 
 navigation-features = Fitur
+navigation-close-features-menu = Tutup menu Fitur
+navigation-top-features = Fitur Unggulan
+navigation-fingerprint-blocking = Pemblokiran Fingerprinting
+navigation-ad-tracker-blocking = Pemblokiran Pelacak Iklan
+navigation-private-browsing = Mode Penjelajahan Pribadi
+navigation-password-manager = Pengelola Sandi Gratis
+navigation-features-all = Lihat semua Fitur { -brand-name-firefox }
 
 ## Resources
 
