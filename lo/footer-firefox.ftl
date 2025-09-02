@@ -34,9 +34,18 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = ຊຸມຊົນ
 footer-contribute = ສະໜັບສະໜູນ
 footer-developer = ນັກພັດທະນາ
+footer-connect = ເຊື່ອມຕໍ່
 
 ## Links to resources
 
+# Section title
+footer-resources = ຊັບ​ພະ​ຍາ​ກອນ
+footer-compare = ປຽບທຽບ
+footer-release-notes = ບັນທຶກປະຈຳລຸ້ນ
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = ຮຽນຮູ້
+footer-support = ສະຫນັບສະຫນູນ
 footer-addons = Add-ons
 footer-blog = ບົດຄວາມ
 
