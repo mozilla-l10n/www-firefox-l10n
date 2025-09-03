@@ -22,8 +22,25 @@ cookie-settings-turn-on-javascript = ກະລຸນາເປີດໃຊ້ Jav
 
 cookie-settings-category-necessary-heading = ຈໍາເປັນ
 cookie-settings-category-necessary-what-are-subheading = Cookies ທີ່ຈໍາເປັນແມ່ນຫຍັງ?
+cookie-settings-category-necessary-what-are-desc = ເຕັກໂນໂລຢີເຫຼົ່ານີ້ແມ່ນຕ້ອງການເພື່ອສະຫນັບສະຫນູນລັກສະນະເວັບໄຊທ໌ທີ່ສໍາຄັນ, ເຊັ່ນ: ເຂົ້າໄປໃນພື້ນທີ່ທີ່ປອດໄພຂອງເວັບໄຊທ໌ຫຼື ເພີ່ມລາຍການໃນກະຕ່າຊື້ເຄື່ອງອອນໄລນ໌, ແລະ ບໍ່ສາມາດປິດໄດ້.
+cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } ໃຊ້ຄຸກກີທີ່ຈຳເປັນເທົ່ານັ້ນເພື່ອສະໜອງຄຸນສົມບັດເວັບໄຊທ໌ທີ່ສຳຄັນເຊັ່ນ: ເຂົ້າສູ່ລະບົບໂດຍໃຊ້ { -brand-name-mozilla-account } ຂອງທ່ານ ຫຼື ການຊື້ການສະໝັກໃຊ້ຊອບແວໃນເວລາຈ່າຍເງິນ. ຖ້າບໍ່ມີເທກໂນໂລຍີເຫຼົ່ານີ້, ລັກສະນະເວັບໄຊທ໌ທີ່ສໍາຄັນອາດຈະບໍ່ເຮັດວຽກ.
+
+## Preference cookies section
+
+cookie-settings-category-preference-heading = ຄວາມມັກ
+cookie-settings-category-preference-what-are-subheading = ຄຸກກີ້ຕາມໃຈມັກແມ່ນຫຍັງ?
+cookie-settings-category-preference-what-are-desc = ເທກໂນໂລຍີເຫຼົ່ານີ້ຖືກນໍາໃຊ້ເພື່ອຈື່ຈໍາທາງເລືອກທີ່ທ່ານໄດ້ເຮັດໃນລະຫວ່າງການຢ້ຽມຢາມເວັບໄຊທ໌ທີ່ຜ່ານມາ. ຕົວຢ່າງອາດຈະປະກອບມີພາສາໃດທີ່ທ່ານມັກອ່ານ, ຫຼື ຫົວຂໍ້ສີໃດທີ່ທ່ານມັກ.
+cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } ໃຊ້ Preference Cookies ເພື່ອປະຕິບັດຕາມຄວາມມັກຂອງທ່ານ ແລະ ປັບປຸງປະສົບການຂອງທ່ານໃນເວລາເຂົ້າເບິ່ງເວັບໄຊທ໌ຂອງພວກເຮົາ. ພວກມັນບໍ່ໄດ້ໃຊ້ເພື່ອຈຸດປະສົງການວິເຄາະ. Preference Cookies ສະຫນັບສະຫນູນຄຸນສົມບັດໃນລັກສະນະທີ່ຄ້າຍຄືກັນກັບ Necessary Cookies, ຢ່າງໃດກໍຕາມເວັບໄຊທ໌ຍັງສາມາດດໍາເນີນການໂດຍບໍ່ມີພວກມັນ. ດັ່ງນັ້ນ, ທ່ານສາມາດເລືອກທີ່ຈະເລືອກອອກຈາກການນໍາໃຊ້ຂອງເຂົາເຈົ້າ.
 
 ## Analytics cookies section
 
 cookie-settings-category-analytics-heading = ການວິເຄາະ
 cookie-settings-category-analytics-what-are-subheading = ຄຸກກີການວິເຄາະແມ່ນຫຍັງ?
+cookie-settings-category-analytics-what-are-desc = ເທກໂນໂລຍີເຫຼົ່ານີ້ເກັບກໍາຂໍ້ມູນກ່ຽວກັບວິທີທີ່ຄົນໃຊ້ເວັບໄຊທ໌, ເຊັ່ນ: ຫນ້າທີ່ໄດ້ໄປຢ້ຽມຢາມ, ລິ້ງຄ໌ທີ່ຄລິກໃສ່, ແລະ ເວັບໄຊທ໌ອື່ນໆທີ່ໄປຢ້ຽມຢາມແມ່ນມາຈາກ.
+cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } ໃຊ້ຂໍ້ມູນການວິເຄາະເພື່ອເຂົ້າໃຈວິທີທີ່ຜູ້ໃຊ້ພົວພັນກັບເວັບໄຊທ໌ຂອງພວກເຮົາເພື່ອໃຫ້ພວກເຮົາສາມາດປັບປຸງໃຫ້ເຂົາເຈົ້າ, ແລະແກ້ໄຂບັນຫາຕ່າງໆທີ່ເກີດຂື້ນ. ພວກເຮົາອາດຈະໃຊ້ຂໍ້ມູນຈາກຄຸກກີ້, ຂໍ້ມູນອຸປະກອນ, ແລະທີ່ຢູ່ IP ເພື່ອຊ່ວຍໃຫ້ພວກເຮົາເຂົ້າໃຈວິທີທີ່ຜູ້ໃຊ້ມີສ່ວນຮ່ວມກັບຜະລິດຕະພັນ, ບໍລິການ, ການສື່ສານ, ເວັບໄຊທ໌, ແຄມເປນອອນໄລນ໌, ອຸປະກອນ, ແລະເວທີອື່ນໆຂອງພວກເຮົາ. ພວກເຮົາຈະເກັບກຳຂໍ້ມູນການວິເຄາະ ແລະຕັ້ງ Analytics Cookies ດ້ວຍການຍິນຍອມຂອງເຈົ້າ.
+
+## Privacy section
+
+cookie-settings-privacy-heading = ແຈ້ງການຄວາມເປັນສ່ວນຕົວຂອງພວກເຮົາ
+cookie-settings-privacy-desc = ສໍາລັບຂໍ້ມູນລາຍລະອຽດເພີ່ມເຕີມກ່ຽວກັບປະເພດຂອງຂໍ້ມູນທີ່ແຕກຕ່າງກັນທີ່ { -brand-name-mozilla } ເກັບກໍາໃນເວລາທີ່ທ່ານເຂົ້າເບິ່ງເວັບໄຊທ໌ຂອງພວກເຮົາ, ທ່ານສາມາດຊອກຫາການເຊື່ອມຕໍ່ກັບແຈ້ງການຄວາມເປັນສ່ວນຕົວຂອງພວກເຮົາຂ້າງລຸ່ມນີ້.
+cookie-settings-privacy-policy-link = ຄຳເຕືອນກ່ຽວກັບຄວາມເປັນສ່ວນຕົວ
