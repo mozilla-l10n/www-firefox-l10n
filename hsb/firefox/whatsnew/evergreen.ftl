@@ -5,9 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = { -brand-name-firefox } za Android a iOS sćahnyć
 whatsnew-page-description = Wobarajće so přećiwo industriji, kotraž waše daty třećim poskićowarjam předawa. Budźće mudry a wěsty online z technologiju, kotraž za was wojuje.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = Waš { -brand-name-firefox } je so zaktualizował.
+whatsnew-download-firefox-for-your = Sćehńće { -brand-name-firefox } za swoje šmóratko a swój tablet.
+# An accessible label for a QR code image
+whatsnew-qr-code-alt = Tutón QR-kod skenować
 # Variables:
 #   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = Čitajće <a { $url }>wersije informacije</a>, zo byšće wjace wo nowych funkcijach a změnach w swojim wobhladowaku { -brand-name-firefox } zhonił.
