@@ -1,0 +1,26 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
+
+# Variables:
+#   $version (number) - Firefox Nightly release major version number
+nightly-whatsnew-youve-just-been = Шумо ҳоло браузери худро ба версияи «{ -brand-name-firefox-nightly } { $version } » такмил додаед!
+nightly-whatsnew-your-firefox-nightly = Браузери «{ -brand-name-firefox-nightly }»-и шумо навсозӣ карда шуд.
+nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
+nightly-whatsnew-every-4-to-5-weeks = Пас аз ҳар 4 ё 5 ҳафта версияи нави браузери асосии «{ -brand-name-firefox }» бароварда мешавад ва дар натиҷа, версияи браузери «{ -brand-name-nightly }» низ меафзояд.
+nightly-whatsnew-this-is-a-good = Мо мехоҳем аз фурсат истифода бурда, ба шумо барои расонидани кумак дар беҳтар кардани «{ -brand-name-firefox }» изҳори сипос намоем. Ҳамчунин, мо мехоҳем чанд пайванди муфид оид ба ҳуҷҷатҳо, василаҳои иртиботӣ ва манбаъҳои хабарӣ дар бораи «{ -brand-name-nightly }» ба шумо дастрас кунем, ки шояд барои шумо ҷолиби диққат бошанд.
+# Variables:
+#   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
+#   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
+nightly-whatsnew-if-you-want-to-v4 = Агар шумо мехоҳед, ки аз ҳамаи навгониҳо дар атрофи «{ -brand-name-nightly }» ва ҷомеаи он бохабар бошед, шумо метавонед аз хондани <a { $blog }>блоги мо</a> ва пайравӣ кардани фаъолияти мо дар <a { $mastodon }>«Mastodon»</a> ё <a { $bluesky }>«Bluesky»</a> оғоз намоед.
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v3 = Шумо мехоҳед фаҳмед, ки кадом хусусиятҳои платформа фақат барои озмоиш дар «{ -brand-name-nightly }» дастрасанд ва то ҳол дар шабакаҳои дигари «{ -brand-name-firefox }» дастрас нестанд? Пас ба саҳифаи хусусиятҳои <a { $attrs }>«{ -brand-name-firefox-labs }»</a> ворид шавед ва навгониҳоро омӯзед.
+# Variables:
+#   $bugzilla (url) - link to https://bugzilla.mozilla.org/
+nightly-whatsnew-do-you-experience = Бо садамаҳои барномавӣ рӯ ба рӯ мешавед? Рафтори ғайричашмдоштро мушоҳида мекунед? Ё мушкилоти мутобиқати саҳифаҳои сомона? Мо хеле миннатдор мешавем, агар шумо дар бораи ҳамаи ин мушкилиҳо тавассути <a href="{ $bugzilla }">«{ -brand-name-bugzilla }»</a> гузориш диҳед, то мо пешгирӣ кунем, ки онҳо ба версияи ниҳоӣ роҳ наёбанд (агар ба гузориши худ калимаи калидии «<em>{ -brand-name-nightly }-community</em>»-ро низ илова кунед, савоби иловагӣ ба даст меоред!).
+nightly-whatsnew-go-community = Ҷамъият ба пеш!
