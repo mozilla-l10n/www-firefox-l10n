@@ -48,15 +48,9 @@
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-devtools = Firefox DevTools
 
-## Firefox products (short names)
-
-
 ## Pocket
 
 -brand-name-pocket = Pocket
-
-## Fakespot
-
 
 ## Mozilla projects
 

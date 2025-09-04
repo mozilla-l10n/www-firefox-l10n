@@ -62,9 +62,6 @@
 
 -brand-name-pocket = Pocket
 
-## Fakespot
-
-
 ## Mozilla projects
 
 -brand-name-mdn-plus = MDN پلس

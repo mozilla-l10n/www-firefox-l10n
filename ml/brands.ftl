@@ -62,9 +62,6 @@
 
 -brand-name-pocket = Pocket
 
-## Fakespot
-
-
 ## Mozilla projects
 
 -brand-name-gecko = ഗെക്കോ
