@@ -9,7 +9,7 @@ whatsnew-page-title = Stáhnout { -brand-name-firefox } pro Android a iOS
 whatsnew-page-description = Postavte se proti průmyslu, který prodává vaše data třetím stranám. Buďte na internetu prozíraví a v bezpečí pomocí technologie, která za vás bojuje.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = Váš prohlížeč { -brand-name-firefox } byl aktualizován.
-whatsnew-download-firefox-for-your = Stáhněte si { -brand-name-firefox(case: "acc") } do svého telefonu a tabletu.
+whatsnew-download-firefox-for-your = Stáhnout { -brand-name-firefox(case: "acc") } pro váš telefon či tablet.
 # An accessible label for a QR code image
 whatsnew-qr-code-alt = Naskenujte tento QR kód
 # Variables:
