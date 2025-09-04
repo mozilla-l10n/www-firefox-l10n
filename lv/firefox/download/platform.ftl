@@ -13,9 +13,3 @@ new-platform-need-help = Nepieciešama palīdzība?
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-

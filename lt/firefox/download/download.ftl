@@ -3,9 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-# Required
-
-
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = Parsisiųskite „{ -brand-name-firefox }“
@@ -26,7 +23,4 @@ firefox-new-your-firefox-new-should-begin = Jūsų parsisiuntimas netrukus turė
 firefox-new-firefox-is-more-than-a-browser = „{ -brand-name-firefox }“ – daugiau nei tik naršyklė.
 
 # Not-Required
-
-
-## URL: https://www-dev.springfield.moz.works/?xv=basic
 

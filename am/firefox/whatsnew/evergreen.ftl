@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
+### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
 whatsnew-page-description = የርስዎን መረጃዎች ለሶስተኛ ወገን አሳልፈው በሚሸጡ ድርጅቶች ላይ አቋም ይውሰዱ። ደህንነትዎን በሚጠብቁ መሳሪያዎች በመገልገል በይነመረብ ሲጠቀሙ ንቁ እና ጠንቃቃ ይሁኑ።
 whatsnew-firefox = { -brand-name-firefox }

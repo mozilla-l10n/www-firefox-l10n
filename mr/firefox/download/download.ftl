@@ -3,9 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-# Required
-
-
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox } डाउनलोड करा
@@ -26,7 +23,4 @@ firefox-new-your-firefox-new-should-begin = आपले डाउनलोड �
 firefox-new-firefox-is-more-than-a-browser = फायरफॉक्स ब्राउझरपेक्षा अधिक आहे.
 
 # Not-Required
-
-
-## URL: https://www-dev.springfield.moz.works/?xv=basic
 

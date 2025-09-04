@@ -16,9 +16,3 @@ new-platform-need-help = Көмек керек пе?
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-

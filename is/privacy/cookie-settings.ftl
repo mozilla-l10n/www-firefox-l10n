@@ -6,15 +6,6 @@
 ### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
 
 
-## Necessary cookies section
-
-
-## Preference cookies section
-
-
-## Analytics cookies section
-
-
 ## Privacy section
 
 cookie-settings-privacy-policy-link = Upplýsingar um meðferð persónuupplýsinga

@@ -3,9 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-# Required
-
-
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-free-web-browser = Еркін веб браузері
@@ -21,7 +18,4 @@ firefox-new-need-help = Көмек керек пе?
 firefox-new-your-firefox-new-should-begin = Жүктеу автоматты түрде басталуы тиіс. Жұмыс істемеді ме? <a id="{ $id }" href="{ $fallback_url }">Қайта жүктеп көріңіз</a>.
 
 # Not-Required
-
-
-## URL: https://www-dev.springfield.moz.works/?xv=basic
 

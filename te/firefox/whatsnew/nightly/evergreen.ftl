@@ -3,6 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
+### URL: https://www-dev.springfield.moz.works/whatsnew/80.0a1/
 
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }

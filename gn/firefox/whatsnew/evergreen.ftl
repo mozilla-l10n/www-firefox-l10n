@@ -3,17 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
+### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
-whatsnew-page-title-v2 = ¿Mba’e oĩ ipyahúva { -brand-name-firefox } ndive?
 whatsnew-page-description = Eñemohatã apoharaguasu rovake ohepyme’ẽ ne mba’ekuaarã mbohapyhávape. Eiko nde jehegui ha tekorosãme ñandutípe tembiporupyahu ndeykeregua ndive.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = Oñembohekopyahúma { -brand-name-firefox }.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+#   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = Emoñe’ẽ <a { $url }>jehaipy rehegua</a> ereko hag̃ua marandu pyahu kundahára { -brand-name-firefox } rehegua.
 whatsnew-signoff = <strong>Omboguata { -brand-name-mozilla }.</strong> Omotenondévo yvypóra viru rovake 1998 guive.
-# Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Embojopói { -brand-name-mozilla-foundation }
-whatsnew-donate-to-mofo-v2 = Embojopói { -brand-name-mozilla-foundation }-pe.
-whatsnew-thanks-for-choosing = Aguyje eiporúre { -brand-name-firefox }

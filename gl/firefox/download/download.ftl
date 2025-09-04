@@ -3,9 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-# Required
-
-
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = Descargar o { -brand-name-firefox }
@@ -35,7 +32,4 @@ firefox-new-if-you-see-a-prompt = Se che aparece un aviso de que a aplicación q
 firefox-new-visit-support-for-more = Para máis información, consulta a páxina de Asistencia
 
 # Not-Required
-
-
-## URL: https://www-dev.springfield.moz.works/?xv=basic
 

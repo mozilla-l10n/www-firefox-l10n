@@ -3,17 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
+### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
-whatsnew-page-title-v2 = { -brand-name-firefox }’taki yenilikler
 whatsnew-page-description = Verilerinizi üçüncü taraflara satan bir sektörün karşısında durun. Sizin adınıza savaşan bir teknoloji sayesinde internette akıllıca ve güvenle dolaşın.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = { -brand-name-firefox } güncellendi.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+#   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = { -brand-name-firefox } tarayıcınızdaki yenilikler hakkında daha fazla bilgi almak için <a { $url }>sürüm notlarını</a> okuyabilirsiniz.
 whatsnew-signoff = <strong>{ -brand-name-mozilla } desteğiyle.</strong> 1998’den beri para için değil, insanlık için çalışıyoruz.
-# Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = { -brand-name-mozilla-foundation }na bağış yapın
-whatsnew-donate-to-mofo-v2 = { -brand-name-mozilla-foundation }na bağış yapın
-whatsnew-thanks-for-choosing = { -brand-name-firefox }’u seçtiğiniz için teşekkürler

@@ -3,17 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
+### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
-whatsnew-page-title-v2 = ມີຫຍັງໃໝ່ກັບ { -brand-name-firefox }
 whatsnew-page-description = ເອົາຈຸດຢືນຂອງທ່ານຕໍ່ກັບອຸດສາຫະກໍາທີ່ຂາຍຂໍ້ມູນຂອງທ່ານໃຫ້ກັບບຸກຄົນທີສາມ. ຢູ່ໃນອິນເຕີເນັດຢ່າງສະຫຼາດ ແລະປອດໄພດ້ວຍເທັກໂນໂລຍີທີ່ຕໍ່ສູ້ກັບທ່ານ.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = { -brand-name-firefox } ຂອງທ່ານໄດ້ຖືກອັບເດດແລ້ວ.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+#   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = ອ່ານ <a { $url }>ບັນທຶກການປ່ອຍຕົວ</a> ເພື່ອຮູ້ເພີ່ມເຕີມກ່ຽວກັບສິ່ງໃໝ່ໃນໂປຣແກຣມທ່ອງເວັບ { -brand-name-firefox } ຂອງທ່ານ.
 whatsnew-signoff = <strong>ຂັບເຄື່ອນໂດຍ { -brand-name-mozilla }.</strong> ວາງຄົນກ່ອນຜົນກຳໄລຕັ້ງແຕ່ປີ 1998.
-# Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = ບໍລິຈາກໃຫ້ { -brand-name-mozilla-foundation }
-whatsnew-donate-to-mofo-v2 = ບໍລິຈາກໃຫ້ { -brand-name-mozilla-foundation }
-whatsnew-thanks-for-choosing = ຂອບໃຈທີ່ເລືອກ { -brand-name-firefox }

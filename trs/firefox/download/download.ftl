@@ -3,19 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-# Required
-
-
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = Nādunïnj { -brand-name-firefox }
 firefox-new-need-help = Huā sa rugûñu’ūnj ñûnj sò’ aj?
-
-## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
-
-
-# Not-Required
-
-
-## URL: https://www-dev.springfield.moz.works/?xv=basic
-

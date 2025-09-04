@@ -3,6 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
+### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
 whatsnew-page-description = Piggia poxiçion contro 'na industria ch'a se vende i teu dæti personâ a terse parte. Stanni adescio e a-o seguo in linia co-a tecnologia che lòtta pe ti.

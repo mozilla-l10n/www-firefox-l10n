@@ -3,6 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
+### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
 whatsnew-page-description = Դեմ դուրս եկեք այն ոլորտի, որը վաճառում է ձեր տվյալները երրորդ կողմերին: Առցանց եղե՛ք խելամիտ և ապահով՝ տեխնոլոգիայով, որը պայքարում է Ձեզ համար:

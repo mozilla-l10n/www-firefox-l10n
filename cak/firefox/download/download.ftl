@@ -3,9 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-# Required
-
-
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = Taqasaj { -brand-name-firefox }
@@ -35,7 +32,4 @@ firefox-new-if-you-see-a-prompt = We natz'ët jun rutzijol akuchi' nub'ij chi ri
 firefox-new-visit-support-for-more = Tatz'eta' Tob'äl richin Ch'aqa' Rub'anikil
 
 # Not-Required
-
-
-## URL: https://www-dev.springfield.moz.works/?xv=basic
 

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
+### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
 whatsnew-page-description = Montru vian sintenon kontraŭ industrio, kiu vendas viajn datumojn al aliaj. Restu inteligenta kaj sekura en la reto per tekonologio kiu luktas por vi.
 whatsnew-firefox = { -brand-name-firefox }

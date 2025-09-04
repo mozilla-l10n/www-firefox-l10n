@@ -3,25 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/whatsnew/80.0a2/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-firefox-developer-speak-up = Fatti sèntiri
-firefox-developer-feedback-makes-us = I to cummenti n’ajùtanu. Cùntani comu putemu fari megghiu u navicaturi e i nostri stigghi pî sbiluppatura.
-firefox-developer-join-the-convo = Jùnciti â cummirsazzioni
-firefox-developer-get-involved = Cullàbbura cu nuiautri
-firefox-developer-start-now = Accumincia sùbbitu
-firefox-developer-network = Riti
-firefox-developer-memory = Mimoria
-firefox-developer-new-tools = Novi stigghi
-firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
-firefox-developer-faster-innovation = Nfurmazzioni cchiù lesti
-firefox-developer-fonts-panel = Panneḍḍu dî caràttari
-firefox-developer-welcome-to-firefox-developer-edition = Bummegna nne { -brand-name-firefox-developer-edition }
-firefox-developer-made-for-developers = U navicaturi fattu pî sbiluppatura
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Risursi pî sbiluppatura, dî sbiluppatura

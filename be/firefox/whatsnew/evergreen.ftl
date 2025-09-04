@@ -3,9 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
+### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
-whatsnew-page-title-v2 = Што новага ў { -brand-name-firefox }
 whatsnew-page-description = Выступіце супраць прамысловасці, якая прадае вашы дадзеныя трэцім асобам. Будзьце разумныя і бяспечныя ў інтэрнэце з дапамогай тэхналогій, якія змагаюцца за вас.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-signoff = <strong>Створана { -brand-name-mozilla }.</strong> Ставім людзей вышэй за прыбытак з 1998 года.

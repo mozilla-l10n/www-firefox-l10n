@@ -3,9 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-# Required
-
-
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox } ဒေါင်းလုပ်ရယူပါ
@@ -26,7 +23,4 @@ firefox-new-your-firefox-new-should-begin = သင့်ဆွဲချမှု
 firefox-new-firefox-is-more-than-a-browser = ဘရောက်ဇာထက် { -brand-name-firefox }က သာလွန်ပါသည်
 
 # Not-Required
-
-
-## URL: https://www-dev.springfield.moz.works/?xv=basic
 

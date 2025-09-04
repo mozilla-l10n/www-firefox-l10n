@@ -3,9 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-# Required
-
-
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 firefox-new-download-firefox = Aawto { -brand-name-firefox }
@@ -22,7 +19,4 @@ firefox-new-need-help = Aɗa sokli ballal?
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } diwtii wanngorde
 
 # Not-Required
-
-
-## URL: https://www-dev.springfield.moz.works/?xv=basic
 

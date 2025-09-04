@@ -3,17 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
+### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
-whatsnew-page-title-v2 = Qual novas re { -brand-name-firefox }
 whatsnew-page-description = Prende position contra un industria que vende tu datos a tertios. Sia astute e secur in linea con technologia que lucta pro te.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = Tu { -brand-name-firefox } ha essite actualisate.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+#   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = Lege le <a { $url }>notas de version</a> pro saper plus re le novas de tu navigator{ -brand-name-firefox }.
 whatsnew-signoff = <strong>Realisate per { -brand-name-mozilla }.</strong> Ponente le personas ante le profitos desde 1998.
-# Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Donar al { -brand-name-mozilla-foundation }
-whatsnew-donate-to-mofo-v2 = Donar a { -brand-name-mozilla-foundation }
-whatsnew-thanks-for-choosing = Gratias pro haber eligite { -brand-name-firefox }

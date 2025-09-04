@@ -3,16 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
+### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
-whatsnew-page-title-v2 = Ç’ka të re në { -brand-name-firefox }
 whatsnew-page-description = Ngrini zërin kundër një industrie që po ua shet të dhënat tuaja palëve të treta. Jini i mençur dhe i parrezik në internet, me teknologji që ndeshen për ju.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = { -brand-name-firefox }-i juaj është përditësuar.
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+#   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = Që të mësoni më tepër rreth se ç’ka të re te shfletuesi juaj { -brand-name-firefox }, lexoni <a { $url }>Shënime Hedhjeje Në Qarkullim</a>.
 whatsnew-signoff = <strong>Sjellë nga { -brand-name-mozilla }.</strong> Njerëzit para fitimeve, që prej 1998-s.
-# Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Dhuroni për { -brand-name-mozilla-foundation }
-whatsnew-thanks-for-choosing = Faleminderit që zgjidhni { -brand-name-firefox }-in
