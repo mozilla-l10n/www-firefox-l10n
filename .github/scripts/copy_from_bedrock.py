@@ -55,7 +55,7 @@ def main():
             str(folder)
             for folder in firefox_path.iterdir()
             if folder.is_dir()
-            and folder.name not in ("en", "en-US", "it")
+            and folder.name not in ("en", "en-US")
             and not folder.name.startswith(".")
         ]
     locales.sort()
@@ -63,22 +63,16 @@ def main():
     # Some files were moved compared to Bedrock
     # springfield_path -> bedrock_path
     file_mapping = {
-        "firefox/browsers/desktop/chromebook.ftl": "firefox/browsers/chromebook.ftl",
-        "firefox/browsers/mobile/get-app.ftl": "firefox/mobile.ftl",
-        "firefox/download/desktop.ftl": "firefox/new/desktop.ftl",
-        "firefox/download/download.ftl": "firefox/new/download.ftl",
-        "firefox/download/platform.ftl": "firefox/new/platform.ftl",
-        "firefox/more/best-browser.ftl": "firefox/browsers/best-browser.ftl",
-        "firefox/more/browser-history.ftl": "firefox/browsers/history/browser-history.ftl",
-        "firefox/more/faq.ftl": "firefox/faq.ftl",
-        "firefox/more/more.ftl": "firefox/more.ftl",
-        "firefox/more/what-is-a-browser.ftl": "firefox/browsers/history/what-is-a-browser.ftl",
-        "firefox/more/windows-64-bit.ftl": "firefox/browsers/windows-64-bit.ftl",
-        "newsletter/newsletters.ftl": "mozorg/newsletters.ftl",
+        "firefox/whatsnew/developer/evergreen.ftl": "firefox/developer.ftl",
+        "firefox/whatsnew/evergreen.ftl": "firefox/whatsnew/whatsnew.ftl",
+        "firefox/whatsnew/nightly/evergreen.ftl": "firefox/nightly/whatsnew.ftl",
     }
     www_path = Path(args.www_path)
 
     for file in en_files:
+        # Only copy files explicitly listed in the mapping
+        if file not in file_mapping:
+            continue
         # Copy the file to each locale folder in www-l10n
         for locale in locales:
             src = www_path / locale / file_mapping.get(file, file)
