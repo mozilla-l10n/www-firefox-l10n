@@ -16,10 +16,10 @@ nightly-whatsnew-this-is-a-good = Hem { -brand-name-firefox } tarayıcısını g
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
-nightly-whatsnew-if-you-want-to-v4 = { -brand-name-nightly } tarayıcısında ve topluluğunda neler olup bittiğini merak ediyorsanız <a { $blog }>blogumuzu</a> okuyabilir ve bizi <a { $mastodon }>Mastodon</a> veya <a { $bluesky }>Bluesky</a>’da takip edebilirsiniz.
+nightly-whatsnew-if-you-want-to = { -brand-name-nightly } tarayıcısında ve topluluğunda neler olup bittiğini merak ediyorsanız <a { $blog }>blogumuzu</a> okuyabilir ve bizi <a { $mastodon }>Mastodon</a> veya <a { $bluesky }>Bluesky</a>’da takip edebilirsiniz.
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = { -brand-name-nightly } tarayıcısında test edebileceğiniz, henüz diğer { -brand-name-firefox } kanallarında olmayan özellikleri mi merak ediyorsunuz? Öyleyse <a { $attrs }>{ -brand-name-firefox-labs }</a> tercihleri sayfasına bakabilirsiniz.
+nightly-whatsnew-want-to-know-which = { -brand-name-nightly } tarayıcısında test edebileceğiniz, henüz diğer { -brand-name-firefox } kanallarında olmayan özellikleri mi merak ediyorsunuz? Öyleyse <a { $attrs }>{ -brand-name-firefox-labs }</a> tercihleri sayfasına bakabilirsiniz.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Tarayıcınız çöküyor mu? Beklenmedik bir şeyler mi oluyor? Web sayfalarında uyumluluk sorunları mı var? Bunları <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> aracılığıyla bize bildirirseniz final sürüme ulaşmadan çözmeye çalışabiliriz. (Bug raporlarınıza <em>{ -brand-name-nightly }-community</em> anahtar kelimesini eklerseniz çok seviniriz.)

@@ -14,7 +14,7 @@ nightly-whatsnew-every-4-to-5-weeks = Сваких 4-5 недеља излази
 nightly-whatsnew-this-is-a-good = Ово је прави тренутак да вам се захвалимо на помоћи у побољшању { -brand-name-firefox }-а и понудимо вам неке смернице за документацију, канала за комуникацију и билтена о { -brand-name-nightly }-у које би могле да вас интересују.
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = Желите да знате које функције можете да тестирате на { -brand-name-nightly }-ју, а које још не видите у другим { -brand-name-firefox } каналима? Погледајте <a { $attrs }>{ -brand-name-firefox-labs }</a> страницу за подешавања.
+nightly-whatsnew-want-to-know-which = Желите да знате које функције можете да тестирате на { -brand-name-nightly }-ју, а које још не видите у другим { -brand-name-firefox } каналима? Погледајте <a { $attrs }>{ -brand-name-firefox-labs }</a> страницу за подешавања.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Доживљавате падове софтвера? Или неочекивано понашање? Регресије веб компатибилности? Пријавите све на <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> да будете сигурни да овакве грешке не уђу у коначно издање (још боље ако притом додате кључну реч <em>{ -brand-name-nightly }-community</em> у извештај о грешци)!

@@ -69,7 +69,7 @@ firefox-developer-made-for-developers = Shfletuesi i ndërtuar për zhvilluesit
 firefox-developer-all-the-latest-v2 = Krejt mjetet më të reja të zhvillimit në beta, plus veçori si Multi-line Console Editor dhe WebSocket Inspector.
 firefox-developer-a-separate-profile = Një <strong>profil dhe shteg më vete</strong>, që të mund ta xhironi kollaj me version të hedhur në qarkullim ose { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Parapëlqime <strong>të qepura për zhvillues web</strong>: Diagnostikim shfletuesi dhe së largëti janë të aktivizuara si parazgjedhje, siç është edhe tema e errët dhe butoni i panelit të zhvilluesit.
-firefox-developer-congrats-you-now-have-latest-v2 = Tani keni versionin më të ri të { -brand-name-firefox-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Tani keni versionin më të ri të { -brand-name-firefox-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Për të parë çka të re, shihni <a { $attrs }>shënime hedhjeje në qarkullim</a> (vetëm në anglisht).

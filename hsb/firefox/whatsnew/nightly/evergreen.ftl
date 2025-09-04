@@ -16,10 +16,10 @@ nightly-whatsnew-this-is-a-good = Při tutej składnosći dźakujemy so za wašu
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
-nightly-whatsnew-if-you-want-to-v4 = Jeli chceće wědźeć, štož so dokoławokoło { -brand-name-nightly } a jeho zhromadźenstwa stawa, čitajće najprjedy naš <a { $blog }>blog</a> a slědujće nam na <a { $mastodon }>Mastodon</a> abo <a { $bluesky }>Bluesky</a>!
+nightly-whatsnew-if-you-want-to = Jeli chceće wědźeć, štož so dokoławokoło { -brand-name-nightly } a jeho zhromadźenstwa stawa, čitajće najprjedy naš <a { $blog }>blog</a> a slědujće nam na <a { $mastodon }>Mastodon</a> abo <a { $bluesky }>Bluesky</a>!
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = Chceće wědźeć, kotre platformowe funkcije wy móhł z { -brand-name-nightly } testować, kotrež hišće w druhich kanalach { -brand-name-firefox } njejsu? Wobhladajće sej potom stronu nastajenjow <a { $attrs }>{ -brand-name-firefox-labs }</a>.
+nightly-whatsnew-want-to-know-which = Chceće wědźeć, kotre platformowe funkcije wy móhł z { -brand-name-nightly } testować, kotrež hišće w druhich kanalach { -brand-name-firefox } njejsu? Wobhladajće sej potom stronu nastajenjow <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Stawaja so spady pola was? Njewočakowane zadźerženje? Nowe problemy z webkompatibilnosću? Bychmy je rady w <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> dokumentowali, zo bychmy zawěsćili, zo w kónčnej wersiji njewustupuja (by tež derje było, hdyž klučowe słowo <em>{ -brand-name-nightly }-community</em> přidawaće)!

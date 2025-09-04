@@ -20,11 +20,11 @@ nightly-whatsnew-this-is-a-good = Inilah masa yang sesuai untuk mengucapkan teri
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
-nightly-whatsnew-if-you-want-to-v4 = Jika anda ingin mengetahui berita terkini daripada { -brand-name-nightly } dan komunitinya, bacalah <a { $blog }>blog</a> kami selain mengikuti kami di <a { $mastodon }>Mastodon</a> atau <a { $bluesky }>Bluesky</a>!
+nightly-whatsnew-if-you-want-to = Jika anda ingin mengetahui berita terkini daripada { -brand-name-nightly } dan komunitinya, bacalah <a { $blog }>blog</a> kami selain mengikuti kami di <a { $mastodon }>Mastodon</a> atau <a { $bluesky }>Bluesky</a>!
 
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = Ingin mengetahui ciri platform mana yang boleh anda uji di { -brand-name-nightly } dan belum dapat dilihat di saluran { -brand-name-firefox } lain? Mari lihat laman pilihan <a { $attrs }>{ -brand-name-firefox-labs }</a>.
+nightly-whatsnew-want-to-know-which = Ingin mengetahui ciri platform mana yang boleh anda uji di { -brand-name-nightly } dan belum dapat dilihat di saluran { -brand-name-firefox } lain? Mari lihat laman pilihan <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/

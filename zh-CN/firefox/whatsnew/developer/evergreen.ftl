@@ -69,7 +69,7 @@ firefox-developer-made-for-developers = 专为开发者构建的浏览器
 firefox-developer-all-the-latest-v2 = 包含 Beta 版中所有最新的开发者工具，并加入了多行控制台编辑器和 WebSocket 检查器等功能。
 firefox-developer-a-separate-profile = <strong>单独的配置文件和路径</strong>，因此可以轻松与 { -brand-name-firefox } 稳定版或 { -brand-name-beta } 版共存。
 firefox-developer-preferences-tailored = <strong>为 Web 开发者量身定制的首选项</strong>：默认启用浏览器的远程调试、深色主题和开发者工具栏按钮。
-firefox-developer-congrats-you-now-have-latest-v2 = 已安装最新版 { -brand-name-firefox-developer-edition }
+firefox-developer-congrats-you-now-have-latest = 已安装最新版 { -brand-name-firefox-developer-edition }
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = 查看<a { $attrs }>发行说明</a>（仅提供英文版），了解新版变化。

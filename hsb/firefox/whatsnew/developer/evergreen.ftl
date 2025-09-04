@@ -69,7 +69,7 @@ firefox-developer-made-for-developers = Wobhladowak za wuwiwarjow
 firefox-developer-all-the-latest-v2 = Wšě najnowše wuwiwarske nastroje w betawersiji přidatnje k funkcijam kaž wjacelinkowy konsolowy editor a WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>Separatny profil a separatna šćežka</strong>, tak móžeće jón z kónčnej wersiju abo { -brand-name-beta } { -brand-name-firefox } wuwjesć.
 firefox-developer-preferences-tailored = Nastajenja, kotrež su <strong>na webwuwiwarjow wusměrjene</strong>: Pytanje zmylkow wobhladowaka a znazdala stej po standardźe zmóžnjenej, runje tak kaž ćmowa drasta a tłóčatko za wuwiwarsku symbolowu lajstu.
-firefox-developer-congrats-you-now-have-latest-v2 = Maće nětko najnowša wersija { -brand-name-firefox-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Maće nětko najnowša wersija { -brand-name-firefox-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Čitajće <a { $attrs }>wersije informacije</a> (jenož jendźelsce), zo byšće nowe funkcije a změny widźał.

@@ -69,7 +69,7 @@ firefox-developer-made-for-developers = ბრაუზერი შექმნ
 firefox-developer-all-the-latest-v2 = ყველა უახლესი ხელსაწყო შემმუშავებლებისთვის Beta-ვერსიაში , ამასთანავე, ჯერ კიდევ საცდელი შესაძლებლობები, მათ შორის მრავალხაზიანი ბრძანებების შეტანის შემსწორებელი და WebSocket-საკვლევი.
 firefox-developer-a-separate-profile = <strong>განცალკევებული პროფილი და მდებარეობა</strong>, შედეგად მარტივად შეძლებთ გვერდიგვერდ გაუშვათ საბოლოო ვერსია და { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = პარამეტრები <strong>ზედგამოჭრილი ვებშემმუშავებლებისთვის</strong>: ბრაუზერიდან და დაშორებულად გამართვის შესაძლებლობა ამოქმედებულია ნაგულისხმევად, ასევე მოჰყვება მუქი იერსახე და შემმუშავებლის ღილაკი ხელსაწყოთა ზოლზე.
-firefox-developer-congrats-you-now-have-latest-v2 = თქვენ უკვე გიყენიათ უახლესი { -brand-name-firefox-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = თქვენ უკვე გიყენიათ უახლესი { -brand-name-firefox-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = იხილეთ <a { $attrs }>გამოშვების შენიშვნები</a> (მხოლოდ ინგლისურად), რომ გაეცნოთ, რა სიახლეებითაა.

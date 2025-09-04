@@ -69,7 +69,7 @@ firefox-developer-made-for-developers = Geliştiriciler için inşa edilmiş tar
 firefox-developer-all-the-latest-v2 = Betadaki tüm geliştirici araçlarının yanı sıra çok satırlı konsol editörü ve WebSocket denetçisi gibi ek özellikler.
 firefox-developer-a-separate-profile = Final sürümü veya { -brand-name-beta } { -brand-name-firefox } ile aynı anda kullanabilmeniz için <strong>ayrı bir profil</strong>.
 firefox-developer-preferences-tailored = <strong>Web geliştiricilerine yönelik</strong> tercihler: Tarayıcıdan ve uzaktan hata ayıklama, koyu tema ve geliştirici araç çubuğu düğmesi gibi özellikler varsayılan olarak açık.
-firefox-developer-congrats-you-now-have-latest-v2 = { -brand-name-firefox-developer-edition }’ın son sürümünü kullanıyorsunuz.
+firefox-developer-congrats-you-now-have-latest = { -brand-name-firefox-developer-edition }’ın son sürümünü kullanıyorsunuz.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Yenilikleri görmek için <a { $attrs }>sürüm notlarına</a> (yalnızca İngilizce) bakabilirsiniz.

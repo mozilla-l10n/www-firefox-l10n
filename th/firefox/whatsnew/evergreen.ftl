@@ -11,7 +11,7 @@ whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = อัปเดต { -brand-name-firefox } ของคุณเรียบร้อยแล้ว
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes-v2 = อ่าน<a { $url }>บันทึกประจำรุ่น</a>เพื่อเรียนรู้เพิ่มเติมว่ามีอะไรใหม่ในเบราว์เซอร์ { -brand-name-firefox } ของคุณ
+whatsnew-release-notes = อ่าน<a { $url }>บันทึกประจำรุ่น</a>เพื่อเรียนรู้เพิ่มเติมว่ามีอะไรใหม่ในเบราว์เซอร์ { -brand-name-firefox } ของคุณ
 whatsnew-signoff = <strong>ขับเคลื่อนโดย { -brand-name-mozilla }</strong> ซึ่งมุ่งมั่นให้ความสำคัญกับผู้คนเหนือกว่าผลกำไรตั้งแต่ปี 1998
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = บริจาคให้กับ { -brand-name-mozilla-foundation }

@@ -11,7 +11,7 @@ whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = 已更新您的 { -brand-name-firefox }。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes-v2 = 請閱讀<a { $url }>發行公告</a>來了解您的 { -brand-name-firefox } 瀏覽器還有哪些新亮點。
+whatsnew-release-notes = 請閱讀<a { $url }>發行公告</a>來了解您的 { -brand-name-firefox } 瀏覽器還有哪些新亮點。
 whatsnew-signoff = <strong>由 { -brand-name-mozilla } 提供。</strong>自 1998 年起，就將人們看得比利益更重要。
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = 捐款給 { -brand-name-mozilla-foundation }

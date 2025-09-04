@@ -69,7 +69,7 @@ firefox-developer-made-for-developers = Το πρόγραμμα περιήγησ
 firefox-developer-all-the-latest-v2 = Όλα τα νέα εργαλεία προγραμματισμού σε beta, καθώς και λειτουργίες, όπως το πρόγραμμα επεξεργασίας κονσόλας πολλαπλών γραμμών και η επιθεώρηση WebSocket.
 firefox-developer-a-separate-profile = Ένα <strong>ξεχωριστό προφίλ και διαδρομή</strong> για εύκολη εκτέλεση μαζί με την κανονική ή την { -brand-name-beta } έκδοση του { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Προτιμήσεις <strong>προσαρμοσμένες για web developers</strong>: Ο έλεγχος σφαλμάτων προγράμματος περιήγησης και ο απομακρυσμένος έλεγχος σφαλμάτων είναι ενεργοί από προεπιλογή, όπως και το σκούρο θέμα και το κουμπί γραμμής προγραμματισμού.
-firefox-developer-congrats-you-now-have-latest-v2 = Διαθέτετε πλέον την πιο πρόσφατη έκδοση του { -brand-name-firefox-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Διαθέτετε πλέον την πιο πρόσφατη έκδοση του { -brand-name-firefox-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Δείτε τις <a { $attrs }>σημειώσεις έκδοσης</a> (μόνο στα αγγλικά) για να δείτε τι νέο υπάρχει.

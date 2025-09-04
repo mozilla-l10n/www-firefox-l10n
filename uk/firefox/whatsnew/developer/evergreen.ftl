@@ -69,7 +69,7 @@ firefox-developer-made-for-developers = Браузер, який створен�
 firefox-developer-all-the-latest-v2 = Усі найновіші інструменти розробника в бета-версії, додатково до таких функцій, як Multi-line Console Editor та WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>Окремий профіль та шлях</strong>, щоб ви могли легко запустити його разом з основним випуском або { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Налаштування <strong>з урахуванням потреб веброзробників</strong>: браузерне та віддалене налагодження типово ввімкнено, а також темну тему та кнопку панелі інструментів розробника.
-firefox-developer-congrats-you-now-have-latest-v2 = Тепер у вас найновіша версія { -brand-name-firefox-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Тепер у вас найновіша версія { -brand-name-firefox-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Перегляньте <a { $attrs }>примітки до випуску</a> (лише англійською), щоб ознайомитися з оновленнями.

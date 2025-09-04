@@ -69,7 +69,7 @@ firefox-developer-made-for-developers = Preglednik izrađen za programere
 firefox-developer-all-the-latest-v2 = Svi najnoviji alati za programere u beta verziji uz funkcije kao što su uređivač višeredne konzole i WebSocket inspektor.
 firefox-developer-a-separate-profile = <strong>Zasebni profil i staza</strong> tako da ga možeš jednostavno pokretati uz standardnu ili { -brand-name-beta } { -brand-name-firefox } verziju.
 firefox-developer-preferences-tailored = <strong>Prilagođene postavke za web programere</strong>: Preglednik i daljinsko otklanjanje grešaka su standardno aktivirani, kao i tamna tema i gumb alatne trake za razvojne programere.
-firefox-developer-congrats-you-now-have-latest-v2 = Sada imaš najnoviju verziju za { -brand-name-firefox-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Sada imaš najnoviju verziju za { -brand-name-firefox-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Pogledaj <a { $attrs }>napomene o izdanju</a> (samo na engleskom) da vidiš što je novo.

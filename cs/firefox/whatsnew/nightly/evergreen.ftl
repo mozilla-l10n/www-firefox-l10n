@@ -16,10 +16,10 @@ nightly-whatsnew-this-is-a-good = Nyní je správný čas poděkovat vám za pom
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
-nightly-whatsnew-if-you-want-to-v4 = Pokud chcete vědět, co se děje kolem { -brand-name-nightly } a jeho komunity, přečtěte si <a { $blog }>náš blog</a>. Můžete nás sledovat na <a { $mastodon }>Mastodonu</a> nebo <a { $bluesky }>Bluesky</a>.
+nightly-whatsnew-if-you-want-to = Pokud chcete vědět, co se děje kolem { -brand-name-nightly } a jeho komunity, přečtěte si <a { $blog }>náš blog</a>. Můžete nás sledovat na <a { $mastodon }>Mastodonu</a> nebo <a { $bluesky }>Bluesky</a>.
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = Chcete vědět, které funkce můžete s { -brand-name-nightly(case: "ins") } otestovat a které zatím nejsou v jiných kanálech s { -brand-name-firefox(case: "gen") }? Pak se podívejte na stránku nastavení <a { $attrs }>{ -brand-name-firefox-labs }</a>.
+nightly-whatsnew-want-to-know-which = Chcete vědět, které funkce můžete s { -brand-name-nightly(case: "ins") } otestovat a které zatím nejsou v jiných kanálech s { -brand-name-firefox(case: "gen") }? Pak se podívejte na stránku nastavení <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Pozorujete pády? Neočekávané chování? Regrese v kompatibilitě webů? Nahlaste nám je do <a href="{ $bugzilla }">{ -brand-name-bugzilla(case: "gen") }</a> a zajistěte, že se nedostanou i do finálního vydání (jako bonus můžete při hlášení přidat klíčové slovo <em>{ -brand-name-nightly }-community</em> do pole keywords)!

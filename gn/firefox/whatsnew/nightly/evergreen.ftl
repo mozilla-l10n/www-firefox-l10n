@@ -16,10 +16,10 @@ nightly-whatsnew-this-is-a-good = Roaguyjeveme’ẽ ore pytyvõ haguére { -bra
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
-nightly-whatsnew-if-you-want-to-v4 = Eikuaasevérõ mba’etépa oiko { -brand-name-nightly } jerére ha hekoha rupi, ikatukuaa eñepyrũ emoñe’ẽ ore <a { $blog }>blog</a> ha ore rapykueho <a { $mastodon }>Mastodon</a> térã <a { $bluesky }>Bluesky</a> iporã eñepyrũ hag̃ua.
+nightly-whatsnew-if-you-want-to = Eikuaasevérõ mba’etépa oiko { -brand-name-nightly } jerére ha hekoha rupi, ikatukuaa eñepyrũ emoñe’ẽ ore <a { $blog }>blog</a> ha ore rapykueho <a { $mastodon }>Mastodon</a> térã <a { $bluesky }>Bluesky</a> iporã eñepyrũ hag̃ua.
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = Eikuaasépa mba’eichagua pyendavusu eiporukuaa { -brand-name-nightly } ndive ha ndaikatúiva ojehecha ambue canal { -brand-name-firefox } rupive. Ehechami kuatiarogue ehayhuvéva <a { $attrs }>{ -brand-name-firefox-labs }</a>.
+nightly-whatsnew-want-to-know-which = Eikuaasépa mba’eichagua pyendavusu eiporukuaa { -brand-name-nightly } ndive ha ndaikatúiva ojehecha ambue canal { -brand-name-firefox } rupive. Ehechami kuatiarogue ehayhuvéva <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = ¿Ehechápa jejavy? ¿Heko noñeha’ãrõi? ¿Ojevy jokupyty ojehechávo ñandutípe? Rovy’áta ejuajúrõ <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> ndive ko’ã apañuái ani hag̃ua og̃uahẽ apopyre ipyahuvévape (¡japopyre ojo’áva embojuajúvo ñe’ẽ kañymby<em>{ -brand-name-nightly }-community</em> ne jehaikue jejavygua!).

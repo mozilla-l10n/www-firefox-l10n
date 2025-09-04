@@ -11,7 +11,7 @@ whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = { -brand-name-firefox } har uppdaterats.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes-v2 = Läs <a { $url }>versionsfakta</a> för att veta mer om vad som är nytt i webbläsaren { -brand-name-firefox }.
+whatsnew-release-notes = Läs <a { $url }>versionsfakta</a> för att veta mer om vad som är nytt i webbläsaren { -brand-name-firefox }.
 whatsnew-signoff = <strong>Drivs av { -brand-name-mozilla }.</strong> Sätter människor före vinster sedan 1998.
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Donera till { -brand-name-mozilla-foundation }

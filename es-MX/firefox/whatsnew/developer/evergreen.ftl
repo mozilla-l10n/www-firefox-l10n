@@ -69,7 +69,7 @@ firefox-developer-made-for-developers = El navegador hecho para desarrolladores
 firefox-developer-all-the-latest-v2 = Todas las herramientas para desarrolladores más recientes en versión beta, además de funciones como el Editor de consola multilínea y WebSocket Inspector.
 firefox-developer-a-separate-profile = Un <strong>perfil y ruta separados</strong> para que puedas ejecutarlo fácilmente en paralelo a la versión oficial o { -brand-name-beta } de { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Preferencias <strong>personalizadas para desarrolladores web</strong>: el navegador y la depuración remota están activados de forma predeterminada, al igual que el tema oscuro y el botón de la barra de herramientas para desarrolladores.
-firefox-developer-congrats-you-now-have-latest-v2 = Ahora tienes la última versión de { -brand-name-firefox-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Ahora tienes la última versión de { -brand-name-firefox-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Vea las <a { $attrs }>notas de la versión</a> (solo en inglés) para ver las novedades.

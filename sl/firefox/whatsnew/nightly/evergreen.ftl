@@ -16,10 +16,10 @@ nightly-whatsnew-this-is-a-good = Ob tej priložnosti bi se vam radi zahvalili z
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
-nightly-whatsnew-if-you-want-to-v4 = Če želite ostati na tekočem z dogajanjem v svetu { -brand-name-nightly }ja in njegove skupnosti, si za začetek lahko preberete naš <a { $blog }>blog</a> in nam sledite na <a { $mastodon }>Mastodonu</a> ali <a { $bluesky }>Blueskyju</a> .
+nightly-whatsnew-if-you-want-to = Če želite ostati na tekočem z dogajanjem v svetu { -brand-name-nightly }ja in njegove skupnosti, si za začetek lahko preberete naš <a { $blog }>blog</a> in nam sledite na <a { $mastodon }>Mastodonu</a> ali <a { $bluesky }>Blueskyju</a> .
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = Želite izvedeti, katere možnosti, ki še niso na voljo v drugih izdajah { -brand-name-firefox(sklon: "rodilnik") }, lahko preskusite v { -brand-name-nightly(sklon: "mestnik") }? Oglejte si stran <a { $attrs }>{ -brand-name-firefox-labs }</a>.
+nightly-whatsnew-want-to-know-which = Želite izvedeti, katere možnosti, ki še niso na voljo v drugih izdajah { -brand-name-firefox(sklon: "rodilnik") }, lahko preskusite v { -brand-name-nightly(sklon: "mestnik") }? Oglejte si stran <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Doživljate sesutja? Nepričakovane muhe v obnašanju? Težave z združljivostjo spletnih strani? Prijavite jih v <a href="{ $bugzilla }">{ -brand-name-bugzilla(sklon: "mestnik") }</a> in zagotovite, da se ne prebijejo do končne izdaje (še bolje, če svoja poročila o hroščih opremite s ključno besedo <em>{ -brand-name-nightly }-community</em>)!

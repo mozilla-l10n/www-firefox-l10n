@@ -68,7 +68,7 @@ firefox-developer-welcome-to-firefox-developer-edition = Tervetuloa { -brand-nam
 firefox-developer-made-for-developers = Kehittäjille tehty selain
 firefox-developer-a-separate-profile = <strong>Erillinen profiili ja polku</strong>, jotta voit käyttää sitä { -brand-name-firefox }in julkaisu- tai { -brand-name-beta }-version rinnalla.
 firefox-developer-preferences-tailored = Asetukset <strong>räätälöitynä verkkokehittäjille</strong>: Selain ja etävirheenkorjaus ovat oletuksena käytössä, samoin kuin tumma teema ja kehittäjän työkalupalkin painike.
-firefox-developer-congrats-you-now-have-latest-v2 = Sinulla on nyt { -brand-name-firefox-developer-edition }in uusin versio.
+firefox-developer-congrats-you-now-have-latest = Sinulla on nyt { -brand-name-firefox-developer-edition }in uusin versio.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Katso <a { $attrs }>julkaisutiedot</a> (vain englanniksi) nähdäksesi uutuudet.

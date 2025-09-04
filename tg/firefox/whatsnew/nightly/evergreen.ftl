@@ -16,10 +16,10 @@ nightly-whatsnew-this-is-a-good = Мо мехоҳем аз фурсат исти
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
-nightly-whatsnew-if-you-want-to-v4 = Агар шумо мехоҳед, ки аз ҳамаи навгониҳо дар атрофи «{ -brand-name-nightly }» ва ҷомеаи он бохабар бошед, шумо метавонед аз хондани <a { $blog }>блоги мо</a> ва пайравӣ кардани фаъолияти мо дар <a { $mastodon }>«Mastodon»</a> ё <a { $bluesky }>«Bluesky»</a> оғоз намоед.
+nightly-whatsnew-if-you-want-to = Агар шумо мехоҳед, ки аз ҳамаи навгониҳо дар атрофи «{ -brand-name-nightly }» ва ҷомеаи он бохабар бошед, шумо метавонед аз хондани <a { $blog }>блоги мо</a> ва пайравӣ кардани фаъолияти мо дар <a { $mastodon }>«Mastodon»</a> ё <a { $bluesky }>«Bluesky»</a> оғоз намоед.
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = Шумо мехоҳед фаҳмед, ки кадом хусусиятҳои платформа фақат барои озмоиш дар «{ -brand-name-nightly }» дастрасанд ва то ҳол дар шабакаҳои дигари «{ -brand-name-firefox }» дастрас нестанд? Пас ба саҳифаи хусусиятҳои <a { $attrs }>«{ -brand-name-firefox-labs }»</a> ворид шавед ва навгониҳоро омӯзед.
+nightly-whatsnew-want-to-know-which = Шумо мехоҳед фаҳмед, ки кадом хусусиятҳои платформа фақат барои озмоиш дар «{ -brand-name-nightly }» дастрасанд ва то ҳол дар шабакаҳои дигари «{ -brand-name-firefox }» дастрас нестанд? Пас ба саҳифаи хусусиятҳои <a { $attrs }>«{ -brand-name-firefox-labs }»</a> ворид шавед ва навгониҳоро омӯзед.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Бо садамаҳои барномавӣ рӯ ба рӯ мешавед? Рафтори ғайричашмдоштро мушоҳида мекунед? Ё мушкилоти мутобиқати саҳифаҳои сомона? Мо хеле миннатдор мешавем, агар шумо дар бораи ҳамаи ин мушкилиҳо тавассути <a href="{ $bugzilla }">«{ -brand-name-bugzilla }»</a> гузориш диҳед, то мо пешгирӣ кунем, ки онҳо ба версияи ниҳоӣ роҳ наёбанд (агар ба гузориши худ калимаи калидии «<em>{ -brand-name-nightly }-community</em>»-ро низ илова кунед, савоби иловагӣ ба даст меоред!).

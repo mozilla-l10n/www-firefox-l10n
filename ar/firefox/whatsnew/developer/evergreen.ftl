@@ -70,7 +70,7 @@ firefox-developer-made-for-developers = صُمم المتصفّح للمطوّر
 firefox-developer-all-the-latest-v2 = جميع أدوات المُطورين الأحدث بإصدار تجريبي، بالإضافة إلى ميزات تجريبية، مثلMulti-line Console Editor و WebSocket Inspector.
 firefox-developer-a-separate-profile = مسار <strong>وملف تعريف مُنفصلين</strong> حتى يتسنى لك بسهولة تشغيله بجانب الإصدار أو { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = تفضيلات <strong>صُممت لمُطوري الويب</strong>: يتم تمكين المُتصفح وتصحيح الأخطاء عن بُعد افتراضيًا، وكذلك السِمة الداكنة وزر شريط أدوات المُطور.
-firefox-developer-congrats-you-now-have-latest-v2 = لديك الآن أحدث إصدار من { -brand-name-firefox-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = لديك الآن أحدث إصدار من { -brand-name-firefox-developer-edition }.
 
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes

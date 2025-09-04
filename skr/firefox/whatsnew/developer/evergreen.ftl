@@ -69,7 +69,7 @@ firefox-developer-made-for-developers = ڈویلپرز کیتے بݨایا ڳی�
 firefox-developer-all-the-latest-v2 = ملٹی لائن کنسول ایڈیٹر اَتے ویب ساکٹ انسپکٹر جیہیں خاصیتاں کنوں اَن٘ج بِیٹا وِچ سبّھے جدید ڈویپلر ٹولز۔
 firefox-developer-a-separate-profile = ہک <strong>علیحدہ پروفائل تے رستہ</strong> تاں جو تساں اینکوں ریلیز یا { -brand-name-beta } { -brand-name-firefox } دے نال آسانی نال چلا سڳو۔
 firefox-developer-preferences-tailored = ترجیحاں <strong>ویب ڈویلپرز کیتے تیار کردہ</strong>: براؤزر تے ریموٹ ڈیبگنگ بطور ڈیفالٹ فعال ہن، جیویں جو ڈارک تھیم تے ڈویلپر ٹول بار بٹن ہن۔
-firefox-developer-congrats-you-now-have-latest-v2 = ہُݨ تُہاݙے کول { -brand-name-firefox-developer-edition } دا نواں نرویا ورژن ہِے۔
+firefox-developer-congrats-you-now-have-latest = ہُݨ تُہاݙے کول { -brand-name-firefox-developer-edition } دا نواں نرویا ورژن ہِے۔
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = نواں کیا ہِے ݙیکھݨ کِیتے <a { $attrs }>ریلیز نوٹس</a> ݙیکھو (صرف انگریزی وِچ)۔

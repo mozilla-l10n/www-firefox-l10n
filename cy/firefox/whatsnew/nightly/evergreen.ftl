@@ -16,10 +16,10 @@ nightly-whatsnew-this-is-a-good = Mae hwn yn gyfle da i ddiolch i chi am ein cyn
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
-nightly-whatsnew-if-you-want-to-v4 = Os ydych chi eisiau gwybod beth sy'n digwydd gyda { -brand-name-nightly } a'i gymuned, darllenwch ein <a { $blog }>blog</a> ac mae ein dilyn ni ar <a { $mastodon }>Mastodon</a> neu <a { $bluesky }>Bluesky</a> yn fannau cychwyn da!
+nightly-whatsnew-if-you-want-to = Os ydych chi eisiau gwybod beth sy'n digwydd gyda { -brand-name-nightly } a'i gymuned, darllenwch ein <a { $blog }>blog</a> ac mae ein dilyn ni ar <a { $mastodon }>Mastodon</a> neu <a { $bluesky }>Bluesky</a> yn fannau cychwyn da!
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = Eisiau gwybod pa nodweddion platfform y gallech chi eu profi ar { -brand-name-nightly } ac nad oes modd i chi eu gweld eto ar sianeli { -brand-name-firefox } eraill? Yna edrychwch ar y dudalen dewisiadau <a { $attrs }>{ -brand-name-firefox-labs }</a>.
+nightly-whatsnew-want-to-know-which = Eisiau gwybod pa nodweddion platfform y gallech chi eu profi ar { -brand-name-nightly } ac nad oes modd i chi eu gweld eto ar sianeli { -brand-name-firefox } eraill? Yna edrychwch ar y dudalen dewisiadau <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Ydych chi'n profi chwaliadau? Ymddygiad annisgwyl? Atchweliad cydweddu gwe? Byddwn wrth ein bodd petai chi'n eu cofnodi yn <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> er mwyn gwneud yn siŵr nad ydynt yn cyrraedd y fersiwn terfynol (Karma ychwanegol os ydych yn ychwanegu'r allweddair <em>{ -brand-name-nightly }-community</em> i'ch adroddiadau chwalu)!

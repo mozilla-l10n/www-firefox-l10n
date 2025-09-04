@@ -69,7 +69,7 @@ firefox-developer-made-for-developers = De browser makke foar ûntwikkelers
 firefox-developer-all-the-latest-v2 = Alle nijste ûntwikkelersark yn beta, plus funksjes lykas de Multi-line Console Editor en WebSocket Inspector.
 firefox-developer-a-separate-profile = In <strong>apart profyl en paad</strong>, sadat jo it maklik neist { -brand-name-firefox } Release of { -brand-name-beta } brûke kinne.
 firefox-developer-preferences-tailored = Foarkarren dy’t <strong>op maat makke binne foar webûntwikkelers</strong>: flateropspoaring yn de browser en op ôfstân debugge binne standert ynskeakele, krekt as it donkere tema en de knop foar de ûntwikkelersarkbalke.
-firefox-developer-congrats-you-now-have-latest-v2 = Jo hawwe no de lêste ferzje fan { -brand-name-firefox-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Jo hawwe no de lêste ferzje fan { -brand-name-firefox-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Besjoch de <a { $attrs }>útjefteopmerkingen</a> (allinnich yn it Ingelsk) om te sjen wat der nij is.

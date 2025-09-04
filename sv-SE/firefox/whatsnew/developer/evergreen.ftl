@@ -69,7 +69,7 @@ firefox-developer-made-for-developers = Webbläsaren gjord för utvecklare
 firefox-developer-all-the-latest-v2 = Alla de senaste utvecklingsverktygen i beta utöver funktioner som konsolredigeraren med flera rader och WebSocket-inspektören.
 firefox-developer-a-separate-profile = En <strong>separat profil och sökväg</strong> så att du enkelt kan köra den tillsammans med Release eller { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Inställningar <strong>skräddarsydda för webbutvecklare</strong>: Webbläsar- och fjärrfelsökning är aktiverade som standard, liksom det mörka temat och knappen för verktygsfält för utvecklare.
-firefox-developer-congrats-you-now-have-latest-v2 = Du har nu den senaste versionen av { -brand-name-firefox-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Du har nu den senaste versionen av { -brand-name-firefox-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Visa <a { $attrs }>versionsfakta</a> (endast engelska) för att se vad som är nytt.

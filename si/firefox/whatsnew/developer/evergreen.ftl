@@ -44,7 +44,7 @@ firefox-developer-fonts-panel = රුවකුරු මඬල
 firefox-developer-download-the-firefox-browser = සංවර්ධකයින් සඳහා තනන ලද { -brand-name-firefox } අතිරික්සුව බාගන්න
 firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-developer-edition } වෙත පිළිගනිමු
 firefox-developer-made-for-developers = සංවර්ධකයින්ට සාදන ලද අතිරික්සුව
-firefox-developer-congrats-you-now-have-latest-v2 = දැන් ඔබ සතුව { -brand-name-firefox-developer-edition } නවතම අනුවාදය තිබේ.
+firefox-developer-congrats-you-now-have-latest = දැන් ඔබ සතුව { -brand-name-firefox-developer-edition } නවතම අනුවාදය තිබේ.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = අළුත් දෑ දැකීමට <a { $attrs }>නිකුතු සටහන්</a> (ඉංග්‍රීසියෙන් පමණි) බලන්න.

@@ -69,7 +69,7 @@ firefox-developer-made-for-developers = 개발자를 위한 브라우저
 firefox-developer-all-the-latest-v2 = 베타 버전에서는 최신 개발자 도구를 제공하며 멀티 라인 콘솔 편집기, 웹소켓 인스펙터 등의 기능도 갖추고 있습니다.
 firefox-developer-a-separate-profile = <strong>별도의 프로필과 경로를 사용해</strong> 정식 배포 버전 또는 { -brand-name-beta }{ -brand-name-firefox }와 함께 쉽게 실행할 수 있습니다.
 firefox-developer-preferences-tailored = <strong>웹 개발자를 위한 맞춤</strong> 환경 설정: 브라우저와 원격 디버깅이 기본적으로 활성화되어 있으며, 어두운 테마와 개발자 도구 모음 버튼도 있습니다.
-firefox-developer-congrats-you-now-have-latest-v2 = 이제 { -brand-name-firefox-developer-edition } 최신 버전을 사용하고 있습니다.
+firefox-developer-congrats-you-now-have-latest = 이제 { -brand-name-firefox-developer-edition } 최신 버전을 사용하고 있습니다.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = 새로운 기능을 살펴보려면 <a { $attrs }>출시 정보</a>(영문)를 확인하세요.

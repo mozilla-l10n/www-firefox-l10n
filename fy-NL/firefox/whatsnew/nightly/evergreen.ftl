@@ -16,10 +16,10 @@ nightly-whatsnew-this-is-a-good = Dit is in goed momint om jo te betankjen foar 
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
-nightly-whatsnew-if-you-want-to-v4 = As jo witte wolle wat der rûnom { -brand-name-nightly } en de mienskip derfan ôfspilet, binne it lêzen fan ús <a { $blog }>blog</a> en it folgjen fan ús op <a { $mastodon }>Mastodon</a> of <a { $bluesky }>Bluesky</a> goede startpunten!
+nightly-whatsnew-if-you-want-to = As jo witte wolle wat der rûnom { -brand-name-nightly } en de mienskip derfan ôfspilet, binne it lêzen fan ús <a { $blog }>blog</a> en it folgjen fan ús op <a { $mastodon }>Mastodon</a> of <a { $bluesky }>Bluesky</a> goede startpunten!
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = Wolle jo witte hokker platfoarmfunksjes jo yn { -brand-name-nightly } teste kinne en sjogge jo dizze noch net yn oare { -brand-name-firefox }-kanalen? Sjoch dan ris op de ynstellingenside fan <a { $attrs }>{ -brand-name-firefox-labs }</a>
+nightly-whatsnew-want-to-know-which = Wolle jo witte hokker platfoarmfunksjes jo yn { -brand-name-nightly } teste kinne en sjogge jo dizze noch net yn oare { -brand-name-firefox }-kanalen? Sjoch dan ris op de ynstellingenside fan <a { $attrs }>{ -brand-name-firefox-labs }</a>
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Underfine jo ûngelokken? Unferwacht gedrach? Regresjes omtrint webkompatibiliteit? Wy soene graach sjen dat se yntsjinne wurde yn <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> om derfoar te soargjen dat se net yn de definitive ferzje terjocht komme (ekstra karma as jo it keyword <em>{ -brand-name-nightly }-community</em> oan jo bugrapporten tafoegje)!

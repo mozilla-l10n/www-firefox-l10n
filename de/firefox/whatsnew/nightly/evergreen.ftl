@@ -20,11 +20,11 @@ nightly-whatsnew-this-is-a-good = Bei dieser Gelegenheit danken wir dir für dei
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
-nightly-whatsnew-if-you-want-to-v4 = Du willst wissen, was rund um { -brand-name-nightly } und die Community läuft? Lies zum Einstieg unseren <a { $blog }>Blog</a> und folge uns auf <a { $mastodon }>Mastodon</a> oder <a { $bluesky }>Bluesky!</a>
+nightly-whatsnew-if-you-want-to = Du willst wissen, was rund um { -brand-name-nightly } und die Community läuft? Lies zum Einstieg unseren <a { $blog }>Blog</a> und folge uns auf <a { $mastodon }>Mastodon</a> oder <a { $bluesky }>Bluesky!</a>
 
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = Du möchtest wissen, welche Plattformfunktionen du mit { -brand-name-nightly } testen kannst, die du in anderen { -brand-name-firefox }-Kanälen noch nicht sehen kannst? Dann schau dir die Einstellungsseite von <a { $attrs }>{ -brand-name-firefox-labs }</a> an.
+nightly-whatsnew-want-to-know-which = Du möchtest wissen, welche Plattformfunktionen du mit { -brand-name-nightly } testen kannst, die du in anderen { -brand-name-firefox }-Kanälen noch nicht sehen kannst? Dann schau dir die Einstellungsseite von <a { $attrs }>{ -brand-name-firefox-labs }</a> an.
 
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/

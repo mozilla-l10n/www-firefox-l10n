@@ -16,10 +16,10 @@ nightly-whatsnew-this-is-a-good = This is a good time to thank you for helping u
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
-nightly-whatsnew-if-you-want-to-v4 = If you want to know what’s happening around { -brand-name-nightly } and its community, reading our <a { $blog }>blog</a> and following us on <a { $mastodon }>Mastodon</a> or <a { $bluesky }>Bluesky</a> are good starting points!
+nightly-whatsnew-if-you-want-to = If you want to know what’s happening around { -brand-name-nightly } and its community, reading our <a { $blog }>blog</a> and following us on <a { $mastodon }>Mastodon</a> or <a { $bluesky }>Bluesky</a> are good starting points!
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = Want to know which platform features you could test on { -brand-name-nightly } and can’t see yet on other { -brand-name-firefox } channels? Then have a look at the <a { $attrs }>{ -brand-name-firefox-labs }</a> preferences page.
+nightly-whatsnew-want-to-know-which = Want to know which platform features you could test on { -brand-name-nightly } and can’t see yet on other { -brand-name-firefox } channels? Then have a look at the <a { $attrs }>{ -brand-name-firefox-labs }</a> preferences page.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Do you experience crashes? Unexpected behaviour? Web compatibility regressions? We’d love to get them filed in <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> to make sure they don’t make it to the final release (extra karma if you add the <em>{ -brand-name-nightly }-community</em> keyword to your bug reports)!

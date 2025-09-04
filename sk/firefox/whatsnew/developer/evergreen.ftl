@@ -69,7 +69,7 @@ firefox-developer-made-for-developers = Prehliadač vytvorený pre vývojárov
 firefox-developer-all-the-latest-v2 = Všetky najnovšie vývojárske nástroje v beta verzii spolu s funkciami, ako je viacriadkový editor v konzole a WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>Samostatný profil a cesta</strong>, takže ho môžete jednoducho spustiť spolu s klasickým vydaním alebo s verziou { -brand-name-firefox } { -brand-name-beta }.
 firefox-developer-preferences-tailored = Predvoľby <strong>prispôsobené webovým vývojárom</strong>: prehliadač a vzdialené ladenie sú predvolene povolené, rovnako ako tmavá téma a tlačidlo pre vývojárov na paneli s nástrojmi.
-firefox-developer-congrats-you-now-have-latest-v2 = Teraz máte najnovšiu verziu { -brand-name-firefox-developer-edition(case: "gen") }.
+firefox-developer-congrats-you-now-have-latest = Teraz máte najnovšiu verziu { -brand-name-firefox-developer-edition(case: "gen") }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Ak chcete vedieť, čo je nové, pozrite si <a { $attrs }>poznámky k vydaniu</a> (iba v angličtine).

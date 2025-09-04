@@ -69,7 +69,7 @@ firefox-developer-made-for-developers = Brskalnik, ustvarjen za razvijalce
 firefox-developer-all-the-latest-v2 = Vsa najnovejša razvojna orodja iz beta različice skupaj z zmogljivostmi, kot sta večvrstični urejevalnik konzole in pregledovalnik WebSocket.
 firefox-developer-a-separate-profile = Po zaslugi <strong>ločenega profila in programskega imenika</strong> lahko brez težav deluje sočasno z izdajno ali { -brand-name-beta } različico { -brand-name-firefox(sklon: "rodilnik") }.
 firefox-developer-preferences-tailored = Nastavitve, <strong>prikrojene spletnim razvijalcem</strong>: razhroščevanje brskalnika in oddaljeno razhroščevanje sta privzeto vključeni, kot tudi temna tema in gumb orodne vrstice za razvijalce.
-firefox-developer-congrats-you-now-have-latest-v2 = Zdaj imate najnovejšo različico { -brand-name-firefox-developer-edition(sklon: "rodilnik") }.
+firefox-developer-congrats-you-now-have-latest = Zdaj imate najnovejšo različico { -brand-name-firefox-developer-edition(sklon: "rodilnik") }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Če želite izvedeti, kaj je novega, si oglejte <a { $attrs }>opombe ob izdaji</a> (samo v angleščini).

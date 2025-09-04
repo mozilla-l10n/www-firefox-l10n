@@ -11,7 +11,7 @@ whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = { -brand-name-firefox }가 업데이트되었습니다.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes-v2 = { -brand-name-firefox } 브라우저의 새로운 기능에 대해 자세히 알아보려면 <a { $url }>출시 노트</a>를 읽어보세요.
+whatsnew-release-notes = { -brand-name-firefox } 브라우저의 새로운 기능에 대해 자세히 알아보려면 <a { $url }>출시 노트</a>를 읽어보세요.
 whatsnew-signoff = <strong>{ -brand-name-mozilla } 제공.</strong> 1998년이래로 이윤보다 사람을 최우선으로 생각합니다.
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = { -brand-name-mozilla-foundation }에 기부하세요.

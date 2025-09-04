@@ -16,10 +16,10 @@ nightly-whatsnew-this-is-a-good = Det høver godt her å takke { -brand-name-nig
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
-nightly-whatsnew-if-you-want-to-v4 = Om du vil vite kva som skjer rundt { -brand-name-nightly } og fellesskapet deira, kan du lese <a { $blog }>bloggen</a> vår og følgje oss på <a { $mastodon }>Mastodon</a> eller <a { $bluesky }>Bluesky</a> for gode utgangspunkt!
+nightly-whatsnew-if-you-want-to = Om du vil vite kva som skjer rundt { -brand-name-nightly } og fellesskapet deira, kan du lese <a { $blog }>bloggen</a> vår og følgje oss på <a { $mastodon }>Mastodon</a> eller <a { $bluesky }>Bluesky</a> for gode utgangspunkt!
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = Vil du vite kva for plattformsfunksjonar du kan teste på { -brand-name-nightly } og enno ikkje kan sjå på andre { -brand-name-firefox }-kanalar? Ta så ein titt på innstillings-sida for <a { $attrs }>{ -brand-name-firefox-labs }</a>.
+nightly-whatsnew-want-to-know-which = Vil du vite kva for plattformsfunksjonar du kan teste på { -brand-name-nightly } og enno ikkje kan sjå på andre { -brand-name-firefox }-kanalar? Ta så ein titt på innstillings-sida for <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Opplever du krasj? Uventa oppførsel? Nye problem med nettsidekompatibilitet? Det vil vere kjempeflott om du vil vere med på å rapportere dei til <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> slik at dei ikkje kjem med i den endelege utgåva (ekstra karma om du legg til <em>{ -brand-name-nightly }-community</em>-nøkkelord i feilrapportane dine)!

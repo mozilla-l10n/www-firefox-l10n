@@ -69,7 +69,7 @@ firefox-developer-made-for-developers = Il navigatur concepì per sviluppaders
 firefox-developer-all-the-latest-v2 = Tut ils utensils da svilup ils pli novs en la versiun beta ed ultra da quai funcziuns sco l’editur da consola en pliras lingias u l’inspectur WebSocket.
 firefox-developer-a-separate-profile = In <strong>profil separà cun in agen percurs</strong> per che ti al pos exequir parallelamain a la versiun uffiziala u a { -brand-name-beta } da { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Preferenzas <strong>adattadas aposta per sviluppaders da web</strong>: Il navigatur ed il debugadi a distanza èn activads en la configuraziun da standard. Il medem vala per il design stgir ed il buttun da la trav d'utensils da svilup.
-firefox-developer-congrats-you-now-have-latest-v2 = Ti has ussa la versiun la pli nova da { -brand-name-firefox-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Ti has ussa la versiun la pli nova da { -brand-name-firefox-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Consultescha las <a { $attrs }>remartgas davart la versiun</a> (mo per englais) per vegnir a savair tge ch’è nov.

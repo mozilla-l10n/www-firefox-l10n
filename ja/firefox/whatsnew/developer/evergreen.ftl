@@ -70,7 +70,7 @@ firefox-developer-made-for-developers = デベロッパー専用に構築され�
 firefox-developer-all-the-latest-v2 = Multi-line Console Editor や WebSocket Inspector 等の機能に加え、すべての最新ベータ版デベロッパーツール。
 firefox-developer-a-separate-profile = <strong>個別のプロフィールとパス</strong>で、リリースや { -brand-name-beta } { -brand-name-firefox } との同時実行が容易にできます。
 firefox-developer-preferences-tailored = <strong>ウェブデベロッパーに合わせてカスタマイズされた</strong>設定: ブラウザーとリモートデバッグのほか、ダークテーマやデベロッパーツールバーボタンが既定で有効になっています。
-firefox-developer-congrats-you-now-have-latest-v2 = { -brand-name-firefox-developer-edition }  の最新バージョンがインストールされました。
+firefox-developer-congrats-you-now-have-latest = { -brand-name-firefox-developer-edition }  の最新バージョンがインストールされました。
 
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes

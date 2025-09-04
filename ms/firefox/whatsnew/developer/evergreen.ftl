@@ -70,7 +70,7 @@ firefox-developer-made-for-developers = Pelayar yang dibuat untuk pembangun
 firefox-developer-all-the-latest-v2 = Semua kelengkapan pembangun yang terkini dalam beta termasuklah ciri-ciri seperti Multi-line Console Editor dan WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>Profil dan laluan berasingan</strong> agar anda boleh menjalankannya bersama Release atau { -brand-name-beta } { -brand-name-firefox } dengan mudah.
 firefox-developer-preferences-tailored = Keutamaan <strong>disesuaikan untuk pembangun web</strong>: Pelayar dan nyahpepijat jauh didayakan secara lalai, begitu juga dengan tema gelap dan butang bar alatan pembangun.
-firefox-developer-congrats-you-now-have-latest-v2 = Anda kini sedang menggunakan versi terbaru { -brand-name-firefox-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Anda kini sedang menggunakan versi terbaru { -brand-name-firefox-developer-edition }.
 
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes

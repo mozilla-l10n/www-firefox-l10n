@@ -11,7 +11,7 @@ whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = ה־{ -brand-name-firefox } שלך התעדכן.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes-v2 = ניתן לקרוא את <a { $url }>הערות השחרור</a> כדי לקבל מידע נוסף על מה שחדש בדפדפן ה־{ -brand-name-firefox } שלך.
+whatsnew-release-notes = ניתן לקרוא את <a { $url }>הערות השחרור</a> כדי לקבל מידע נוסף על מה שחדש בדפדפן ה־{ -brand-name-firefox } שלך.
 whatsnew-signoff = <strong>מופעל על־ידי { -brand-name-mozilla }.</strong> מעמידה אנשים לפני רווחים מאז 1998.
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = תרומה ל־{ -brand-name-mozilla-foundation }

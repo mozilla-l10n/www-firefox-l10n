@@ -69,7 +69,7 @@ firefox-developer-made-for-developers = Kundahára ojejapóva mboguatahárape g�
 firefox-developer-all-the-latest-v2 = Tembiporukuéra mboguatahárape g̃uarã ipyahúva beta rehegua, avei tembiapoite mba’e’oka mbosako’iha ha WebSocket mbohekoha.
 firefox-developer-a-separate-profile = Pe <strong>mba’ete ha tape ojeipyre</strong> ikatu hag̃ua emomba’apo hasy’ỹre oñondive ha’etéva ndide térã { -brand-name-beta } { -brand-name-firefox } mba’éva ndive.
 firefox-developer-preferences-tailored = Eguehoryvéva <strong>mbo’avapyre ñanduti mboguatahárape g̃uarã</strong>: kundahára ha ñemopotĩ okaygua hendýma ijehegui, avei téma ypytũ ha votõ tembiporu renda mboguatahárape g̃uarã.
-firefox-developer-congrats-you-now-have-latest-v2 = Eguereko ipyahuvéva { -brand-name-firefox-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Eguereko ipyahuvéva { -brand-name-firefox-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Ehechajey <a { $attrs }>marandu’i peteĩva</a> (inglés ñe’ẽme) ehecha hag̃ua mba’epyahu.

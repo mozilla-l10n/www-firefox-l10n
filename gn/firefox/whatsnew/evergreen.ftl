@@ -11,7 +11,7 @@ whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = Oñembohekopyahúma { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes-v2 = Emoñe’ẽ <a { $url }>jehaipy rehegua</a> ereko hag̃ua marandu pyahu kundahára { -brand-name-firefox } rehegua.
+whatsnew-release-notes = Emoñe’ẽ <a { $url }>jehaipy rehegua</a> ereko hag̃ua marandu pyahu kundahára { -brand-name-firefox } rehegua.
 whatsnew-signoff = <strong>Omboguata { -brand-name-mozilla }.</strong> Omotenondévo yvypóra viru rovake 1998 guive.
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Embojopói { -brand-name-mozilla-foundation }

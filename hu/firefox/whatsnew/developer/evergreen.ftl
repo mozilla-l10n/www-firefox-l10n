@@ -69,7 +69,7 @@ firefox-developer-made-for-developers = A fejlesztők számára készített bön
 firefox-developer-all-the-latest-v2 = A legújabb béta verziójú fejlesztői eszközök, olyan funkciók mellett, mint a többsoros konzolszerkesztő és a WebSocket vizsgáló.
 firefox-developer-a-separate-profile = Egy <strong>külön profil és útvonal</strong>, így könnyedén futtathatja a { -brand-name-firefox } kiadási vagy { -brand-name-beta } változata mellett.
 firefox-developer-preferences-tailored = <strong>Webfejlesztőkre igazított</strong> beállítások: A böngésző és távoli hibakeresés alapértelmezetten engedélyezett, ahogy a sötét téma és a fejlesztői eszköztár gombja is.
-firefox-developer-congrats-you-now-have-latest-v2 = Most már a { -brand-name-firefox-developer-edition } legfrissebb verziójával rendelkezik.
+firefox-developer-congrats-you-now-have-latest = Most már a { -brand-name-firefox-developer-edition } legfrissebb verziójával rendelkezik.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Tekintse meg a <a { $attrs }>kiadási megjegyzéseket</a> (csak angolul), hogy megismerje az újdonságokat.

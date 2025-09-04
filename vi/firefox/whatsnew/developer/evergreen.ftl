@@ -69,7 +69,7 @@ firefox-developer-made-for-developers = Trình duyệt dành cho nhà phát tri�
 firefox-developer-all-the-latest-v2 = Tất cả các công cụ mới nhất dành cho nhà phát triển trong bản beta cùng các tính năng như trình chỉnh sửa bảng điều khiển nhiều dòng và trình kiểm tra WebSocket.
 firefox-developer-a-separate-profile = Một <strong>hồ sơ và đường dẫn riêng biệt</strong> để bạn có thể dễ dàng chạy nó cùng với { -brand-name-firefox } bản phát hành chính thức hoặc { -brand-name-beta }.
 firefox-developer-preferences-tailored = Tùy chọn <strong>phù hợp với nhà phát triển web</strong>: Trình duyệt và gỡ lỗi từ xa được bật theo mặc định, cũng như nút thanh công cụ dành cho nhà phát triển và chủ đề tối.
-firefox-developer-congrats-you-now-have-latest-v2 = Bây giờ bạn đã có phiên bản mới nhất của { -brand-name-firefox-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Bây giờ bạn đã có phiên bản mới nhất của { -brand-name-firefox-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Xem <a { $attrs }>ghi chú phát hành</a> (chỉ bằng Tiếng Anh) để xem có gì mới.

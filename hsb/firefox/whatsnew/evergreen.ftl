@@ -11,7 +11,7 @@ whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = Waš { -brand-name-firefox } je so zaktualizował.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes-v2 = Čitajće <a { $url }>wersije informacije</a>, zo byšće wjace wo nowych funkcijach a změnach w swojim wobhladowaku { -brand-name-firefox } zhonił.
+whatsnew-release-notes = Čitajće <a { $url }>wersije informacije</a>, zo byšće wjace wo nowych funkcijach a změnach w swojim wobhladowaku { -brand-name-firefox } zhonił.
 whatsnew-signoff = <strong>Spěchowany wot { -brand-name-mozilla }.</strong> Stajamy ludźi před profit wot lěta 1998.
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Darće { -brand-name-mozilla-foundation }

@@ -16,10 +16,10 @@ nightly-whatsnew-this-is-a-good = Kjo është një kohë e përshtatshme për t�
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
-nightly-whatsnew-if-you-want-to-v4 = Nëse doni të dini se ç’po ndodh rreth { -brand-name-nightly }-t dhe bashkësisë së tij, leximi i <a { $blog }>blogut</a> tonë dhe ndjekja jonë në <a { $mastodon }>Mastodon</a> apo <a { $bluesky }>Bluesky</a> janë pikënisje të mira!
+nightly-whatsnew-if-you-want-to = Nëse doni të dini se ç’po ndodh rreth { -brand-name-nightly }-t dhe bashkësisë së tij, leximi i <a { $blog }>blogut</a> tonë dhe ndjekja jonë në <a { $mastodon }>Mastodon</a> apo <a { $bluesky }>Bluesky</a> janë pikënisje të mira!
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = Doni të dini se cilat veçori të platformës mund të testonit në { -brand-name-nightly } dhe s’i shihni ende në kanale të tjerë { -brand-name-firefox }-i? Hidhini një sy faqes për parapëlqime mbi <a { $attrs }>{ -brand-name-firefox-labs }</a>.
+nightly-whatsnew-want-to-know-which = Doni të dini se cilat veçori të platformës mund të testonit në { -brand-name-nightly } dhe s’i shihni ende në kanale të tjerë { -brand-name-firefox }-i? Hidhini një sy faqes për parapëlqime mbi <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Hasni vithisje? Sjellje të papritura? Hapa prapa në përputhje Web? Do të donim shumë të parashtroheshin te <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> për të garantuar se nuk mbërrijnë te hedhja përfundimtare në qarkullim (ekstra karma, nëse shtoni fjalëkyçin <em>{ -brand-name-nightly }-community</em> te njoftimet tuaja të metave)!

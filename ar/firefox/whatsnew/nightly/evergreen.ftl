@@ -20,11 +20,11 @@ nightly-whatsnew-this-is-a-good = هذا هو الوقت المُناسب لأش
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
-nightly-whatsnew-if-you-want-to-v4 = إذا كنت تريد أن تعرف ما يحدث بخصوص { -brand-name-nightly } ومُجتمعها، ستكون قراءة <a { $blog }>مدوّنتنا</a> ومتابعتنا على <a { $mastodon }>Mastodon</a> أو <a { $bluesky }>Bluesky</a> بمثابة نقاط جيدة للبدء!
+nightly-whatsnew-if-you-want-to = إذا كنت تريد أن تعرف ما يحدث بخصوص { -brand-name-nightly } ومُجتمعها، ستكون قراءة <a { $blog }>مدوّنتنا</a> ومتابعتنا على <a { $mastodon }>Mastodon</a> أو <a { $bluesky }>Bluesky</a> بمثابة نقاط جيدة للبدء!
 
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = هل تريد معرفة ميزات النظام الأساسي التي يُمكنك اختبارها على { -brand-name-nightly } ولا يُمكن رؤيتها حتى الآن على قنوات { -brand-name-firefox } الأخرى؟ إذن، ألقِ نظرة على صفحة تفضيلات <a { $attrs }>{ -brand-name-firefox-labs }</a>.
+nightly-whatsnew-want-to-know-which = هل تريد معرفة ميزات النظام الأساسي التي يُمكنك اختبارها على { -brand-name-nightly } ولا يُمكن رؤيتها حتى الآن على قنوات { -brand-name-firefox } الأخرى؟ إذن، ألقِ نظرة على صفحة تفضيلات <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/

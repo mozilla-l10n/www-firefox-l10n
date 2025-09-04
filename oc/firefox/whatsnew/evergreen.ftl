@@ -7,5 +7,5 @@
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes-v2 = Consultatz la <a { $url }>Nòta de version</a> per saber que i a de nòu dins lo navegador { -brand-name-firefox }.
+whatsnew-release-notes = Consultatz la <a { $url }>Nòta de version</a> per saber que i a de nòu dins lo navegador { -brand-name-firefox }.
 whatsnew-signoff = <strong>Propulsat per { -brand-name-mozilla }.</strong> Met las gents abans los profièches dempuèi 1998.
