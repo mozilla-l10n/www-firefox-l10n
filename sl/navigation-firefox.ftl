@@ -9,6 +9,13 @@ navigation-landmark-label = Glavno
 ## Features
 
 navigation-features = Značilnosti
+navigation-close-features-menu = Zapri meni Značilnosti
+navigation-top-features = Naj zmogljivosti
+navigation-fingerprint-blocking = Blokiranje sledilcev prstnih odtisov
+navigation-ad-tracker-blocking = Blokiranje oglaševalskih sledilcev
+navigation-private-browsing = Zasebno brskanje
+navigation-password-manager = Brezplačen upravitelj gesel
+navigation-features-all = Oglejte si vse značilnosti { -brand-name-firefox(sklon: "rodilnik") }
 
 ## Resources
 
