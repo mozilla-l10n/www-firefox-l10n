@@ -5,9 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = Descargá { -brand-name-firefox } para Android e iOS
 whatsnew-page-description = Tomá posición frente a una industria que está vendiendo tus datos a terceros. Mantenete inteligente y seguro en línea con tecnología que lucha por vos.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = Se actualizó { -brand-name-firefox }.
+whatsnew-download-firefox-for-your = Descargá { -brand-name-firefox } para tu teléfono inteligente y tablet.
+# An accessible label for a QR code image
+whatsnew-qr-code-alt = Escanear este código QR
 # Variables:
 #   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = Leé las <a { $url }>Notas de la versión</a> para obtener más información sobre las novedades de tu navegador { -brand-name-firefox }.

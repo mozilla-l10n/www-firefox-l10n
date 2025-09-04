@@ -5,9 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = Stáhnout { -brand-name-firefox } pro Android a iOS
 whatsnew-page-description = Postavte se proti průmyslu, který prodává vaše data třetím stranám. Buďte na internetu prozíraví a v bezpečí pomocí technologie, která za vás bojuje.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = Váš prohlížeč { -brand-name-firefox } byl aktualizován.
+whatsnew-download-firefox-for-your = Stáhněte si { -brand-name-firefox(case: "acc") } do svého telefonu a tabletu.
+# An accessible label for a QR code image
+whatsnew-qr-code-alt = Naskenujte tento QR kód
 # Variables:
 #   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = Přečtěte si <a { $url }>poznámky k vydání</a>, které obsahují informace o novinkách ve { -brand-name-firefox(case: "loc") }.

@@ -5,9 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = ჩამოტვირთეთ { -brand-name-firefox } Android-სა და iOS-ზე
 whatsnew-page-description = წინ აღუდექით კომპანიებს, რომლებიც ყიდიან თქვენს მონაცემებს სხვებზე. მოხერხებულად და დაცულად გამოიყენეთ ინტერნეტი იმ საშუალებებით, რომლებიც თქვენთვის იბრძვის.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = თქვენი { -brand-name-firefox } განახლდა.
+whatsnew-download-firefox-for-your = ჩამოტვირთეთ { -brand-name-firefox } თქვენს ტელეფონსა თუ პლანშეტზე.
+# An accessible label for a QR code image
+whatsnew-qr-code-alt = QR-კოდის წაკითხვა
 # Variables:
 #   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = იხილეთ <a { $url }>გამოშვების შენიშვნები</a>, რომ უკეთ გაეცნოთ, რა სიახლეებია { -brand-name-firefox }-ბრაუზერში.

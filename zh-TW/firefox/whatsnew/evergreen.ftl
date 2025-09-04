@@ -5,9 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = 下載 { -brand-name-firefox } for Android 與 iOS
 whatsnew-page-description = 採取行動，反對產業中將您的資料賣給第三方的行為。使用為您而戰的技術，在網路上確保聰明與安全。
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = 已更新您的 { -brand-name-firefox }。
+whatsnew-download-firefox-for-your = 為您的智慧型手機或平板電腦下載 { -brand-name-firefox }。
+# An accessible label for a QR code image
+whatsnew-qr-code-alt = 掃描這組 QR Code
 # Variables:
 #   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = 請閱讀<a { $url }>發行公告</a>來了解您的 { -brand-name-firefox } 瀏覽器還有哪些新亮點。

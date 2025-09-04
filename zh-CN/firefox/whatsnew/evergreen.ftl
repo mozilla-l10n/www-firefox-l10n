@@ -8,6 +8,8 @@
 whatsnew-page-description = 抵制向第三方销售您数据的行业。使用为您提供保护的技术，保证您的在线活动高效且安全。
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = 您的 { -brand-name-firefox } 已更新。
+# An accessible label for a QR code image
+whatsnew-qr-code-alt = 扫码
 # Variables:
 #   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = 阅读<a { $url }>发行说明</a>，详细了解 { -brand-name-firefox } 浏览器的新变化。
