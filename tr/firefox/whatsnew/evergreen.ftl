@@ -5,9 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = Android ve iOS için { -brand-name-firefox }’u indirin
 whatsnew-page-description = Verilerinizi üçüncü taraflara satan bir sektörün karşısında durun. Sizin adınıza savaşan bir teknoloji sayesinde internette akıllıca ve güvenle dolaşın.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = { -brand-name-firefox } güncellendi.
+whatsnew-download-firefox-for-your = Akıllı telefonunuza veya tabletinize { -brand-name-firefox }’u indirin.
+# An accessible label for a QR code image
+whatsnew-qr-code-alt = Bu QR kodunu tarayın
 # Variables:
 #   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = { -brand-name-firefox } tarayıcınızdaki yenilikler hakkında daha fazla bilgi almak için <a { $url }>sürüm notlarını</a> okuyabilirsiniz.
