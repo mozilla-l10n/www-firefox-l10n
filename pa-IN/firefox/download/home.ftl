@@ -29,6 +29,8 @@ firefox-home-your-stuff = ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਚੀਜ਼�
 
 ## Customization
 
+# asterisks provide playful emphasis, omit or use symbols appropriate in your language
+firefox-home-really-make-it = *ਸੱਚੀ* ਇਸ ਨੂੰ ਆਪਣਾ ਬਣਾਓ
 firefox-home-work-smarter = ਸਮਝਦਾਰੀ ਨਾਲ ਕੰਮ ਕਰੋ, ਰੱਜ ਕੇ ਆਨੰਦ ਮਾਣੋ
 
 ## Used as accessible alternative text for images.
