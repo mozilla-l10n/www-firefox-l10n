@@ -9,7 +9,7 @@ whatsnew-page-title = Llwytho { -brand-name-firefox } i Lawr ar gyfer Android ac
 whatsnew-page-description = Gwnewch safiad yn erbyn diwydiant sy'n gwerthu eich data i drydydd partïon. Byddwch yn graff a diogel ar-lein gyda thechnoleg sydd o'ch plaid.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = Mae eich { -brand-name-firefox } wedi'i ddiweddaru.
-whatsnew-download-firefox-for-your = Llwythwch { -brand-name-firefox } i lawr i'ch ffôn neu dabled.
+whatsnew-download-firefox-for-your = Llwytho { -brand-name-firefox } i lawr i'ch ffôn neu dabled.
 # An accessible label for a QR code image
 whatsnew-qr-code-alt = Sganiwch y cod QR hwn
 # Variables:
