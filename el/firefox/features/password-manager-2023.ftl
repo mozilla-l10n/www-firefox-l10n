@@ -6,11 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/features/password-manager
 
 # HTML page title
-password-manager-free-password-manager =
-    { PLATFORM() ->
-        [macos] Διαχείριση συνθηματικών
-       *[other] Διαχείριση κωδικών πρόσβασης
-    }
+password-manager-free-password-manager = Διαχείριση κωδικών πρόσβασης
 # HTML page description
 password-manager-firefox-password-manager-saves-all = Η Διαχείριση κωδικών πρόσβασης του { -brand-name-firefox } αποθηκεύει όλους τους κωδικούς πρόσβασης σας σε ένα μέρος κι έτσι, μπορείτε να συνδέεστε σε ιστοτόπους αυτόματα ή να ανακτάτε αποθηκευμένους κωδικούς.
 password-manager-firefox-securely-stores-your = Το { -brand-name-firefox } αποθηκεύει με ασφάλεια τα ονόματα χρήστη και τους κωδικούς πρόσβασής σας για πρόσβαση σε ιστοτόπους, συμπληρώνει αυτόματα τα διαπιστευτήριά σας όταν επισκέπτεστε έναν ιστότοπο και σας επιτρέπει να διαχειρίζεστε τις αποθηκευμένες σας συνδέσεις με την ενσωματωμένη λειτουργία διαχείρισης κωδικών πρόσβασής του.

@@ -13,11 +13,7 @@ features-index-firefox-keeps-getting-faster = Το { -brand-name-firefox } γί�
 features-index-the-latest-browser-speed-benchmarks = Οι πιο πρόσφατοι δείκτες αναφοράς επιδόσεων για προγράμματα περιήγησης αποδεικνύουν ότι το { -brand-name-firefox } είναι πιο γρήγορο από ποτέ.
 features-index-is-firefox-a-private-browser = Είναι το { -brand-name-firefox } ιδιωτικό;
 features-index-were-focused-on-your-right-to = Εστιάζουμε στο δικαίωμά σας στην ιδιωτικότητα. Τα δεδομένα, η διαδικτυακή δραστηριότητα και η ηλεκτρονική σας ζωή προστατεύονται με το { -brand-name-firefox }.
-features-index-free-password-manager =
-    { PLATFORM() ->
-        [macos] Διαχείριση συνθηματικών
-       *[other] Διαχείριση κωδικών πρόσβασης
-    }
+features-index-free-password-manager = Διαχείριση κωδικών πρόσβασης
 features-index-get-help-creating-new-passwords = Λάβετε βοήθεια κατά τη δημιουργία νέων κωδικών πρόσβασης, συμπληρώστε γρήγορα φόρμες και συνδεθείτε αυτόματα.
 features-index-customize-your-firefox-browser = Προσαρμογή του { -brand-name-firefox }
 features-index-choose-how-your-browser-looks = Εξατομικεύστε την εμφάνιση του προγράμματος περιήγησής σας, διαλέγοντας ανάμεσα σε χιλιάδες δωρεάν θέματα.

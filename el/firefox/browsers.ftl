@@ -13,7 +13,7 @@ firefox-browsers-main-heading-v2 = { -brand-name-firefox } για υπολογι
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Ένα πρόγραμμα περιήγησης με επίκεντρο το απόρρητό σας, όπως <strong>πάντα</strong>
 firefox-browsers-desktop = Υπολογιστές
-firefox-browsers-seriously-private-browsing = Σοβαρή ιδιωτική περιήγηση. Το { -brand-name-firefox } αποκλείει αυτόματα 2000+ ιχνηλάτες που συλλέγουν δεδομένα για τη δραστηριότητά σας στο διαδίκτυο.
+firefox-browsers-seriously-private-browsing = Σοβαρή ιδιωτική περιήγηση. Το { -brand-name-firefox } αποκλείει αυτόματα 2.000+ ιχνηλάτες που συλλέγουν δεδομένα για τη δραστηριότητά σας στο διαδίκτυο.
 firefox-browsers-download-for-desktop = Λήψη για υπολογιστή
 firefox-browsers-windows = { -brand-name-firefox } για { -brand-name-windows }
 firefox-browsers-mac = { -brand-name-firefox } για { -brand-name-mac-short }
