@@ -42,6 +42,8 @@ firefox-all-download-esr-version = { $esr_version } ਡਾਊਨਲੋਡ ਕਰ
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = ਅਸੀਂ ਵੱਡੇ ESR ਵਰਜ਼ਨ { $esr_current_major } ਤੋਂ { $esr_next_major } ਲਈ ਤਬਾਦਲੇ ਦੀ ਸਥਿਤੀ ਵਿੱਚ ਹਾਂ।
+firefox-all-esr-when-there-is = ਜਦੋਂ ਵੀ ਵੱਡਾ ਵਰਜ਼ਨ ਅੱਪਡੇਟ ਆਉਂਦਾ ਹੈ ਤਾਂ ਕੁਝ { -brand-name-firefox-esr } ਰੀਲਿਜ਼ ਲਈ ਨਾਲ ਨਾਲ ਚਲਦਾ ਹੈ ਤਾਂ ਕਿ ਪੁਰਾਣਾ ਵਰਜ਼ਨ ਵਰਤਣ ਵਾਲੇ ਲੋਕਾਂ ਨੂੰ ਨਵੇਂ ਵਰਜ਼ਨ ਵਾਸਤੇ ਤਿਆਰੀ ਲਈ ਮੌਕਾ ਮਿਲ ਜਾਵੇ।
+firefox-all-esr-if-you-choose = ਜੇ ਤੁਸੀਂ ਪੁਰਾਣੇ ESR ਵਰਜ਼ਨ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨ ਦੀ ਚੋਣ ਕੀਤੀ ਤਾਂ ਤਬਾਦਲੇ ਦਾ ਸਮਾਂ ਪੂਰਾ ਹੋਣ ਉਪਰੰਤ ਤੁਹਾਡੇ ਵਰਜ਼ਨ ਨੂੰ ਆਪਣੇ-ਆਪ ਨਵੇਂ ਲਈ ਅੱਪਡੇਟ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ।
 # Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
 firefox-all-esr-read-more = <a { $attrs }>{ -brand-name-firefox-esr } ਰੀਲਿਜ਼ ਲੜੀ</a> ਬਾਰੇ ਹੋਰ ਪੜ੍ਹੋ।
