@@ -30,8 +30,10 @@ cookie-settings-category-preference-what-are-subheading = ਪਸੰਦੀਦਾ 
 
 cookie-settings-category-analytics-heading = ਵਿਸ਼ਲੇਸ਼ਣ
 cookie-settings-category-analytics-what-are-subheading = ਵਿਸ਼ਲੇਸ਼ਣ ਕੂਕੀਜ਼ ਕੀ ਹਨ?
+cookie-settings-category-analytics-what-are-desc = ਇਹ ਤਕਨੀਕਾਂ ਲੋਕਾਂ ਵਲੋਂ ਵੈੱਬਸਾਈਟ ਵਰਤਣ, ਜਿਵੇਂ ਖੋਲ੍ਹੇ ਗਏ ਸਫ਼ੇ, ਕਲਿੱਕ ਕੀਤੇ ਗਏ ਲਿੰਕ ਅਤੇ ਉਸ ਤੋਂ ਹੋਰ ਕਿਹੜੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਖੁੱਲ੍ਹਦੀਆਂ ਹਨ ਆਦਿ ਬਾਰੇ ਜਾਣਕਾਰੀ ਇਕੱਤਰ ਕਰਦੀਆਂ ਹਨ।
 
 ## Privacy section
 
 cookie-settings-privacy-heading = ਸਾਡੀ ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ
+cookie-settings-privacy-desc = ਜਦੋਂ ਤੁਸੀਂ ਸਾਡੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਖੋਲ੍ਹਦੇ ਹੋ ਤਾਂ { -brand-name-mozilla } ਜੋ ਵੀ ਜਾਣਕਾਰੀ ਇਕੱਤਰ ਕਰਦਾ ਹੈ, ਉਸ  ਦੀਆਂ ਵੱਖ-ਵੱਖ ਕਿਸਮਾਂ ਦੇ ਬਾਰੇ ਵਧਰੇ ਜਾਣਕਾਰੀ ਲਈ ਹੇਠਾਂ ਸਾਡੀ ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ ਲਈ ਲਿੰਕ ਵੇਖ ਸਕਦੇ ਹੋ।
 cookie-settings-privacy-policy-link = ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ

@@ -8,6 +8,9 @@
 whatsnew-page-description = Kom in actie tegen een industrie die uw gegevens aan andere partijen verkoopt. Slim en veilig online met technologie die aan uw kant staat.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = Uw { -brand-name-firefox } is bijgewerkt.
+whatsnew-download-firefox-for-your = Download { -brand-name-firefox } voor uw smartphone en tablet.
+# An accessible label for a QR code image
+whatsnew-qr-code-alt = Scan deze QR-code
 # Variables:
 #   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = Lees de <a { $url }>uitgaveopmerkingen</a> voor meer informatie over wat er nieuw is in uw { -brand-name-firefox }-browser.
