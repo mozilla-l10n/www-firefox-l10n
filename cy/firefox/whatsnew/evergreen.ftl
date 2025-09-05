@@ -5,13 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
-whatsnew-page-title = Lawrlwythwch { -brand-name-firefox } ar gyfer Android ac iOS
+whatsnew-page-title = Llwytho { -brand-name-firefox } i Lawr ar gyfer Android ac iOS
 whatsnew-page-description = Gwnewch safiad yn erbyn diwydiant sy'n gwerthu eich data i drydydd partïon. Byddwch yn graff a diogel ar-lein gyda thechnoleg sydd o'ch plaid.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = Mae eich { -brand-name-firefox } wedi'i ddiweddaru.
 whatsnew-download-firefox-for-your = Llwythwch { -brand-name-firefox } i lawr i'ch ffôn neu dabled.
 # An accessible label for a QR code image
-whatsnew-qr-code-alt = Sganiwch y cod QR
+whatsnew-qr-code-alt = Sganiwch y cod QR hwn
 # Variables:
 #   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = Darllenwch y <a { $url }>Nodiadau Rhyddhau</a> i wybod mwy am yr hyn sy'n newydd yn eich porwr { -brand-name-firefox }.
