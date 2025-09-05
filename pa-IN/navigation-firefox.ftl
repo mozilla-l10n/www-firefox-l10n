@@ -9,6 +9,13 @@ navigation-landmark-label = ਪ੍ਰਾਇਮਰੀ
 ## Features
 
 navigation-features = ਫੀਚਰ
+navigation-close-features-menu = ਫ਼ੀਚਰ ਮੇਨੂ ਨੂੰ ਬੰਦ ਕਰੋ
+navigation-top-features = ਸਿਖਰਲੇ ਫ਼ੀਚਰ
+navigation-fingerprint-blocking = ਫਿੰਗਰਪਰਿੰਟਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣੀ
+navigation-ad-tracker-blocking = ਇਸ਼ਤਿਹਾਰ ਟਰੈਕ ਸੰਬੰਧੀ ਪਾਬੰਦੀ
+navigation-private-browsing = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਢੰਗ
+navigation-password-manager = ਮੁਫ਼ਤ ਪਾਸਵਰਡ ਮੈਨੇਜਰ
+navigation-features-all = ਸਾਰੇ { -brand-name-firefox } ਫ਼ੀਚਰਾਂ ਨੂੰ ਵੇਖੋ
 
 ## Resources
 
