@@ -5,9 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = ດາວໂຫລດ { -brand-name-firefox } ສໍາລັບ Android ແລະ iOS
 whatsnew-page-description = ເອົາຈຸດຢືນຂອງທ່ານຕໍ່ກັບອຸດສາຫະກໍາທີ່ຂາຍຂໍ້ມູນຂອງທ່ານໃຫ້ກັບບຸກຄົນທີສາມ. ຢູ່ໃນອິນເຕີເນັດຢ່າງສະຫຼາດ ແລະປອດໄພດ້ວຍເທັກໂນໂລຍີທີ່ຕໍ່ສູ້ກັບທ່ານ.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = { -brand-name-firefox } ຂອງທ່ານໄດ້ຖືກອັບເດດແລ້ວ.
+whatsnew-download-firefox-for-your = ດາວໂຫຼດ { -brand-name-firefox } ສຳລັບສະມາດໂຟນ ແລະ ແທັບເລັດຂອງທ່ານ.
+# An accessible label for a QR code image
+whatsnew-qr-code-alt = ສະແກນລະຫັດ QR ນີ້
 # Variables:
 #   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = ອ່ານ <a { $url }>ບັນທຶກການປ່ອຍຕົວ</a> ເພື່ອຮູ້ເພີ່ມເຕີມກ່ຽວກັບສິ່ງໃໝ່ໃນໂປຣແກຣມທ່ອງເວັບ { -brand-name-firefox } ຂອງທ່ານ.
