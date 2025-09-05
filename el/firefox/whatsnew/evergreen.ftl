@@ -5,11 +5,15 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = Λήψη του { -brand-name-firefox } για Android και iOS
 whatsnew-page-description = Αντισταθείτε σε μια βιομηχανία που πουλά τα δεδομένα σας σε τρίτους. Παραμείνετε ασφαλείς στο διαδίκτυο με την τεχνολογία που μάχεται για εσάς.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = Το { -brand-name-firefox } σας έχει ενημερωθεί.
+whatsnew-download-firefox-for-your = Κάντε λήψη του { -brand-name-firefox } για το smartphone και το tablet σας.
+# An accessible label for a QR code image
+whatsnew-qr-code-alt = Σαρώστε αυτόν τον κωδικό QR
 # Variables:
 #   $url (url) - link to https://www.firefox.com/firefox/notes/
-whatsnew-release-notes = Διαβάστε τις <a { $url }>Σημειώσεις έκδοσης</a> για να μάθετε περισσότερα σχετικά με το τι νέο υπάρχει στο πρόγραμμα περιήγησης { -brand-name-firefox } σας.
+whatsnew-release-notes = Διαβάστε τις <a { $url }>Σημειώσεις έκδοσης</a> για να μάθετε περισσότερα σχετικά με το τι νέο υπάρχει στο πρόγραμμα περιήγησης { -brand-name-firefox }.
 whatsnew-signoff = <strong>Με την υποστήριξη της { -brand-name-mozilla }.</strong> Από το 1998, βάζουμε τους ανθρώπους πάνω από τα κέρδη.
 whatsnew-donate-to-mofo = Κάντε δωρεά στο { -brand-name-mozilla-foundation }
