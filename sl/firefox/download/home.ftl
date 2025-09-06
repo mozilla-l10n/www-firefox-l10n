@@ -25,7 +25,10 @@ firefox-home-see-release = Preberite opombe ob izdaji
 firefox-home-get-the-browser = Izberite brskalnik, ki vam pomaga pri opravilih
 firefox-home-block-ad-trackers = Blokirajte sledilce oglasov, ne da bi mignili s prstom
 firefox-home-ad-trackers-make = Sledilci oglasov upočasnjujejo nalaganje spletnih strani. V { -brand-name-firefox(sklon: "mestnik") } vam je brskanje po nastavitvah prihranjeno, saj privzeto blokira večino sledilcev.
+# "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
+firefox-home-swear-off = Odkrižajte se motenj
 firefox-home-your-stuff = Vaše stvari na vseh vaših zaslonih
+firefox-home-get-firefox-mobile = Prenesite { -brand-name-firefox } za mobilne naprave in imejte gesla, zavihke in zgodovino – ter zasebnost in varnost, na kateri se zanašate – s seboj, kamorkoli greste.
 
 ## Customization
 
@@ -35,6 +38,7 @@ firefox-home-really-make-it = Napravite ga *resnično* svojega
 ## Final call-out
 
 firefox-home-billionaire-free = Neodvisni od milijarderjev že več kot 20 let
+firefox-home-firefox-was-created = { -brand-name-firefox } je { -brand-name-mozilla } ustvarila leta 2004 kot hitrejšo, zasebnejšo in prilagodljivejšo alternativo brskalnikom, kot je bil Internet Explorer. Danes smo še vedno neprofitni, še vedno nismo v lasti milijarderjev in še vedno si prizadevamo, da bi bil internet – in čas, ki ga preživite na njem – boljši.
 
 ## Used as accessible alternative text for images.
 
