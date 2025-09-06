@@ -15,6 +15,7 @@ navigation-fingerprint-blocking = Ñemokuãhũ jejoko
 navigation-ad-tracker-blocking = Ñemurã jejoko rapykuehoha
 navigation-private-browsing = Kundaha Ñemigua Reko
 navigation-password-manager = Ñe’ẽñemi reigua ñangarekoha
+navigation-features-all = Ehechapaite tembiapoitekuéra { -brand-name-firefox } rehegua
 
 ## Resources
 
