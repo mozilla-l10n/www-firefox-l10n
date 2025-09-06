@@ -15,7 +15,7 @@ firefox-desktop-download-meta-desc = Prenesite { -brand-name-firefox }, brezpla�
 firefox-desktop-download-meta-desc-v2 = Pridobite { -brand-name-firefox } za { -brand-name-windows }, { -brand-name-mac-short } ali { -brand-name-linux }. { -brand-name-firefox } je brezplačen brskalnik, za katerim stoji { -brand-name-mozilla }, neprofitna organizacija, predana zdravemu in zasebnemu internetu.
 firefox-desktop-download-og-title = Prenesite najhitrejši { -brand-name-firefox } vseh časov
 firefox-desktop-download-og-desc = Hitrejše nalaganje strani, manjša poraba pomnilnika in kopica novih zmožnosti – novi { -brand-name-firefox } je tu.
-firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-firefox = { -brand-name-firefox-browser(zacetnica: "velika") }
 # Variables:
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Na voljo je še novejši { -brand-name-firefox }. <a { $update_url }>Posodobite na najnovejšo različico</a>
