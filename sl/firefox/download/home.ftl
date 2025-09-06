@@ -32,6 +32,18 @@ firefox-home-your-stuff = Vaše stvari na vseh vaših zaslonih
 # asterisks provide playful emphasis, omit or use symbols appropriate in your language
 firefox-home-really-make-it = Napravite ga *resnično* svojega
 
+## Final call-out
+
+firefox-home-billionaire-free = Neodvisni od milijarderjev že več kot 20 let
+
 ## Used as accessible alternative text for images.
 
 firefox-home-firefox-on-desktop = { -brand-name-firefox } na računalniku in mobilni napravi.
+firefox-home-happy-toggle = Veselo stikalo.
+firefox-home-multiple-cursors = Gruča miškinih kazalcev.
+firefox-home-lots-of-open = Kopica odprtih zavihkov.
+firefox-home-shield-and-hand = Ščit in roka ščitita zavihek brskalnika.
+firefox-home-a-human-brain = Človeški možgani, povezani s svetom.
+firefox-home-desktop-laptop-and-phone = Računalnik, prenosnik in telefon.
+firefox-home-firefox-in-dark = { -brand-name-firefox } v temnem načinu.
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } na računalniku.
