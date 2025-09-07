@@ -5,9 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = Tải xuống { -brand-name-firefox } dành cho Android và iOS
 whatsnew-page-description = Hãy phản kháng những ngành bán dữ liệu của bạn cho bên thứ ba. Hãy sử dụng một cách thông minh và an toàn loại công nghệ biết đấu tranh vì bạn.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = { -brand-name-firefox } của bạn đã được cập nhật.
+whatsnew-download-firefox-for-your = Tải xuống { -brand-name-firefox } cho điện thoại thông minh và máy tính bảng.
+# An accessible label for a QR code image
+whatsnew-qr-code-alt = Quét mã QR này
 # Variables:
 #   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = Hãy đọc <a { $url }>ghi chú phát hành</a> để biết thêm về những gì mới trong trình duyệt { -brand-name-firefox } của bạn.
