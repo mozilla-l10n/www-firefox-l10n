@@ -8,6 +8,8 @@
 whatsnew-page-description = Дар мубориза бо соҳае, ки маълумоти шуморо ба шахсони сеюм мефурӯшад, мавқеи худро нишон диҳед. Бо технологияе, ки ҳуқуқҳои шуморо ҳифз мекунад ҳушманд бошед ва Интернетро ба таври бехатар истифода баред.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = Браузери «{ -brand-name-firefox }»-и шумо навсозӣ карда шуд.
+# An accessible label for a QR code image
+whatsnew-qr-code-alt = Ин рамзи «QR»-ро тасвирбардорӣ намоед
 # Variables:
 #   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = Лутфан, <a { $url }>Қайдҳои нашрро</a> мутолиа кунед ва дар бораи браузери «{ -brand-name-firefox }» маълумоти бештар гиред.

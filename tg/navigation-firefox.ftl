@@ -9,6 +9,10 @@ navigation-landmark-label = Асосӣ
 ## Features
 
 navigation-features = Хусусиятҳо
+navigation-close-features-menu = Пӯшидани менюи «Хусусиятҳо»
+navigation-top-features = Хусусиятҳои беҳтарин
+navigation-fingerprint-blocking = Манъкунии нақши рақамии ангуштон
+navigation-ad-tracker-blocking = Манъкунии васоити пайгирии рекламавӣ
 navigation-private-browsing = Реҷаи «Тамошобинии хусусӣ»
 navigation-password-manager = Мудири ройгон барои идораи ниҳонвожаҳо
 navigation-features-all = Дидани ҳамаи ҳусусиятҳои «{ -brand-name-firefox }»
