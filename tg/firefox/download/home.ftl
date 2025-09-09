@@ -15,12 +15,16 @@ firefox-home-set-firefox-as = Браузери «{ -brand-name-firefox }»-ро 
 
 # accessible section heading
 firefox-home-latest-features = Ҳусусиятҳои навтарини «{ -brand-name-firefox }»
+firefox-home-dial-down = Овози мағалро паст кунед
 firefox-home-multitasking = Бо якчанд вазифа машғул ҳастед?
 firefox-home-keep-tabs-on = Ҳамаи варақаҳои худро ҳаматарафа идора кунед
 firefox-home-see-release = Дидани қайдҳои нашр
 
 ## Features
 
+firefox-home-get-the-browser = Браузереро ба даст оред, ки ба шумо дар иҷрои кор кумак мекунад
+# "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
+firefox-home-swear-off = Аз чизҳои парешон даст кашед
 firefox-home-your-stuff = Маводи шумо, дар ҳамаи экранҳои шумо
 
 ## Customization
@@ -47,6 +51,7 @@ firefox-home-happy-toggle = Гузариши хушбахт.
 firefox-home-multiple-cursors = Дорои якчанд курсор.
 firefox-home-lots-of-open = Шумораи зиёди варақаҳои кушодашуда.
 firefox-home-shield-and-hand = Сипар ва дасте, ки варақаи браузерро ҳифз мекунад.
+firefox-home-a-human-brain = Майнаи инсон ба ҷаҳон пайваст шуд.
 firefox-home-desktop-laptop-and-phone = Мизи корӣ, ноутбук ва телефон.
 firefox-home-firefox-in-dark = Браузери «{ -brand-name-firefox }» дар реҷаи торик.
 firefox-home-firefox-on-a-desktop = Браузери «{ -brand-name-firefox }» барои мизи корӣ.

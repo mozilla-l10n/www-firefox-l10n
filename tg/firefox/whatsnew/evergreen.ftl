@@ -5,9 +5,11 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = Боргирӣ кардани браузери «{ -brand-name-firefox }» барои низоми амалкунандаи «Android» ва «iOS»
 whatsnew-page-description = Дар мубориза бо соҳае, ки маълумоти шуморо ба шахсони сеюм мефурӯшад, мавқеи худро нишон диҳед. Бо технологияе, ки ҳуқуқҳои шуморо ҳифз мекунад ҳушманд бошед ва Интернетро ба таври бехатар истифода баред.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = Браузери «{ -brand-name-firefox }»-и шумо навсозӣ карда шуд.
+whatsnew-download-firefox-for-your = Браузери «{ -brand-name-firefox }»-ро барои смартфон ва планшети худ боргирӣ намоед.
 # An accessible label for a QR code image
 whatsnew-qr-code-alt = Ин рамзи «QR»-ро тасвирбардорӣ намоед
 # Variables:
