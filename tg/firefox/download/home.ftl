@@ -36,9 +36,17 @@ firefox-home-bye-boring = Хуш бош, браузери зиқовар!
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
 firefox-home-the-internet-can = Интернет метавонад макони гулобӣ бошад, агар шумо аз <a { $theme_attrs }>мавзуи</a> ҷузъи иловагӣ истифода баред.
 
+## Final call-out
+
+firefox-home-billionaire-free = Зиёда аз 20+ сол бе ягон соҳибкори миллиардер
+
 ## Used as accessible alternative text for images.
 
 firefox-home-firefox-on-desktop = Браузери «{ -brand-name-firefox }» барои мизи корӣ ва дастгоҳи мобилӣ.
+firefox-home-happy-toggle = Гузариши хушбахт.
+firefox-home-multiple-cursors = Дорои якчанд курсор.
+firefox-home-lots-of-open = Шумораи зиёди варақаҳои кушодашуда.
+firefox-home-shield-and-hand = Сипар ва дасте, ки варақаи браузерро ҳифз мекунад.
 firefox-home-desktop-laptop-and-phone = Мизи корӣ, ноутбук ва телефон.
 firefox-home-firefox-in-dark = Браузери «{ -brand-name-firefox }» дар реҷаи торик.
 firefox-home-firefox-on-a-desktop = Браузери «{ -brand-name-firefox }» барои мизи корӣ.
