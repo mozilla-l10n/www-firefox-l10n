@@ -5,9 +5,11 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = 下载 Android 和 iOS 版 { -brand-name-firefox }
 whatsnew-page-description = 抵制向第三方销售您数据的行业。使用为您提供保护的技术，保证您的在线活动高效且安全。
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = 您的 { -brand-name-firefox } 已更新。
+whatsnew-download-firefox-for-your = 为您的智能手机和平板电脑下载 { -brand-name-firefox }。
 # An accessible label for a QR code image
 whatsnew-qr-code-alt = 扫描此二维码
 # Variables:
