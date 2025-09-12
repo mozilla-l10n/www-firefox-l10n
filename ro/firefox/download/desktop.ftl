@@ -5,9 +5,28 @@
 
 ### URL: https://www-dev.springfield.moz.works/?xv=legacy
 
+# meta title, this shows as the link in search results
+# the em dash is used in English to show a change of thought and
+# the em dash is used in meta titles to separate the title of a page from the title of the whole site
+# this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
+firefox-desktop-download-meta-title = Descarcă { -brand-name-firefox-browser } — Rapid, privat și gratuit — de la { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = Descarcă { -brand-name-firefox } pentru desktop — de la { -brand-name-mozilla }
+firefox-desktop-download-meta-desc = Descarcă { -brand-name-firefox }{ -brand-name-firefox }, un browser web gratuit susținut de { -brand-name-mozilla }, o organizație non-profit dedicată sănătății și confidențialității Internetului. Disponibil acum pe { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } și { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = Descarcă { -brand-name-firefox } pentru { -brand-name-windows }, { -brand-name-mac-short } sau { -brand-name-linux }. { -brand-name-firefox } este un browser web gratuit susținut de { -brand-name-mozilla }, o organizație non-profit dedicată sănătății și confidențialității internetului.
 firefox-desktop-download-og-title = Descarcă cel mai rapid { -brand-name-firefox } care a existat vreodată
+firefox-desktop-download-og-desc = Încărcare mai rapidă a paginilor, mai puțină memorie utilizată și prevăzut cu funcții, noul { -brand-name-firefox } este aici.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Este disponibilă o versiune { -brand-name-firefox } și mai nouă. <a { $update_url }>Actualizează la cea mai recentă versiune</a>
+firefox-desktop-download-get-the-browser = Obține browserul care protejează ce e important
+firefox-desktop-download-fast-reliable-private = Rapid, fiabil și confidențial — pentru liniște sufletească online.
+firefox-desktop-set-as-default = Setează { -brand-name-firefox } ca browser implicit.
 firefox-desktop-download-download-options = Opțiuni de descărcare și alte limbi
+firefox-desktop-download-browser-support = Asistență { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Faci ce faci online. <br> { -brand-name-firefox-browser } te <strong>protejează</strong>.
+firefox-desktop-download-we-block-the-ad = Noi blocăm elementele de urmărire publicitare. Tu explorezi Internetul mai repede,
 firefox-desktop-download-see-your-report = Vezi raportul tău de protecție
 firefox-desktop-download-for-everyone = { -brand-name-firefox } este pentru toți
 firefox-desktop-download-review-system-req = Verifică cerințele de sistem
