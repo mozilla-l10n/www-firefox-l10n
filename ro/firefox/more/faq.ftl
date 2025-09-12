@@ -65,8 +65,15 @@ does-firefox-use = { -brand-name-firefox } folosește { -brand-name-google }?
 
 firefoxs-default-search = { -brand-name-google } este motorul de căutare implicit în { -brand-name-firefox }, ceea ce înseamnă că poți căuta pe web direct din bara de adrese. <a href="{ $url }">Află mai multe despre preferințele motorului de căutare și modificarea setărilor implicite.</a>
 does-firefox-have = { -brand-name-firefox } are VPN încorporat?
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } nu are VPN (rețea privată virtuală) încorporat, dar { -brand-name-mozilla } creează un produs numit <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> pe care îl poți utiliza pe lângă browserul privat { -brand-name-firefox-browser }, care îți poate proteja conexiunea prin Wi-Fi, precum și adresa IP.
+related-questions-ip = Întrebări similare: { -brand-name-firefox } îți ascunde adresa IP
+who-owns-firefox = Cine deține { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } este creat de { -brand-name-mozilla-corporation }, o filială deținută integral de organizația non-profit <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> și este ghidat de principiile Manifestului { -brand-name-mozilla }. Află mai multe despre creatorul { -brand-name-firefox } <a href="{ $url2 }">aici.</a>
+related-questions-who = Întrebări similare: de cine este deținut { -brand-name-firefox }, cine deține { -brand-name-firefox-browser }, este { -brand-name-firefox } deținut de { -brand-name-google }, este { -brand-name-mozilla } { -brand-name-firefox } deținut de { -brand-name-google }
