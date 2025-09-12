@@ -65,3 +65,5 @@ firefox-home-lots-of-open = Multe file deschise.
 firefox-home-shield-and-hand = Scut și mână care protejează o filă de browser.
 firefox-home-a-human-brain = Un creier uman conectat la lume.
 firefox-home-desktop-laptop-and-phone = Desktop, laptop și telefon.
+firefox-home-firefox-in-dark = { -brand-name-firefox } în modul întunecat.
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } pe un desktop.

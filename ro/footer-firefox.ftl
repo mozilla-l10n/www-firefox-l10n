@@ -24,6 +24,8 @@ footer-nightly = { -brand-name-nightly }
 
 ## Download links for enterprise versions of Firefox.
 
+# Section title
+footer-business = { -brand-name-firefox } pentru afaceri
 footer-enterprise = { -brand-name-enterprise }
 
 ## Links to community groups.

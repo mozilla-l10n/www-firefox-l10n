@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = Descarcă { -brand-name-firefox } pentru Android și iOS
 whatsnew-page-description = Ia atitudine împotriva unei industrii care vinde datele tale către terți. Fii inteligent și în siguranță online cu ajutorul tehnologiei care luptă pentru tine.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = { -brand-name-firefox } a fost actualizat.
