@@ -112,6 +112,10 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } a fost cr
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Pe măsură ce internetul crește și se schimbă, { -brand-name-firefox } continuă să se concentreze asupra dreptului tău la confidențialitate — acesta a fost întotdeauna obiectivul nostru. Află mai multe despre practicile noastre privind datele în <a { $attrs }>Notificarea privind confidențialitatea</a>.
+# Obsolete string (expires 19-09-2025)
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
+firefox-desktop-download-as-the-internet = Pe măsură ce internetul crește și se schimbă, { -brand-name-firefox } continuă să se concentreze asupra dreptului tău la confidențialitate — îi spunem <a { $attrs }>Promisiunea privind datele cu caracter personal</a>: Luăm mai puțin. Le păstrăm în siguranță. Fără secrete. Datele tale, activitatea ta web, viața ta online sunt protejate cu { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } este disponibil pe toate dispozitivele; ia filele, istoricul și marcajele cu tine. Tot ce-ți trebuie este un <a { $attrs }>{ -brand-name-mozilla-account }</a> și vei avea acces la sincronizare și la mai multe produse { -brand-name-mozilla }.

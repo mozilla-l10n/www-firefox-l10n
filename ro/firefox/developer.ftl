@@ -7,6 +7,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } este browserul incredibil de rapid care îți oferă instrumente pentru dezvoltatori de ultimă generație și cele mai noi funcționalități, precum suport pentru CSS Grid și depanare pentru framework-uri
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Bine ai venit la bordul noului tău browser preferat. Bucură-te de cele mai noi funcționalități, cea mai mare performanță și instrumentele pentru dezvoltatori de care ai nevoie pentru a construi webul deschis.
 firefox-developer-speak-up = Dă de veste
 firefox-developer-feedback-makes-us = Feedbackul ne face mai buni. Spune-ne cum putem îmbunătăți browserul și instrumentele pentru dezvoltatori.
@@ -53,6 +54,7 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Noile { -brand-name-firefox-devtools } sunt puternice, flexibile și, mai mult, modificabile. Includ cel mai bun depanator de JavaScript din clasa lui, adaptabil la mai multe browsere, construit în React și Redux.
 firefox-developer-master-css-grid = Stăpânește CSS Grid
+firefox-developer-built-for-developers = Făcut pentru dezvoltatori
 firefox-developer-master-innovative-features = Funcții inovatoare
 firefox-developer-want-to-be-on-the-cutting-edge = Vrei inovații de avangardă?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } este actualizat zilnic și ai acces la funcționalități cu luni înainte de implementarea lor în ediția stabilă.
@@ -62,3 +64,7 @@ firefox-developer-fonts-panel = Panou de fonturi
 firefox-developer-the-new-fonts-panel = Noul panou de fonturi din { -brand-name-firefox-devtools } oferă dezvoltatorilor accesul rapid la toate informațiile de care au nevoie despre fonturile utilizate într-un element. Include și informații valoroase precum sursa fonturilor, greutatea, stilul și multe altele.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } trimite automat feedback la { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Descarcă browserul { -brand-name-firefox } conceput pentru dezvoltatori
+firefox-developer-made-for-developers = Browserul creat pentru dezvoltatori
+firefox-developer-all-the-latest-v2 = Toate cele mai recente instrumente pentru dezvoltatori în versiune beta, pe lângă funcții precum editorul de consolă multi-linie și inspectorul WebSocket.
+firefox-developer-a-separate-profile = Un <strong>profil și o cale separate</strong>, ca să îl poți rula cu ușurință alături de Release sau { -brand-name-beta } { -brand-name-firefox }.
+firefox-developer-preferences-tailored = Preferințe <strong>adaptate dezvoltatorilor web</strong>: Depanarea browserului și de la distanță sunt activate implicit, la fel ca și tema întunecată și butonul barei de instrumente pentru dezvoltatori.

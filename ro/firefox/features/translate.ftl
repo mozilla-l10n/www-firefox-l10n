@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/translate/
 
+# HTML page title
+features-translate-translate-a-webpage-with-firefox = Tradu o pagină web cu { -brand-name-firefox }
 features-translate-translate-the-web = Tradu webul
