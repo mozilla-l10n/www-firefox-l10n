@@ -20,3 +20,8 @@ ui-show-less = Afișează mai puține
 ui-show-all = Afișează tot
 ui-hide-all = Ascunde-le pe toate
 ui-learn-more = Află mai multe
+ui-view = Vizualizare
+ui-pause-animation = Întrerupe animațiile
+ui-play-animation = Redă animațiile
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = Promoție

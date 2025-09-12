@@ -25,6 +25,7 @@ firefox-all-language-v2 = 3. Limbă:
 firefox-all-download = 4. Descarcă:
 firefox-all-desktop = Desktop
 firefox-all-mobile = Mobil
+firefox-all-recommended = (Recomandat)
 firefox-all-lang-multi = Multiple limbi
 firefox-all-plat-mobile = Android și iOS
 firefox-all-sorry-we-couldnt-find = Ne pare rău, nu am găsit descărcarea pe care o cauți. Încearcă din nou sau alege o descărcare din lista de mai jos.
@@ -33,9 +34,19 @@ firefox-all-64-bit-installers = Programe de instalare pe 64 de biți
 firefox-all-choose-a-64-bit-installer = Alege un program de instalare pe 64 de biți pentru calculatoarele cu procesoare pe 64 de biți, care le permit să aloce mai mult RAM programelor individuale — un aspect important în special pentru jocuri și alte aplicații solicitante.
 firefox-all-32-bit-installers = Programe de instalare pe 32 de biți
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Opțiunea va deschide o pagină de produs { -brand-name-firefox } în portalul web Microsoft Store. Dacă ai Windows 10 sau Windows 11, vei avea opțiunea de a deschide Microsoft Store de pe această pagină și să instalezi { -brand-name-firefox }. Dacă instalezi din Microsoft Store, actualizările { -brand-name-firefox } vor fi gestionate tot din Microsoft Store. Există mici diferențe de comportament și capabilități { -brand-name-firefox } când este instalat din Microsoft Store, dar majoritatea utilizatorilor spune că nu sunt evidente.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Descarcă { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Suntem în perioada de tranziție între versiuni majore ESR { $esr_next_major } și { $esr_current_major }.
+firefox-all-esr-when-there-is = Când apare o actualizare la o versiune majoră, va fi întotdeauna o suprapunere a câtorva versiuni { -brand-name-firefox-esr } punctuale, pentru a permite celor care folosesc versiunea veche să se pregătească pentru trecerea la cea nouă.
+firefox-all-esr-if-you-choose = Dacă alegi să descarci versiunea ESR mai veche, va fi actualizată automat la cea nouă la sfârșitul perioadei de tranziție.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Citește mai multe despre ciclul de lansare <a { $attrs }>{ -brand-name-firefox-esr }</a>.
 firefox-all-check-the-system-requirements = Verifică cerințele de sistem
 firefox-all-release-notes = Note privind versiunea
 firefox-all-source-code = Cod sursă
@@ -49,6 +60,9 @@ firefox-all-test-your-sites-against = Testează comportamentul site-urilor tale 
 firefox-all-count-on-stability-and = Contează pe stabilitatea și ușurința la utilizare cu acest browser { -brand-name-firefox } creat pentru întreprinderi.
 firefox-all-windows-installers-for = Programe de instalare Windows pentru departamentele IT ale întreprinderilor, care fac mai simple configurarea, lansarea și gestionarea { -brand-name-firefox-browser(case: "genitive-or-dative") }.
 firefox-all-arm64-installers = Programe de instalare ARM64/AArch64
+firefox-all-arm64-installers-optimized-v2 = Programe de instalare ARM64/AArch64 optimizate pentru Windows și Linux.
+firefox-all-testflight = Fă-ți un cont ca să testezi { -brand-name-firefox } pentru iOS cu TestFlight
+firefox-all-product-send-link = Trimite un link de descărcare către telefonul tău
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Alege un program de instalare pe 32 de biți pentru calculatoarele cu procesoare pe 32 de biți — sau pentru calculatoare mai vechi sau mai slabe. <a href="{ $url }">Dacă nu știi sigur</a>ce program de instalare să alegi, pe 64 sau pe 32 biți, îți recomandăm să mergi pe 32 biți.
@@ -64,3 +78,6 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = Descarcă ESR 115
+firefox-all-note-unsupported = Notă: Dacă folosești Windows 7, Windows 8, Windows 8.1 sau macOS 10.12, 10.13 sau 10.14, atunci te rugăm să descarci ESR 115 ca să folosești { -brand-name-firefox }.

@@ -7,6 +7,8 @@
 
 # HTML page title
 firefox-browsers-page-title-v2 = { -brand-name-firefox } pentru desktop
+# HTML page description
+firefox-browsers-page-desc-v2 = Descarcă browserul care îți pune confidențialitatea pe primul loc — instalează { -brand-name-firefox } pentru Windows, macOS sau Linux pe desktop.
 firefox-browsers-main-heading-v2 = { -brand-name-firefox } pentru desktop
 firefox-browsers-desktop = Calculator
 firefox-browsers-seriously-private-browsing = Navigare serios privată. { -brand-name-firefox } blochează automat peste 2000 de elemente de urmărire online împiedicându-le să colecteze informații despre ce faci online.
