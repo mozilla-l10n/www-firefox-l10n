@@ -9,6 +9,13 @@ navigation-landmark-label = 주요 항목
 ## Features
 
 navigation-features = 기능
+navigation-close-features-menu = 기능 메뉴 닫기
+navigation-top-features = 주요 기능
+navigation-fingerprint-blocking = 지문 차단
+navigation-ad-tracker-blocking = 광고 추적기 차단
+navigation-private-browsing = 사생활 보호 모드
+navigation-password-manager = 무료 비밀번호 관리자
+navigation-features-all = { -brand-name-firefox } 전체 기능 보기
 
 ## Resources
 

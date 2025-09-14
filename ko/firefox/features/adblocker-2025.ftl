@@ -7,6 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = 광고 차단
+# Page Title
+features-adblocker-meta-title-v2 = 광고 차단기 정보
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = 광고 차단 기능 소개 - { -brand-name-firefox }
 # HTML page description

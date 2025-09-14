@@ -5,9 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = Android 및 iOS 용 { -brand-name-firefox } 다운로드
 whatsnew-page-description = 제 3자에게 당신의 데이터를 판매하는 산업에 대항하세요. 당신과 함께 싸우는 기술로 똑똑하고 안전하게 온라인 생활을 지속할 수 있습니다.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = { -brand-name-firefox }가 업데이트되었습니다.
+whatsnew-download-firefox-for-your = 스마트폰 및 태블릿용 { -brand-name-firefox } 다운로드
+# An accessible label for a QR code image
+whatsnew-qr-code-alt = QR 코드 스캔
 # Variables:
 #   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = { -brand-name-firefox } 브라우저의 새로운 기능에 대해 자세히 알아보려면 <a { $url }>출시 노트</a>를 읽어보세요.

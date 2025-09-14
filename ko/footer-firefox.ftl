@@ -34,6 +34,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = 커뮤니티
 footer-contribute = 기여하기
 footer-developer = 개발자
+footer-connect = 연결하기
 
 ## Links to resources
 
@@ -69,3 +70,8 @@ footer-logo-trademark-licensing = 로고 상표권 라이선스
 footer-language = 언어
 footer-go = 가기
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+
+footer-powdered-by = { -brand-name-mozilla } 제공
+footer-putting-people = 이익보다 사람을 최우선으로 하는 기업
