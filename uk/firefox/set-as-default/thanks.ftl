@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/default/thanks/
+### URL: https://www-dev.springfield.moz.works/landing/set-as-default/thanks/
 
 # HTML page title
 set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = Дякуємо, що обрали { -brand-name-firefox }

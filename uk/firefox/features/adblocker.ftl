@@ -28,7 +28,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> – також чудовий вибір. Він не лише блокує рекламу, а й забезпечує додатковий рівень захисту від стеження.
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Ці розширення чудово працюють як із <a { $attrs1 }>{ -brand-name-firefox } для комп'ютера</a>, так і з версією для <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Створіть вільну від стеження зону за допомогою блокування вмісту
 # Variables:

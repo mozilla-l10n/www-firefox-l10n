@@ -17,7 +17,7 @@ features-adblocker-these-ads-might-be-loud = Mogą to być głośne reklamy wide
 features-adblocker-find-the-right-ad-blocker = Znajdź odpowiedni bloker reklam dla siebie
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Te rozszerzenia działają doskonale zarówno na <a { $attrs1 }>{ -brand-name-firefox(case: "loc") } dla komputerów stacjonarnych</a>, jak i dla <a { $attrs2 }>Androida</a>.
 features-adblocker-create-a-tracker-free = Utwórz strefę wolną od śledzenia dzięki blokowaniu treści
 # Variables:

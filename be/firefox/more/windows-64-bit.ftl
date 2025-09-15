@@ -28,6 +28,6 @@ windows-64-bit-if-youre-running = Калі ў вас 64-разрадная { -br
 windows-64-bit-if-you-see-32-bit-older = Калі вы бачыце “(32-біт)” і ў вас { -brand-name-firefox } 56.0 ці старэйшы, абнаўленне да апошняй версіі { -brand-name-firefox } павінна аўтаматычна абнавіць вас да 64-разраднай версіі.
 windows-64-bit-if-you-see-32-bit-newer = Калі вы бачыце “(32-біт)” і ў вас { -brand-name-firefox } 56.0.1 або навейшай версіі, ваш камп'ютар можа не адпавядаць патрабаванню па мінімальнай памяці для 64-разраднага (3 ГБ аператыўнай памяці і больш). Але вы можаце ўручную ўсталяваць 64-разрадны { -brand-name-firefox }, калі хочаце.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Калі вам трэба запусціць 32-разрадны { -brand-name-firefox } або ўручную ўсталяваць 64-разрадны { -brand-name-firefox }, вы можаце проста сцягнуць і перазапусціць усталявальнік { -brand-name-firefox } для { -brand-name-windows } (32-разраднай або 64-разраднай) з <a href="{ $all }">старонкі сцягвання { -brand-name-firefox } для іншых платформаў і моў.</a>
 windows-64-bit-take-control-of-your = Вазьміце свой браўзер пад кантроль.

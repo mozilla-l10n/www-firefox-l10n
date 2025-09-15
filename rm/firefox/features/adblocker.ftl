@@ -28,7 +28,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> è in’autra buna tscherna che na blochescha betg mo reclamas, ma porscha era anc pussaivladads per evitar il fastizar.
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Questas extensiuns funcziunan perfectamain sin <a { $attrs1 }>{ -brand-name-firefox } per computers desktop</a> e per apparats mobils <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Creescha ina zona libra da fastizaders cun la bloccada da cuntegn
 # Variables:

@@ -28,7 +28,7 @@ features-adblocker-adguard-adblocker-blunts = Το <a { $attrs1 }>AdGuard AdBloc
 features-adblocker-ghostery-is-another-great = Το <a { $attrs }>Ghostery</a> είναι άλλη μια εξαιρετική επιλογή που δεν αποκλείει μόνο τις διαφημίσεις, αλλά παρέχει και πρόσθετα οφέλη κατά της καταγραφής.
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Αυτές οι επεκτάσεις λειτουργούν άψογα τόσο στο <a { $attrs1 }>{ -brand-name-firefox } για υπολογιστές</a> όσο και στο <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Απαλλαχθείτε από ιχνηλάτες με τη Φραγή περιεχομένου
 # Variables:

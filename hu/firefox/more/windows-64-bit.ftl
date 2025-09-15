@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = Ha 64 bites { -brand-name-windows }t futtat (<
 windows-64-bit-if-you-see-32-bit-older = Ha a „(32 bites)” címkét látja, és a { -brand-name-firefox } 56.0-s vagy régebbi verzióját futtatja, akkor a legfrissebb { -brand-name-firefox } verzióra frissítés automatikusan 64 bites verzióra váltást eredményez.
 windows-64-bit-if-you-see-32-bit-newer = Ha a „(32 bites)” címkét látja, és a { -brand-name-firefox } 56.0.1-es vagy újabb verzióját futtatja, akkor lehet, hogy a számítógépe nem felel meg a 64 bites verzió minimális memóriakövetelményének (3 GB vagy több memória). Természetesen ha úgy dönt, kézzel is telepítheti a 64 bites { -brand-name-firefox(case: "accusative") }.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Ha 32 bites { -brand-name-firefox(case: "accusative") } kell futtatnia, vagy kézzel telepíti a 64 bites { -brand-name-firefox(case: "accusative") }, akkor egyszerűen töltse le és futtassa a { -brand-name-windows(cap: "lower") }os (32 bites vagy 64 bites) { -brand-name-firefox } telepítőt az <a href="{ $all }">{ -brand-name-firefox } platformok és nyelvek letöltési oldalról.</a>
 windows-64-bit-take-control-of-your = Vegye át a böngészője irányítását.
 windows-64-bit-download-firefox = A { -brand-name-firefox } letöltése 64 bites Windowsra

@@ -28,7 +28,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> është një tjetër zgjedhje e fuqishme që jo vetëm bllokon reklama, por jep përfitime shtesë anti-gjurmim.
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Këto shtesa funksionojnë paq si në <a { $attrs1 }>{ -brand-name-firefox } për desktop</a>, ashtu edhe <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Krijoni një zonë të lirë nga gjurmues, përmes Bllokimi Lënde
 # Variables:

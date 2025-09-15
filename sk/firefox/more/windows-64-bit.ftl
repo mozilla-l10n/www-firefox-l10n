@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = Ak máte 64‑bitovú verziu systému { -brand
 windows-64-bit-if-you-see-32-bit-older = Ak vidíte „(32‑bitová verzia)“ a používate { -brand-name-firefox } 56.0 alebo starší, pri aktualizácii na najnovšiu verziu súčasne prejdete na 64‑bitovú verziu { -brand-name-firefox(case: "gen") }.
 windows-64-bit-if-you-see-32-bit-newer = Ak vidíte „(32‑bitová verzia)“ a používate { -brand-name-firefox } 56.0.1 alebo novší, váš počítač zrejme nespĺňa minimálne pamäťové požiadavky pre 64‑bitovú verziu (3 GB RAM a viac). Stále si však môžete 64‑bitový { -brand-name-firefox } nainštalovať ručne.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Ak potrebujete 32‑bitový { -brand-name-firefox } alebo si chcete ručne nainštalovať 64‑bitový { -brand-name-firefox }, stiahnite si a spustite inštalátor { -brand-name-firefox(case: "gen") } v požadovanej verzii (32‑bitový alebo 64‑bitový) pre { -brand-name-windows }. Získať ho môžete na <a href="{ $all }">tejto stránke</a>.
 windows-64-bit-take-control-of-your = Prevezmite kontrolu nad svojim prehliadačom
 windows-64-bit-download-firefox = Stiahnite si { -brand-name-firefox } pre Windows, 64‑bitová verzia

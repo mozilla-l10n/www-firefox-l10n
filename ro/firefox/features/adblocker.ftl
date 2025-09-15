@@ -28,7 +28,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> este o altă opțiune excelentă care nu numai că blochează reclame, dar oferă și beneficii suplimentare antiurmărire.
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Aceste extensii funcționează perfect atât pe <a { $attrs1 }>{ -brand-name-firefox } pentru desktop</a>, cât și pe <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Creează o zonă fără elemente de urmărire cu ajutorul blocării de conținut
 # Variables:

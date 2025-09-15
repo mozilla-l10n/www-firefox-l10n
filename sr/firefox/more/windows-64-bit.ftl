@@ -28,6 +28,6 @@ windows-64-bit-if-youre-running = Ако имате 64-битни { -brand-name-
 windows-64-bit-if-you-see-32-bit-older = Ако угледате “(32-битна)” и ако користите { -brand-name-firefox } 56.0 или старију верзију, ажурирање на најновију верзију би требало { -brand-name-firefox } аутоматски надоградити на 64-битни.
 windows-64-bit-if-you-see-32-bit-newer = Ако угледате “(32-битна)” и ако користите { -brand-name-firefox } 56.0.1 или новију верзију, онда ваш рачунар можда не задовољава минималним потребама 64-битне верзије (3 GB RAM-а или више). И даље можете ручно инсталирати 64-битни { -brand-name-firefox }, ако желите.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Ако морате да покренете 32-битни или ручно инсталирате 64-битни { -brand-name-firefox }, можете једноставно да преузмете и поново покренете (32-битну или 64-битну) { -brand-name-firefox } инсталацију за { -brand-name-windows } са <a href="{ $all }">странице за преузимање { -brand-name-firefox } платформи и језика.</a>
 windows-64-bit-take-control-of-your = Преузмите контролу над вашим прегледачем.

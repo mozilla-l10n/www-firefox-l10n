@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/firefox/features/
+### URL: https://www-dev.springfield.moz.works/features/
 
 # HTML page title
 features-index-firefox-browser-features = Функции браузера { -brand-name-firefox }

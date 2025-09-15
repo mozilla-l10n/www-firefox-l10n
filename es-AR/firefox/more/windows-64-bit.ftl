@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = Si estás ejecutando { -brand-name-windows } d
 windows-64-bit-if-you-see-32-bit-older = Si ves “(32 bits)” y estás ejecutando { -brand-name-firefox } 56.0 o anterior, la actualización a la última versión de { -brand-name-firefox } debería actualizarte automáticamente a 64 bits.
 windows-64-bit-if-you-see-32-bit-newer = Si ves “(32 bits)” y estás ejecutando { -brand-name-firefox } 56.0.1 o posterior, es posible que tu computadora no cumpla con los requisitos mínimos de memoria para 64 bits (3 GB de RAM o más). Todavía podés instalar manualmente { -brand-name-firefox } de 64 bits si querés.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Si necesitás ejecutar { -brand-name-firefox } de 32 bits o instalar manualmente { -brand-name-firefox } de 64 bits, simplemente podés descargar y volver a ejecutar el instalador de { -brand-name-firefox } de { -brand-name-windows } (32 bits o 64 bits) desde la <a href="{ $all }">página de descargas de plataformas e idiomas de { -brand-name-firefox }.</a>
 windows-64-bit-take-control-of-your = Tomá el control de tu navegador.
 windows-64-bit-download-firefox = Descargar { -brand-name-firefox } para Windows de 64 bits

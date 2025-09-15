@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/desktop
+### URL: https://www-dev.springfield.moz.works/browsers/desktop/
 
 firefox-browsers-desktop = Для камп'ютара
 firefox-browsers-seriously-private-browsing = Сур'ёзна прыватнае агляданне. { -brand-name-firefox } аўтаматычна блакуе 2000+ сеціўных трэкераў ад збору інфармацыі аб тым, чым вы займаецеся ў Інтэрнэце.

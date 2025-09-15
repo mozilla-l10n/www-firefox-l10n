@@ -28,7 +28,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> 是另一套不只能封鎖廣告，還提供反追蹤功能的好選項。
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = 這些擴充套件在 <a { $attrs1 }>{ -brand-name-firefox } 桌面版</a>與 <a { $attrs2 }>Android</a> 都能完整使用。
 features-adblocker-create-a-tracker-free = 使用內容封鎖功能，建立無追蹤器的區域
 # Variables:

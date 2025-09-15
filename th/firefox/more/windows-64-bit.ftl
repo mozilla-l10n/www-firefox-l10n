@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = ถ้าคุณกำลังใช้ { -
 windows-64-bit-if-you-see-32-bit-older = ถ้าคุณเห็นคำว่า “(32 บิต)” และคุณกำลังใช้ { -brand-name-firefox } 56.0 ลงมา การอัปเดตเป็น { -brand-name-firefox } รุ่นล่าสุดควรอัปเกรดเป็นรุ่น 64 บิตให้คุณโดยอัตโนมัติ
 windows-64-bit-if-you-see-32-bit-newer = ถ้าคุณเห็นคำว่า “(32 บิต)” และกำลังใช้ { -brand-name-firefox } 56.0.1 ขึ้นไป แสดงว่าคอมพิวเตอร์ของคุณอาจไม่ตรงตามข้อกำหนดหน่วยความจำขั้นต่ำสำหรับ 64 บิต (RAM 3 GB ขึ้นไป) คุณยังสามารถติดตั้ง { -brand-name-firefox } 64 บิตได้ด้วยตนเองถ้าคุณเลือก
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = หากคุณต้องการเรียกใช้ { -brand-name-firefox } แบบ 32 บิตหรือติดตั้ง { -brand-name-firefox } แบบ 64 บิตด้วยตนเองคุณสามารถดาวน์โหลดและรันตัวติดตั้ง { -brand-name-firefox } บน { -brand-name-windows } (32 -bit หรือ 64-bit)  จาก<a href="{ $all }">หน้าดาวน์โหลดแพลตฟอร์มและภาษาของ { -brand-name-firefox } </a>
 windows-64-bit-take-control-of-your = เข้าควบคุมเบราว์เซอร์ของคุณ
 windows-64-bit-download-firefox = ดาวน์โหลด { -brand-name-firefox } สำหรับ Windows 64 บิต

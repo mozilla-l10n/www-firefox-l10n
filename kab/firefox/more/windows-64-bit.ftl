@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = Ma tesselkameḍ { -brand-name-windows } 64-ib
 windows-64-bit-if-you-see-32-bit-older = Ma twalaḍ "(32-bit)" ticki tesselkameḍ { -brand-name-firefox } 56.0 neɣ aqbur, asader n lqem aneggaru n { -brand-name-firefox } ad k-yessali s wudem awurman ɣer 64-ibiten.
 windows-64-bit-if-you-see-32-bit-newer = Ma yella twalaḍ "(32-bit)", kečč tselkameḍ { -brand-name-firefox } 56.0.1 neɣ lqem akk amaynut, ihi yezmer aselkim-inek·inem ur yessawaḍ ara ad yeččar takatut taddayt i ilaqen i 64-ibiten (3 GB n RAM neɣ ugar). Tzemreḍ ad tesbeddeḍ s ufus { -brand-name-firefox } 64-ibiten { -brand-name-firefox }, ma tebɣiḍ.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Ma teḥwaǧeḍ ad teslekmeḍ { -brand-name-firefox } 32-bit neɣ ad tesbeddeḍ s ufus { -brand-name-firefox } 64-bit, tzemreḍ ad dd-tesidreḍ kan syen ad tεiwdeḍ asenkar n ugbur n usbeddi n { -brand-name-firefox } i { -brand-name-windows } (32-bit neɣ 64-bit) seg usebter <a href="{ $all }">n usali n tilɣubliḍin d tutlayin n { -brand-name-firefox }. </a>
 windows-64-bit-take-control-of-your = Ṭṭef iminig-ik gar ifassen-ik.
 windows-64-bit-download-firefox = Sader { -brand-name-firefox } i Windows 64-yibiten

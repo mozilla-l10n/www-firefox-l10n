@@ -28,6 +28,6 @@ features-adblocker-adguard-adblocker-blunts = ‏<a { $attrs1 }>AdGuard AdBlocke
 features-adblocker-ghostery-is-another-great = ‏<a { $attrs }>Ghostery</a> היא אפשרות נהדרת נוספת שלא רק חוסמת פרסומות אלא גם מספקת יתרונות נוספים נגד רכיבי מעקב.
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = הרחבות אלו פועלות בצורה נהדרת גם על <a { $attrs1 }>{ -brand-name-firefox } למחשבים שולחניים</a> וגם על <a { $attrs2 }>Android</a>.
 features-adblocker-choose-your-level-of-protection = בחרו את רמת ההגנה שלכם

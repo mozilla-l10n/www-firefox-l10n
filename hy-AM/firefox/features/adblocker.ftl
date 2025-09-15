@@ -28,7 +28,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a>-ը ևս մեկ հիանալի ընտրություն է, որը ոչ միայն արգելափակում է գովազդները, այլև ապահովում է լրացուցիչ հակահետևողական առավելություններ։
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Այս ընդլայնումները հիանալի աշխատում են թե՛ <a { $attrs1 }>{ -brand-name-firefox } for desktop</a>, թե՛ <a { $attrs2 }>Android</a>-ի վրա։
 features-adblocker-create-a-tracker-free = Ստեղծեք հետագծիչներից զերծ գոտի՝ բովանդակության արգելափակման միջոցով
 # Variables:

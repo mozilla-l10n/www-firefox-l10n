@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/firefox/features/
+### URL: https://www-dev.springfield.moz.works/features/
 
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } је све бржи и бржи
 features-index-is-firefox-a-private-browser = Је ли { -brand-name-firefox } приватан прегледач?

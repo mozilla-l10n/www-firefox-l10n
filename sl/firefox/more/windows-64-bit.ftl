@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = Če uporabljate 64-bitni { -brand-name-windows
 windows-64-bit-if-you-see-32-bit-older = Če vidite »(32-bitni)« in uporabljate { -brand-name-firefox } 56.0 ali starejšega, bi vam posodobitev { -brand-name-firefox }a morala samodejno priskrbeti 64-bitno različico.
 windows-64-bit-if-you-see-32-bit-newer = Če vidite »(32-bitni)« in uporabljate { -brand-name-firefox } 56.0.1 ali novejši, morda vaš računalnik ne izpolnjuje zahtev 64-bitne različice glede pomnilnika (najmanj 3 GB pomnilnika RAM). Če želite, lahko 64-bitni { -brand-name-firefox } vseeno namestite ročno.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Če želite ročno namestiti 32-bitno ali 64-bitno različico { -brand-name-firefox }a, lahko preprosto prenesete in znova zaženete namestitveni program za { -brand-name-windows } (32-bitni ali 64-bitni) s <a href="{ $all }">strani za sisteme in jezike</a>.
 windows-64-bit-take-control-of-your = Prevzemite nadzor nad svojim brskalnikom.
 windows-64-bit-download-firefox = Prenesi { -brand-name-firefox } za 64-bitni Windows

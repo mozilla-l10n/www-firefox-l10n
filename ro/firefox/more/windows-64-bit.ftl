@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = Dacă utilizezi { -brand-name-windows } pe 64 
 windows-64-bit-if-you-see-32-bit-older = Dacă vezi „(32 de biți)” și folosești { -brand-name-firefox } 56.0 sau o versiune mai veche, actualizarea la cea mai recentă versiune { -brand-name-firefox } ar trebui să realizeze o actualizare automată pe 64 de biți.
 windows-64-bit-if-you-see-32-bit-newer = Dacă vezi „(32 de biți)” și folosești { -brand-name-firefox } 56.0.1 sau o versiune mai nouă, atunci calculatorul se poate să nu întrunească cerința minimă de memorie pentru 64 de biți (3 GB RAM sau mai mult). Poți instala manual { -brand-name-firefox } pe 64 de biți, dacă asta alegi.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Dacă trebuie să rulezi { -brand-name-firefox } pe 32 de biți sau să instalezi manual { -brand-name-firefox } pe 64 de biți, poți pur și simplu să descarci și să rulezi din nou programul de instalare { -brand-name-firefox } pentru { -brand-name-windows } (pe 32 de biți sau pe 64 de biți) de pe <a href="{ $all }">platformele { -brand-name-firefox } și pagina de descărcare a limbilor.</a>
 windows-64-bit-take-control-of-your = Preia controlul asupra browserului.
 windows-64-bit-download-firefox = Descarcă { -brand-name-firefox } pentru Windows pe 64 de biți

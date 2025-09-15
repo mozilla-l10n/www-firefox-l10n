@@ -16,7 +16,7 @@ features-adblocker-there-are-scores-of-content = Воситаҳои зиёде �
 features-adblocker-ghostery-is-another-great = <a { $attrs }>«Ghostery»</a> боз як интихоби беҳтарин аст, ки на танҳо таблиғу рекламаро манъ мекунад, балки имтиёзҳои иловагиро барои муҳофизат аз ҳар гуна васоити пайгирӣ фароҳам меорад.
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Ин васеъшавиҳо ҳам дар <a { $attrs1 }>браузери «{ -brand-name-firefox }» барои мизи корӣ</a> ва ҳам дар <a { $attrs2 }>браузер барои «Android»</a> хуб кор мекунанд.
 features-adblocker-create-a-tracker-free = Ба воситаи абзори «Манъкунии муҳтаво» фазои озодро бе ягон восоити пайгирӣ эҷод намоед
 features-adblocker-choose-your-level-of-protection = Сатҳи муҳофизати худро интихоб кунед

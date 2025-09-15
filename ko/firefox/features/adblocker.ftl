@@ -28,7 +28,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> 역시 좋은 선택지로, 광고를 차단할 뿐만 아니라 추적 방지 기능까지 추가로 제공합니다.
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = 이 확장 기능들은 <a { $attrs1 }>데스크톱용 { -brand-name-firefox }</a>와 <a { $attrs2 }>Android</a> 에서 모두 잘 작동합니다.
 features-adblocker-create-a-tracker-free = 콘텐츠 차단으로 추적기 없는 환경을 만들어보세요
 # Variables:

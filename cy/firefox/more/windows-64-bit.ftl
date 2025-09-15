@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = Os ydych chi'n rhedeg { -brand-name-windows } 
 windows-64-bit-if-you-see-32-bit-older = Os ydych chi'n gweld “(32-did)” a'ch bod chi'n rhedeg { -brand-name-firefox } 56.0 neu'n hŷn, bydd diweddaru i'r fersiwn { -brand-name-firefox } ddiweddaraf eich uwchraddio i 64-did yn awtomatig.
 windows-64-bit-if-you-see-32-bit-newer = Os ydych chi'n gweld “(32-did)” ac yn rhedeg { -brand-name-firefox } 56.0.1 neu'n ddiweddarach, yna efallai na fydd eich cyfrifiadur yn cwrdd â'r gofyniad cof lleiaf ar gyfer 64-did (3 GB RAM neu fwy). Gallwch barhau i osod { -brand-name-firefox } 64-did â llaw, os hoffech chi.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Os oes angen i chi redeg { -brand-name-firefox } 32-did neu osod { -brand-name-firefox } 64-did â llaw, gallwch lwytho i lawr ac ail-redeg gosodwr { -brand-name-firefox } { -brand-name-windows } (32-did neu 64-did) o'r <a href="{ $all }">Dudalen llwytho i lawr llwyfannau ac ieithoedd { -brand-name-firefox }.</a>
 windows-64-bit-take-control-of-your = Cymerwch reolaeth o'ch porwr.
 windows-64-bit-download-firefox = Llwythwch i lawr { -brand-name-firefox } ar gyfer Windows 64-did

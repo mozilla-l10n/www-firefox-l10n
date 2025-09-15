@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = Pokud máte 64bitovou verzi { -brand-name-wind
 windows-64-bit-if-you-see-32-bit-older = Pokud vidíte "(32-bit)" a používáte { -brand-name-firefox(case: "acc") } 56.0 nebo starší, při aktualizaci na nejnovější verzi získáte současně i 64bitovou verzi { -brand-name-firefox(case: "gen") }.
 windows-64-bit-if-you-see-32-bit-newer = Pokud vidíte "(32-bit)" a používáte { -brand-name-firefox(case: "acc") } 56.0.1 nebo novější, váš počítač má pravděpodobně málo paměti (méně než 3 GB). Stále si ale můžete 64bitový { -brand-name-firefox(case: "acc") } nainstalovat ručně.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Pokud potřebujete 32bitový { -brand-name-firefox(case: "acc") } nebo si chcete ručně nainstalovat 64bitový, stáhněte si a spusťte instalátor { -brand-name-firefox(case: "gen") } v požadované verzi (32 nebo 64bitový) pro { -brand-name-windows(case: "acc") }. Získat ho můžete na <a href="{ $all }">této stránce</a>.
 windows-64-bit-take-control-of-your = Převezměte kontrolu nad svým prohlížečem.
 windows-64-bit-download-firefox = Stáhnout { -brand-name-firefox } pro Windows 64-bit

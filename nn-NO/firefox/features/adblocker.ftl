@@ -28,7 +28,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> er eit anna godt val som ikkje berre blokkerer annonsar, men gir òg fleire fordelar mot sporing.
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Desse utvidingane fungerer framifrå på både <a { $attrs1 }>{ -brand-name-firefox } for skrivebord</a> og <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Lag ei sporingsfri sone med innhaldsblokkering
 # Variables:

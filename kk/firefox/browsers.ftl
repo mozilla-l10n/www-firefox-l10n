@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/desktop
+### URL: https://www-dev.springfield.moz.works/browsers/desktop/
 
 firefox-browsers-desktop = Дербес компьютер
 firefox-browsers-seriously-private-browsing = Шынайы жекелік шолу. { -brand-name-firefox } сіздің желідегі белсенділігіңізді бақылайтын 2000-нан астам желілік трекерлерді автоматты түрде бұғаттайды.

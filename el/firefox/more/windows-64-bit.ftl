@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = Αν χρησιμοποιείτε { -brand-nam
 windows-64-bit-if-you-see-32-bit-older = Αν βλέπετε «(32-bit)» και χρησιμοποιείτε το { -brand-name-firefox } 56.0 ή παλαιότερο, θα γίνει αυτόματη αναβάθμιση στην έκδοση 64-bit κάνοντας ενημέρωση στην πιο πρόσφατη έκδοση του { -brand-name-firefox }.
 windows-64-bit-if-you-see-32-bit-newer = Αν βλέπετε «(32-bit)» και χρησιμοποιείτε το { -brand-name-firefox } 56.0.1 ή νεότερο, τότε ο υπολογιστής σας ενδέχεται να μην πληροί την ελάχιστη απαίτηση μνήμης για 64-bit (3 GB RAM ή περισσότερα). Μπορείτε να κάνετε χειροκίνητα εγκατάσταση του { -brand-name-firefox } 64-bit, αν το επιθυμείτε.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Αν πρέπει να χρησιμοποιήσετε το { -brand-name-firefox } 32-bit ή να εγκαταστήσετε χειροκίνητα το { -brand-name-firefox } 64-bit, μπορείτε απλά να κάνετε λήψη και εκτέλεση του προγράμματος εγκατάστασης του { -brand-name-firefox } (32-bit ή 64-bit) για { -brand-name-windows } από τη <a href="{ $all }">σελίδα λήψης του { -brand-name-firefox } για άλλες πλατφόρμες και γλώσσες.</a>
 windows-64-bit-take-control-of-your = Πάρτε τον έλεγχο του προγράμματος περιήγησής σας.
 windows-64-bit-download-firefox = Λήψη του { -brand-name-firefox } για Windows 64-bit

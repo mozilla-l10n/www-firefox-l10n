@@ -28,7 +28,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> es un altere grande selection que non solo bloca annuncios publicitari, ma offere beneficios additional anti-traciamento.
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Iste extensiones laborar magnificamente sur ambe <a { $attrs1 }>{ -brand-name-firefox } pro scriptorio</a> e <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Crea un zona libere de traciatores con Blocage de contento
 # Variables:

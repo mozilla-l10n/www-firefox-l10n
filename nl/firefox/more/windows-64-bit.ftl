@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = Als u 64-bits { -brand-name-windows } gebruikt
 windows-64-bit-if-you-see-32-bit-older = Als u ‘(32-bits)’ ziet en u gebruikt { -brand-name-firefox } 56.0 of ouder, dan zou bijwerken naar de nieuwste versie van { -brand-name-firefox } u automatisch moeten upgraden naar 64-bits.
 windows-64-bit-if-you-see-32-bit-newer = Als u ‘(32-bits)’ ziet en { -brand-name-firefox } 56.0.1 of nieuwer gebruikt, dan voldoet uw computer mogelijk niet aan de minimale geheugenvereiste voor 64-bits (3 GB RAM of meer). U kunt 64-bits { -brand-name-firefox } desgewenst nog steeds handmatig installeren.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Als u 32-bits { -brand-name-firefox } moet uitvoeren of 64-bits { -brand-name-firefox } handmatig moet installeren, dan kunt u eenvoudig het { -brand-name-windows } (32-bits of 64-bits) { -brand-name-firefox }-installatieprogramma downloaden en opnieuw uitvoeren vanuit de <a href="{ $all }">{ -brand-name-firefox }-downloadpagina voor platforms en talen.</a>
 windows-64-bit-take-control-of-your = Neem de controle over uw browser.
 windows-64-bit-download-firefox = Download { -brand-name-firefox } voor Windows 64-bits

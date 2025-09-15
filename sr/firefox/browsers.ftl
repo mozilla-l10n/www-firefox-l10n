@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/desktop
+### URL: https://www-dev.springfield.moz.works/browsers/desktop/
 
 firefox-browsers-desktop = Рачунар
 firefox-browsers-seriously-private-browsing = Озбиљно приватно прегледање. { -brand-name-firefox } аутоматски блокира преко 2000 елемената за праћење од прикупљања података о томе шта радите на вебу.

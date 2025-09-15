@@ -28,7 +28,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> კიდევ ერთი შესანიშნავი არჩევანია, რომელსაც არა მხოლოდ რეკლამების შეზღუდვა შეუძლია, არამედ დამატებით ახლავს თვალთვალისგან დაცვის შესაძლებლობებიც.
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = აღნიშნული გაფართოებები მშვენივრად მუშაობს როგორც <a { $attrs1 }>კომპიუტერის { -brand-name-firefox }-ზე</a>, ასევე <a { $attrs2 }>Android-ზე</a>.
 features-adblocker-create-a-tracker-free = შექმენით მეთვალყურეებისგან თავისუფალი სივრცე შიგთავსის შეზღუდვით
 # Variables:

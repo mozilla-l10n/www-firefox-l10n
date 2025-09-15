@@ -28,7 +28,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> ເປັນທາງເລືອກທີ່ດີອີກອັນໜຶ່ງທີ່ບໍ່ພຽງແຕ່ບລັອກໂຄສະນາເທົ່ານັ້ນ ແຕ່ໃຫ້ຜົນປະໂຫຍດເພີ່ມເຕີມຕໍ່ກັບການຕິດຕາມ.
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = ສ່ວນຂະຫຍາຍເຫຼົ່ານີ້ໃຊ້ໄດ້ຢ່າງສວຍງາມໃນທັງ <a { $attrs1 }>{ -brand-name-firefox } ສໍາລັບເດັສທັອບ</a> ແລະ <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = ສ້າງເຂດທີ່ບໍ່ມີຕົວຕິດຕາມດ້ວຍການບລັອກເນື້ອຫາ
 # Variables:

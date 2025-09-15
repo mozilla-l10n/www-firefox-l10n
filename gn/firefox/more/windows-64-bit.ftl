@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = Eiporuramohína { -brand-name-windows } 64 bit
 windows-64-bit-if-you-see-32-bit-older = Ehecháramo “(32-bit)” ha emohembiapórõ { -brand-name-firefox } 56.0 térã itujavéva, ñembohekopyahu { -brand-name-firefox } ipyahuvévape hekopyhuva’erã ijehegui 64 bits-pe.
 windows-64-bit-if-you-see-32-bit-newer = Ehecháramo “(32-bit)” ha emohembiapórõ { -brand-name-firefox } 56.0.1 térã upeigua, ikatu ne mohendaha ndorekói mandu’arenda 64-bits (3 GB de RAM peg̃uarã térã hetave). Eipotáramo, ikatu emohenda nde pópe { -brand-name-firefox } 64-bits orekóva.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Emohembiapótarõ { -brand-name-firefox } 32-bits térã emohendávo nde pópe { -brand-name-firefox } 64-bits, ikatúnte emboguejy ha emohembiapojey pe { -brand-name-firefox } { -brand-name-windows } (32-bits térã 64-bits) peg̃uarã mohendaha guive <a href="{ $all }">{ -brand-name-firefox } kuatiarogue mboguejyha opaite jehechaukaha ha ñe’ẽ.</a>
 windows-64-bit-take-control-of-your = Eñangareko ne kundahárare.
 windows-64-bit-download-firefox = Emboguejy { -brand-name-firefox } Windows 64-bit peg̃uarã

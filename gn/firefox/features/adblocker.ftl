@@ -21,7 +21,7 @@ features-adblocker-there-are-scores-of-content = Oĩ hetaiterei tetepy jokoha, h
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> ha’e ambue ndaha’éi ojokokuaáva marandu ñemurã año katu ome’ẽkuaa iporãva jehapukueho rovake.
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Ko’ã jepysokue oiko porã taha’e <a { $attrs1 }>{ -brand-name-firefox } mesa arigua</a> avei <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Emoheñói tenda ijehapykuehokuaa’ỹva tetepy jokoha ndive
 # Variables:

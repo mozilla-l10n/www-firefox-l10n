@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = جے 64 بٹ { -brand-name-windows } (<a href=
 windows-64-bit-if-you-see-32-bit-older = جے تہاکوں "(32-bit)" نظر آندا ہے تے تساں { -brand-name-firefox } 56.0 یا ایں کنوں زیادہ پراݨا چلیندے پئے او، تاں نویں نکور { -brand-name-firefox } ورژن کوں اپ ڈیٹ کرݨ نال تہاکوں آپوں ڄاݨ 64-bit وِچ اپ گریڈ کرݨا چاہیدا ہے۔
 windows-64-bit-if-you-see-32-bit-newer = جے تساں "(32-bit)" ݙیکھدے او تے { -brand-name-firefox } 56.0.1 یا جدید چلیندے پئے او، تاں تھی سڳدا ہے تہاݙا کمپیوٹر 64-bit (3 GB RAM یا ایں کنوں زیادہ) کیتے میموری دی کم از کم ضرورت کو پورا نہ کرے۔ جے تساں منتخب کرو تاں تساں ہݨ وی 64 بٹ { -brand-name-firefox } کوں دستی طور تے انسٹال کر سڳدے او۔
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = جے تہاکوں 32-bit { -brand-name-firefox } چلاوݨ دی ضرورت ہے یا 64-bit { -brand-name-firefox } کوں دستی طور تے انسٹال کرݨا ہے، تاں تساں آسانی نال { -brand-name-windows } (32) کوں ڈاؤن لوڈ تے دوبارہ چلا سڳدے او۔ -bit یا 64-bit) { -brand-name-firefox } انسٹالر <a href="{ $all }">{ -brand-name-firefox } پلیٹ فارمز تے زباناں دے ڈاؤن لوڈ ورقے کنوں۔</a>
 windows-64-bit-take-control-of-your = آپݨے براؤزر دا کنٹرول گھنو۔
 windows-64-bit-download-firefox = 64- بٹ ونڈو کیتے { -brand-name-firefox } ڈاؤن لوڈ کرو

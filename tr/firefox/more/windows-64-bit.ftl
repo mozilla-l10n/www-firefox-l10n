@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = 64 bit { -brand-name-windows } kullanıyorsan�
 windows-64-bit-if-you-see-32-bit-older = “(32 bit)” yazıyorsa ve { -brand-name-firefox } 56.0 veya daha eski bir sürümü kullanıyorsanız { -brand-name-firefox }’un son sürümüne güncelleme yaptığınızda otomatik olarak 64 bite geçersiniz.
 windows-64-bit-if-you-see-32-bit-newer = “(32 bit)” yazıyorsa ve { -brand-name-firefox } 56.0.1 veya daha yeni bir sürümü kullanıyorsanız bilgisayarınız 64 bit için gereken minimum belleğe (3 GB veya daha fazla RAM) sahip olmayabilir. Yine de isterseniz 64 bit { -brand-name-firefox }’u elle indirip kurabilirsiniz.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = 32 bit { -brand-name-firefox } kullanmak veya 64 bit { -brand-name-firefox }’u elle yüklemek istiyorsanız istediğiniz { -brand-name-firefox } { -brand-name-windows } yükleyicisini (32 bit veya 64 bit) <a href="{ $all }">{ -brand-name-firefox } platformları ve dilleri için indirme sayfasından</a> indirip çalıştırmanız yeterli.
 windows-64-bit-take-control-of-your = Tarayıcınızın kontrolünü elinize alın.
 windows-64-bit-download-firefox = Windows 64 bit için { -brand-name-firefox }’u indir

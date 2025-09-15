@@ -28,7 +28,7 @@ features-adblocker-adguard-adblocker-blunts = Mae <a { $attrs1 }>AdGuard AdBlock
 features-adblocker-ghostery-is-another-great = Mae <a { $attrs }>Ghostery</a> yn ddewis gwych arall sydd nid yn unig yn rhwystro hysbysebion ond hefyd yn darparu buddion gwrth-dracio ychwanegol.
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Mae'r estyniadau hyn yn gweithio'n wych ar <a { $attrs1 }>{ -brand-name-firefox } ar gyfer y bwrdd gwaith</a> ac <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Creu parth dim tracio gyda Rhwystro Cynnwys
 # Variables:

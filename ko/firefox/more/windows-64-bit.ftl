@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = 64비트 { -brand-name-windows }를 실행하�
 windows-64-bit-if-you-see-32-bit-older = “(32비트)” 표기가 있고 { -brand-name-firefox } 버전 56.0 이하를 사용하고 계시다면, 최신 { -brand-name-firefox } 버전으로 업데이트할 때 자동으로 64비트 버전으로 업그레이드됩니다.
 windows-64-bit-if-you-see-32-bit-newer = “(32비트)” 표기가 있고 { -brand-name-firefox } 버전 56.0.1 이상을 사용하고 계시다면, 컴퓨터가 64비트의 최소 메모리 요구사항인 3GB 이상의 RAM을 충족하지 못한 것입니다. 원하는 경우 여전히 수동으로 64비트 { -brand-name-firefox }를 설치할 수 있습니다.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = 32비트 { -brand-name-firefox }를 실행하거나 64비트 { -brand-name-firefox }를 수동으로 설치해야 하는 경우 <a href="{ $all }">{ -brand-name-firefox } 플랫폼 및 언어 다운로드 페이지</a>에서 { -brand-name-windows }(32비트 또는 64비트) { -brand-name-firefox } 설치 프로그램을 간단히 다운로드하고 재실행할 수 있습니다.
 windows-64-bit-take-control-of-your = 브라우저를 제어하세요.
 windows-64-bit-download-firefox = Windows 64비트용 { -brand-name-firefox } 다운로드

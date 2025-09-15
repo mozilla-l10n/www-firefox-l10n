@@ -28,7 +28,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> je druha wulkotna wólba, kotraž nic jenož wabjenje blokuje, ale přidatne lěpšiny přećiwo přesćěhowanju skići.
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Tute rozšěrjenja na <a { $attrs1 }>{ -brand-name-firefox } za desktop</a> kaž tež <a { $attrs2 }>Android</a> wulkotnje funguja.
 features-adblocker-create-a-tracker-free = Wutworće conu bjez přesćěhowaka z blokowanjom wobsaha
 # Variables:

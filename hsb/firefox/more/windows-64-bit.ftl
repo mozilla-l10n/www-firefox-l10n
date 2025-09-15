@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = Jeli 64-bitowy { -brand-name-windows } wužiwa
 windows-64-bit-if-you-see-32-bit-older = Jeli tam „(32-bitowy)“ steji a { -brand-name-firefox } 56.0 abo starši wužiwaće, dóstanjeće při aktualizowanju na najnowšu wersiju { -brand-name-firefox } awtomatisce 64-bitowu wersiju.
 windows-64-bit-if-you-see-32-bit-newer = Jeli tam „(32-bitowy)“ steji a { -brand-name-firefox } 56.0.1 abo nowši wužiwaće, waš ličak snano minimalnemu składowemu žadanju za 64-bitowu wersiju njewotpowěduje (3 GB RAM abo wjace). Móžeće potom hišće 64-bitowy { -brand-name-firefox } manuelnje instalować.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Jeli dyrbiće 32-bitowy { -brand-name-firefox } wužiwać abo 64-bitowy { -brand-name-firefox } manuelnje instalować, móžeće prosće instalowanski program { -brand-name-firefox } za { -brand-name-windows } (32-bitowy abo 64-bitowy) wot <a href="{ $all }">sćehnjenskeje strony za platformy { -brand-name-firefox } a rěče</a> sćahnyć a znowa wuwjesć.
 windows-64-bit-take-control-of-your = Přewzmiće kontrolu nad swojim wobhladowakom.
 windows-64-bit-download-firefox = { -brand-name-firefox } za 64-bitowy Windows sćahnyć

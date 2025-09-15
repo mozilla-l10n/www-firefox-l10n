@@ -28,6 +28,6 @@ windows-64-bit-if-youre-running = We nasamajij ri 64-bit { -brand-name-windows }
 windows-64-bit-if-you-see-32-bit-older = We natz'ët “(32-bit)” chuqa' nasamajij ri { -brand-name-firefox } 56.0 o jun pa xulan, k'o ta chi pa ruyonil nuk'ëx ri' rik'in ri ruk'isib'äl ruwäch richin ri 64-bit.
 windows-64-bit-if-you-see-32-bit-newer = We natz'ët “(32-bit)” chuqa' nasamajij ri { -brand-name-firefox } 56.0.1 o jun chik pa ruwi', rik'in jub'a' ri akematz'ib' man nrojqan ta ri najowäch pa ruwi' ri rupam rujolom richin ri 64-bit (3 GB RAM o pa ruwi'). K'a tikirel na nayäk ri { -brand-name-firefox } richin 64-bit chi q'ab'aj we nawajo'.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = We k'atzinel chawe nasamajij ri { -brand-name-firefox } richin 32-bit o nayäk chi q'ab'aj ri { -brand-name-firefox } richin 64-bit, xa xe taqasaj chuqa' tasamajij ri ruyakb'al { -brand-name-firefox } richin { -brand-name-windows } (32-bit o 64-bit) pa ri <a href="{ $all }">Rutemeb'al { -brand-name-firefox } chuqa' Ruxaq kiqasab'al ch'ab'äl.</a>
 windows-64-bit-take-control-of-your = Tawojqaj ri akanob'al.

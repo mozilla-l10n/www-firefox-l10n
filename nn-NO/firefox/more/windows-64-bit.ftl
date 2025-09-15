@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = Dersom du køyrer 64-bit { -brand-name-windows
 windows-64-bit-if-you-see-32-bit-older = Dersom du ser «(32-bit)» og køyrer { -brand-name-firefox } 56.0 eller eldre, vil oppdatering til den nyaste { -brand-name-firefox }-versjonen automatisk oppgradere deg til 64-bit.
 windows-64-bit-if-you-see-32-bit-newer = Dersom du ser «(32-bit)» og køyrer { -brand-name-firefox } 56.0.1 eller nyare, kan det hende at datamaskina di ikkje oppfyller minstekravet for 64-bit (3 GB RAM eller meir). Du kan framleis installere 64-bit { -brand-name-firefox } manuelt, om du vil.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Dersom du treng å køyre 32-bit { -brand-name-firefox } eller manuelt installere 64-bit { -brand-name-firefox }, kan du ganske enkelt laste ned og køyre { -brand-name-windows } (32-bit eller 64-bit) { -brand-name-firefox }-installasjonsprogram frå <a href="{ $all }">nedlastingssida for { -brand-name-firefox }-plattformer og språk.</a>
 windows-64-bit-take-control-of-your = Ta kontroll over nettlesaren din.
 windows-64-bit-download-firefox = Last ned { -brand-name-firefox } for Windows 64-bit

@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = Jos käytät 64-bittistä { -brand-name-window
 windows-64-bit-if-you-see-32-bit-older = Jos näet tekstin "(32-bittinen)" ja käytössäsi on { -brand-name-firefox } 56.0 tai vanhempi, uusimpaan { -brand-name-firefox }-versioon päivittämisen pitäisi automaattisesti päivittää selaimesi 64-bittiseksi.
 windows-64-bit-if-you-see-32-bit-newer = Jos näet tekstin "(32-bittinen)" ja käytössäsi on { -brand-name-firefox } 56.0.1 tai uudempi, tietokoneesi ei välttämättä täytä 64-bittisen version muistin vähimmäisvaatimusta (kolme gigatavua keskusmuistia tai enemmän). Voit silti asentaa manuaalisesti 64-bittisen { -brand-name-firefox }in, jos haluat.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Jos sinun täytyy käyttää 32-bittistä { -brand-name-firefox }ia tai asentaa manuaalisesti 64-bittinen { -brand-name-firefox }, voit yksinkertaisesti ladata ja suorittaa uudelleen { -brand-name-windows } (32- tai 64-bittinen) { -brand-name-firefox } -asennusohjelman <a href="{ $all }">{ -brand-name-firefox }in alustojen ja kielten lataussivulta.</a>
 windows-64-bit-take-control-of-your = Ota ohjat selaimestasi.
 windows-64-bit-download-firefox = Lataa { -brand-name-firefox } 64-bittiselle Windowsille

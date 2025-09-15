@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = Եթե դուք օգտագործում եք 64
 windows-64-bit-if-you-see-32-bit-older = Եթե տեսնում եք «(32-bit)» և օգտագործում եք { -brand-name-firefox } 56.0 կամ ավելի հին տարբերակ, { -brand-name-firefox }-ի վերջին տարբերակին թարմացնելը պետք է ինքնաշխատ թարմացնի այն մինչև 64-bit:
 windows-64-bit-if-you-see-32-bit-newer = Եթե տեսնում եք «(32-bit)» և օգտագործում եք { -brand-name-firefox } 56.0.1 կամ ավելի նոր տարբերակ, ապա ձեր համակարգիչը կարող է չբավարարել 64-bit տարբերակի համար անհրաժեշտ հիշողության նվազագույն պահանջը (3 ԳԲ RAM կամ ավելի): Դուք դեռ կարող եք ձեռքով տեղադրել 64-bit { -brand-name-firefox } տարբերակը, եթե ցանկանում եք:
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Եթե անհրաժեշտ է գործարկել 32-բիթանոց { -brand-name-firefox } կամ ձեռքով տեղադրել 64-բիթանոց { -brand-name-firefox }, կարող եք պարզապես ներբեռնել և վերագործարկել { -brand-name-windows } (32-բիթ կամ 64-բիթ) { -brand-name-firefox } տեղադրիչը <a href="{ $all }">{ -brand-name-firefox } հարթակների և լեզուների ներբեռնման էջից։</a>
 windows-64-bit-take-control-of-your = Կառավարեք ձեր դիտարկիչը։
 windows-64-bit-download-firefox = Ներբեռնեք { -brand-name-firefox }-ը Windows 64-բիթանոցի համար

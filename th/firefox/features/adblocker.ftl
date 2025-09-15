@@ -28,7 +28,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> เป็นตัวเลือกที่ดีอีกตัวหนึ่งซึ่งไม่เพียงแต่จะบล็อกโฆษณาเท่านั้น แต่ยังมีประโยชน์ในการป้องกันการติดตามเพิ่มเติมอีกด้วย
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = ส่วนขยายเหล่านี้ทำงานได้เป็นอย่างดีกับทั้ง <a { $attrs1 }>{ -brand-name-firefox } สำหรับเดสก์ท็อป</a> และ <a { $attrs2 }>Android</a>
 features-adblocker-create-a-tracker-free = สร้างพื้นที่ปลอดการติดตามด้วยการปิดกั้นเนื้อหา
 # Variables:

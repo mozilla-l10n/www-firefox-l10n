@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = Якщо ви користуєтеся 64-бі
 windows-64-bit-if-you-see-32-bit-older = Якщо ви бачите “(32-біт)” і версія { -brand-name-firefox } 56.0 або старіша, оновлюючи { -brand-name-firefox } ви повинні автоматично отримати 64-бітну версію.
 windows-64-bit-if-you-see-32-bit-newer = Якщо ви бачите “(32-розрядна)” і версія { -brand-name-firefox } 56.0.1 або новіша, ймовірно ваш комп'ютер не відповідає мінімальним вимогам оперативної пам'яті для 64-розрядної версії (3 ГБ або більше). Ви все одно можете вручну встановити 64-розрядну версію { -brand-name-firefox }, якщо захочете.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Якщо вам необхідно користуватися 32-бітною версією { -brand-name-firefox } або вручну встановити 64-бітну версію { -brand-name-firefox }, ви можете просто завантажити і запустити майстер встановлення для { -brand-name-windows } (32-bit чи 64-bit) зі сторінки завантаження <a href="{ $all }">{ -brand-name-firefox } для інших платформ і мов</a>.
 windows-64-bit-take-control-of-your = Контролюйте свій браузер.
 windows-64-bit-download-firefox = Завантажити { -brand-name-firefox } для Windows 64-розрядний

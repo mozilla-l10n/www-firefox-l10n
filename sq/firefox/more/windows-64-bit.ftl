@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = Nëse xhironi { -brand-name-windows } 64-bit (
 windows-64-bit-if-you-see-32-bit-older = Nëse shihni “(32-bit)” dhe xhironi { -brand-name-firefox } 56.0 ose më të vjetër, përditësimi me versionin më të ri të { -brand-name-firefox }-it do të duhej ta përmirësonte automatikisht në 64-bit.
 windows-64-bit-if-you-see-32-bit-newer = Nëse shihni “(32-bit)” dhe xhironi { -brand-name-firefox } 56.0.1 ose më të ri, atëherë kompjuteri juaj mund të mos plotësojë domosdoshmëritë minimum mbi kujtesën për 64-bit (3 GB RAM ose më tepër). Mundni ta instaloni { -brand-name-firefox }-in 64-bitësh edhe dorazi, nëse doni.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Nëse ju duhet të punoni me { -brand-name-firefox } 32-bitësh ose të instaloni dorazi { -brand-name-firefox }-in 64-bitësh, mundeni thjesht të shkarkoni dhe rixhironi instaluesin e { -brand-name-firefox }-it për { -brand-name-windows } (32-bit ose 64-bit) që nga <a href="{ $all }">faqja e shkarkimeve të { -brand-name-firefox }-it sipas platformash dhe gjuhësh.</a>
 windows-64-bit-take-control-of-your = Merrni në dorë kontrollin e shfletuesit tuaj.
 windows-64-bit-download-firefox = Shkarkoni { -brand-name-firefox } për Windows 64-bit

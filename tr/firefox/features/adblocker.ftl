@@ -28,7 +28,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a>, reklamları engellemenin yanı sıra izlenme koruması özellikleri de sunan başka bir harika seçenek.
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Bu uzantılar { -brand-name-firefox }’un hem <a { $attrs1 }>bilgisayar</a> hem de <a { $attrs2 }>Android</a> sürümlerinde çalışır.
 features-adblocker-create-a-tracker-free = İçerik engelleme sayesinde takip kodlarından arınmış bir bölge yaratın
 # Variables:

@@ -28,7 +28,7 @@ features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> je še ena odlična izbira, ki ne le zavrača oglase, temveč ponuja tudi dodatne zaščite pred sledenjem.
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Te razširitve se enako dobro izkažejo v <a { $attrs1 }>{ -brand-name-firefox(sklon: "mestnik") } za namizja</a> in <a { $attrs2 }>za Android</a>.
 features-adblocker-create-a-tracker-free = Ustvarite območje brez sledilcev z zavračanjem vsebine
 # Variables:

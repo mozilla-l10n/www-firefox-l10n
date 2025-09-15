@@ -28,7 +28,7 @@ features-adblocker-adguard-adblocker-blunts = Az <a { $attrs1 }>AdGuard AdBlocke
 features-adblocker-ghostery-is-another-great = A <a { $attrs }>Ghostery</a> egy másik nagyszerű választás, amely nem csak hogy blokkolja a hirdetéseket, de további nyomkövetés elleni előnyökkel is jár.
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Ezek a kiegészítők gyönyörűen működnek mind az <a { $attrs1 }>asztali { -brand-name-firefox(case: "inessive") }</a>, mind az <a { $attrs2 }>androidos változatban</a>.
 features-adblocker-create-a-tracker-free = Hozzon létre egy követőmentes zónát a tartalomblokkolással
 # Variables:

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/default/
+### URL: https://www-dev.springfield.moz.works/landing/set-as-default/
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = Err { -brand-name-firefox } d iminig-ik amezwer

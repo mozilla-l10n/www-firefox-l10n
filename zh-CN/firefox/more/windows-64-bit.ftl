@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = 如果您使用的是 64 位 { -brand-name-win
 windows-64-bit-if-you-see-32-bit-older = 若您看到“（32 位）”并且运行的是 { -brand-name-firefox } 56.0 或更早版本，更新到最新的 { -brand-name-firefox } 版本会自动将其升级到 64 位。
 windows-64-bit-if-you-see-32-bit-newer = 若您看到“（32 位）”并且运行的是 { -brand-name-firefox } 56.0 或更高版本，则您的计算机可能不满足 64 位（至少 3GB）的最低内存要求。但是，您仍可以手动安装 64 位版 { -brand-name-firefox }。
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = 若您需要运行 32 位版 { -brand-name-firefox } 或手动安装 64 位版 { -brand-name-firefox }，只需从<a href="{ $all }">{ -brand-name-firefox } 多平台和语言下载页</a>下载并重新运行 { -brand-name-windows }（32 或 64 位版）{ -brand-name-firefox } 安装程序即可。
 windows-64-bit-take-control-of-your = 您的浏览器，由您来掌控。
 windows-64-bit-download-firefox = 下载适用于 64 位 Windows 的 { -brand-name-firefox }

@@ -28,7 +28,7 @@ windows-64-bit-if-youre-running = Nếu bạn đang chạy { -brand-name-windows
 windows-64-bit-if-you-see-32-bit-older = Nếu bạn thấy “(32-bit)” và bạn đang chạy { -brand-name-firefox } 56.0 hãy cũ hơn, việc cập nhật lên phiên bản { -brand-name-firefox } mới nhất sẽ tự động nâng cấp bạn lên 64-bit.
 windows-64-bit-if-you-see-32-bit-newer = Nếu bạn thấy “(32-bit)” và đang chạy { -brand-name-firefox } 56.0.1 hoặc mới hơn, thì máy tính của bạn có thể không đáp ứng yêu cầu bộ nhớ tối thiểu cho 64-bit (3 GB RAM hoặc hơn). Bạn vẫn có thể cài đặt thủ công phiên bản 64-bit của { -brand-name-firefox }, nếu bạn muốn.
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Nếu bạn cần chạy { -brand-name-firefox } 32-bit hoặc cài đặt thủ công { -brand-name-firefox } 64-bit, bạn chỉ cần tải xuống và chạy cài đặt { -brand-name-firefox } { -brand-name-windows } (32-bit hay 64-bit) từ <a href="{ $all }">trang chứa các bản tải xuống ngôn ngữ và nền tảng { -brand-name-firefox }.</a>
 windows-64-bit-take-control-of-your = Kiểm soát trình duyệt của bạn.
 windows-64-bit-download-firefox = Tải xuống { -brand-name-firefox } cho Windows 64-bit
