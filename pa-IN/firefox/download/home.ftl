@@ -35,6 +35,7 @@ firefox-home-get-firefox-mobile = { -brand-name-firefox } ਮੋਬਾਈਲ ਲ
 # asterisks provide playful emphasis, omit or use symbols appropriate in your language
 firefox-home-really-make-it = *ਸੱਚੀ* ਇਸ ਨੂੰ ਆਪਣਾ ਬਣਾਓ
 firefox-home-work-smarter = ਸਮਝਦਾਰੀ ਨਾਲ ਕੰਮ ਕਰੋ, ਰੱਜ ਕੇ ਆਨੰਦ ਮਾਣੋ
+firefox-home-bye-boring = ਅਕਾਊ ਬਰਾਊਜ਼ਰ ਨੂੰ ਕਹੋ ਅਲਵਿਦਾ
 
 ## Final call-out
 
