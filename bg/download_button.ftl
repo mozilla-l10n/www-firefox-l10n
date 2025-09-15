@@ -27,3 +27,5 @@ download-firefox-esr-64 = Изтеглете { -brand-name-firefox-esr } 64-би
 
 download-button-linux-32-v2 = Изтегляне за 32-битов Linux
 download-button-linux-64-v2 = Изтегляне за 64-битов Linux
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Вземете го от Microsoft
