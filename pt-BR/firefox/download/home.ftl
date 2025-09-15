@@ -27,3 +27,8 @@ firefox-home-block-ad-trackers = Bloqueie rastreadores de anúncios sem mover um
 firefox-home-swear-off = Deixe as distrações de lado
 firefox-home-your-stuff = Suas coisas, em todos os seus dispositivos
 firefox-home-get-firefox-mobile = Use o { -brand-name-firefox } para dispositivos móveis para que suas senhas, abas e histórico, além da privacidade e segurança em que você confia, estejam com você onde quer que vá.
+
+## Customization
+
+# asterisks provide playful emphasis, omit or use symbols appropriate in your language
+firefox-home-really-make-it = *Realmente* deixe do seu jeito
