@@ -18,3 +18,12 @@ firefox-home-latest-features = Funcionalidades mais recentes recursos do { -bran
 firefox-home-go-into-reading = Mude para o modo de leitura, destaque vídeos e organize melhor com abas na vertical e grupos de abas.
 firefox-home-keep-tabs-on = Tenha controle sobre todas as suas abas
 firefox-home-close-duplicates = Feche duplicadas, pesquise e fixe abas abertas. Há possibilidades quase infinitas para o número quase infinito de abas que você pode ter abertas.
+firefox-home-see-release = Ver notas de atualização
+
+## Features
+
+firefox-home-block-ad-trackers = Bloqueie rastreadores de anúncios sem mover um dedo
+# "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
+firefox-home-swear-off = Deixe as distrações de lado
+firefox-home-your-stuff = Suas coisas, em todos os seus dispositivos
+firefox-home-get-firefox-mobile = Use o { -brand-name-firefox } para dispositivos móveis para que suas senhas, abas e histórico, além da privacidade e segurança em que você confia, estejam com você onde quer que vá.
