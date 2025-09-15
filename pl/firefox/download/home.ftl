@@ -9,14 +9,14 @@
 ## Intro
 
 firefox-home-take-control = Przejmij kontrolę nad internetem
-firefox-home-go-online = Korzystaj z internetu z mniejszą ilością rozpraszaczy, hałasu i stresu. Pomyśl o nas jak o powiewie świeżego powietrza.
+firefox-home-go-online = Korzystaj z internetu z mniejszą ilością rozpraszaczy, szumu i stresu. Pomyśl o nas jak o powiewie świeżego powietrza.
 firefox-home-set-firefox-as = Ustaw { -brand-name-firefox(case: "acc") } jako domyślną przeglądarkę.
 
 ## What's new
 
 # accessible section heading
 firefox-home-latest-features = Najnowsze funkcje { -brand-name-firefox(case: "gen") }
-firefox-home-dial-down = Wycisz hałas
+firefox-home-dial-down = Wycisz szum
 firefox-home-block-ads = Blokuj reklamy i zwiększ swoją prywatność dzięki konfigurowalnym ustawieniom i licznym rozszerzeniom do pobrania.
 firefox-home-multitasking = Wielozadaniowość?
 firefox-home-go-into-reading = Przechodź do trybu czytania, oglądaj filmy w okienku i organizuj się dzięki pionowym kartom i grupom kart.
