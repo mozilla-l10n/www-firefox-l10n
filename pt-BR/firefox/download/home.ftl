@@ -15,3 +15,6 @@ firefox-home-go-online = Fique online com menos distrações, ruído e estresse.
 
 # accessible section heading
 firefox-home-latest-features = Funcionalidades mais recentes recursos do { -brand-name-firefox }
+firefox-home-go-into-reading = Mude para o modo de leitura, destaque vídeos e organize melhor com abas na vertical e grupos de abas.
+firefox-home-keep-tabs-on = Tenha controle sobre todas as suas abas
+firefox-home-close-duplicates = Feche duplicadas, pesquise e fixe abas abertas. Há possibilidades quase infinitas para o número quase infinito de abas que você pode ter abertas.
