@@ -33,7 +33,7 @@ windows-64-bit-if-you-see-32-bit-older = Jika anda lihat "(32-bit)" dan anda men
 windows-64-bit-if-you-see-32-bit-newer = Jika anda lihat "(32-bit)" dan anda menjalankan { -brand-name-firefox } 56.0.1 atau lebih baru, maka komputer anda mungkin tidak memenuhi keperluan memori minimum untuk 64-bit (RAM 3 GB atau lebih). Anda masih boleh memasang { -brand-name-firefox } 64-bit secara manual, jika anda memilih begitu.
 
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = Jika anda perlu menjalankan { -brand-name-firefox } 32-bit atau memasang { -brand-name-firefox } 64-bit secara manual, anda boleh memuat turun dan menjalankan semula { -brand-name-windows } (32-bit atau 64-bit) pemasang { -brand-name-firefox } daripada halaman muat turun platform dan bahasa <a href="{ $all }">{ -brand-name-firefox }.</a>
 windows-64-bit-take-control-of-your = Kendalikan pelayar anda.
 

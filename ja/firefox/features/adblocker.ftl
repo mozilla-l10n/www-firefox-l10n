@@ -34,7 +34,7 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> は、
 
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = これらの拡張機能は、<a { $attrs1 }>デスクトップ版</a>および <a { $attrs2 }>Android 版 { -brand-name-firefox }</a> の両方に対応しています。
 
 features-adblocker-create-a-tracker-free = コンテンツブロッキングでノートラッカーゾーンを作る

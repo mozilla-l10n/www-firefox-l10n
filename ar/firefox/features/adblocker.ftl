@@ -34,7 +34,7 @@ features-adblocker-ghostery-is-another-great = كما تُعد أداة <a { $at
 
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = تعمل هذه الإضافات بشكل رائع على <a { $attrs1 }>{ -brand-name-firefox } لِكل من سطح المكتب</a> و <a { $attrs2 }>أندرويد</a>.
 
 features-adblocker-create-a-tracker-free = أَنْشِئْ منطقة خالية من التعقب باستخدام إعدادات حجب المحتوى

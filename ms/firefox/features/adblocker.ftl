@@ -34,7 +34,7 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> merupa
 
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Semua perisian ini boleh diguna pakai dengan kedua-dua <a { $attrs1 }>{ -brand-name-firefox } untuk komputer dekstop</a> dan <a { $attrs2 }>Android</a>.
 
 features-adblocker-create-a-tracker-free = Cipta zon bebas penjejak dengan Sekatan Kandungan
