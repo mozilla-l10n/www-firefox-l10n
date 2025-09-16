@@ -5,11 +5,11 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
-whatsnew-page-title = { -brand-name-firefox } letöltése Androidra és iOS-re
+whatsnew-page-title = A { -brand-name-firefox } letöltése Androidra és iOS-re
 whatsnew-page-description = Védje meg önmagát és adatait azzal a szektorral szemben, amely harmadik feleknek értékesíti az Ön adatait. Hozzon okos és biztonságos döntést az Önt képviselő technológia segítségével.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = A { -brand-name-firefox }a frissítve lett.
-whatsnew-download-firefox-for-your = Töltse le a { -brand-name-firefox(case: "accusative") } okostelefonjára vagy táblagépére.
+whatsnew-download-firefox-for-your = Töltse le a { -brand-name-firefox }ot okostelefonjára vagy táblagépére.
 # An accessible label for a QR code image
 whatsnew-qr-code-alt = Olvassa le ezt a QR-kódot
 # Variables:
