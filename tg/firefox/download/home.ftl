@@ -26,6 +26,7 @@ firefox-home-see-release = Дидани қайдҳои нашр
 ## Features
 
 firefox-home-get-the-browser = Браузереро ба даст оред, ки ба шумо дар иҷрои кор кумак мекунад
+firefox-home-block-ad-trackers = Васоити пайгирии рекламавиро ҳатто ба онҳо даст нарасида, манъ кунед
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Аз чизҳои парешон даст кашед
 firefox-home-your-stuff = Маводи шумо, дар ҳамаи экранҳои шумо
