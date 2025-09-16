@@ -34,7 +34,7 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> est é
 
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Ces extensions fonctionnent parfaitement sur <a { $attrs1 }>{ -brand-name-firefox } pour ordinateur</a> et <a { $attrs2 }>Android</a>.
 
 features-adblocker-create-a-tracker-free = Créer un espace de navigation sans pistage avec le blocage de contenu
