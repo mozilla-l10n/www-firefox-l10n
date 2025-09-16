@@ -34,7 +34,7 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> एक
 
 # Variables:
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
-#   $attsr2 (string) - link to https://www.mozilla.org/firefox/mobile/android/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = ये एक्सटेंशन <a { $attrs1 }>डेस्कटॉप</a> और <a { $attrs2 }>Android हेतु { -brand-name-firefox }</a> दोनों पर बहुत अच्छी तरह काम करते हैं।
 
 features-adblocker-create-a-tracker-free = कंटेंट ब्लॉकिंग के साथ ट्रैकर-फ़्री ज़ोन बनाएँ

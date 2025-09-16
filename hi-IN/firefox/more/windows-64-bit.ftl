@@ -33,7 +33,7 @@ windows-64-bit-if-you-see-32-bit-older = अगर आपको “(32-बिट
 windows-64-bit-if-you-see-32-bit-newer = अगर आपको “(32-बिट)” दिखाई देता है और आप { -brand-name-firefox } 56.0.1 या उससे नया चला रहे हैं तो हो सकता है कि आपका कंप्यूटर 64-बिट के लिए न्यूनतम मेमोरी (3 जीबी रैम या अधिक) की ज़रूरत पूरी ना करता हों। अब भी अगर आप चुनें, तो 64-बिट { -brand-name-firefox } को मैनुअली इंस्टॉल कर सकते हैं।
 
 # Variables:
-# $all (url) - link to https://www.mozilla.org/firefox/all/
+# $all (url) - link to https://www.firefox.com/download/all/
 windows-64-bit-if-you-need-to-run = अगर आपको 32-बिट { -brand-name-firefox } चलाना हो या 64-बिट { -brand-name-firefox } को मैनुअली इंस्टॉल करना हो तो आप <a href="{ $all }">{ -brand-name-firefox } प्लेटफ़ार्म और भाषाएँ डाउनलोड पेज</a> से आसानी से { -brand-name-windows } (32-बिट या 64-बिट) { -brand-name-firefox } इन्स्टॉलर को डाउनलोड और रीरन कर सकते हैं।
 windows-64-bit-take-control-of-your = अपने ब्राउज़र पर नियंत्रण रखें।
 
