@@ -17,7 +17,9 @@ firefox-home-set-firefox-as = Браузери «{ -brand-name-firefox }»-ро 
 # accessible section heading
 firefox-home-latest-features = Ҳусусиятҳои навтарини «{ -brand-name-firefox }»
 firefox-home-dial-down = Овози мағалро паст кунед
+firefox-home-block-ads = Намоиши рекламаро манъ кунед ва махфияти худро бо танзимоти фармоишӣ ва садҳо васеъшавии боргиришаванда такмил диҳед.
 firefox-home-multitasking = Бо якчанд вазифа машғул ҳастед?
+firefox-home-go-into-reading = Ба реҷаи хониш гузаред, видеоҳоро дар равзанаи зоҳиршаванда тамошо кунед ва бо истифода аз варақаҳои амудӣ ва гурӯҳҳои варақаҳо фаъолияти худро бештар ташкил намоед.
 firefox-home-keep-tabs-on = Ҳамаи варақаҳои худро ҳаматарафа идора кунед
 firefox-home-see-release = Дидани қайдҳои нашр
 
