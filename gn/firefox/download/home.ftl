@@ -21,6 +21,7 @@ firefox-home-block-ads = Ejoko ñemurã ha emoporãve ne rekoñemi ñemboheko mb
 firefox-home-multitasking = ¿Tembiaporãita?
 firefox-home-go-into-reading = Eike moñe’ẽrã rekópe, ehecha umi ta’ãngamýi apysẽ ha emoĩporãve tendayke ñembo’y ha tendayke aty ndive.
 firefox-home-keep-tabs-on = Ehechapaite umi tendayke
+firefox-home-close-duplicates = Oñembotývo umi ikõiva’ekue, eheka ha emboja umi tendayke ijurujáva — oĩ heta pa’ũ tendaykekuéra embojurujávape g̃uarã.
 firefox-home-see-release = Ehecha haipyre peteĩchagua
 
 ## Features
