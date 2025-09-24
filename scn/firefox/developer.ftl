@@ -16,7 +16,6 @@ firefox-developer-network = Riti
 firefox-developer-memory = Mimoria
 firefox-developer-new-tools = Novi stigghi
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
-firefox-developer-built-for-developers = Custrujutu pî sbiluppatura
 firefox-developer-faster-innovation = Nfurmazzioni cchiù lesti
 firefox-developer-fonts-panel = Panneḍḍu dî caràttari
 firefox-developer-made-for-developers = U navicaturi fattu pî sbiluppatura
