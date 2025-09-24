@@ -9,7 +9,7 @@
 ## Intro
 
 firefox-home-take-control = 自行控制您的上網體驗
-firefox-home-go-online = 減少雜訊與壓莉，上網更不容易分心。您可以綁我們當成一拂新鮮空氣。
+firefox-home-go-online = 減少雜訊與壓力，上網更不容易分心。您可以把我們當成一拂新鮮空氣。
 firefox-home-set-firefox-as = 將 { -brand-name-firefox } 設成您的預設瀏覽器。
 
 ## What's new
