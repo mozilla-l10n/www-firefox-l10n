@@ -7,6 +7,8 @@ send-to-device-your-download-link = Link ດາວໂຫຼດທ່ານຖື
 send-to-device-please-enter-an-email = ກະລຸນາປ້ອນທີ່ຢູ່ອີເມວທີ່ຖືກຕ້ອງ.
 send-to-device-an-error-occured = ເກີດມີຂໍ້ຜິດພາດໃນລະບົບຂອງພວກເຮົາ. ກາລຸນາລອງໃຫມ່ອີກຄັ້ງໃນພາຍຫລັງ.
 send-to-device-enter-your-email = ປ້ອນທີ່ຢູ່ອີເມລຂອງທ່ານ
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = yourname@example.com
 send-to-device-send = ສົ່ງ
 send-to-device-intended-recipient-email = ຜູ້ຮັບອີເມວທີ່ຕັ້ງໃຈຈະຕ້ອງໄດ້ຍິນຍອມ.
 send-to-device-check-your-device-email = ກວດສອບອຸປະກອນຂອງທ່ານສຳລັບ email
