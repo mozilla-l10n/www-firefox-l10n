@@ -2,22 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
+### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
-whatsnew-page-title-v2 = Apa yang baru dengan { -brand-name-firefox }
 whatsnew-page-description = Teguhkan pendirian anda menentang industri yang menjual data anda kepada pihak ketiga. Kekal bijak dan selamat dalam talian dengan teknologi yang berjuang demi anda.
 whatsnew-firefox = { -brand-name-firefox }
 
 whatsnew-update-notification = { -brand-name-firefox } anda telah dinaikkan taraf.
 
+whatsnew-download-firefox-for-your = Muat turun { -brand-name-firefox } untuk telefon pintar dan tablet anda.
+
+# An accessible label for a QR code image
+whatsnew-qr-code-alt = Imbas kod QR ini
+
 # Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+#   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = Baca <a { $url }>Nota Siaran</a> untuk mengetahui lebih lanjut tentang perkembangan baru untuk pelayar { -brand-name-firefox }.
 
 whatsnew-signoff = <strong>Dikuasakan oleh { -brand-name-mozilla }.</strong> Mementingkan pengguna sebelum keuntungan sejak 1998.
 
-# Obsolete string (expires 10-08-2025)
-whatsnew-donate-to-mofo = Derma kepada { -brand-name-mozilla-foundation }
-whatsnew-donate-to-mofo-v2 = Dermalah ke { -brand-name-mozilla-foundation }
-
-whatsnew-thanks-for-choosing = Terima kasih kerana memilih { -brand-name-firefox }
+whatsnew-donate-to-mofo = Dermalah ke { -brand-name-mozilla-foundation }
