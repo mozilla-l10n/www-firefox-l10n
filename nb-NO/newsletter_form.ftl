@@ -9,7 +9,7 @@ newsletter-form-we-are-sorry-but-there = Beklager, men det oppstod et problem me
 newsletter-form-please-select-country = Velg et land eller en region
 newsletter-form-please-select-language = Velg et språk
 # Only localize "yourname". Do not change "@example.com".
-newsletter-form-yournameexamplecom = dittnavn@eksempel.no
+newsletter-form-yournameexamplecom = dittnavn@example.com
 newsletter-form-select-country-or-region = Velg land eller region
 newsletter-form-select-language = Velg språk
 newsletter-form-your-email-here = DIN EPOSTADRESSE HER
