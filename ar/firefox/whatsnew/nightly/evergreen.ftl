@@ -3,7 +3,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
+### URL: https://www-dev.springfield.moz.works/whatsnew/80.0a1/
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
@@ -24,7 +24,7 @@ nightly-whatsnew-if-you-want-to = إذا كنت تريد أن تعرف ما يح
 
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which = هل تريد معرفة ميزات النظام الأساسي التي يُمكنك اختبارها على { -brand-name-nightly } ولا يُمكن رؤيتها حتى الآن على قنوات { -brand-name-firefox } الأخرى؟ إذن، ألقِ نظرة على صفحة تفضيلات <a { $attrs }>{ -brand-name-firefox-labs }</a>.
+nightly-whatsnew-want-to-know-which = هل تريد معرفة ميزات النظام الأساسي التي يمكنك اختبارها على { -brand-name-nightly } ولا يمكن رؤيتها حتى الآن على قنوات { -brand-name-firefox } الأخرى؟ إذن، ألقِ نظرة على صفحة تفضيلات <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
