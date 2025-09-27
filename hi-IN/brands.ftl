@@ -58,6 +58,7 @@
 
 ## Firefox projects
 
+-brand-name-firefox-labs = Firefox लैब्स
 
 ## Pocket
 
@@ -69,6 +70,7 @@
 
 ## Mozilla projects
 
+-brand-name-bugzilla = Bugzilla
 -brand-name-gecko = गेको
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
