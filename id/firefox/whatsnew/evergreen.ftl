@@ -4,6 +4,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = Unduh { -brand-name-firefox } untuk Android dan iOS
 whatsnew-page-description = Tentukan sikap Anda terhadap industri yang menjual data pengguna ke pihak ketiga. Tetap cerdas dan aman saat daring dengan teknologi yang berjuang untuk Anda.
 whatsnew-firefox = { -brand-name-firefox }
 

@@ -4,6 +4,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = { -brand-name-firefox } für Android und iOS herunterladen
 whatsnew-page-description = Stell dich gegen eine Branche, die deine Daten an Dritte verkauft. Nutze Technologien, die sich für dich einsetzen und schütze dich online noch besser.
 whatsnew-firefox = { -brand-name-firefox }
 
