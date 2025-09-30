@@ -4,6 +4,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = Android および iOS 用 { -brand-name-firefox } をダウンロード
 whatsnew-page-description = あなたのデータをサードパーティに売り渡す業界に対抗しましょう。ユーザーのために闘うテクノロジーで、スマートかつ安全なオンライン生活を。
 whatsnew-firefox = { -brand-name-firefox }
 
