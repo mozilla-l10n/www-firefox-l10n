@@ -4,6 +4,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = Muat turun { -brand-name-firefox } untuk Android dan iOS
 whatsnew-page-description = Teguhkan pendirian anda menentang industri yang menjual data anda kepada pihak ketiga. Kekal bijak dan selamat dalam talian dengan teknologi yang berjuang demi anda.
 whatsnew-firefox = { -brand-name-firefox }
 
