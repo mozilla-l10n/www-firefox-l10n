@@ -31,6 +31,7 @@ navigation-learn = Utforska
 navigation-blog = Blogg
 navigation-compare = Jämför
 navigation-podcast = Podcast
+navigation-data-protection = Dataskydd
 
 ## Download
 
