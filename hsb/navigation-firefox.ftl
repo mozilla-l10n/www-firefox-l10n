@@ -31,6 +31,7 @@ navigation-learn = Wukńće
 navigation-blog = Blog
 navigation-compare = Přirunać
 navigation-podcast = Podcast
+navigation-data-protection = Škit datow
 
 ## Download
 

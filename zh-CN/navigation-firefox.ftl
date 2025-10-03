@@ -31,6 +31,7 @@ navigation-learn = 了解
 navigation-blog = 博客
 navigation-compare = 比较
 navigation-podcast = 播客
+navigation-data-protection = 数据保护
 
 ## Download
 

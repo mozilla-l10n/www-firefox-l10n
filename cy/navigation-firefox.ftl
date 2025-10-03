@@ -31,6 +31,7 @@ navigation-learn = Dysgu
 navigation-blog = Blog
 navigation-compare = Cymharu
 navigation-podcast = Podlediad
+navigation-data-protection = Diogelu Data
 
 ## Download
 

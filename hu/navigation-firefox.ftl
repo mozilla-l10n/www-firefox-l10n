@@ -31,6 +31,7 @@ navigation-learn = Tanulás
 navigation-blog = Blog
 navigation-compare = Összehasonlítás
 navigation-podcast = Podcast
+navigation-data-protection = Adatvédelem
 
 ## Download
 

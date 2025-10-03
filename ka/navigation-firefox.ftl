@@ -31,6 +31,7 @@ navigation-learn = გაეცანით
 navigation-blog = სვეტი
 navigation-compare = შედარება
 navigation-podcast = პოდკასტი
+navigation-data-protection = მონაცემთა დაცვა
 
 ## Download
 

@@ -31,6 +31,7 @@ navigation-learn = 學習
 navigation-blog = 部落格
 navigation-compare = 比較
 navigation-podcast = 網路廣播 (Podcast)
+navigation-data-protection = 資料保護
 
 ## Download
 
