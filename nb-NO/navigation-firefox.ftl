@@ -31,6 +31,7 @@ navigation-learn = Les mer
 navigation-blog = Blogg
 navigation-compare = Sammenlign
 navigation-podcast = Podkast
+navigation-data-protection = Databeskyttelse
 
 ## Download
 
