@@ -31,6 +31,7 @@ navigation-learn = Discoperi
 navigation-blog = Blog
 navigation-compare = Comparar
 navigation-podcast = Podcast
+navigation-data-protection = Protection de datos
 
 ## Download
 
