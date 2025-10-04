@@ -31,6 +31,7 @@ navigation-learn = Les meir
 navigation-blog = Blogg
 navigation-compare = Samanlikn
 navigation-podcast = Podkast
+navigation-data-protection = Datavern
 
 ## Download
 
