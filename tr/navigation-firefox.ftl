@@ -31,6 +31,7 @@ navigation-learn = Öğren
 navigation-blog = Blog
 navigation-compare = Karşılaştır
 navigation-podcast = Podcast
+navigation-data-protection = Veri Koruması
 
 ## Download
 
