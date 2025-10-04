@@ -31,6 +31,7 @@ navigation-learn = 배우기
 navigation-blog = 블로그
 navigation-compare = 비교하기
 navigation-podcast = 팟캐스트
+navigation-data-protection = 데이터 보호
 
 ## Download
 
