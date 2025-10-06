@@ -31,6 +31,7 @@ navigation-learn = Leare
 navigation-blog = Blog
 navigation-compare = Fergelykje
 navigation-podcast = Podcast
+navigation-data-protection = Gegevensbefeiliging
 
 ## Download
 
