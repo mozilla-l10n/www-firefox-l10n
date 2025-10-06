@@ -31,6 +31,7 @@ navigation-learn = Kuaa
 navigation-blog = Blog
 navigation-compare = Moñondive
 navigation-podcast = Podcast
+navigation-data-protection = Mba’ekuaarã ñemo’ã
 
 ## Download
 
