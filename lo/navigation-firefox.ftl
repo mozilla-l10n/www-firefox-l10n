@@ -31,6 +31,7 @@ navigation-learn = ຮຽນຮູ້
 navigation-blog = ບົດຄວາມ
 navigation-compare = ປຽບທຽບ
 navigation-podcast = ປອດຄາສທ໌
+navigation-data-protection = ການປົກປ້ອງຂໍ້ມູນ
 
 ## Download
 
