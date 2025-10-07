@@ -37,6 +37,9 @@ firefox-home-swear-off = დაიცავით თავი ყურად�
 firefox-home-stay-focused = მუდამ გულისყურით აკეთეთ საქმე ისეთი გაფართოებების დახმარებით, როგორებიცაა <a { $tomato_clock_attrs }>Tomaty Clock</a> და <a { $turn_off_the_lights_attrs }>Turn off  the lights</a> — ორივე მეტად სასურველია და ჩვენგან ოქროს ვარსკვლავიც დაიმსახურეს განსაკუთრებული უსაფრთხოებისა და შესაძლებლობების გამო.
 firefox-home-your-stuff = კუთვნილი მასალები ყველა ეკრანზე
 firefox-home-get-firefox-mobile = გადმოწერეთ { -brand-name-firefox } მობილურზე, რომ თქვენი პაროლები, ჩანართები და ისტორია — ყველგან თან გაიყოლოთ.
+firefox-home-privacy-built-in = კონფიდენციალურობა ჩაშენებული
+firefox-home-personal-data-not-for-sale = თქვენი პირადი მონაცემები არ იყიდება. მეთვალყურეები და მე-3 მხარის ფუნთუშები იზღუდება ნაგულისხმევად, ასე რომ, უბრალოდ შეგიძლიათ … დათვალიერება.
+firefox-home-learn-data-protection = გაეცანით, როგორ იცავს { -brand-name-firefox } თქვენს მონაცემებს
 
 ## Customization
 
@@ -65,5 +68,6 @@ firefox-home-lots-of-open = უამრავი გახსნილი ჩ�
 firefox-home-shield-and-hand = ფარი და ხელი იცავს ბრაუზერის ჩანართს.
 firefox-home-a-human-brain = ადამიანის ტვინი დაკავშირებულია მსოფლიოსთან.
 firefox-home-desktop-laptop-and-phone = კომპიუტერი, ნოუთბუქი და ტელეფონი.
+firefox-home-browser-window-with-lock = ბრაუზერის ფანჯარა საკეტისა და ფარის ხატულებით.
 firefox-home-firefox-in-dark = { -brand-name-firefox } მუქი იერსახით.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } კომპიუტერზე.

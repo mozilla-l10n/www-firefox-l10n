@@ -29,6 +29,7 @@ firefox-home-ad-trackers-make = Sledilci oglasov upočasnjujejo nalaganje spletn
 firefox-home-swear-off = Odkrižajte se motenj
 firefox-home-your-stuff = Vaše stvari na vseh vaših zaslonih
 firefox-home-get-firefox-mobile = Prenesite { -brand-name-firefox } za mobilne naprave in imejte gesla, zavihke in zgodovino – ter zasebnost in varnost, na kateri se zanašate – s seboj, kamorkoli greste.
+firefox-home-learn-data-protection = Preberite, kako { -brand-name-firefox } ščiti vaše podatke
 
 ## Customization
 
@@ -49,5 +50,6 @@ firefox-home-lots-of-open = Kopica odprtih zavihkov.
 firefox-home-shield-and-hand = Ščit in roka ščitita zavihek brskalnika.
 firefox-home-a-human-brain = Človeški možgani, povezani s svetom.
 firefox-home-desktop-laptop-and-phone = Računalnik, prenosnik in telefon.
+firefox-home-browser-window-with-lock = Okno brskalnika z ikonama ključavnice in ščita.
 firefox-home-firefox-in-dark = { -brand-name-firefox } v temnem načinu.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } na računalniku.

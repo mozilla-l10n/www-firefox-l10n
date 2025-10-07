@@ -37,6 +37,9 @@ firefox-home-swear-off = Dim tarfu mwyach
 firefox-home-stay-focused = Cadwch eich sylw gydag estyniadau fel <a { $tomato_clock_attrs }>Tomato Clock</a> a <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — maen nhw'n cael eu hargymell, sef ein seren aur am fod â diogelwch ac ymarferoldeb eithriadol.
 firefox-home-your-stuff = Eich pethau, ar eich holl sgriniau
 firefox-home-get-firefox-mobile = Defnyddiwch { -brand-name-firefox } symudol, fel bod eich cyfrineiriau, tabiau a hanes — a'r preifatrwydd a'r diogelwch rydych yn dibynnu arnyn nhw — yn mynd gyda chi ble bynnag rydych yn mynd iddo.
+firefox-home-privacy-built-in = Preifatrwydd wedi'i ymgorffori
+firefox-home-personal-data-not-for-sale = Nid yw eich data personol ar werth. Mae tracwyr a chwcis trydydd parti yn cael eu rhwystro yn ddiofyn, felly gallwch chi ... bori.
+firefox-home-learn-data-protection = Dysgwch sut mae { -brand-name-firefox } yn amddiffyn eich data
 
 ## Customization
 
@@ -65,5 +68,6 @@ firefox-home-lots-of-open = Tabiau agored niferus.
 firefox-home-shield-and-hand = Tarian a llaw yn diogelu tab porwr.
 firefox-home-a-human-brain = Ymennydd dynol sy'n gysylltiedig â'r byd.
 firefox-home-desktop-laptop-and-phone = Bwrdd gwaith, gliniadur, a ffôn.
+firefox-home-browser-window-with-lock = Ffenestr porwr gydag eiconau clo a tharian.
 firefox-home-firefox-in-dark = { -brand-name-firefox } yn y modd tywyll.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } ar y bwrdd gwaith.

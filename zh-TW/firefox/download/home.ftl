@@ -37,6 +37,9 @@ firefox-home-swear-off = 遠離讓人分心的內容
 firefox-home-stay-focused = 我們推薦使用 <a { $tomato_clock_attrs }>Thomato Clock</a>、<a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> 之類的擴充套件讓您保持專注 — 這些擴充套件的安全性與功能性都非常傑出。
 firefox-home-your-stuff = 由您決定、顯示於所有螢幕上
 firefox-home-get-firefox-mobile = 使用 { -brand-name-firefox } 行動版，讓您的密碼、分頁、上網紀錄，以及您所倚靠的隱私權與安全性一起隨身帶著走。
+firefox-home-privacy-built-in = 內建隱私保護功能
+firefox-home-personal-data-not-for-sale = 不會販賣您的個人資料。預設情況下追踪器與第三方 Cookie 都會被封鎖這樣您就可以只…瀏覽網頁。
+firefox-home-learn-data-protection = 了解 { -brand-name-firefox } 如何保護您的資料
 
 ## Customization
 
@@ -65,5 +68,6 @@ firefox-home-lots-of-open = 許多開啟的分頁。
 firefox-home-shield-and-hand = 保護瀏覽器分頁的盾牌與一雙手。
 firefox-home-a-human-brain = 與世界連結起來的大腦。
 firefox-home-desktop-laptop-and-phone = 桌上型電腦、行動電腦、手機。
+firefox-home-browser-window-with-lock = 有鎖形圖示的瀏覽器視窗。
 firefox-home-firefox-in-dark = 暗色模式的 { -brand-name-firefox }。
 firefox-home-firefox-on-a-desktop = 桌面版的 { -brand-name-firefox }。

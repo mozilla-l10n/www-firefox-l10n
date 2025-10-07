@@ -37,6 +37,9 @@ firefox-home-swear-off = Nenechte se rozptylovat
 firefox-home-stay-focused = Zůstaňte soustředění s rozšířeními jako <a { $tomato_clock_attrs }>Tomato Clock</a> a <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> - jsou doporučené, což je jako naše zlatá hvězda za výjimečné zabezpečení a funkčnost.
 firefox-home-your-stuff = Vaše věci na všech obrazovkách
 firefox-home-get-firefox-mobile = Pořiďte si { -brand-name-firefox } do mobilu, abyste měli svá hesla, panely, historie – a soukromí a zabezpečení, na které spoléháte – všude s sebou.
+firefox-home-privacy-built-in = Soukromí zabudované
+firefox-home-personal-data-not-for-sale = Vaše osobní údaje nejsou na prodej. Sledovací prvky a cookies třetích stran jsou ve výchozím stavu blokovány, takže můžete jen… prohlížet.
+firefox-home-learn-data-protection = Zjistěte, jak { -brand-name-firefox } chrání vaše data
 
 ## Customization
 
@@ -65,5 +68,6 @@ firefox-home-lots-of-open = Mnoho otevřených panelů.
 firefox-home-shield-and-hand = Štít a ruka chránící panel prohlížeče.
 firefox-home-a-human-brain = Lidský mozek propojený se světem.
 firefox-home-desktop-laptop-and-phone = Desktop, notebook a telefon.
+firefox-home-browser-window-with-lock = Okno prohlížeče s ikonami zámku a štítu.
 firefox-home-firefox-in-dark = { -brand-name-firefox } v tmavém režimu.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } na počítači.

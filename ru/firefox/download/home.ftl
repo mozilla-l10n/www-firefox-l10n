@@ -37,6 +37,9 @@ firefox-home-swear-off = Откажитесь от отвлекающих фак
 firefox-home-stay-focused = Сосредоточьтесь с помощью таких расширений, как <a { $tomato_clock_attrs }>Tomato Clock</a> и <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — они рекомендуются, что является чем-то вроде нашей золотой звезды за исключительную безопасность и функциональность.
 firefox-home-your-stuff = Ваши вещи на всех ваших экранах
 firefox-home-get-firefox-mobile = Загрузите мобильный { -brand-name-firefox }, чтобы ваши пароли, вкладки и история, а также приватность и безопасность, на которые вы можете положиться, были с вами, куда бы вы ни собрались.
+firefox-home-privacy-built-in = Встроенная приватность
+firefox-home-personal-data-not-for-sale = Ваши личные данные не продаются. Трекеры и сторонние куки заблокированы по умолчанию, так что вы можете просто… сёрфить.
+firefox-home-learn-data-protection = Узнайте, как { -brand-name-firefox } защищает ваши данные
 
 ## Customization
 
@@ -65,5 +68,6 @@ firefox-home-lots-of-open = Много открытых вкладок.
 firefox-home-shield-and-hand = Щит и рука, защищающие вкладки браузера.
 firefox-home-a-human-brain = Человеческий мозг подключен к миру.
 firefox-home-desktop-laptop-and-phone = Настольный компьютер, ноутбук и телефон.
+firefox-home-browser-window-with-lock = Окно браузера со значками замка и щита.
 firefox-home-firefox-in-dark = { -brand-name-firefox } в тёмном режиме.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } на компьютере.
