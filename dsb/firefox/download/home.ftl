@@ -38,6 +38,8 @@ firefox-home-stay-focused = Wóstańśo koncentrěrowany z rozšyrjenjami ako <a
 firefox-home-your-stuff = Waša maśizna, na wšych wašych wobrazowkach
 firefox-home-get-firefox-mobile = Wobstarajśo se { -brand-name-firefox } za mobilne rědy, aby mógał swóje gronidła, rejtariki a historiju – a priwatnosć a wěstotu, na kótarejž se spušćaśo – wšuźi sobu wześ.
 firefox-home-privacy-built-in = Zatwarjona priwatnosć
+firefox-home-personal-data-not-for-sale = Waše wósobinske daty se njepśedawaju. Pśeslědowaki a cookieje tśeśich póbitowarjow se pó standarźe blokěruju, togodla móžośo jadnorje … pśeglědowaś.
+firefox-home-learn-data-protection = Zgóńśo kak { -brand-name-firefox } waše daty šćita
 
 ## Customization
 
@@ -66,5 +68,6 @@ firefox-home-lots-of-open = Wjele wócynjonych rejtarikow.
 firefox-home-shield-and-hand = Šćit a ruka, kótarejž rejtarik wobglědowaka šćitatej.
 firefox-home-a-human-brain = Cłowjeske mórzgi su ze swětom zwězane.
 firefox-home-desktop-laptop-and-phone = Desktop, laptop a telefon.
+firefox-home-browser-window-with-lock = Wokno wobglědowaka ze symboloma pyto a šćit.
 firefox-home-firefox-in-dark = { -brand-name-firefox } w śamnem modusu.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } na desktopje.
