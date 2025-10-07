@@ -31,6 +31,7 @@ navigation-learn = Tìm hiểu
 navigation-blog = Blog
 navigation-compare = So sánh
 navigation-podcast = Podcast
+navigation-data-protection = Bảo vệ dữ liệu
 
 ## Download
 
