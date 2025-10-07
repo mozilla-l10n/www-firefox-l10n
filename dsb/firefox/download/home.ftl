@@ -37,6 +37,7 @@ firefox-home-swear-off = Zbydniśo se wótchylenjow
 firefox-home-stay-focused = Wóstańśo koncentrěrowany z rozšyrjenjami ako <a { $tomato_clock_attrs }>Tomato Clock</a> a <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> – pórucaju se, což jo ako naša złota gwězdka za to, až wósebnu wěstotu a funkcionalnosć bitujomy.
 firefox-home-your-stuff = Waša maśizna, na wšych wašych wobrazowkach
 firefox-home-get-firefox-mobile = Wobstarajśo se { -brand-name-firefox } za mobilne rědy, aby mógał swóje gronidła, rejtariki a historiju – a priwatnosć a wěstotu, na kótarejž se spušćaśo – wšuźi sobu wześ.
+firefox-home-privacy-built-in = Zatwarjona priwatnosć
 
 ## Customization
 
