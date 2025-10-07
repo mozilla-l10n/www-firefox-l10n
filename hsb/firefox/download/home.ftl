@@ -37,6 +37,9 @@ firefox-home-swear-off = Wzdajće so wotwjedźenjow
 firefox-home-stay-focused = Wostańće koncentrowany z rozšěrjenjemi kaž <a { $tomato_clock_attrs }>Tomato Clock</a> a <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> – poručeja so, štož je kaž naša złota hwěžka za to, zo wosebitu wěstotu a funkcionalnosć skićimy.
 firefox-home-your-stuff = Waša maćizna, na wšěch wašich wobrazowkach
 firefox-home-get-firefox-mobile = Wobstarajće sej { -brand-name-firefox } za mobilne graty, zo byšće móhł swoje hesła, rajtarki a historiju – a priwatnosć a wěstotu, na kotrejž so spušćeće – wšudźe sobu wzać.
+firefox-home-privacy-built-in = Zatwarjena priwatnosć
+firefox-home-personal-data-not-for-sale = Waše wosobinske daty so njepředawaja. Přesćěhowaki a placki třećich poskićowarjow so po standardźe blokuja, tohodla móžeće prosće … přehladować.
+firefox-home-learn-data-protection = Zhońće kak { -brand-name-firefox } waše daty škita
 
 ## Customization
 
@@ -65,5 +68,6 @@ firefox-home-lots-of-open = Wjele wočinjenych rajtarkow.
 firefox-home-shield-and-hand = Tarč a ruka, kotrejž rajtark wobhladowaka škitatej.
 firefox-home-a-human-brain = Čłowjeske mozy su ze swětom zwjazane.
 firefox-home-desktop-laptop-and-phone = Desktop, laptop a telefon.
+firefox-home-browser-window-with-lock = Wokno wobhladowaka ze zamkowym a tarčowym symbolom.
 firefox-home-firefox-in-dark = { -brand-name-firefox } w ćmowym modusu.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } na desktopje.
