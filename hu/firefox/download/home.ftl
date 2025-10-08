@@ -38,7 +38,7 @@ firefox-home-stay-focused = Maradjon fókuszált az olyan kiegészítőkkel, min
 firefox-home-your-stuff = A dolgai, az összes képernyőjén
 firefox-home-get-firefox-mobile = Szerezze be a mobilos { -brand-name-firefox }ot, így jelszavait, lapjait és előzményeit – valamint az adatvédelmét és biztonságát, amelyre támaszkodik – bárhová magával viheti.
 firefox-home-privacy-built-in = Beépített adatvédelem
-firefox-home-personal-data-not-for-sale = A személyes adatai nem eladók. A követők és a harmadik féltől származó sütik alapértelmezés szerint tiltottak, így Ön csak … böngésszen.
+firefox-home-personal-data-not-for-sale = A személyes adatai nem eladók. A követők és a harmadik féltől származó sütik alapértelmezés szerint tiltottak, így nyugodtan böngészhet.
 firefox-home-learn-data-protection = Tudja meg, hogyan védi a { -brand-name-firefox } az adatait
 
 ## Customization
@@ -68,6 +68,6 @@ firefox-home-lots-of-open = Sok nyitott lap.
 firefox-home-shield-and-hand = Pajzs és kéz, mely egy böngészőlapot véd.
 firefox-home-a-human-brain = A világhoz kapcsolódó emberi agy.
 firefox-home-desktop-laptop-and-phone = Asztali számítógép, laptop és telefon.
-firefox-home-browser-window-with-lock = Böngészőablak lakat és pajzs ikonok.
+firefox-home-browser-window-with-lock = Böngészőablak lakat és pajzs ikonokkal.
 firefox-home-firefox-in-dark = { -brand-name-firefox } sötét módban
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } egy asztali gépen.
