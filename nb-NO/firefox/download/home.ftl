@@ -38,6 +38,7 @@ firefox-home-stay-focused = Hold fokus med utvidelser som <a { $tomato_clock_att
 firefox-home-your-stuff = Dine ting, på alle skjermene dine
 firefox-home-get-firefox-mobile = Få { -brand-name-firefox } mobil, så blir passordene dine, fanene, nettleserloggen – og personvernet og sikkerheten du stoler på – med deg uansett hvor du går.
 firefox-home-privacy-built-in = Innebygd personvern
+firefox-home-personal-data-not-for-sale = Dine personopplysninger er ikke til salgs. Sporere og infokapsler fra tredjepart blokkeres som standard, slik at du bare kan … surfe.
 firefox-home-learn-data-protection = Les om hvordan { -brand-name-firefox } beskytter dine data
 
 ## Customization
