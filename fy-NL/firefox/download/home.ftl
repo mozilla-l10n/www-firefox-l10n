@@ -37,6 +37,9 @@ firefox-home-swear-off = Swar ôfliedingen ôf
 firefox-home-stay-focused = Bliuw fokust mei útwreidingen lykas <a { $tomato_clock_attrs }>Tomato Clock</a> en <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> - se wurde oanrekommandearre, wat ús gouden stjer is foar útsûnderlike feiligens en funksjonaliteit.
 firefox-home-your-stuff = Jo saken, op al jo skermen
 firefox-home-get-firefox-mobile = Download  { -brand-name-firefox } mobyl, sadat jo wachtwurden, ljepblêden en skiednis – en de privacy en befeiliging wêr’t jo op fertrouwe – oeral mei jo meigiet.
+firefox-home-privacy-built-in = Ynboude privacy
+firefox-home-personal-data-not-for-sale = Jo persoanlike gegevens binne net te keap. Trackers en cookies fan tredden wurde standert blokkearre, dus jo kinne gewoan… sneupe.
+firefox-home-learn-data-protection = Lês hoe { -brand-name-firefox } jo gegevens beskermet.
 
 ## Customization
 
@@ -65,5 +68,6 @@ firefox-home-lots-of-open = In protte iepen ljepblêden.
 firefox-home-shield-and-hand = Skyld en hân dy’t in browserljeblêd beskermet.
 firefox-home-a-human-brain = In minsklik brein ferbûn mei de wrâld.
 firefox-home-desktop-laptop-and-phone = Desktop, laptop en telefoan.
+firefox-home-browser-window-with-lock = Browserfinster mei slot- en skyldpiktogrammen.
 firefox-home-firefox-in-dark = { -brand-name-firefox } yn tsjustere modus.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } op in desktop.

@@ -37,6 +37,9 @@ firefox-home-swear-off = Zweer afleiding af
 firefox-home-stay-focused = Blijf gefocust met extensies zoals <a { $tomato_clock_attrs }>Tomato Clock</a> en <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> – ze worden aanbevolen, wat als onze gouden ster is voor uitzonderlijke beveiliging en functionaliteit.
 firefox-home-your-stuff = Uw zaken, op al uw schermen
 firefox-home-get-firefox-mobile = Download { -brand-name-firefox } mobiel, zodat uw wachtwoorden, tabbladen en geschiedenis – en de privacy en beveiliging waarop u vertrouwt – overal mee naartoe gaan.
+firefox-home-privacy-built-in = Ingebouwde privacy
+firefox-home-personal-data-not-for-sale = Uw persoonlijke gegevens zijn niet te koop. Trackers en cookies van derden worden standaard geblokkeerd, dus u kunt gewoon… surfen.
+firefox-home-learn-data-protection = Lees hoe { -brand-name-firefox } uw gegevens beschermt
 
 ## Customization
 
@@ -65,5 +68,6 @@ firefox-home-lots-of-open = Veel open tabbladen.
 firefox-home-shield-and-hand = Schild en hand beschermen een browsertabblad.
 firefox-home-a-human-brain = Een menselijk brein verbonden met de wereld.
 firefox-home-desktop-laptop-and-phone = Desktop, laptop en telefoon.
+firefox-home-browser-window-with-lock = Browservenster met slot- en schildpictogrammen.
 firefox-home-firefox-in-dark = { -brand-name-firefox } in donkere modus.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } op een desktop.
