@@ -13,7 +13,7 @@ navigation-close-features-menu = 關閉功能選單
 navigation-top-features = 熱門功能
 navigation-fingerprint-blocking = 封鎖數位指紋追蹤程式
 navigation-ad-tracker-blocking = 封鎖廣告追蹤器
-navigation-private-browsing = 私密瀏覽模式
+navigation-private-browsing = 隱私瀏覽模式
 navigation-password-manager = 免費密碼管理員
 navigation-features-all = 檢視所有 { -brand-name-firefox } 功能
 
