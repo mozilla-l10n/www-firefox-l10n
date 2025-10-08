@@ -38,7 +38,7 @@ firefox-home-stay-focused = Mantén la concentración con extensiones como <a { 
 firefox-home-your-stuff = Tus cosas, en todas tus pantallas
 firefox-home-get-firefox-mobile = Obtén { -brand-name-firefox } para móviles para que tus contraseñas, pestañas e historial (y la privacidad y seguridad en las que confías) te acompañen a donde sea que vayas.
 firefox-home-privacy-built-in = Privacidad incorporada
-firefox-home-personal-data-not-for-sale = Tus datos personales no están a la venta. Los rastreadores y las cookies de terceros están bloqueados por defecto, así que puedes simplemente... navegar.
+firefox-home-personal-data-not-for-sale = Tus datos personales no están a la venta. Los rastreadores y las cookies de terceros están bloqueados por defecto, así que puedes simplemente … navegar.
 firefox-home-learn-data-protection = Aprende cómo { -brand-name-firefox } protege tus datos
 
 ## Customization

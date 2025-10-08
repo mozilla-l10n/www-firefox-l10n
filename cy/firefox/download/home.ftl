@@ -38,7 +38,7 @@ firefox-home-stay-focused = Cadwch eich sylw gydag estyniadau fel <a { $tomato_c
 firefox-home-your-stuff = Eich pethau, ar eich holl sgriniau
 firefox-home-get-firefox-mobile = Defnyddiwch { -brand-name-firefox } symudol, fel bod eich cyfrineiriau, tabiau a hanes — a'r preifatrwydd a'r diogelwch rydych yn dibynnu arnyn nhw — yn mynd gyda chi ble bynnag rydych yn mynd iddo.
 firefox-home-privacy-built-in = Preifatrwydd wedi'i ymgorffori
-firefox-home-personal-data-not-for-sale = Nid yw eich data personol ar werth. Mae tracwyr a chwcis trydydd parti yn cael eu rhwystro yn ddiofyn, felly gallwch chi ... bori.
+firefox-home-personal-data-not-for-sale = Nid yw eich data personol ar werth. Mae tracwyr a chwcis trydydd parti yn cael eu rhwystro yn ddiofyn, felly gallwch chi … bori.
 firefox-home-learn-data-protection = Dysgwch sut mae { -brand-name-firefox } yn amddiffyn eich data
 
 ## Customization
