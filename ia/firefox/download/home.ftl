@@ -37,6 +37,9 @@ firefox-home-swear-off = Abandonar distractiones
 firefox-home-stay-focused = Sta concentrate con extensiones como <a { $tomato_clock_attrs }>Tomate Horologio</a> e <a { $turn_off_the_lights_attrs }>Disactivar le Lumines</a> — illes es Recommendate, que es como nostre stella auree pro haber securitate e functionalitate exceptional.
 firefox-home-your-stuff = Tu substantia, sur tote tu schermos
 firefox-home-get-firefox-mobile = Obtene { -brand-name-firefox } mobile assi tu contrasignos, schedas e historia, e le confidentialitate e securitate sur que tu conta: va con te ubicunque tu va.
+firefox-home-privacy-built-in = Confidentialitate integrate
+firefox-home-personal-data-not-for-sale = Tu datos personal non es in vendita. Le traciatores e le cookies de tertie partes es blocate de ordinario assi que tu pote simplemente... navigar.
+firefox-home-learn-data-protection = Apprende como { -brand-name-firefox } protege tu datos.
 
 ## Customization
 
@@ -65,5 +68,6 @@ firefox-home-lots-of-open = Plure schedas aperte.
 firefox-home-shield-and-hand = Scuto e mano protege scheda de un navigator.
 firefox-home-a-human-brain = Un cerebro human connexe al mundo.
 firefox-home-desktop-laptop-and-phone = Scriptorio, portabile, e telephono.
+firefox-home-browser-window-with-lock = Fenestra del navigator con icones de blocada e scuto.
 firefox-home-firefox-in-dark = { -brand-name-firefox } in modo obscur.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } sur un scriptorio.
