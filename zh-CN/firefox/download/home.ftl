@@ -37,8 +37,8 @@ firefox-home-swear-off = 扫清干扰内容
 firefox-home-stay-focused = 想凝神专注？<a { $tomato_clock_attrs }>番茄钟</a>和<a { $turn_off_the_lights_attrs }>关灯看视频</a>等扩展来相助。两者皆是我们的“推荐扩展”，表示具有出众的功能和安全性。
 firefox-home-your-stuff = 跨设备同步数据
 firefox-home-get-firefox-mobile = 获取 { -brand-name-firefox } 移动版，将密码、标签页、历史记录随身带着走，让隐私与安全时刻伴您行。
-firefox-home-privacy-built-in = 内置隐私保护功能
-firefox-home-personal-data-not-for-sale = 您的个人数据绝非商品。跟踪器和第三方 Cookie 默认就被拦截，您可安心浏览网络。
+firefox-home-privacy-built-in = 自带隐私保护
+firefox-home-personal-data-not-for-sale = 您的个人数据绝非商品。跟踪器和第三方 Cookie 默认就会被拦截，您可安心浏览网络。
 firefox-home-learn-data-protection = 了解 { -brand-name-firefox } 如何保护您的数据
 
 ## Customization
