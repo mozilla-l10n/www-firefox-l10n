@@ -37,6 +37,9 @@ firefox-home-swear-off = Từ bỏ những thứ gây xao nhãng
 firefox-home-stay-focused = Trở nên tập trung với các tiện ích mở rộng như <a { $tomato_clock_attrs }>Tomato Clock</a> và <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — chúng được đề xuất, giống như ngôi sao vàng của chúng tôi vì có tính bảo mật và chức năng đặc biệt.
 firefox-home-your-stuff = Nội dung của bạn, trên tất cả màn hình của bạn
 firefox-home-get-firefox-mobile = Tải { -brand-name-firefox } trên di động để mật khẩu, thẻ và lịch sử của bạn — cũng như quyền riêng tư và bảo mật mà bạn tin cậy — sẽ luôn bên bạn mọi lúc mọi nơi.
+firefox-home-privacy-built-in = Quyền riêng tư được tích hợp sẵn
+firefox-home-personal-data-not-for-sale = Dữ liệu cá nhân của bạn không phải để bán. Trình theo dõi và cookie của bên thứ ba bị chặn theo mặc định, vì vậy bạn chỉ cần… duyệt.
+firefox-home-learn-data-protection = Tìm hiểu cách { -brand-name-firefox } bảo vệ dữ liệu của bạn
 
 ## Customization
 
@@ -65,5 +68,6 @@ firefox-home-lots-of-open = Rất nhiều thẻ đang mở.
 firefox-home-shield-and-hand = Tấm chắn và bàn tay bảo vệ thẻ trình duyệt.
 firefox-home-a-human-brain = Bộ não con người kết nối với thế giới.
 firefox-home-desktop-laptop-and-phone = Máy tính để bàn, máy tính xách tay và điện thoại.
+firefox-home-browser-window-with-lock = Cửa sổ trình duyệt có biểu tượng khóa và khiên.
 firefox-home-firefox-in-dark = { -brand-name-firefox } trong chế độ tối.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } trên một máy tính.
