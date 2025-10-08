@@ -38,7 +38,7 @@ firefox-home-stay-focused = 想凝神专注？<a { $tomato_clock_attrs }>番茄�
 firefox-home-your-stuff = 跨设备同步数据
 firefox-home-get-firefox-mobile = 获取 { -brand-name-firefox } 移动版，将密码、标签页、历史记录随身带着走，让隐私与安全时刻伴您行。
 firefox-home-privacy-built-in = 内置隐私保护功能
-firefox-home-personal-data-not-for-sale = 您的个人数据不会被出售。默认情况下会拦截跟踪器和第三方 Cookie因此您可以…浏览。
+firefox-home-personal-data-not-for-sale = 您的个人数据绝非商品。跟踪器和第三方 Cookie 默认就被拦截，您可安心浏览网络。
 firefox-home-learn-data-protection = 了解 { -brand-name-firefox } 如何保护您的数据
 
 ## Customization
@@ -68,6 +68,6 @@ firefox-home-lots-of-open = 许多个打开的标签页。
 firefox-home-shield-and-hand = 盾牌和手掌在保护一个浏览器标签页。
 firefox-home-a-human-brain = 人脑与世界相联系。
 firefox-home-desktop-laptop-and-phone = 台式电脑、笔记本电脑和手机。
-firefox-home-browser-window-with-lock = 有锁和盾牌图标的浏览器窗口。
+firefox-home-browser-window-with-lock = 带锁和盾牌图标的浏览器窗口。
 firefox-home-firefox-in-dark = 深色模式的 { -brand-name-firefox }
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } 在台式电脑上运行。
