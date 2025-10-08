@@ -68,5 +68,6 @@ firefox-home-lots-of-open = Massor av öppna flikar.
 firefox-home-shield-and-hand = Sköld och hand som skyddar en webbläsarflik.
 firefox-home-a-human-brain = En mänsklig hjärna kopplad till världen.
 firefox-home-desktop-laptop-and-phone = Stationär dator, bärbar dator och telefon.
+firefox-home-browser-window-with-lock = Webbläsarfönster med lås- och sköldikoner.
 firefox-home-firefox-in-dark = { -brand-name-firefox } i mörkt läge.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } på en dator.
