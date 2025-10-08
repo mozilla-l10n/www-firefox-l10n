@@ -37,6 +37,7 @@ firefox-home-swear-off = Bli kvitt distraksjonar
 firefox-home-stay-focused = Hald fokus med utvidingar som <a { $tomato_clock_attrs }>Tomato Clock</a> og <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — dei er tilrådde av oss, noko som svarer til gullstjerne for eksepsjonell tryggleik og funksjonalitet.
 firefox-home-your-stuff = Dine ting, på alle skjermane dine
 firefox-home-get-firefox-mobile = Få { -brand-name-firefox } mobil, så blir passorda dine, fanene, nettlesarloggen – og personvernet og sikkerheita du stolar på – med deg same kvar du går.
+firefox-home-privacy-built-in = Innebygd personvern
 
 ## Customization
 
