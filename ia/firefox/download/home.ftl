@@ -38,7 +38,7 @@ firefox-home-stay-focused = Sta concentrate con extensiones como <a { $tomato_cl
 firefox-home-your-stuff = Tu substantia, sur tote tu schermos
 firefox-home-get-firefox-mobile = Obtene { -brand-name-firefox } mobile assi tu contrasignos, schedas e historia, e le confidentialitate e securitate sur que tu conta: va con te ubicunque tu va.
 firefox-home-privacy-built-in = Confidentialitate integrate
-firefox-home-personal-data-not-for-sale = Tu datos personal non es in vendita. Le traciatores e le cookies de tertie partes es blocate de ordinario assi que tu pote simplemente... navigar.
+firefox-home-personal-data-not-for-sale = Tu datos personal non es in vendita. Le traciatores e le cookies de tertie partes es blocate de ordinario assi que tu pote simplemente … navigar.
 firefox-home-learn-data-protection = Apprende como { -brand-name-firefox } protege tu datos.
 
 ## Customization
