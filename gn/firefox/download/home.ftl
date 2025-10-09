@@ -60,5 +60,6 @@ firefox-home-lots-of-open = Heta tendayke juruja.
 firefox-home-shield-and-hand = Ñemo’ãha ha po omo’ãva kundaha rendayképe.
 firefox-home-a-human-brain = Yvypóra apytu’ũ ojuajúva arapy rehe.
 firefox-home-desktop-laptop-and-phone = Mesa arigua, laptop ha pumbyry.
+firefox-home-browser-window-with-lock = Kundahára rovetã kandádo ha mo’ãha ndive.
 firefox-home-firefox-in-dark = { -brand-name-firefox } ayvu ypytũme.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } mesa ariguápe.
