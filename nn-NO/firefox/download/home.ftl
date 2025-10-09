@@ -38,6 +38,8 @@ firefox-home-stay-focused = Hald fokus med utvidingar som <a { $tomato_clock_att
 firefox-home-your-stuff = Dine ting, på alle skjermane dine
 firefox-home-get-firefox-mobile = Få { -brand-name-firefox } mobil, så blir passorda dine, fanene, nettlesarloggen – og personvernet og sikkerheita du stolar på – med deg same kvar du går.
 firefox-home-privacy-built-in = Innebygd personvern
+firefox-home-personal-data-not-for-sale = Personopplysningane dine er ikkje til sals. Sporarar og infokapslar frå tredjepart blir blokkerte som standard, slik at du berre kan … surfe.
+firefox-home-learn-data-protection = Les om korleis { -brand-name-firefox } vernar dataa dine
 
 ## Customization
 
@@ -66,5 +68,6 @@ firefox-home-lots-of-open = Mange opne faner.
 firefox-home-shield-and-hand = Skjold og hand som beskyttar ei nettlesarfane.
 firefox-home-a-human-brain = Ein menneskeleg hjerne kopla til verda.
 firefox-home-desktop-laptop-and-phone = Stasjonær, berbar og telefon.
+firefox-home-browser-window-with-lock = Nettlesarvindauge med lås- og skjold-ikon.
 firefox-home-firefox-in-dark = { -brand-name-firefox } i mørk modus.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } på ei datamaskin.
