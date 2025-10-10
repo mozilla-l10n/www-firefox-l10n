@@ -37,9 +37,9 @@ firefox-home-swear-off = Dim tarfu mwyach
 firefox-home-stay-focused = Cadwch eich sylw gydag estyniadau fel <a { $tomato_clock_attrs }>Tomato Clock</a> a <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — maen nhw'n cael eu hargymell, sef ein seren aur am fod â diogelwch ac ymarferoldeb eithriadol.
 firefox-home-your-stuff = Eich pethau, ar eich holl sgriniau
 firefox-home-get-firefox-mobile = Defnyddiwch { -brand-name-firefox } symudol, fel bod eich cyfrineiriau, tabiau a hanes — a'r preifatrwydd a'r diogelwch rydych yn dibynnu arnyn nhw — yn mynd gyda chi ble bynnag rydych yn mynd iddo.
-firefox-home-privacy-built-in = Preifatrwydd wedi'i ymgorffori
+firefox-home-privacy-built-in = Yn cynnwys preifatrwydd
 firefox-home-personal-data-not-for-sale = Nid yw eich data personol ar werth. Mae tracwyr a chwcis trydydd parti yn cael eu rhwystro yn ddiofyn, felly gallwch chi … bori.
-firefox-home-learn-data-protection = Dysgwch sut mae { -brand-name-firefox } yn amddiffyn eich data
+firefox-home-learn-data-protection = Dysgu sut mae { -brand-name-firefox } yn diogelu eich data
 
 ## Customization
 
