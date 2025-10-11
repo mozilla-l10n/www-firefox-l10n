@@ -37,6 +37,8 @@ firefox-home-swear-off = Dikkat dağınıklığına son
 firefox-home-stay-focused = <a { $tomato_clock_attrs }>Tomato Clock</a> ve <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> gibi uzantılarla odaklanma güçlüğünden kurtulun. “Önerilen” rozetini taşıyan bu uzantılar güvenlik ve işlevsellik bakımından denetleniyor.
 firefox-home-your-stuff = Verilerinize bütün cihazlarınızdan ulaşın
 firefox-home-get-firefox-mobile = { -brand-name-firefox } mobil uygulamasıyla parolalarınız, sekmeleriniz, geçmişiniz hep yanınızda; tabii bizden beklediğiniz gizlilik ve güvenlikle birlikte.
+firefox-home-privacy-built-in = Yerleşik gizlilik
+firefox-home-learn-data-protection = { -brand-name-firefox }’un verilerinizi nasıl koruduğunu öğrenin
 
 ## Customization
 
@@ -65,5 +67,6 @@ firefox-home-lots-of-open = Çok fazla açık sekme.
 firefox-home-shield-and-hand = Tarayıcı sekmesini koruyan kalkan ve el.
 firefox-home-a-human-brain = Dünyaya bağlı bir insan beyni.
 firefox-home-desktop-laptop-and-phone = Masaüstü bilgisayar, dizüstü bilgisayar ve telefon.
+firefox-home-browser-window-with-lock = Kilit ve kalkan simgeleri bulunan tarayıcı penceresi.
 firefox-home-firefox-in-dark = Koyu modda { -brand-name-firefox }.
 firefox-home-firefox-on-a-desktop = Masaüstünde { -brand-name-firefox }.
