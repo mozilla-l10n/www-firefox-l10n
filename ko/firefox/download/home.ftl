@@ -39,6 +39,7 @@ firefox-home-your-stuff = 내 정보 화면에서 표시
 firefox-home-get-firefox-mobile = { -brand-name-firefox } 모바일을 사용하면 비밀번호, 탭, 기록 — 그리고 개인 정보 보호 및 보안 — 어디를 가든지 이용할 수 있습니다.
 firefox-home-privacy-built-in = 개인 정보 보호 내장
 firefox-home-personal-data-not-for-sale = 개인 데이터는 판매용이 아닙니다. 추적기 및 제 3자 쿠키는 기본적으로 차단되므로, 사용자는 그냥… 브라우징할 수 있습니다.
+firefox-home-learn-data-protection = { -brand-name-firefox }가 데이터를 보호하는 방법 알아보기
 
 ## Customization
 
@@ -67,5 +68,6 @@ firefox-home-lots-of-open = 열린 탭이 많음.
 firefox-home-shield-and-hand = 브라우저 탭 보호 방패
 firefox-home-a-human-brain = 세상과 연결된 인간의 뇌
 firefox-home-desktop-laptop-and-phone = 데스크톱, 노트북 및 휴대폰
+firefox-home-browser-window-with-lock = 자물쇠와 방패 아이콘이 있는 브라우저 창입니다.
 firefox-home-firefox-in-dark = { -brand-name-firefox } 어두운 모드입니다.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } 데스크톱.
