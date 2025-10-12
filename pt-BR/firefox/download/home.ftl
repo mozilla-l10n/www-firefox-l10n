@@ -10,6 +10,7 @@
 
 firefox-home-take-control = Assuma o controle da sua internet
 firefox-home-go-online = Fique online com menos distrações, ruído e estresse. Pense em nós como um sopro de ar fresco.
+firefox-home-set-firefox-as = Defina o { -brand-name-firefox } como seu navegador padrão.
 
 ## What's new
 
@@ -37,3 +38,13 @@ firefox-home-bye-boring = Tchau, navegador chato
 ## Final call-out
 
 firefox-home-billionaire-free = Livre de bilionários por mais de 20 anos
+
+## Used as accessible alternative text for images.
+
+firefox-home-firefox-on-desktop = { -brand-name-firefox } no computador e no celular.
+firefox-home-happy-toggle = Troca feliz
+firefox-home-lots-of-open = Muitas abas abertas.
+firefox-home-shield-and-hand = Escudo e mão protegendo uma aba do navegador.
+firefox-home-a-human-brain = Um cérebro humano conectado ao mundo.
+firefox-home-desktop-laptop-and-phone = Computador, notebook e celular.
+firefox-home-firefox-in-dark = { -brand-name-firefox } em modo escuro.
