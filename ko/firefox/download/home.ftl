@@ -37,6 +37,8 @@ firefox-home-swear-off = 방해하는 것 끄기
 firefox-home-stay-focused = <a { $tomato_clock_attrs }>토마토 시계</a> 및 <a { $turn_off_the_lights_attrs }>조명 끄기</a>와 같은 확장 기능을 사용하여 집중하세요. — 이들은 보안이 뛰어나기 때문에 별처럼 보이는 추천 부가 기능입니다. 기능을 제공합니다.
 firefox-home-your-stuff = 내 정보 화면에서 표시
 firefox-home-get-firefox-mobile = { -brand-name-firefox } 모바일을 사용하면 비밀번호, 탭, 기록 — 그리고 개인 정보 보호 및 보안 — 어디를 가든지 이용할 수 있습니다.
+firefox-home-privacy-built-in = 개인 정보 보호 내장
+firefox-home-personal-data-not-for-sale = 개인 데이터는 판매용이 아닙니다. 추적기 및 제 3자 쿠키는 기본적으로 차단되므로, 사용자는 그냥… 브라우징할 수 있습니다.
 
 ## Customization
 
