@@ -68,5 +68,6 @@ firefox-home-lots-of-open = Πολλές ανοικτές καρτέλες.
 firefox-home-shield-and-hand = Μια ασπίδα και ένα χέρι που προστατεύουν μια καρτέλα του προγράμματος περιήγησης.
 firefox-home-a-human-brain = Ένας ανθρώπινος εγκέφαλος συνδεδεμένος με τον κόσμο.
 firefox-home-desktop-laptop-and-phone = Επιτραπέζιος υπολογιστής, φορητός υπολογιστής και τηλέφωνο.
+firefox-home-browser-window-with-lock = Παράθυρο προγράμματος περιήγησης με τα εικονίδια κλειδαριάς και ασπίδας.
 firefox-home-firefox-in-dark = Το { -brand-name-firefox } σε σκουρόχρωμη λειτουργία.
 firefox-home-firefox-on-a-desktop = Το { -brand-name-firefox } σε έναν υπολογιστή.
