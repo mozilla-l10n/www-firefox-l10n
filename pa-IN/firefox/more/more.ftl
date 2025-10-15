@@ -20,6 +20,7 @@ easy-migration-of = ਜਦੋਂ ਤੁਸੀਂ { -brand-name-windows } ਲਈ 
 firefox-respects-your = { -brand-name-firefox } { -brand-name-mac-short } ਉੱਤੇ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦੀ ਕਦਰ ਕਰਦਾ ਹੈ।
 firefox-doesnt-spy = { -brand-name-firefox } ਖੋਜਾਂ ਉੱਤੇ ਸੂਹਾਂ ਨਹੀਂ ਲੈਦਾ ਹੈ। ਅਸੀਂ ਜਾਣੇ-ਪਛਾਣੇ ਤੀਜੀ ਧਿਰ ਦੇ ਟੋਹ ਲੈਣ ਵਾਲੇ ਕੂਕੀਜ਼ਾਂ ਨੂੰ ਰੋਕਦੇ ਹਾਂ ਅਤੇ ਤੁਹਾਨੂੰ ਪੂਰਾ ਕੰਟਰੋਲ ਦਿੰਦੇ ਹਾਂ।
 firefox-for-linux = { -brand-name-linux } ਲਈ { -brand-name-firefox }
+new-school-meets = ਹਾਲੇ ਤੱਕ ਦੇ ਸਭ ਤੋਂ ਤੇਜ਼ ਬਰਾਊਜ਼ਰ ਨਾਲ ਨਵੀਂ ਪੀੜ੍ਹੀ ਦੀ ਪੁਰਾਣੀ ਪੀੜ੍ਹੀ ਨਾਲ ਮਿਲਣੀ।
 firefox-for-windows = { -brand-name-windows } 64-ਬਿੱਟ ਲਈ { -brand-name-firefox }
 we-worry-about = ਅਸੀਂ ਤੁਹਾਡੇ ਡਾਟੇ ਦੀ ਸੁਰੱਖਿਆ ਬਾਰੇ ਫ਼ਿਕਰਮੰਦ ਹਾਂ ਤਾਂ ਕਿ ਤੁਹਾਨੂੰ ਨਾ ਹੋਣਾ ਪਵੇ।
 incognito-browser-what = ਅਣਪਛਾਤਾ ਬਰਾਊਜ਼ਰ: ਇਸ ਦਾ ਕੀ ਅਰਥ ਹੈ
