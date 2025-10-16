@@ -8,7 +8,7 @@
 # HTML page title
 password-manager-free-password-manager = Gestor de contrasigno gratuite
 # HTML page description
-password-manager-firefox-password-manager-saves-all = Le gestor de contrasignos de { -brand-name-firefox } salva tote tu contrasignos in un sol loco, assi tu pote automaticamente authenticar te al sitos, o recuperar le contrasignos salvate.
+password-manager-firefox-password-manager-saves-all = Le gestor de contrasignos de { -brand-name-firefox } salva tote tu contrasignos in un sol loco, assi tu pote automaticamente acceder al sitos, o recuperar le contrasignos salvate.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } reserva con securitate tu nomines de usator e tu contrasignos pro acceder sitos web, los plena automaticamente pro te le proxime vice que tu visita un sito web, e te permitte de gerer tu credentiales reservate con su function integrate de gestion de contrasigno.
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/accounts/
