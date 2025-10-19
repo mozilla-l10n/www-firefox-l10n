@@ -9,10 +9,13 @@
 ## Intro
 
 firefox-home-take-control = Prevzemite nadzor nad svojim internetom
+firefox-home-go-online = Odpravite se na splet z manj motenj, hrupa in stresa. Zamislite si nas kot dih svežega zraka.
 firefox-home-set-firefox-as = Nastavite si { -brand-name-firefox(sklon: "tozilnik") } kot privzeti brskalnik.
 
 ## What's new
 
+# accessible section heading
+firefox-home-latest-features = Najnovejše zmožnosti { -brand-name-firefox(sklon: "rodilnik") }
 firefox-home-dial-down = Izklopite motnje
 firefox-home-block-ads = Blokirajte oglase in povečajte svojo zasebnost s prilagodljivimi nastavitvami in množico razpoložljivih razširitev.
 firefox-home-multitasking = Počnete več stvari hkrati?
@@ -29,6 +32,7 @@ firefox-home-ad-trackers-make = Sledilci oglasov upočasnjujejo nalaganje spletn
 firefox-home-swear-off = Odkrižajte se motenj
 firefox-home-your-stuff = Vaše stvari na vseh vaših zaslonih
 firefox-home-get-firefox-mobile = Prenesite { -brand-name-firefox } za mobilne naprave in imejte gesla, zavihke in zgodovino – ter zasebnost in varnost, na kateri se zanašate – s seboj, kamorkoli greste.
+firefox-home-privacy-built-in = Vgrajena zasebnost
 firefox-home-learn-data-protection = Preberite, kako { -brand-name-firefox } ščiti vaše podatke
 
 ## Customization
