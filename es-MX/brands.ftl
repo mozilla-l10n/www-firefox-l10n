@@ -58,6 +58,10 @@
 
 -brand-name-relay = Relay
 
+## Firefox projects
+
+-brand-name-firefox-labs = Firefox Labs
+
 ## Pocket
 
 -brand-name-pocket = Pocket
@@ -68,6 +72,7 @@
 
 ## Mozilla projects
 
+-brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
@@ -75,6 +80,7 @@
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = Cuenta de Mozilla
 -brand-name-mozilla-accounts = Cuentas de Mozilla
+-brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-thunderbird = Thunderbird
 
