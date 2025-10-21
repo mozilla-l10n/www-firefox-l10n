@@ -35,6 +35,9 @@ firefox-home-swear-off = ध्यान भटकने से पक्का 
 firefox-home-stay-focused = कुछ एक्सटेंशन ऐसे हैं जिनसे आपको अपने काम पर ध्यान केंद्रित रखने में मदद मिलती है जैसे कि <a { $tomato_clock_attrs }>Tomato Clock</a> और <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — ये “सुझाए गए” हैं, जो हमारी ओर से एक गोल्ड स्टार की तरह है, यानी इनमें बेहतरीन सुरक्षा और कार्यक्षमता है।
 firefox-home-your-stuff = आपकी चीज़ें, आपकी हर स्क्रीन पर हाजिर
 firefox-home-get-firefox-mobile = { -brand-name-firefox } मोबाइल डाउनलोड करें ताकि आप अपने पासवर्ड, टैब्स और हिस्ट्री — और वह निजता व सुरक्षा जिस पर आप भरोसा करते हैं — हमेशा अपने साथ पाएं, चाहे आप कहीं भी आएं-जाएं।
+firefox-home-privacy-built-in = निजता की रक्षा, शुरू से ही मौजूद
+firefox-home-personal-data-not-for-sale = आपकी निजी जानकारी बिकाऊ नहीं है। ट्रैकर्स और थर्ड पार्टी कुकीज़ पहले से ही ब्लॉक हैं, आप निश्चिंत रहें … ब्राउज़ करें बेफ़िक्र होकर।
+firefox-home-learn-data-protection = जानें कि { -brand-name-firefox } किस तरह आपके डेटा की रक्षा करता है
 
 ## Customization
 
@@ -63,5 +66,6 @@ firefox-home-lots-of-open = ढेर सारे खुले टैब.
 firefox-home-shield-and-hand = ब्राउज़र टैब की मजबूत सुरक्षा।
 firefox-home-a-human-brain = मानव मस्तिष्क और बाहर की दुनिया के बीच में सेतु।
 firefox-home-desktop-laptop-and-phone = डेस्कटॉप, लैपटॉप और फ़ोन।
+firefox-home-browser-window-with-lock = ब्राउज़र विंडो, लॉक और शील्ड आइकन के साथ।
 firefox-home-firefox-in-dark = { -brand-name-firefox } डार्क मोड में।
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox }, डेस्कटॉप पर।
