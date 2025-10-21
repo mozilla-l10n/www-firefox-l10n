@@ -35,6 +35,9 @@ firefox-home-swear-off = Hentikan gangguan
 firefox-home-stay-focused = Fokuskan dengan extensi seperti <a { $tomato_clock_attrs }>Tomato Clock</a> dan <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — kami mengesyorkannya, extensi bertaraf lima bintang akibat kekuatan keselamatan serta fungsinya.
 firefox-home-your-stuff = Benda anda, semua di depan skrin
 firefox-home-get-firefox-mobile = Dapatkan { -brand-name-firefox } mudah alih agar kata laluan, tab dan sejarah — serta privasi dan keselamatan yang anda harapkan — berada bersama anda di mana jua.
+firefox-home-privacy-built-in = Privasi siap bina
+firefox-home-personal-data-not-for-sale = Data peribadi anda bukan untuk dijual Penjejak dan kuki pihak ke-3 dihalang secara lalai, agar anda dapat berlayar dengan damai.
+firefox-home-learn-data-protection = Ketahui cara { -brand-name-firefox } melindungi data anda
 
 ## Customization
 
@@ -63,5 +66,6 @@ firefox-home-lots-of-open = Banyak tab yang terbuka.
 firefox-home-shield-and-hand = Perisai dan tangan melindungi tab pelayar.
 firefox-home-a-human-brain = Otak manusia yang terhubung dengan dunia.
 firefox-home-desktop-laptop-and-phone = Komputer meja dan riba, dan telefon.
+firefox-home-browser-window-with-lock = Tetingkap pelayar dengan ikon kunci mangga dan perisai
 firefox-home-firefox-in-dark = { -brand-name-firefox } dalam mod gelap.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } untuk komputer meja.
