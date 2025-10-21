@@ -1,0 +1,46 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.springfield.moz.works/
+
+
+## Intro
+
+firefox-home-take-control = Merrni kontrollin e internetit tuaj
+firefox-home-go-online = Shkoni në linjë me më pak shpërqendrim, zhurmë dhe stres. Mendonani si frymëmarrje ajri të freskët.
+firefox-home-set-firefox-as = Vëreni { -brand-name-firefox }-in shfletuesin tuaj parazgjedhje
+
+## What's new
+
+# accessible section heading
+firefox-home-latest-features = Veçoritë më të reja të { -brand-name-firefox }-it
+firefox-home-dial-down = Zvogëloni zhurmën
+firefox-home-block-ads = Bllokoni reklama dhe thelloni privatësinë tuaj me rregullime që mund t’i përshtatni dhe thasë zgjerimesh të shkarkueshme.
+firefox-home-keep-tabs-on = Mbani në vëzhgim krejt skedat tuaja
+firefox-home-see-release = Shihni Shënime Hedhjeje Në Qarkullim
+
+## Features
+
+firefox-home-get-the-browser = Merrni shfletuesin që ju ndihmon të mbaroni punë
+firefox-home-privacy-built-in = Privatësi së brendshmi
+firefox-home-personal-data-not-for-sale = Të dhënat tuaja personale s’janë për shitje. Gjurmues dhe “cookies” nga palë të treta bllokohen si parazgjedhje, që kështu të mundni thjesht … të shfletoni.
+firefox-home-learn-data-protection = Mësoni se i mbron të dhënat tuaja { -brand-name-firefox }-i
+
+## Customization
+
+firefox-home-work-smarter = Punoni më mençur, luani më fort
+firefox-home-bye-boring = Shëndet, shfletues i mërzitshëm
+
+## Used as accessible alternative text for images.
+
+firefox-home-firefox-on-desktop = { -brand-name-firefox } në desktop dhe celular.
+firefox-home-happy-toggle = Ndërrim të lumtur.
+firefox-home-multiple-cursors = Kursorë të shumtë.
+firefox-home-lots-of-open = Plot skeda të hapura.
+firefox-home-a-human-brain = Një tru njerëzor i lidhur me botën.
+firefox-home-desktop-laptop-and-phone = Desktop, portativ dhe telefon.
+firefox-home-browser-window-with-lock = Dritare shfletuesi me ikona dryni dhe mburoje
+firefox-home-firefox-in-dark = { -brand-name-firefox } nën mënyrë të errët
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } në një desktop.
