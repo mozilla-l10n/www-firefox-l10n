@@ -32,6 +32,7 @@ navigation-learn = 学習
 navigation-blog = ブログ
 navigation-compare = 比較
 navigation-podcast = ポッドキャスト
+navigation-data-protection = データ保護
 
 ## Download
 

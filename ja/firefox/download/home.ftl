@@ -35,6 +35,9 @@ firefox-home-swear-off = 気が散る原因を断つ
 firefox-home-stay-focused = <a { $tomato_clock_attrs }>Tomato Clock</a> や <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> ような拡張機能で集中力を持続させましょう。優れたセキュリティと機能性から、Mozilla が「おすすめ」するものです。
 firefox-home-your-stuff = 保存された情報をすべての端末で
 firefox-home-get-firefox-mobile = モバイル用 { -brand-name-firefox } をダウンロードすれば、パスワードやタブ、履歴のほか、プライバシーとセキュリティをどこへでも持ち運べます。
+firefox-home-privacy-built-in = デフォルトでプライバシーを保護
+firefox-home-personal-data-not-for-sale = あなたの個人情報は売り物ではありません。トラッカーとサードパーティ Cookie はデフォルトでブロックされているため、安心してブラウズできます。
+firefox-home-learn-data-protection = { -brand-name-firefox } がユーザーのデータを保護する仕組みをご覧ください
 
 ## Customization
 
@@ -63,5 +66,6 @@ firefox-home-lots-of-open = いくつものタブを管理。
 firefox-home-shield-and-hand = ブラウザーのタブを保護するシールドと手。
 firefox-home-a-human-brain = 世界とつながっている人間の脳。
 firefox-home-desktop-laptop-and-phone = デスクトップ、ノートパソコン、スマートフォン。
+firefox-home-browser-window-with-lock = ロックとシールドのアイコンが付いたブラウザーのウィンドウ。
 firefox-home-firefox-in-dark = ダークモードの { -brand-name-firefox }。
 firefox-home-firefox-on-a-desktop = デスクトップの { -brand-name-firefox }。
