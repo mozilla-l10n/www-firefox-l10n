@@ -5,9 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = Shkarkoni { -brand-name-firefox } për Android dhe iOS
 whatsnew-page-description = Ngrini zërin kundër një industrie që po ua shet të dhënat tuaja palëve të treta. Jini i mençur dhe i parrezik në internet, me teknologji që ndeshen për ju.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = { -brand-name-firefox }-i juaj është përditësuar.
+whatsnew-download-firefox-for-your = Shkarkoni { -brand-name-firefox }-in për telefonin apo tabletin tuaj.
+# An accessible label for a QR code image
+whatsnew-qr-code-alt = Skanonin këtë Kod QR
 # Variables:
 #   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = Që të mësoni më tepër rreth se ç’ka të re te shfletuesi juaj { -brand-name-firefox }, lexoni <a { $url }>Shënime Hedhjeje Në Qarkullim</a>.

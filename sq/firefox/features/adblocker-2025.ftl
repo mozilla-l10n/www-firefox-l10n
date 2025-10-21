@@ -7,6 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Bllokim Reklamash
+# Page Title
+features-adblocker-meta-title-v2 = Mbi Bllokues Reklamash
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = Mbi Bllokues Reklamash- { -brand-name-firefox }
 # HTML page description

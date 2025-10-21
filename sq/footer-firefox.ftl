@@ -34,6 +34,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Bashkësi
 footer-contribute = Jepni Ndihmesë
 footer-developer = Zhvillues
+footer-connect = Lidhu
 
 ## Links to resources
 
@@ -41,6 +42,9 @@ footer-developer = Zhvillues
 footer-resources = Burime
 footer-compare = Krahasoni
 footer-release-notes = Shënime Hedhjeje Në Qarkullim
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Mësoni
 footer-support = Asistencë
 footer-addons = Shtesa
 footer-blog = Blog
@@ -59,9 +63,15 @@ footer-websites-privacy-notice = Shënim Privatësie Sajti
 footer-terms-of-use = Kushtet e Përdorimit
 footer-websites-cookie-policy = Rregulla Cookie-sh
 footer-community-participation-guidelines = Udhëzime Pjesëmarrjeje Në Bashkësi
+footer-logo-trademark-licensing = Licencim Shenjash Tregtare Mbi Stemën
 
 ## Language Switcher
 
 footer-language = Gjuhë
 footer-go = Shko
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+
+footer-powdered-by = Bazur në { -brand-name-mozilla }
+footer-putting-people = Duke vënë njerëzit para fitimeve që prej 1998-s

@@ -9,6 +9,13 @@ navigation-landmark-label = Parësor
 ## Features
 
 navigation-features = Veçori
+navigation-close-features-menu = Mbylle menunë Veçori
+navigation-top-features = Veçori Kryesuese
+navigation-fingerprint-blocking = Bllokim Krijuesish Shenjash Gishtash
+navigation-ad-tracker-blocking = Bllokim Gjurmuesish Në Reklama
+navigation-private-browsing = Mënyra Shfletim Privat
+navigation-password-manager = Përgjegjës Fjalëkalimesh Falas
+navigation-features-all = Shihni krejt Veçoritë e { -brand-name-firefox }-it
 
 ## Resources
 
@@ -24,6 +31,7 @@ navigation-learn = Mësoni
 navigation-blog = Blog
 navigation-compare = Krahasoni
 navigation-podcast = Podkast
+navigation-data-protection = Mbrojtje të Dhënash
 
 ## Download
 
