@@ -35,6 +35,9 @@ firefox-home-swear-off = Oubliez les distractions
 firefox-home-stay-focused = Concentrez-vous plus facilement avec des extensions comme <a { $tomato_clock_attrs }>Tomato Clock</a> et <a { $turn_off_the_lights_attrs }>Turn Off The Lights</a>. Elles sont Recommandées, ce qui signifie que nous les conseillons pour leur niveau élevé de sécurité et leurs fonctionnalités.
 firefox-home-your-stuff = Vos outils sur tous vos appareils
 firefox-home-get-firefox-mobile = Téléchargez { -brand-name-firefox } pour mobile pour emporter avec vous vos mots de passe, vos onglets et votre historique – ainsi que la confidentialité et la sécurité auxquelles vous tenez.
+firefox-home-privacy-built-in = La confidentialité intégrée
+firefox-home-personal-data-not-for-sale = Vos données personnelles ne sont pas à vendre. Les traqueurs et les cookies tiers sont bloqués par défaut pour vous permettre de naviguer tranquillement.
+firefox-home-learn-data-protection = Découvrez comment { -brand-name-firefox } protège vos données
 
 ## Customization
 
@@ -63,5 +66,6 @@ firefox-home-lots-of-open = De nombreux onglets ouverts.
 firefox-home-shield-and-hand = Un bouclier et une main protégeant un onglet de navigateur.
 firefox-home-a-human-brain = Un cerveau humain connecté au monde entier.
 firefox-home-desktop-laptop-and-phone = Un ordinateur de bureau, un ordinateur portable et un téléphone.
+firefox-home-browser-window-with-lock = Fenêtre de navigateur avec des icônes de cadenas et de bouclier
 firefox-home-firefox-in-dark = { -brand-name-firefox } en mode sombre.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } sur un ordinateur de bureau.

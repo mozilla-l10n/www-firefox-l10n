@@ -6,3 +6,7 @@
 ### Content Management System. It means they can be combined to build new
 ### pages and don't correspond to any specific page.
 
+# Step Cards: Cards used to give instructions. Each card gets a heading with "Step 01", "Step 02", etc.
+# Variables:
+#   $number (number) - the number of the step
+block-step-card-step = Schritt { $number }

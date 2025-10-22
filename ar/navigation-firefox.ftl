@@ -32,6 +32,7 @@ navigation-learn = اعرف
 navigation-blog = المدوّنة
 navigation-compare = مقارنة
 navigation-podcast = تدوين صوتي
+navigation-data-protection = حماية البيانات
 
 ## Download
 

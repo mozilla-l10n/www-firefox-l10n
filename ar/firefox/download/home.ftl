@@ -35,6 +35,9 @@ firefox-home-swear-off = وداعًا للمشتّتات
 firefox-home-stay-focused = حافظ على تركيزك مع إضافات مثل <a { $tomato_clock_attrs }>Tomato Clock</a> و <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — وهي ضمن قائمة &quot;الموصى بها&quot;، أي أنها حصلت على علامة التميّز لدينا بفضل الأمان الفائق والأداء المميز.
 firefox-home-your-stuff = كل ما يخصك، على جميع شاشاتك.
 firefox-home-get-firefox-mobile = حمّل { -brand-name-firefox } على هاتفك لتأخذ معك كلمات المرور وعلامات التبويب وسجل التصفح — إلى جانب الخصوصية والأمان اللذين تعتمد عليهما — أينما ذهبت.
+firefox-home-privacy-built-in = الخصوصية مُدمجة
+firefox-home-personal-data-not-for-sale = بياناتك الشخصية ليست للبيع. نحجب المُتعقّبات وملفات تعريف الارتباط من الأطراف الثالثة افتراضيًا، لتستمتع بتجربة تصفح آمنة وسلسة.
+firefox-home-learn-data-protection = اكتشف كيف تحمي { -brand-name-firefox } بياناتك.
 
 ## Customization
 
@@ -63,5 +66,6 @@ firefox-home-lots-of-open = الكثير من علامات التبويب الم
 firefox-home-shield-and-hand = درع ويد تحمي علامة تبويب في المتصفح.
 firefox-home-a-human-brain = دماغ بشري متصل بالعالم.
 firefox-home-desktop-laptop-and-phone = كمبيوتر مكتبي وكمبيوتر محمول وهاتف ذكي.
+firefox-home-browser-window-with-lock = نافذة مُتصفّح بها أيقونة قفل وأيقونة درع.
 firefox-home-firefox-in-dark = { -brand-name-firefox } في الوضع الداكن.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } على كمبيوتر مكتبي.

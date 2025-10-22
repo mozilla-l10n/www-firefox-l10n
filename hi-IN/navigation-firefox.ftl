@@ -32,6 +32,7 @@ navigation-learn = जानें
 navigation-blog = ब्लॉग
 navigation-compare = तुलना करें
 navigation-podcast = पोडकास्ट
+navigation-data-protection = डेटा सुरक्षा
 
 ## Download
 
