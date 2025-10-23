@@ -17,4 +17,5 @@ firefox-developer-resources-for-developers = Burime nga Zhvillues, për Zhvillue
 firefox-developer-mdn-playground = Laborator
 firefox-developer-mdn-write-test-and-share = Shkruani, testoni dhe ndan me të tjerë kodin tuaj. Bankëprova juaj për të mësuar dhe ndarë me botën punën tuaj mahnitëse.
 firefox-developer-mdn-blog = Blogu i { -brand-name-mdn }
+firefox-developer-mdn-unlock-the-world = Çlironi botën e zhvillimit web me Blogun { -brand-name-mdn } — vendi ku shkoni për mendime ekspertësh, standardet më të reja web dhe ndihmëza kodimi.
 firefox-developer-mdn-updates = Përditësime
