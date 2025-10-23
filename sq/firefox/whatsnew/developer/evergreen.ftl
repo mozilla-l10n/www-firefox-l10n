@@ -19,3 +19,4 @@ firefox-developer-mdn-write-test-and-share = Shkruani, testoni dhe ndan me të t
 firefox-developer-mdn-blog = Blogu i { -brand-name-mdn }
 firefox-developer-mdn-unlock-the-world = Çlironi botën e zhvillimit web me Blogun { -brand-name-mdn } — vendi ku shkoni për mendime ekspertësh, standardet më të reja web dhe ndihmëza kodimi.
 firefox-developer-mdn-updates = Përditësime
+firefox-developer-mdn-the-web-doesnt-have = Interneti s’ka regjistër ndryshimesh, por { -brand-name-mdn } mund të ndihmojë. Mund të personalizoni dhe filtroni ndryshime përputhshmërie bazuar në shfletues, apo kategorinë teknike që ju intereson, qoftë kjo JavaScript, CSS, etj.
