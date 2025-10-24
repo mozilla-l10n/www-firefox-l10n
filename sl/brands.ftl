@@ -172,6 +172,7 @@
 
 ## Mozilla projects
 
+-brand-name-bugzilla = Bugzilla
 -brand-name-gecko =
     { $sklon ->
         [rodilnik] Gecka
