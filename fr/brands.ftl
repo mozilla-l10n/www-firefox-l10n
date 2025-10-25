@@ -23,8 +23,16 @@
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = navigateur Firefox
--brand-name-firefox-browsers = navigateurs Firefox
+-brand-name-firefox-browser =
+    { $capitalization ->
+        [uppercase] Navigateurs Firefox
+       *[lowercase] navigateurs Firefox
+    }
+-brand-name-firefox-browsers =
+    { $capitalization ->
+        [uppercase] Navigateurs Firefox
+       *[lowercase] navigateurs Firefox
+    }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
