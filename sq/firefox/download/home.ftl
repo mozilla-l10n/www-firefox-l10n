@@ -24,6 +24,9 @@ firefox-home-see-release = Shihni Shënime Hedhjeje Në Qarkullim
 ## Features
 
 firefox-home-get-the-browser = Merrni shfletuesin që ju ndihmon të mbaroni punë
+firefox-home-block-ad-trackers = Bllokoni gjurmues reklamash pa luajtur gishtin
+firefox-home-ad-trackers-make = Gjurmuesit nga reklamat bëjnë që faqet të ngarkohen më ngadalë. Me { -brand-name-firefox }-in, s’do t’ju duhet të rrëmoni nëpër rregullime që të ndreqni këtë, ngaqë ne bllokojmë automatikisht shumicën e gjurmuesve.
+firefox-home-your-stuff = Gjërat tuaja, në krejt ekranet tuaj
 firefox-home-privacy-built-in = Privatësi së brendshmi
 firefox-home-personal-data-not-for-sale = Të dhënat tuaja personale s’janë për shitje. Gjurmues dhe “cookies” nga palë të treta bllokohen si parazgjedhje, që kështu të mundni thjesht … të shfletoni.
 firefox-home-learn-data-protection = Mësoni se i mbron të dhënat tuaja { -brand-name-firefox }-i
