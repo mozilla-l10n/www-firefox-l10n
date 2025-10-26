@@ -18,7 +18,10 @@ firefox-home-set-firefox-as = Vëreni { -brand-name-firefox }-in shfletuesin tua
 firefox-home-latest-features = Veçoritë më të reja të { -brand-name-firefox }-it
 firefox-home-dial-down = Zvogëloni zhurmën
 firefox-home-block-ads = Bllokoni reklama dhe thelloni privatësinë tuaj me rregullime që mund t’i përshtatni dhe thasë zgjerimesh të shkarkueshme.
+firefox-home-multitasking = Shumëpunësh?
+firefox-home-go-into-reading = Kaloni nën mënyrën lexim, hapni dritare videosh dhe bëhuni më i organizuar, me skeda vertikale dhe grupe skedash.
 firefox-home-keep-tabs-on = Mbani në vëzhgim krejt skedat tuaja
+firefox-home-close-duplicates = Mbyllni përsëdytje, kërkoni te dhe fiksoni skeda të hapura — ka thuajse mundësi të pafundme për thuajse një numër të pafundmë skedash që keni hapur.
 firefox-home-see-release = Shihni Shënime Hedhjeje Në Qarkullim
 
 ## Features
@@ -28,6 +31,10 @@ firefox-home-block-ad-trackers = Bllokoni gjurmues reklamash pa luajtur gishtin
 firefox-home-ad-trackers-make = Gjurmuesit nga reklamat bëjnë që faqet të ngarkohen më ngadalë. Me { -brand-name-firefox }-in, s’do t’ju duhet të rrëmoni nëpër rregullime që të ndreqni këtë, ngaqë ne bllokojmë automatikisht shumicën e gjurmuesve.
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Jepuni fund shpërqendrimeve
+# Variables
+#   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
+#   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
+firefox-home-stay-focused = Ruani përqendrimin, me zgjerime të tilla si <a { $tomato_clock_attrs }>Tomato Clock</a> dhe <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — janë të Rekomanduara, si njëfarë ylli i artë, për pasje sigurie dhe funksionesh të shkëlqyera.
 firefox-home-your-stuff = Gjërat tuaja, në krejt ekranet tuaj
 firefox-home-get-firefox-mobile = Merrni { -brand-name-firefox } për celular, që kështu fjalëkalimet tuaj, skedat dhe historiku — dhe privatësia dhe siguria te të cilat bazoheni — të vijnë me ju kudo ku shkoni.
 firefox-home-privacy-built-in = Privatësi së brendshmi
