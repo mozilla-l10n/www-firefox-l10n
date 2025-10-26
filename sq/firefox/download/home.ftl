@@ -27,13 +27,19 @@ firefox-home-get-the-browser = Merrni shfletuesin që ju ndihmon të mbaroni pun
 firefox-home-block-ad-trackers = Bllokoni gjurmues reklamash pa luajtur gishtin
 firefox-home-ad-trackers-make = Gjurmuesit nga reklamat bëjnë që faqet të ngarkohen më ngadalë. Me { -brand-name-firefox }-in, s’do t’ju duhet të rrëmoni nëpër rregullime që të ndreqni këtë, ngaqë ne bllokojmë automatikisht shumicën e gjurmuesve.
 firefox-home-your-stuff = Gjërat tuaja, në krejt ekranet tuaj
+firefox-home-get-firefox-mobile = Merrni { -brand-name-firefox } për celular, që kështu fjalëkalimet tuaj, skedat dhe historiku — dhe privatësia dhe siguria te të cilat bazoheni — të vijnë me ju kudo ku shkoni.
 firefox-home-privacy-built-in = Privatësi së brendshmi
 firefox-home-personal-data-not-for-sale = Të dhënat tuaja personale s’janë për shitje. Gjurmues dhe “cookies” nga palë të treta bllokohen si parazgjedhje, që kështu të mundni thjesht … të shfletoni.
 firefox-home-learn-data-protection = Mësoni se i mbron të dhënat tuaja { -brand-name-firefox }-i
 
 ## Customization
 
+# asterisks provide playful emphasis, omit or use symbols appropriate in your language
+firefox-home-really-make-it = Bëheni *përnjëmend* tuajin
 firefox-home-work-smarter = Punoni më mençur, luani më fort
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = Eksploroni mundësitë për kërkime, blerje, etj, te <a { $extensions_attrs }>zgjerimet</a>.
 firefox-home-bye-boring = Shëndet, shfletues i mërzitshëm
 
 ## Final call-out
