@@ -36,12 +36,18 @@ firefox-home-learn-data-protection = Mësoni se i mbron të dhënat tuaja { -bra
 firefox-home-work-smarter = Punoni më mençur, luani më fort
 firefox-home-bye-boring = Shëndet, shfletues i mërzitshëm
 
+## Final call-out
+
+firefox-home-billionaire-free = Pa miliarderë për mbi 20 vjet
+firefox-home-firefox-was-created = { -brand-name-firefox } u krijua më 2004-n nga { -brand-name-mozilla } si një alternativë më e shpejtë, më private dhe që mund të përshtatej, kundrejt shfletuesish të tillë si Internet Explorer. Sot jemi ende një ent jofitimprurës, ende jo pronë e ndonjë miliarderi dhe ende duke punuar për ta bërë internetin — dhe kohën që shpenzoni në të — më të mirë.
+
 ## Used as accessible alternative text for images.
 
 firefox-home-firefox-on-desktop = { -brand-name-firefox } në desktop dhe celular.
 firefox-home-happy-toggle = Ndërrim të lumtur.
 firefox-home-multiple-cursors = Kursorë të shumtë.
 firefox-home-lots-of-open = Plot skeda të hapura.
+firefox-home-shield-and-hand = Mburojë dhe dorë që mbron një skedë shfletuesi.
 firefox-home-a-human-brain = Një tru njerëzor i lidhur me botën.
 firefox-home-desktop-laptop-and-phone = Desktop, portativ dhe telefon.
 firefox-home-browser-window-with-lock = Dritare shfletuesi me ikona dryni dhe mburoje
