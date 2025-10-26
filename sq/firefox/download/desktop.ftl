@@ -28,7 +28,7 @@ firefox-desktop-download-browser-support = Asistencë për { -brand-name-firefox
 firefox-desktop-download-do-what-you-do-v2 = Bëni ç’të doni në internet.<br> { -brand-name-firefox-browser } ju mbron<strong>krahët</strong>.
 firefox-desktop-download-we-block-the-ad = Ne bllokojmë gjurmues reklamash. Ju eksploroni internetin më shpejt.
 firefox-desktop-download-ads-are-distracting = Reklamat të tërheqin vëmendjen dhe bëjnë që faqet web të ngarkohen më ngadalë, teksa gjurmuesit që përmbajnë ndjekin çdo lëvizje që bëni në internet. { -brand-name-firefox-browser }-i bllokon automatikisht shumicën e gjurmuesve, ndaj s’keni pse të zhyteni në rregullimet tuaja të sigurisë.
-firefox-desktop-download-see-your-report = Shihni raportin tuaj të mbrojtjes
+firefox-desktop-download-see-your-report = Shihni raportin për mbrojtjen tuaj
 firefox-desktop-download-for-everyone = { -brand-name-firefox }-i është për këdo
 firefox-desktop-download-available-in-over = I gatshëm në mbi 90 gjuhë dhe i përputhshëm me makina { -brand-name-windows }, { -brand-name-mac-short } dhe { -brand-name-linux }, { -brand-name-firefox } funksionon pavarësisht se ç’përdorni apo se ku ndodheni. Për funksionimin më të mirë, sigurohuni që sistemi juaj është i përditësuar.
 firefox-desktop-download-review-system-req = Shqyrtoni domosdoshmëri sistemi
@@ -127,7 +127,7 @@ firefox-desktop-download-grab-a-high = Përlani një figurë me qartësi të mad
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>bllokon automatikisht mjaft gjurmues palësh të treta</a> të grumbullojnë dhe shesin të dhëna rreth veprimtarisë tuaj internetore.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-questions = Pyetje? Mbulohen për ju nga <a { $attrs }>asistenca e { -brand-name-mozilla }</a>.
+firefox-desktop-download-questions = Pyetje? Mbulohen për ju nga <a { $attrs }>asistenca e { -brand-name-mozilla }-s</a>.
 
 ## URL: https://www-dev.springfield.moz.works/thanks/
 

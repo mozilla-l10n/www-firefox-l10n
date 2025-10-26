@@ -26,6 +26,8 @@ firefox-home-see-release = Shihni Shënime Hedhjeje Në Qarkullim
 firefox-home-get-the-browser = Merrni shfletuesin që ju ndihmon të mbaroni punë
 firefox-home-block-ad-trackers = Bllokoni gjurmues reklamash pa luajtur gishtin
 firefox-home-ad-trackers-make = Gjurmuesit nga reklamat bëjnë që faqet të ngarkohen më ngadalë. Me { -brand-name-firefox }-in, s’do t’ju duhet të rrëmoni nëpër rregullime që të ndreqni këtë, ngaqë ne bllokojmë automatikisht shumicën e gjurmuesve.
+# "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
+firefox-home-swear-off = Jepuni fund shpërqendrimeve
 firefox-home-your-stuff = Gjërat tuaja, në krejt ekranet tuaj
 firefox-home-get-firefox-mobile = Merrni { -brand-name-firefox } për celular, që kështu fjalëkalimet tuaj, skedat dhe historiku — dhe privatësia dhe siguria te të cilat bazoheni — të vijnë me ju kudo ku shkoni.
 firefox-home-privacy-built-in = Privatësi së brendshmi
@@ -41,6 +43,9 @@ firefox-home-work-smarter = Punoni më mençur, luani më fort
 #   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
 firefox-home-explore-the-possibilities = Eksploroni mundësitë për kërkime, blerje, etj, te <a { $extensions_attrs }>zgjerimet</a>.
 firefox-home-bye-boring = Shëndet, shfletues i mërzitshëm
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = Interneti mund të jetë një vend i këndshëm, me <a { $theme_attrs }>temën</a> e duhur.
 
 ## Final call-out
 
