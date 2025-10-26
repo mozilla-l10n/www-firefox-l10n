@@ -14,7 +14,7 @@ firefox-desktop-download-meta-desc = Installez { -brand-name-firefox }, un navig
 firefox-desktop-download-meta-desc-v2 = Installez { -brand-name-firefox } pour { -brand-name-windows }, { -brand-name-mac-short } ou { -brand-name-linux }. { -brand-name-firefox } est un navigateur gratuit soutenu par { -brand-name-mozilla }, une organisation à but non lucratif consacrée à la santé d'Internet et au respect de la vie privée.
 firefox-desktop-download-og-title = Téléchargez la version la plus rapide de { -brand-name-firefox }
 firefox-desktop-download-og-desc = Un chargement des pages plus rapide, une consommation mémoire réduite et plein de fonctionnalités : le nouveau { -brand-name-firefox } est là.
-firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-firefox = Navigateur Firefox
 
 # Variables:
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
