@@ -37,6 +37,9 @@ firefox-home-swear-off = Eliberează-te de distrageri ale atenției
 firefox-home-stay-focused = Rămâi concentrat(ă) cu extensii precum <a { $tomato_clock_attrs }>Tomato Clock</a> și <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — sunt recomandate, ceea ce e ca steaua noastră de aur pentru securitatea și funcționalitatea excepționale pe care le oferă.
 firefox-home-your-stuff = Ale tale, pe toate ecranele tale
 firefox-home-get-firefox-mobile = Obține { -brand-name-firefox } pentru mobil, astfel încât parolele, filele și istoricul — precum și confidențialitatea și securitatea pe care te bazezi — să te însoțească oriunde te-ai duce.
+firefox-home-privacy-built-in = Confidențialitate încorporată
+firefox-home-personal-data-not-for-sale = Datele tale personale nu sunt de vânzare. Elementele de urmărire și cookie-urile terțe sunt blocate implicit, așa că poți pur și simplu … să navighezi.
+firefox-home-learn-data-protection = Află cum îți protejează { -brand-name-firefox } datele
 
 ## Customization
 
@@ -65,5 +68,6 @@ firefox-home-lots-of-open = Multe file deschise.
 firefox-home-shield-and-hand = Scut și mână care protejează o filă de browser.
 firefox-home-a-human-brain = Un creier uman conectat la lume.
 firefox-home-desktop-laptop-and-phone = Desktop, laptop și telefon.
+firefox-home-browser-window-with-lock = Fereastră de browser cu pictograme lacăt și scut.
 firefox-home-firefox-in-dark = { -brand-name-firefox } în modul întunecat.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } pe un desktop.
