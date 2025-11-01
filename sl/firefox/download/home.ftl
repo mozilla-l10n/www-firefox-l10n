@@ -33,12 +33,16 @@ firefox-home-swear-off = Odkrižajte se motenj
 firefox-home-your-stuff = Vaše stvari na vseh vaših zaslonih
 firefox-home-get-firefox-mobile = Prenesite { -brand-name-firefox } za mobilne naprave in imejte gesla, zavihke in zgodovino – ter zasebnost in varnost, na kateri se zanašate – s seboj, kamorkoli greste.
 firefox-home-privacy-built-in = Vgrajena zasebnost
+firefox-home-personal-data-not-for-sale = Vaši osebni podatki niso naprodaj. Sledilce in piškotke tretjih strani privzeto blokiramo, da vi lahko samo … brskate.
 firefox-home-learn-data-protection = Preberite, kako { -brand-name-firefox } ščiti vaše podatke
 
 ## Customization
 
 # asterisks provide playful emphasis, omit or use symbols appropriate in your language
 firefox-home-really-make-it = Napravite ga *resnično* svojega
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = Internet je lahko super kraj, če le izberete pravo <a { $theme_attrs }>temo</a> brskalnika.
 
 ## Final call-out
 
