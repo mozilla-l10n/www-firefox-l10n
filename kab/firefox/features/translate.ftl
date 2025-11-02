@@ -10,4 +10,5 @@ features-translate-translate-a-webpage-with-firefox = Suqel isebtar web s { -bra
 features-translate-translate-the-web = Suqel web
 features-translate-when-you-translate-a-webpage = Mi ara d-tessuqqleḍ asebter web, ad yeqqim d uslig
 features-translate-what-languages-are-currently = Anti tutlayin i yettwasefraken akka tura?
+features-translate-and-more-languages-are-in = D wugar n tutlayin nettneflay fell-asent!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } yettmeslay tutlayt-ik·im
