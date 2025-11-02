@@ -34,6 +34,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Tamɣiwant
 footer-contribute = Ttekki
 footer-developer = Aneflay
+footer-connect = Qqen
 
 ## Links to resources
 
@@ -41,6 +42,9 @@ footer-developer = Aneflay
 footer-resources = Tiɣbula
 footer-compare = Serwes
 footer-release-notes = Iwenniten n lqem
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Lmed
 footer-support = Tallalt
 footer-addons = Izegrar
 footer-blog = Ablug
@@ -64,4 +68,5 @@ footer-logo-trademark-licensing = Turagt n tecreḍt yersen n ulugu
 ## Language Switcher
 
 footer-language = Tutlayt
+footer-go = Bdu
 footer-firefox = { -brand-name-firefox }

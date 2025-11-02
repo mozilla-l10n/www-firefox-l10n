@@ -17,6 +17,7 @@ firefox-desktop-download-og-desc = Asali n usebter arurad, drus n tkatut n useqd
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Awi iminig ara yemmestnen ayen yesεan azal
 firefox-desktop-download-fast-reliable-private = D arurad, d anaflas, d uslig — i talwit n uqeṛruy deg Internet.
+firefox-desktop-set-as-default = Err { -brand-name-firefox } d iminig-ik·im amezwer
 firefox-desktop-download-download-options = Sader iɣewwaṛen d tutlayin-nniḍen
 firefox-desktop-download-browser-support = Asefrek { -brand-name-firefox-browser }
 firefox-desktop-download-we-block-the-ad = Nessewḥal ineḍfaren n udellel. Kečč·kemm tesnirimeḍ internet s urured.

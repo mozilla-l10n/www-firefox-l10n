@@ -7,6 +7,8 @@ send-to-device-your-download-link = Aseɣwen-ik n usider yettwazen.
 send-to-device-please-enter-an-email = Ma ulac aɣilif mudd-d tansa imayl.
 send-to-device-an-error-occured = Teḍra-d tuccḍa ɣef unagraw-nneɣ. Ma ulac aɣilif, ɛreḍ tikkelt-nniḍen ticki.
 send-to-device-enter-your-email = Sekcem imayl inek
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = isemik@example.com
 send-to-device-send = Azen
 send-to-device-intended-recipient-email = Yessefk d akken aɣerwaḍ n yimayl ad yeqbel.
 send-to-device-check-your-device-email = Senqed iznan inek imaylen ɣef yibenk inek.

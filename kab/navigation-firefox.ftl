@@ -9,6 +9,7 @@ navigation-landmark-label = Agejdan
 ## Features
 
 navigation-features = Timahilin
+navigation-top-features = Timahilin ifazen
 
 ## Resources
 
@@ -24,6 +25,7 @@ navigation-learn = Lmed
 navigation-blog = Ablug
 navigation-compare = Serwes
 navigation-podcast = Apodkast
+navigation-data-protection = Ammesten n yisefka
 
 ## Download
 
