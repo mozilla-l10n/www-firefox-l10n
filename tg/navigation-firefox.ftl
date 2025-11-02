@@ -31,6 +31,7 @@ navigation-learn = Омӯзиш
 navigation-blog = Блог
 navigation-compare = Муқоиса кардани браузерҳо
 navigation-podcast = Подкаст
+navigation-data-protection = Муҳофизати маълумот
 
 ## Download
 
