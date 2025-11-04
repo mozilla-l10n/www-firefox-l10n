@@ -37,7 +37,7 @@ firefox-home-get-firefox-mobile = Use o { -brand-name-firefox } para dispositivo
 
 # asterisks provide playful emphasis, omit or use symbols appropriate in your language
 firefox-home-really-make-it = *Realmente* deixe do seu jeito
-firefox-home-bye-boring = Tchau, navegador chato
+firefox-home-bye-boring = Chega de navegador sem graça
 
 ## Final call-out
 
