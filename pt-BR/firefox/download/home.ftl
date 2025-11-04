@@ -28,11 +28,18 @@ firefox-home-see-release = Ver notas de atualização
 
 firefox-home-get-the-browser = Use o navegador que te ajuda a fazer o trabalho
 firefox-home-block-ad-trackers = Bloqueie rastreadores de anúncios sem mover um dedo
+firefox-home-ad-trackers-make = Rastreadores de anúncios tornam o carregamento de páginas web mais lento. Com o { -brand-name-firefox }, você não precisa procurar nas configurações para corrigir isso, porque bloqueamos automaticamente a maioria dos rastreadores.
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Deixe as distrações de lado
+# Variables
+#   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
+#   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
+firefox-home-stay-focused = Mantenha o foco com extensões como <a { $tomato_wind_attrs }>Tomato Clock</a> e <a { $turn_off_the_attrs }>Turn Off the Lights</a>. Elas são recomendadas, o que é como um emblema dourado que indica funcionalidades e segurança excepcionais.
 firefox-home-your-stuff = Suas coisas, em todos os seus dispositivos
 firefox-home-get-firefox-mobile = Use o { -brand-name-firefox } para dispositivos móveis para que suas senhas, abas e histórico, além da privacidade e segurança em que você confia, estejam com você onde quer que vá.
 firefox-home-privacy-built-in = Privacidade integrada
+firefox-home-personal-data-not-for-sale = Seus dados pessoais não estão à venda. Rastreadores e cookies de terceiros são bloqueados por padrão, para que você possa simplesmente … navegar.
+firefox-home-learn-data-protection = Saiba como o { -brand-name-firefox } protege seus dados
 
 ## Customization
 
