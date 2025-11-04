@@ -38,6 +38,7 @@ firefox-home-stay-focused = <a { $tomato_clock_attrs }>Tomato Clock</a> ve <a { 
 firefox-home-your-stuff = Verilerinize bütün cihazlarınızdan ulaşın
 firefox-home-get-firefox-mobile = { -brand-name-firefox } mobil uygulamasıyla parolalarınız, sekmeleriniz, geçmişiniz hep yanınızda; tabii bizden beklediğiniz gizlilik ve güvenlikle birlikte.
 firefox-home-privacy-built-in = Yerleşik gizlilik
+firefox-home-personal-data-not-for-sale = Kişisel verilerinizi satmıyoruz. Takip kodlarını ve üçüncü taraf çerezleri varsayılan olarak engeliyoruz. Siz de gönül rahatlığıyla geziniyorsunuz.
 firefox-home-learn-data-protection = { -brand-name-firefox }’un verilerinizi nasıl koruduğunu öğrenin
 
 ## Customization
