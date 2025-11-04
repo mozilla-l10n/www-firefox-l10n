@@ -32,16 +32,25 @@ firefox-home-block-ad-trackers = Bloqueie rastreadores de anúncios sem mover um
 firefox-home-swear-off = Deixe as distrações de lado
 firefox-home-your-stuff = Suas coisas, em todos os seus dispositivos
 firefox-home-get-firefox-mobile = Use o { -brand-name-firefox } para dispositivos móveis para que suas senhas, abas e histórico, além da privacidade e segurança em que você confia, estejam com você onde quer que vá.
+firefox-home-privacy-built-in = Privacidade integrada
 
 ## Customization
 
 # asterisks provide playful emphasis, omit or use symbols appropriate in your language
 firefox-home-really-make-it = *Realmente* deixe do seu jeito
+firefox-home-work-smarter = Trabalhe melhor, divirta-se mais
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = Descubra as possibilidades de pesquisas, compras e muito mais usando <a { $extensions_attrs }>extensões</a>.
 firefox-home-bye-boring = Chega de navegador sem graça
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = A internet pode ser um lugar agradável, com o <a { $theme_attrs }>tema</a> adequado para você.
 
 ## Final call-out
 
 firefox-home-billionaire-free = Livre de bilionários por mais de 20 anos
+firefox-home-firefox-was-created = O { -brand-name-firefox } foi criado em 2004 pela { -brand-name-mozilla } como uma alternativa mais rápida, privativa e personalizável a navegadores como o Internet Explorer. Atualmente, continuamos sendo uma organização sem fins lucrativos, que não é de propriedade de nenhum bilionário e que trabalha para melhorar a internet e o tempo que você fica nela.
 
 ## Used as accessible alternative text for images.
 
@@ -52,5 +61,6 @@ firefox-home-lots-of-open = Muitas abas abertas.
 firefox-home-shield-and-hand = Escudo e mão protegendo uma aba do navegador.
 firefox-home-a-human-brain = Um cérebro humano conectado ao mundo.
 firefox-home-desktop-laptop-and-phone = Computador, notebook e celular.
+firefox-home-browser-window-with-lock = Janela do navegador com ícones de cadeado e escudo.
 firefox-home-firefox-in-dark = { -brand-name-firefox } em modo escuro.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } em um computador.
