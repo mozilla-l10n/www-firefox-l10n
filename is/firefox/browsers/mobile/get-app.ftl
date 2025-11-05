@@ -5,3 +5,5 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/mobile/get-app/
 
+firefox-mobile-get-firefox-mobile = Fáðu þér { -brand-name-firefox } fyrir farsíma
+firefox-mobile-send-a-download-link-to-your = Sendu niðurhalstengil í símann þinn.

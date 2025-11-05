@@ -3,6 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/compare/
+### URL: https://www-dev.springfield.moz.works/compare/opera/
 
-compare-shared-its-easy-to-switch = Það er auðvelt að skipta
+# Page title
+compare-opera-firefox-vs-opera = { -brand-name-firefox } borið saman við Opera

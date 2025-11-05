@@ -3,6 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/compare/
+### URL: https://www-dev.springfield.moz.works/compare/chrome/
 
-compare-shared-its-easy-to-switch = Það er auðvelt að skipta
+# Page title
+compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } borið saman við Google Chrome
