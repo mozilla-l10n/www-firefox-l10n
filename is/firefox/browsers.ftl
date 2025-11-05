@@ -20,4 +20,5 @@ firefox-browsers-mac = { -brand-name-firefox } fyrir { -brand-name-mac-short }
 firefox-browsers-linux = { -brand-name-firefox } fyrir { -brand-name-linux }
 firefox-browsers-custom = Sérsniðnir niðurhalsvalkostir
 firefox-browsers-enterprise = { -brand-name-enterprise }
+firefox-browsers-get-unmatched-data-protection = Fáðu óviðjafnanlega gagnavernd með uppfærslutíðni og aðstoð sem er sniðin að þörfum fyrirtækisins þíns.
 firefox-browsers-enterprise-packages = { -brand-name-enterprise } pakkar

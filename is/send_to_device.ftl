@@ -7,6 +7,8 @@ send-to-device-your-download-link = Búið er að senda niðurhalstengilinn.
 send-to-device-please-enter-an-email = Settu inn tölvupóstfang.
 send-to-device-an-error-occured = Villa kom upp í kerfinu. Reyndu aftur seinna.
 send-to-device-enter-your-email = Settu inn tölvupóstfangið þitt
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = notandi@example.com
 send-to-device-send = Senda
 send-to-device-intended-recipient-email = Mótttakandi tölvupóstsins verður að vera samþykkur.
 send-to-device-check-your-device-email = Athugaðu hvort þú hafir fengið tölvupóst á tækið!
