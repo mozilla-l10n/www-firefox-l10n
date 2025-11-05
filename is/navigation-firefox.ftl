@@ -11,7 +11,28 @@ navigation-landmark-label = Aðal
 navigation-features = Eiginleikar
 navigation-close-features-menu = Loka eiginleikavalmyndinni
 navigation-top-features = Helstu eiginleikar
+navigation-fingerprint-blocking = Útilokun fingrafaragerðar
+navigation-ad-tracker-blocking = Lokun á auglýsingarakningar
+navigation-private-browsing = Huliðsvafrahamur
+navigation-password-manager = Ókeypis lykilorðaumsýsla
+navigation-features-all = Skoða alla eiginleika { -brand-name-firefox }
 
 ## Resources
 
 navigation-resources = Tilföng
+navigation-close-resources-menu = Loka tilfangavalmyndinni
+navigation-product = Hugbúnaður
+navigation-desktop = Vinnutölvur
+navigation-mobile = Farsíma
+navigation-release-notes = Útgáfuupplýsingar
+navigation-support = Aðstoð
+navigation-add-ons = Viðbætur
+navigation-learn = Læra
+navigation-blog = Blogg
+navigation-compare = Bera saman
+navigation-podcast = Hlaðvarp
+navigation-data-protection = Gagnavernd
+
+## Download
+
+navigation-download = Niðurhal

@@ -5,3 +5,6 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/
 
+features-shared-firefox-features = Eiginleikar { -brand-name-firefox }
+features-shared-footer-cta-title = Gerðu meira með { -brand-name-firefox }
+features-shared-footer-cta-desc = Fáðu þér hraðvirkan, léttan vafra með áherslu á friðhelgi einkalífsins, sem er studdur án hagnaðarmarkmiða og virkar á öllum tækjunum þínum.
