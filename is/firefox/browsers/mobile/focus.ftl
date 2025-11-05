@@ -23,5 +23,6 @@ mobile-focus-private-browsing-on-v2 = „Einkavafur“ eða „Huliðshamur“ e
 mobile-focus-tracking-protection = Vörn gegn eftirliti
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } lokar sjálfgefið á mikið úrval algengra rekjara, þar á meðal samfélagsmiðlarekjara og einnig þessa límkenndu sem koma frá hlutum eins og { -brand-name-facebook }-auglýsingum.
 mobile-focus-see-it-all = Sjáðu þetta allt hraðar
+mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } fjarlægir rekjara svo síðurnar sem þú ert að skoða krefjast minni gagna og hlaðast því inn miklu hraðar. Festu líka allt að fjóra flýtivísa á upphafsskjáinn þinn og farðu enn hraðar á uppáhaldssíðurnar þínar án þess að skrifa neitt inn.
 mobile-focus-made-by-mozilla = Gert af { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = Við teljum að allir eigi að geta haft stjórn á lífi sínu á netinu. Þetta er það sem við höfum barist fyrir síðan 1998.
