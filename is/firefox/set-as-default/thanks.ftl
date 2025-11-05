@@ -18,5 +18,6 @@ set-as-default-thanks-heres-everything-you-need-android = Hér er allt sem þú 
 # Variables:
 #   $ios (url) - link to https://support.mozilla.org/en-US/kb/unable-set-firefox-default-browser-ios
 set-as-default-thanks-heres-everything-you-need-ios = Hér er allt sem þú þarft að vita til að stilla sjálfgefna vafrann þinn á <a href="{ $ios }">iOS-tækjum</a>.
+set-as-default-thanks-youre-all-set = Nú er allt tilbúið.
 set-as-default-thanks-get-firefox-for-mobile = Náðu í { -brand-name-firefox } fyrir farsíma
 set-as-default-thanks-having-trouble = Áttu í vandræðum?
