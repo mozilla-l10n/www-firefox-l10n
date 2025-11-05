@@ -14,6 +14,8 @@ compare-chome-read-our-comparison = Lestu samanburð okkar á { -brand-name-fire
 # $adblocker (url) - link to https://www.firefox.com/features/adblocker/
 compare-chrome-firefoxs-default-privacy-settings = Sjálfgefnar persónuverndarstillingar í { -brand-name-firefox } eru mun stangari en í Chrome – og við höfum viðbótareiginleika til að koma í veg fyrir að vefsvæði fylgist með ferðum þínum, eins og að útiloka <a { $fingerprint }>gerð fingrafara</a>, sem og varðandi val þitt á viðbótum fyrir <a { $adblocker }>hindrun auglýsinga</a>.
 compare-chrome-we-block-trackers-by-default = Við lokum sjálfkrafa á rakningarforrit. Chrome gerir það ekki.
+compare-chrome-in-fact-by-default-chrome-monitors = Reyndar fylgist Chrome sjálfgefið með því hvaða vefsvæði þú heimsækir og hvað þú gerir þar, í þeim tilgangi að ákveða hentugt „auglýsingaefni“ við þitt hæfi. Þú getur lokað á þenns konar auglýsingaefni en þú getur ekki látið Chrome hætta að bera kennsl á önnur auglýsingaefni fyrir þig.
+compare-chrome-chrome-allows-other-websites-to = Chrome leyfir öðrum vefsvæðum að safna upplýsingum um þig svo þau geti komið með tillögur að auglýsingum. Þú getur lokað á að tiltekin vefsvæði leggi til auglýsingar, en þú getur ekki stöðvað gagnasöfnun eða tillögur frá öðrum vefsvæðum.
 compare-chrome-google-runs-the-worlds-largest = Google rekur stærsta auglýsinganet í heimi og Chrome er hluti af því.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/switching-chrome-firefox
