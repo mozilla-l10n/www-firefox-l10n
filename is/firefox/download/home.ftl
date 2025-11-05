@@ -25,5 +25,6 @@ firefox-home-privacy-built-in = Innbyggð friðhelgi einkalífs
 
 firefox-home-firefox-on-desktop = { -brand-name-firefox } á tölvum og farsímum.
 firefox-home-desktop-laptop-and-phone = Borðtölvur, fartölvur og símar.
+firefox-home-browser-window-with-lock = Vafragluggi með lás- og skjaldatáknum.
 firefox-home-firefox-in-dark = { -brand-name-firefox } í dökkum ham.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } á borðtölvu.
