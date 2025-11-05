@@ -20,4 +20,14 @@ set-as-default-thanks-heres-everything-you-need-android = Hér er allt sem þú 
 set-as-default-thanks-heres-everything-you-need-ios = Hér er allt sem þú þarft að vita til að stilla sjálfgefna vafrann þinn á <a href="{ $ios }">iOS-tækjum</a>.
 set-as-default-thanks-youre-all-set = Nú er allt tilbúið.
 set-as-default-thanks-get-firefox-for-mobile = Náðu í { -brand-name-firefox } fyrir farsíma
+set-as-default-thanks-travel-the-internet-with = Ferðastu um internetið með vernd á öllum tækjunum þínum.
+set-as-default-thanks-download-the-app = Sæktu forritið
+set-as-default-create-an-account = Stofnaðu reikning
+set-as-default-thanks-sign-up-for-a-free-account-v2 = Skráðu þig fyrir ókeypis { -brand-name-mozilla-account } og samstilltu öll lykilorðin þín, vafurferil og stillingar á milli tækjanna þinna.
+# Account here refers to a Firefox Account
+set-as-default-thanks-get-an-account = Fáðu þér reikning
 set-as-default-thanks-having-trouble = Áttu í vandræðum?
+# Variables:
+#   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
+#   $desktop (url) - link to https://support.mozilla.org/kb/make-firefox-your-default-browser
+set-as-default-thanks-heres-everything-you-need-android-desktop = Hér er allt sem þú þarft að vita til að stilla sjálfgefna vafrann þinn á <a href="{ $android }">Android-tækjum</a> eða á <a href="{ $desktop }">vinnutölvum</a>.

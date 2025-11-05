@@ -19,6 +19,8 @@ browsers-mobile-get-enhanced-tracking-protection = Fáðu aukna rakningarvernd o
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Ertu að leita að straumlínulöguðum, ofurhraðvirkum farsímavafra með næsta stigs persónuverndareiginleikum? { -brand-name-firefox-focus } eyðir sjálfkrafa öllum vafurferli þínum frá því augnabliki sem þú opnar vafrann þar til þú lokar honum.
 browsers-mobile-compare = Bera saman
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Sjáðu hvernig { -brand-name-firefox } fyrir <strong>vinnutölvur</strong> stendur sig á móti öðrum vöfrum.
 browsers-mobile-download = Sækja
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

@@ -7,8 +7,11 @@
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Persónuverndarvafrinn
+# HTML description
+mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } er sérlegur persónuverndarvafri þinn með sjálfvirkri rakningarvörn.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Einfalt huliðsvafur á farsímum
+mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } er sérlegur persónuverndarvafri þinn með sjálfvirkri rakningarvörn. Með { -brand-name-focus } hlaðast síðurnar þínar hraðar og gögnin þín haldast hjá þér.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } er tiltækur fyrir bæði { -brand-name-ios } og { -brand-name-android } tæki.
 mobile-focus-get-firefox-focus = Fáðu þér { -brand-name-firefox-focus }
 mobile-focus-scan-the-qr-code-to-get-started = Skannaðu QR-kóðann til að komast í gang
