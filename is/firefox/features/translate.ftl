@@ -19,3 +19,6 @@ features-translate-what-languages-are-currently = Hvaða tungumál eru studd nú
 features-translate-the-languages-below-are-what-v2 = Eftirfarandi tungumál eru nú studd af { -brand-name-firefox-translations } eiginleikanum:
 features-translate-and-more-languages-are-in = Og fleiri tungumál eru í þróun!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } talar tungumálið þitt
+# Variables:
+#   $download (url) = link to https://www.firefox.com/
+features-translate-the-firefox-translations-feature-v2 = { -brand-name-firefox-translations } eiginleikinn er önnur leið þar sem { -brand-name-mozilla } heldur internetinu persónulegu og einka fyrir þig. { -brand-name-mozilla } fylgist ekki með hvaða vefsíður þú þýðir. Með milljónir notenda um allan heim vill { -brand-name-mozilla } tryggja að þeir sem nota { -brand-name-firefox } séu að læra, eiga samskipti, deila upplýsingum og vera upplýstir á eigin forsendum. <a { $download }>Byrjaðu með þínu tungumáli með því að sækja { -brand-name-firefox }.</a>
