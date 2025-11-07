@@ -50,3 +50,5 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-बिट
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = <br><a href="{ $firefox_all }">दूसरी भाषा या प्लैटफ़ार्म</a> के लिए { -brand-name-firefox-esr } या रैपिड रिलीज़ डाउनलोड करें।
+
+firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
