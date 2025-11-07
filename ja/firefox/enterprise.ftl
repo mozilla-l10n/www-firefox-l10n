@@ -50,3 +50,5 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 ビット
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = <a href="{ $firefox_all }">別の言語または別のプラットフォーム用</a>の { -brand-name-firefox-esr } または Rapid Release をダウンロード
+
+firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }

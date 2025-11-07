@@ -8,6 +8,7 @@ newsletter-form-your-email-address = आपका ईमेल पता
 newsletter-form-we-are-sorry-but-there = हमें खेद है, लेकिन हमारे सिस्टम में कुछ दिक्कत आ गई थी। कृपया बाद में फिर से कोशिश करें!
 newsletter-form-please-select-country = कृपया देश या क्षेत्र चुनें
 newsletter-form-please-select-language = कृपया भाषा चुनें
+newsletter-form-button-cta = साइन अप
 
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
