@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Vaš e-poštni naslov
 newsletter-form-we-are-sorry-but-there = Zelo nam je žal, vendar je prišlo do težave z našim sistemom. Poskusite ponovno kasneje!
 newsletter-form-please-select-country = Izberite državo ali območje
 newsletter-form-please-select-language = Izberite jezik
+newsletter-form-button-cta = Prijava
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = ime@example.com
 newsletter-form-select-country-or-region = Izberite državo ali območje
