@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Waša e-mejlowa adresa
 newsletter-form-we-are-sorry-but-there = Bohužel je problem z našim systemom wustupił. Prošu spytajće pozdźišo hišće raz!
 newsletter-form-please-select-country = Wubjerće prošu kraj abo region
 newsletter-form-please-select-language = Prošu wubjerće rěč
+newsletter-form-button-cta = Registrować
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = wašemjeno@example.com
 newsletter-form-select-country-or-region = Kraj abo region wubrać

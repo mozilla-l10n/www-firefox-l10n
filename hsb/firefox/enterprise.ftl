@@ -46,3 +46,4 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 firefox-enterprise-download-firefox-esr-or-rapid = Sćehńće { -brand-name-firefox-esr } abo Rapid Release za<br> <a href="{ $firefox_all }">druhu rěč abo platformu.</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-support-for-organizations-documentation = Dokumentacija { -brand-name-support-for-organizations }
+firefox-enterprise-support-plan = Plan podpěry
