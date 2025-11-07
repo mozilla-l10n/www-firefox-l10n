@@ -8,6 +8,7 @@ newsletter-form-your-email-address = عنوان البريد الإلكترون�
 newsletter-form-we-are-sorry-but-there = عذرًا، لقد حدثت مُشكلة في نظامنا. من فضلك أعِد المحاولة في وقت لاحق.
 newsletter-form-please-select-country = يُرجى اختيار بلد أو منطقة
 newsletter-form-please-select-language = يُرجى اختيار لغة
+newsletter-form-button-cta = اخرج
 
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
