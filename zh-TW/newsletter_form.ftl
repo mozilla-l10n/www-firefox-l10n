@@ -8,7 +8,7 @@ newsletter-form-your-email-address = 您的電子郵件地址
 newsletter-form-we-are-sorry-but-there = 很抱歉，我們的系統發生問題，請稍候再試一次！
 newsletter-form-please-select-country = 請選擇國家或地區
 newsletter-form-please-select-language = 請選擇語言
-newsletter-form-button-cta = 註冊
+newsletter-form-button-cta = 訂閱
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = 選擇國家或地區

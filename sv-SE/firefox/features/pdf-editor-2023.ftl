@@ -26,3 +26,4 @@ pdf-editor-select-text-you-want-to = Öppna PDF:en i { -brand-name-firefox }. Ma
 pdf-editor-create-a-signature = Skapa en signatur
 pdf-editor-click-the-signature-icon = Öppna PDF:en i { -brand-name-firefox }. Klicka på signaturikonen och klicka sedan på "Lägg till ny signatur". Välj mellan Text, Ritning eller Bild, och klicka på Lägg till-knappen för att infoga. Du kan också spara dina signaturer och använda dem igen senare.
 pdf-editor-add-a-comment = Lägg till kommentarer
+pdf-editor-click-the-comment-icon = Öppna PDF:en i { -brand-name-firefox }. Markera den och klicka sedan på kommentarikonen som visas under ditt val, skriv din kommentar och klicka på Lägg till för att spara. Många kommentarer i en PDF? Klicka på kommentarikonen längst upp till höger för att öppna sidofältet och hoppa till den du behöver.
