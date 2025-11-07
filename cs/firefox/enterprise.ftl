@@ -45,8 +45,8 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = Stáhnout { -brand-name-firefox-esr(case: "acc") } nebo standardní verzi pro<br> <a href="{ $firefox_all }">jiný jazyk nebo platformu</a>.
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
-firefox-enterprise-early-access-is = Přednostní přístup je nyní otevřen pro náš nový program podpory, který spustíme v lednu 2026. Byl vytvořen pro organizace, které používají { -brand-name-firefox } k zajištění bezpečnosti, odolnosti a nezávislosti dat, poskytuje soukromou, spolehlivou a vlastní podporu pro rozsáhlá nasazení.
+firefox-enterprise-early-access-is = Nyní je k dispozici předběžný přístup k našemu novému programu podpory, který bude spuštěn v lednu 2026. Je určen pro organizace, které používají { -brand-name-firefox } k zajištění bezpečnosti, odolnosti a suverenity dat, a poskytuje soukromou, spolehlivou a přizpůsobenou podporu pro rozsáhlá nasazení.
 firefox-enterprise-contact-sales = Kontaktujte oddělení prodeje
-firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } dokumentace
-firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } je speciální nabídka pro týmy, které potřebují soukromé třídění a eskalaci problémů, definovanou dobu odezvy, vlastní možnosti vývoje a úzkou spolupráci s inženýry a produktovými týmy { -brand-name-mozilla }.
+firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } - dokumentace
+firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } je specializovaná nabídka pro týmy, které potřebují soukromé řešení a eskalaci problémů, definovanou dobu odezvy, možnosti vlastního vývoje a úzkou spolupráci s týmy inženýrů a produktů společnosti { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Plán podpory
