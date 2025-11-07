@@ -20,5 +20,5 @@ features-translate-the-languages-below-are-what-v2 = 현재 { -brand-name-firefo
 features-translate-and-more-languages-are-in = 더 많은 언어를 개발 중이고요!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox }는 사용자의 언어로 표시합니다
 # Variables:
-#   $download (url) = link to https://www.firefox.com/
+#   $download (url) = link to https://www.firefox.com/thanks/
 features-translate-the-firefox-translations-feature-v2 = { -brand-name-firefox-translations } 기능은 { -brand-name-mozilla }가 인터넷을 개인화하고 사생활 보호를 강화하는 또 다른 방법입니다. { -brand-name-mozilla }는 어떤 웹페이지를 번역했는지 추적하지 않습니다. 수백만 명의 전 세계 사용자를 보유한 { -brand-name-mozilla }는 { -brand-name-firefox } 사용자가 자신의 방식으로 배우고 소통하고 공유하며 정보를 얻기를 바랍니다. <a { $download }>{ -brand-name-firefox }를 다운로드하고 선호하는 언어로 시작하세요.</a>

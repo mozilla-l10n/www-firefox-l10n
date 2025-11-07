@@ -13,6 +13,5 @@ pdf-editor-add-text-to-pdfs-v2 = עריכת קובצי PDF בחינם עם עו�
 pdf-editor-view-and-edit-pdf-files-right-in = הצגה ועריכת קובצי PDF ישירות מתוך { -brand-name-firefox }.
 pdf-editor-fill-in-forms-online-without = מילוי טפסים מקוונים ללא הדפסה וסריקה
 pdf-editor-add-text = הוספת טקסט
-pdf-editor-add-drawings-or-your-signature = הוספת ציורים (או החתימה שלכם)
 pdf-editor-add-image-with-alt-text = הוספת תמונה עם טקסט חלופי
 pdf-editor-create-a-highlight = הדגשה

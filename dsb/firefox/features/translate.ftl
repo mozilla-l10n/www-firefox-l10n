@@ -20,5 +20,5 @@ features-translate-the-languages-below-are-what-v2 = Slědujuce rěcy se tuchylu
 features-translate-and-more-languages-are-in = A dalšne rěcy su we wuwiśu!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } wašu rěc powěda
 # Variables:
-#   $download (url) = link to https://www.firefox.com/
+#   $download (url) = link to https://www.firefox.com/thanks/
 features-translate-the-firefox-translations-feature-v2 = Funkcija { -brand-name-firefox-translations } jo dalšna móžnosć, kak { -brand-name-mozilla } waš internet personalizěrowany a priwatnjejšy źaržy. { -brand-name-mozilla } tomu njeslědujo, kótare webboki pśełožujośo. Z milionami wužywarjow pó cełem swěśe co { -brand-name-mozilla } zawěsćiś, až te, kótarež { -brand-name-firefox } wužywaju, pó swójich wuměnjenjach wuknu, komunicěruju, źěle a informěrowane wóstawaju. <a { $download }>Ześěgniśo { -brand-name-firefox } a zachopśo w swójej preferěrowanej rěcy.</a>

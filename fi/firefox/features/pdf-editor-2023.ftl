@@ -17,6 +17,5 @@ pdf-editor-weve-all-faced-this-you-need-to = Olemme kaikki kohdanneet sen: sinun
 pdf-editor-no-more-now-all-you-need-to-do = Ei enää! Nyt sinun tarvitsee vain muokata PDF-tiedostoa { -brand-name-firefox }illa, tallentaa muokattu tiedosto ja lähettää se sähköpostitse tietokoneeltasi.
 pdf-editor-add-text = Lisää tekstiä
 pdf-editor-open-the-pdf-in-firefox-click-text = Avaa PDF { -brand-name-firefox }issa. Napsauta Teksti-painiketta valitaksesi värin ja tekstin koon, ennen kuin valitset mihin kohtaan asiakirjaa haluat lisätä tekstiä. Se on niin helppoa!
-pdf-editor-add-drawings-or-your-signature = Lisää piirustuksia (tai allekirjoituksesi)
 pdf-editor-add-image-with-alt-text = Lisää kuva vaihtoehtoisella tekstillä
 pdf-editor-create-a-highlight = Luo korostus

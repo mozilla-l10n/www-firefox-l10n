@@ -20,5 +20,5 @@ features-translate-the-languages-below-are-what-v2 = A { -brand-name-firefox-tra
 features-translate-and-more-languages-are-in = És további nyelvek állnak fejlesztés alatt.
 features-translate-firefox-speaks-your-language = A { -brand-name-firefox } az Ön nyelvét beszéli
 # Variables:
-#   $download (url) = link to https://www.firefox.com/
+#   $download (url) = link to https://www.firefox.com/thanks/
 features-translate-the-firefox-translations-feature-v2 = A { -brand-name-firefox-translations } funkció egy újabb módja annak, hogy a { -brand-name-mozilla } segítségével továbbra is testreszabott, de privát internetes élménye legyen. A { -brand-name-mozilla } nem követi nyomon, milyen weboldalakat fordít le. Felhasználók millióival világszerte, a { -brand-name-mozilla } azt akarja biztosítani, hogy a { -brand-name-firefox } használói a saját feltételeik szerint tanuljanak, kommunikáljanak, osszanak meg és tájékozódjanak. <a { $download }>Kezdje azzal, hogy letölti a { -brand-name-firefox(case: "accusative") } a kívánt nyelven.</a>

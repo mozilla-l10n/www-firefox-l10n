@@ -20,5 +20,5 @@ features-translate-the-languages-below-are-what-v2 = Le linguas infra es actualm
 features-translate-and-more-languages-are-in = E altere linguas es in disveloppamento!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } parla tu lingua
 # Variables:
-#   $download (url) = link to https://www.firefox.com/
+#   $download (url) = link to https://www.firefox.com/thanks/
 features-translate-the-firefox-translations-feature-v2 = Le function de { -brand-name-firefox-translations } es un altere maniera que { -brand-name-mozilla } mantene tu internet personalisate e plus private. { -brand-name-mozilla } non tracia ille paginas web que tu traduce. Con milliones de usatores per tote le mundo, { -brand-name-mozilla } vole assecurar que qui usa { -brand-name-firefox } apprende, communica, comparti, e remane informate secundo su proprie conditiones. <a { $download }>Initia in tu lingua preferite discargante { -brand-name-firefox }.</a>

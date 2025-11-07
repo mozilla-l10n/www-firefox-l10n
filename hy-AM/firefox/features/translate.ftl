@@ -20,5 +20,5 @@ features-translate-the-languages-below-are-what-v2 = Ստորև բերված լ�
 features-translate-and-more-languages-are-in = Եվ ավելի շատ լեզուներ են մշակման փուլում։
 features-translate-firefox-speaks-your-language = { -brand-name-firefox }-ը խոսում է ձեր լեզվով
 # Variables:
-#   $download (url) = link to https://www.firefox.com/
+#   $download (url) = link to https://www.firefox.com/thanks/
 features-translate-the-firefox-translations-feature-v2 = { -brand-name-firefox-translations } յուրահատկությունը { -brand-name-mozilla }-ի կողմից ձեր համացանցը անհատականացված և ավելի գաղտնի պահելու մեկ այլ միջոց է: { -brand-name-mozilla }-ն չի հետևում, թե որ վեբ էջերն եք թարգմանում: Աշխարհում միլիոնավոր օգտատերերի շնորհիվ { -brand-name-mozilla }-ն ցանկանում է ապահովել, որ { -brand-name-firefox } օգտագործողները սովորում, շփվում, կիսվում և տեղեկացված են մնում իրենց սեփական պայմաններով: <a { $download }>Սկսեք ձեր նախընտրած լեզվով՝ ներբեռնելով { -brand-name-firefox }-ը:</a>
