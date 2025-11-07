@@ -44,3 +44,9 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-did
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = Llwythwch { -brand-name-firefox-esr } neu Rapid Release  i lawr ar gyfer <br> <a href="{ $firefox_all }">iaith neu blatfform arall.</a>
+firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+firefox-enterprise-early-access-is = Mae mynediad cynnar bellach ar agor ar gyfer lansio ein rhaglen gymorth newydd ym mis Ionawr 2026. Wedi'i adeiladu ar gyfer sefydliadau sy'n defnyddio { -brand-name-firefox } i sicrhau diogelwch, gwytnwch, a sofraniaeth data, mae'n darparu cymorth preifat, dibynadwy ac wedi'i deilwra ar gyfer gosodiadau ar raddfa fawr.
+firefox-enterprise-contact-sales = Cysylltwch â Gwerthiant
+firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } dogfennaeth
+firefox-enterprise-support-for-organizations-is = Mae { -brand-name-support-for-organizations } yn gynnig pwrpasol ar gyfer timau sydd angen brysbennu ac uwchgyfeirio materion preifat, amseroedd ymateb diffiniedig, opsiynau datblygu personol, a chydweithio agos â thimau peirianneg a chynnyrch { -brand-name-mozilla }.
+firefox-enterprise-support-plan = Cynllun Cefnogi

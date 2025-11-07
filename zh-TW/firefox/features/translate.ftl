@@ -22,3 +22,4 @@ features-translate-firefox-speaks-your-language = { -brand-name-firefox } 會說
 # Variables:
 #   $download (url) = link to https://www.firefox.com/thanks/
 features-translate-the-firefox-translations-feature-v2 = { -brand-name-mozilla } 維護您的隱私，同時讓網際網路符合您的需求，{ -brand-name-firefox-translations } 功能不會追蹤您翻譯的網頁。全球有數以百萬的 { -brand-name-firefox } 使用者，{ -brand-name-mozilla } 想要確保大家能夠以自己的方式學習、溝通、分享、掌握最新資訊。<a { $download }>立即下載您的語言的 { -brand-name-firefox }。</a>
+features-translate-get-started-in-your-preferred = 下載 { -brand-name-firefox } 並使用您的偏好語言開始撰寫

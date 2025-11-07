@@ -8,6 +8,7 @@ newsletter-form-your-email-address = E-mail cím
 newsletter-form-we-are-sorry-but-there = Sajnáljuk, de hiba volt rendszerünkben. Próbálja meg újra később.
 newsletter-form-please-select-country = Válasszon országot vagy régiót
 newsletter-form-please-select-language = Válasszon egy nyelvet
+newsletter-form-button-cta = Regisztráció
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = email@example.com
 newsletter-form-select-country-or-region = Válasszon országot vagy régiót

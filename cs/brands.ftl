@@ -673,3 +673,5 @@
        *[nom] Chromebook
     }
     .gender = masculine
+# Enterprise program name
+-brand-name-support-for-organizations = Podpora pro organizace

@@ -8,6 +8,7 @@ newsletter-form-your-email-address = თქვენი ელფოსტის
 newsletter-form-we-are-sorry-but-there = სამწუხაროდ, რაღაც შეფერხებაა სისტემაში. გთხოვთ, სცადოთ მოგვიანებით!
 newsletter-form-please-select-country = გთხოვთ, აირჩიოთ ქვეყანა ან მხარე
 newsletter-form-please-select-language = გთხოვთ, აირჩიოთ ენა
+newsletter-form-button-cta = ანგარიშის შექმნა
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = sakheli@misamarti.com
 newsletter-form-select-country-or-region = მიუთითეთ ქვეყანა ან მხარე
