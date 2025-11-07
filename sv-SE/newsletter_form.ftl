@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Din e-postadress
 newsletter-form-we-are-sorry-but-there = Vi ber om ursäkt, men det inträffade ett fel i vårt system. Försök igen senare!
 newsletter-form-please-select-country = Välj ett land eller en region
 newsletter-form-please-select-language = Välj ett språk
+newsletter-form-button-cta = Registrera dig
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = dittnamn@exempel.se
 newsletter-form-select-country-or-region = Välj land eller region
