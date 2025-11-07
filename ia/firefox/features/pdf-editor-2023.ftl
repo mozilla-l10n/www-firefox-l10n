@@ -21,3 +21,4 @@ pdf-editor-add-image-with-alt-text = Adde imagine con altere texto
 pdf-editor-open-pdf-click-image-icon = Aperi le file PDF in { -brand-name-firefox }. Clicca le icone del imagine, que pois te sollicitara a cargar un imagine. Adjusta dimension e placiamento de tu imagine como necessari. Clicca le button “+Alt text” sur le imagine pro adder un description de photo e render tu file PDF plus accessibile.
 pdf-editor-create-a-highlight = Crea un evidentiation
 pdf-editor-select-text-you-want-to = Aperi le file PDF in { -brand-name-firefox }. Elige le texto que tu vole evidentiar, pois clicca le icone evidentiar que appare infra tu selection, o clicca dextre pro trovar le option evidentiar in le menu contextual. Clicca le icone in alto a dextera pro evidentiar a mano libere le sectiones del file PDF.
+pdf-editor-create-a-signature = Crear un firma
