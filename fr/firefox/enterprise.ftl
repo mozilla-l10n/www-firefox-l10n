@@ -50,3 +50,5 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 bits
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = Téléchargez { -brand-name-firefox-esr } ou la version avec une cadence de publication rapide<br> <a href="{ $firefox_all }">dans une autre langue ou pour une autre plateforme.</a>
+
+firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
