@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Vaša e‑mailová adresa
 newsletter-form-we-are-sorry-but-there = Ospravedlňujeme sa, ale v našom systéme sa vyskytol problém. Skúste neskôr prosím!
 newsletter-form-please-select-country = Zvoľte krajinu alebo oblasť
 newsletter-form-please-select-language = Zvoľte jazyk
+newsletter-form-button-cta = Zaregistrovať sa
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = vasa_adresa@example.com
 newsletter-form-select-country-or-region = Vyberte krajinu alebo oblasť

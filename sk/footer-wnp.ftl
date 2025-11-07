@@ -12,3 +12,10 @@ footer-visit-mozilla = Navštívte stránku <a { $mozilla_foundation_link_attrs 
 # Variables:
 # $years (string) - license years ©1998–2025
 footer-contributors = Časť tohto obsahu bola v rokoch { $years } vytvorená individuálnymi prispievateľmi mozilla.org.
+# Variables:
+# $license_attrs (attrs) - link to https://www.mozilla.org/en-US/foundation/licensing/website-content/
+footer-license = Obsah je dostupný pod licenciou <a { $license_attrs }>{ -brand-name-creative-commons }</a>.
+footer-firefox-support = Podpora { -brand-name-firefox(case: "gen") }
+footer-privacy-notice = Vyhlásenie o ochrane osobných údajov
+footer-donate = Prispejte { -brand-name-mozilla(case: "dat") }
+footer-make-good-things = Tvorme dobré veci spolu
