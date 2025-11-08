@@ -48,4 +48,5 @@ firefox-enterprise-support-for-organizations = { -brand-name-support-for-organiz
 firefox-enterprise-early-access-is = Jěsny pśistup jo něnto za naš program pódpěry k dispoziciji, kótaryž buźo se w januarje 2026 startowaś.  Jo za organizacije myslony, kótarež { -brand-name-firefox } wužywaju, aby wěstotu, wobstawnosć a suwerenitu datow zarucyli, bitujo priwatnu, spušćobnu a pśiměrjonu pódpěru za wobšyrne k-dispoziciji-stajenja.
 firefox-enterprise-contact-sales = Rozšyrjeńsku wótźělbu skontaktěrowaś
 firefox-enterprise-support-for-organizations-documentation = Dokumentacija { -brand-name-support-for-organizations }
+firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } jo specialny póbitowanje za teamy, kótarež priwatne wobchadanje a rozšyrjenje problemow, definěrowane wótegronowe case, swójske wuwijańske nastajenja a wuske zgromadne źěło z techniskimi a produktowymi teamami { -brand-name-mozilla } trjebaju.
 firefox-enterprise-support-plan = Plan pódpěry
