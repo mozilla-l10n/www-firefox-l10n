@@ -24,4 +24,6 @@ pdf-editor-open-pdf-click-image-icon = Wočińće PDF w { -brand-name-firefox }.
 pdf-editor-create-a-highlight = Wutworće wjeršk
 pdf-editor-select-text-you-want-to = Wočińće PDF w { -brand-name-firefox }. Wubjerće tekst, kotryž chceće wuzběhnyć, klikńće potom na symbol Wuzběhnyć, kotryž so pod wuběrom jewi abo klikńće, zo byšće móžnosć wuzběhnjenje w kontekstowym meniju namakał. Klikńće na symbol horjeka naprawo, zo byšće wólnoručne wuzběhowanske wotrězki PDF rysował.
 pdf-editor-create-a-signature = Signaturu wutworić
+pdf-editor-click-the-signature-icon = Wočińće dataju PDF w { -brand-name-firefox }. Klikńće na symbol Signaturu přidać a klikńće potom na „Nowu signaturu přidać“. Wubjerće mjez Typ, Rysować abo Wobraz a klikńće na tłóčatko Přidać, zo byšće signaturu zasadźił. Móžeće tež swoje signatury składować a je pozdźišo znowa wužiwać.
 pdf-editor-add-a-comment = Komentary přidać
+pdf-editor-click-the-comment-icon = Wočińće dataju PDF w { -brand-name-firefox }. Wutworće wuzběhnjenje, klikńće potom na symbol Komentować, kotryž so pod wašim wuběrje jewi, zapodajće swój komentar a klikńće na Přidać, zo byšće składował. Maće wjele komentarow w dataji PDF? Klikńće na symbol Komentowa horjeka naprawo, zo byšće bóčnicu wočinił a k tomu komentarej skočił, kotryž trjebaće.
