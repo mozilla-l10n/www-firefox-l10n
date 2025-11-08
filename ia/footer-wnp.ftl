@@ -5,6 +5,10 @@
 
 ## New WNP CMS footer - cms/includes/wnp-footer.html
 
+# Variables:
+# $license_attrs (attrs) - link to https://www.mozilla.org/en-US/foundation/licensing/website-content/
+footer-license = Contento disponibile sub un <a { $license_attrs }>licentia de { -brand-name-creative-commons }</a>.
 footer-firefox-support = Supporto de { -brand-name-firefox }
 footer-privacy-notice = Aviso de confidentialitate
+footer-donate = Dona a { -brand-name-mozilla }
 footer-make-good-things = Facer bon cosas insimul
