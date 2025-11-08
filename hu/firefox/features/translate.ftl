@@ -22,4 +22,4 @@ features-translate-firefox-speaks-your-language = A { -brand-name-firefox } az �
 # Variables:
 #   $download (url) = link to https://www.firefox.com/thanks/
 features-translate-the-firefox-translations-feature-v2 = A { -brand-name-firefox-translations } funkció egy újabb módja annak, hogy a { -brand-name-mozilla } segítségével továbbra is testreszabott, de privát internetes élménye legyen. A { -brand-name-mozilla } nem követi nyomon, milyen weboldalakat fordít le. Felhasználók millióival világszerte, a { -brand-name-mozilla } azt akarja biztosítani, hogy a { -brand-name-firefox } használói a saját feltételeik szerint tanuljanak, kommunikáljanak, osszanak meg és tájékozódjanak. <a { $download }>Kezdje azzal, hogy letölti a { -brand-name-firefox(case: "accusative") } a kívánt nyelven.</a>
-features-translate-get-started-in-your-preferred = Kezdje a(z) { -brand-name-firefox } letöltésével a kívánt nyelven
+features-translate-get-started-in-your-preferred = Kezdje a { -brand-name-firefox } letöltésével a kívánt nyelven
