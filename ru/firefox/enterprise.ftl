@@ -45,8 +45,8 @@ firefox-enterprise-windows-32-bit = 32-битная { -brand-name-windows }
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = Загрузите { -brand-name-firefox-esr } или версию с регулярными выпусками для<br> <a href="{ $firefox_all }">другого языка или платформы</a>.
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
-firefox-enterprise-early-access-is = Ранний доступ открыт для нашей новой программы поддержки, которая запустится в Январе 2026 года. Создан для организаций, которые используют { -brand-name-firefox }, чтобы обеспечить безопасность, стабильность и суверенность данных, он предоставляет приватную, надёжную и персонализированную поддержку для крупномасштабных развёртываний.
+firefox-enterprise-early-access-is = Ранний доступ открыт для нашей новой программы поддержки, которая запустится в январе 2026 года. Создана для организаций, которые используют { -brand-name-firefox }, чтобы обеспечить безопасность, стабильность и суверенность данных, он предоставляет приватную, надёжную и персонализированную поддержку для крупномасштабных развёртываний.
 firefox-enterprise-contact-sales = Связаться с отделом продаж
-firefox-enterprise-support-for-organizations-documentation = документацию на { -brand-name-support-for-organizations }
+firefox-enterprise-support-for-organizations-documentation = Документация { -brand-name-support-for-organizations }
 firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } — это специальное предложение для команд, которым необходима приватная сортировка и эскалация проблем, ограниченное время ответа, настраиваемые параметры разработки и тесное сотрудничество с инженерами и командами продуктов { -brand-name-mozilla }.
 firefox-enterprise-support-plan = План поддержки

@@ -27,3 +27,19 @@ firefox-home-see-release = הצגת הערות שחרור
 
 firefox-home-get-the-browser = קבלו את הדפדפן שיעזור לכם לבצע את העבודה
 firefox-home-block-ad-trackers = לחסום רכיבי מעקב של פרסומות מבלי להניד עפעף
+firefox-home-ad-trackers-make = רכיבי מעקב של פרסומות גורמים לטעינה איטית יותר של דפי אינטרנט. עם { -brand-name-firefox }, לא תצטרכו לחפור בהגדרות כדי לתקן את זה, מכיוון שאנחנו חוסמים באופן אוטומטי את רוב רכיבי המעקב.
+# "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
+firefox-home-swear-off = להימנע מהסחות דעת
+# Variables
+#   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
+#   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
+firefox-home-stay-focused = הישארו ממוקדים עם הרחבות כמו <a { $tomato_clock_attrs }>Tomato Clock</a> ו־<a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> - הן מוגדרות כמומלצות, שזה כמו תו־תקן שלנו לאבטחה ופונקציונליות יוצאות דופן.
+firefox-home-your-stuff = הדברים שלכם, על כל המסכים שלכם
+firefox-home-get-firefox-mobile = הורידו את { -brand-name-firefox } לנייד כדי שהססמאות, הלשוניות וההיסטוריה שלכם - והפרטיות והאבטחה שאתם מסתמכים עליהן - ילכו אתכם לכל מקום.
+firefox-home-privacy-built-in = פרטיות מובנית
+
+## Customization
+
+# asterisks provide playful emphasis, omit or use symbols appropriate in your language
+firefox-home-really-make-it = *באמת* להפוך את זה לשלכם
+firefox-home-work-smarter = לעבוד חכם יותר, לשחק חזק יותר
