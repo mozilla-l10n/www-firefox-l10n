@@ -44,6 +44,7 @@ new-platform-privacy-comes-first = פרטיות בראש ובראשונה
 new-platform-firefox-doesnt-spy = ‏{ -brand-name-firefox } אינו מרגל אחר החיפושים שלכם. אנו עוצרים עוגיות מעקב מצד שלישי ונותנים לך שליטה מלאה.
 new-platform-get-speed-and-security = לקבל מהירות ואבטחה. { -brand-name-firefox } מהיר על { -brand-name-mac-short } בגלל שאנחנו לא עוקבים אחרי מה שאתם עושים.
 new-platform-block-trackers = חסימת רכיבי מעקב
+new-platform-be-the-master-of-your = קחו שליטה מלאה עם חסימת תוכן מחמירה. החסימה מבטלת כל העוגיות ורכיבי המעקב.
 
 ## Windows
 

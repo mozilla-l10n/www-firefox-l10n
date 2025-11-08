@@ -44,3 +44,7 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = הורדת { -brand-name-firefox-esr } או Rapid Release עבור<br> <a href="{ $firefox_all }">שפה או פלטפורמה אחרת.</a>
+firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+firefox-enterprise-early-access-is = גישה מוקדמת פתוחה כעת לתוכנית התמיכה החדשה שלנו שתשיק בינואר 2026. היא נבנתה עבור ארגונים המשתמשים ב־{ -brand-name-firefox } כדי להבטיח אבטחה, חוסן וריבונות נתונים, ומספקת תמיכה פרטית, אמינה ומותאמת אישית עבור פריסות בקנה מידה גדול.
+firefox-enterprise-contact-sales = יצירת קשר עם המכירות
+firefox-enterprise-support-for-organizations-documentation = תיעוד עבור { -brand-name-support-for-organizations }

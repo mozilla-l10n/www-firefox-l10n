@@ -62,3 +62,12 @@ firefox-home-firefox-was-created = ‏{ -brand-name-firefox } נוצר בשנת 
 ## Used as accessible alternative text for images.
 
 firefox-home-firefox-on-desktop = ‏{ -brand-name-firefox } במחשבים ובניידים.
+firefox-home-happy-toggle = מתג שמח.
+firefox-home-multiple-cursors = סמני עכבר מרובים.
+firefox-home-lots-of-open = הרבה לשוניות פתוחות.
+firefox-home-shield-and-hand = מגן ויד המגנים על לשונית דפדפן.
+firefox-home-a-human-brain = מוח אנושי המחובר לעולם.
+firefox-home-desktop-laptop-and-phone = מחשב שולחני, מחשב נייד וטלפון.
+firefox-home-browser-window-with-lock = חלון דפדפן עם סמלים של מנעול ומגן.
+firefox-home-firefox-in-dark = ‏{ -brand-name-firefox } במצב כהה.
+firefox-home-firefox-on-a-desktop = ‏{ -brand-name-firefox } על מחשב שולחני.
