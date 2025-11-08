@@ -45,8 +45,8 @@ firefox-enterprise-windows-32-bit = 32 bites { -brand-name-windows }
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = A { -brand-name-firefox-esr } vagy gyors kiadású verzió letöltése egy<br> <a href="{ $firefox_all }">másik nyelvre vagy platformra.</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
-firefox-enterprise-early-access-is = Az előzetes hozzáférés megnyílt a 2026 januárjában induló új támogatási programunk előtt. Azon szervezetek számára, amelyek a biztonság, az rugalmasság és az adatszuverenitás érdekében a(z) { -brand-name-firefox } összeget használják, privát, megbízható és egyéni támogatást nyújt a nagyméretű telepítésekhez.
-firefox-enterprise-contact-sales = Lépjen kapcsolatba az értékesítéssel
-firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } dokumentáció
-firefox-enterprise-support-for-organizations-is = A { -brand-name-support-for-organizations } egy dedikált ajánlat azon csapatok számára, akiknek szükségük van a privát problémák rendezésére és eszkalálására, meghatározott válaszidőkre, egyéni fejlesztési lehetőségekre, és a { -brand-name-mozilla } mérnöki és termékcsapataival való szoros együttműködésre.
-firefox-enterprise-support-plan = Támogatási terv
+firefox-enterprise-early-access-is = Az előzetes hozzáférés megnyílt a 2026 januárjában induló új támogatási programunkhoz. Azon szervezetek számára, amelyek a biztonság, az rugalmasság és az adatszuverenitás érdekében a { -brand-name-firefox }ot használják; privát, megbízható és egyéni támogatást nyújt a nagyméretű telepítésekhez.
+firefox-enterprise-contact-sales = Kapcsolatfelvétel az értékesítéssel
+firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } dokumentációja
+firefox-enterprise-support-for-organizations-is = A { -brand-name-support-for-organizations } egy dedikált ajánlat azon csapatok számára, akiknek szükségük van a privát problémák rendezésére és eszkalálására, a meghatározott válaszidőkre, az egyéni fejlesztési lehetőségekre és a { -brand-name-mozilla } mérnöki és termékcsapataival való szoros együttműködésre.
+firefox-enterprise-support-plan = Támogatási csomag

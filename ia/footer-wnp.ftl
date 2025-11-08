@@ -5,4 +5,6 @@
 
 ## New WNP CMS footer - cms/includes/wnp-footer.html
 
+footer-firefox-support = Supporto de { -brand-name-firefox }
 footer-privacy-notice = Aviso de confidentialitate
+footer-make-good-things = Facer bon cosas insimul

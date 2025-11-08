@@ -22,3 +22,4 @@ pdf-editor-open-pdf-click-image-icon = Aperi le file PDF in { -brand-name-firefo
 pdf-editor-create-a-highlight = Crea un evidentiation
 pdf-editor-select-text-you-want-to = Aperi le file PDF in { -brand-name-firefox }. Elige le texto que tu vole evidentiar, pois clicca le icone evidentiar que appare infra tu selection, o clicca dextre pro trovar le option evidentiar in le menu contextual. Clicca le icone in alto a dextera pro evidentiar a mano libere le sectiones del file PDF.
 pdf-editor-create-a-signature = Crear un firma
+pdf-editor-add-a-comment = Adder commentos
