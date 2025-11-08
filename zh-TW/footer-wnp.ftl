@@ -12,6 +12,9 @@ footer-visit-mozilla = 歡迎造訪 <a { $mozilla_link_attrs }>{ -brand-name-moz
 # Variables:
 # $years (string) - license years ©1998–2025
 footer-contributors = 本頁的部分內容著作權為 { $years } 由個別 mozilla.org 貢獻者所有。
+# Variables:
+# $license_attrs (attrs) - link to https://www.mozilla.org/en-US/foundation/licensing/website-content/
+footer-license = 內容依照<a { $license_attrs }>{ -brand-name-creative-commons } 授權條款</a>授權大眾使用。
 footer-firefox-support = { -brand-name-firefox } 技術支援
 footer-privacy-notice = 隱私權公告
 footer-donate = 捐款給 { -brand-name-mozilla }

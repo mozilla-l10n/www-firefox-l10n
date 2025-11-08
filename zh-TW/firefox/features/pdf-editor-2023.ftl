@@ -26,4 +26,4 @@ pdf-editor-select-text-you-want-to = 使用 { -brand-name-firefox } 開啟 PDF �
 pdf-editor-create-a-signature = 建立簽章
 pdf-editor-click-the-signature-icon = 使用 { -brand-name-firefox } 開啟 PDF。點擊簽章圖示然後點擊「新增簽章」。選擇「打字」、「繪圖」或「圖片」，然後點擊「新增」按鈕插入簽名到文件中。您也可以儲存簽章，之後重複使用。
 pdf-editor-add-a-comment = 新增留言
-pdf-editor-click-the-comment-icon = 用 { -brand-name-firefox } 開啟 PDF。建立一個強調內容然後點擊選擇項目下方的留言圖示輸入您的留言然後點擊新增進行儲存。 PDF 當中有很多註解點選右上角的「註解」圖示開啟側邊欄跳到需要的地方。
+pdf-editor-click-the-comment-icon = 使用 { -brand-name-firefox } 開啟 PDF。建立強調內容，然後點擊選擇範圍下方的「註解」圖示，輸入留言內容，再點擊「新增」即可儲存。PDF 當中有很多註解？可點擊右上角的「註解」圖示，開啟側邊欄跳到需要的地方。
