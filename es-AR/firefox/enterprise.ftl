@@ -47,6 +47,6 @@ firefox-enterprise-download-firefox-esr-or-rapid = Descargá { -brand-name-firef
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-early-access-is = El acceso anticipado ya está abierto para nuestro nuevo programa de soporte que se lanzará en enero de 2026. Creado para organizaciones que usan { -brand-name-firefox } para garantizar la seguridad, la resiliencia y la soberanía de los datos, proporciona soporte privado, confiable y personalizado para implementaciones a gran escala.
 firefox-enterprise-contact-sales = Contactar con Ventas
-firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } documentación
+firefox-enterprise-support-for-organizations-documentation = Documentación de { -brand-name-support-for-organizations }
 firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } es una oferta dedicada a los equipos que necesitan una clasificación y escalamiento privados de problemas, tiempos de respuesta definidos, opciones de desarrollo personalizadas y una estrecha colaboración con los equipos de ingeniería y de producto de { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Plan de soporte
