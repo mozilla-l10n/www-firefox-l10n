@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser(case: "a") }
 firefox-desktop-out-of-date = גרסה חדשה אף יותר של { -brand-name-firefox } זמינה. <a { $update_url }>עדכון לגרסה האחרונה</a>
 firefox-desktop-download-get-the-browser = קבלו את הדפדפן שמגן על מה שחשוב
 firefox-desktop-download-fast-reliable-private = מהיר, אמין ופרטי - לשקט נפשי באינטרנט.
+firefox-desktop-set-as-default = הגדרת { -brand-name-firefox } כדפדפן ברירת המחדל שלך.
 firefox-desktop-download-download-options = אפשרויות הורדה ושפות אחרות
 firefox-desktop-download-browser-support = תמיכה ב{ -brand-name-firefox-browser(case: "a") }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

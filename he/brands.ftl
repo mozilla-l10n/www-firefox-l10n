@@ -70,6 +70,10 @@
 
 -brand-name-relay = Relay
 
+## Firefox projects
+
+-brand-name-firefox-labs = Firefox Labs
+
 ## Pocket
 
 -brand-name-pocket = Pocket
@@ -80,6 +84,7 @@
 
 ## Mozilla projects
 
+-brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
@@ -137,3 +142,5 @@
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
 -brand-name-chromebook = Chromebook
+# Enterprise program name
+-brand-name-support-for-organizations = תמיכה בארגונים
