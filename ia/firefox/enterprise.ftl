@@ -48,4 +48,5 @@ firefox-enterprise-support-for-organizations = { -brand-name-support-for-organiz
 firefox-enterprise-early-access-is = Le accesso precoce es ora aperte pro nostre nove lanceamento del programma de supporto in januario 2026. Producite pro organisationes que usa { -brand-name-firefox } pro assecurar securitate, resilientia, e soveranitate del datos, illo offere supporto private, fidibile, e personal pro le displicamentos in large-scala.
 firefox-enterprise-contact-sales = Contactar venditas
 firefox-enterprise-support-for-organizations-documentation = Documentation re { -brand-name-support-for-organizations }
+firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } es un offerta dedicate pro equipas qui besonia de classification e adaptation de problemas private, tempores de responsa definite, optiones de disveloppamento personal, e stricte collaboration con le equipas de ingenieria e producto de { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Plano de supporto
