@@ -17,3 +17,13 @@ firefox-home-go-online = היכנסו לאינטרנט עם פחות הסחות 
 firefox-home-latest-features = התכונות החדשות ביותר של { -brand-name-firefox }
 firefox-home-dial-down = להנמיך את הרעש
 firefox-home-block-ads = חסימת פרסומות ושיפור הפרטיות שלכם עם הגדרות הניתנות להתאמה אישית ושפע של הרחבות להורדה.
+firefox-home-multitasking = ריבוי משימות?
+firefox-home-go-into-reading = לעבור למצב קריאה, להציג סרטונים בחלונית קופצת ולהתארגן יותר בעזרת לשוניות אנכיות וקבוצות לשוניות.
+firefox-home-keep-tabs-on = להיות בשליטה על כל הלשוניות שלכם
+firefox-home-close-duplicates = לסגור כפילויות, לחפש ולנעוץ לשוניות פתוחות - יש כמעט אין ספור אפשרויות למספר הכמעט אינסופי של הלשוניות הפתוחות שיש לכם.
+firefox-home-see-release = הצגת הערות שחרור
+
+## Features
+
+firefox-home-get-the-browser = קבלו את הדפדפן שיעזור לכם לבצע את העבודה
+firefox-home-block-ad-trackers = לחסום רכיבי מעקב של פרסומות מבלי להניד עפעף
