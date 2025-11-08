@@ -7,6 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = חסימת פרסומות
+# Page Title
+features-adblocker-meta-title-v2 = על אודות חוסמי פרסומות
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = על אודות חוסמי פרסומות - { -brand-name-firefox }
 # HTML page description

@@ -30,4 +30,9 @@ features-adblocker-ghostery-is-another-great = ‏<a { $attrs }>Ghostery</a> ה�
 #   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
 #   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = הרחבות אלו פועלות בצורה נהדרת גם על <a { $attrs1 }>{ -brand-name-firefox } למחשבים שולחניים</a> וגם על <a { $attrs2 }>Android</a>.
+features-adblocker-create-a-tracker-free = יצירת אזור ללא רכיבי מעקב בעזרת חסימת תוכן
+# Variables:
+#   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
+#   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
+features-adblocker-on-firefox-you-can-use = ב־{ -brand-name-firefox }, ניתן להשתמש בהגדרות <a href="{ $privacy }">פרטיות</a> או <a href="{ $blocking }">חסימת תוכן</a> כדי לקבל שליטה רבה יותר על רכיבי מעקב של פרסומות שמציגים לכם את הפרסומות.
 features-adblocker-choose-your-level-of-protection = בחרו את רמת ההגנה שלכם
