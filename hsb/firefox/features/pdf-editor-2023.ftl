@@ -18,6 +18,7 @@ pdf-editor-no-more-now-all-you-need-to-do = Ženje wjac! Wšitko, štož dyrbić
 pdf-editor-add-text = Tekst přidać
 pdf-editor-open-the-pdf-in-firefox-click-text = Wočińće PDF w { -brand-name-firefox }. Klikńće na tłóčatko Tekst, zo byšće barbu a tekstowu wulkosć wubrał, prjedy hač wuběraće, hdźe na dokumenće chceće tekst přidać. Je to tak lochko!
 pdf-editor-add-drawings = Rysowanki přidać
+pdf-editor-open-the-pdf-in-firefox-click-draw-to-choose = Wočińće dataju PDF w { -brand-name-firefox }. Klikńće na symbol Rysować, zo byšće barbu, tołstosć a opacitu wubrał, prjedy hač móžeće potom w dokumenće rysować.
 pdf-editor-add-image-with-alt-text = Wobraz z alternatiwnym tekstom přidać
 pdf-editor-open-pdf-click-image-icon = Wočińće PDF w { -brand-name-firefox }. Klikńće na symbol Wobraz přidać a wobdźěłać, kotryž was potom namołwja, wobraz nahrać. Přiměrće po potrěbnosći wulkosć a poziciju wašeho wobraza. Klikńće na tłóčatko „+Alternatiwny tekst“ na wobrazu, zo byšće wopisanje fota přidał, zo byšće swój PDF přistupniši činił.
 pdf-editor-create-a-highlight = Wutworće wjeršk
