@@ -10,6 +10,7 @@
 
 firefox-home-take-control = לקחת שליטה על האינטרנט שלך
 firefox-home-go-online = היכנסו לאינטרנט עם פחות הסחות דעת, רעש ולחץ. חשבו עלינו כמשב רוח מרענן.
+firefox-home-set-firefox-as = הגדרת { -brand-name-firefox } כדפדפן ברירת המחדל שלך.
 
 ## What's new
 
@@ -37,9 +38,27 @@ firefox-home-stay-focused = הישארו ממוקדים עם הרחבות כמו
 firefox-home-your-stuff = הדברים שלכם, על כל המסכים שלכם
 firefox-home-get-firefox-mobile = הורידו את { -brand-name-firefox } לנייד כדי שהססמאות, הלשוניות וההיסטוריה שלכם - והפרטיות והאבטחה שאתם מסתמכים עליהן - ילכו אתכם לכל מקום.
 firefox-home-privacy-built-in = פרטיות מובנית
+firefox-home-personal-data-not-for-sale = הנתונים האישיים שלכם אינם למכירה. רכיבי מעקב ועוגיות צד שלישי חסומים כברירת מחדל, כך שניתן פשוט… לגלוש.
+firefox-home-learn-data-protection = מידע על האופן שבו { -brand-name-firefox } מגן על נתונים שלכם
 
 ## Customization
 
 # asterisks provide playful emphasis, omit or use symbols appropriate in your language
 firefox-home-really-make-it = *באמת* להפוך את זה לשלכם
 firefox-home-work-smarter = לעבוד חכם יותר, לשחק חזק יותר
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = גלו את האפשרויות למחקר, קניות ועוד ב<a { $extensions_attrs }>הרחבות</a>.
+firefox-home-bye-boring = להתראות, דפדפן משעמם
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = האינטרנט יכול להיות מקום ורוד, עם <a { $theme_attrs }>ערכת הנושא</a> הנכונה.
+
+## Final call-out
+
+firefox-home-billionaire-free = ללא מיליארדרים במשך יותר מ־20 שנה
+firefox-home-firefox-was-created = ‏{ -brand-name-firefox } נוצר בשנת 2004 על־ידי { -brand-name-mozilla } כחלופה מהירה, פרטית יותר וניתנת להתאמה אישית לדפדפנים כמו Internet Explorer. כיום, אנחנו עדיין ללא מטרות רווח, עדיין לא בבעלות מיליארדרים ועדיין פועלים לשיפור האינטרנט - והזמן שאתם מבלים בו.
+
+## Used as accessible alternative text for images.
+
+firefox-home-firefox-on-desktop = ‏{ -brand-name-firefox } במחשבים ובניידים.
