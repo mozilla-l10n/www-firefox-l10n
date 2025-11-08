@@ -17,6 +17,7 @@ pdf-editor-weve-all-faced-this-you-need-to = Tote nos ha affrontate isto: tu deb
 pdf-editor-no-more-now-all-you-need-to-do = Non plus! Ora, toto lo que tu debe facer es rediger le PDF online con { -brand-name-firefox }, salvar lo, e inviar lo per email ab tu computator.
 pdf-editor-add-text = Adder texto
 pdf-editor-open-the-pdf-in-firefox-click-text = Aperi le PDF in { -brand-name-firefox }. Clicca le button Texto pro eliger color e dimension del texto ante seliger ubi sur le documento tu vole adder lo. Il es facile!
+pdf-editor-add-drawings = Adder designos
 pdf-editor-add-image-with-alt-text = Adde imagine con altere texto
 pdf-editor-open-pdf-click-image-icon = Aperi le file PDF in { -brand-name-firefox }. Clicca le icone del imagine, que pois te sollicitara a cargar un imagine. Adjusta dimension e placiamento de tu imagine como necessari. Clicca le button “+Alt text” sur le imagine pro adder un description de photo e render tu file PDF plus accessibile.
 pdf-editor-create-a-highlight = Crea un evidentiation
