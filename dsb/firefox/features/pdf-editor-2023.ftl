@@ -26,3 +26,4 @@ pdf-editor-select-text-you-want-to = Wócyńśo PDF w { -brand-name-firefox }. W
 pdf-editor-create-a-signature = Signaturu napóraś
 pdf-editor-click-the-signature-icon = Wóyńśo dataju PDF w { -brand-name-firefox }. Klikniśo na symbol Signaturu pśidaś a klikniśo pón na „Nowu signaturu pśidaś“. Wubjeŕśo mjazy Typ, Kresliś abo Wobraz a klikniśo na tłocašk Pśidaś, aby signaturu zasajźił. Móžośo teke swóje signatury składowaś a je pózdźej znowego wužywaś.
 pdf-editor-add-a-comment = Komentary pśidaś
+pdf-editor-click-the-comment-icon = Wócyńśo dataju PDF w { -brand-name-firefox }. Napórajśo wuzwignjenje, kliknośo pón na symbol Komentěrowaś, kótaryž se pód wašym wuběrkom zjawijo, zapódajśo swój komentar a klikniśo na Pśidaś, aby składował. Maśo wjele komentarow w dataji PDF? Klikniśo na symbol Komentěrowaś górjejce napšawo, aby bocnicu wócynił a k tomu komentaroju skócył, kótaryž trjebaśo.
