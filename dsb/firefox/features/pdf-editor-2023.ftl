@@ -23,3 +23,4 @@ pdf-editor-open-pdf-click-image-icon = Wócyńśo PDF w { -brand-name-firefox }.
 pdf-editor-create-a-highlight = Napórajśo wjerašk
 pdf-editor-select-text-you-want-to = Wócyńśo PDF w { -brand-name-firefox }. Wubjeŕśo tekst, kótaryž cośo wuzwignuś, klikniśo pón na symbol Wuzwignuś, kótaryž se pód wuběrkom zjawijo abo klikniśo, aby móžnosć wuzwignjenja w kontekstowem meniju namakał. Klikniśo na symbol górjejce napšawo, aby wótrězki wuzwignjenja PDF jano z rukoma kreslił.
 pdf-editor-create-a-signature = Signaturu napóraś
+pdf-editor-add-a-comment = Komentary pśidaś
