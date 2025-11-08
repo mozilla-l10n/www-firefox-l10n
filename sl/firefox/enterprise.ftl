@@ -44,3 +44,5 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } (32-bitni)
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = Prenesite { -brand-name-firefox-esr } ali Rapid Release za <br> <a href="{ $firefox_all }"> drug jezik ali platformo.</a>
+firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+firefox-enterprise-support-for-organizations-documentation = Dokumentacija { -brand-name-support-for-organizations(sklon: "rodilnik") }
