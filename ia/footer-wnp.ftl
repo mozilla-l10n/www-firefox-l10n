@@ -6,6 +6,9 @@
 ## New WNP CMS footer - cms/includes/wnp-footer.html
 
 # Variables:
+# $years (string) - license years ©1998–2025
+footer-contributors = Portiones de iste contento es { $years } per collaboratores individual de mozilla.org.
+# Variables:
 # $license_attrs (attrs) - link to https://www.mozilla.org/en-US/foundation/licensing/website-content/
 footer-license = Contento disponibile sub un <a { $license_attrs }>licentia de { -brand-name-creative-commons }</a>.
 footer-firefox-support = Supporto de { -brand-name-firefox }
