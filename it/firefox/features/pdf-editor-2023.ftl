@@ -17,6 +17,7 @@ pdf-editor-weve-all-faced-this-you-need-to = Tutti ci siamo trovati in questa si
 pdf-editor-no-more-now-all-you-need-to-do = Non più! Ora non devi fare altro che modificare il PDF online con { -brand-name-firefox }, salvarlo e inviarlo via email dal tuo computer.
 pdf-editor-add-text = Aggiungi testo
 pdf-editor-open-the-pdf-in-firefox-click-text = Apri il PDF in { -brand-name-firefox }. Fai clic sul pulsante Testo per scegliere colore e dimensione del testo prima di selezionare la posizione nel documento in cui desideri aggiungere il testo. Tutto qui!
+pdf-editor-add-drawings = Aggiungi disegni
 pdf-editor-add-image-with-alt-text = Aggiungi un’immagine con testo alternativo
 pdf-editor-open-pdf-click-image-icon = Apri il PDF in { -brand-name-firefox }. Fai clic sull’icona dell’immagine, ti verrà chiesto di caricare un’immagine. Regola le dimensioni e la posizione dell’immagine, poi fai clic sul pulsante “+Testo alternativo” per aggiungere una descrizione e rendere il PDF più accessibile.
 pdf-editor-create-a-highlight = Crea un’evidenziazione
