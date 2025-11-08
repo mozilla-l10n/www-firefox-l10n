@@ -45,5 +45,8 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } a 32 bit
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = Scarica { -brand-name-firefox-esr } o ad aggiornamento rapido<br> <a href="{ $firefox_all }">in un’altra lingua o per un’altra piattaforma.</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+firefox-enterprise-early-access-is = L’accesso anticipato è ora disponibile per il nostro nuovo programma di supporto che verrà lanciato a gennaio 2026. Realizzato per le aziende e per le organizzazioni che utilizzano { -brand-name-firefox } per garantire sicurezza, resilienza e sovranità dei dati, fornisce assistenza privata, affidabile e personalizzata per distribuzioni su larga scala.
+firefox-enterprise-contact-sales = Contatta il team commerciale
 firefox-enterprise-support-for-organizations-documentation = Documentazione del { -brand-name-support-for-organizations }
+firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } è un’offerta dedicata ai team che hanno bisogno di triage e gestione privata dei problemi, tempi di risposta garantiti, opzioni di sviluppo personalizzate e una stretta collaborazione con i team di sviluppo e prodotto { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Piano di assistenza

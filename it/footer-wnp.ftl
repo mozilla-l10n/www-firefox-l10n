@@ -12,6 +12,10 @@ footer-visit-mozilla = Visita <a { $mozilla_link_attrs }>{ -brand-name-mozilla-c
 # Variables:
 # $years (string) - license years ©1998–2025
 footer-contributors = Parti di questo contenuto sono protette da { $years } dei singoli collaboratori di mozilla.org.
+# Variables:
+# $license_attrs (attrs) - link to https://www.mozilla.org/en-US/foundation/licensing/website-content/
+footer-license = Contenuti disponibili secondo la <a { $license_attrs }>licenza { -brand-name-creative-commons }</a>.
 footer-firefox-support = Assistenza { -brand-name-firefox }
 footer-privacy-notice = Informativa sulla privacy
 footer-donate = Fai una donazione a { -brand-name-mozilla }
+footer-make-good-things = Costruiamo insieme qualcosa di buono
