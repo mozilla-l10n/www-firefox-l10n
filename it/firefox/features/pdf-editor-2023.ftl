@@ -22,3 +22,5 @@ pdf-editor-add-image-with-alt-text = Aggiungi un’immagine con testo alternativ
 pdf-editor-open-pdf-click-image-icon = Apri il PDF in { -brand-name-firefox }. Fai clic sull’icona dell’immagine, ti verrà chiesto di caricare un’immagine. Regola le dimensioni e la posizione dell’immagine, poi fai clic sul pulsante “+Testo alternativo” per aggiungere una descrizione e rendere il PDF più accessibile.
 pdf-editor-create-a-highlight = Crea un’evidenziazione
 pdf-editor-select-text-you-want-to = Apri il PDF in { -brand-name-firefox }. Seleziona il testo da evidenziare, quindi fai clic sull’icona di evidenziazione che appare sotto la selezione, oppure fai clic con il tasto destro per trovare l’opzione di evidenziazione nel menu contestuale. Fai clic sull’icona in alto a destra per evidenziare a mano libera le sezioni del PDF.
+pdf-editor-create-a-signature = Crea una firma
+pdf-editor-add-a-comment = Aggiungi commenti
