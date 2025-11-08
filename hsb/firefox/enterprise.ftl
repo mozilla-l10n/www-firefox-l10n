@@ -45,6 +45,7 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = Sćehńće { -brand-name-firefox-esr } abo Rapid Release za<br> <a href="{ $firefox_all }">druhu rěč abo platformu.</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+firefox-enterprise-early-access-is = Zažny přistup je nětko za naš program podpěry k dispoziciji, kotryž budźe so w januarje 2026 startować.  Je za organizacije mysleny, kotrež { -brand-name-firefox } wužiwaja, zo bychu wěstotu, wobstajnosć a suwerenitu datow zaručili, skići priwatnu, spušćomnu a přiměrjenu podpěru za wobšěrne poskićenja.
 firefox-enterprise-contact-sales = Rozšěrjenski wotrjad skontaktować
 firefox-enterprise-support-for-organizations-documentation = Dokumentacija { -brand-name-support-for-organizations }
 firefox-enterprise-support-plan = Plan podpěry
