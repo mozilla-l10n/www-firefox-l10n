@@ -24,6 +24,7 @@ navigation-learn = למידה
 navigation-blog = בלוג
 navigation-compare = השוואה
 navigation-podcast = פודקאסט
+navigation-data-protection = הגנת נתונים
 
 ## Download
 
