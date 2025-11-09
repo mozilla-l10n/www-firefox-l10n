@@ -36,3 +36,11 @@ features-adblocker-create-a-tracker-free = יצירת אזור ללא רכיבי
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = ב־{ -brand-name-firefox }, ניתן להשתמש בהגדרות <a href="{ $privacy }">פרטיות</a> או <a href="{ $blocking }">חסימת תוכן</a> כדי לקבל שליטה רבה יותר על רכיבי מעקב של פרסומות שמציגים לכם את הפרסומות.
 features-adblocker-choose-your-level-of-protection = בחרו את רמת ההגנה שלכם
+features-adblocker-to-start-click-on-the-v2 = כדי להתחיל, יש ללחוץ על המגן שנמצא מצד ימין לשורת הכתובת בכל דף אינטרנט ולבחור באפשרות ״הגדרות הגנה״. פעולה זו תפתח את חלונית הפרטיות ואבטחה שבהגדרות של { -brand-name-firefox } בלשונית חדשה. אתם אמורים לראות מקטע כחול עם אפשרויות שונות.
+features-adblocker-go-easy-with-standard = הגנה מתונה במצב רגיל
+# Variables:
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
+features-adblocker-if-ads-dont-bother-you = אם פרסומות לא מפריעות לכם ואתם לא מתרגשים ממעקב על־ידי רכיבי מעקב ועוגיות צד שלישי, אז ההגדרה הרגילה אמורה להתאים לכם. אם תרצו להוריד אותם מהגב שלכם בכל מקרה, ניתן להשתמש בחלון <a href="{ $url }">גלישה פרטית</a>.
+features-adblocker-get-tough-with-strict = הקשחת ההגנה עם מצב מחמיר
+features-adblocker-if-seeing-too-many-ads = אם יותר מדי פרסומות הורסות לכם את היום, אז מצב מחמיר מתאים יותר. מצב זה יחסום רכיבי מעקב ועוגיות צד שלישי ידועים בכל החלונות של { -brand-name-firefox }.
+features-adblocker-do-it-yourself-custom = השליטה בידיים שלכם עם מצב התאמה אישית
