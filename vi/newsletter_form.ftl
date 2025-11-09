@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Địa chỉ email của bạn
 newsletter-form-we-are-sorry-but-there = Rất tiếc, đã xảy ra sự cố với hệ thống của chúng tôi. Vui lòng thử lại sau!
 newsletter-form-please-select-country = Vui lòng chọn một quốc gia hoặc khu vực
 newsletter-form-please-select-language = Vui lòng chọn một ngôn ngữ
+newsletter-form-button-cta = Đăng ký
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Chọn quốc gia hoặc khu vực
