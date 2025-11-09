@@ -10,5 +10,12 @@
 # $mozilla_foundation_link_attrs (attrs) - link to https://foundation.mozilla.org/
 footer-visit-mozilla = იხილეთ არამომგებიანი <a { $mozilla_foundation_link_attrs }>{ -brand-name-mozilla-foundation }</a>, რომლის შვილობილიცაა <a { $mozilla_link_attrs }>{ -brand-name-mozilla-corporation }’s</a>.
 # Variables:
+# $years (string) - license years ©1998–2025
+footer-contributors = ამ მასალის ნაწილი შექმნილია mozilla.org პროექტის მონაწილეების მიერ { $years }.
+# Variables:
 # $license_attrs (attrs) - link to https://www.mozilla.org/en-US/foundation/licensing/website-content/
 footer-license = შიგთავსი ხელმისაწვდომია <a { $license_attrs }>{ -brand-name-creative-commons }-ლიცენზიით</a>.
+footer-firefox-support = { -brand-name-firefox } – მხარდაჭერა
+footer-privacy-notice = პირადულობის განაცხადი
+footer-donate = შეეწიეთ { -brand-name-mozilla }-ს
+footer-make-good-things = ერთად ვაკეთოთ სასარგებლო საქმეები
