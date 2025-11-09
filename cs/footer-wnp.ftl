@@ -6,6 +6,10 @@
 ## New WNP CMS footer - cms/includes/wnp-footer.html
 
 # Variables:
+# $mozilla_link_attrs (attrs) - link to https://www.mozilla.org/
+# $mozilla_foundation_link_attrs (attrs) - link to https://foundation.mozilla.org/
+footer-visit-mozilla = Navštivte stránku <a { $mozilla_foundation_link_attrs }>{ -brand-name-mozilla-foundation }</a>, neziskové mateřské společnosti <a { $mozilla_link_attrs }>{ -brand-name-mozilla-corporation }</a>.
+# Variables:
 # $years (string) - license years ©1998–2025
 footer-contributors = Části tohoto obsahu jsou { $year } jednotlivými přispěvateli mozilla.org.
 # Variables:
