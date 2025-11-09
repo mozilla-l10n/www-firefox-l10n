@@ -44,3 +44,6 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = Shkarkojeni { -brand-name-firefox-esr } ose atë Rapid Release për<br> <a href="{ $firefox_all }">tjetër gjuhë ose platformë.</a>
+firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+firefox-enterprise-contact-sales = Lidhuni me Degën e Shitjeve
+firefox-enterprise-support-for-organizations-documentation = Dokumentim i { -brand-name-support-for-organizations }
