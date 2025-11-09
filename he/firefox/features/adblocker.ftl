@@ -44,3 +44,5 @@ features-adblocker-if-ads-dont-bother-you = אם פרסומות לא מפריע�
 features-adblocker-get-tough-with-strict = הקשחת ההגנה עם מצב מחמיר
 features-adblocker-if-seeing-too-many-ads = אם יותר מדי פרסומות הורסות לכם את היום, אז מצב מחמיר מתאים יותר. מצב זה יחסום רכיבי מעקב ועוגיות צד שלישי ידועים בכל החלונות של { -brand-name-firefox }.
 features-adblocker-do-it-yourself-custom = השליטה בידיים שלכם עם מצב התאמה אישית
+features-adblocker-the-custom-setting-gives = ההגדרה של ההתאמה האישית נותנת לכם את הבחירה האולטימטיבית. באפשרותכם להחליט מה לחסום, כולל רכיבי מעקב, עוגיות ועוד. איפשור עוגיות מאתר אינטרנט תשים אתכם אוטומטית במצב התאמה אישית.
+features-adblocker-cover-your-trail-block = להסתיר את העקבות, ולחסום רכיבי מעקב
