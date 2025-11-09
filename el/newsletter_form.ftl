@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Η διεύθυνση email σας
 newsletter-form-we-are-sorry-but-there = Δυστυχώς, προέκυψε κάποιο πρόβλημα στο σύστημά μας. Δοκιμάστε ξανά αργότερα.
 newsletter-form-please-select-country = Επιλέξτε μια χώρα ή περιοχή
 newsletter-form-please-select-language = Επιλέξτε μια γλώσσα
+newsletter-form-button-cta = Εγγραφή
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Επιλέξτε χώρα ή περιοχή
