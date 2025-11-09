@@ -22,4 +22,4 @@ features-translate-firefox-speaks-your-language = { -brand-name-firefox } ფლ
 # Variables:
 #   $download (url) = link to https://www.firefox.com/thanks/
 features-translate-the-firefox-translations-feature-v2 = { -brand-name-firefox-translations } კიდევ ერთი საშუალებაა, რომლითაც { -brand-name-mozilla } გეხმარებათ, უფრო მეტად მოირგოთ ვებსივრცე თანაც ისე, რომ შეინარჩუნოთ პირადულობა. { -brand-name-mozilla } არ ადევნებს თვალს, რომელ ვებგვერდებს თარგმნით. { -brand-name-mozilla } თავის მილიონობით მომხმარებელთან ერთად მსოფლიო მასშტაბით ცდილობს უზრუნველყოს, რომ მათ, ვისაც ადგება { -brand-name-firefox } სწავლაში, ურთიერთობაში, მონაცემთა გაზიარებაში, კარგად ესმოდეთ საკუთარი უფლებები. <a { $download }>სასურველ ენაზე მოხმარების დასაწყებად ჩამოტვირთეთ { -brand-name-firefox }.</a>
-features-translate-get-started-in-your-preferred = დაიწყეთ სასურველ ენაზე { -brand-name-firefox }-ის ჩამოტვირთვით
+features-translate-get-started-in-your-preferred = სასურველ ენაზე გამოყენების დასაწყებად ჩამოტვირთეთ შესაბამისი { -brand-name-firefox }.
