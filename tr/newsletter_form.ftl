@@ -8,6 +8,7 @@ newsletter-form-your-email-address = E-posta adresiniz
 newsletter-form-we-are-sorry-but-there = Üzgünüz, sistemimizde bir sorun oluştu. Lütfen daha sonra tekrar deneyin.
 newsletter-form-please-select-country = Lütfen bir ülke veya bölge seçin
 newsletter-form-please-select-language = Lütfen bir dil seçin
+newsletter-form-button-cta = Kaydol
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = kullanici@example.com
 newsletter-form-select-country-or-region = Ülkenizi seçin

@@ -44,3 +44,6 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 bit
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = { -brand-name-firefox-esr } veya Hızlı Sürüm’ü<br><a href="{ $firefox_all }">başka bir dil veya platform</a> için indirin.
+firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } belgeleri
+firefox-enterprise-support-plan = Destek planı
