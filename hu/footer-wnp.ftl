@@ -17,3 +17,5 @@ footer-contributors = A tartalom egyes részeire a következő vonatkozik: { $ye
 footer-license = A tartalom <a { $license_attrs }>{ -brand-name-creative-commons } licenc</a> alatt érhető el.
 footer-firefox-support = { -brand-name-firefox } támogatás
 footer-privacy-notice = Adatvédelmi nyilatkozat
+footer-donate = Adományozás a { -brand-name-mozilla(ending: "accented") }nak
+footer-make-good-things = Készítsünk jó dolgokat, közösen
