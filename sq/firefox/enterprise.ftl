@@ -47,3 +47,5 @@ firefox-enterprise-download-firefox-esr-or-rapid = Shkarkojeni { -brand-name-fir
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-contact-sales = Lidhuni me Degën e Shitjeve
 firefox-enterprise-support-for-organizations-documentation = Dokumentim i { -brand-name-support-for-organizations }
+firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } është një ofertë enkas për ekipe që kanë nevojë për verifikim dhe trajtim të mëtejshëm privat të problemeve, kohë të përcaktuara për përgjigjet, mundësi të përshtatura zhvillimi dhe bashkëpunim nga afër me ekipet e zhvillimit dhe produkte të { -brand-name-mozilla }-s.
+firefox-enterprise-support-plan = Plan Asistence
