@@ -22,3 +22,4 @@ features-translate-firefox-speaks-your-language = { -brand-name-firefox }-i flet
 # Variables:
 #   $download (url) = link to https://www.firefox.com/thanks/
 features-translate-the-firefox-translations-feature-v2 = Veçoria e Përkthimi në { -brand-name-firefox-translations } është një tjetër mënyrë me të cilën { -brand-name-mozilla } e mban internetin tuaj të personalizuar dhe më privat. { -brand-name-mozilla } nuk ndjek cilat faqe përktheni. Me miliona përdorues anembanë botës, { -brand-name-mozilla } dëshiron të bëjë të mundur që ata që përdorin { -brand-name-firefox }-in, të jenë duke mësuar, komunikuar, ndarë me të tjerët dhe të jenë të informuar sipas kushteve zgjedhur prej tyre. <a { $download }>Fillojani në gjuhën tuaj të parapëlqyer, duke shkarkuar { -brand-name-firefox }-in.</a>
+features-translate-get-started-in-your-preferred = Fillojani në gjuhën tuaj të parapëlqyer, duke shkarkuar { -brand-name-firefox }-in

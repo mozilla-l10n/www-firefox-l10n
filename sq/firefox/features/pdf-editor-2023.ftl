@@ -24,4 +24,6 @@ pdf-editor-open-pdf-click-image-icon = Hapeni PDF-në në { -brand-name-firefox 
 pdf-editor-create-a-highlight = Krijoni një theksim
 pdf-editor-select-text-you-want-to = Hapeni PDF-në në { -brand-name-firefox }. Përzgjidhni tekstin që doni të theksohet, mandej klikoni ikonën e theksimeve që shfaqet nën përzgjedhjen, ose djathtasklikoni, që ta gjeni mundësinë e theksimit te menuja e kontekstit. Klikoni ikonën sipër djathtas që të theksoni me dorë të lirë pjesë të PDF-së.
 pdf-editor-create-a-signature = Krijoni një nënshkrim
+pdf-editor-click-the-signature-icon = Hapeni PDF-në në { -brand-name-firefox }. Klikoni ikonën nënshkrim dhe mandej klikoni “Shtoni nënshkrim të ri”. Zgjidhni mes Shtypni, Vizatoni, ose Figurë dhe klikoni butonin Shtoje, që të kryhet. Mundeni edhe t’i ruani nënshkrimet tuaja dhe t’i ripërdorni më vonë.
 pdf-editor-add-a-comment = Shtoni komente
+pdf-editor-click-the-comment-icon = Hapeni PDF-në në { -brand-name-firefox }. Theksoni diçka, mandej klikoni ikonën e Komenteve që shfaqet nën përzgjedhjen tuaj, shtypni komentin tuaj dhe klikoni Shtoje, që të ruhet. Shumë komente në një PDF? Klikoni ikonën Komente te cepi i sipërm djathtas, që të hapet anështylla dhe kaloni te ai që keni nevojë.
