@@ -34,6 +34,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = קהילה
 footer-contribute = התנדבות
 footer-developer = מפתחים
+footer-connect = Connect
 
 ## Links to resources
 
@@ -69,3 +70,8 @@ footer-logo-trademark-licensing = רישוי סימן מסחרי של לוגו
 footer-language = שפה
 footer-go = מעבר
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+
+footer-powdered-by = מופעל על־ידי { -brand-name-mozilla }
+footer-putting-people = שמים אנשים לפני רווחים מאז 1998

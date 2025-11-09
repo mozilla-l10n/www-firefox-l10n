@@ -8,6 +8,7 @@ newsletter-form-your-email-address = כתובת הדוא״ל שלכם
 newsletter-form-we-are-sorry-but-there = אנו מצטערים, אבל ישנה בעיה כלשהי במערכת שלנו. נא לנסות שוב מאוחר יותר!
 newsletter-form-please-select-country = נא לבחור מדינה או אזור
 newsletter-form-please-select-language = נא לבחור שפה
+newsletter-form-button-cta = הרשמה
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = בחירת מדינה או אזור

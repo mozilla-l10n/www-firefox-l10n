@@ -39,3 +39,4 @@ features-index-ditch-the-sticky-ads = עזבו את הפרסומות הדביק�
 features-index-translate-the-web = תרגום האינטרנט
 features-index-translate-websites-to-your = תרגום אתרים לשפה שלכם ישירות בדפדפן ה־{ -brand-name-firefox } שלך – מבלי לשתף את הנתונים שלכם עם אף אחד אחר.
 features-index-picture-in-picture = תמונה בתוך תמונה
+features-index-got-things-to-do = יש לכם דברים לעשות ודברים לצפות בהם? ניתן לעשות את שניהם באמצעות תמונה בתוך תמונה ב־{ -brand-name-firefox }.
