@@ -14,4 +14,11 @@ features-private-yes-firefox-protects-your = Evet. { -brand-name-firefox }, <a h
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 features-private-firefox-also-protects-your = { -brand-name-firefox }, siteye takip ederek gezinti alışkanlıklarınız hakkında bilgi toplayan takip kodlarını engelleyen <a href="{ $url }">gelişmiş izlenme koruması</a> ilede gizliliğinizi korur. Ayrıca kötü amaçlı betiklere ve kötü amaçlı yazılımlara karşı koruma içerir.
+features-private-sidenote-we-are-not-big-tech = <em>Ek bilgi:</em> Biz bildiğiniz büyük teknoloji şirketlerinden değiliz. O yüzden işleyişimiz farklı. Bağımsız olduğumuz için (hissedarlarımız olmadığı için) ilk sıraya parayı değil, insanlığı koyabiliyoruz. Diğer şirketlerin aksine biz bilgilerinizi satmıyoruz ve başkalarının bilgilerinize erişmesine izin vermiyoruz.
 features-private-what-information-does-firefox = { -brand-name-firefox } hangi bilgileri topluyor?
+# Variables:
+#   $url (url) = link to https://www.mozilla.org/privacy/
+features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } ({ -brand-name-firefox }’un yapımcısı) gizliliği ciddiye alıyor, <strong>hem de çok ciddiye.</strong> Hatta geliştirdiğimiz her { -brand-name-firefox } ürününde <a href="{ $url }">Kişisel Veri Sözümüzü</a> tutuyoruz: Daha az topla. Güvenle sakla. Sır tutma.
+# Variables:
+#   $url (url) = link to https://www.mozilla.org/privacy/firefox/
+features-private-read-firefoxs-privacy-notice = Daha fazla bilgi için <a href="{ $url }">{ -brand-name-firefox }’un Gizlilik Bildirimi</a>’ni okuyabilirsiniz. Okumayın diye minicik fontlar kullanmadık, gerçekten okuyabileceğiniz hale getirdik.
