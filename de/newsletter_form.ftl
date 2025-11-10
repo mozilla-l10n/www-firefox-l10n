@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Deine E-Mail-Adresse
 newsletter-form-we-are-sorry-but-there = Es tut uns leid, in unserem System ist ein Fehler aufgetreten. Bitte versuche es später erneut!
 newsletter-form-please-select-country = Bitte wähle ein Land oder eine Region
 newsletter-form-please-select-language = Bitte wähle eine Sprache
+newsletter-form-button-cta = Registrieren
 
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = deinname@example.com
