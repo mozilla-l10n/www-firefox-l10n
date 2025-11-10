@@ -19,26 +19,26 @@ firefox-home-latest-features = Nodweddion diweddaraf  { -brand-name-firefox }
 firefox-home-dial-down = Tawelu pethau
 firefox-home-block-ads = Rhwystrwch hysbysebion a gwella'ch preifatrwydd gyda gosodiadau y mae modd eu haddasu a llwyth o estyniadau y mae modd eu llwytho i lawr.
 firefox-home-multitasking = Amldasgio?
-firefox-home-go-into-reading = Ewch i'r modd darllen, tynnwch fideos allan a byddwch yn fwy trefnus gyda thabiau fertigol a grwpiau tabiau.
+firefox-home-go-into-reading = Ewch i'r modd darllen, agorwch fideos a byddwch yn fwy trefnus gyda thabiau fertigol a grwpiau tabiau.
 firefox-home-keep-tabs-on = Cadw trefn ar eich holl dabiau
 firefox-home-close-duplicates = Caewch gopïau dyblyg, chwiliwch a phiniwch dabiau agored - mae posibiliadau diddiwedd bron ar gyfer y nifer diddiwedd bron o dabiau sydd gennych ar agor.
 firefox-home-see-release = Gweld y Nodiadau Rhyddhau
 
 ## Features
 
-firefox-home-get-the-browser = Cael y porwr sy'n eich helpu i gwblhau'r gwaith
+firefox-home-get-the-browser = Cael y porwr sy'n eich helpu i gwblhau'ch gwaith
 firefox-home-block-ad-trackers = Rhwystro tracwyr hysbysebion heb godi bys
-firefox-home-ad-trackers-make = Mae tracwyr hysbysebion yn gwneud i dudalennau gwe lwytho'n arafach. Gyda { -brand-name-firefox } , fydd dim rhaid i chi fynd i chwilio drwy'r gosodiadau i drwsio hynny, oherwydd rydym yn rhwystro'r rhan fwyaf o dracwyr yn awtomatig.
+firefox-home-ad-trackers-make = Mae tracwyr hysbysebion yn gwneud i dudalennau gwe lwytho'n arafach. Gyda { -brand-name-firefox }, fydd dim rhaid i chi fynd i chwilio drwy'r gosodiadau i drwsio hynny, oherwydd rydym yn rhwystro'r rhan fwyaf o dracwyr yn awtomatig.
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Dim tarfu mwyach
 # Variables
 #   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
 #   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
-firefox-home-stay-focused = Cadwch eich sylw gydag estyniadau fel <a { $tomato_clock_attrs }>Tomato Clock</a> a <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — maen nhw'n cael eu hargymell, sef ein seren aur am fod â diogelwch ac ymarferoldeb eithriadol.
-firefox-home-your-stuff = Eich pethau, ar eich holl sgriniau
+firefox-home-stay-focused = Cadwch eich sylw ar eich tasg gydag estyniadau fel <a { $tomato_clock_attrs }>Tomato Clock</a> a <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — maen nhw'n cael eu Hargymell, sef ein seren aur am fod â diogelwch ac ymarferoldeb eithriadol.
+firefox-home-your-stuff = Eich pethau chi, ar eich holl sgriniau
 firefox-home-get-firefox-mobile = Defnyddiwch { -brand-name-firefox } symudol, fel bod eich cyfrineiriau, tabiau a hanes — a'r preifatrwydd a'r diogelwch rydych yn dibynnu arnyn nhw — yn mynd gyda chi ble bynnag rydych yn mynd iddo.
-firefox-home-privacy-built-in = Yn cynnwys preifatrwydd
-firefox-home-personal-data-not-for-sale = Nid yw eich data personol ar werth. Mae tracwyr a chwcis trydydd parti yn cael eu rhwystro yn ddiofyn, felly gallwch chi … bori.
+firefox-home-privacy-built-in = Mae preifatrwydd yn flaenoriaeth
+firefox-home-personal-data-not-for-sale = Dyw eich data personol ddim ar werth. Mae tracwyr a chwcis trydydd parti'n cael eu rhwystro yn rhagosodedig, felly gallwch chi … bori.
 firefox-home-learn-data-protection = Dysgu sut mae { -brand-name-firefox } yn diogelu eich data
 
 ## Customization
