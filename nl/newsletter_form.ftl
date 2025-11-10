@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Uw e-mailadres
 newsletter-form-we-are-sorry-but-there = Het spijt ons, maar er was een probleem met ons systeem. Probeer het later nog eens!
 newsletter-form-please-select-country = Selecteer een land of regio
 newsletter-form-please-select-language = Selecteer een taal
+newsletter-form-button-cta = Registreren
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = uwnaam@example.com
 newsletter-form-select-country-or-region = Selecteer land of regio
