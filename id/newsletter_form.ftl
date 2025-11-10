@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Alamat email Anda
 newsletter-form-we-are-sorry-but-there = Maaf, tampaknya ada masalah dengan sistem kami. Silakan coba lagi nanti.
 newsletter-form-please-select-country = Pilih negara atau wilayah
 newsletter-form-please-select-language = Pilih bahasa
+newsletter-form-button-cta = Daftar
 
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = namaanda@contoh.com
