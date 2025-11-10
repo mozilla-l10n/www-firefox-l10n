@@ -12,7 +12,7 @@ compare-chome-read-our-comparison = Darllenwch ein cymhariaeth o borwyr { -brand
 # Variables:
 # $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
 # $adblocker (url) - link to https://www.firefox.com/features/adblocker/
-compare-chrome-firefoxs-default-privacy-settings = Mae gosodiadau preifatrwydd rhagosodedig { -brand-name-firefox } yn llawer cryfach na rhai Chrome - ac mae gennym nodweddion ychwanegol i atal gwefannau rhag eich tracio, fel <a { $fingerprint }>rhwystro bysbrintio</a>, yn ogystal â'ch dewis o ychwanegion ar gyfer <a { $adblocker }>rhwystro hysbysebion</a>.
+compare-chrome-firefoxs-default-privacy-settings = Mae gosodiadau preifatrwydd arferol { -brand-name-firefox } yn llawer cryfach na rhai Chrome - ac mae gennym nodweddion ychwanegol i atal gwefannau rhag eich tracio, fel <a { $fingerprint }>rhwystro bysbrintio</a>, yn ogystal â'ch dewis o ychwanegion ar gyfer <a { $adblocker }>rhwystro hysbysebion</a>.
 compare-chrome-we-block-trackers-by-default = Rydym yn rhwystro tracwyr fel rhagosodiad. Nid yw Chrome yn gwneud hynny.
 compare-chrome-in-fact-by-default-chrome-monitors = Mewn gwirionedd, fel rhagosodiad, mae Chrome yn monitro pa wefannau rydych chi'n ymweld â nhw a beth rydych chi'n ei wneud fel y gall adnabod “pynciau hysbysebu” er mwyn anfon rhagor o hysbysebion atoch. Gallwch rwystro tri phwnc ond does dim modd eu hatal rhag adnabod pynciau hysbysebu eraill ar eich cyfer.
 compare-chrome-chrome-allows-other-websites-to = Mae Chrome yn caniatáu i wefannau eraill gasglu gwybodaeth amdanoch chi fel y gallan nhw awgrymu hysbysebion. Gallwch rwystro gwefannau penodol rhag awgrymu hysbysebion, ond nid oes modd atal casglu data nac awgrymiadau o wefannau eraill.

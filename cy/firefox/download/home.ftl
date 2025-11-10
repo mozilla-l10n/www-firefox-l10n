@@ -10,7 +10,7 @@
 
 firefox-home-take-control = Cymerwch reolaeth o'ch rhyngrwyd
 firefox-home-go-online = Ewch ar-lein gyda llai o darfu, sŵn a straen. Rydyn ni'n chwa o awyr iach.
-firefox-home-set-firefox-as = Gosod { -brand-name-firefox } fel eich rhagosodedig.
+firefox-home-set-firefox-as = Gosod { -brand-name-firefox } fel eich arferol.
 
 ## What's new
 
@@ -52,7 +52,7 @@ firefox-home-explore-the-possibilities = Archwiliwch y posibiliadau ar gyfer ymc
 firefox-home-bye-boring = Ffarwel, porwr diflas
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
-firefox-home-the-internet-can = Gall y rhyngrwyd fod yn lle da, gyda'r ychwanegyn cywir <a { $theme_attrs }>thema</a>.
+firefox-home-the-internet-can = Gall y rhyngrwyd fod yn lle da, gyda <a { $theme_attrs }>thema'r</a> ychwanegyn cywir .
 
 ## Final call-out
 

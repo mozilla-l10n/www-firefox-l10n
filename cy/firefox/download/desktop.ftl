@@ -21,7 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Mae { -brand-name-firefox } mwy diweddar byth ar gael. <a { $update_url }>Diweddaru i'r fersiwn diweddaraf</a>
 firefox-desktop-download-get-the-browser = Cael y porwr sy'n diogelu'r hyn sy'n bwysig
 firefox-desktop-download-fast-reliable-private = Cyflym, dibynadwy a phreifat - er tawelwch meddwl ar-lein.
-firefox-desktop-set-as-default = Gosod { -brand-name-firefox } fel eich porwr rhagosodedig.
+firefox-desktop-set-as-default = Gosod { -brand-name-firefox } fel eich porwr arferol.
 firefox-desktop-download-download-options = Dewisiadau llwytho i lawr ac ieithoedd eraill
 firefox-desktop-download-browser-support = Cymorth { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
