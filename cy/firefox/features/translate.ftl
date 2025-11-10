@@ -22,4 +22,4 @@ features-translate-firefox-speaks-your-language = Mae { -brand-name-firefox } yn
 # Variables:
 #   $download (url) = link to https://www.firefox.com/thanks/
 features-translate-the-firefox-translations-feature-v2 = Mae nodwedd { -brand-name-firefox-translations } yn ffordd arall mae { -brand-name-mozilla } yn cadw eich rhyngrwyd yn bersonol ac yn fwy preifat. Nid yw { -brand-name-mozilla } yn olrhain pa dudalennau gwe rydych chi'n eu cyfieithu. Gyda miliynau o ddefnyddwyr ledled y byd, mae { -brand-name-mozilla } am sicrhau bod y rhai sy'n defnyddio { -brand-name-firefox } yn dysgu, yn cyfathrebu, yn rhannu ac yn cael y wybodaeth ddiweddaraf ar eu telerau eu hunain. <a { $download }>Cychwynnwch arni yn eich dewis iaith drwy lawrlwytho { -brand-name-firefox }.</a>
-features-translate-get-started-in-your-preferred = Dechreuwch yn eich dewis iaith drwy lawrlwytho { -brand-name-firefox }
+features-translate-get-started-in-your-preferred = Cychwynnwch yn eich dewis iaith drwy lwytho { -brand-name-firefox } i lawr
