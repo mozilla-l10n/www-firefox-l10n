@@ -47,3 +47,4 @@ firefox-enterprise-download-firefox-esr-or-rapid = Last ned { -brand-name-firefo
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-early-access-is = Tidlig tilgang er nå åpnet for vårt nye støtteprogram som lanseres i januar 2026. Bygget for organisasjoner som bruker { -brand-name-firefox } for å sikre trygghet, robusthet og datasuverenitet, tilbyr det privat, pålitelig og tilpasset støtte for utrulling i stor skala.
 firefox-enterprise-contact-sales = Kontakt salg
+firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations }-dokumentasjon
