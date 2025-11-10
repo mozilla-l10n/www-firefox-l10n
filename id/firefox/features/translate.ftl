@@ -26,3 +26,4 @@ features-translate-firefox-speaks-your-language = { -brand-name-firefox } berbic
 #   $download (url) = link to https://www.firefox.com/thanks/
 features-translate-the-firefox-translations-feature-v2 = Fitur { -brand-name-firefox-translations } adalah cara lain { -brand-name-mozilla } dalam menjaga internet Anda tetap dipersonalisasi dan lebih pribadi. { -brand-name-mozilla } tidak melacak halaman web yang Anda terjemahkan. Dengan jutaan pengguna di seluruh dunia, { -brand-name-mozilla } ingin memastikan bahwa mereka yang menggunakan { -brand-name-firefox } akan belajar, berkomunikasi, berbagi, dan tetap mendapatkan informasi sesuai preferensi mereka sendiri. <a { $download }>Mulai dalam bahasa pilihan Anda dengan mengunduh { -brand-name-firefox }.</a>
 
+features-translate-get-started-in-your-preferred = Mulai dalam bahasa pilihan Anda dengan mengunduh { -brand-name-firefox }

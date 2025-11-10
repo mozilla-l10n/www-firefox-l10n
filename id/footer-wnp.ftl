@@ -9,8 +9,15 @@
 # $mozilla_foundation_link_attrs (attrs) - link to https://foundation.mozilla.org/
 footer-visit-mozilla = Kunjungi organisasi induk nirlaba <a { $mozilla_link_attrs }>{ -brand-name-mozilla-corporation }</a> yaitu, <a { $mozilla_foundation_link_attrs }>{ -brand-name-mozilla-foundation }</a>.
 
+# Variables:
+# $years (string) - license years ©1998–2025
+footer-contributors = Sebagian konten ini merupakan hak cipta { $years } oleh kontributor individual mozilla.org.
 
+# Variables:
+# $license_attrs (attrs) - link to https://www.mozilla.org/en-US/foundation/licensing/website-content/
+footer-license = Konten tersedia di bawah lisensi <a { $license_attrs }>{ -brand-name-creative-commons }</a>.
 
 footer-firefox-support = Dukungan { -brand-name-firefox }
 footer-privacy-notice = Pemberitahuan Privasi
 footer-donate = Donasi ke { -brand-name-mozilla }
+footer-make-good-things = Ciptakan hal-hal hebat bersama.
