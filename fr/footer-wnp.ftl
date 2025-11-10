@@ -7,7 +7,7 @@
 # Variables:
 # $mozilla_link_attrs (attrs) - link to https://www.mozilla.org/
 # $mozilla_foundation_link_attrs (attrs) - link to https://foundation.mozilla.org/
-footer-visit-mozilla = Découvrez la <a { $mozilla_link_attrs }>{ -brand-name-mozilla-foundation }</a>, filiale mère de <a { $mozilla_foundation_link_attrs }>{ -brand-name-mozilla-corporation }</a>.
+footer-visit-mozilla = Découvrez la <a { $mozilla_foundation_link_attrs }>{ -brand-name-mozilla-foundation }</a>, filiale mère de <a { $mozilla_link_attrs }>{ -brand-name-mozilla-corporation }</a>.
 
 # Variables:
 # $years (string) - license years ©1998–2025
