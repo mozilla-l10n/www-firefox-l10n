@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Di e-postadresse
 newsletter-form-we-are-sorry-but-there = Vi beklagar, men det var eit problem med systemet vårt. Ver vennleg og prøv igjen seinare!
 newsletter-form-please-select-country = Vel land eller region
 newsletter-form-please-select-language = Vel eit språk
+newsletter-form-button-cta = Registrer deg
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = namnetditt@example.com
 newsletter-form-select-country-or-region = Vel land eller region
