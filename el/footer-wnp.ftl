@@ -5,4 +5,5 @@
 
 ## New WNP CMS footer - cms/includes/wnp-footer.html
 
+footer-firefox-support = Υποστήριξη { -brand-name-firefox }
 footer-privacy-notice = Σημείωση απορρήτου

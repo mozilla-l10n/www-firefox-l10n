@@ -160,3 +160,17 @@
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
 -brand-name-chromebook = Chromebook
+# Enterprise program name
+-brand-name-support-for-organizations =
+    { $case ->
+        [gen]
+            { $capitalization ->
+                [lower] υποστήριξης για οργανισμούς
+               *[upper] Υποστήριξης για οργανισμούς
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] υποστήριξη για οργανισμούς
+               *[upper] Υποστήριξη για οργανισμούς
+            }
+    }

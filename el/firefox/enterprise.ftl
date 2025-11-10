@@ -45,3 +45,6 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = Λήψη της έκδοσης { -brand-name-firefox-esr } ή της έκδοσης ταχείας κυκλοφορίας για<br> <a href="{ $firefox_all }">άλλη γλώσσα ή πλατφόρμα.</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+firefox-enterprise-contact-sales = Επικοινωνία με το τμήμα πωλήσεων
+firefox-enterprise-support-for-organizations-documentation = Τεκμηρίωση { -brand-name-support-for-organizations(case: "gen", capitalization: "lower") }
+firefox-enterprise-support-plan = Σχέδιο υποστήριξης
