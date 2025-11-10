@@ -8,7 +8,7 @@
 # Variables:
 # $mozilla_link_attrs (attrs) - link to https://www.mozilla.org/
 # $mozilla_foundation_link_attrs (attrs) - link to https://foundation.mozilla.org/
-footer-visit-mozilla = Wopytajće załožbu <a { $mozilla_link_attrs }>{ -brand-name-mozilla-corporation }, powšitkownosći wužitne maćerne towarstwo předewzaća <a { $mozilla_foundation_link_attrs }>{ -brand-name-mozilla-foundation }</a>.
+footer-visit-mozilla = Wopytajće załožbu <a { $mozilla_link_attrs }>{ -brand-name-mozilla-corporation }</a>, powšitkownosći wužitne maćerne towarstwo předewzaća <a { $mozilla_foundation_link_attrs }>{ -brand-name-mozilla-foundation }</a>.
 # Variables:
 # $years (string) - license years ©1998–2025
 footer-contributors = Dźěle tutoho wobsaha su { $years } wot jednotliwych sobuskutkowarjow mozilla.org.

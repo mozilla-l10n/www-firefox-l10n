@@ -11,7 +11,7 @@
 footer-visit-mozilla = Navštivte stránku <a { $mozilla_foundation_link_attrs }>{ -brand-name-mozilla-foundation }</a>, neziskové mateřské společnosti <a { $mozilla_link_attrs }>{ -brand-name-mozilla-corporation }</a>.
 # Variables:
 # $years (string) - license years ©1998–2025
-footer-contributors = Části tohoto obsahu jsou { $year } jednotlivými přispěvateli mozilla.org.
+footer-contributors = Části tohoto obsahu jsou { $years } jednotlivými přispěvateli mozilla.org.
 # Variables:
 # $license_attrs (attrs) - link to https://www.mozilla.org/en-US/foundation/licensing/website-content/
 footer-license = Obsah je dostupný pod <a { $license_attrs }>licencí { -brand-name-creative-commons }</a>.

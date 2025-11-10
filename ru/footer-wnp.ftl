@@ -8,7 +8,7 @@
 # Variables:
 # $mozilla_link_attrs (attrs) - link to https://www.mozilla.org/
 # $mozilla_foundation_link_attrs (attrs) - link to https://foundation.mozilla.org/
-footer-visit-mozilla = Посетите сайт некоммерческой материнской компании <a { $mozilla_link_attrs }>{ -brand-name-mozilla-corporation }</a> — <a { $mozilla_foundation_link_attrs }>{ -brand-name-mozilla-foundation }< /a>.
+footer-visit-mozilla = Посетите сайт некоммерческой материнской компании <a { $mozilla_link_attrs }>{ -brand-name-mozilla-corporation }</a> — <a { $mozilla_foundation_link_attrs }>{ -brand-name-mozilla-foundation }</a>.
 # Variables:
 # $years (string) - license years ©1998–2025
 footer-contributors = Части этого содержимого за { $years } гг. созданы участниками проекта mozilla.org.
