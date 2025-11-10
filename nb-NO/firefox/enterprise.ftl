@@ -48,3 +48,5 @@ firefox-enterprise-support-for-organizations = { -brand-name-support-for-organiz
 firefox-enterprise-early-access-is = Tidlig tilgang er nå åpnet for vårt nye støtteprogram som lanseres i januar 2026. Bygget for organisasjoner som bruker { -brand-name-firefox } for å sikre trygghet, robusthet og datasuverenitet, tilbyr det privat, pålitelig og tilpasset støtte for utrulling i stor skala.
 firefox-enterprise-contact-sales = Kontakt salg
 firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations }-dokumentasjon
+firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } er et dedikert tilbud for team som trenger privat håndtering og eskalering av problemer, definerte svartider, tilpassede utviklingsmuligheter og tett samarbeid med ingeniør- og produktteamene i { -brand-name-mozilla }.
+firefox-enterprise-support-plan = Støtteplan

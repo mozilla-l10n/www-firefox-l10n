@@ -5,6 +5,7 @@
 
 ## New WNP CMS footer - cms/includes/wnp-footer.html
 
+footer-firefox-support = { -brand-name-firefox }-brukerstøtte
 footer-privacy-notice = Personvernerklæring
 footer-donate = Doner til { -brand-name-mozilla }
 footer-make-good-things = Skap gode ting sammen
