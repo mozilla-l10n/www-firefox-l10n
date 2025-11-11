@@ -52,3 +52,8 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 ビット
 firefox-enterprise-download-firefox-esr-or-rapid = <a href="{ $firefox_all }">別の言語または別のプラットフォーム用</a>の { -brand-name-firefox-esr } または Rapid Release をダウンロード
 
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+firefox-enterprise-early-access-is = 2026 年 1 月に始まる新しいサポートプログラムへの早期アクセスを受け付けています。{ -brand-name-firefox } を利用する法人のために設計。セキュリティ、回復力、データ主権を確保し、プライベートで信頼性の高いカスタムサポートを大規模な展開に提供します。
+firefox-enterprise-contact-sales = 営業にお問い合わせ
+firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } ドキュメント
+firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } は、プライベートな問題のトリアージとエスカレーション、明確な応答時間、カスタム開発オプション、{ -brand-name-mozilla } のエンジニアリングチームおよび製品チームとの緊密な連携を求めるチーム専用のサービスです。
+firefox-enterprise-support-plan = サポートプラン
