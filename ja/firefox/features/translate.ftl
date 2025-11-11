@@ -26,3 +26,4 @@ features-translate-firefox-speaks-your-language = { -brand-name-firefox } は、
 #   $download (url) = link to https://www.firefox.com/thanks/
 features-translate-the-firefox-translations-feature-v2 = { -brand-name-firefox-translations } 機能でも { -brand-name-mozilla } はあなたのインターネットをパーソナライズし、プライバシーを守ります。{ -brand-name-mozilla } は、ユーザーが翻訳したウェブページを追跡しません。世界中に数億万人のユーザーを擁する { -brand-name-mozilla } は、{ -brand-name-firefox } を利用する人々が自由に学び、コミュニケーションをとり、共有し、情報収集できるようにしたいと考えています。<a { $download }>{ -brand-name-firefox } をダウンロードして、お好みの言語で始めましょう。</a>
 
+features-translate-get-started-in-your-preferred = { -brand-name-firefox } をダウンロードして、お好みの言語で始めましょう。
