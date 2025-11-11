@@ -19,5 +19,5 @@ footer-license = Ce contenu est disponible sous licence <a { $license_attrs }>{ 
 
 footer-firefox-support = Assistance pour { -brand-name-firefox }
 footer-privacy-notice = Politique de confidentialité
-footer-donate = Faire un don à la { -brand-name-mozilla }
+footer-donate = Faire un don à { -brand-name-mozilla }
 footer-make-good-things = Créons de belles choses ensemble
