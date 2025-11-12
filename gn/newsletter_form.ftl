@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Ñandutiveve kundaharape
 newsletter-form-we-are-sorry-but-there = Oreñyrõmíkena, oĩ rupi apañuái ore apopyvusúpe. Eha’ãjey ohasávo aravo’i.
 newsletter-form-please-select-country = Eiporavomína tetã térã tendaguasu
 newsletter-form-please-select-language = Eiporavomína ñe’ẽ
+newsletter-form-button-cta = Eñemboheraguapy
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Eiporavo tetã térã tendaguasu
