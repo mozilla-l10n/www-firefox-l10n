@@ -8,7 +8,7 @@
 # Variables:
 # $mozilla_link_attrs (attrs) - link to https://www.mozilla.org/
 # $mozilla_foundation_link_attrs (attrs) - link to https://foundation.mozilla.org/
-footer-visit-mozilla = Bezoek de moedermaatschappij zonder winstoogmerk van de <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, de <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
+footer-visit-mozilla = Bezoek de moedermaatschappij zonder winstoogmerk van de <a { $mozilla_link_attrs }>{ -brand-name-mozilla-corporation }</a>, de <a { $mozilla_foundation_link_attrs }>{ -brand-name-mozilla-foundation }</a>.
 # Variables:
 # $years (string) - license years ©1998–2025
 footer-contributors = Onderdelen van deze inhoud zijn { $years } door individuele medewerkers van mozilla.org.

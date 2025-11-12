@@ -8,7 +8,7 @@
 # Variables:
 # $mozilla_link_attrs (attrs) - link to https://www.mozilla.org/
 # $mozilla_foundation_link_attrs (attrs) - link to https://foundation.mozilla.org/
-footer-visit-mozilla = Ewch i <a { $mozilla_link_attrs }> rhiant dim-er-elw { -brand-name-mozilla-corporation }</a>, y <a { $mozilla_foundation_link_attrs }>{ -brand-name-mozilla-foundation }< /a>.
+footer-visit-mozilla = Ewch i <a { $mozilla_link_attrs }> rhiant dim-er-elw { -brand-name-mozilla-corporation }</a>, y <a { $mozilla_foundation_link_attrs }>{ -brand-name-mozilla-foundation }</a>.
 # Variables:
 # $years (string) - license years ©1998–2025
 footer-contributors = Mae rhannau o'r cynnwys hwn yn { $years } gan gyfranwyr mozilla.org unigol.
