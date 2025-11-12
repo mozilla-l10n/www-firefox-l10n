@@ -22,4 +22,4 @@ features-translate-firefox-speaks-your-language = { -brand-name-firefox } 也懂
 # Variables:
 #   $download (url) = link to https://www.firefox.com/thanks/
 features-translate-the-firefox-translations-feature-v2 = { -brand-name-mozilla } 通过 { -brand-name-firefox-translations }功能这一新途径，让您的互联网体验更有个性，更具隐私。{ -brand-name-mozilla } 不会跟踪您翻译了哪些网页，并希望确保全世界亿万 { -brand-name-firefox } 用户都能以自己习惯的方式来学习、交流、分享，并了解各类信息。<a { $download }>下载 { -brand-name-firefox }</a>，以您所需的语言畅游互联网吧。
-features-translate-get-started-in-your-preferred = 下载 { -brand-name-firefox } 即可开始使用您偏好的语言
+features-translate-get-started-in-your-preferred = 下载 { -brand-name-firefox }，以您熟悉的语言畅游互联网
