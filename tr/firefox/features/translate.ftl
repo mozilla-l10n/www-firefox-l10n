@@ -22,3 +22,4 @@ features-translate-firefox-speaks-your-language = { -brand-name-firefox } sizin 
 # Variables:
 #   $download (url) = link to https://www.firefox.com/thanks/
 features-translate-the-firefox-translations-feature-v2 = { -brand-name-firefox-translations } özelliği, { -brand-name-mozilla }’nın sunduğu kişiselleştirme ve gizlilik özelliklerinden sadece birisi. { -brand-name-mozilla }, çevirdiğiniz web sayfalarını izlemiyor. Dünya çapında milyonlarca kullanıcısı olan { -brand-name-mozilla }; { -brand-name-firefox } kullanıcılarının kendi istedikleri gibi öğrenme, iletişim kurma, paylaşma ve bilgi alma haklarını güçlendiriyor. <a { $download }>{ -brand-name-firefox }’u istediğiniz dilde indirerek kullanmaya başlayın.</a>
+features-translate-get-started-in-your-preferred = { -brand-name-firefox }’u indirerek istediğiniz dilde kullanmaya başlayın

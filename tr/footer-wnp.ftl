@@ -11,3 +11,4 @@ footer-license = İçerikler <a { $license_attrs }>{ -brand-name-creative-common
 footer-firefox-support = { -brand-name-firefox } Desteği
 footer-privacy-notice = Gizlilik Bildirimi
 footer-donate = { -brand-name-mozilla }’ya bağış yap
+footer-make-good-things = Birlikte güzel şeyler yapalım
