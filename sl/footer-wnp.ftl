@@ -18,3 +18,4 @@ footer-license = Vsebina je na voljo pod <a { $license_attrs }>licenco { -brand-
 footer-firefox-support = Podpora za { -brand-name-firefox(sklon: "tozilnik") }
 footer-privacy-notice = Obvestilo o zasebnosti
 footer-donate = Donirajte { -brand-name-mozilla(sklon: "dajalnik") }
+footer-donate-v2 = Donirajte { -brand-name-mozilla-foundation(sklon: "dajalnik") }
