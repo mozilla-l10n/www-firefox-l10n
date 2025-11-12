@@ -18,4 +18,5 @@ footer-license = Wopśimjeśe k dispoziciji pód <a { $license_attrs }>licencu {
 footer-firefox-support = Pódpěra { -brand-name-firefox }
 footer-privacy-notice = Powěźeńka priwatnosći
 footer-donate = { -brand-name-mozilla } pósćiś
+footer-donate-v2 = Pósććo { -brand-name-mozilla-foundation }
 footer-make-good-things = Cyńśo wěcy zgromadnje
