@@ -18,3 +18,4 @@ footer-license = Lëndë e përdorshme nën një <a { $license_attrs }>licencë 
 footer-firefox-support = Asistencë { -brand-name-firefox }
 footer-privacy-notice = Shënim Mbi Privatësinë
 footer-donate = Dhuroni për { -brand-name-mozilla }-n
+footer-donate-v2 = Dhuroni për { -brand-name-mozilla-foundation }
