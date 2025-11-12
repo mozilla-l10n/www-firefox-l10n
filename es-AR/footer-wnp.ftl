@@ -8,3 +8,10 @@
 # Variables:
 # $years (string) - license years ©1998–2025
 footer-contributors = Partes de este contenido son { $years } por los contribuyentes individuales de mozilla.org.
+# Variables:
+# $license_attrs (attrs) - link to https://www.mozilla.org/en-US/foundation/licensing/website-content/
+footer-license = Contenido disponible bajo una <a { $license_attrs }>licencia { -brand-name-creative-commons }</a>.
+footer-firefox-support = Soporte de { -brand-name-firefox }
+footer-privacy-notice = Nota de privacidad
+footer-donate = Donar a { -brand-name-mozilla }
+footer-make-good-things = Hagamos cosas buenas juntos
