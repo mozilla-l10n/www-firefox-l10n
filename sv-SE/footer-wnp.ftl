@@ -18,4 +18,5 @@ footer-license = Innehåll tillgängligt under en <a { $license_attrs }>{ -brand
 footer-firefox-support = { -brand-name-firefox } Support
 footer-privacy-notice = Sekretessmeddelande
 footer-donate = Donera till { -brand-name-mozilla }
+footer-donate-v2 = Donera till { -brand-name-mozilla-foundation }
 footer-make-good-things = Gör bra saker tillsammans
