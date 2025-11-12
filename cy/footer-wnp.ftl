@@ -18,4 +18,5 @@ footer-license = Mae'r cynnwys ar gael o dan drwydded <a { $license_attrs }>{ -b
 footer-firefox-support = Cefnogaeth { -brand-name-firefox }
 footer-privacy-notice = Hysbysiad Preifatrwydd
 footer-donate = Cyfrannu at { -brand-name-mozilla }
+footer-donate-v2 = Cyfrannwch at y { -brand-name-mozilla-foundation }
 footer-make-good-things = Gwneud pethau da gyda'n gilydd

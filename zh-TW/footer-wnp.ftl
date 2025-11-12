@@ -18,4 +18,5 @@ footer-license = 內容依照<a { $license_attrs }>{ -brand-name-creative-common
 footer-firefox-support = { -brand-name-firefox } 技術支援
 footer-privacy-notice = 隱私權公告
 footer-donate = 捐款給 { -brand-name-mozilla }
+footer-donate-v2 = 捐款給 { -brand-name-mozilla-foundation }
 footer-make-good-things = 讓好東西一起出現

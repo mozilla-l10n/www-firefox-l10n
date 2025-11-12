@@ -18,4 +18,5 @@ footer-license = A tartalom <a { $license_attrs }>{ -brand-name-creative-commons
 footer-firefox-support = { -brand-name-firefox } támogatás
 footer-privacy-notice = Adatvédelmi nyilatkozat
 footer-donate = Adományozás a { -brand-name-mozilla(ending: "accented") }nak
+footer-donate-v2 = Adományozzon a { -brand-name-mozilla-foundation }nak
 footer-make-good-things = Készítsünk jó dolgokat, közösen

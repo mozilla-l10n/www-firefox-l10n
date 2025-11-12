@@ -6,6 +6,10 @@
 ## New WNP CMS footer - cms/includes/wnp-footer.html
 
 # Variables:
+# $mozilla_link_attrs (attrs) - link to https://www.mozilla.org/
+# $mozilla_foundation_link_attrs (attrs) - link to https://foundation.mozilla.org/
+footer-visit-mozilla = Visitá la organización matriz sin fines de lucro de <a { $mozilla_link_attrs }>{ -brand-name-mozilla-corporation } </a>, the <a { $mozilla_foundation_link_attrs }>{ -brand-name-mozilla-foundation }</a>.
+# Variables:
 # $years (string) - license years ©1998–2025
 footer-contributors = Partes de este contenido son { $years } por los contribuyentes individuales de mozilla.org.
 # Variables:
@@ -14,4 +18,5 @@ footer-license = Contenido disponible bajo una <a { $license_attrs }>licencia { 
 footer-firefox-support = Soporte de { -brand-name-firefox }
 footer-privacy-notice = Nota de privacidad
 footer-donate = Donar a { -brand-name-mozilla }
+footer-donate-v2 = Doná a la { -brand-name-mozilla-foundation }
 footer-make-good-things = Hagamos cosas buenas juntos

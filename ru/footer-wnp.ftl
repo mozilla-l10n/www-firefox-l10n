@@ -18,4 +18,5 @@ footer-license = Содержимое доступно на условиях <a 
 footer-firefox-support = Поддержка { -brand-name-firefox }
 footer-privacy-notice = Уведомление о конфиденциальности
 footer-donate = Пожертвовать на { -brand-name-mozilla }
+footer-donate-v2 = Пожертвовать { -brand-name-mozilla-foundation }
 footer-make-good-things = Делайте хорошие вещи вместе
