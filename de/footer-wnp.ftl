@@ -20,5 +20,4 @@ footer-license = Inhalt verfügbar unter einer <a { $license_attrs }>{ -brand-na
 footer-firefox-support = Hilfe für { -brand-name-firefox }
 footer-privacy-notice = Datenschutzhinweis
 footer-donate = Spende an { -brand-name-mozilla }
-footer-donate-v2 = Spende an { -brand-name-mozilla-foundation }
 footer-make-good-things = Zusammen gute Dinge schaffen
