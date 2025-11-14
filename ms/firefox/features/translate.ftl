@@ -26,3 +26,4 @@ features-translate-firefox-speaks-your-language = { -brand-name-firefox } bertut
 #   $download (url) = link to https://www.firefox.com/thanks/
 features-translate-the-firefox-translations-feature-v2 = Ciri { -brand-name-firefox-translations } merupakan salah satu cara { -brand-name-mozilla } mengekalkan internet anda lebih khusus dan peribadi. { -brand-name-mozilla } tidak menjejaki laman web yang anda terjemahkan. Dengan jutaan pengguna di seluruh dunia, { -brand-name-mozilla } mahu memastikan mereka yang menggunakan { -brand-name-firefox } dapat belajar, berkomunikasi, berkongsi dan kekal bermaklumat mengikut kehendak mereka sendiri. <a { $download }>Mulakan dengan bahasa pilihan anda dengan memuat turun { -brand-name-firefox }.</a>
 
+features-translate-get-started-in-your-preferred = Mulakan dengan bahasa pilihan anda dengan memuat turun { -brand-name-firefox }

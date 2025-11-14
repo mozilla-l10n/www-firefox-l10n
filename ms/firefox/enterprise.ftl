@@ -52,3 +52,8 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 firefox-enterprise-download-firefox-esr-or-rapid = Muat turun { -brand-name-firefox-esr } atau Rapid Release untuk<br> <a href="{ $firefox_all }">bahasa atau platform lain.</a>
 
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+firefox-enterprise-early-access-is = Akses awal kini dibuka untuk program baru kami bagi Januari 2026. Dibuka untuk organisasi yang menggunakan { -brand-name-firefox } selain menjamin keselamatan, ketahanan serta kedaulatan data, ia menyediakan bantuan peribadi, dipercayai dan khas untuk kerahan berskala besar
+firefox-enterprise-contact-sales = Hubungi Wakil Jualan
+firefox-enterprise-support-for-organizations-documentation = Dokumentasi { -brand-name-support-for-organizations }
+firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } adalah satu tawaran yang khusus untuk organisasi yang memerlukan pengurusan dan pengagihan peribadi, tempoh respon, pilihan pembangunan tersendiri, serta kolaborasi akrab dengan jurutera dan pasukan produk daripada { -brand-name-mozilla }.
+firefox-enterprise-support-plan = Pelan Bantuan
