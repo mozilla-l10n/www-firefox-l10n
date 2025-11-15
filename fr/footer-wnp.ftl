@@ -7,7 +7,7 @@
 # Variables:
 # $mozilla_link_attrs (attrs) - link to https://www.mozilla.org/
 # $mozilla_foundation_link_attrs (attrs) - link to https://foundation.mozilla.org/
-footer-visit-mozilla = Découvrez la <a { $mozilla_foundation_link_attrs }>{ -brand-name-mozilla-foundation }</a>, maison mère de <a { $mozilla_link_attrs }>{ -brand-name-mozilla-corporation }</a>.
+footer-visit-mozilla = Découvrez la <a { $mozilla_foundation_link_attrs }>{ -brand-name-mozilla-foundation }</a>, filiale mère de <a { $mozilla_link_attrs }>{ -brand-name-mozilla-corporation }</a>.
 
 # Variables:
 # $years (string) - license years ©1998–2025
@@ -20,4 +20,5 @@ footer-license = Ce contenu est disponible sous licence <a { $license_attrs }>{ 
 footer-firefox-support = Assistance pour { -brand-name-firefox }
 footer-privacy-notice = Politique de confidentialité
 footer-donate = Faire un don à { -brand-name-mozilla }
+footer-donate-v2 = Faire un don à la { -brand-name-mozilla-foundation }
 footer-make-good-things = Créons de belles choses ensemble
