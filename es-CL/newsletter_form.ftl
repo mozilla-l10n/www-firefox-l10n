@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Tu dirección de correo
 newsletter-form-we-are-sorry-but-there = Discúlpanos, pero hubo un problema con nuestro sistema. Inténtalo de nuevo pasados unos minutos.
 newsletter-form-please-select-country = Por favor, selecciona un país o región
 newsletter-form-please-select-language = Por favor, selecciona un idioma
+newsletter-form-button-cta = Registrarse
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = tunombre@example.com
 newsletter-form-select-country-or-region = Selecciona tu país o región

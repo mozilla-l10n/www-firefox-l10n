@@ -127,4 +127,4 @@
 -brand-name-youtube = YouTube
 -brand-name-chromebook = Chromebook
 # Enterprise program name
--brand-name-support-for-organizations = Apoyo para organizaciones
+-brand-name-support-for-organizations = Soporte para organizaciones
