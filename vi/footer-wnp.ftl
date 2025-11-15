@@ -18,4 +18,5 @@ footer-license = Nội dung có sẵn dưới dạng <a { $license_attrs }>giấ
 footer-firefox-support = Hỗ trợ { -brand-name-firefox }
 footer-privacy-notice = Thông báo về quyền riêng tư
 footer-donate = Quyên góp cho { -brand-name-mozilla }
+footer-donate-v2 = Quyên góp cho { -brand-name-mozilla-foundation }
 footer-make-good-things = Cùng nhau làm nên những điều tốt đẹp
