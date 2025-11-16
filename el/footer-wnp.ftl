@@ -7,3 +7,5 @@
 
 footer-firefox-support = Υποστήριξη { -brand-name-firefox }
 footer-privacy-notice = Σημείωση απορρήτου
+footer-donate = Δωρεά στη { -brand-name-mozilla }
+footer-donate-v2 = Δωρεά στο { -brand-name-mozilla-foundation }
