@@ -6,10 +6,10 @@
 ### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = Çerez ayarları
-cookie-settings-page-desc = Bu sayfa { -brand-name-mozilla }’nın kullanabileceği çerezler türlerini açıklar ve { -brand-name-mozilla }’nın hangi veri türlerini toplamasına izin verdiğinizi yönetmenizi sağlar.
+cookie-settings-page-desc = Bu sayfa { -brand-name-mozilla }’nın kullanabileceği çerez türlerini açıklar ve { -brand-name-mozilla }’nın hangi veri türlerini toplamasına izin verdiğinizi yönetmenizi sağlar.
 cookie-settings-breadcrumb-link = Önceki sayfa
 cookie-settings-explainer = Çerezler, bir siteyi ziyaret ettiğinizde bilgisayarınıza veya cihazınıza kaydedilen kısa bilgiler içeren küçük dosyalardır. { -brand-name-mozilla }, sitelerimizin çalışmasını sağlamak, ayrıca sitelerimizi nasıl kullandığınız ve onlarla nasıl etkileşimde bulunduğunuz (örn. ziyaret ettiğiniz sayfalar) hakkında bilgi toplamak için çerezleri kullanır.
-cookie-settings-page-intro-v2 = Bu sayfa, { -brand-name-mozilla }’nın kullanabileceği çerez türlerinin yanı sıra piksel etiketleri, web işaretçileri, görünmez GIF’ler, JavaScript ve yerel depolama gibi benzer teknolojileri (Bundan sonra “çerezler” olarak anılacaktır.) açıklar ve  { -brand-name-mozilla }’nın hangi veri türlerini toplamasını kabul ettiğinizi yönetmenizi sağlar.
+cookie-settings-page-intro-v2 = Bu sayfa, { -brand-name-mozilla }’nın kullanabileceği çerez türlerinin yanı sıra piksel etiketleri, web işaretçileri, görünmez GIF’ler, JavaScript ve yerel depolama gibi benzer teknolojileri (Bundan sonra “çerezler” olarak anılacaktır.) açıklar ve { -brand-name-mozilla }’nın hangi veri türlerini toplamasını kabul ettiğinizi yönetmenizi sağlar.
 cookie-settings-how-mozilla-heading = { -brand-name-mozilla } çerezleri nasıl kullanıyor?
 cookie-settings-how-does-mozilla-use-subheading = { -brand-name-mozilla } bu verileri nasıl kullanıyor?
 cookie-settings-save-changes = Değişiklikleri kaydet
@@ -22,6 +22,7 @@ cookie-settings-turn-on-javascript = Çerez ayarlarınızı güncellemek için l
 
 cookie-settings-category-necessary-heading = Gerekli
 cookie-settings-category-necessary-what-are-subheading = Gerekli çerezler nedir?
+cookie-settings-category-necessary-what-are-desc = Bu çerezler bir sitenin bir güvenli bölgesine giriş yapmak veya çevrimiçi alışveriş sepetine ürün eklemek gibi elzem site özelliklerini desteklemek için gereklidir ve kapatılamaz.
 
 ## Preference cookies section
 
