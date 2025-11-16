@@ -13,7 +13,7 @@ features-private-were-focused-on-your-right-to = Gizlilik hakkınız bizim için
 features-private-yes-firefox-protects-your = Evet. { -brand-name-firefox }, <a href="{ $url }">gizli gezinti</a> gibi özelliklerle gizliliğinizi korur. Ayrıca, başkalarıyla paylaştığınız ev bilgisayarı ve { -brand-name-ipad } gibi cihazlarda bile gezinti geçmişinizi ve parolalarınızı gizli tutmanızı sağlar.
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
-features-private-firefox-also-protects-your = { -brand-name-firefox }, siteye takip ederek gezinti alışkanlıklarınız hakkında bilgi toplayan takip kodlarını engelleyen <a href="{ $url }">gelişmiş izlenme koruması</a> ilede gizliliğinizi korur. Ayrıca kötü amaçlı betiklere ve kötü amaçlı yazılımlara karşı koruma içerir.
+features-private-firefox-also-protects-your = { -brand-name-firefox }, sizi siteden siteye takip ederek gezinti alışkanlıklarınız hakkında bilgi toplayan takip kodlarını engelleyen <a href="{ $url }">gelişmiş izlenme koruması</a> ile de gizliliğinizi korur. Ayrıca kötü amaçlı betiklere ve kötü amaçlı yazılımlara karşı koruma içerir.
 features-private-sidenote-we-are-not-big-tech = <em>Ek bilgi:</em> Biz bildiğiniz büyük teknoloji şirketlerinden değiliz. O yüzden işleyişimiz farklı. Bağımsız olduğumuz için (hissedarlarımız olmadığı için) ilk sıraya parayı değil, insanlığı koyabiliyoruz. Diğer şirketlerin aksine biz bilgilerinizi satmıyoruz ve başkalarının bilgilerinize erişmesine izin vermiyoruz.
 features-private-what-information-does-firefox = { -brand-name-firefox } hangi bilgileri topluyor?
 # Variables:
