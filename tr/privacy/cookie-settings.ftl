@@ -23,17 +23,19 @@ cookie-settings-turn-on-javascript = Çerez ayarlarınızı güncellemek için l
 cookie-settings-category-necessary-heading = Gerekli
 cookie-settings-category-necessary-what-are-subheading = Gerekli çerezler nedir?
 cookie-settings-category-necessary-what-are-desc = Bu çerezler bir sitenin bir güvenli bölgesine giriş yapmak veya çevrimiçi alışveriş sepetine ürün eklemek gibi elzem site özelliklerini desteklemek için gereklidir ve kapatılamaz.
+cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } gerekli çerezleri sadece { -brand-name-mozilla-account }nıza  giriş yapmak ve yazılım aboneliği satın alırken ödeme yapmak gibi elzem site özellikleri için kullanır. Bu çerezler olmadan elzem site özellikleri çalışmayabilir.
 
 ## Preference cookies section
 
 cookie-settings-category-preference-heading = Tercih
 cookie-settings-category-preference-what-are-subheading = Tercih çerezleri nedir?
+cookie-settings-category-preference-what-are-desc = Bu çerezler daha önce ziyaret ettiğiniz sitelerdeki seçimlerinizi hatırlamak için kullanılır. Örnek olarak, siteyi görmeyi tercih ettiğiniz dil veya tercih ettiğiniz renk teması verilebilir.
 
 ## Analytics cookies section
 
 cookie-settings-category-analytics-heading = Analitik
 cookie-settings-category-analytics-what-are-subheading = Analitik çerezleri nedir?
-cookie-settings-category-analytics-what-are-desc = Bu teknolojiler, insanların web sitelerini nasıl kullandıkları hakkında bilgi toplar (örn. ziyaret edilen sayfalar, tıklanan bağlantılar, ziyaretlerin hangi diğer web sitelerinden geldiği).
+cookie-settings-category-analytics-what-are-desc = Bu çerezler, insanların web sitelerini nasıl kullandıkları hakkında bilgi toplar (örn. ziyaret edilen sayfalar, tıklanan bağlantılar, ziyaretlerin hangi diğer web sitelerinden geldiği).
 
 ## Privacy section
 
