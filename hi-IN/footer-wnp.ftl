@@ -20,4 +20,5 @@ footer-license = <a { $license_attrs }>{ -brand-name-creative-commons } ला�
 footer-firefox-support = { -brand-name-firefox } समर्थन
 footer-privacy-notice = निजता सूचना
 footer-donate = { -brand-name-mozilla } को दान दें
+footer-donate-v2 = { -brand-name-mozilla-foundation } को दान दें
 footer-make-good-things = साथ मिलकर उम्दा चीज़ें करें
