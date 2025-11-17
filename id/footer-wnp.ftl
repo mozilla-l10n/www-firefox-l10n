@@ -20,4 +20,5 @@ footer-license = Konten tersedia di bawah lisensi <a { $license_attrs }>{ -brand
 footer-firefox-support = Dukungan { -brand-name-firefox }
 footer-privacy-notice = Pemberitahuan Privasi
 footer-donate = Donasi ke { -brand-name-mozilla }
+footer-donate-v2 = Donasi ke { -brand-name-mozilla-foundation }
 footer-make-good-things = Ciptakan hal-hal hebat bersama.
