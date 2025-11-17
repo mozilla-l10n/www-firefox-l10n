@@ -20,4 +20,5 @@ footer-license = コンテンツは <a { $license_attrs }>{ -brand-name-creative
 footer-firefox-support = { -brand-name-firefox } サポート
 footer-privacy-notice = プライバシーに関する通知
 footer-donate = { -brand-name-mozilla } にご寄付ください
+footer-donate-v2 = { -brand-name-mozilla-foundation } にご寄付ください
 footer-make-good-things = 力を合わせて良いものを作りましょう
