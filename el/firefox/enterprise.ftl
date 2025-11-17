@@ -48,4 +48,5 @@ firefox-enterprise-support-for-organizations = { -brand-name-support-for-organiz
 firefox-enterprise-early-access-is = Η πρώιμη πρόσβαση είναι πλέον ανοικτή για το νέο μας πρόγραμμα υποστήριξης που ξεκινά τον Ιανουάριο του 2026. Σχεδιασμένο για οργανισμούς που χρησιμοποιούν το { -brand-name-firefox } για την ασφάλεια, την προσαρμοστικότητα και τον έλεγχο των δεδομένων, το πρόγραμμα παρέχει ιδιωτική, αξιόπιστη και προσαρμοσμένη υποστήριξη για αναπτύξεις μεγάλης κλίμακας.
 firefox-enterprise-contact-sales = Επικοινωνία με το τμήμα πωλήσεων
 firefox-enterprise-support-for-organizations-documentation = Τεκμηρίωση { -brand-name-support-for-organizations(case: "gen", capitalization: "lower") }
+firefox-enterprise-support-for-organizations-is = Η { -brand-name-support-for-organizations } είναι μια εξειδικευμένη υπηρεσία για ομάδες που χρειάζονται ιδιωτική διαχείριση και κλιμάκωση ζητημάτων, καθορισμένους χρόνους απόκρισης, προσαρμοσμένες επιλογές ανάπτυξης και στενή συνεργασία με τις ομάδες μηχανικών και προϊόντων της { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Σχέδιο υποστήριξης
