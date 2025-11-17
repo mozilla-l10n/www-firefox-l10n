@@ -20,4 +20,5 @@ footer-license = والمحتوى متاح بموجب ترخيص <a { $license_a
 footer-firefox-support = دعم { -brand-name-firefox }
 footer-privacy-notice = سياسة الخصوصيّة
 footer-donate = تبرّع لصالح { -brand-name-mozilla }
+footer-donate-v2 = تبرّع لصالح { -brand-name-mozilla-foundation }
 footer-make-good-things = لنصنع أشياء رائعة معًا
