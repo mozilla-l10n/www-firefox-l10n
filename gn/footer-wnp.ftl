@@ -9,3 +9,11 @@
 # $mozilla_link_attrs (attrs) - link to https://www.mozilla.org/
 # $mozilla_foundation_link_attrs (attrs) - link to https://foundation.mozilla.org/
 footer-visit-mozilla = Eike mba’apohaguasu viru’ỹgua <a { $mozilla_link_attrs }>{ -brand-name-mozilla-corporation }</a>, reheguápe pe <a { $mozilla_foundation_link_attrs }>{ -brand-name-mozilla-foundation }</a> pegua.
+# Variables:
+# $years (string) - license years ©1998–2025
+footer-contributors = Ko’ã tetepy vore ha’e { $years } umi oipytyvõva mozilla.org. rupive.
+# Variables:
+# $license_attrs (attrs) - link to https://www.mozilla.org/en-US/foundation/licensing/website-content/
+footer-license = Tetepy ejuhútava <a { $license_attrs }> { -brand-name-creative-commons }</a> ñemoneĩ rupive.
+footer-firefox-support = { -brand-name-firefox } Pytyvõha
+footer-privacy-notice = Marandu’i Ñemigua
