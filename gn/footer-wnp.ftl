@@ -17,3 +17,4 @@ footer-contributors = Ko’ã tetepy vore ha’e { $years } umi oipytyvõva mozi
 footer-license = Tetepy ejuhútava <a { $license_attrs }> { -brand-name-creative-commons }</a> ñemoneĩ rupive.
 footer-firefox-support = { -brand-name-firefox } Pytyvõha
 footer-privacy-notice = Marandu’i Ñemigua
+footer-donate = Embojopói { -brand-name-mozilla }
