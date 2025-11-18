@@ -18,3 +18,5 @@ footer-license = Tetepy ejuhútava <a { $license_attrs }> { -brand-name-creative
 footer-firefox-support = { -brand-name-firefox } Pytyvõha
 footer-privacy-notice = Marandu’i Ñemigua
 footer-donate = Embojopói { -brand-name-mozilla }
+footer-donate-v2 = Embojopói { -brand-name-mozilla-foundation }
+footer-make-good-things = Jajapo oñondive mba’eporã
