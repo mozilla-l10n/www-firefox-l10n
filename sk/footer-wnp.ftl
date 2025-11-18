@@ -18,4 +18,5 @@ footer-license = Obsah je dostupný pod licenciou <a { $license_attrs }>{ -brand
 footer-firefox-support = Podpora { -brand-name-firefox(case: "gen") }
 footer-privacy-notice = Vyhlásenie o ochrane osobných údajov
 footer-donate = Prispejte { -brand-name-mozilla(case: "dat") }
+footer-donate-v2 = Prispejte { -brand-name-mozilla-foundation }
 footer-make-good-things = Tvorme dobré veci spolu
