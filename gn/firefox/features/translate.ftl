@@ -14,3 +14,4 @@ features-translate-what-languages-are-currently = Mba’e ñe’ẽpa eiporukuaa
 features-translate-the-languages-below-are-what-v2 = Ko’ã ñe’ẽ ojokupyty ko’ág̃a { -brand-name-firefox-translations } ñe’ẽasa rembiapoite ndive:
 features-translate-and-more-languages-are-in = ¡Ha hetave ñe’ẽ hekojerave ohóvo!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } oikumby ne ñe’ẽtee
+features-translate-get-started-in-your-preferred = Eñepyrũ eiporu ne ñe’ẽteépe emboguejývo pe { -brand-name-firefox }
