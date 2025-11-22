@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Adresa ta de email
 newsletter-form-we-are-sorry-but-there = Ne pare rău, dar am întâmpinat o problemă de sistem. Te rugăm să încerci din nou mai târziu!
 newsletter-form-please-select-country = Te rugăm să selectezi o țară sau o regiune
 newsletter-form-please-select-language = Te rugăm să selectezi o limbă
+newsletter-form-button-cta = Fă-ți cont
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = nume@example.com
 newsletter-form-select-country-or-region = Alege țara sau regiunea
