@@ -17,11 +17,11 @@ firefox-home-set-firefox-as = Setează { -brand-name-firefox } ca browser implic
 # accessible section heading
 firefox-home-latest-features = Cele mai recente funcționalități { -brand-name-firefox }
 firefox-home-dial-down = Redu zgomotul
-firefox-home-block-ads = Blochează reclamele și îmbunătățește-ți confidențialitatea cu setări personalizabile și o mulțime de extensii disponibile.
+firefox-home-block-ads = Blochezi reclamele și îți îmbunătățești confidențialitatea cu setări personalizabile și o mulțime de extensii disponibile.
 firefox-home-multitasking = Multitasking?
 firefox-home-go-into-reading = Treci pe modul de citire, afișezi videoclipuri și te organizezi mai bine cu ajutorul filelor verticale și grupurilor de file.
 firefox-home-keep-tabs-on = Ține evidența tuturor filelor
-firefox-home-close-duplicates = Închide duplicatele, caută și fixează filele deschise — există posibilități aproape infinite pentru numărul aproape infinit de file pe care le ai deschise.
+firefox-home-close-duplicates = Închizi duplicatele, cauți și fixezi filele deschise — ai posibilități aproape infinite pentru numărul aproape infinit de file pe care le-ai deschide.
 firefox-home-see-release = Vezi notele de lansare
 
 ## Features
@@ -48,11 +48,11 @@ firefox-home-really-make-it = *Chiar* fă-l să fie al tău
 firefox-home-work-smarter = Lucrează mai inteligent, joacă-te mai intens
 # Variables
 #   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
-firefox-home-explore-the-possibilities = Explorează posibilitățile de cercetare, cumpărături și multe altele în <a { $extensions_attrs }>extensii</a>.
+firefox-home-explore-the-possibilities = Explorează posibilitățile de căutare, cumpărături și multe altele în <a { $extensions_attrs }>extensii</a>.
 firefox-home-bye-boring = La revedere, browser plictisitor
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
-firefox-home-the-internet-can = Internetul poate fi un loc roz, cu suplimentul potrivit <a { $theme_attrs }>tema</a>.
+firefox-home-the-internet-can = Internetul poate fi un loc roz, cu <a { $theme_attrs }>tema</a> potrivită din suplimente.
 
 ## Final call-out
 
