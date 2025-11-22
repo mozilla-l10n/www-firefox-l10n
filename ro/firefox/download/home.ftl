@@ -17,9 +17,9 @@ firefox-home-set-firefox-as = Setează { -brand-name-firefox } ca browser implic
 # accessible section heading
 firefox-home-latest-features = Cele mai recente funcționalități { -brand-name-firefox }
 firefox-home-dial-down = Redu zgomotul
-firefox-home-block-ads = Blochează reclamele și îmbunătățește-ți confidențialitatea cu setări personalizabile și o mulțime de extensii descărcabile.
+firefox-home-block-ads = Blochează reclamele și îmbunătățește-ți confidențialitatea cu setări personalizabile și o mulțime de extensii disponibile.
 firefox-home-multitasking = Multitasking?
-firefox-home-go-into-reading = Treci pe modul de citire, afișează videoclipuri și organizează-te mai bine cu ajutorul filelor verticale și grupurilor de file.
+firefox-home-go-into-reading = Treci pe modul de citire, afișezi videoclipuri și te organizezi mai bine cu ajutorul filelor verticale și grupurilor de file.
 firefox-home-keep-tabs-on = Ține evidența tuturor filelor
 firefox-home-close-duplicates = Închide duplicatele, caută și fixează filele deschise — există posibilități aproape infinite pentru numărul aproape infinit de file pe care le ai deschise.
 firefox-home-see-release = Vezi notele de lansare
