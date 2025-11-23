@@ -30,12 +30,14 @@ cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } ge
 cookie-settings-category-preference-heading = Tercih
 cookie-settings-category-preference-what-are-subheading = Tercih çerezleri nedir?
 cookie-settings-category-preference-what-are-desc = Bu çerezler daha önce ziyaret ettiğiniz sitelerdeki seçimlerinizi hatırlamak için kullanılır. Örnek olarak, siteyi görmeyi tercih ettiğiniz dil veya tercih ettiğiniz renk teması verilebilir.
+cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla }, tercih çerezlerini sizin tercihlerinizi kaydetmek ve sitelerimizi ziyaret ederken deneyiminizi geliştirmek için kullanır. Bu çerezler analiz amacıyla kullanılmaz. Tercih çerezleri, gerekli çerezlere benzer özellikleri destekler ama web siteleri tercih çerezleri olmadan da çalışabilir. Bu nedenle tercih çerezlerini kullanmamayı tercih edebilirsiniz.
 
 ## Analytics cookies section
 
 cookie-settings-category-analytics-heading = Analitik
 cookie-settings-category-analytics-what-are-subheading = Analitik çerezleri nedir?
 cookie-settings-category-analytics-what-are-desc = Bu çerezler, insanların web sitelerini nasıl kullandıkları hakkında bilgi toplar (örn. ziyaret edilen sayfalar, tıklanan bağlantılar, ziyaretlerin hangi diğer web sitelerinden geldiği).
+cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla }, kullanıcıların sitelerimizle etkileşimini anlamak amacıyla analitik bilgileri kullanır. Bu sayede sitelerimizi geliştirebilir ve olası problemleri çözebiliriz. Ayrıca kullanıcıların ürünlerimiz, hizmetlerimiz, iletişimlerimiz, sitelerimiz, çevrimiçi kampanyalarımız, cihazlarımız ve diğer platformlarımızla nasıl etkileşimde bulunduğunu anlamak amacıyla çerez verilerini, cihaz bilgilerini ve IP adreslerini kullanabiliriz. Rızanız olmadan analitik bilgiler toplamaz ve sisteminize analitik çerezler yerleştirmeyiz.
 
 ## Privacy section
 
