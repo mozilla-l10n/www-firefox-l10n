@@ -30,12 +30,12 @@ cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } po
 cookie-settings-category-preference-heading = Preference
 cookie-settings-category-preference-what-are-subheading = Co jsou to preferenční cookies?
 cookie-settings-category-preference-what-are-desc = Tyto technologie se používají k zapamatování toho, co jste si zvolili při předchozí návštěvě webové stránky. Příkladem může být jazyk, ve kterém nejraději čtete, nebo oblíbený barevný motiv.
-cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } používá preferované soubory cookies, aby zohlednila vaše preference a zlepšila vaše zkušenosti s návštěvou našich webových stránek. Nepoužívají se pro analytické účely. Preferenční soubory cookie podporují funkce podobně jako nezbytné soubory cookie, nicméně webové stránky mohou fungovat i bez nich. Proto se můžete rozhodnout, že jejich používání odmítnete.
+cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } používá preferenční cookies k zohlednění vašich preferencí a zpříjemnění pobytu na našich webových stránkách. Nepoužívají se pro analytické účely. Preferenční cookies podporují funkce podobným způsobem jako nezbytné cookies, nicméně webové stránky mohou fungovat i bez nich. Proto máte možnost jejich používání odmítnout.
 
 ## Analytics cookies section
 
 cookie-settings-category-analytics-heading = Analytika
-cookie-settings-category-analytics-what-are-subheading = Co jsou analytické cookies?
+cookie-settings-category-analytics-what-are-subheading = Co jsou to analytické cookies?
 cookie-settings-category-analytics-what-are-desc = Tyto technologie shromažďují informace o tom, jak lidé používají webové stránky, například navštívené stránky, odkazy, na které klikli, a informace o tom, z jakých jiných webových stránek návštěvy pocházejí.
 cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } používá analytické informace k pochopení, jak uživatelé používají naše webové stránky, abychom je mohli vylepšovat a opravovat jakékoliv problémy, které nastanou. Data z cookies, informace o zařízeních a IP adresy můžeme použít také k tomu, abychom porozuměli tomu, jak uživatelé pracují s našimi produkty, službami, komunikací, webovými stránkami, online kampaněmi, zařízeními a dalšími platformami. Sbíráme analytické informace a ukládáme analytické cookies pouze od vašeho souhlasu.
 
