@@ -8,7 +8,7 @@
 cookie-settings-page-title = Nastavení cookies
 cookie-settings-page-desc = Tato stránka popisuje různé typy cookies, které může { -brand-name-mozilla } používat, a umožňuje vám rozhodnout, jaké typy údajů smí { -brand-name-mozilla } shromažďovat.
 cookie-settings-breadcrumb-link = Předchozí stránka
-cookie-settings-explainer = Cookies jsou malé soubory obsahující informace, které se ukládají do počítače nebo zařízení při návštěvě webové stránky. { -brand-name-mozilla } používá cookies k zajištění funkčnosti našich webových stránek a ke shromažďování informací o tom, jak naše webové stránky používáte a jak s nimi interagujete, například o navštívených stránkách.
+cookie-settings-explainer = Cookies jsou drobné soubory obsahující informace, které se ukládají do počítače nebo zařízení při návštěvě webových stránek. { -brand-name-mozilla } používá cookies k zajištění funkčnosti našich webových stránek a ke shromažďování údajů o tom, jak naše webové stránky používáte a jak s nimi interagujete, například jakou konkrétní stránku jste navštívili.
 cookie-settings-page-intro-v2 = Tato stránka popisuje různé typy cookies a podobných technologií, jako jsou pixelové značky, webové signály, průhledné soubory GIF, JavaScript a místní úložiště (dále jen „cookies“), které může { -brand-name-mozilla } používat, a umožňuje vám rozhodnout, jaké typy údajů smí { -brand-name-mozilla } shromažďovat.
 cookie-settings-how-mozilla-heading = Jak { -brand-name-mozilla } používá cookies
 cookie-settings-how-does-mozilla-use-subheading = Jak { -brand-name-mozilla } používá tyto údaje?
@@ -42,5 +42,5 @@ cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } použ
 ## Privacy section
 
 cookie-settings-privacy-heading = Naše oznámení o ochraně osobních údajů
-cookie-settings-privacy-desc = Podrobnější informace o různých typech informací, které { -brand-name-mozilla } shromažďuje při návštěvě našich webových stránek, naleznete pod odkazem na našich oznámeních o ochraně osobních údajů.
+cookie-settings-privacy-desc = Podrobnější informace o různých typech údajů, které { -brand-name-mozilla } shromažďuje při vaší návštěvě našich webových stránek, naleznete níže v našich zásadách ochrany osobních údajů.
 cookie-settings-privacy-policy-link = Zásady ochrany osobních údajů
