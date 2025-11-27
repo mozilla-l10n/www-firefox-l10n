@@ -13,7 +13,7 @@ cookie-settings-page-intro-v2 = Tato stránka popisuje různé typy souborů coo
 cookie-settings-how-mozilla-heading = Jak { -brand-name-mozilla } používá cookies
 cookie-settings-how-does-mozilla-use-subheading = Jak { -brand-name-mozilla } používá tyto údaje?
 cookie-settings-save-changes = Uložit změny
-cookie-settings-your-cookie-settings-have = Vaše nastavení souborů cookie bylo aktualizováno.
+cookie-settings-your-cookie-settings-have = Vaše nastavení cookies bylo aktualizováno.
 cookie-settings-i-agree = Souhlasím
 cookie-settings-i-do-not-agree = Nesouhlasím
 cookie-settings-turn-on-javascript = Pro aktualizaci vašeho nastavení cookies si prosím zapněte JavaScript.
@@ -35,7 +35,7 @@ cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } pou�
 ## Analytics cookies section
 
 cookie-settings-category-analytics-heading = Analytika
-cookie-settings-category-analytics-what-are-subheading = Co jsou analytické soubory cookies?
+cookie-settings-category-analytics-what-are-subheading = Co jsou analytické cookies?
 cookie-settings-category-analytics-what-are-desc = Tyto technologie shromažďují informace o tom, jak lidé používají webové stránky, například navštívené stránky, odkazy, na které klikli, a informace o tom, z jakých jiných webových stránek návštěvy pocházejí.
 cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } používá analytické informace k pochopení, jak uživatelé používají naše webové stránky, abychom je mohli vylepšovat a opravovat jakékoliv problémy, které nastanou. Data z cookies, informace o zařízeních a IP adresy můžeme použít také k tomu, abychom porozuměli tomu, jak uživatelé pracují s našimi produkty, službami, komunikací, webovými stránkami, online kampaněmi, zařízeními a dalšími platformami. Sbíráme analytické informace a ukládáme analytické cookies pouze od vašeho souhlasu.
 
