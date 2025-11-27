@@ -8,6 +8,7 @@ newsletter-form-your-email-address = ਤੁਹਾਡਾ ਈਮੇਲ ਸਿਰ�
 newsletter-form-we-are-sorry-but-there = ਸਾਨੂੰ ਅਫ਼ਸੋਸ ਹੈ, ਪਰ ਸਾਡੇ ਸਿਸਟਮ ਨਾਲ ਸਮੱਸਿਆ ਆਈ ਹੈ। ਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ!
 newsletter-form-please-select-country = ਦੇਸ਼ ਜਾਂ ਖੇਤਰ ਚੁਣੋ
 newsletter-form-please-select-language = ਭਾਸ਼ਾ ਚੁਣੋ
+newsletter-form-button-cta = ਸਾਈਨ ਅੱਪ ਕਰੋ
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = ਦੇਸ਼ ਜਾਂ ਖਿੱਤਾ ਚੁਣੋ

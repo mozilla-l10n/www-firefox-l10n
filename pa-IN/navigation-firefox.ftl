@@ -31,6 +31,7 @@ navigation-learn = ਸਿੱਖੋ
 navigation-blog = ਬਲੌਗ
 navigation-compare = ਮੁਕਾਬਲਾ
 navigation-podcast = ਪੋਸਟਕਾਸਟ
+navigation-data-protection = ਡਾਟੇ ਦੀ ਸੁਰੱਖਿਆ
 
 ## Download
 

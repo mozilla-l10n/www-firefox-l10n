@@ -7,6 +7,8 @@ send-to-device-your-download-link = ਤੁਹਾਡਾ ਡਾਊਨਲੋਡ ਸ
 send-to-device-please-enter-an-email = ਆਪਣਾ ਈਮੇਲ ਐਡਰੈਸ ਦਿਉ।
 send-to-device-an-error-occured = ਸਾਡੇ ਸਿਸਟਮ ਵਿੱਚ ਗਲਤੀ ਆਈ ਹੈ। ਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 send-to-device-enter-your-email = ਆਪਣਾ ਈਮੇਲ ਦਿਓ
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = yourname@example.com
 send-to-device-send = ਭੇਜੋ
 send-to-device-intended-recipient-email = ਈਮੇਲ ਜਾਂ SMS ਦੇ ਨਿਯਤ ਪ੍ਰਾਪਤਕਰਤਾ ਦੀ ਸਹਿਮਤੀ ਚਾਹੀਦੀ ਹੈ।
 send-to-device-check-your-device-email = ਈਮੇਲ ਲਈ ਆਪਣੇ ਜੰਤਰ ਨੂੰ ਚੈਕ ਕਰੋ!

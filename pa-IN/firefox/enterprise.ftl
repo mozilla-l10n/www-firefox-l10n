@@ -33,3 +33,7 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 64-ਬਿੱਟ
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = { -brand-name-firefox-esr } ਡਾਊਨਲੋਡ ਕਰੋ ਜਾਂ <br> <a href="{ $firefox_all }">ਹੋਰ ਭਾਸ਼ਾ ਜਾਂ ਪਲੇਟਫਾਰਮ</a> ਲਈ ਅਕਸਰ ਰੀਲਿਜ਼ ਨੂੰ ਲਵੋ।
+firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+firefox-enterprise-contact-sales = ਸੇਲਜ਼ ਨਾਲ ਸੰਪਰਕ ਕਰੋ
+firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } ਦਸਤਾਵੇਜ਼
+firefox-enterprise-support-plan = ਸਹਾਇਤਾ ਪਲਾਨ
