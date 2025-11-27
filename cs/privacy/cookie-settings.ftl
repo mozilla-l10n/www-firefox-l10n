@@ -6,9 +6,9 @@
 ### URL: https://www-dev.springfield.moz.works/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = Nastavení cookies
-cookie-settings-page-desc = Tato stránka popisuje různé typy souborů cookie, které může { -brand-name-mozilla } používat, a poskytuje vám kontrolu nad tím, u kterých typy údajů souhlasíte se shromažďováním { -brand-name-mozilla(case: "ins") }.
+cookie-settings-page-desc = Tato stránka popisuje různé typy cookies, které může { -brand-name-mozilla } používat, a umožňuje vám rozhodnout, jaké typy údajů smí { -brand-name-mozilla } shromažďovat.
 cookie-settings-breadcrumb-link = Předchozí stránka
-cookie-settings-explainer = Soubory cookie jsou malé soubory obsahující informace, které se ukládají do počítače nebo zařízení při návštěvě webové stránky. { -brand-name-mozilla } používá soubory cookie k zajištění fungování našich webových stránek a ke shromažďování informací o tom, jak naše webové stránky používáte a jak s nimi komunikujete, například o navštívených stránkách.
+cookie-settings-explainer = Cookies jsou malé soubory obsahující informace, které se ukládají do počítače nebo zařízení při návštěvě webové stránky. { -brand-name-mozilla } používá cookies k zajištění funkčnosti našich webových stránek a ke shromažďování informací o tom, jak naše webové stránky používáte a jak s nimi interagujete, například o navštívených stránkách.
 cookie-settings-page-intro-v2 = Tato stránka popisuje různé typy souborů cookie a podobných technologií, jako jsou pixelové značky, webové signály, jasné soubory GIF, JavaScript a místní úložiště (dále jen "soubory cookie"), které může společnost { -brand-name-mozilla } používat, a poskytuje vám kontrolu nad tím, u jakých typy údajů souhlasíte se shromažďováním společností { -brand-name-mozilla }.
 cookie-settings-how-mozilla-heading = Jak { -brand-name-mozilla } používá cookies
 cookie-settings-how-does-mozilla-use-subheading = Jak { -brand-name-mozilla } používá tyto údaje?
