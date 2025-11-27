@@ -27,9 +27,9 @@ cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } po
 
 ## Preference cookies section
 
-cookie-settings-category-preference-heading = Předvolby
-cookie-settings-category-preference-what-are-subheading = Co jsou preferenční soubory cookie?
-cookie-settings-category-preference-what-are-desc = Tyto technologie se používají k zapamatování voleb, které jste učinili během předchozí návštěvy webových stránek. Příkladem může být jazyk, ve kterém nejraději čtete, nebo oblíbený barevný motiv.
+cookie-settings-category-preference-heading = Preference
+cookie-settings-category-preference-what-are-subheading = Co jsou to preferenční cookies?
+cookie-settings-category-preference-what-are-desc = Tyto technologie se používají k zapamatování toho, co jste si zvolili při předchozí návštěvě webové stránky. Příkladem může být jazyk, ve kterém nejraději čtete, nebo oblíbený barevný motiv.
 cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } používá preferované soubory cookies, aby zohlednila vaše preference a zlepšila vaše zkušenosti s návštěvou našich webových stránek. Nepoužívají se pro analytické účely. Preferenční soubory cookie podporují funkce podobně jako nezbytné soubory cookie, nicméně webové stránky mohou fungovat i bez nich. Proto se můžete rozhodnout, že jejich používání odmítnete.
 
 ## Analytics cookies section
