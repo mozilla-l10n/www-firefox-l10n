@@ -9,7 +9,7 @@ cookie-settings-page-title = Nastavení cookies
 cookie-settings-page-desc = Tato stránka popisuje různé typy cookies, které může { -brand-name-mozilla } používat, a umožňuje vám rozhodnout, jaké typy údajů smí { -brand-name-mozilla } shromažďovat.
 cookie-settings-breadcrumb-link = Předchozí stránka
 cookie-settings-explainer = Cookies jsou malé soubory obsahující informace, které se ukládají do počítače nebo zařízení při návštěvě webové stránky. { -brand-name-mozilla } používá cookies k zajištění funkčnosti našich webových stránek a ke shromažďování informací o tom, jak naše webové stránky používáte a jak s nimi interagujete, například o navštívených stránkách.
-cookie-settings-page-intro-v2 = Tato stránka popisuje různé typy souborů cookie a podobných technologií, jako jsou pixelové značky, webové signály, jasné soubory GIF, JavaScript a místní úložiště (dále jen "soubory cookie"), které může společnost { -brand-name-mozilla } používat, a poskytuje vám kontrolu nad tím, u jakých typy údajů souhlasíte se shromažďováním společností { -brand-name-mozilla }.
+cookie-settings-page-intro-v2 = Tato stránka popisuje různé typy cookies a podobných technologií, jako jsou pixelové značky, webové signály, průhledné soubory GIF, JavaScript a místní úložiště (dále jen „cookies“), které může { -brand-name-mozilla } používat, a umožňuje vám rozhodnout, jaké typy údajů smí { -brand-name-mozilla } shromažďovat.
 cookie-settings-how-mozilla-heading = Jak { -brand-name-mozilla } používá cookies
 cookie-settings-how-does-mozilla-use-subheading = Jak { -brand-name-mozilla } používá tyto údaje?
 cookie-settings-save-changes = Uložit změny
@@ -21,7 +21,7 @@ cookie-settings-turn-on-javascript = Pro aktualizaci vašeho nastavení cookies 
 ## Necessary cookies section
 
 cookie-settings-category-necessary-heading = Nezbytné
-cookie-settings-category-necessary-what-are-subheading = Co jsou nezbytné cookies?
+cookie-settings-category-necessary-what-are-subheading = Co jsou to nezbytné cookies?
 cookie-settings-category-necessary-what-are-desc = Tyto technologie jsou nezbytné pro podporu základních funkcí webových stránek, jako je přihlášení do zabezpečené oblasti webových stránek nebo přidávání položek do online nákupního košíku, a nelze je vypnout.
 cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } používá nezbytné cookies pouze k poskytování základních funkcí webových stránek, jako je přihlášení pomocí vašeho { -brand-name-mozilla-account(case: "gen", capitalization: "lower") } nebo nákup předplatného softwaru při placení. Bez těchto technologií nemusí základní funkce webových stránek fungovat.
 
