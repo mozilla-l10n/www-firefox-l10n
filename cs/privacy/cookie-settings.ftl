@@ -37,7 +37,7 @@ cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } pou�
 cookie-settings-category-analytics-heading = Analytika
 cookie-settings-category-analytics-what-are-subheading = Co jsou to analytické cookies?
 cookie-settings-category-analytics-what-are-desc = Tyto technologie shromažďují údaje o tom, jak lidé webové stránky používají. Například jakou konkrétní stránku navštívili, na jaké odkazy kliknuli a z jakých jiných webů na ně přišli.
-cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } používá analytické informace k pochopení, jak uživatelé používají naše webové stránky, abychom je mohli vylepšovat a opravovat jakékoliv problémy, které nastanou. Data z cookies, informace o zařízeních a IP adresy můžeme použít také k tomu, abychom porozuměli tomu, jak uživatelé pracují s našimi produkty, službami, komunikací, webovými stránkami, online kampaněmi, zařízeními a dalšími platformami. Sbíráme analytické informace a ukládáme analytické cookies pouze od vašeho souhlasu.
+cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } používá analytické údaje k pochopení, jak uživatelé interagují s našimi webovými stránkami, abychom je mohli vylepšovat a odstraňovat případné problémy. Můžeme také používat údaje z cookies, informace o zařízeních a IP adresy, abychom lépe pochopili, jak uživatelé využívají naše produkty, služby, komunikační kanály, webové stránky, online kampaně, zařízení a další platformy. Analytické údaje shromažďujeme a analytické cookies ukládáme pouze s vaším souhlasem.
 
 ## Privacy section
 
