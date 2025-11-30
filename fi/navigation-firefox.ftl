@@ -9,7 +9,7 @@ navigation-landmark-label = Ensisijainen
 ## Features
 
 navigation-features = Ominaisuudet
-navigation-close-features-menu = Sulje ominaisuusvalikko
+navigation-close-features-menu = Sulje Ominaisuudet-valikko
 navigation-top-features = Tärkeimmät ominaisuudet
 navigation-fingerprint-blocking = Yksilöijien esto
 navigation-ad-tracker-blocking = Mainosseurainten esto
