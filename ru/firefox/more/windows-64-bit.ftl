@@ -6,16 +6,16 @@
 ### URL: https://www-dev.springfield.moz.works/more/windows-64-bit/
 
 # HTML page title
-windows-64-bit-firefox-for-windows = { -brand-name-firefox } для 64-битной { -brand-name-windows }
+windows-64-bit-firefox-for-windows = { -brand-name-firefox } для 64-разрядной { -brand-name-windows }
 # HTML page description
-windows-64-bit-users-on-64-bit-windows = Пользователи 64-битной { -brand-name-windows }, загружающие { -brand-name-firefox }, получат 64-битную версию по умолчанию. Это означает, что вы будете использовать более безопасную версию { -brand-name-firefox }.
-windows-64-bit-64-bit = 64-битный
+windows-64-bit-users-on-64-bit-windows = Пользователи 64-разрядной { -brand-name-windows }, скачивающие { -brand-name-firefox }, получат 64-разрядную версию по умолчанию. Это означает, что вы будете использовать более безопасную версию { -brand-name-firefox }.
+windows-64-bit-64-bit = 64-разрядная
 # Main title
 windows-64-bit-a-more-secure-firefox = Более безопасный { -brand-name-firefox }.
 # Variables:
 # $crashes (url) - link to https://blog.mozilla.org/firefox/defeat-browser-crashes/
-windows-64-bit-users-on-64-bit-windows-crashes = Пользователи 64-битной { -brand-name-windows }, загружающие { -brand-name-firefox }, получат 64-битную версию по умолчанию. Это означает, что вы будете использовать более безопасную версию { -brand-name-firefox }, которая также <a href="{ $crashes }">гораздо реже падает</a>. Насколько реже? По нашим тестам, 64-битный { -brand-name-firefox } падает на 39 % реже на компьютерах с 4 ГБ памяти и более.
-windows-64-bit-whats-the-difference = В чем разница между 32-битным и 64-битным?
+windows-64-bit-users-on-64-bit-windows-crashes = Пользователи 64-разрядной { -brand-name-windows }, скачивающие { -brand-name-firefox }, получат 64-разрядную версию по умолчанию. Это означает, что вы будете использовать более безопасную версию { -brand-name-firefox }, которая также <a href="{ $crashes }">гораздо реже падает</a>. Насколько реже? По нашим тестам, 64-разрядная { -brand-name-firefox } падает на 39% реже на компьютерах с 4 ГБ памяти и более.
+windows-64-bit-whats-the-difference = В чём разница между 32-разрядной и 64-разрядной?
 # Variables:
 # $ASLR (url) - link to https://en.wikipedia.org/wiki/Address_space_layout_randomization
 # The term "fret not" can be translated as "not to worry", or "don’t worry".

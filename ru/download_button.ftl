@@ -27,14 +27,14 @@ download-button-download = Загрузить
 download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">больше не поддерживается</a> для { $os_version } и более ранних версий.
 download-button-please-download-esr = Пожалуйста, загрузите { -brand-name-firefox-esr } (выпуск с расширенной поддержкой), чтобы использовать { -brand-name-firefox }.
 download-firefox-esr = Загрузить { -brand-name-firefox-esr }
-download-firefox-esr-32 = Загрузить { -brand-name-firefox-esr } (32-разрядная версия)
-download-firefox-esr-64 = Загрузить { -brand-name-firefox-esr } (64-разрядная версия)
+download-firefox-esr-32 = Скачать { -brand-name-firefox-esr } (32-разрядная версия)
+download-firefox-esr-64 = Скачать { -brand-name-firefox-esr } (64-разрядная версия)
 download-a-different-build = Загрузить другую сборку
 
 ## Linux
 
-download-button-linux-32-v2 = Загрузить для 32-битной Linux
-download-button-linux-64-v2 = Загрузить для 64-битной Linux
+download-button-linux-32-v2 = Скачать для 32-разрядной Linux
+download-button-linux-64-v2 = Скачать для 64-разрядной Linux
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
