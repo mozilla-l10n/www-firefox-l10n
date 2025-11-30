@@ -34,6 +34,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Yhteisö
 footer-contribute = Osallistu
 footer-developer = Kehittäjä
+footer-connect = Connect
 
 ## Links to resources
 
@@ -67,6 +68,7 @@ footer-logo-trademark-licensing = Logon tavaramerkkilisensointi
 ## Language Switcher
 
 footer-language = Kieli
+footer-go = Siirry
 footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding

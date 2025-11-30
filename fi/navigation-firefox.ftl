@@ -9,6 +9,13 @@ navigation-landmark-label = Ensisijainen
 ## Features
 
 navigation-features = Ominaisuudet
+navigation-close-features-menu = Sulje ominaisuusvalikko
+navigation-top-features = Tärkeimmät ominaisuudet
+navigation-fingerprint-blocking = Yksilöijien esto
+navigation-ad-tracker-blocking = Mainosseurainten esto
+navigation-private-browsing = Yksityinen selaustila
+navigation-password-manager = Ilmainen salasananhallinta
+navigation-features-all = Näytä kaikki { -brand-name-firefox } ominaisuudet
 
 ## Resources
 
@@ -24,6 +31,7 @@ navigation-learn = Opi
 navigation-blog = Blogi
 navigation-compare = Vertaa
 navigation-podcast = Podcast
+navigation-data-protection = Tietojen suojaus
 
 ## Download
 

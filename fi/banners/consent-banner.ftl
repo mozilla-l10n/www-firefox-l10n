@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
+consent-banner-fx-heading = Auta meitä parantamaan firefox.com-kokemustasi
 consent-banner-body-v2 = Tämän sivuston toiminnan edellyttämien evästeiden lisäksi pyydämme lupaasi asettaa lisäevästeitä selaustarpeittesi ymmärtämiseksi ja käyttökokemuksesi parantamiseksi. Voit olla varma – arvostamme yksityisyyttäsi.
 consent-banner-button-reject = Hylkää kaikki lisäevästeet
 consent-banner-button-accept = Hyväksy kaikki lisäevästeet

@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Sähköpostiosoitteesi
 newsletter-form-we-are-sorry-but-there = Valitettavasti järjestelmässämme ilmeni ongelma. Yritä uudelleen myöhemmin!
 newsletter-form-please-select-country = Valitse maa tai alue
 newsletter-form-please-select-language = Valitse kieli
+newsletter-form-button-cta = Rekisteröidy
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Valitse maa tai alue
