@@ -15,7 +15,7 @@ navigation-fingerprint-blocking = Yksilöijien esto
 navigation-ad-tracker-blocking = Mainosseurainten esto
 navigation-private-browsing = Yksityinen selaustila
 navigation-password-manager = Ilmainen salasananhallinta
-navigation-features-all = Näytä kaikki { -brand-name-firefox } ominaisuudet
+navigation-features-all = Näytä kaikki { -brand-name-firefox }in ominaisuudet
 
 ## Resources
 
