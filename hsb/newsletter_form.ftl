@@ -30,6 +30,8 @@ newsletter-form-sign-up-now = Registrujće so nětko
 newsletter-form-thanks = Wulki dźak!
 newsletter-form-yes = Haj
 newsletter-form-no = Ně
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Słanje
 multi-newsletter-form-checkboxes-legend = Chcu informacije wo:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
