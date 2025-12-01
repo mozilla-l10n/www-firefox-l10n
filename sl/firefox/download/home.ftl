@@ -19,6 +19,7 @@ firefox-home-latest-features = Najnovejše zmožnosti { -brand-name-firefox(sklo
 firefox-home-dial-down = Izklopite motnje
 firefox-home-block-ads = Blokirajte oglase in povečajte svojo zasebnost s prilagodljivimi nastavitvami in množico razpoložljivih razširitev.
 firefox-home-multitasking = Počnete več stvari hkrati?
+firefox-home-go-into-reading = Preklopite v bralni način, glejte videoposnetke in se organizirajte z navpičnimi zavihki in skupinami zavihkov.
 firefox-home-keep-tabs-on = Ohranite pregled nad zavihki
 firefox-home-close-duplicates = Zaprite podvojene, poiščite želenega in pripnite najljubše strani – za skoraj nešteto odprtih zavihkov obstaja skoraj nešteto možnosti.
 firefox-home-see-release = Preberite opombe ob izdaji
@@ -30,6 +31,10 @@ firefox-home-block-ad-trackers = Blokirajte sledilce oglasov, ne da bi mignili s
 firefox-home-ad-trackers-make = Sledilci oglasov upočasnjujejo nalaganje spletnih strani. V { -brand-name-firefox(sklon: "mestnik") } vam je brskanje po nastavitvah prihranjeno, saj privzeto blokira večino sledilcev.
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Odkrižajte se motenj
+# Variables
+#   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
+#   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
+firefox-home-stay-focused = Ostanite osredotočeni z razširitvami, kot sta <a { $tomato_lock_attrs }>Tomato Clock</a> in <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> – priporočene so, kar je naša zlata zvezda za izjemno varnost Uporabi rezervne naprave in funkcionalnosti.
 firefox-home-your-stuff = Vaše stvari na vseh vaših zaslonih
 firefox-home-get-firefox-mobile = Prenesite { -brand-name-firefox } za mobilne naprave in imejte gesla, zavihke in zgodovino – ter zasebnost in varnost, na kateri se zanašate – s seboj, kamorkoli greste.
 firefox-home-privacy-built-in = Vgrajena zasebnost
@@ -40,6 +45,11 @@ firefox-home-learn-data-protection = Preberite, kako { -brand-name-firefox } š�
 
 # asterisks provide playful emphasis, omit or use symbols appropriate in your language
 firefox-home-really-make-it = Napravite ga *resnično* svojega
+firefox-home-work-smarter = Pametno delaj, močno uživaj.
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = Raziščite možnosti za raziskave, nakupe in drugo v <a { $extensions_attrs }>razširitvah</a>.
+firefox-home-bye-boring = Adijo, dolgočasen brskalnik
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
 firefox-home-the-internet-can = Internet je lahko super kraj, če le izberete pravo <a { $theme_attrs }>temo</a> brskalnika.

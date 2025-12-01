@@ -9,6 +9,7 @@ cookie-settings-page-title = Nastavitve piškotkov
 cookie-settings-page-desc = Na tej strani so opisane različne vrste piškotkov, ki jih uporablja { -brand-name-mozilla }, in vam omogoča podati ali spremeniti soglasje za zbiranje posameznih vrst podatkov s strani { -brand-name-mozilla(sklon: "rodilnik") }.
 cookie-settings-breadcrumb-link = Prejšnja stran
 cookie-settings-explainer = Piškotki so majhne datoteke s podatki, ki se ob obisku spletne strani shranijo na vaš računalnik oziroma napravo. { -brand-name-mozilla } uporablja piškotke, da omogoči pravilno delovanje naših spletnih mest ter za zbiranje podatkov o uporabi in interakciji z našimi spletnimi mesti, npr. katere strani obiskujete.
+cookie-settings-page-intro-v2 = Ta stran opisuje različne vrste piškotkov in podobnih tehnologij, kot so oznake pikslov, spletni svetilniki, jasni GIF‑i, JavaScript in lokalna shramba (v nadaljevanju »piškotki«), ki jih lahko uporablja { -brand-name-mozilla }, ter vam omogoča nadzor nad tem, katere vrste podatkov dovolite, da { -brand-name-mozilla } zbira.
 cookie-settings-how-mozilla-heading = Kako { -brand-name-mozilla } uporablja piškotke
 cookie-settings-how-does-mozilla-use-subheading = Za kaj { -brand-name-mozilla } uporablja te podatke?
 cookie-settings-save-changes = Shrani spremembe
@@ -29,6 +30,7 @@ cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } nu
 cookie-settings-category-preference-heading = Nastavitve
 cookie-settings-category-preference-what-are-subheading = Kaj so nastavitveni piškotki?
 cookie-settings-category-preference-what-are-desc = Te tehnologije so namenjene shranjevanju izbir, ki ste jih sprejeli ob prejšnjem obisku spletnega mesta – na primer jezika, v katerem najraje berete, ali barvne teme, ki vam je najljubša.
+cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } uporablja nastavitvene piškotke, da upošteva vaše nastavitve in izboljša vaše izkušnje ob obisku naših spletnih strani. Ne uporabljajo jih za analitične namene. Nastavitveni piškotki podpirajo funkcije, ki so podobne nujnim piškotkom, vendar lahko spletno mesto deluje brez njih. Zato se lahko odločite, da onemogočite njihovo uporabo.
 
 ## Analytics cookies section
 
