@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
+consent-banner-fx-heading = Pomogni nam da poboljšamo tvoje iskustvo na firefox.com
 consent-banner-body-v2 = Uz kolačiće koji su potrebni za funkcioniranje ove stranice, dozvoli nam postavljanje nekih dodatnih kolačića kako bismo bolje razumjeli tvoje potrebe pregledavanja i poboljšali tvoje iskustvo. Budi siguran/na – poštujemo tvoju privatnost.
 consent-banner-button-reject = Odbij sve dodatne kolačiće
 consent-banner-button-accept = Prihvati sve dodatne kolačiće
