@@ -30,6 +30,8 @@ newsletter-form-sign-up-now = Registrer deg nå
 newsletter-form-thanks = Takk!
 newsletter-form-yes = Ja
 newsletter-form-no = Nei
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Sender
 multi-newsletter-form-checkboxes-legend = Jeg ønsker informasjon om:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
