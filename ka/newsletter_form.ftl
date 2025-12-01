@@ -30,6 +30,8 @@ newsletter-form-sign-up-now = გამოწერა
 newsletter-form-thanks = გმადლობთ!
 newsletter-form-yes = დიახ
 newsletter-form-no = არა
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = იგზავნება
 multi-newsletter-form-checkboxes-legend = მსურს, შევიტყო:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

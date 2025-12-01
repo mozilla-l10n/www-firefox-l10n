@@ -30,6 +30,8 @@ newsletter-form-sign-up-now = Cofrestrwch nawr
 newsletter-form-thanks = Diolch!
 newsletter-form-yes = Iawn
 newsletter-form-no = Na
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Anfon
 multi-newsletter-form-checkboxes-legend = Rwyf eisiau gwybodaeth am:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

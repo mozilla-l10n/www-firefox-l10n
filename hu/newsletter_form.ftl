@@ -30,6 +30,8 @@ newsletter-form-sign-up-now = Feliratkozás most
 newsletter-form-thanks = Köszönjük!
 newsletter-form-yes = Igen
 newsletter-form-no = Nem
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Küldés…
 multi-newsletter-form-checkboxes-legend = Információt szeretnék ezekről:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

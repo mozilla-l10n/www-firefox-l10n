@@ -30,6 +30,8 @@ newsletter-form-sign-up-now = Подписаться сейчас
 newsletter-form-thanks = Спасибо!
 newsletter-form-yes = Да
 newsletter-form-no = Нет
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Отправка
 multi-newsletter-form-checkboxes-legend = Я хочу получать информацию про:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

@@ -30,6 +30,8 @@ newsletter-form-sign-up-now = 立即订阅
 newsletter-form-thanks = 谢谢！
 newsletter-form-yes = 是的
 newsletter-form-no = 不要
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = 正在发送
 multi-newsletter-form-checkboxes-legend = 我想要下列信息：
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
