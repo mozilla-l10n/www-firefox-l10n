@@ -37,6 +37,7 @@ newsletter-form-thanks = Merci.
 newsletter-form-yes = Oui
 newsletter-form-no = Non
 
+
 multi-newsletter-form-checkboxes-legend = Je souhaite obtenir des informations sur :
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
