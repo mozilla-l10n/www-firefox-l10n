@@ -37,6 +37,7 @@ newsletter-form-thanks = ありがとうございました。
 newsletter-form-yes = あり
 newsletter-form-no = なし
 
+
 multi-newsletter-form-checkboxes-legend = 希望する情報:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
