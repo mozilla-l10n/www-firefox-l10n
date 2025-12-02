@@ -37,6 +37,7 @@ newsletter-form-thanks = شكراً!
 newsletter-form-yes = نعم
 newsletter-form-no = لا
 
+
 multi-newsletter-form-checkboxes-legend = أريد معلومات عن:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

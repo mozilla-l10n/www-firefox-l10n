@@ -37,6 +37,7 @@ newsletter-form-thanks = Terima kasih!
 newsletter-form-yes = Ya
 newsletter-form-no = Tidak
 
+
 multi-newsletter-form-checkboxes-legend = Saya ingin informasi tentang:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

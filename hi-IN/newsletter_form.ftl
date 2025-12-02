@@ -37,6 +37,7 @@ newsletter-form-thanks = धन्यवाद!
 newsletter-form-yes = हाँ
 newsletter-form-no = नहीं
 
+
 multi-newsletter-form-checkboxes-legend = मुझे इस बारे में जानकारी चाहिए:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
