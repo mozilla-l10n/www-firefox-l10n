@@ -30,6 +30,8 @@ newsletter-form-sign-up-now = Prihlásiť sa
 newsletter-form-thanks = Vďaka!
 newsletter-form-yes = Áno
 newsletter-form-no = Nie
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Odosiela sa
 multi-newsletter-form-checkboxes-legend = Chcem informácie o:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
