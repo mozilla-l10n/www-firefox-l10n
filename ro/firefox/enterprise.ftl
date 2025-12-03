@@ -48,4 +48,5 @@ firefox-enterprise-support-for-organizations = { -brand-name-support-for-organiz
 firefox-enterprise-early-access-is = Accesul anticipat este acum disponibil pentru noul nostru program de asistență, care va fi lansat în ianuarie 2026. Creat pentru organizațiile care utilizează { -brand-name-firefox } pentru a asigura securitatea, reziliența și suveranitatea datelor, acesta oferă asistență privată, fiabilă și personalizată pentru implementări la scară largă.
 firefox-enterprise-contact-sales = Contactează departamentul de vânzări
 firefox-enterprise-support-for-organizations-documentation = Documentație { -brand-name-support-for-organizations }
+firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } este o ofertă dedicată echipelor care au nevoie de servicii private de triere și escaladare a problemelor, timpi de răspuns definiți, opțiuni de dezvoltare personalizate și o colaborare strânsă cu echipele de inginerie și de produse { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Plan de asistență

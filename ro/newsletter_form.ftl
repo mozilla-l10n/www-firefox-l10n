@@ -30,6 +30,8 @@ newsletter-form-sign-up-now = Înscrie-te acum
 newsletter-form-thanks = Îți mulțumim!
 newsletter-form-yes = Da
 newsletter-form-no = Nu
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Se trimite
 multi-newsletter-form-checkboxes-legend = Vreau informații despre:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
