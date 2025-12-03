@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Tvoja e-mail adresa
 newsletter-form-we-are-sorry-but-there = Žao nam je, ali došlo je do problema u našem sustavu. Pokušaj kasnije ponovo.
 newsletter-form-please-select-country = Odaberi zemlju ili regiju
 newsletter-form-please-select-language = Odaberi jezik
+newsletter-form-button-cta = Registriraj se
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = tvojeime@primjer.hr
 newsletter-form-select-country-or-region = Odaberi zemlju ili regiju
@@ -29,6 +30,8 @@ newsletter-form-sign-up-now = Registriraj se
 newsletter-form-thanks = Hvala!
 newsletter-form-yes = Da
 newsletter-form-no = Ne
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Slanje
 multi-newsletter-form-checkboxes-legend = Želim informacije o:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
