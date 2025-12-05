@@ -30,6 +30,8 @@ newsletter-form-sign-up-now = Đăng ký ngay
 newsletter-form-thanks = Cảm ơn!
 newsletter-form-yes = Đồng ý
 newsletter-form-no = Không
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Đang gửi
 multi-newsletter-form-checkboxes-legend = Tôi muốn thông tin về:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
