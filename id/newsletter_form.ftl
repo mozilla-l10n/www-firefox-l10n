@@ -37,6 +37,8 @@ newsletter-form-thanks = Terima kasih!
 newsletter-form-yes = Ya
 newsletter-form-no = Tidak
 
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Mengirim
 
 multi-newsletter-form-checkboxes-legend = Saya ingin informasi tentang:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
