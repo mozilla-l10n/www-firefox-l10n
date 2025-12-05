@@ -17,7 +17,7 @@ firefox-home-set-firefox-as = Установите { -brand-name-firefox } в к
 # accessible section heading
 firefox-home-latest-features = Новейшие возможности { -brand-name-firefox }
 firefox-home-dial-down = Уменьшите шум
-firefox-home-block-ads = Блокируйте рекламу и улучшите свою приватность с помощью настраиваемых параметров и множества загружаемых расширений.
+firefox-home-block-ads = Блокируйте рекламу и улучшите свою приватность с помощью настраиваемых параметров и множества скачиваемых расширений.
 firefox-home-multitasking = Многозадачность?
 firefox-home-go-into-reading = Переходите в режим чтения, открывайте видео и будьте более организованы с вертикальными вкладками и группами вкладок.
 firefox-home-keep-tabs-on = Контролируйте все свои вкладки

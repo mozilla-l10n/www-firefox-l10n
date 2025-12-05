@@ -35,4 +35,4 @@ navigation-data-protection = Защита данных
 
 ## Download
 
-navigation-download = Загрузить
+navigation-download = Скачать

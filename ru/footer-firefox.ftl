@@ -6,14 +6,14 @@
 ## Download links for stable versions of Firefox across multiple platforms.
 
 # Section title
-footer-download = Загрузить
-footer-download-auto = Загрузить { -brand-name-firefox }
+footer-download = Скачать
+footer-download-auto = Скачать { -brand-name-firefox }
 footer-windows = Windows
 footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
-footer-custom-download = Пользовательские настройки загрузки
+footer-custom-download = Особые варианты скачиваний
 
 ## Download links for dev versions of Firefox (beta, nightly).
 

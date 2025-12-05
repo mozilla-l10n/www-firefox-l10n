@@ -25,7 +25,7 @@ how-do-i = Как мне загрузить { -brand-name-firefox-browser }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
-you-can-easily = Вы легко можете загрузить компьютерный { -brand-name-firefox } <a href="{ $url }">здесь</a>. { -brand-name-firefox } работает на <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> и <a href="{ $url4 }">{ -brand-name-linux }</a>, а также доступен для <a href="{ $url5 }">{ -brand-name-android }- и { -brand-name-ios }-устройств</a>. Убедитесь, что вы загружаете наш браузер с одной из страниц { -brand-name-mozilla }/{ -brand-name-firefox }.
+you-can-easily = Вы легко можете скачать компьютерный { -brand-name-firefox } <a href="{ $url }">здесь</a>. { -brand-name-firefox } работает на <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> и <a href="{ $url4 }">{ -brand-name-linux }</a>, а также доступен для <a href="{ $url5 }">{ -brand-name-android }- и { -brand-name-ios }-устройств</a>. Убедитесь, что вы скачиваете наш браузер с одной из страниц { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = { -brand-name-firefox } бесплатен?
 yep-the-firefox-browser-is-free = Да! { -brand-name-firefox-browser(case: "nominative_uppercase") } бесплатен. На самом деле абсолютно бесплатен. Никаких скрытых платежей или чего-то подобного. Вы ничего не платите за его использование.
 related-questions-free = Связанные вопросы: бесплатен ли { -brand-name-firefox-browser }?; стоит ли { -brand-name-firefox } денег?
@@ -37,12 +37,12 @@ no-we-dont = Нет, мы не думаем, что { -brand-name-chrome } лу�
 
 see-how-firefox = <a href="{ $url }">Посмотрите сравнение { -brand-name-firefox } с { -brand-name-chrome }.</a>
 related-questions-better = Связанные вопросы: { -brand-name-firefox } лучше { -brand-name-chrome }?; { -brand-name-firefox } лучше { -brand-name-google }?; { -brand-name-firefox } безопаснее { -brand-name-chrome }?;  { -brand-name-firefox } более приватен чем { -brand-name-chrome }?
-is-firefox-safe-download = Безопасно ли загружать { -brand-name-firefox }?
+is-firefox-safe-download = Безопасно ли скачивать { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
-protecting-your-privacy = Защита вашей приватности — наш приоритет номер один, и мы гарантируем, что установка { -brand-name-firefox } на ваши устройства полностью безопасна. Однако вам следует всегда проверять, что вы выполняете загрузку с надёжного сайта { -brand-name-mozilla }/{ -brand-name-firefox }, например, с <a href="{ $url }">нашей страницы загрузок</a>.
+protecting-your-privacy = Защита вашей приватности — наш приоритет номер один, и мы гарантируем, что установка { -brand-name-firefox } на ваши устройства полностью безопасна. Однако вам следует всегда проверять, что вы выполняете скачивание с надёжного сайта { -brand-name-mozilla }/{ -brand-name-firefox }, например, с <a href="{ $url }">нашей страницы скачиваний</a>.
 is-firefox-safe = { -brand-name-firefox } безопасен?
 
 # Variables:

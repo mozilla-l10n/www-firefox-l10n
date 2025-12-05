@@ -6,7 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Загрузите { -brand-name-firefox } { -brand-name-esr } или версию с регулярными выпусками для вашей организации
-firefox-enterprise-get-unmatched-data-protection = Получите непревзойдённую защиту данных с периодичностью обновлений, которая наиболее подходит вашему корпоративному { -brand-name-firefox }. Загрузите { -brand-name-esr } или версию с регулярными выпусками.
+firefox-enterprise-get-unmatched-data-protection = Получите непревзойдённую защиту данных с периодичностью обновлений, которая наиболее подходит вашему корпоративному { -brand-name-firefox }. Скачайте { -brand-name-esr } или версию с регулярными выпусками.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-get-firefox-for-your-enterprise = Загрузите { -brand-name-firefox } для вашей организации
 # Variables:
@@ -20,7 +20,7 @@ firefox-enterprise-deploy-when-and-how-you-want = Разворачивайте, 
 firefox-enterprise-with-install-packages-and = С помощью установочных пакетов и расширенных групповых политик и функций, развёртывание проходит быстрее и гибче, чем когда-либо раньше — и невероятно легко в { -brand-name-windows } и { -brand-name-mac }.
 firefox-enterprise-choose-your-release-cadence = Выберите вашу частоту обновлений
 firefox-enterprise-get-rapid-releases-to-make = Получайте регулярные выпуски и новейшие функции быстрее, или выберите выпуск с длительной поддержкой для обеспечения максимально стабильной работы.
-firefox-enterprise-enterprise-downloads = Загрузки { -brand-name-enterprise }
+firefox-enterprise-enterprise-downloads = Скачивания { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = 64-разрядная { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Выберите ваш выпуск
@@ -43,7 +43,7 @@ firefox-enterprise-pkg-installer = PKG установщик
 firefox-enterprise-windows-32-bit = 32-разрядная { -brand-name-windows }
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
-firefox-enterprise-download-firefox-esr-or-rapid = Загрузите { -brand-name-firefox-esr } или версию с регулярными выпусками для<br> <a href="{ $firefox_all }">другого языка или платформы</a>.
+firefox-enterprise-download-firefox-esr-or-rapid = Скачайте { -brand-name-firefox-esr } или версию с регулярными выпусками для<br> <a href="{ $firefox_all }">другого языка или платформы</a>.
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-early-access-is = Ранний доступ открыт для нашей новой программы поддержки, которая запустится в январе 2026 года. Создана для организаций, которые используют { -brand-name-firefox }, чтобы обеспечить безопасность, стабильность и суверенность данных, он предоставляет приватную, надёжную и персонализированную поддержку для крупномасштабных развёртываний.
 firefox-enterprise-contact-sales = Связаться с отделом продаж
