@@ -24,4 +24,5 @@ pdf-editor-open-pdf-click-image-icon = Abra o PDF no { -brand-name-firefox }. Cl
 pdf-editor-create-a-highlight = Crie destaques
 pdf-editor-select-text-you-want-to = Abra o PDF no { -brand-name-firefox }. Selecione o texto que você quer destacar e clique no ícone de destaque que aparece abaixo da seleção, ou clique com o botão direito para encontrar a opção de destaque no menu de contexto. Clique no ícone no alto à direita para destacar seções do PDF à mão livre.
 pdf-editor-create-a-signature = Criar uma assinatura
+pdf-editor-click-the-signature-icon = Abra o PDF no { -brand-name-firefox }. Clique no ícone de assinaturas e depois em “Adicionar nova assinatura”. Escolha Tipo, Desenho ou Imagem e clique no botão de adicionar para inserir. Você também pode salvar suas assinaturas e usar novamente mais tarde.
 pdf-editor-add-a-comment = Adicionar comentários
