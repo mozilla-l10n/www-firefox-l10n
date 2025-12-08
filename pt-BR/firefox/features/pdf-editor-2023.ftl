@@ -18,6 +18,7 @@ pdf-editor-no-more-now-all-you-need-to-do = Não mais! Agora, tudo que você pre
 pdf-editor-add-text = Adicione texto
 pdf-editor-open-the-pdf-in-firefox-click-text = Abra o PDF no { -brand-name-firefox }. Clique no botão 'Texto' para escolher uma cor e tamanho antes de selecionar onde quer adicionar texto no documento. É fácil assim!
 pdf-editor-add-drawings = Adicionar desenhos
+pdf-editor-open-the-pdf-in-firefox-click-draw-to-choose = Abra o PDF no { -brand-name-firefox }. Para desenhar no documento, clique no ícone de desenho para escolher cor, espessura e opacidade.
 pdf-editor-add-image-with-alt-text = Adicione imagens com texto alternativo
 pdf-editor-open-pdf-click-image-icon = Abra o PDF no { -brand-name-firefox }. Clique no ícone de imagem, que solicita que você envie uma imagem. Ajuste o tamanho e o posicionamento da imagem conforme necessário. Clique no botão “+Texto alternativo” na imagem para adicionar uma descrição e melhorar a acessibilidade de seu PDF.
 pdf-editor-create-a-highlight = Crie destaques
