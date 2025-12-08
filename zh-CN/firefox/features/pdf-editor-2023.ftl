@@ -24,5 +24,5 @@ pdf-editor-open-pdf-click-image-icon = 在 { -brand-name-firefox } 中打开 PDF
 pdf-editor-create-a-highlight = 添加高亮
 pdf-editor-select-text-you-want-to = 在 { -brand-name-firefox } 中打开 PDF 文档。选中需要高亮的文本，然后点击出现在选中文本下方的“高亮”图标，或右击并在上下文菜单中找到“高亮”选项。点击右上角的图标可通过手绘来自由高亮 PDF 文档中的部分。
 pdf-editor-create-a-signature = 创建签名
-pdf-editor-click-the-signature-icon = 在 { -brand-name-firefox } 中打开 PDF。点击签名图标 后点击“添加新签名”。在 Type、Draw 或 Image 之间进行选择然后点击 Add 按钮进行插入。您还可以保存签名供稍后使用。
+pdf-editor-click-the-signature-icon = 在 { -brand-name-firefox } 中打开 PDF 文件，点击“签名”图标，然后点击“添加新签名”。您可以选择以键入、绘制或图片形式进行签名，点击“添加”按钮即可插入。创建的签名可保存供后续重复使用。
 pdf-editor-add-a-comment = 添加批注
