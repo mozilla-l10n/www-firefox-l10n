@@ -5,6 +5,12 @@
 
 ## New WNP CMS footer - cms/includes/wnp-footer.html
 
+# Variables:
+# $years (string) - license years ©1998–2025
+footer-contributors = 此内容中的某些部分系 mozilla.org 志愿者个人版权所有（{ $years }）。
+# Variables:
+# $license_attrs (attrs) - link to https://www.mozilla.org/en-US/foundation/licensing/website-content/
+footer-license = 内容可按<a { $license_attrs }>{ -brand-name-creative-commons }许可协议</a>使用。
 footer-firefox-support = { -brand-name-firefox } 技术支持
 footer-privacy-notice = 隐私声明
 footer-donate = 向 { -brand-name-mozilla } 捐款
