@@ -26,3 +26,4 @@ pdf-editor-select-text-you-want-to = 在 { -brand-name-firefox } 中打开 PDF �
 pdf-editor-create-a-signature = 创建签名
 pdf-editor-click-the-signature-icon = 在 { -brand-name-firefox } 中打开 PDF 文件，点击“签名”图标，然后点击“添加新签名”。您可以选择以键入、绘制或图片形式进行签名，点击“添加”按钮即可插入。创建的签名可保存供后续重复使用。
 pdf-editor-add-a-comment = 添加批注
+pdf-editor-click-the-comment-icon = 在 { -brand-name-firefox } 中打开 PDF 文件。选中相关内容后，点击下方出现的“批注”图标，键入批注内容并点击“添加”即可保存。若 PDF 文件中包含许多批注，可点击右上角的“批注”图标，通过打开的侧栏跳到目标批注。
