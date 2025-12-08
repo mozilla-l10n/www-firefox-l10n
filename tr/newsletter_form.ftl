@@ -30,6 +30,8 @@ newsletter-form-sign-up-now = Kaydol
 newsletter-form-thanks = Teşekkürler!
 newsletter-form-yes = Evet
 newsletter-form-no = Hayır
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Gönderiliyor
 multi-newsletter-form-checkboxes-legend = Şu konuda bilgi istiyorum:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
