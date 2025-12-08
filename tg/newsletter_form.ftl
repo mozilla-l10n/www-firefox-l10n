@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Нишонии почтаи электро�
 newsletter-form-we-are-sorry-but-there = Мутаассифона, дар низоми мо мушкилӣ ба миён омад. Лутфан, баъдтар аз нав кӯшиш кунед!
 newsletter-form-please-select-country = Лутфан, кишвар ё минтақаеро интихоб намоед
 newsletter-form-please-select-language = Лутфан, забонеро интихоб намоед
+newsletter-form-button-cta = Бақайдгирӣ
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = номи_корбар@example.com
 newsletter-form-select-country-or-region = Кишвар ё минтақаро интихоб кунед
@@ -29,6 +30,8 @@ newsletter-form-sign-up-now = Ҳозир сабти ном шавед
 newsletter-form-thanks = Ташаккур!
 newsletter-form-yes = Ҳа
 newsletter-form-no = Не
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Ирсолкунӣ
 multi-newsletter-form-checkboxes-legend = Ба ман маълумоти зерин лозим аст:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
