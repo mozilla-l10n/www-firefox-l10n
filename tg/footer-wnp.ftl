@@ -7,3 +7,6 @@
 
 footer-firefox-support = Дастгирии «{ -brand-name-firefox }»
 footer-privacy-notice = Огоҳномаи махфият
+footer-donate = Ба «{ -brand-name-mozilla }» саҳм гузоред
+footer-donate-v2 = Ба «{ -brand-name-mozilla-foundation }» саҳм гузоред
+footer-make-good-things = Чизҳои хубро якҷоя ба вуҷуд оред
