@@ -22,6 +22,10 @@ firefox-home-see-release = Pogledaj napomene o izdanju
 ## Features
 
 firefox-home-get-the-browser = Nabavi preglednik koji ti pomaže obaviti posao
+firefox-home-block-ad-trackers = Blokiraj programe za praćenje putem oglasa automatski
+firefox-home-ad-trackers-make = Programi za praćenje putem oglasa usporavaju učitavanje web stranica. { -brand-name-firefox } automatski blokira većinu programa za praćenje, tako da ne moraš kopati po postavkama da bi to popravio/la.
+# "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
+firefox-home-swear-off = Riješi se distrakcija
 
 ## Final call-out
 
