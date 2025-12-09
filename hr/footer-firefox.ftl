@@ -34,6 +34,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Zajednica
 footer-contribute = Doprinesi
 footer-developer = Programer
+footer-connect = Poveži se
 
 ## Links to resources
 
@@ -69,3 +70,8 @@ footer-logo-trademark-licensing = Korištenje zaštitnih znakova i logotipova
 footer-language = Jezik
 footer-go = Idi
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+
+footer-powdered-by = Pokreće { -brand-name-mozilla }
+footer-putting-people = Stavlja ljude ispred profita od 1998. godine.

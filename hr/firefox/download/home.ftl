@@ -49,6 +49,7 @@ firefox-home-firefox-was-created = 2004. godine je { -brand-name-mozilla } stvor
 ## Used as accessible alternative text for images.
 
 firefox-home-firefox-on-desktop = { -brand-name-firefox } na računalu i mobitelu.
+firefox-home-a-human-brain = Ljudski mozak povezan sa svijetom.
 firefox-home-desktop-laptop-and-phone = Desktop, laptop i telefon.
 firefox-home-browser-window-with-lock = Prozor preglednika s ikonama lokota i štita.
 firefox-home-firefox-in-dark = { -brand-name-firefox } u tamnom modusu.
