@@ -26,6 +26,20 @@ firefox-home-block-ad-trackers = Blokiraj programe za praćenje putem oglasa aut
 firefox-home-ad-trackers-make = Programi za praćenje putem oglasa usporavaju učitavanje web stranica. { -brand-name-firefox } automatski blokira većinu programa za praćenje, tako da ne moraš kopati po postavkama da bi to popravio/la.
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Riješi se distrakcija
+# Variables
+#   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
+#   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
+firefox-home-stay-focused = Ostani usredotočen/a uz proširenja poput <a { $tomato_clock_attrs }>Tomato Clock</a> i <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a>. Ta su proširenja „preporučena”, što je poput naše zlatne zvjezdice za iznimnu sigurnost i funkcionalnost.
+firefox-home-your-stuff = Tvoje stvari, na svim tvojim ekranima
+firefox-home-get-firefox-mobile = Nabavi { -brand-name-firefox } mobile kako bi tvoje lozinke, kartice i povijest, kao i tvoja privatnost i sigurnost, bile s tobom kamo god ideš.
+firefox-home-privacy-built-in = Ugrađena privatnost
+firefox-home-personal-data-not-for-sale = Tvoji osobni podaci nisu na prodaju. Programi za praćenje i kolačići trećih strana su standardno blokirani, tako da možeš samo … pregledavati.
+
+## Customization
+
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = Pregledaj mogućnosti za istraživanje, kupovinu i više u <a { $extensions_attrs }>proširenjima</a>.
 
 ## Final call-out
 
