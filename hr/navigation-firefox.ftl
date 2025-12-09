@@ -10,6 +10,7 @@ navigation-landmark-label = Primarni
 
 navigation-features = Funkcije
 navigation-top-features = Značajne funkcije
+navigation-ad-tracker-blocking = Blokiranje praćenja putem oglasa
 
 ## Resources
 
