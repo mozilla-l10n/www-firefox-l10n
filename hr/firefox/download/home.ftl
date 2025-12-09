@@ -8,7 +8,20 @@
 
 ## Intro
 
+firefox-home-take-control = Preuzmi kontrolu nad svojim internetom
 firefox-home-set-firefox-as = Postavi { -brand-name-firefox } kao standardni preglednik.
+
+## What's new
+
+# accessible section heading
+firefox-home-latest-features = Najnovije { -brand-name-firefox } funkcije
+firefox-home-dial-down = Smanji buku
+firefox-home-block-ads = Blokiraj oglase i poboljšaj svoju privatnost pomoću prilagodljivih postavki i mnogih proširenja.
+firefox-home-see-release = Pogledaj napomene o izdanju
+
+## Features
+
+firefox-home-get-the-browser = Nabavi preglednik koji ti pomaže obaviti posao
 
 ## Final call-out
 

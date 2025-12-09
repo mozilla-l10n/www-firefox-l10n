@@ -14,5 +14,6 @@ compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Uredi PDF-ove</a> bez lokalne m
 # Variables
 # $translate (url) - link to https://www.firefox.com/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>Prevedi web stranicu</a> lokalno i privatno.
+compare-shared-its-easy-to-switch = Zamjena je jednostavna
 # Used as a small link to a cited source
 compare-shared-source = izvor
