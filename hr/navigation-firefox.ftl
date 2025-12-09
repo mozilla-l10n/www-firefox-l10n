@@ -9,6 +9,7 @@ navigation-landmark-label = Primarni
 ## Features
 
 navigation-features = Funkcije
+navigation-top-features = Značajne funkcije
 
 ## Resources
 
