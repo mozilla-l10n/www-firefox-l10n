@@ -8,7 +8,7 @@
 # Variables:
 # $mozilla_link_attrs (attrs) - link to https://www.mozilla.org/
 # $mozilla_foundation_link_attrs (attrs) - link to https://foundation.mozilla.org/
-footer-visit-mozilla = 欢迎访问 <a { $mozilla_link_attrs }>{ -brand-name-mozilla-corporation }</a>的非营利母公司 — <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>。
+footer-visit-mozilla = 欢迎访问 <a { $mozilla_link_attrs }>{ -brand-name-mozilla-corporation }</a> 的非营利母公司 — <a { $mozilla_foundation_link_attrs }>{ -brand-name-mozilla-foundation }</a>。
 # Variables:
 # $years (string) - license years ©1998–2025
 footer-contributors = 此内容中的某些部分系 mozilla.org 志愿者个人版权所有（{ $years }）。
