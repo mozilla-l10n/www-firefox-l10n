@@ -7,6 +7,8 @@
 
 # Page title
 firefox-enterprise-use-firefox-esr-enterprise-browser = Wužywajśo { -brand-name-firefox } abo { -brand-name-esr } ako wobglědowak swójogo pśedewześa za wěstotu we wjelikej měrje
+# Page description
+firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } jo wobgłědowak wótwórjonego žrědła ze za pśedewześa comneju wěstotu, priwatnosću a fleksibelnosću. Wužywajśo { -brand-name-firefox } za nejnowše funkcije abo { -brand-name-esr } za dłujkodobnu stabilnosć.
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = Wužywajśo { -brand-name-firefox } ako wobglědowak swójogo pśedewześa
 firefox-enterprise-protection-powered-by = Za pśedewześa comny šćit, pśez { -brand-name-firefox } doprědka spórany
