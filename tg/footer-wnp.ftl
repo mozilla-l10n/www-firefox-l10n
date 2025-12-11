@@ -12,6 +12,9 @@ footer-visit-mozilla = Ба ширкати асосии ғайритиҷории
 # Variables:
 # $years (string) - license years ©1998–2025
 footer-contributors = Қисмҳои ин муҳтаво ба солҳои { $years } тааллуқ дошта, аз ҷониби саҳмгузорони инфиродии mozilla.org таҳия шудаанд.
+# Variables:
+# $license_attrs (attrs) - link to https://www.mozilla.org/en-US/foundation/licensing/website-content/
+footer-license = Муҳтаво дар асоси <a { $license_attrs }>Иҷозатномаи «{ -brand-name-creative-commons }»</a> дастрас аст.
 footer-firefox-support = Дастгирии «{ -brand-name-firefox }»
 footer-privacy-notice = Огоҳномаи махфият
 footer-donate = Ба «{ -brand-name-mozilla }» саҳм гузоред
