@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+# Page title
+firefox-enterprise-use-firefox-esr-enterprise-browser = Wužiwajće { -brand-name-firefox } abo { -brand-name-esr } jako wobhladowak swojeho předewzaća za wěstotu we wulkej měrje
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = Wužiwajće { -brand-name-firefox } jako wobhladowak swojeho předewzaća
 firefox-enterprise-your-browser-your-business = Waš wobhladowak, waše wobchodnistwo
@@ -32,6 +34,9 @@ firefox-enterprise-documentation-and-community = Dokumentacija a podpěra wot zh
 firefox-enterprise-sample-plist-for-configuration = Přikład <a href="{ $url }">plist za konfiguraciski profil</a>
 firefox-enterprise-pkg-installer = PKG-instalowak
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
+# Variables:
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
+firefox-enterprise-download-firefox-or-esr = Sćehńće { -brand-name-firefox } abo { -brand-name-firefox-esr } za <a { $firefox_all }>druhu rěč abo platformu.</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-early-access-is = Zažny přistup je nětko za naš program podpěry k dispoziciji, kotryž budźe so w januarje 2026 startować.  Je za organizacije mysleny, kotrež { -brand-name-firefox } wužiwaja, zo bychu wěstotu, wobstajnosć a suwerenitu datow zaručili, skići priwatnu, spušćomnu a přiměrjenu podpěru za wobšěrne poskićenja.
 firefox-enterprise-contact-sales = Rozšěrjenski wotrjad skontaktować
