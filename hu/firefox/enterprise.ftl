@@ -5,7 +5,20 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+# Page title
+firefox-enterprise-use-firefox-esr-enterprise-browser = Használja a(z) { -brand-name-firefox } vagy { -brand-name-esr } böngészőt vállalati böngészőként, a léptékű biztonság érdekében
+# Page description
+firefox-enterprise-open-source-browser-with-enterprise-security = A { -brand-name-firefox } a nyílt forráskódú böngésző vállalati szintű biztonsággal, adatvédelemmel és rugalmassággal. Használjon { -brand-name-firefox }-t a legújabb funkciókért, vagy { -brand-name-esr }-t a hosszú távú stabilitásért.
+firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-use-as-your-enterprise-browser = Használja a(z) { -brand-name-firefox } böngészőt vállalati böngészőként
+firefox-enterprise-secure-at-scale = A(z) { -brand-name-firefox } nagyszabású, biztonságos, rugalmas és adatvédelemre fókuszáló böngészést nyújt. A { -brand-name-firefox } vagy { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) vállalati házirendekkel a szervezetek rugalmasságot, irányítást és átláthatóságot kapnak egy megbízható, nyílt forráskódú böngészőben.
+firefox-enterprise-protection-powered-by = Vállalati szintű védelem, a motoros { -brand-name-firefox }
+firefox-enterprise-open-source-transparency = A(z) { -brand-name-firefox } egyesíti a nyílt forráskódú átláthatóságot a fejlett biztonsági funkciókkal és a gyakori frissítésekkel, hogy segítsen megvédeni a szervezete adatait.
+firefox-enterprise-your-browser-your-business = Az Ön böngészője, az Ön üzlete
 firefox-enterprise-deploy-when-and-how-you-want = Telepítse akkor és ahogy szeretné
+firefox-enterprise-install-packages-policies = A telepítőcsomagokkal és a széleskörű csoportházirendekkel és szolgáltatásokkal a telepítés gyorsabb és rugalmasabb mint valaha – és pofonegyszerű Windows, Linux és macOS környezetben.
+firefox-enterprise-release-cycles = A szervezetéhez illő kiadási ciklusok
+firefox-enterprise-choose-firefox-for-features-esr-stability = Válassza a(z) { -brand-name-firefox } összeget a legújabb funkciókért és négyhetenkénti stabil kiadásokért, vagy a { -brand-name-firefox-esr }-ot a hosszú távú stabilitásért, a rendszeres biztonsági frissítésekért és a főbb éves kiadásokért.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } letöltések
 firefox-enterprise-windows-64-bit = 64 bites { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
@@ -14,6 +27,7 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } – MSI telepítő
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) – MSI telepítő
+firefox-enterprise-resources = Erőforrások
 firefox-enterprise-msi-installers = MSI telepítők
 firefox-enterprise-legacy-browser-support = Örökölt böngészőtámogatás
 firefox-enterprise-admx-templates = ADMX-sablonok
@@ -26,6 +40,9 @@ firefox-enterprise-documentation-and-community = Dokumentáció és közösségi
 firefox-enterprise-sample-plist-for-configuration = Minta <a href="{ $url }">plist konfigurációs profilhoz</a>
 firefox-enterprise-pkg-installer = PKG telepítő
 firefox-enterprise-windows-32-bit = 32 bites { -brand-name-windows }
+# Variables:
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
+firefox-enterprise-download-firefox-or-esr = A(z) { -brand-name-firefox } vagy { -brand-name-firefox-esr } letöltése <a { $firefox_all }>másik nyelvhez vagy platformhoz</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-early-access-is = Az előzetes hozzáférés megnyílt a 2026 januárjában induló új támogatási programunkhoz. Azon szervezetek számára, amelyek a biztonság, az rugalmasság és az adatszuverenitás érdekében a { -brand-name-firefox }ot használják; privát, megbízható és egyéni támogatást nyújt a nagyméretű telepítésekhez.
 firefox-enterprise-contact-sales = Kapcsolatfelvétel az értékesítéssel
