@@ -5,11 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
-firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-get-firefox-for-your-enterprise = Náðu í { -brand-name-firefox } fyrir fyrirtækið þitt
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } niðurhal
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Veldu niðurhalið þitt
-firefox-enterprise-support = Aðstoð
 firefox-enterprise-msi-installers = MSI-uppsetningarforrit
 firefox-enterprise-legacy-browser-support = Stuðningur við eldri vafra

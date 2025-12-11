@@ -5,12 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
-firefox-enterprise-get-firefox-for-your-enterprise-with = Heɓ { -brand-name-firefox } ngam gollorde maa  { -brand-name-esr } e Rapid release
-firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-get-firefox-for-your-enterprise = Heɓ { -brand-name-firefox } ngam gollorde maa
-firefox-enterprise-your-data-stays-your-business = Keɓe maa ngoni ngoƴa maa
 firefox-enterprise-deploy-when-and-how-you-want = Hollir nde njiɗɗaa e no njiɗirɗaa
-firefox-enterprise-choose-your-release-cadence = Suɓo no njaltinirtaa
 firefox-enterprise-enterprise-downloads = Gaawte { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
@@ -19,7 +14,6 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - aafirde MSI
 firefox-enterprise-firefox-extended-support-release = Bayyinol ({ -brand-name-esr }) { -brand-name-firefox-extended-support-release }
 firefox-enterprise-firefox-extended-support-release-msi = Bayyinol ({ -brand-name-esr }) { -brand-name-firefox-extended-support-release } - Aafirde MSI
-firefox-enterprise-support = Tammbol
 firefox-enterprise-msi-installers = Gaafirɗe MSI
 firefox-enterprise-legacy-browser-support = Tammbol wanngorde aadanteere
 firefox-enterprise-admx-templates = Tiimtorɗe ADMX

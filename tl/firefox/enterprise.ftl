@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
-firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } downloads
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }

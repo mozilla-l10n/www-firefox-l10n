@@ -13,7 +13,6 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - nzitaturi MSI
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - nzitaturi MSI
-firefox-enterprise-support = Supportu
 firefox-enterprise-msi-installers = Nzitatura MSI
 firefox-enterprise-legacy-browser-support = Supportu pî navicatura vecchi
 firefox-enterprise-admx-templates = Mudeḍḍi ADMX
