@@ -44,3 +44,4 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-бит
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-esr-or-rapid = Боргирӣ кардани «{ -brand-name-firefox-esr }» ё нашрҳои мунтазами «Rapid Release» <br><a href="{ $firefox_all }">бо забони дигар ё барои платформаи дигар</a>.
+firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
