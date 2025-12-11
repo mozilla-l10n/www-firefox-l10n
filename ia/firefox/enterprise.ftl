@@ -15,6 +15,7 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = Programma de installation MSI de { -brand-name-firefox-browser }
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) installator MSI
+firefox-enterprise-resources = Ressources
 firefox-enterprise-msi-installers = Installatores MSI
 firefox-enterprise-legacy-browser-support = Supporto pro navigatores obsolete
 firefox-enterprise-admx-templates = Modellos ADMX
