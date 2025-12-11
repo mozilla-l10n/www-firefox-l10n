@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-deploy-when-and-how-you-want = Distribue lo quando e como tu vole
 firefox-enterprise-enterprise-downloads = Discargamentos de { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 bits
