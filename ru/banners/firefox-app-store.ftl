@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/ (View on an Android or iOS browser)
 
-banner-firefox-app-store-title = { -brand-name-firefox }: Приватный, Безопасный Браузер
+banner-firefox-app-store-title = { -brand-name-firefox }: Приватный, безопасный браузер
 banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: Браузер для приватности
 banner-firefox-app-store-mozilla = { -brand-name-mozilla }
 banner-firefox-app-store-free-google-play = Бесплатно – в { -brand-name-google-play }

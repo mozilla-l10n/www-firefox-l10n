@@ -15,10 +15,10 @@ firefox-desktop-download-meta-desc = Получите { -brand-name-firefox } �
 firefox-desktop-download-meta-desc-v2 = Получите { -brand-name-firefox } для { -brand-name-windows }, { -brand-name-mac-short } или { -brand-name-linux }. { -brand-name-firefox } — бесплатный веб-браузер, поддерживаемый { -brand-name-mozilla }, некоммерческой организацией, занимающейся вопросами здоровья Интернета и конфиденциальностью.
 firefox-desktop-download-og-title = Скачайте самый быстрый в истории { -brand-name-firefox }
 firefox-desktop-download-og-desc = Более быстрая загрузка страниц, уменьшенный расход памяти и множество функций — новый { -brand-name-firefox } уже здесь.
-firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-firefox = { -brand-name-firefox-browser(case: "nominative_uppercase") }
 # Variables:
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
-firefox-desktop-out-of-date = Доступна еще более новая версия { -brand-name-firefox }. <a { $update_url }>Обновить до последней версии</a>
+firefox-desktop-out-of-date = Доступна ещё более новая версия { -brand-name-firefox }. <a { $update_url }>Обновить до последней версии</a>
 firefox-desktop-download-get-the-browser = Получите браузер, который защищает всё важное
 firefox-desktop-download-fast-reliable-private = Быстрый, надежный и приватный — для вашего спокойствия в Интернете.
 firefox-desktop-set-as-default = Установите { -brand-name-firefox } в качестве браузера по умолчанию.

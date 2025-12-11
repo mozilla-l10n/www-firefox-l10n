@@ -7,7 +7,7 @@
 
 firefox-mobile-download-the-firefox-browser = Скачайте { -brand-name-firefox-browser } для { -brand-name-ios } и { -brand-name-android } на свой мобильный
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser(case: "nominative_uppercase") } для мобильных устройств блокирует более 2000 трекеров по умолчанию, предоставляя вам приватность, которую вы заслуживаете, и скорость, необходимую для приватного мобильного браузера.
-firefox-mobile-get-the-mobile-browser-built = Загрузите мобильный браузер, созданный для вас, а не для рекламодателей
+firefox-mobile-get-the-mobile-browser-built = Скачайте мобильный браузер, созданный для вас, а не для рекламодателей
 firefox-mobile-check-out-firefox-again-its = Попробуйте { -brand-name-firefox } ещё раз. Он быстрый, приватный и всегда на вашей стороне. Для { -brand-name-ios } и { -brand-name-android }.
 firefox-mobile-get-firefox-mobile = Загрузить мобильный { -brand-name-firefox }
 firefox-mobile-send-a-download-link-to-your = Отправить ссылку на скачивание на свой телефон.
