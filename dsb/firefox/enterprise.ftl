@@ -8,7 +8,13 @@
 # Page title
 firefox-enterprise-use-firefox-esr-enterprise-browser = Wužywajśo { -brand-name-firefox } abo { -brand-name-esr } ako wobglědowak swójogo pśedewześa za wěstotu we wjelikej měrje
 firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-use-as-your-enterprise-browser = Wužywajśo { -brand-name-firefox } ako wobglědowak swójogo pśedewześa
+firefox-enterprise-protection-powered-by = Za pśedewześa comny šćit, pśez { -brand-name-firefox } doprědka spórany
+firefox-enterprise-open-source-transparency = Wubjeŕśo { -brand-name-firefox } za nejnowše funkcije a stabilne wersije kužde styri tyźenje, abo za dłujkodobnu stabilnosć, pšawidłowne wěstotne aktualizacije a lětne głowne wersije.
+firefox-enterprise-your-browser-your-business = Waš wobglědowak, wašo pśekupowanje
 firefox-enterprise-deploy-when-and-how-you-want = Rozdźělśo gdy a kak cośo
+firefox-enterprise-install-packages-policies = Z instalěrowańskimi paketami a wobšyrnym rozšyrjenim kupkowych směrnicow a funkcijow, jo rozdźělenje malsnjejše a fleksibelnjejše ako gdy do togo - a teke źiśece grajkanje za wokoliny Windows, Linux a macOS.
+firefox-enterprise-release-cycles = Wózjawjeńske cykluse, kótarež se k wašej organizaciji góźe
 firefox-enterprise-enterprise-downloads = Ześěgnjenja za { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
