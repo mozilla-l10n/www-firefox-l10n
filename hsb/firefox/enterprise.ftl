@@ -5,7 +5,12 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-use-as-your-enterprise-browser = Wužiwajće { -brand-name-firefox } jako wobhladowak swojeho předewzaća
+firefox-enterprise-your-browser-your-business = Waš wobhladowak, waše wobchodnistwo
 firefox-enterprise-deploy-when-and-how-you-want = Rozdźělće hdy a kak chceće
+firefox-enterprise-install-packages-policies = Z instalaciskimi paketami a wobšěrnym rozšěrjenjom skupinskich směrnicow a funkcijow, je rozdźělenje spěšniše a fleksibelniše hač hdy do toho - a tež něšto za dźěći za wokoliny Windows, Linux a macOS.
+firefox-enterprise-release-cycles = Wozjewjenske cyklusy, kotrež so k wašej organizaciji hodźa
 firefox-enterprise-enterprise-downloads = Sćehnjenja za { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
@@ -14,6 +19,7 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI-instalowak
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI-instalowak
+firefox-enterprise-resources = Resursy
 firefox-enterprise-msi-installers = MSI-instalowaki
 firefox-enterprise-legacy-browser-support = Podpěra za starše wobhladowaki
 firefox-enterprise-admx-templates = ADMX-předłohi

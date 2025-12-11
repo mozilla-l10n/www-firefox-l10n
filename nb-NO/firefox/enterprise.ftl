@@ -5,7 +5,9 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-deploy-when-and-how-you-want = Distribuer når og hvordan du vil
+firefox-enterprise-release-cycles = Utgivelsessykluser som passer din organisasjon
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise }-nedlastinger
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
@@ -14,6 +16,7 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI-installasjonsprogram
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) -  MSI-installasjonsprogram
+firefox-enterprise-resources = Resurser
 firefox-enterprise-msi-installers = MSI-installasjonsprogrammer
 firefox-enterprise-legacy-browser-support = Støtte for eldre nettlesere
 firefox-enterprise-admx-templates = ADMX-maler

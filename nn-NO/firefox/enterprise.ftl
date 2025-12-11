@@ -5,7 +5,9 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-deploy-when-and-how-you-want = Distribuer når og korleis du vil
+firefox-enterprise-release-cycles = Utgivingssyklusar som passar organisasjonen din
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise }-nedlastingar
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
@@ -14,6 +16,7 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI-installasjonsprogram
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) -  MSI-installasjonsprogram
+firefox-enterprise-resources = Resursar
 firefox-enterprise-msi-installers = MSI-installasjonsprogram
 firefox-enterprise-legacy-browser-support = Støtte for eldre nettlesarar
 firefox-enterprise-admx-templates = ADMX-malar
@@ -26,6 +29,9 @@ firefox-enterprise-documentation-and-community = Dokumentasjon og støtte frå f
 firefox-enterprise-sample-plist-for-configuration = Døme <a href="{ $url }">plist-fil for konfigurasjonsprofil</a>
 firefox-enterprise-pkg-installer = PKG-installasjonsprogram
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
+# Variables:
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
+firefox-enterprise-download-firefox-or-esr = Last ned { -brand-name-firefox } eller { -brand-name-firefox-esr } for <a { $firefox_all }>eit anna språk eller ei anna plattform.</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-early-access-is = Tidleg tilgang er no opna for det nye støtteprogrammet vårt som blir lansert i januar 2026. Bygt for organisasjonar som brukar { -brand-name-firefox } for å sikre tryggheit, robustheit og datasuverenitet, tilbyr det privat, påliteleg og tilpassa støtte for utrulling i stor skala.
 firefox-enterprise-contact-sales = Kontakt sal

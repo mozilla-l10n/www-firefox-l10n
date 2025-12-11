@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-deploy-when-and-how-you-want = Driftsätt när och hur du vill
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } hämtningar
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bitars
@@ -14,6 +15,7 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI-installationsprogram
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI-installationsprogram
+firefox-enterprise-resources = Resurser
 firefox-enterprise-msi-installers = MSI-installationsprogram
 firefox-enterprise-legacy-browser-support = Support för äldre webbläsare
 firefox-enterprise-admx-templates = ADMX-mallar
