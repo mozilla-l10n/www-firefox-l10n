@@ -7,12 +7,17 @@
 
 # Page title
 firefox-enterprise-use-firefox-esr-enterprise-browser = Wužiwajće { -brand-name-firefox } abo { -brand-name-esr } jako wobhladowak swojeho předewzaća za wěstotu we wulkej měrje
+# Page description
+firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } je wobhładowak wotewrjeneho žórła ze za předewzaća kmanej wěstotu, priwatnosću a fleksibelnosću. Wužiwajće { -brand-name-firefox } za najnowše funkcije abo { -brand-name-esr } za dołhodobnu stabilnosć.
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = Wužiwajće { -brand-name-firefox } jako wobhladowak swojeho předewzaća
+firefox-enterprise-protection-powered-by = Za předewzaća kmany škit, přez { -brand-name-firefox } doprědka ćěrjeny
+firefox-enterprise-open-source-transparency = { -brand-name-firefox } transparencu wotewrjeneho žórła z rozšěrjenymi wěstotnymi funkcijemi a časte aktualizacije kombinuje, zo by pomhał, daty wašeje organizacije škitać.
 firefox-enterprise-your-browser-your-business = Waš wobhladowak, waše wobchodnistwo
 firefox-enterprise-deploy-when-and-how-you-want = Rozdźělće hdy a kak chceće
 firefox-enterprise-install-packages-policies = Z instalaciskimi paketami a wobšěrnym rozšěrjenjom skupinskich směrnicow a funkcijow, je rozdźělenje spěšniše a fleksibelniše hač hdy do toho - a tež něšto za dźěći za wokoliny Windows, Linux a macOS.
 firefox-enterprise-release-cycles = Wozjewjenske cyklusy, kotrež so k wašej organizaciji hodźa
+firefox-enterprise-choose-firefox-for-features-esr-stability = Wubjerće { -brand-name-firefox } za najnowše funkcije a stabilne wersije kóžde štyri njedźele, abo { -brand-name-firefox-esr } za dołhodobnu stabilnosć, prawidłowne wěstotne aktualizacije a lětne hłowne wersije.
 firefox-enterprise-enterprise-downloads = Sćehnjenja za { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }

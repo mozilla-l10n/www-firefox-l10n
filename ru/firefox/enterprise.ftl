@@ -16,7 +16,7 @@ firefox-enterprise-protection-powered-by = Защита корпоративно
 firefox-enterprise-open-source-transparency = { -brand-name-firefox } сочетает в себе прозрачность открытого исходного кода с продвинутыми функциями безопасности и частыми обновлениями для защиты данных вашей организации.
 firefox-enterprise-your-browser-your-business = Ваш браузер, ваше дело
 firefox-enterprise-deploy-when-and-how-you-want = Разворачивайте, когда и как вы хотите
-firefox-enterprise-install-packages-policies = С помощью установочных пакетов и расширенных групповых политик и функций, развёртывание проходит быстрее и гибче, чем когда-либо раньше — и невероятно легко для Windows, Linux и macOS.
+firefox-enterprise-install-packages-policies = С помощью установочных пакетов и расширенных групповых политик и функций развёртывание проходит быстрее и гибче, чем когда-либо раньше — и невероятно легко для Windows, Linux и macOS.
 firefox-enterprise-release-cycles = Циклы выпусков, подходящие для вашей организации
 firefox-enterprise-choose-firefox-for-features-esr-stability = Выберите { -brand-name-firefox } для получения новых функций и стабильных релизов каждые четыре недели или { -brand-name-firefox-esr } для долгосрочной стабильности, регулярных обновлений безопасности и ежегодных основных релизов.
 firefox-enterprise-enterprise-downloads = Скачивания { -brand-name-enterprise }
@@ -42,7 +42,7 @@ firefox-enterprise-pkg-installer = PKG установщик
 firefox-enterprise-windows-32-bit = 32-разрядная { -brand-name-windows }
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
-firefox-enterprise-download-firefox-or-esr = Загрузить { -brand-name-firefox } или { -brand-name-firefox-esr } для <a { $firefox_all }>другого языка или платформы</a>.
+firefox-enterprise-download-firefox-or-esr = Скачайте { -brand-name-firefox } или { -brand-name-firefox-esr } для <a { $firefox_all }>другого языка или платформы</a>.
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-early-access-is = Ранний доступ открыт для нашей новой программы поддержки, которая запустится в январе 2026 года. Создана для организаций, которые используют { -brand-name-firefox }, чтобы обеспечить безопасность, стабильность и суверенность данных, он предоставляет приватную, надёжную и персонализированную поддержку для крупномасштабных развёртываний.
 firefox-enterprise-contact-sales = Связаться с отделом продаж
