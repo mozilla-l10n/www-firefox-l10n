@@ -18,6 +18,7 @@ firefox-enterprise-your-browser-your-business = Uw browser, uw zaak
 firefox-enterprise-deploy-when-and-how-you-want = Implementeer wanneer en hoe u het wilt
 firefox-enterprise-install-packages-policies = Met installatiepakketten en een breed aanbod van groepsbeleid en functies is de implementatie sneller en flexibeler dan ooit – en een fluitje van een cent voor Windows-, Linux- en macOS-omgevingen.
 firefox-enterprise-release-cycles = Uitgavecycli die bij uw organisatie passen
+firefox-enterprise-choose-firefox-for-features-esr-stability = Kies { -brand-name-firefox } voor elke vier weken de nieuwste functies en stabiele releases, of { -brand-name-firefox-esr } voor stabiliteit op de lange termijn, regelmatige beveiligingsupdates en jaarlijkse grote releases.
 firefox-enterprise-enterprise-downloads = Downloads voor { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bits
 firefox-enterprise-macos = { -brand-name-mac }
@@ -26,6 +27,7 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } – MSI-installatieprogramma
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) – MSI-installatieprogramma
+firefox-enterprise-resources = Bronnen
 firefox-enterprise-msi-installers = MSI-installatieprogramma’s
 firefox-enterprise-legacy-browser-support = Ondersteuning voor oudere browsers
 firefox-enterprise-admx-templates = ADMX-sjablonen
@@ -38,6 +40,9 @@ firefox-enterprise-documentation-and-community = Documentatie en gemeenschapsond
 firefox-enterprise-sample-plist-for-configuration = Voorbeeld van een <a href="{ $url }">plist voor configuratieprofiel</a>
 firefox-enterprise-pkg-installer = PKG-installatieprogramma
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bits
+# Variables:
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
+firefox-enterprise-download-firefox-or-esr = Download { -brand-name-firefox } of { -brand-name-firefox-esr } voor <a { $firefox_all }>een andere taal of platform.</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-early-access-is = Vroege toegang staat nu open voor ons nieuwe ondersteuningsprogramma, dat in januari 2026 wordt gelanceerd. Gebouwd voor organisaties die { -brand-name-firefox } gebruiken om beveiliging, veerkracht en gegevenssoevereiniteit te waarborgen, biedt het privé, betrouwbare en aangepaste ondersteuning voor grootschalige implementaties.
 firefox-enterprise-contact-sales = Contact opnemen met verkoop
