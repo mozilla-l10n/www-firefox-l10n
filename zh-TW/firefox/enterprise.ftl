@@ -14,7 +14,7 @@ firefox-enterprise-use-as-your-enterprise-browser = 將 { -brand-name-firefox } 
 firefox-enterprise-secure-at-scale = { -brand-name-firefox } 可讓您大規模提供安全、有彈性、注重隱私的上網體驗。透過 { -brand-name-firefox } 或 { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) 版本的企業政策讓組織在這套可信任的開放原始碼瀏覽器中獲得靈活性、可控制性與透明度。
 firefox-enterprise-protection-powered-by = 由 { -brand-name-firefox } 提供的企業級保護
 firefox-enterprise-open-source-transparency = { -brand-name-firefox } 將開放原始碼的透明度與進階的安全性功能及頻繁的更新結合起來幫助保護您組織的資料。
-firefox-enterprise-your-browser-your-business = 您的瀏覽器您的企業
+firefox-enterprise-your-browser-your-business = 您的瀏覽器，您的企業
 firefox-enterprise-deploy-when-and-how-you-want = 要佈署，再佈署，用您想要的方式佈署
 firefox-enterprise-install-packages-policies = 透過安裝套件與一系列的群組原則與功能讓佈署變得更快、更靈活 — 更簡單就能在 Windows、Linux 及 macOS 等環境下部署。
 firefox-enterprise-release-cycles = 適合您組織的發行週期
@@ -42,7 +42,7 @@ firefox-enterprise-pkg-installer = PKG 格式安裝程式
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 位元
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
-firefox-enterprise-download-firefox-or-esr = 下載<a { $firefox_all }>其他語言或平台</a>的 { -brand-name-firefox } 或 { -brand-name-firefox-esr }。
+firefox-enterprise-download-firefox-or-esr = 下載<a href="{ $firefox_all }">其他語言或平台</a>版本的 { -brand-name-firefox } 或 { -brand-name-firefox-esr }。
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-early-access-is = 我們將於 2026 年 1 月推出新的技術支援計畫，現在開放搶先試用。本計畫是針對使用 { -brand-name-firefox } 確保安全性、韌性、資料主權的組織而打造的，針對大規模部署情境提供有隱私、可靠的客制化技術支援。
 firefox-enterprise-contact-sales = 聯絡銷售團隊
