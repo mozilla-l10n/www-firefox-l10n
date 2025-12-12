@@ -26,3 +26,4 @@ pdf-editor-select-text-you-want-to = Abra o PDF no { -brand-name-firefox }. Sele
 pdf-editor-create-a-signature = Criar uma assinatura
 pdf-editor-click-the-signature-icon = Abra o PDF no { -brand-name-firefox }. Clique no ícone de assinaturas e depois em “Adicionar nova assinatura”. Escolha Tipo, Desenho ou Imagem e clique no botão de adicionar para inserir. Você também pode salvar suas assinaturas e usar novamente mais tarde.
 pdf-editor-add-a-comment = Adicionar comentários
+pdf-editor-click-the-comment-icon = Abra o PDF no { -brand-name-firefox }. Crie um destaque, depois clique no ícone de comentário que aparece abaixo da seleção, digite um comentário e clique em Adicionar para salvar. Tem muitos comentários em um PDF? Clique no ícone de comentário no alto à direita para abrir o painel lateral e encontre o que você precisa.
