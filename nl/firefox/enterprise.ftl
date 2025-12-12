@@ -5,7 +5,19 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+# Page title
+firefox-enterprise-use-firefox-esr-enterprise-browser = Gebruik { -brand-name-firefox } of { -brand-name-esr } als uw bedrijfsbrowser voor beveiliging op schaal
+# Page description
+firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } is de opensourcebrowser met beveiliging, privacy en flexibiliteit op ondernemingsniveau. Gebruik { -brand-name-firefox } voor de nieuwste functies of { -brand-name-esr } voor stabiliteit op de lange termijn.
+firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-use-as-your-enterprise-browser = { -brand-name-firefox } als uw bedrijfsbrowser gebruiken
+firefox-enterprise-secure-at-scale = { -brand-name-firefox } levert veilig, robuust en privacygericht browsen op schaal. Met bedrijfsbeleidsregels in zowel { -brand-name-firefox } als { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) krijgen organisaties flexibiliteit, controle en transparantie in een vertrouwde opensourcebrowser.
+firefox-enterprise-protection-powered-by = Bescherming op ondernemingsniveau, mogelijk gemaakt door { -brand-name-firefox }
+firefox-enterprise-open-source-transparency = { -brand-name-firefox } combineert opensource transparantie met geavanceerde beveiligingsfuncties en regelmatige updates om de gegevens van uw organisatie te helpen beschermen.
+firefox-enterprise-your-browser-your-business = Uw browser, uw zaak
 firefox-enterprise-deploy-when-and-how-you-want = Implementeer wanneer en hoe u het wilt
+firefox-enterprise-install-packages-policies = Met installatiepakketten en een breed aanbod van groepsbeleid en functies is de implementatie sneller en flexibeler dan ooit – en een fluitje van een cent voor Windows-, Linux- en macOS-omgevingen.
+firefox-enterprise-release-cycles = Uitgavecycli die bij uw organisatie passen
 firefox-enterprise-enterprise-downloads = Downloads voor { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bits
 firefox-enterprise-macos = { -brand-name-mac }
