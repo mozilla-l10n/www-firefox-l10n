@@ -40,6 +40,9 @@ firefox-enterprise-documentation-and-community = Dokumintaasje en mienskipsstipe
 firefox-enterprise-sample-plist-for-configuration = Foarbyld fan in <a href="{ $url }">plist foar konfiguraasjeprofyl</a>
 firefox-enterprise-pkg-installer = PKG-ynstallaasjeprogramma
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bits
+# Variables:
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
+firefox-enterprise-download-firefox-or-esr = Download { -brand-name-firefox } of { -brand-name-firefox-esr } <br><a href="{ $firefox_all }">yn in oare taal of foar in oar platfoarm.</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-early-access-is = Iere tagong is no iepen foar ús nije stipeprogramma dat yn jannewaris 2026 lansearre wurdt. Boud foar organisaasjes dy’t { -brand-name-firefox } brûke om befeiliging, fearkrêft en gegevenssoevereiniteit te garandearjen, biedt it privee, betroubere en oanpaste stipe foar grutskalige ynset.
 firefox-enterprise-contact-sales = Kontakt opnimme mei ferkeap
