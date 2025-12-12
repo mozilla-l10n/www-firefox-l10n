@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-use-as-your-enterprise-browser = Kurumsal tarayıcınız olarak { -brand-name-firefox }’u kullanın
 firefox-enterprise-deploy-when-and-how-you-want = İstediğiniz zaman, istediğiniz şekilde dağıtın
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } indirmeleri
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 bit
@@ -14,6 +16,7 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI yükleyici
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI yükleyici
+firefox-enterprise-resources = Kaynaklar
 firefox-enterprise-msi-installers = MSI yükleyiciler
 firefox-enterprise-legacy-browser-support = Eski tarayıcı desteği
 firefox-enterprise-admx-templates = ADMX şablonları
