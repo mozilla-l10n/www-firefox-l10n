@@ -5,9 +5,15 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+# Page title
+firefox-enterprise-use-firefox-esr-enterprise-browser = Usa { -brand-name-firefox } o { -brand-name-esr } como tu navigator de interprisa pro securitate a grande scala
+# Page description
+firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } es le navigator open-source con securitate, confidentialitate, e flexibilitate in grado de interprisa. Usa { -brand-name-firefox } pro le ultime functiones o { -brand-name-esr } pro stabilitate de longe-tempore.
 firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-use-as-your-enterprise-browser = Usa { -brand-name-firefox } como tu navigator de interprisa
 firefox-enterprise-your-browser-your-business = Tu navigator, tu negotios
 firefox-enterprise-deploy-when-and-how-you-want = Distribue lo quando e como tu vole
+firefox-enterprise-release-cycles = Cyclos de version que es apte a tu organisation
 firefox-enterprise-enterprise-downloads = Discargamentos de { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 bits
 firefox-enterprise-macos = { -brand-name-mac }
