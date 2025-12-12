@@ -6,19 +6,19 @@
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 # Page title
-firefox-enterprise-use-firefox-esr-enterprise-browser = 使用 { -brand-name-firefox } 或 { -brand-name-esr } 作為您的企業級瀏覽器來大規模保護您的安全性
+firefox-enterprise-use-firefox-esr-enterprise-browser = 使用 { -brand-name-firefox } 或 { -brand-name-esr } 作為您的企業級瀏覽器，保護整體安全性
 # Page description
-firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } 是開放原始碼擁有企業級安全性、隱私權與靈活性的瀏覽器。請使用 { -brand-name-firefox } 購買最新功能或 { -brand-name-esr } 長期使用可保持穩定。
+firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } 是擁有企業級安全性、隱私權保護與靈活性的開放原始碼瀏覽器。使用 { -brand-name-firefox } 即可獲得最新功能，或使用 { -brand-name-esr } 則是可長期穩定使用的版本。
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = 使用 { -brand-name-firefox } 做為您的企業版瀏覽器
 firefox-enterprise-secure-at-scale = { -brand-name-firefox } 可讓您大規模提供安全、有彈性、注重隱私的上網體驗。透過 { -brand-name-firefox } 或 { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) 版本的企業政策讓組織在這套可信任的開放原始碼瀏覽器中獲得靈活性、可控制性與透明度。
 firefox-enterprise-protection-powered-by = 由 { -brand-name-firefox } 提供的企業級保護
-firefox-enterprise-open-source-transparency = { -brand-name-firefox } 將開放原始碼的透明度與進階的安全性功能及頻繁的更新結合起來幫助保護您組織的資料。
+firefox-enterprise-open-source-transparency = { -brand-name-firefox } 將開放原始碼的透明度與進階安全性功能，還有頻繁軟體更新結合起來，幫助保護您組織的資料。
 firefox-enterprise-your-browser-your-business = 您的瀏覽器，您的企業
 firefox-enterprise-deploy-when-and-how-you-want = 要佈署，再佈署，用您想要的方式佈署
 firefox-enterprise-install-packages-policies = 透過安裝套件與一系列的群組原則與功能，在 Windows、Linux 與 macOS 都能輕鬆佈署，比以往更快、更靈活。
 firefox-enterprise-release-cycles = 適合您組織的發行週期
-firefox-enterprise-choose-firefox-for-features-esr-stability = 選擇 { -brand-name-firefox } 即可每 4 週獲得最新功能與穩定發行版本。選擇 { -brand-name-firefox-esr } 即可獲得長期穩定性資訊定期安全性更新以及每年的主要版本。
+firefox-enterprise-choose-firefox-for-features-esr-stability = 選用 { -brand-name-firefox } 即可每 4 週獲得最新功能與穩定發行版本，或選用 { -brand-name-firefox-esr } 即可獲得更長期的穩定度、定期安全性更新，每年推出一次主要版本更新。
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } 下載項目
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 位元
 firefox-enterprise-macos = { -brand-name-mac }
