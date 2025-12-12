@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-deploy-when-and-how-you-want = Бастаи насбро ба интиёри худ ва дар вақти дилхоҳ таҳия намоед
 firefox-enterprise-enterprise-downloads = Боргириҳо барои браузери «{ -brand-name-enterprise }»
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-бит
@@ -14,6 +15,7 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - Насбкунандаи «MSI»
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - Насбкунандаи «MSI»
+firefox-enterprise-resources = Манбаъҳо
 firefox-enterprise-msi-installers = Насбкунандаи «MSI»
 firefox-enterprise-legacy-browser-support = Дастгирии браузерҳои куҳна
 firefox-enterprise-admx-templates = Қолабҳои «ADMX»
