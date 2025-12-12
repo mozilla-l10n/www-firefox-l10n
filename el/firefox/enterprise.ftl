@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-deploy-when-and-how-you-want = Διανομή όπου και όπως θέλετε
 firefox-enterprise-enterprise-downloads = Λήψεις { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
@@ -14,6 +15,7 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - Πρόγραμμα εγκατάστασης MSI
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - Πρόγραμμα εγκατάστασης MSI
+firefox-enterprise-resources = Πόροι
 firefox-enterprise-msi-installers = Προγράμματα εγκατάστασης MSI
 firefox-enterprise-legacy-browser-support = Υποστήριξη παλαιών προγραμμάτων περιήγησης
 firefox-enterprise-admx-templates = Πρότυπα ADMX
