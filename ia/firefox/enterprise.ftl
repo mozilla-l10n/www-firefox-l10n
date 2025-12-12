@@ -11,6 +11,7 @@ firefox-enterprise-use-firefox-esr-enterprise-browser = Usa { -brand-name-firefo
 firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } es le navigator open-source con securitate, confidentialitate, e flexibilitate in grado de interprisa. Usa { -brand-name-firefox } pro le ultime functiones o { -brand-name-esr } pro stabilitate de longe-tempore.
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = Usa { -brand-name-firefox } como tu navigator de interprisa
+firefox-enterprise-protection-powered-by = Protection de grado interprisa, supportate per { -brand-name-firefox }
 firefox-enterprise-your-browser-your-business = Tu navigator, tu negotios
 firefox-enterprise-deploy-when-and-how-you-want = Distribue lo quando e como tu vole
 firefox-enterprise-release-cycles = Cyclos de version que es apte a tu organisation
