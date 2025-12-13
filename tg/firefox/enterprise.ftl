@@ -10,6 +10,7 @@ firefox-enterprise-use-firefox-esr-enterprise-browser = «{ -brand-name-firefox 
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = «{ -brand-name-firefox }»-ро ҳамчун браузери сатҳи ташкилотӣ истифода баред
 firefox-enterprise-protection-powered-by = Муҳофизати сатҳи ташкилотӣ бо истифода аз имкониятҳои «{ -brand-name-firefox }»
+firefox-enterprise-open-source-transparency = Браузери «{ -brand-name-firefox }» шаффофияти манбаи кушодро бо хусусиятҳои амнияти пешқадам ва навсозиҳои мунтазам муттаҳид намуда, ҳифзи маълумоти ташкилоти шуморо таъмин менамояд.
 firefox-enterprise-your-browser-your-business = Браузери шумо, корхонаи шумо
 firefox-enterprise-deploy-when-and-how-you-want = Бастаи насбро ба интиёри худ ва дар вақти дилхоҳ таҳия намоед
 firefox-enterprise-release-cycles = Давраҳои релиз, ки ба талаботи ташкилоти шумо мутобиқ мебошанд
