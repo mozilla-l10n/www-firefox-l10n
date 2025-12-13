@@ -9,8 +9,10 @@
 firefox-enterprise-use-firefox-esr-enterprise-browser = «{ -brand-name-firefox }» ё «{ -brand-name-esr }»-ро ҳамчун браузери сатҳи ташкилотӣ барои таъмини амният дар миқёси васеъ истифода баред.
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = «{ -brand-name-firefox }»-ро ҳамчун браузери сатҳи ташкилотӣ истифода баред
+firefox-enterprise-protection-powered-by = Муҳофизати сатҳи ташкилотӣ бо истифода аз имкониятҳои «{ -brand-name-firefox }»
 firefox-enterprise-your-browser-your-business = Браузери шумо, корхонаи шумо
 firefox-enterprise-deploy-when-and-how-you-want = Бастаи насбро ба интиёри худ ва дар вақти дилхоҳ таҳия намоед
+firefox-enterprise-release-cycles = Давраҳои релиз, ки ба талаботи ташкилоти шумо мутобиқ мебошанд
 firefox-enterprise-enterprise-downloads = Боргириҳо барои браузери «{ -brand-name-enterprise }»
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-бит
 firefox-enterprise-macos = { -brand-name-mac }
