@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+# Page title
+firefox-enterprise-use-firefox-esr-enterprise-browser = «{ -brand-name-firefox }» ё «{ -brand-name-esr }»-ро ҳамчун браузери сатҳи ташкилотӣ барои таъмини амният дар миқёси васеъ истифода баред.
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-deploy-when-and-how-you-want = Бастаи насбро ба интиёри худ ва дар вақти дилхоҳ таҳия намоед
 firefox-enterprise-enterprise-downloads = Боргириҳо барои браузери «{ -brand-name-enterprise }»
