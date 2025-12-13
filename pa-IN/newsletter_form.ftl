@@ -30,6 +30,8 @@ newsletter-form-sign-up-now = ਹੁਣੇ ਹਿੱਸਾ ਬਣੋ
 newsletter-form-thanks = ਧੰਨਵਾਦ!
 newsletter-form-yes = ਹਾਂ
 newsletter-form-no = ਨਹੀਂ
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = ਭੇਜ ਜਾ ਰਿਹਾ ਹੈ
 multi-newsletter-form-checkboxes-legend = ਮੈਨੂੰ ਇਸ ਬਾਰੇ ਜਾਣਕਾਰੀ ਚਾਹੀਦੀ ਹੈ:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
