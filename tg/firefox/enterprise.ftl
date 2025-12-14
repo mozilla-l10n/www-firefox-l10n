@@ -11,6 +11,7 @@ firefox-enterprise-use-firefox-esr-enterprise-browser = «{ -brand-name-firefox 
 firefox-enterprise-open-source-browser-with-enterprise-security = Браузери «{ -brand-name-firefox }» — ин браузере аст, ки дар манбаи кушод асос ёфта, дорои амният, махфият ва имкониятҳои танзими ҳамаҷониба бо сатҳи муҳофизати ташкилотӣ мебошад. Аз «{ -brand-name-firefox }» барои истифодаи хусусиятҳои навтарини он ё аз «{ -brand-name-esr }» барои устувории дарозмуддат бо дастгирии мунтазам истифода баред.
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = «{ -brand-name-firefox }»-ро ҳамчун браузери сатҳи ташкилотӣ истифода баред
+firefox-enterprise-secure-at-scale = Браузери «{ -brand-name-firefox }» дар асл браузери бехатар, ба махфият нигаронидашуда ва сареҳро дар миқёси васеъ таъмин мекунад. Бо сиёсати ташкилотӣ дар ҳар ду версияи «{ -brand-name-firefox }» ва «{ -brand-name-firefox-extended-support-release }» («{ -brand-name-esr }»), ташкилотҳо имконияти танзими ҳамаҷониба, назорати комил ва шаффофиятро дар як браузери боэътимод дар асоси манбаи кушод ба даст меоранд.
 firefox-enterprise-protection-powered-by = Муҳофизати сатҳи ташкилотӣ бо истифода аз имкониятҳои «{ -brand-name-firefox }»
 firefox-enterprise-open-source-transparency = Браузери «{ -brand-name-firefox }» шаффофияти манбаи кушодро бо хусусиятҳои амнияти пешқадам ва навсозиҳои мунтазам муттаҳид намуда, ҳифзи маълумоти ташкилоти шуморо таъмин менамояд.
 firefox-enterprise-your-browser-your-business = Браузери шумо, корхонаи шумо
