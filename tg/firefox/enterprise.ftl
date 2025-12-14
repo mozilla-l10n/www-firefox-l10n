@@ -7,6 +7,8 @@
 
 # Page title
 firefox-enterprise-use-firefox-esr-enterprise-browser = «{ -brand-name-firefox }» ё «{ -brand-name-esr }»-ро ҳамчун браузери сатҳи ташкилотӣ барои таъмини амният дар миқёси васеъ истифода баред.
+# Page description
+firefox-enterprise-open-source-browser-with-enterprise-security = Браузери «{ -brand-name-firefox }» — ин браузере аст, ки дар манбаи кушод асос ёфта, дорои амният, махфият ва имкониятҳои танзими ҳамаҷониба бо сатҳи муҳофизати ташкилотӣ мебошад. Аз «{ -brand-name-firefox }» барои истифодаи хусусиятҳои навтарини он ё аз «{ -brand-name-esr }» барои устувории дарозмуддат бо дастгирии мунтазам истифода баред.
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = «{ -brand-name-firefox }»-ро ҳамчун браузери сатҳи ташкилотӣ истифода баред
 firefox-enterprise-protection-powered-by = Муҳофизати сатҳи ташкилотӣ бо истифода аз имкониятҳои «{ -brand-name-firefox }»
