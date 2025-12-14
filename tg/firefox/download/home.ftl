@@ -57,6 +57,7 @@ firefox-home-the-internet-can = Интернет метавонад макони
 ## Final call-out
 
 firefox-home-billionaire-free = Зиёда аз 20+ сол бе ягон соҳибкори миллиардер
+firefox-home-firefox-was-created = Браузери «{ -brand-name-firefox }» дар соли 2004 аз ҷониби ташкилоти «{ -brand-name-mozilla }» ҳамчун имконияти зудтар, махфитар ва ҳалли қобили танзим нисбат ба браузерҳои ба монанди «Internet Explorer» сохта шудааст. Имрӯз, мо то ҳол ҳамон ташкилоти ғайритиҷоратӣ ҳастем, то ҳол ба ягон миллиардер тааллуқ надорем ва то ҳол барои беҳтар кардани Интернет ва вақти шумо, ки дар онлайн сарф мекунед, саҳм мегузорем.
 
 ## Used as accessible alternative text for images.
 
