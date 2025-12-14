@@ -42,7 +42,7 @@ firefox-enterprise-pkg-installer = PKG 安装包
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 位
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
-firefox-enterprise-download-firefox-or-esr = 下载{ -brand-name-firefox } 或 { -brand-name-firefox-esr } <a { $firefox_all }>其他语言或平台。</a>。
+firefox-enterprise-download-firefox-or-esr = 下载<a { $firefox_all }>其他语言或平台</a>的 { -brand-name-firefox } 或 { -brand-name-firefox-esr }。
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-early-access-is = 我们将于 2026 年 1 月启动的新用户支持计划现已开放抢先体验。专为使用 { -brand-name-firefox } 确保安全性、弹性和数据自主权的组织而打造为大规模部署提供私密、可靠、定制化的支持。
 firefox-enterprise-contact-sales = 联系销售团队
