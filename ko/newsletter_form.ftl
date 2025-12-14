@@ -8,6 +8,7 @@ newsletter-form-your-email-address = 이메일 주소
 newsletter-form-we-are-sorry-but-there = 죄송합니다. 시스템에 문제가 생겼습니다. 잠시 후에 다시 시도해 주세요!
 newsletter-form-please-select-country = 국가 또는 지역을 선택해주세요.
 newsletter-form-please-select-language = 언어를 선택해주세요
+newsletter-form-button-cta = 가입하기
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = 국가 또는 지역을 선택하십시오
@@ -29,6 +30,8 @@ newsletter-form-sign-up-now = 지금 구독하기
 newsletter-form-thanks = 감사합니다!
 newsletter-form-yes = 네
 newsletter-form-no = 아니오
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = 보내기
 multi-newsletter-form-checkboxes-legend = 나는 다음에 대한 정보를 원합니다:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
