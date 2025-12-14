@@ -10,7 +10,7 @@ firefox-enterprise-use-firefox-esr-enterprise-browser = 使用 { -brand-name-fir
 # Page description
 firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } 是具有企业级安全性、隐私性与灵活性的开源浏览器。为最新功能定价 { -brand-name-firefox }或保持长期稳定性 { -brand-name-esr }。
 firefox-enterprise-brand-name = { -brand-name-enterprise }
-firefox-enterprise-use-as-your-enterprise-browser = 使用 { -brand-name-firefox } 作为您的企业版浏览器
+firefox-enterprise-use-as-your-enterprise-browser = 使用 { -brand-name-firefox } 作为您企业的浏览器
 firefox-enterprise-secure-at-scale = { -brand-name-firefox } 提供安全、弹性、注重隐私的大规模浏览体验。借助包含在 { -brand-name-firefox } 或 { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) 中的企业策略组织可以在可信、开源的浏览器中灵活、可控、透明地使用。
 firefox-enterprise-protection-powered-by = 企业级保护由 { -brand-name-firefox } 提供
 firefox-enterprise-open-source-transparency = { -brand-name-firefox } 结合了开源的透明度、先进的安全功能和频繁的更新帮助保护您组织的数据。
