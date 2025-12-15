@@ -7,7 +7,11 @@
 
 # Page title
 firefox-enterprise-use-firefox-esr-enterprise-browser = Bruk { -brand-name-firefox } eller { -brand-name-esr } som nettleser for virksomheter for sikkerhet i stor skala
+# Page description
+firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } er nettleseren med åpen kildekode som tilbyr sikkerhet, personvern og fleksibilitet på bedriftsnivå. Bruk { -brand-name-firefox } for de nyeste funksjonene, eller { -brand-name-esr } for langsiktig stabilitet.
 firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-use-as-your-enterprise-browser = Bruk { -brand-name-firefox } som nettleser for virksomheter
+firefox-enterprise-secure-at-scale = { -brand-name-firefox } leverer sikker, robust og personvernfokusert nettlesing i stor skala. Med virksomhetspolicyer i både { -brand-name-firefox } og { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) får organisasjoner fleksibilitet, kontroll og åpenhet i en pålitelig nettleser med åpen kildekode.
 firefox-enterprise-deploy-when-and-how-you-want = Distribuer når og hvordan du vil
 firefox-enterprise-release-cycles = Utgivelsessykluser som passer din organisasjon
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise }-nedlastinger
