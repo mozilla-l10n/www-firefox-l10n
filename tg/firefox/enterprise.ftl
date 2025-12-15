@@ -40,6 +40,9 @@ firefox-enterprise-documentation-and-community = Ҳуҷҷатгузорӣ ва �
 firefox-enterprise-sample-plist-for-configuration = Намунаи <a href="{ $url }">файли рӯйхати хусусиятҳо (plist) барои профили танзимот</a>
 firefox-enterprise-pkg-installer = Насбкунандаи «PKG»
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-бит
+# Variables:
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
+firefox-enterprise-download-firefox-or-esr = Браузери «{ -brand-name-firefox }» ё «{ -brand-name-firefox-esr }»-ро барои <a { $firefox_all }>платформаи дигар ё бо забони дигар</a> боргирӣ намоед.
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-contact-sales = Бо шуъбаи савдо дар тамос шавед
 firefox-enterprise-support-for-organizations-documentation = Санадҳои «{ -brand-name-support-for-organizations }»
