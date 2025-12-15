@@ -5,6 +5,12 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+# Page title
+firefox-enterprise-use-firefox-esr-enterprise-browser = Folosește { -brand-name-firefox } sau { -brand-name-esr } ca browser de firmă pentru securitate la scară
+# Page description
+firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } este browserul cu sursă deschisă, cu securitate, confidențialitate și flexibilitate la nivel de întreprindere. Folosește { -brand-name-firefox } pentru cele mai recente funcționalități sau { -brand-name-esr } pentru stabilitate pe termen lung.
+firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-use-as-your-enterprise-browser = Folosește { -brand-name-firefox } ca browser pe firmă
 firefox-enterprise-deploy-when-and-how-you-want = Lansezi când și cum vrei
 firefox-enterprise-enterprise-downloads = Descărcări { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } pe 64 de biți
