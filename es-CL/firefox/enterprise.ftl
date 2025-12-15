@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+# Page title
+firefox-enterprise-use-firefox-esr-enterprise-browser = Usa { -brand-name-firefox } o { -brand-name-esr } como tu navegador empresarial para seguridad a escala
 firefox-enterprise-deploy-when-and-how-you-want = Implementa cuándo y cómo quieras
 firefox-enterprise-enterprise-downloads = Descargas de { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
