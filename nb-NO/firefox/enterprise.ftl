@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+# Page title
+firefox-enterprise-use-firefox-esr-enterprise-browser = Bruk { -brand-name-firefox } eller { -brand-name-esr } som nettleser for virksomheter for sikkerhet i stor skala
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-deploy-when-and-how-you-want = Distribuer når og hvordan du vil
 firefox-enterprise-release-cycles = Utgivelsessykluser som passer din organisasjon
