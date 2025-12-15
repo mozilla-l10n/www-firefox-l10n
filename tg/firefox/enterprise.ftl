@@ -47,4 +47,5 @@ firefox-enterprise-support-for-organizations = { -brand-name-support-for-organiz
 firefox-enterprise-early-access-is = Дастрасии барвақт барои барномаи нави дастгирии мо, ки моҳи январи соли 2026 оғоз мегардад, акнун кушода аст. Ин барнома барои ташкилотҳое таҳия шудааст, ки аз браузери «{ -brand-name-firefox }» ҷиҳати таъмини амният, кори устувор ва истиқлоли рақамӣ истифода мебаранд ва барои татбиқи миқёси васеъ дастгирии хусусӣ, боэътимод ва танзимшавандаро пешниҳод менамоянд.
 firefox-enterprise-contact-sales = Бо шуъбаи савдо дар тамос шавед
 firefox-enterprise-support-for-organizations-documentation = Санадҳои «{ -brand-name-support-for-organizations }»
+firefox-enterprise-support-for-organizations-is = «{ -brand-name-support-for-organizations }» — ин пешниҳоди махсус барои дастаҳои корӣ мебошад, ки ба онҳо хусусиятҳои зерин лозиманд: ҳал кардани мушкилиҳои хусусӣ бо гузаронидани ташхис ва боло бардоштани сатҳи корӣ, вақтҳои муайян барои ҷавоби дастгирӣ, имкониятҳои барномарезии фармоишӣ ва ҳамкории наздик бо дастаҳои техникӣ ва дастаиҳои маҳсулоти «{ -brand-name-mozilla }».
 firefox-enterprise-support-plan = Нақшаи дастгирӣ
