@@ -6,7 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 # Page title
-firefox-enterprise-use-firefox-esr-enterprise-browser = 使用 { -brand-name-firefox } 或 { -brand-name-esr } 为您的企业浏览器保障整体安全性
+firefox-enterprise-use-firefox-esr-enterprise-browser = 使用 { -brand-name-firefox } 或 { -brand-name-esr } 版作为企业浏览器，保障整体安全性
 # Page description
 firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } 是具有企业级安全性、隐私性与灵活性的开源浏览器。为最新功能定价 { -brand-name-firefox }或保持长期稳定性 { -brand-name-esr }。
 firefox-enterprise-brand-name = { -brand-name-enterprise }
