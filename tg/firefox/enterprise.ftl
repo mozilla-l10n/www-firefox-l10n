@@ -44,6 +44,7 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-бит
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Браузери «{ -brand-name-firefox }» ё «{ -brand-name-firefox-esr }»-ро барои <a { $firefox_all }>платформаи дигар ё бо забони дигар</a> боргирӣ намоед.
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+firefox-enterprise-early-access-is = Дастрасии барвақт барои барномаи нави дастгирии мо, ки моҳи январи соли 2026 оғоз мегардад, акнун кушода аст. Ин барнома барои ташкилотҳое таҳия шудааст, ки аз браузери «{ -brand-name-firefox }» ҷиҳати таъмини амният, кори устувор ва истиқлоли рақамӣ истифода мебаранд ва барои татбиқи миқёси васеъ дастгирии хусусӣ, боэътимод ва танзимшавандаро пешниҳод менамоянд.
 firefox-enterprise-contact-sales = Бо шуъбаи савдо дар тамос шавед
 firefox-enterprise-support-for-organizations-documentation = Санадҳои «{ -brand-name-support-for-organizations }»
 firefox-enterprise-support-plan = Нақшаи дастгирӣ
