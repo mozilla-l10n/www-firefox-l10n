@@ -6,6 +6,8 @@
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-open-source-transparency = { -brand-name-firefox } kombinerer open kjeldekode og openheit med avanserte tryggingsfunksjonar og hyppige oppdateringar for å bidra til å verne dataa til verksemda di.
+firefox-enterprise-your-browser-your-business = Din nettlesar, di verksemd
 firefox-enterprise-deploy-when-and-how-you-want = Distribuer når og korleis du vil
 firefox-enterprise-release-cycles = Utgivingssyklusar som passar organisasjonen din
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise }-nedlastingar
