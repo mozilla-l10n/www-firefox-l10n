@@ -5,7 +5,11 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+# Page title
+firefox-enterprise-use-firefox-esr-enterprise-browser = Bruk { -brand-name-firefox } eller { -brand-name-esr } som din bedriftsnettlesar, for sikkerheit i stor skala
 firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-use-as-your-enterprise-browser = Bruk { -brand-name-firefox } som din bedriftsnettlesar
+firefox-enterprise-protection-powered-by = Vern på bedriftsnivå, drive av { -brand-name-firefox }
 firefox-enterprise-open-source-transparency = { -brand-name-firefox } kombinerer open kjeldekode og openheit med avanserte tryggingsfunksjonar og hyppige oppdateringar for å bidra til å verne dataa til verksemda di.
 firefox-enterprise-your-browser-your-business = Din nettlesar, di verksemd
 firefox-enterprise-deploy-when-and-how-you-want = Distribuer når og korleis du vil
