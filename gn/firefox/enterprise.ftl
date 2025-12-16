@@ -14,6 +14,7 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI mohendaha
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI mohendaha
+firefox-enterprise-resources = Mba’eita
 firefox-enterprise-msi-installers = MSI mohendaha
 firefox-enterprise-legacy-browser-support = Jokypyty kundahára tujándi
 firefox-enterprise-admx-templates = ADMX plantilla
