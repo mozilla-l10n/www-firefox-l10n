@@ -7,8 +7,11 @@
 
 # Page title
 firefox-enterprise-use-firefox-esr-enterprise-browser = Bruk { -brand-name-firefox } eller { -brand-name-esr } som din bedriftsnettlesar, for sikkerheit i stor skala
+# Page description
+firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } er ein nettlesar med open kjeldekode, sikkerheit, personvern og fleksibilitet i bedriftsklasse. Bruk { -brand-name-firefox } for dei nyaste funksjonane eller { -brand-name-esr } for langsiktig stabilitet.
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = Bruk { -brand-name-firefox } som din bedriftsnettlesar
+firefox-enterprise-secure-at-scale = { -brand-name-firefox } leverer sikker, robust og personvernfokusert nettlesing i stor skala. Med verksemdpolicyar i både { -brand-name-firefox } og { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) får organisasjonar fleksibilitet, kontroll og openheit i ein påliteleg nettlesar med open kjeldekode.
 firefox-enterprise-protection-powered-by = Vern på bedriftsnivå, drive av { -brand-name-firefox }
 firefox-enterprise-open-source-transparency = { -brand-name-firefox } kombinerer open kjeldekode og openheit med avanserte tryggingsfunksjonar og hyppige oppdateringar for å bidra til å verne dataa til verksemda di.
 firefox-enterprise-your-browser-your-business = Din nettlesar, di verksemd
