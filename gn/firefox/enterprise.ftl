@@ -5,7 +5,12 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+# Page title
+firefox-enterprise-use-firefox-esr-enterprise-browser = Eiporu { -brand-name-firefox } térã { -brand-name-esr } ne kundahára mba’apohaguávaramo tekorosãverã
 firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-use-as-your-enterprise-browser = Eiporu { -brand-name-firefox } ne kundahára mba’apohaguávaramo
+firefox-enterprise-protection-powered-by = Ñemo’ã mba’apohaguávarõ, { -brand-name-firefox } rembiporupyahu ndive
+firefox-enterprise-your-browser-your-business = Ne kundahára, ne ñemuha
 firefox-enterprise-deploy-when-and-how-you-want = Eipyso eipota ha ejaposeháicha
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } ñemboguejy
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
