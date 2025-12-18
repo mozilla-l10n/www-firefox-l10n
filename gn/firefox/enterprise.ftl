@@ -12,6 +12,7 @@ firefox-enterprise-use-as-your-enterprise-browser = Eiporu { -brand-name-firefox
 firefox-enterprise-protection-powered-by = Ñemo’ã mba’apohaguávarõ, { -brand-name-firefox } rembiporupyahu ndive
 firefox-enterprise-your-browser-your-business = Ne kundahára, ne ñemuha
 firefox-enterprise-deploy-when-and-how-you-want = Eipyso eipota ha ejaposeháicha
+firefox-enterprise-release-cycles = Ñemoherakuã ojokupytýva nde atyguasu ndive
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } ñemboguejy
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
