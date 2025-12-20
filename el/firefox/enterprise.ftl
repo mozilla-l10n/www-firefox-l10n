@@ -5,7 +5,10 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+# Page title
+firefox-enterprise-use-firefox-esr-enterprise-browser = Χρησιμοποιήστε το { -brand-name-firefox } ή το { -brand-name-esr } ως το εταιρικό σας πρόγραμμα περιήγησης για ασφάλεια σε μεγάλη κλίμακα
 firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-your-browser-your-business = Το πρόγραμμα περιήγησής σας, η επιχείρησή σας
 firefox-enterprise-deploy-when-and-how-you-want = Διανομή όπου και όπως θέλετε
 firefox-enterprise-enterprise-downloads = Λήψεις { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
