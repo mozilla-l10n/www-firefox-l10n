@@ -8,8 +8,12 @@
 # Page title
 firefox-enterprise-use-firefox-esr-enterprise-browser = Χρησιμοποιήστε το { -brand-name-firefox } ή το { -brand-name-esr } ως το εταιρικό σας πρόγραμμα περιήγησης για ασφάλεια σε μεγάλη κλίμακα
 firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-protection-powered-by = Προστασία εταιρικού επιπέδου, με την υποστήριξη του { -brand-name-firefox }
+firefox-enterprise-open-source-transparency = Το { -brand-name-firefox } συνδυάζει τη διαφάνεια του ανοικτού κώδικα με προηγμένες λειτουργίες ασφαλείας και συχνές ενημερώσεις για την προστασία των δεδομένων του οργανισμού σας.
 firefox-enterprise-your-browser-your-business = Το πρόγραμμα περιήγησής σας, η επιχείρησή σας
 firefox-enterprise-deploy-when-and-how-you-want = Διανομή όπου και όπως θέλετε
+firefox-enterprise-install-packages-policies = Με τα πακέτα εγκατάστασης και μια ευρεία ποικιλία ομαδικών πολιτικών και δυνατοτήτων, η διανομή είναι ταχύτερη, πιο ευέλικτη και πιο εύκολη από ποτέ σε περιβάλλοντα Windows, Linux και macOS.
+firefox-enterprise-release-cycles = Κύκλοι κυκλοφορίας που ταιριάζουν στον οργανισμό σας
 firefox-enterprise-enterprise-downloads = Λήψεις { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
