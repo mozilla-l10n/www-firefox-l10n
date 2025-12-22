@@ -10,6 +10,8 @@ firefox-enterprise-use-as-your-enterprise-browser = Kurumsal tarayıcınız olar
 firefox-enterprise-protection-powered-by = { -brand-name-firefox } gücüyle kurumsal düzeyde koruma
 firefox-enterprise-your-browser-your-business = Sizin tarayıcınız, sizin işiniz
 firefox-enterprise-deploy-when-and-how-you-want = İstediğiniz zaman, istediğiniz şekilde dağıtın
+firefox-enterprise-install-packages-policies = Yükleme paketleri, grup ilkeleri ve kapsamlı özellikler sayesinde her zamankinden daha hızlı ve daha esnek dağıtım olanakları Windows, Linux ve macOS platformlarında sizi bekliyor.
+firefox-enterprise-release-cycles = Kuruluşunuza uygun sürüm döngüleri
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } indirmeleri
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 bit
 firefox-enterprise-macos = { -brand-name-mac }
@@ -32,5 +34,6 @@ firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }">Yapıland
 firefox-enterprise-pkg-installer = PKG yükleyici
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 bit
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+firefox-enterprise-contact-sales = Satış ekibiyle iletişime geçin
 firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } belgeleri
 firefox-enterprise-support-plan = Destek planı
