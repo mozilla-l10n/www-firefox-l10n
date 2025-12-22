@@ -7,6 +7,8 @@
 
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = Kurumsal tarayıcınız olarak { -brand-name-firefox }’u kullanın
+firefox-enterprise-protection-powered-by = { -brand-name-firefox } gücüyle kurumsal düzeyde koruma
+firefox-enterprise-your-browser-your-business = Sizin tarayıcınız, sizin işiniz
 firefox-enterprise-deploy-when-and-how-you-want = İstediğiniz zaman, istediğiniz şekilde dağıtın
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } indirmeleri
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 bit

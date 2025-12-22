@@ -18,6 +18,7 @@ pdf-editor-no-more-now-all-you-need-to-do = Artık değil! Şimdi yapmanız gere
 pdf-editor-add-text = Metin ekleyin
 pdf-editor-open-the-pdf-in-firefox-click-text = PDF’i { -brand-name-firefox }’ta açın. Metin düğmesine tıklayın, istediğiniz rengi ve metin boyutunu seçin, ardından metni nereye eklemek istediğinizi seçin. Bu kadar basit!
 pdf-editor-add-drawings = Çizim ekleyin
+pdf-editor-open-the-pdf-in-firefox-click-draw-to-choose = PDF’i { -brand-name-firefox }’ta açın. Belge üzerinde çizim yapmak için Çiz simgesine tıklayıp bir renk, kalınlık ve opaklık seçin.
 pdf-editor-add-image-with-alt-text = Alternatif metinli resim ekleyin
 pdf-editor-open-pdf-click-image-icon = PDF’i { -brand-name-firefox }’ta açın. Resim simgesine tıklayıp resminizi yükleyin. Resminizin boyutunu ve konumunu istediğiniz gibi ayarlayın. PDF’inizin erişilebilirliğini artırmak amacıyla fotoğraf açıklaması eklemek isterseniz “+Alt metin” düğmesine tıklayın.
 pdf-editor-create-a-highlight = Metinleri vurgulayın
