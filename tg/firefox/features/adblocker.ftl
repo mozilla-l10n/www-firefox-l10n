@@ -38,6 +38,9 @@ features-adblocker-on-firefox-you-can-use = Дар браузери «{ -brand-n
 features-adblocker-choose-your-level-of-protection = Сатҳи муҳофизати худро интихоб кунед
 features-adblocker-to-start-click-on-the-v2 = Барои оғози кор, дар ҳар гуна саҳифаи сомона нишонаи сипареро, ки аз тарафи чапи навори нишонӣ қарор дорад, зер кунед ва «Танзимоти муҳофизат»-ро интихоб намоед. Ин амал лавҳаи танзимоти махфият ва амният «{ -brand-name-firefox }»-ро дар варақаи нав мекушояд. Шумо бояд равзанаи зоҳиршавандаи кабудро бо имконоти гуногун бинед.
 features-adblocker-go-easy-with-standard = Тамошобинии тинҷу осуда дар реҷаи «Стандартӣ»
+# Variables:
+#   $url (url) - link to https://www.firefox.com/features/private-browsing/
+features-adblocker-if-ads-dont-bother-you = Агар ҳар гуна реклама шуморо ташвиш надиҳад ва шумо аз пайгирии васоити пайгирӣ ва кукиҳои тарафи сеюм зид набошед, пас танзимоти «Стандартӣ» бояд барои шумо хуб кор кунад. Барои аз байн бурдани васоити пайгирӣ дар реҷаи «Стандартӣ», аз равзанаи «<a href="{ $url }">Тамошобинии хусусӣ</a>» истифода баред.
 features-adblocker-get-tough-with-strict = Тамошобинии тобовар дар реҷаи «Ҷиддӣ»
 features-adblocker-do-it-yourself-custom = Дар реҷаи «Фармоишӣ» танзимоти дилхоҳро интихоб намоед
 features-adblocker-cover-your-trail-block = Пайи худро пинҳон кунед ва васоити пайгириро манъ кунед
