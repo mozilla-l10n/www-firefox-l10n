@@ -120,7 +120,16 @@
     }
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
--brand-name-mozilla-account = Аккаунт Mozilla
+-brand-name-mozilla-account =
+    { $case ->
+        [nominative_uppercase] Аккаунт Mozilla
+        [genitive] аккаунта Mozilla
+        [dative] аккаунту Mozilla
+        [accusative] аккаунт Mozilla
+        [instrumental] аккаунтом Mozilla
+        [prepositional] аккаунте Mozilla
+       *[nominative] аккаунт Mozilla
+    }
 -brand-name-mozilla-accounts = Аккаунты Mozilla
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures

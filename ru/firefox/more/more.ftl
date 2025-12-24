@@ -28,6 +28,6 @@ we-worry-about = Мы заботимся о безопасности ваших 
 incognito-browser-what = Браузер в режиме инкогнито: Что на самом деле это означает
 firefox-calls-it = { -brand-name-firefox } называет это приватным просмотром, { -brand-name-chrome } называет это режимом инкогнито. Оба позволяют просматривать веб-страницы без сохранения истории просмотров.
 firefox-more-fingerprinter-blocking = Блокировка сборщиков цифровых отпечатков
-firefox-more-fingerprinting-is-a = Сбор цифровых отпечатков — это более агрессивный вид онлайн-отслеживания, чем обычное отслеживание с помощью кук, поэтому { -brand-name-firefox-browser } блокирует его.
+firefox-more-fingerprinting-is-a = Сбор цифровых отпечатков — это более агрессивный вид онлайн-отслеживания, чем обычное отслеживание с помощью кук, поэтому { -brand-name-firefox-browser(case: "nominative") } блокирует его.
 firefox-more-translate-the-web = Переводите Интернет
 firefox-more-translate-more-than = Переводите с более 100 языков на свой язык прямо в { -brand-name-firefox-browser(case: "prepositional") } — проще, чем когда-либо раньше.
