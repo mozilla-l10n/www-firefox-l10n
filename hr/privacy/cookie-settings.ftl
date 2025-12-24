@@ -29,5 +29,5 @@ cookie-settings-category-analytics-what-are-subheading = Što su kolačići anal
 ## Privacy section
 
 cookie-settings-privacy-heading = Naše napomene o privatnosti
-cookie-settings-privacy-desc = Za detaljnije informacije o različitim vrstama podataka koje { -brand-name-mozilla } prikuplja kada posjetiš naše web stranice, koristi donju poveznicu na našu napomenu o privatnosti.
+cookie-settings-privacy-desc = Za detaljnije informacije o različitim vrstama podataka koje { -brand-name-mozilla } prikuplja kada posjetiš naše web-stranice, koristi donju poveznicu za pristup našim napomenama o privatnosti.
 cookie-settings-privacy-policy-link = Napomene o privatnosti
