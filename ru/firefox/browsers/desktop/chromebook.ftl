@@ -8,7 +8,7 @@
 
 # HTML page title
 
-browsers-chromebook-get-firefox-browser = Загрузить { -brand-name-firefox-browser(case: "nominative") } для { -brand-name-chromebook }
+browsers-chromebook-get-firefox-browser = Скачать { -brand-name-firefox-browser(case: "nominative") } для { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = Итак, у вас есть { -brand-name-chromebook } — теперь пришло время загрузить независимый, защищающий вашу приватность «из коробки» { -brand-name-firefox-browser(case: "nominative") } для защиты ваших личных данных.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Загрузить { -brand-name-firefox } для { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Загрузить компьютерный { -brand-name-firefox } для { -brand-name-chromebook }
