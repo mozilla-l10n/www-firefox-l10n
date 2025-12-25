@@ -6,15 +6,15 @@
 ### URL: https://www-dev.springfield.moz.works/more/windows-64-bit/
 
 # HTML page title
-windows-64-bit-firefox-for-windows = { -brand-name-firefox } pro { -brand-name-windows(case: "acc") } 64-bit
+windows-64-bit-firefox-for-windows = { -brand-name-firefox } pro 64bitové { -brand-name-windows(case: "acc") }
 # HTML page description
 windows-64-bit-users-on-64-bit-windows = Uživatelé 64bitového systému { -brand-name-windows }, kteří si stáhnou { -brand-name-firefox(case: "acc") }, dostanou automaticky naší 64bitovou verzi. To znamená, že dostávají i bezpečnější verzi { -brand-name-firefox(case: "gen") }.
-windows-64-bit-64-bit = 64-bit
+windows-64-bit-64-bit = 64bitová verze
 # Main title
 windows-64-bit-a-more-secure-firefox = Bezpečnější { -brand-name-firefox }.
 # Variables:
 # $crashes (url) - link to https://blog.mozilla.org/firefox/defeat-browser-crashes/
-windows-64-bit-users-on-64-bit-windows-crashes = Uživatelé 64bitového systému { -brand-name-windows }, kteří si stáhnou { -brand-name-firefox(case: "acc") }, dostanou automaticky naší 64bitovou verzi. To znamená, že dostávají i bezpečnější verzi { -brand-name-firefox(case: "gen") }, která je i <a href="{ $crashes }">mnohem stabilnější</a>. Jak moc? Podle našich dosavadních testů padá 64bitový { -brand-name-firefox } na počítačích s minimálně 4 GB paměti o 39 % méně.
+windows-64-bit-users-on-64-bit-windows-crashes = Uživatelé 64bitového systému { -brand-name-windows }, kteří si stáhnou { -brand-name-firefox(case: "acc") }, dostanou automaticky naší 64bitovou verzi. To znamená, že dostávají bezpečnější verzi { -brand-name-firefox(case: "gen") }, která je i <a href="{ $crashes }">mnohem stabilnější</a>. Jak moc? Podle našich dosavadních testů padá 64bitový { -brand-name-firefox } na počítačích s minimálně 4 GB paměti o 39 % méně.
 windows-64-bit-whats-the-difference = Jaký je rozdíl mezi 32 a 64bitovou verzí?
 # Variables:
 # $ASLR (url) - link to https://en.wikipedia.org/wiki/Address_space_layout_randomization
