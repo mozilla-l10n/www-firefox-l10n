@@ -7,6 +7,8 @@
 
 # Page title
 firefox-enterprise-use-firefox-esr-enterprise-browser = Përdorni { -brand-name-firefox } ose { -brand-name-esr } si shfletuesin e ndërmarrjes tuaj, për siguri në shkallë të madhe
+# Page description
+firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox }-i është shfletuesi me burim të hapët, me siguri, privatësi dhe zhdërvjelltësi në nivel ndërmarrjesh. Për veçoritë më të reja përdorni { -brand-name-firefox }-in, për qëndrueshmëri afatgjatë, { -brand-name-esr }.
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = Përdoreni { -brand-name-firefox }-in si shfletuesin e ndërmarrjes tuaj
 firefox-enterprise-secure-at-scale = { -brand-name-firefox }-i lejon shfletim të siguruar, të qëndrueshëm dhe të përqendruar te privatësia dhe të përshkallëzueshëm. Me rregulla ndërmarrjeje te { -brand-name-firefox } ose { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }), entet përfitojnë zhdërvjelltësi, kontroll dhe transparencë, në një shfletues të besuar, me burim të hapët.
@@ -14,6 +16,9 @@ firefox-enterprise-protection-powered-by = Mbrojtje në shkallë ndërmarrjesh, 
 firefox-enterprise-open-source-transparency = { -brand-name-firefox }-i ndërthur transparencë burimi të hapët me veçori të thelluara sigurie dhe përditësime të shpeshta, për t’ju ndihmuar të ruani të dhënat e entit tuaj.
 firefox-enterprise-your-browser-your-business = Shfletuesi juaj, punët tuaja
 firefox-enterprise-deploy-when-and-how-you-want = Aplikojeni kur dhe si të doni
+firefox-enterprise-install-packages-policies = Me paketa instalimi dhe një shtrirje të gjerë rregullash dhe veçorish grupesh, sendërtimi është më i shpejtë dhe më i zhdërvjellët se kurrë — dhe një grimë, për mjedise  Windows, Linux dhe macOS.
+firefox-enterprise-release-cycles = Cikle hedhjesh në qarkullim që i përshtaten entit tuaj
+firefox-enterprise-choose-firefox-for-features-esr-stability = Zgjidhni { -brand-name-firefox }-in, për veçoritë më të reja dhe hedhjet e qëndrueshme në qarkullim çdo katër javë, ose { -brand-name-firefox-esr } për qëndrueshmëri afatgjatë, përditësime periodike sigurie dhe hedhje të rëndësishme vjetore në qarkullim.
 firefox-enterprise-enterprise-downloads = Shkarkim { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }

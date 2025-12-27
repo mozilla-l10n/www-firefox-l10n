@@ -30,6 +30,8 @@ newsletter-form-sign-up-now = Regjistrohuni Tani
 newsletter-form-thanks = Faleminderit!
 newsletter-form-yes = Po
 newsletter-form-no = Jo
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Po dërgohet
 multi-newsletter-form-checkboxes-legend = Dua informacion mbi:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

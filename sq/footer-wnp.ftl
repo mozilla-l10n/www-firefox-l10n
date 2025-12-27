@@ -19,3 +19,4 @@ footer-firefox-support = Asistencë { -brand-name-firefox }
 footer-privacy-notice = Shënim Mbi Privatësinë
 footer-donate = Dhuroni për { -brand-name-mozilla }-n
 footer-donate-v2 = Dhuroni për { -brand-name-mozilla-foundation }
+footer-make-good-things = Le të bëjmë tok gjëra të mbara
