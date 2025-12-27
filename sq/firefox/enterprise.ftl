@@ -8,6 +8,11 @@
 # Page title
 firefox-enterprise-use-firefox-esr-enterprise-browser = Përdorni { -brand-name-firefox } ose { -brand-name-esr } si shfletuesin e ndërmarrjes tuaj, për siguri në shkallë të madhe
 firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-use-as-your-enterprise-browser = Përdoreni { -brand-name-firefox }-in si shfletuesin e ndërmarrjes tuaj
+firefox-enterprise-secure-at-scale = { -brand-name-firefox }-i lejon shfletim të siguruar, të qëndrueshëm dhe të përqendruar te privatësia dhe të përshkallëzueshëm. Me rregulla ndërmarrjeje te { -brand-name-firefox } ose { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }), entet përfitojnë zhdërvjelltësi, kontroll dhe transparencë, në një shfletues të besuar, me burim të hapët.
+firefox-enterprise-protection-powered-by = Mbrojtje në shkallë ndërmarrjesh, dhënë nga { -brand-name-firefox }-i
+firefox-enterprise-open-source-transparency = { -brand-name-firefox }-i ndërthur transparencë burimi të hapët me veçori të thelluara sigurie dhe përditësime të shpeshta, për t’ju ndihmuar të ruani të dhënat e entit tuaj.
+firefox-enterprise-your-browser-your-business = Shfletuesi juaj, punët tuaja
 firefox-enterprise-deploy-when-and-how-you-want = Aplikojeni kur dhe si të doni
 firefox-enterprise-enterprise-downloads = Shkarkim { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
