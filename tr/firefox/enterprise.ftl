@@ -13,10 +13,12 @@ firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = Kurumsal tarayıcınız olarak { -brand-name-firefox }’u kullanın
 firefox-enterprise-secure-at-scale = { -brand-name-firefox } her ölçekte güvenli, esnek ve gizlilik odaklı gezinti sunuyor. Hem { -brand-name-firefox }’un hem de { -brand-name-firefox-extended-support-release }’in ({ -brand-name-esr }) desteklediği kurumsal ilkeler sayesinde kuruluşlar güvenilir ve açık kaynaklı bir tarayıcıdan vazgeçmeden esnekliğe, kontrole ve şeffaflığa kavuşuyor.
 firefox-enterprise-protection-powered-by = { -brand-name-firefox } gücüyle kurumsal düzeyde koruma
+firefox-enterprise-open-source-transparency = { -brand-name-firefox }, açık kaynağın şeffaflığını gelişmiş güvenlik özellikleriyle ve sık güncellemelerle birleştirerek kuruluşunuzun verilerini korumanızı sağlıyor.
 firefox-enterprise-your-browser-your-business = Sizin tarayıcınız, sizin işiniz
 firefox-enterprise-deploy-when-and-how-you-want = İstediğiniz zaman, istediğiniz şekilde dağıtın
 firefox-enterprise-install-packages-policies = Yükleme paketleri, grup ilkeleri ve kapsamlı özellikler sayesinde her zamankinden daha hızlı ve daha esnek dağıtım olanakları Windows, Linux ve macOS platformlarında sizi bekliyor.
 firefox-enterprise-release-cycles = Kuruluşunuza uygun sürüm döngüleri
+firefox-enterprise-choose-firefox-for-features-esr-stability = En yeni özellikler ve dört haftada bir yayımlanan stabil sürümler için { -brand-name-firefox }’u; uzun süreli stabilite, düzenli güvenlik güncellemeleri ve yılda bir yayımlanan büyük sürümler için { -brand-name-firefox-esr }’ı seçebilirsiniz.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } indirmeleri
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 bit
 firefox-enterprise-macos = { -brand-name-mac }
@@ -38,7 +40,12 @@ firefox-enterprise-documentation-and-community = Belgeler ve topluluk desteği
 firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }">Yapılandırma profili için plist</a> örneği
 firefox-enterprise-pkg-installer = PKG yükleyici
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 bit
+# Variables:
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
+firefox-enterprise-download-firefox-or-esr = { -brand-name-firefox } veya { -brand-name-firefox-esr }’ı <a href="{ $firefox_all }">başka bir dil veya platform</a> için indirin.
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+firefox-enterprise-early-access-is = Ocak 2026’da başlayacak yeni destek programımız erken erişime açıldı. Güvenlik, sağlamlık ve veri bağımsızlığı için { -brand-name-firefox } kullanan kuruluşlara özel bu program; büyük ölçekli deployment’lar için güvenilir ve kuruluşa özel destek sunuyor.
 firefox-enterprise-contact-sales = Satış ekibiyle iletişime geçin
 firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } belgeleri
+firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } programı; kuruluşa özel triyaj ve sorun giderme, kesin yanıt süreleri, özel çözüm geliştirme seçenekleri ve { -brand-name-mozilla }’nın yazılım ve ürün ekipleriyle yakın işbirliğine ihtiyaç duyan ekiplere yönelik bir program.
 firefox-enterprise-support-plan = Destek planı
