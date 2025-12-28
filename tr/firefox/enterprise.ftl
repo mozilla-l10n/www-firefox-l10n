@@ -5,8 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+# Page title
+firefox-enterprise-use-firefox-esr-enterprise-browser = Geniş ölçekte güvenlik için kurumsal tarayıcınız olarak { -brand-name-firefox } veya { -brand-name-esr } kullanın
+# Page description
+firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } kurumsal düzeyde güvenlik, gizlilik ve esneklik sunan açık kaynaklı bir tarayıcıdır. En yeni özellikler için { -brand-name-firefox }’u, uzun süreli stabilite için { -brand-name-esr }’ı kullanabilirsiniz.
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = Kurumsal tarayıcınız olarak { -brand-name-firefox }’u kullanın
+firefox-enterprise-secure-at-scale = { -brand-name-firefox } her ölçekte güvenli, esnek ve gizlilik odaklı gezinti sunuyor. Hem { -brand-name-firefox }’un hem de { -brand-name-firefox-extended-support-release }’in ({ -brand-name-esr }) desteklediği kurumsal ilkeler sayesinde kuruluşlar güvenilir ve açık kaynaklı bir tarayıcıdan vazgeçmeden esnekliğe, kontrole ve şeffaflığa kavuşuyor.
 firefox-enterprise-protection-powered-by = { -brand-name-firefox } gücüyle kurumsal düzeyde koruma
 firefox-enterprise-your-browser-your-business = Sizin tarayıcınız, sizin işiniz
 firefox-enterprise-deploy-when-and-how-you-want = İstediğiniz zaman, istediğiniz şekilde dağıtın
