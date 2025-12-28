@@ -24,4 +24,6 @@ pdf-editor-open-pdf-click-image-icon = PDF’i { -brand-name-firefox }’ta aç�
 pdf-editor-create-a-highlight = Metinleri vurgulayın
 pdf-editor-select-text-you-want-to = PDF’i { -brand-name-firefox }’ta açın. Vurgulamak istediğiniz metni seçin, ardından seçiminizin altında beliren vurgu simgesine tıklayın veya sağ tıklama menüsünden “Vurgula” seçeneğini seçin. PDF’in istediğiniz bölümlerini serbestçe vurgulamak için sağ üstteki simgeye tıklayın.
 pdf-editor-create-a-signature = İmza oluşturun
+pdf-editor-click-the-signature-icon = PDF’i { -brand-name-firefox }’ta açın. İmza simgesine tıklayın ve ardından "Yeni imza ekle" seçeneğine tıklayın. Yazı, Çizim veya Resim seçeneklerinden birini seçin ve eklemek için Ekle düğmesine tıklayın. İmzalarınızı kaydedip daha sonra tekrar kullanabilirsiniz.
 pdf-editor-add-a-comment = Yorum ekleyin
+pdf-editor-click-the-comment-icon = PDF’i { -brand-name-firefox }’ta açın. Bir alanı vurgulayın, ardından seçiminizin altında görünen Yorum simgesine tıklayın, yorumunuzu yazın ve kaydetmek için Ekle'ye tıklayın. PDF'de çok sayıda yorum mu var? Sağ üst köşedeki Yorum simgesine tıklayarak kenar çubuğunu açın ve ihtiyacınız olan yoruma geçin.
