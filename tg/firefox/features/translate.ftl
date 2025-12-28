@@ -8,6 +8,9 @@
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Тарҷума кардани саҳифаи сомона ба воситаи «{ -brand-name-firefox }»
 features-translate-translate-the-web = Тарҷума кардани саҳифаи сомона
+# HTML page description
+features-translate-firefox-translations-is-a-built-in-v2 = Хусусияти «{ -brand-name-firefox-translations }» яке аз имкониятҳои тарҷумаи дохили браузер мебошад, ки ба шумо имкон медиҳад то тавонед сомонаҳоро ба осонӣ бо забони дӯстдошта тамошо кунед. Дар бораи он ки ин хусусият дар «{ -brand-name-firefox }» чӣ гуна кор мекунад ва чӣ гуна «{ -brand-name-mozilla }» ба ҳифзи махфияти тарҷумаҳои шумо кумак мерасонад, маълумоти бештар гиред.
+features-translate-one-of-the-best-things-about = Яке аз беҳтарин хусусиятҳои Интернет дар он аст, ки мо метавонем ба муҳтаво ва ҳар гуна мавод аз саросари ҷаҳон дастрасӣ пайдо намоем. Фарқ надорад, ки мавод дорои мақолаҳои хабарӣ, блогҳо ё ҳатто баррасии охирин лавозимоти техникӣ мебошад — ҳамаи онҳоро дар сомонаҳо дар ҳаҷми номаҳдуд пайдо кардан мумкин аст. Бо истифода аз хусусияти нави тарҷумаи дохили браузери «{ -brand-name-firefox }», шумо метавонед сомонаҳоро дар вақти воқеӣ ба таври пайваста тарҷума кунед.
 features-translate-when-you-translate-a-webpage = Вақте ки шумо сомонаро тарҷума мекунед, махфияти шумо нигоҳ дошта мешавад
 features-translate-what-languages-are-currently = Айни ҳол кадом забонҳо дастгирӣ карда мешаванд?
 # This is followed by a localized list of supported languages
