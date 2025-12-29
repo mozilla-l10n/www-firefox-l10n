@@ -30,6 +30,7 @@ is-firefox-free = Браузери «{ -brand-name-firefox }» ройгон ас
 yep-the-firefox-browser-is-free = Ҳа! «{ -brand-name-firefox-browser }» ройгон аст. Дар ҳақиқат ин ройгон аст. Ягон пардохти ноаён ё чизе монанд пинҳон нашудааст. Шумо барои истифодаи он ягон чиз пардохт намекунед.
 related-questions-free = Саволҳои марбут: Оё { -brand-name-firefox-browser } ройгон аст? Оё «{ -brand-name-firefox }» ягон пул меарзад?
 is-chrome-better = Оё браузери «{ -brand-name-chrome }» нисбат ба браузери «{ -brand-name-firefox }» беҳтар аст?
+no-we-dont = Не, мо фикр намекунем, ки «{ -brand-name-chrome }» аз «{ -brand-name-firefox }» беҳтар аст, ва сабаби фикрҳои мо дар он аст, ки одамон доимо мепурсанд, ки кадом браузер беҳтар аст ва воқеан мепурсанд, ки кадом браузер тезтар ва бехатартар аст. Донед, ки браузери «{ -brand-name-firefox }» ҳар моҳ навсозӣ карда мешавад, то итминон ҳосил шавад, ки шумо браузери тезтаринро доред, ки ба таври худкор махфияти шуморо эҳтиром мекунад.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
