@@ -10,7 +10,7 @@ newsletter-form-please-select-country = Пожалуйста, выберите �
 newsletter-form-please-select-language = Пожалуйста, выберите язык
 newsletter-form-button-cta = Зарегистрироваться
 # Only localize "yourname". Do not change "@example.com".
-newsletter-form-yournameexamplecom = имя_пользователя@example.com
+newsletter-form-yournameexamplecom = иван_иванов@домен.ru
 newsletter-form-select-country-or-region = Выберите страну или регион
 newsletter-form-select-language = Выберите язык
 newsletter-form-your-email-here = ВАШ АДРЕС ЭЛЕКТРОННОЙ ПОЧТЫ

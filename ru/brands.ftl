@@ -130,7 +130,16 @@
         [prepositional] аккаунте Mozilla
        *[nominative] аккаунт Mozilla
     }
--brand-name-mozilla-accounts = Аккаунты Mozilla
+-brand-name-mozilla-accounts =
+    { $case ->
+        [nominative_uppercase] Аккаунты Mozilla
+        [genitive] аккаунтов Mozilla
+        [dative] аккаунтам Mozilla
+        [accusative] аккаунты Mozilla
+        [instrumental] аккаунтами Mozilla
+        [prepositional] аккаунтах Mozilla
+       *[nominative] аккаунты Mozilla
+    }
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-thunderbird = Thunderbird
