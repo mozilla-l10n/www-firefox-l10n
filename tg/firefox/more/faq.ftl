@@ -55,6 +55,7 @@ related-questions-safe = Саволҳои марбут: оё браузери «
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 why-is-firefox = Чаро браузери «{ -brand-name-firefox }» хеле суст кор мекунад?
+firefox-isnt-slow = Браузери «{ -brand-name-firefox }» дигар суст кор намекунад. Дар соли 2017 мо муҳаррики браузери худро (бо номи «Quantum») комилан аз нав сохтем, то браузери «{ -brand-name-firefox }» тавонад бо дигар браузерҳои пешсаф рақобат кунад. Илова бар ин, манъкунандаи васоити пайгирии мо барои боз ҳам зудтар бор кардани саҳифаҳои сомонаҳо мусоидат мекунад. Дар натиҷа, «{ -brand-name-firefox }» бо суръати барқосо кор мекунад ва ҳамзамон махфияти шуморо пурра ҳифз менамояд.
 is-firefox-chromium = Оё браузери «{ -brand-name-firefox }» дар «{ -brand-name-chromium }» асос меёбад?
 does-firefox-use = Браузери «{ -brand-name-firefox }» аз «{ -brand-name-google }» истифода мебарад?
 
