@@ -42,7 +42,7 @@ firefox-enterprise-pkg-installer = PKG yükleyici
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 bit
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
-firefox-enterprise-download-firefox-or-esr = { -brand-name-firefox } veya { -brand-name-firefox-esr }’ı <a href="{ $firefox_all }">başka bir dil veya platform</a> için indirin.
+firefox-enterprise-download-firefox-or-esr = { -brand-name-firefox } veya { -brand-name-firefox-esr }’ı <a { $firefox_all }>başka bir dil veya platform</a> için indirin.
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-early-access-is = Ocak 2026’da başlayacak yeni destek programımız erken erişime açıldı. Güvenlik, sağlamlık ve veri bağımsızlığı için { -brand-name-firefox } kullanan kuruluşlara özel bu program; büyük ölçekli deployment’lar için güvenilir ve kuruluşa özel destek sunuyor.
 firefox-enterprise-contact-sales = Satış ekibiyle iletişime geçin
