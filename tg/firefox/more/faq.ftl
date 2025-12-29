@@ -42,6 +42,7 @@ is-firefox-safe-download = Браузери «{ -brand-name-firefox }» баро
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Ҳифзи махфияти шумо афзалияти асосии мо аст ва мо итминон ҳосил мекунем, ки насби браузери «{ -brand-name-firefox }» дар дастгоҳҳои шумо комилан бехатар аст — аммо ҳамеша боварӣ ҳосил кунед, ки шумо онро танҳо аз саҳифаи эътимодбахши ташкилоти «{ -brand-name-mozilla }»/«{ -brand-name-firefox }», монанд ба <a href="{ $url }">ҳамин саҳифаи боргирии мо</a>, боргирӣ мекунед.
 is-firefox-safe = Браузери «{ -brand-name-firefox }» бехатар аст?
 
 # Variables:
