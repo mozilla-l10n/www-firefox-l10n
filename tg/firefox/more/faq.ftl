@@ -63,7 +63,11 @@ does-firefox-use = Браузери «{ -brand-name-firefox }» аз «{ -brand-
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = Низоми ҷустуҷӯии «{ -brand-name-google }» муҳаррики ҷустуҷӯии пешфарз дар браузери «{ -brand-name-firefox }» мебошад ва ин маънои онро дорад, ки шумо метавонед сомонаҳоро дар Интернет мустақиман аз навори нишонӣ ҷустуҷӯ намоед. <a href="{ $url }">Дар бораи хусусиятҳои муҳаррикҳои ҷустуҷӯӣ ва тағйир додани танзимоти пешфарз маълумоти бештар гиред.</a>
 does-firefox-have = Браузери «{ -brand-name-firefox }» барномаи VPN-и дарунсохтро бар бар мегирад?
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = Браузери «{ -brand-name-firefox }» дорои «VPN» (шабакаи хусусии маҷозӣ)-и дарунсохт намебошад, аммо ташкилоти «{ -brand-name-mozilla }» маҳсулеро бо номи «<a href="{ $url }">{ -brand-name-mozilla-vpn }</a>» таҳия ва дастгирӣ мекунад, ки шумо метавонед онро дар баробари браузери хусусии «{ -brand-name-firefox-browser }» истифода баред, то ин маҳсул тавонад пайвасти шуморо ҳангоми истифодаи «Wi-Fi», аз он ҷумла нишонии «IP»-и шумо, муҳофизат намояд.
 related-questions-ip = Саволҳои марбут: оё браузери «{ -brand-name-firefox }» нишонии IP-и шуморо пинҳон мекунад?
 who-owns-firefox = Соҳиби «{ -brand-name-firefox }» кӣ мебошад?
 
