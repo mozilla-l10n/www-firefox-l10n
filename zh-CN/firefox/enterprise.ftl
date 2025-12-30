@@ -44,7 +44,7 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 位
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = 下载<a { $firefox_all }>其他语言或平台</a>的 { -brand-name-firefox } 或 { -brand-name-firefox-esr }。
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
-firefox-enterprise-early-access-is = 我们将于 2026 年 1 月启动的新用户支持计划现已开放抢先体验。专为使用 { -brand-name-firefox } 确保安全性、弹性和数据自主权的组织而打造为大规模部署提供私密、可靠、定制化的支持。
+firefox-enterprise-early-access-is = 我们将于 2026 年 1 月推出全新支持计划，现已开放先行体验。此计划专为选用 { -brand-name-firefox } 来保障安全、弹性、数据主权的组织打造，可为大规模部署提供专属、可靠、定制化的支持服务。
 firefox-enterprise-contact-sales = 联系销售团队
 firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations }文档
 firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } 是专门为需要私人问题分类和向上呈报、定义响应时间、定制开发选项以及与 { -brand-name-mozilla } 的工程和产品团队密切合作的团队提供的。
