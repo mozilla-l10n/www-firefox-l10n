@@ -6,3 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-resources = Ресурстар
+firefox-enterprise-msi-installers = MSI орнатқыштары
+firefox-enterprise-legacy-browser-support = Ескірген браузерлерді қолдау
+firefox-enterprise-admx-templates = ADMX үлгілері

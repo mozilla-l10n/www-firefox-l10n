@@ -5,6 +5,7 @@
 
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
+firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-free-web-browser = Еркін веб браузері
 firefox-new-advanced-install-options = Орнатудың қосымша мүмкіндіктері және басқа платформалар
 firefox-new-download-in-another-language = Басқа тілде жүктеп алу

@@ -8,6 +8,7 @@
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Көмек алу
 firefox-all-lang-multi = Бірнеше тіл
+firefox-all-plat-mobile = Android және iOS
 firefox-all-sorry-we-couldnt-find = Кешіріңіз, сіз іздеген жүктеп алуды таба алмадық. Әрекетті қайталаңыз немесе төмендегі тізімнен жүктеп алуды таңдаңыз.
 firefox-all-64-bit-installers = 64-биттік орнатқыштар
 firefox-all-32-bit-installers = 32-биттік орнатқыштар

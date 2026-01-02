@@ -6,6 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/channel/desktop/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-speak-up = Ойыңызды айтыңыз
 firefox-developer-feedback-makes-us = Кері байланыс бізді жақсырақ етеді. Браузер және әзірлеуші құралдарын қалай жақсартуға болатыны туралы бізге айтыңыз.
 firefox-developer-join-the-convo = Сөйлесуге қосылу
