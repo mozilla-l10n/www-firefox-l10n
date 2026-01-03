@@ -8,3 +8,6 @@
 browsers-mobile-firefox-for-android = { -brand-name-android } үшін { -brand-name-firefox }
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare = Салыстыру
+browsers-mobile-download = Жүктеп алу
+browsers-mobile-android = { -brand-name-android }
+browsers-mobile-ios = { -brand-name-ios }
