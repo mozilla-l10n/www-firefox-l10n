@@ -5,7 +5,12 @@
 
 ### URL: https://www-dev.springfield.moz.works/?xv=legacy
 
+firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Одан да жаңа { -brand-name-firefox } қолжетімді. <a { $update_url }>Соңғы нұсқасына жаңарту</a>
 firefox-desktop-download-get-the-browser = Маңызды нәрсенің барлығын қорғайтын браузерді алыңыз
+firefox-desktop-download-fast-reliable-private = Жылдам, сенімді және жеке — онлайн режимінде жан тыныштығы үшін.
 firefox-desktop-download-download-options = Жүктеп алу опциялары және басқа тілдер
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } қолдауы
 firefox-desktop-download-search-smarter = Ақылдырақ, жылдамырақ іздеу
@@ -16,6 +21,7 @@ firefox-desktop-download-bookmark-history = Нәтижелерде бетбел�
 firefox-desktop-download-boost-your = Өнімділігіңізді арттырыңыз
 firefox-desktop-download-works-with-google = { -brand-name-google } өнімдерімен жұмыс істейді
 firefox-desktop-download-built-in-screenshot = Кіріктірілген скриншот құралы
+firefox-desktop-download-bookmarks-manager = Бетбелгілер басқарушысы
 firefox-desktop-download-autosuggest-urls = URL автотолықтыру
 firefox-desktop-download-sync-across-devices = Құрылғылар арасында синхрондау
 firefox-desktop-download-reader-mode = Оқу режимі

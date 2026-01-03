@@ -14,3 +14,9 @@ firefox-home-go-online = Интернетте азырақ алаңдаушыл�
 ## What's new
 
 firefox-home-dial-down = Шуды азайтыңыз
+
+## Customization
+
+# asterisks provide playful emphasis, omit or use symbols appropriate in your language
+firefox-home-really-make-it = *Шынымен де* өзіңіздікі етіңіз
+firefox-home-work-smarter = Ақылдырақ жұмыс істеңіз, қаттырақ ойнаңыз
