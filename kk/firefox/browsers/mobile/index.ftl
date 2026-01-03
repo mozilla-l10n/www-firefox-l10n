@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/mobile/
 
+browsers-mobile-firefox-for-android = { -brand-name-android } үшін { -brand-name-firefox }
+browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare = Салыстыру
