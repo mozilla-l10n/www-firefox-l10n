@@ -31,6 +31,8 @@ mobile-ios-get-search-suggestions = Vastaanota hakuehdotuksia hakupalkkiin ja si
 mobile-ios-discover-more-of = Löydä enemmän sinulle tärkeitä asioita
 # Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Avaa uusi välilehti { -brand-name-firefox }issa nähdäksesi eniten vierailemasi sivustot, viimeisimmät kirjanmerkkisi ja suositut artikkelit { -brand-name-pocket }issa. { -brand-name-firefox } antaa sinulle nopean pääsyn viimeksi käyttämillesi sivustoille, jotta pääset perille entistä nopeammin.
+mobile-ios-open-a-new-v2 = Avaa uusi välilehti { -brand-name-firefox }issa nähdäksesi eniten vierailemasi sivustot ja viimeisimmät kirjanmerkkisi. { -brand-name-firefox } antaa sinulle nopean pääsyn viimeksi käyttämillesi sivustoille, jotta pääset perille entistä nopeammin.
 mobile-ios-about-mozilla = Tietoja { -brand-name-mozilla }sta
 # Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } on olemassa rakentaakseen Internetiä julkiseksi resurssiksi, joka on kaikkien saatavilla, koska uskomme, että avoin ja vapaa on parempi kuin suljettu ja hallittu. Rakennamme { -brand-name-firefox }in ja { -brand-name-pocket }in kaltaisia tuotteita edistääksemme valinnanvaraa, läpinäkyvyyttä ja hallintamahdollisuuksia.
+mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } on olemassa rakentaakseen Internetiä julkiseksi resurssiksi, joka on kaikkien saatavilla, koska uskomme, että avoin ja vapaa on parempi kuin suljettu ja hallittu. Rakennamme { -brand-name-firefox }in kaltaisia tuotteita edistääksemme valinnanvaraa, läpinäkyvyyttä ja hallintamahdollisuuksia.

@@ -30,6 +30,8 @@ newsletter-form-sign-up-now = Tilaa nyt
 newsletter-form-thanks = Kiitos!
 newsletter-form-yes = Kyllä
 newsletter-form-no = Ei
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Lähetetään
 multi-newsletter-form-checkboxes-legend = Haluan tietoa aiheesta:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
