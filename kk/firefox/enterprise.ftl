@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-биттік
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-resources = Ресурстар
 firefox-enterprise-msi-installers = MSI орнатқыштары
