@@ -5,14 +5,21 @@
 newsletter-form-please-enter-a-valid = Жарамды эл. пошта адресін енгізіңіз.
 newsletter-form-you-must-agree-to = Жекелік ескертуіне келісуіңіз керек
 newsletter-form-your-email-address = Эл. пошта адресіңіз
+newsletter-form-we-are-sorry-but-there = Кешіріңіз, бірақ жүйемізде ақаулық орын алды. Кейінірек қайталап көріңіз!
+newsletter-form-please-select-country = Елді немесе аймақты таңдаңыз
+newsletter-form-please-select-language = Тілді таңдаңыз
+newsletter-form-button-cta = Тіркелу
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Елді немесе аймақты таңдау
+newsletter-form-select-language = Тілді таңдаңыз
 newsletter-form-your-email-here = ЭЛ. ПОШТА АДРЕСІҢІЗ
 newsletter-form-get-firefox-news = { -brand-name-firefox } жаңалықтарын алу
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Мен { -brand-name-mozilla } менің жеке ақпаратымды <a href="{ $url }">осы Жекелік ескертуінде</a> жазылғанға сай қолданатынымен келісемін
+newsletter-form-we-will-only-send-v2 = Біз сізге тек { -brand-name-mozilla } жобасына қатысты ақпаратты ғана жібереміз. Жазылымнан кез келген уақытта бас тарта аласыз.
+newsletter-form-we-will-only-send-firefox-v2 = Біз сізге тек { -brand-name-firefox } өніміне қатысты ақпаратты ғана жібереміз. Жазылымнан кез келген уақытта бас тарта аласыз.
 newsletter-form-if-you-havent-previously = { -brand-name-mozilla }-ға байланысты жаңалықтар таспасына жазылуды осыған дейін растамаған болсаңыз, оны жасауыңыз керек болуы мүмкін. Поштаңыздың кіріс және спам бумаларынан бізден хатты іздеңіз.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> және сіз
 newsletter-form-get-firefox-tips = { -brand-name-firefox } жөнінде кеңестер, жаңалықтар және т.б. алу
@@ -21,3 +28,13 @@ newsletter-form-select-country = Елді таңдаңыз
 newsletter-form-sign-me-up = Мені де жазыңыз
 newsletter-form-sign-up-now = Қазір тіркелгіні жасау
 newsletter-form-thanks = Рахмет!
+newsletter-form-yes = Иә
+newsletter-form-no = Жоқ
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Жіберуде
+multi-newsletter-form-checkboxes-legend = Маған мыналар туралы ақпарат керек:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Жаңалықтар бюллетені опцияларының кем дегенде біреуін тексеріңіз.
+multi-newsletter-form-title = Интернетті жақсы көру
+multi-newsletter-form-desc = { -brand-name-mozilla } жаңалықтар бюллетеніне жазылыңыз және вебтің ашық әрі еркін болуына көмектесіңіз.

@@ -21,3 +21,7 @@ ui-show-all = Барлығын көрсету
 ui-hide-all = Барлығын жасыру
 ui-learn-more = Көбірек білу
 ui-view = Қарап шығу
+ui-pause-animation = Анимацияны аялдату
+ui-play-animation = Анимацияны ойнату
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = Ілгерілету
