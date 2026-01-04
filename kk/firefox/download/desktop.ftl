@@ -105,3 +105,17 @@ firefox-desktop-download-grab-a-high = Браузерге кірістірілг
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } браузері көптеген <a { $attrs }>үшінші тарап трекерлеріне</a> сіздің желідегі әрекеттеріңізді жинауға және сатуға автоматты түрде бөгет қояды.
+
+## URL: https://www-dev.springfield.moz.works/thanks/
+
+firefox-desktop-download-almost-there = Дайын болуға жақын!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Енді жаңа ғана жүктелген орнату файлын <strong>іске қосыңыз</strong>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Мәселелер бар ма? <a { $attrs }>Орнату бойынша көмек алыңыз</a>.
+firefox-desktop-download-in-another-language = Басқа тілде немесе басқа операциялық жүйе үшін жүктеп алыңыз.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.firefox.com/download/all/
+firefox-desktop-download-your-firefox-new-should-begin = Жүктеу автоматты түрде басталуы тиіс. Жұмыс істемеді ме? <a id="{ $id }" href="{ $fallback_url }">Қайта жүктеп көріңіз.</a>

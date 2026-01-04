@@ -27,6 +27,15 @@ firefox-home-see-release = Шығарылым ескертпесін қарау
 firefox-home-get-the-browser = Жұмысты бітіруге көмектесетін браузерді алыңыз
 firefox-home-block-ad-trackers = Жарнамалық бақылаушыларды еш күш жұмсамай-ақ бұғаттаңыз
 firefox-home-ad-trackers-make = Жарнамалық бақылаушылар веб-беттердің жүктелуін баяулатады. { -brand-name-firefox } браузерінде мұны түзету үшін баптауларды қазып отырудың қажеті жоқ, өйткені біз трекерлердің көбін автоматты түрде бұғаттаймыз.
+# "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
+firefox-home-swear-off = Алаңдататын нәрселерден арылыңыз
+# Variables
+#   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
+#   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
+firefox-home-stay-focused = <a { $tomato_clock_attrs }>Tomato Clock</a> және <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> сияқты кеңейтулердің көмегімен назарыңызды бөліп алмай жұмыс істеңіз. Олар «Ұсынылған» мәртебесіне ие, бұл — жоғары деңгейдегі қауіпсіздік пен функционалдылық үшін біз беретін ең үздік баға (алтын жұлдыз) сияқты.
+firefox-home-your-stuff = Барлық экрандарыңызда сіздің заттарыңыз
+firefox-home-get-firefox-mobile = { -brand-name-firefox } мобильді нұсқасын жүктеп алыңыз. Сонда сіз сенетін жекелік пен қауіпсіздік, сондай-ақ парольдер, беттер бен шолу тарихыңыз қайда барсаңыз да өзіңізбен бірге болады.
+firefox-home-privacy-built-in = Кіріктірілген жекелік
 
 ## Customization
 
