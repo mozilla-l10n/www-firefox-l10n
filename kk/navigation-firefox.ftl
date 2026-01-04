@@ -3,6 +3,20 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
+## Features
+
+navigation-features = Мүмкіндіктер
+navigation-close-features-menu = Мүмкіндіктер мәзірін жабу
+navigation-top-features = Ең үздік мүмкіндіктер
+navigation-features-all = { -brand-name-firefox } барлық мүмкіндіктерін қарау
+
+## Resources
+
+navigation-resources = Ресурстар
+navigation-close-resources-menu = Ресурстар мәзірін жабу
+navigation-product = Өнім
+navigation-compare = Салыстыру
+
 ## Download
 
 navigation-download = Жүктеп алу

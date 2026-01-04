@@ -2,4 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+sub-navigation-compare-browsers = Браузерлерді салыстыру
+sub-navigation-features = Мүмкіндіктер
 sub-navigation-enterprise = { -brand-name-enterprise }

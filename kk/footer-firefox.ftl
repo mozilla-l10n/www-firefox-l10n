@@ -26,6 +26,12 @@ footer-enterprise = { -brand-name-enterprise }
 # Section title
 footer-community = Қауымдастық
 
+## Links to resources
+
+# Section title
+footer-resources = Ресурстар
+footer-compare = Салыстыру
+
 ## Legal links
 
 footer-websites-privacy-notice = Веб-сайттың жекелігі туралы ескерту
