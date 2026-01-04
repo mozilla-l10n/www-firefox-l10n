@@ -33,3 +33,7 @@ footer-terms-of-use = Қолдану шарттары
 footer-websites-cookie-policy = Cookie саясаты
 footer-community-participation-guidelines = Қауымдастыққа қатысу нұсқаулықтары
 footer-logo-trademark-licensing = Логотип сауда белгісін лицензиялау
+
+## Mozilla branding
+
+footer-powdered-by = { -brand-name-mozilla } жасаған

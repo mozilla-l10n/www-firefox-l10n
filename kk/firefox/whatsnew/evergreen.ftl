@@ -7,3 +7,4 @@
 
 whatsnew-page-title = Android және iOS үшін { -brand-name-firefox } жүктеп алу
 whatsnew-download-firefox-for-your = Смартфоныңыз бен планшетіңізге { -brand-name-firefox } жүктеп алыңыз.
+whatsnew-signoff = <strong>{ -brand-name-mozilla } жасаған.</strong> 1998 жылдан бері пайданы емес, адамдардың мүддесін бірінші орынға қойып келеді.

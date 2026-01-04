@@ -44,3 +44,4 @@ firefox-isnt-slow = { -brand-name-firefox } мүлдем баяу емес… қ
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } браузерін коммерциялық емес <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> қорының толық иелігіндегі еншілес кәсіпорны — { -brand-name-mozilla-corporation } жасап шығарған және ол өз жұмысында { -brand-name-mozilla } Манифесті принциптерін басшылыққа алады. { -brand-name-firefox } жасаушысы туралы толығырақ <a href="{ $url2 }">мына жерден</a> біле аласыз.
