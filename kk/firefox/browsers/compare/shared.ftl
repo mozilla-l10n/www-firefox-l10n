@@ -6,3 +6,5 @@
 ### URL: https://www-dev.springfield.moz.works/compare/
 
 compare-shared-compare-firefox = { -brand-name-firefox } салыстыру
+compare-shared-footer-cta-title = { -brand-name-firefox } көмегімен көбірек бітіріңіз
+compare-shared-footer-cta-desc = Коммерциялық емес ұйым қолдайтын, барлық құрылғыларыңызда жұмыс істейтін, жылдам, жеңіл және жекелікке бағытталған браузерді алыңыз.
