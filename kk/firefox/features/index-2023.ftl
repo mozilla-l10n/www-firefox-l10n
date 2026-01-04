@@ -10,3 +10,4 @@ features-index-firefox-browser-features = { -brand-name-firefox } мүмкінд
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } — бұл барлық құрылғыларыңызда жұмыс істейтін жылдам, жеңіл және жекелікке бағытталған браузер.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } жылдамдай береді
+features-index-is-firefox-a-private-browser = { -brand-name-firefox } — жекелікті сақтайтын браузер ме?
