@@ -36,9 +36,23 @@ firefox-home-stay-focused = <a { $tomato_clock_attrs }>Tomato Clock</a> және
 firefox-home-your-stuff = Барлық экрандарыңызда сіздің заттарыңыз
 firefox-home-get-firefox-mobile = { -brand-name-firefox } мобильді нұсқасын жүктеп алыңыз. Сонда сіз сенетін жекелік пен қауіпсіздік, сондай-ақ парольдер, беттер бен шолу тарихыңыз қайда барсаңыз да өзіңізбен бірге болады.
 firefox-home-privacy-built-in = Кіріктірілген жекелік
+firefox-home-personal-data-not-for-sale = Сіздің жеке деректеріңіз сатылмайды. Трекерлер мен үшінші тарап кукилері үнсіз келісім бойынша бұғатталған, сондықтан сіз еш алаңсыз… интернетті шола аласыз.
+firefox-home-learn-data-protection = { -brand-name-firefox } деректеріңізді қалай қорғайтынын біліңіз
 
 ## Customization
 
 # asterisks provide playful emphasis, omit or use symbols appropriate in your language
 firefox-home-really-make-it = *Шынымен де* өзіңіздікі етіңіз
 firefox-home-work-smarter = Ақылдырақ жұмыс істеңіз, қаттырақ ойнаңыз
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = Зерттеу жүргізуге, онлайн сатып алу және басқа да әрекеттерге арналған мүмкіндіктерді <a { $extensions_attrs }>кеңейтулер</a> бөлімінен қарап көріңіз.
+firefox-home-bye-boring = Қош бол, зеріктіретін браузер
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = Тиісті қосымша <a { $theme_attrs }>теманың</a> көмегімен интернет әлдеқайда жайлы орынға айнала алады.
+
+## Final call-out
+
+firefox-home-billionaire-free = 20 жылдан астам уақыт бойы миллиардерлерге тәуелсіз
+firefox-home-firefox-was-created = { -brand-name-firefox } браузерін 2004 жылы { -brand-name-mozilla } компаниясы Internet Explorer сияқты браузерлерге қарағанда жылдамырақ, жеке әрі баптауға ыңғайлы балама ретінде жасап шығарды. Бүгінгі таңда біз әлі де коммерциялық емес ұйымбыз, әлі де ешбір миллиардерге тиесілі емеспіз және интернетті — әрі сіздің онда өткізетін уақытыңызды — жақсарту үшін жұмыс істеп келеміз.

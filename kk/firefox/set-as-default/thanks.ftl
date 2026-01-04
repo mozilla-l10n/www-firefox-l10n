@@ -6,4 +6,5 @@
 ### URL: https://www-dev.springfield.moz.works/landing/set-as-default/thanks/
 
 set-as-default-thanks-having-trouble-setting-your = Әдепкі браузеріңізді орнатуда қиындықтар бар ма?
+set-as-default-thanks-download-the-app = Қолданбаны жүктеп алу
 set-as-default-thanks-having-trouble = Мәселелер бар ма?

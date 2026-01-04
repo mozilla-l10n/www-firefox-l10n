@@ -105,6 +105,9 @@ firefox-desktop-download-grab-a-high = Браузерге кірістірілг
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } браузері көптеген <a { $attrs }>үшінші тарап трекерлеріне</a> сіздің желідегі әрекеттеріңізді жинауға және сатуға автоматты түрде бөгет қояды.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Сұрақтарыңыз бар ма? <a { $attrs }>{ -brand-name-mozilla } қолдау қызметі</a> сізге көмектесуге дайын.
 
 ## URL: https://www-dev.springfield.moz.works/thanks/
 
