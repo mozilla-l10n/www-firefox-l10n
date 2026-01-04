@@ -11,8 +11,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Одан да жаңа { -brand-name-firefox } қолжетімді. <a { $update_url }>Соңғы нұсқасына жаңарту</a>
 firefox-desktop-download-get-the-browser = Маңызды нәрсенің барлығын қорғайтын браузерді алыңыз
 firefox-desktop-download-fast-reliable-private = Жылдам, сенімді және жеке — онлайн режимінде жан тыныштығы үшін.
+firefox-desktop-set-as-default = { -brand-name-firefox } әдепкі браузер ретінде орнату.
 firefox-desktop-download-download-options = Жүктеп алу опциялары және басқа тілдер
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } қолдауы
+firefox-desktop-download-ads-are-distracting = Жарнамалар назарды аударып, беттердің жүктелуін баяулатады, ал олардың трекерлері желідегі әрбір қадамыңызды аңдиды. { -brand-name-firefox-browser } трекерлердің көбін автоматты түрде бұғаттайды, сондықтан қауіпсіздік баптауларын қазып әуре болудың қажеті жоқ.
+firefox-desktop-download-see-your-report = Қорғаныс есебіңізді қараңыз
 firefox-desktop-download-all-your-devices = { -brand-name-firefox } барлық құрылғыларыңызға орнатыңыз
 firefox-desktop-download-take-your-privacy = Жекелігіңізді барлық жерде өзіңізбен бірге алып жүріңіз. { -brand-name-ios } және { -brand-name-android } жүйелеріне арналған { -brand-name-firefox-browsers } қай жерде болсаңыз да, бақылаушылардың соңыңыздан еріп отыруын бұғаттау үшін дәл сондай мықты жекелік баптауларына ие.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

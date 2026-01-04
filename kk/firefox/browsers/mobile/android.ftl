@@ -12,4 +12,5 @@ mobile-android-get-firefox-for = { -brand-name-android } үшін { -brand-name-
 mobile-android-send-a-download-link-to-your = Жүктеп алу сілтемесін сіздің телефоныңызға жіберу.
 mobile-android-scan-the-qr-code-to-get-started = Бастау үшін QR кодын сканерлеңіз
 mobile-android-scan-alt-text = { -brand-name-android } жүйесінде { -brand-name-firefox } алу үшін QR кодын сканерлеңіз
+mobile-android-firefox-for-android = { -brand-name-android } жүйесіне арналған { -brand-name-firefox } беттердің аса жылдам жүктелуімен қатар, жекелікті оңай қорғауды қамтамасыз етеді. Бақылаудан кеңейтілген қорғаныс функциясы желіде сізді аңдып, беттердің жұмысын баяулататын онлайн трекерлерді автоматты түрде бұғаттайды.
 mobile-android-about-mozilla = { -brand-name-mozilla } туралы

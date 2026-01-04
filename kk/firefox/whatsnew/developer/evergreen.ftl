@@ -6,3 +6,6 @@
 ### URL: https://www-dev.springfield.moz.works/whatsnew/80.0a2/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Не жаңалық бар екенін көру үшін <a { $attrs }>шығарылым ескертпесін</a> (тек ағылшын тілінде) қараңыз.
