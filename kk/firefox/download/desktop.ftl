@@ -119,6 +119,9 @@ firefox-desktop-download-now-windows = Енді жаңа ғана жүктелг
 firefox-desktop-download-get-help = Мәселелер бар ма? <a { $attrs }>Орнату бойынша көмек алыңыз</a>.
 firefox-desktop-download-in-another-language = Басқа тілде немесе басқа операциялық жүйе үшін жүктеп алыңыз.
 # Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Егер сіз орнатайын деп жатқан қолданба { -brand-name-microsoft } тарапынан расталмаған деген ескертуді көрсеңіз, «Бәрібір орнату» батырмасын басыңыз немесе <a { $attrs }>қолданбаларды ұсыну баптауларын өзгертіңіз</a>.
+# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = Жүктеу автоматты түрде басталуы тиіс. Жұмыс істемеді ме? <a id="{ $id }" href="{ $fallback_url }">Қайта жүктеп көріңіз.</a>

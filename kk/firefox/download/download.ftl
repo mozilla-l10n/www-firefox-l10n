@@ -23,6 +23,9 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } брауз�
 firefox-new-download-interrupted = Жүктеуіңіз үзілді. Бірақ бәрі жоғалған жоқ.
 firefox-new-download-almost-there = Дайын болуға жақын!
 firefox-new-download-select-linux = Төмендегі жүктеу опциясын таңдаңыз
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Егер сіз орнатайын деп жатқан қолданба { -brand-name-microsoft } тарапынан расталмаған деген ескертуді көрсеңіз, «Бәрібір орнату» батырмасын басыңыз немесе <a { $attrs }>қолданбаларды ұсыну баптауларын өзгертіңіз</a>.
 
 # Not-Required
 
