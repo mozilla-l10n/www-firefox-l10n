@@ -7,3 +7,6 @@
 
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Жай ғана жеке мобильді шолу
+mobile-focus-get-firefox-focus = { -brand-name-firefox-focus } алу
+mobile-focus-scan-the-qr-code-to-get-started = Бастау үшін QR кодын сканерлеңіз
+mobile-focus-scan-alt-text = { -brand-name-firefox-focus } алу үшін QR кодын сканерлеңіз
