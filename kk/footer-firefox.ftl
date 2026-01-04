@@ -8,7 +8,7 @@
 # Section title
 footer-download = Жүктеп алу
 footer-download-auto = { -brand-name-firefox } жүктеп алу
-footer-custom-download = Арнайын жүктеп алу нұсқалары
+footer-custom-download = Арнайы жүктеп алу нұсқалары
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
@@ -31,6 +31,9 @@ footer-community = Қауымдастық
 # Section title
 footer-resources = Ресурстар
 footer-compare = Салыстыру
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Үйрену
 
 ## Legal links
 

@@ -15,6 +15,7 @@ navigation-features-all = { -brand-name-firefox } барлық мүмкінді�
 navigation-resources = Ресурстар
 navigation-close-resources-menu = Ресурстар мәзірін жабу
 navigation-product = Өнім
+navigation-learn = Үйрену
 navigation-compare = Салыстыру
 
 ## Download

@@ -12,3 +12,4 @@ firefox-enterprise-resources = Ресурстар
 firefox-enterprise-msi-installers = MSI орнатқыштары
 firefox-enterprise-legacy-browser-support = Ескірген браузерлерді қолдау
 firefox-enterprise-admx-templates = ADMX үлгілері
+firefox-enterprise-release-notes = Шығарылым ескертпесі
