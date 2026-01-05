@@ -8,10 +8,10 @@
 features-customize-customize-your-firefox = Přizpůsobení prohlížeče { -brand-name-firefox }
 # HTML page description
 features-customize-choose-how-your-browser-looks = Vyberte si vzhled svého prohlížeče z tisíců bezplatných motivů.
-features-customize-firefox-themes-let-you-change = Motivy { -brand-name-firefox(case: "gen") } umožňují změnit vzhled prohlížeče. Nastavují barevné schéma nabídek prohlížeče, systémových stránek { -brand-name-firefox(case: "gen") } a mohou dokonce přidat obrázek na pozadí panelu nástrojů { -brand-name-firefox(case: "gen") }.
-features-customize-firefox-comes-with-a-default = { -brand-name-firefox } je dodáván s výchozím systémovým tématem a je předinstalován se světlými, tmavými a barevnými variantami.
+features-customize-firefox-themes-let-you-change = Motivy vzhledu { -brand-name-firefox(case: "gen") } umožňují změnit vizuální podobu prohlížeče. Nastavují barevné schéma nabídek prohlížeče, systémových stránek { -brand-name-firefox(case: "gen") } a mohou dokonce přidat obrázek na pozadí nástrojové lišty { -brand-name-firefox(case: "gen") }.
+features-customize-firefox-comes-with-a-default = { -brand-name-firefox } je dodáván s výchozím motivem „Podle systému“ a má přednastavené světlé, tmavé a barevné varianty.
 # Used as accessible alternative text for an image
-features-customize-image-of-the-default-themes = Obrázek výchozích motivů, které jsou dodávány s { -brand-name-firefox(case: "ins") }, zobrazující světlé, tmavé a barevné varianty.
+features-customize-image-of-the-default-themes = Obrázek výchozích motivů vzhledu, které jsou dodávány s { -brand-name-firefox(case: "ins") }, zobrazující světlé, tmavé a barevné varianty.
 # Variables:
 #   $amo (url) - link to https://addons.mozilla.org/firefox/themes/
 #   $top (url) - link to https://addons.mozilla.org/firefox/search/?sort=rating&type=statictheme
