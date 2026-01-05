@@ -53,5 +53,5 @@ firefox-channel-experience-cutting-edge-features-ios = Ең соңғы мүмк�
 firefox-channel-test-beta-versions-of-firefox-ios-long = { -brand-name-apple } ұсынған { -brand-name-test-flight } бағдарламасы арқылы { -brand-name-ios } үшін { -brand-name-firefox } қолданбасының бета нұсқаларын сынап, { -brand-name-iphone }, { -brand-name-ipad } және iPod touch үшін арналған біздің мобильді браузерімізді жақсартуға көмектесіңіз.
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = { -brand-name-apple } ұсынған { -brand-name-test-flight } бағдарламасы арқылы { -brand-name-ios } үшін { -brand-name-firefox } қолданбасының бета нұсқаларын сынаңыз.
-firefox-channel-sign-up-now = Қазір тіркелгіні жасау
+firefox-channel-sign-up-now = Тіркелу
 firefox-channel-nightly-update-one-or-more-times = Ескертпе: { -brand-name-firefox-nightly } күніне шамамен бір немесе екі рет жаңартылып тұрады.
