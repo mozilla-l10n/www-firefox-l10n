@@ -18,7 +18,7 @@ firefox-enterprise-your-browser-your-business = Váš prohlížeč, vaše firma
 firefox-enterprise-deploy-when-and-how-you-want = Nasaďte kde a jak chcete
 firefox-enterprise-install-packages-policies = Díky instalačním balíčkům a širokému rozšíření skupinových zásad a funkcí je nasazení rychlejší a flexibilnější než kdykoli předtím — a pro prostředí Windows, Linux a macOS je to hračka.
 firefox-enterprise-release-cycles = Cykly vydávání, které se hodí pro vaši organizaci
-firefox-enterprise-choose-firefox-for-features-esr-stability = Zvolte { -brand-name-firefox } pro získání nejnovějších funkcí a stabilní vydání každé čtyři týdny, nebo { -brand-name-firefox-esr } pro dlouhodobou stabilitu, pravidelné bezpečnostní aktualizace a výroční hlavní vydání.
+firefox-enterprise-choose-firefox-for-features-esr-stability = Zvolte { -brand-name-firefox } pro nejnovější funkce a stabilní verze každé čtyři týdny nebo { -brand-name-firefox-esr } pro dlouhodobou stabilitu, pravidelné aktualizace zabezpečení a každoroční hlavní verze.
 firefox-enterprise-enterprise-downloads = Stažení pro { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
@@ -42,7 +42,7 @@ firefox-enterprise-pkg-installer = Instalátor PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
-firefox-enterprise-download-firefox-or-esr = Stáhnout { -brand-name-firefox } nebo { -brand-name-firefox-esr } pro <a { $firefox_all }>jiný jazyk nebo platformu.</a>
+firefox-enterprise-download-firefox-or-esr = Stáhněte si { -brand-name-firefox } nebo { -brand-name-firefox-esr } v <a { $firefox_all }>jiném jazyce či pro jinou platformu</a>.
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-early-access-is = Nyní je k dispozici předběžný přístup k našemu novému programu podpory, který bude spuštěn v lednu 2026. Je určen pro organizace, které používají { -brand-name-firefox } k zajištění bezpečnosti, odolnosti a suverenity dat, a poskytuje soukromou, spolehlivou a přizpůsobenou podporu pro rozsáhlá nasazení.
 firefox-enterprise-contact-sales = Kontaktujte oddělení prodeje
