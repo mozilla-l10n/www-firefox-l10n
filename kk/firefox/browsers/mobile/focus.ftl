@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/mobile/focus/
 
+# HTML page title
+mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Жекелік браузері
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Жай ғана жеке мобильді шолу
 mobile-focus-get-firefox-focus = { -brand-name-firefox-focus } алу
