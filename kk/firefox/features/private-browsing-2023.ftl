@@ -14,3 +14,9 @@ features-private-browsing-private-browsing-mode-opens-v2 = Жеке шолу р�
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = Жекелік шолу режиміндегі { -brand-name-firefox } браузер терезесі.
 features-private-browsing-what-private-browsing-doesnt-do = Жекелік шолу не істемейді
+# Variables:
+#   $vpn (url) = link to https://www.mozilla.org/products/vpn/
+features-private-browsing-private-browsing-mode-will-not = Жекелік шолу режимі жеке шолу терезесінен жасалған ешқандай жаңа бетбелгілерді өшірмейді және сізді зиянды бағдарламалардан немесе вирустардан қорғамайды. Сондай-ақ ол сіз кіретін веб-сайттарға қай жерде орналасқаныңызды көруге кедергі жасамайды немесе интернет провайдеріңіздің іс-әрекеттеріңізді жазып алуын тоқтатпайды. Ол үшін сізге <a href="{ $vpn }">сенімді VPN</a> қажет болады.
+# Variables:
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
+features-private-browsing-compare-firefoxs-private-browsing = { -brand-name-firefox } жекелік шолуын <a href="{ $chrome }">Chrome инкогнито режимімен</a> салыстырыңыз.

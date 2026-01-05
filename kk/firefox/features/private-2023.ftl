@@ -6,6 +6,11 @@
 ### URL: https://www-dev.springfield.moz.works/features/private/
 
 features-private-is-firefox-a-private-browser = { -brand-name-firefox } — жекелікті сақтайтын браузер ме?
+# HTML description
+features-private-were-focused-on-your-right-to = Біз сіздің жекелік құқығыңызға баса назар аударамыз. Сіздің деректеріңіз, интернеттегі әрекеттеріңіз, онлайн өміріңіз { -brand-name-firefox } арқылы қорғалған.
+# Variables:
+#   $url (url) = link to https://www.firefox.com/features/private-browsing/
+features-private-yes-firefox-protects-your = Иә. { -brand-name-firefox } сіздің жекелігіңізді <a href="{ $url }">Жекелік шолу</a> сияқты мүмкіндіктермен қорғайды. Ол үй компьютері немесе { -brand-name-ipad } сияқты басқа адамдармен бірге пайдаланатын құрылғыны қолданғанда да шолу тарихы мен парольдеріңізді жеке сақтауға мүмкіндік береді.
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 features-private-firefox-also-protects-your = { -brand-name-firefox } сондай-ақ сіздің жекелігіңізді сайттан сайтқа соңыңыздан еріп, шолу әдеттеріңіз туралы ақпарат жинайтын трекерлерді бұғаттау үшін <a href="{ $url }">Бақылаудан кеңейтілген қорғаныс</a> функциясымен қорғайды. Ол сонымен қатар зиянды скрипттер мен зиянды бағдарламалардан қорғауды қамтиды.
