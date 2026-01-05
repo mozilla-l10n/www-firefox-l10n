@@ -14,6 +14,8 @@ firefox-home-set-firefox-as = { -brand-name-firefox } әдепкі браузе�
 
 ## What's new
 
+# accessible section heading
+firefox-home-latest-features = { -brand-name-firefox } соңғы мүмкіндіктері
 firefox-home-dial-down = Шуды азайтыңыз
 firefox-home-block-ads = Жарнамаларды бұғаттаңыз және реттелетін баптаулар мен жүктеп алуға болатын көптеген кеңейтулердің көмегімен жекелігіңізді арттырыңыз.
 firefox-home-multitasking = Көптапсырмалылық?
@@ -59,6 +61,7 @@ firefox-home-firefox-was-created = { -brand-name-firefox } браузерін 20
 
 ## Used as accessible alternative text for images.
 
+firefox-home-firefox-on-desktop = { -brand-name-firefox } компьютерде және мобильді құрылғыларда.
 firefox-home-happy-toggle = Көңілді ауыстырып-қосқыш.
 firefox-home-multiple-cursors = Бірнеше курсор.
 firefox-home-lots-of-open = Көптеген ашық беттер.

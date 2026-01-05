@@ -5,6 +5,16 @@
 
 ### URL: https://www-dev.springfield.moz.works/?xv=legacy
 
+# meta title, this shows as the link in search results
+# the em dash is used in English to show a change of thought and
+# the em dash is used in meta titles to separate the title of a page from the title of the whole site
+# this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
+firefox-desktop-download-meta-title = { -brand-name-firefox-browser } браузерін жүктеп алыңыз — Жылдам, жеке әрі тегін — оны { -brand-name-mozilla }ұсынады
+firefox-desktop-download-meta-title-v2 = { -brand-name-firefox } браузерін компьютерге жүктеп алыңыз — { -brand-name-mozilla } ұсынады
+firefox-desktop-download-meta-desc = Интернеттің денсаулығы мен жекелігін сақтауды мақсат еткен коммерциялық емес { -brand-name-mozilla } ұйымы қолдайтын тегін { -brand-name-firefox } браузерін алыңыз. Қазір { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } және { -brand-name-ios } жүйелерінде қолжетімді.
+firefox-desktop-download-meta-desc-v2 = { -brand-name-firefox } браузерін { -brand-name-windows }, { -brand-name-mac-short } немесе { -brand-name-linux } жүйелері үшін алыңыз. { -brand-name-firefox } — бұл интернеттің денсаулығы мен жекелігіне арналған коммерциялық емес { -brand-name-mozilla } ұйымы қолдайтын тегін веб-браузер.
+firefox-desktop-download-og-title = Ең жылдам { -brand-name-firefox } жүктеп алыңыз
+firefox-desktop-download-og-desc = Беттерді жылдам жүктеу, жадты аз пайдалану және көптеген мүмкіндіктерге толы жаңа { -brand-name-firefox } қолжетімді.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 # Variables:
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
@@ -14,8 +24,14 @@ firefox-desktop-download-fast-reliable-private = Жылдам, сенімді ж
 firefox-desktop-set-as-default = { -brand-name-firefox } әдепкі браузер ретінде орнату.
 firefox-desktop-download-download-options = Жүктеп алу опциялары және басқа тілдер
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } қолдауы
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Желідегі әдеттегі істеріңізбен айналыса беріңіз.<br> { -brand-name-firefox-browser } сіздің <strong>қауіпсіздігіңізді қамтамасыз етеді</strong>.
+firefox-desktop-download-we-block-the-ad = Біз жарнама трекерлерін бұғаттаймыз. Сіз интернетті жылдамырақ шоласыз.
 firefox-desktop-download-ads-are-distracting = Жарнамалар назарды аударып, беттердің жүктелуін баяулатады, ал олардың трекерлері желідегі әрбір қадамыңызды аңдиды. { -brand-name-firefox-browser } трекерлердің көбін автоматты түрде бұғаттайды, сондықтан қауіпсіздік баптауларын қазып әуре болудың қажеті жоқ.
 firefox-desktop-download-see-your-report = Қорғаныс есебіңізді қараңыз
+firefox-desktop-download-for-everyone = { -brand-name-firefox } әркім үшін арналған
+firefox-desktop-download-available-in-over = 90-нан астам тілде қолжетімді және { -brand-name-windows }, { -brand-name-mac-short } және { -brand-name-linux } компьютерлерімен үйлесімді { -brand-name-firefox } сіз не қолданып жатсаңыз да немесе қай жерде болсаңыз да жұмыс істейді. Ең жақсы тәжірибе алу үшін операциялық жүйеңіздің жаңартылғанына көз жеткізіңіз.
+firefox-desktop-download-review-system-req = Жүйелік талаптарды қарап шығу
 firefox-desktop-download-all-your-devices = { -brand-name-firefox } барлық құрылғыларыңызға орнатыңыз
 firefox-desktop-download-take-your-privacy = Жекелігіңізді барлық жерде өзіңізбен бірге алып жүріңіз. { -brand-name-ios } және { -brand-name-android } жүйелеріне арналған { -brand-name-firefox-browsers } қай жерде болсаңыз да, бақылаушылардың соңыңыздан еріп отыруын бұғаттау үшін дәл сондай мықты жекелік баптауларына ие.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -96,6 +112,10 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } брау�
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Интернет дамып, өзгерген сайын { -brand-name-firefox } сіздің жекелік құқығыңызға назар аударуды жалғастырады — бұл әрқашан біздің басты ұстанымымыз болған. Деректермен жұмыс істеу ережелеріміз туралы толығырақ <a { $attrs }>Жекелік ескертуінен</a> біле аласыз.
+# Obsolete string (expires 19-09-2025)
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/
+firefox-desktop-download-as-the-internet = Интернет өсіп, өзгерген сайын, { -brand-name-firefox } сіздің жекелік құқығыңызға назар аударуды жалғастырады — біз оны <a { $attrs }>Жеке деректер уәдесі</a> деп атаймыз: Азырақ алу. Қауіпсіз сақтау. Құпиясыз. Сіздің деректеріңіз, желідегі белсенділігіңіз, онлайн өміріңіз { -brand-name-firefox } арқылы қорғалған.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } барлық құрылғыларыңызда қолжетімді; беттер, тарих пен бетбелгілеріңізді өзіңізбен бірге алып жүріңіз. Сізге тек <a { $attrs }>{ -brand-name-mozilla-account }</a> қажет, сонда сіз синхрондау мүмкіндігіне және басқа да { -brand-name-mozilla } өнімдеріне қол жеткізесіз.
@@ -113,15 +133,29 @@ firefox-desktop-download-questions = Сұрақтарыңыз бар ма? <a { 
 
 firefox-desktop-download-almost-there = Дайын болуға жақын!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Енді { -brand-name-firefox } <strong>орнатуды</strong> аяқтаңыз.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-windows = Енді жаңа ғана жүктелген орнату файлын <strong>іске қосыңыз</strong>.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Енді жаңа ғана жүктелген файлды <strong>ашыңыз</strong>.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Төмендегі <strong>жүктеп алу</strong> опциясын таңдаңыз
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Мәселелер бар ма? <a { $attrs }>Орнату бойынша көмек алыңыз</a>.
 firefox-desktop-download-in-another-language = Басқа тілде немесе басқа операциялық жүйе үшін жүктеп алыңыз.
+firefox-desktop-download-windows = { -brand-name-windows }
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Егер сіз орнатайын деп жатқан қолданба { -brand-name-microsoft } тарапынан расталмаған деген ескертуді көрсеңіз, «Бәрібір орнату» батырмасын басыңыз немесе <a { $attrs }>қолданбаларды ұсыну баптауларын өзгертіңіз</a>.
+firefox-desktop-download-visit-support-for-more = Толығырақ ақпарат алу үшін қолдау қызметі сайтын шолыңыз
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-firefox-new-should-begin = Жүктеу автоматты түрде басталуы тиіс. Жұмыс істемеді ме? <a id="{ $id }" href="{ $fallback_url }">Қайта жүктеп көріңіз.</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } браузерден де артық нәрсе.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
+firefox-desktop-download-interrupted = Жүктеуіңіз үзілді. Бірақ бәрі жоғалған жоқ.
+# Variables:
+#   $url (url) - link to https://www.firefox.com/download/all/
+firefox-desktop-download-your-system-may-not = Сіздің жүйеңіз { -brand-name-firefox } талаптарына сай келмеуі мүмкін, сіз <a href="{ $url }">келесі нұсқаларды</a> қолданып көре аласыз.

@@ -5,7 +5,10 @@
 
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
+firefox-new-download-firefox = { -brand-name-firefox } қолданбасын жүктеп алу
+firefox-new-download-the-fastest-firefox = Ең жылдам { -brand-name-firefox } жүктеп алыңыз
 firefox-new-mozilla = { -brand-name-mozilla }
+firefox-new-faster-page-loading-less-memory = Беттерді жылдам жүктеу, жадты аз пайдалану және көптеген мүмкіндіктерге толы жаңа { -brand-name-firefox } қолжетімді.
 firefox-new-get-the-latest-firefox = Ең соңғы { -brand-name-firefox } браузерін жүктеп алыңыз.
 firefox-new-free-web-browser = Еркін веб браузері
 firefox-new-advanced-install-options = Орнатудың қосымша мүмкіндіктері және басқа платформалар
@@ -24,8 +27,13 @@ firefox-new-download-interrupted = Жүктеуіңіз үзілді. Бірақ
 firefox-new-download-almost-there = Дайын болуға жақын!
 firefox-new-download-select-linux = Төмендегі жүктеу опциясын таңдаңыз
 # Variables:
+#   $url (url) - link to https://www.firefox.com/download/all/
+firefox-new-your-system-may-not = Сіздің жүйеңіз { -brand-name-firefox } талаптарына сай келмеуі мүмкін, сіз <a href="{ $url }">келесі нұсқаларды</a> қолданып көре аласыз.
+firefox-new-windows = { -brand-name-windows }
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Егер сіз орнатайын деп жатқан қолданба { -brand-name-microsoft } тарапынан расталмаған деген ескертуді көрсеңіз, «Бәрібір орнату» батырмасын басыңыз немесе <a { $attrs }>қолданбаларды ұсыну баптауларын өзгертіңіз</a>.
+firefox-new-visit-support-for-more = Толығырақ ақпарат алу үшін қолдау қызметі сайтын шолыңыз
 
 # Not-Required
 
@@ -36,3 +44,5 @@ firefox-new-if-you-see-a-prompt = Егер сіз орнатайын деп жа
 firefox-new-download-browser = { -brand-name-firefox-browser } жүктеп алу
 firefox-new-fast = Жылдам, жеке және тегін
 firefox-new-from-mozilla = { -brand-name-mozilla } ұсынған
+firefox-new-desc = { -brand-name-firefox-browser } — беттерді жылдам жүктейтін, жадты аз пайдаланатын және көптеген функциялары бар тегін веб-браузер. Бұл — коммерциялық емес { -brand-name-mozilla } ұйымының жобасы.
+firefox-new-download-a-different = Басқа платформа үшін немесе басқа тілде жүктеп алыңыз
