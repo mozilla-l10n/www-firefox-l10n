@@ -34,6 +34,16 @@ footer-compare = Салыстыру
 # Link to learn more, discover info about Firefox. Link points to
 # https://www-dev.springfield.moz.works/more/
 footer-learn = Үйрену
+footer-addons = Қосымшалар
+footer-blog = Блог
+
+## Links to social media
+
+# Section title
+footer-follow-us = Бізге жазылыңыз
+footer-instagram = Instagram
+footer-youtube = YouTube
+footer-tiktok = TikTok
 
 ## Legal links
 
@@ -43,6 +53,13 @@ footer-websites-cookie-policy = Cookie саясаты
 footer-community-participation-guidelines = Қауымдастыққа қатысу нұсқаулықтары
 footer-logo-trademark-licensing = Логотип сауда белгісін лицензиялау
 
+## Language Switcher
+
+footer-language = Тіл
+footer-go = Өту
+footer-firefox = { -brand-name-firefox }
+
 ## Mozilla branding
 
 footer-powdered-by = { -brand-name-mozilla } жасаған
+footer-putting-people = 1998 жылдан бері адамдарды табыстан жоғары қоюда

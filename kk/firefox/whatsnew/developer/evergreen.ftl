@@ -6,6 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/whatsnew/80.0a2/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
+firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } — бұл CSS Grid қолдауы және фреймворктерді жөндеу сияқты соңғы мүмкіндіктерді және озық әзірлеуші құралдарын ұсынатын өте жылдам браузер.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Не жаңалық бар екенін көру үшін <a { $attrs }>шығарылым ескертпесін</a> (тек ағылшын тілінде) қараңыз.
