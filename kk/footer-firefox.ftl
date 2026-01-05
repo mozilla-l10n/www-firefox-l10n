@@ -8,12 +8,19 @@
 # Section title
 footer-download = Жүктеп алу
 footer-download-auto = { -brand-name-firefox } жүктеп алу
+footer-windows = Windows
+footer-mac = Mac
+footer-ios = iOS
+footer-android = Android
+footer-linux = Linux
 footer-custom-download = Арнайы жүктеп алу нұсқалары
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
 # Section title
 footer-latest = Соңғы жинақтар
+footer-beta = { -brand-name-beta }
+footer-nightly = { -brand-name-nightly }
 
 ## Download links for enterprise versions of Firefox.
 
@@ -25,15 +32,20 @@ footer-enterprise = { -brand-name-enterprise }
 
 # Section title
 footer-community = Қауымдастық
+footer-contribute = Үлес қосу
+footer-developer = Әзірлеуші
+footer-connect = Байланысу
 
 ## Links to resources
 
 # Section title
 footer-resources = Ресурстар
 footer-compare = Салыстыру
+footer-release-notes = Шығарылым ескертпесі
 # Link to learn more, discover info about Firefox. Link points to
 # https://www-dev.springfield.moz.works/more/
 footer-learn = Үйрену
+footer-support = Қолдау
 footer-addons = Қосымшалар
 footer-blog = Блог
 
