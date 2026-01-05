@@ -6,3 +6,14 @@
 ### URL: https://www-dev.springfield.moz.works/features/private/
 
 features-private-is-firefox-a-private-browser = { -brand-name-firefox } — жекелікті сақтайтын браузер ме?
+# Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+features-private-firefox-also-protects-your = { -brand-name-firefox } сондай-ақ сіздің жекелігіңізді сайттан сайтқа соңыңыздан еріп, шолу әдеттеріңіз туралы ақпарат жинайтын трекерлерді бұғаттау үшін <a href="{ $url }">Бақылаудан кеңейтілген қорғаныс</a> функциясымен қорғайды. Ол сонымен қатар зиянды скрипттер мен зиянды бағдарламалардан қорғауды қамтиды.
+features-private-sidenote-we-are-not-big-tech = <em>Қосымша мәлімет:</em> Біз ірі технологиялық компания емеспіз. Біз бәрін басқаша істейміз. Тәуелсіз болуымыз (акционерлердің болмауы) бізге пайдадан бұрын адамдарды бірінші орынға қоюға мүмкіндік береді. Басқа компаниялардан айырмашылығымыз, біз сіздің деректеріңізге кіру рұқсатын сатпаймыз.
+features-private-what-information-does-firefox = { -brand-name-firefox } қандай ақпаратты жинайды?
+# Variables:
+#   $url (url) = link to https://www.mozilla.org/privacy/
+features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } ({ -brand-name-firefox } жасаушысы) жекелікке өте маңызды қарайды. <strong>Өте маңызды</strong>. Шын мәнінде, біз шығаратын әрбір { -brand-name-firefox } өнімі біздің <a href="{ $url }">Жеке деректер уәдемізге</a> сай келеді: Азырақ алу. Қауіпсіз сақтау. Құпияның болмауы.
+# Variables:
+#   $url (url) = link to https://www.mozilla.org/privacy/firefox/
+features-private-read-firefoxs-privacy-notice = Қосымша ақпарат алу үшін <a href="{ $url }">{ -brand-name-firefox } жекелік ескертуін</a> оқыңыз. Шын айтамыз, көріңіз. Ол қалыпты қаріппен жазылған және бәрі түсінікті.

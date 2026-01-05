@@ -5,10 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/mobile/ios/
 
+# HTML page title
+mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } және { -brand-name-ipad })
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 mobile-ios-get-firefox-for = { -brand-name-ios } үшін { -brand-name-firefox } алу
 mobile-ios-send-a-download-link-to-your = Жүктеп алу сілтемесін сіздің телефоныңызға жіберу.
 mobile-ios-scan-the-qr-code-to-get-started = Бастау үшін QR кодын сканерлеңіз
+mobile-ios-scan-alt-text = { -brand-name-ios } жүйесіне { -brand-name-firefox } алу үшін QR-кодты сканерлеңіз
 mobile-ios-make-firefox-your = { -brand-name-firefox } әдепкі браузеріңіз ету
 mobile-ios-now-iphone-and = Енді { -brand-name-iphone } және { -brand-name-ipad } пайдаланушылары әдепкі браузерді өздері таңдай алады. Бұл дегеніміз, сіз енді тек { -brand-name-safari } браузеріне байланып қалмайсыз және мобильді браузеріңізді компьютердегі таңдаулы браузеріңізбен синхрондалған күйде сақтай аласыз. Сонымен қатар, { -brand-name-firefox } браузерін әдепкі ретінде орнату арқылы сіз тәуелсіз технологиялық компанияға қолдау көрсетесіз. { -brand-name-firefox } — коммерциялық емес ұйым қолдайтын жалғыз ірі браузер.
 mobile-ios-fast-private-secure = Жылдам. Жеке. Тегін

@@ -56,3 +56,15 @@ firefox-home-the-internet-can = Тиісті қосымша <a { $theme_attrs }>
 
 firefox-home-billionaire-free = 20 жылдан астам уақыт бойы миллиардерлерге тәуелсіз
 firefox-home-firefox-was-created = { -brand-name-firefox } браузерін 2004 жылы { -brand-name-mozilla } компаниясы Internet Explorer сияқты браузерлерге қарағанда жылдамырақ, жеке әрі баптауға ыңғайлы балама ретінде жасап шығарды. Бүгінгі таңда біз әлі де коммерциялық емес ұйымбыз, әлі де ешбір миллиардерге тиесілі емеспіз және интернетті — әрі сіздің онда өткізетін уақытыңызды — жақсарту үшін жұмыс істеп келеміз.
+
+## Used as accessible alternative text for images.
+
+firefox-home-happy-toggle = Көңілді ауыстырып-қосқыш.
+firefox-home-multiple-cursors = Бірнеше курсор.
+firefox-home-lots-of-open = Көптеген ашық беттер.
+firefox-home-shield-and-hand = Браузер бетін қорғайтын қалқан мен қол.
+firefox-home-a-human-brain = Әлеммен байланысқан адам миы.
+firefox-home-desktop-laptop-and-phone = Жұмыс үстелі, ноутбук және телефон.
+firefox-home-browser-window-with-lock = Құлып және қалқан белгішелері бар браузер терезесі.
+firefox-home-firefox-in-dark = { -brand-name-firefox } қараңғы режимде.
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } жұмыс үстелінде.
