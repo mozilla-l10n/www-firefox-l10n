@@ -5,11 +5,18 @@
 
 ### URL: https://www-dev.springfield.moz.works/more/faq/
 
+# HTML page title
+firefox-faq = { -brand-name-firefox } бойынша жиі қойылатын сұрақтар (FAQ)
+whether-you-searched-privacy = Сіз жекелігіңізді қорғайтын жылдам браузер іздесеңіз де, бұл жиі қойылатын сұрақтар (FAQ) бөлімі { -brand-name-firefox } браузеріне қатысты ең маңызды сұрақтарға жауап беру үшін осында.
+whether-you-searched-independant = Сіз жылдам браузер іздесеңіз де немесе жекелігіңізді қорғайтын тәуелсіз технологияны іздесеңіз де, бұл жиі қойылатын сұрақтар (FAQ) бөлімі { -brand-name-firefox } браузеріне қатысты ең маңызды сұрақтарға жауап беру үшін осында.
+what-is-firefox = { -brand-name-firefox } дегеніміз не?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+the-firefox-browser-the-only = { -brand-name-firefox-browser } — коммерциялық емес ұйым қолдау көрсететін жалғыз ірі браузер, ол жеке ақпаратыңызды қорғауға көмектеседі. <a href="{ $url }">{ -brand-name-firefox-browsers }</a> және <a href="{ $url2 }">басқа өнімдер</a> туралы көбірек біліңіз.
+how-do-i = { -brand-name-firefox-browser } браузерін қалай алуға болады?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -18,18 +25,31 @@
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = Сіз { -brand-name-firefox } компьютерлік браузерін <a href="{ $url }">осы жерден</a> оңай жүктеп ала аласыз. { -brand-name-firefox } <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> және <a href="{ $url4 }">{ -brand-name-linux }</a> құрылғыларында жұмыс істейді, сонымен қатар <a href="{ $url5 }">{ -brand-name-android } және { -brand-name-ios }</a> үшін де қолжетімді. Браузерімізді тек сенімді { -brand-name-mozilla }/{ -brand-name-firefox } беттерінің бірінен жүктеп жатқаныңызға көз жеткізіңіз.
+is-firefox-free = { -brand-name-firefox } тегін бе?
+yep-the-firefox-browser-is-free = Иә! { -brand-name-firefox-browser } браузері тегін. Шын мәнінде, мүлдем тегін. Жасырын төлемдер немесе басқа ештеңе жоқ. Оны пайдалану үшін ештеңе төлемейсіз.
+related-questions-free = Қатысты сұрақтар: { -brand-name-firefox-browser } тегін бе, { -brand-name-firefox } ақша тұра ма?
+is-chrome-better = { -brand-name-chrome } { -brand-name-firefox } браузерінен жақсырақ па?
+no-we-dont = Жоқ, біз { -brand-name-chrome } браузерін { -brand-name-firefox } браузерінен жақсы деп санамаймыз және оның себебі мынада: адамдар қай браузер жақсырақ деп сұрағанда, олар шын мәнінде қай браузер жылдамырақ және қауіпсізірек екенін сұрайды. { -brand-name-firefox } ай сайын жаңартылып отырады, бұл сіздің жекелігіңізді автоматты түрде құрметтейтін ең жылдам браузерді пайдалануыңызды қамтамасыз етеді.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">{ -brand-name-firefox } пен { -brand-name-chrome } салыстыруын көріңіз.</a>
+related-questions-better = Тиісті сұрақтар: { -brand-name-firefox } { -brand-name-chrome } браузерінен жақсы ма, { -brand-name-firefox } { -brand-name-google } іздеу жүйесінен жақсы ма, { -brand-name-firefox } { -brand-name-chrome } браузеріне қарағанда қауіпсіз бе, { -brand-name-firefox } { -brand-name-chrome } браузеріне қарағанда жекелікке көбірек мән бере ме
+is-firefox-safe-download = { -brand-name-firefox } браузерін жүктеп алу қауіпсіз бе?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Сіздің жекелігіңізді қорғау — біздің басты міндетіміз, сондықтан { -brand-name-firefox } браузерін құрылғыларыңызға орнату толығымен қауіпсіз екеніне кепілдік береміз — бірақ әрқашан біздің <a href="{ $url }">жүктеп алу бетіміз</a> сияқты сенімді { -brand-name-mozilla }/{ -brand-name-firefox } сайтынан жүктеп жатқаныңызға көз жеткізіңіз.
+is-firefox-safe = { -brand-name-firefox } қауіпсіз бе?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
+not-only-is = { -brand-name-firefox } қолдану қауіпсіз ғана емес, ол сонымен қатар деректеріңіз бен жеке ақпаратыңызды қауіпсіз сақтауға көмектеседі. { -brand-name-firefox-browser } автоматты түрде белгілі үшінші тарап трекерлерін, әлеуметтік желі трекерлерін, криптомайнерлер мен фингерпринтерлердің деректеріңізді жинауын бұғаттайды. <a href="{ $url }">Өнімдеріміздегі жекелік туралы көбірек біліңіз.</a>
+related-questions-safe = Тиісті сұрақтар: { -brand-name-firefox } жекелік үшін тиімді ма, { -brand-name-firefox } қауіпсіз бе, { -brand-name-firefox } жекелік үшін жақсы ма
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
