@@ -30,6 +30,9 @@ firefox-enterprise-documentation-and-community = Dokumentacija in podpora skupno
 firefox-enterprise-sample-plist-for-configuration = Vzorčni <a href="{ $url }">plist za konfiguracijski profil</a>
 firefox-enterprise-pkg-installer = Namestitveni program PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } (32-bitni)
+# Variables:
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
+firefox-enterprise-download-firefox-or-esr = Prenesite { -brand-name-firefox } ali { -brand-name-firefox-esr } za <a { $firefox_all }>drug jezik ali platformo</a>.
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-early-access-is = Predčasni dostop je zdaj odprt za naš novi program podpore, ki se začenja januarja 2026. Namenjen je organizacijam, ki uporabljajo { -brand-name-firefox } za zagotavljanje varnosti, odpornosti in suverenosti podatkov. Program ponuja zasebno, zanesljivo in prilagojeno podporo za obsežne namestitve.
 firefox-enterprise-contact-sales = Kontaktirajte prodajo
