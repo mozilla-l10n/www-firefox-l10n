@@ -28,3 +28,9 @@ password-manager-have-firefox-create-a-strong-unique = Her sitedeki hesabınız 
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = { -brand-name-firefox }’ta bir web sitesinin kayıt formunun ve otomatik olarak saklanacak güçlü bir parola önerisinin görüntüsü.
 password-manager-password-security-alerts = Parola güvenliği uyarıları
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
+# "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
+password-manager-firefox-alerts-you-if-a-password-has = Veri ihlallerinde parolanız ele geçirilirse { -brand-name-firefox } <a { $attrs }>sizi uyarır</a>. Böylece hacker’lar kredi kartınızla alışveriş yapamadan parolanızı değiştirme şansınız olur.
+# Used as an accessible text alternative for an image
+password-manager-image-of-the-firefox-password-manager = { -brand-name-firefox } parola yöneticisinin “Bu parolayı veri ihlaline uğramış olan başka bir hesapta da kullanmışsınız. Aynı parolayı farklı yerlerde kullanmak tüm hesaplarınızı risk altına sokar. Bu parolayı değiştirin.” uyarısını gösterdiği bir görüntü.
