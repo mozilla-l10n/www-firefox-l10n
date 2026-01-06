@@ -17,6 +17,7 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser(zacetnica: "v
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser(zacetnica: "velika") } – namestitveni program MSI
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) – namestitveni program MSI
+firefox-enterprise-resources = Viri
 firefox-enterprise-msi-installers = Namestitveni programi MSI
 firefox-enterprise-legacy-browser-support = Podpora za starejše brskalnike
 firefox-enterprise-admx-templates = Predloge ADMX
