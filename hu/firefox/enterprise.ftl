@@ -6,19 +6,19 @@
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 # Page title
-firefox-enterprise-use-firefox-esr-enterprise-browser = Használja a(z) { -brand-name-firefox } vagy { -brand-name-esr } böngészőt vállalati böngészőként, a léptékű biztonság érdekében
+firefox-enterprise-use-firefox-esr-enterprise-browser = Használja a { -brand-name-firefox } vagy az { -brand-name-esr } böngészőt vállalati böngészőként, a nagy léptékű biztonság érdekében
 # Page description
-firefox-enterprise-open-source-browser-with-enterprise-security = A { -brand-name-firefox } a nyílt forráskódú böngésző vállalati szintű biztonsággal, adatvédelemmel és rugalmassággal. Használjon { -brand-name-firefox }-t a legújabb funkciókért, vagy { -brand-name-esr }-t a hosszú távú stabilitásért.
+firefox-enterprise-open-source-browser-with-enterprise-security = A { -brand-name-firefox } a nyílt forráskódú böngésző vállalati szintű biztonsággal, adatvédelemmel és rugalmassággal. Használjon { -brand-name-firefox }ot a legújabb funkciókért, vagy az { -brand-name-esr }-t a hosszú távú stabilitásért.
 firefox-enterprise-brand-name = { -brand-name-enterprise }
-firefox-enterprise-use-as-your-enterprise-browser = Használja a(z) { -brand-name-firefox } böngészőt vállalati böngészőként
-firefox-enterprise-secure-at-scale = A(z) { -brand-name-firefox } nagyszabású, biztonságos, rugalmas és adatvédelemre fókuszáló böngészést nyújt. A { -brand-name-firefox } vagy { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) vállalati házirendekkel a szervezetek rugalmasságot, irányítást és átláthatóságot kapnak egy megbízható, nyílt forráskódú böngészőben.
-firefox-enterprise-protection-powered-by = Vállalati szintű védelem, a motoros { -brand-name-firefox }
-firefox-enterprise-open-source-transparency = A(z) { -brand-name-firefox } egyesíti a nyílt forráskódú átláthatóságot a fejlett biztonsági funkciókkal és a gyakori frissítésekkel, hogy segítsen megvédeni a szervezete adatait.
+firefox-enterprise-use-as-your-enterprise-browser = Használja a { -brand-name-firefox } böngészőt vállalati böngészőként
+firefox-enterprise-secure-at-scale = A { -brand-name-firefox } biztonságos, rugalmas és adatvédelemre fókuszáló böngészést nyújt. A { -brand-name-firefox } vagy a { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) a vállalati házirendeknek köszönhetően a szervezetek rugalmasságot, irányítást és átláthatóságot biztosító, megbízható nyílt forráskódú böngészőt kapnak.
+firefox-enterprise-protection-powered-by = Vállalati szintű védelem, a { -brand-name-firefox }ra építve
+firefox-enterprise-open-source-transparency = A { -brand-name-firefox } egyesíti a nyílt forráskódú átláthatóságot a fejlett biztonsági funkciókkal és a gyakori frissítésekkel, hogy segítsen megvédeni szervezete adatait.
 firefox-enterprise-your-browser-your-business = Az Ön böngészője, az Ön üzlete
 firefox-enterprise-deploy-when-and-how-you-want = Telepítse akkor és ahogy szeretné
-firefox-enterprise-install-packages-policies = A telepítőcsomagokkal és a széleskörű csoportházirendekkel és szolgáltatásokkal a telepítés gyorsabb és rugalmasabb mint valaha – és pofonegyszerű Windows, Linux és macOS környezetben.
+firefox-enterprise-install-packages-policies = A telepítőcsomagokkal és a széles körű csoportházirendekkel és szolgáltatásokkal a telepítés gyorsabb és rugalmasabb mint valaha – és pofonegyszerű Windows, Linux és macOS környezetben.
 firefox-enterprise-release-cycles = A szervezetéhez illő kiadási ciklusok
-firefox-enterprise-choose-firefox-for-features-esr-stability = Válassza a(z) { -brand-name-firefox } összeget a legújabb funkciókért és négyhetenkénti stabil kiadásokért, vagy a { -brand-name-firefox-esr }-ot a hosszú távú stabilitásért, a rendszeres biztonsági frissítésekért és a főbb éves kiadásokért.
+firefox-enterprise-choose-firefox-for-features-esr-stability = Válassza a { -brand-name-firefox }ot a legújabb funkciókért és négyhetenkénti stabil kiadásokért, vagy a { -brand-name-firefox-esr }-t a hosszú távú stabilitásért, a rendszeres biztonsági frissítésekért és az évenkénti főverziókért.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } letöltések
 firefox-enterprise-windows-64-bit = 64 bites { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
