@@ -8,20 +8,20 @@
 
 ## Intro
 
-firefox-home-take-control = Tome o controlo da sua Internet
-firefox-home-go-online = Vá online com menos distrações, som e stress. Pense em nós como uma lufada de ar novo.
+firefox-home-take-control = Assuma o controlo da sua Internet
+firefox-home-go-online = Aceda à Internet com menos distrações, ruído e stress. Pense em nós como uma lufada de ar fresco.
 firefox-home-set-firefox-as = Definir o { -brand-name-firefox } como o seu navegador predefinido.
 
 ## What's new
 
 # accessible section heading
-firefox-home-latest-features = Últimas { -brand-name-firefox } funcionalidades
-firefox-home-dial-down = Diminua o som
-firefox-home-block-ads = Bloqueie anúncios e melhore a sua privacidade com definições personalizáveis e uma grande quantidade de extensões transferíveis.
-firefox-home-multitasking = Multitasking?
-firefox-home-go-into-reading = Entre no modo de leitura, destaque vídeos e seja mais organizado com separadores vertical e grupos de separadores.
-firefox-home-keep-tabs-on = Mantenha separadores em todos os seus separadores
-firefox-home-close-duplicates = Feche duplicados, pesquise e fixe separadores abertos — existem possibilidades quase infinitas para o número quase ilimitado de separadores que tem aberto.
+firefox-home-latest-features = Últimas funcionalidades do { -brand-name-firefox }
+firefox-home-dial-down = Reduza o ruído
+firefox-home-block-ads = Bloqueie anúncios e aumente a sua privacidade com opções personalizáveis e inúmeras extensões que pode descarregar
+firefox-home-multitasking = Múltiplas tarefas?
+firefox-home-go-into-reading = Ative o modo de leitura, destaque vídeos em janelas separadas e organize-se melhor com separadores verticais e grupos de separadores.
+firefox-home-keep-tabs-on = Mantenha o controlo de todos os seus separadores
+firefox-home-close-duplicates = Feche separadores duplicados, pesquise e fixe os que estão abertos — as possibilidades são praticamente infinitas para o número quase ilimitado de separadores que tem abertos.
 firefox-home-see-release = Ver notas de lançamento
 
 ## Features
