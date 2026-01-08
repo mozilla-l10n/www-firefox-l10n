@@ -14,3 +14,4 @@ pdf-editor-view-and-edit-pdf-files-right-in = Wali sakin ẓreg ifuyla PDF srid 
 pdf-editor-add-text = Rnu aḍris
 pdf-editor-add-image-with-alt-text = Rnu tugna s uḍris amlellay
 pdf-editor-create-a-highlight = Snulfu-d asebṛureq
+pdf-editor-add-a-comment = Rnu iwenniten

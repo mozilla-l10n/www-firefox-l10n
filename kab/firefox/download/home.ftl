@@ -24,6 +24,7 @@ firefox-home-learn-data-protection = Lmed ugar ɣef amek { -brand-name-firefox }
 
 ## Used as accessible alternative text for images.
 
+firefox-home-firefox-on-desktop = { -brand-name-firefox } i tnarit akked uziraz.
 firefox-home-lots-of-open = Aṭas n waccaren yeldin.
 firefox-home-a-human-brain = Allaɣ n wemdan yeqqnen ar umaḍal.
 firefox-home-desktop-laptop-and-phone = Aselkim n tnarit, n wufus akked tiliɣri.

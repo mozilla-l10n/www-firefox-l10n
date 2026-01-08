@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+firefox-enterprise-use-as-your-enterprise-browser = Err { -brand-name-firefox } d iminig n tkebbanit-inek
 firefox-enterprise-deploy-when-and-how-you-want = Sers melmi d wamek tebɣiḍ
 firefox-enterprise-enterprise-downloads = Sider { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-ibiten
@@ -14,6 +15,7 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - asebdadMSI
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - asebdad MSI
+firefox-enterprise-resources = Tiɣbula
 firefox-enterprise-msi-installers = Imsebdaden MSI
 firefox-enterprise-legacy-browser-support = Tallelt n yiminig aqbur
 firefox-enterprise-admx-templates = Tineɣrufin ADMX
