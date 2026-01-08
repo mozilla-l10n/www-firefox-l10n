@@ -8,6 +8,8 @@
 whatsnew-page-description = Bedd mgal asnulfu yesnuzuen isefka-inek i wiyaḍ. Qqim tḥerceḍ, d aɣelsan deg internet s tetiknulujit i yesseḥbibiren fell-ak.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = { -brand-name-firefox } inek·inem yettwaleqqem.
+# An accessible label for a QR code image
+whatsnew-qr-code-alt = Semḍen Tangalt-a QR
 # Variables:
 #   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = Wali<a { $url }>tizmilin n lqem</a> akken ad tissineḍ ugar ɣef umaynut n yiminig-ik { -brand-name-firefox }.

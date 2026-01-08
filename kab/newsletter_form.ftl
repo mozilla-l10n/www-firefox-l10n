@@ -29,6 +29,8 @@ newsletter-form-sign-up-now = Kcem tura
 newsletter-form-thanks = Tanemmirt!
 newsletter-form-yes = Ih
 newsletter-form-no = Uhu
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Tuzzna
 multi-newsletter-form-checkboxes-legend = Bɣiɣ talɣut ɣef:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
