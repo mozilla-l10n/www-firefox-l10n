@@ -14,6 +14,6 @@ whatsnew-download-firefox-for-your = Скачайте { -brand-name-firefox } н
 whatsnew-qr-code-alt = Просканируйте этот QR-код
 # Variables:
 #   $url (url) - link to https://www.firefox.com/firefox/notes/
-whatsnew-release-notes = Прочитайте <a { $url }>Примечания к выпуску</a> и узнайте больше о том, что нового в вашем { -brand-name-firefox }.
+whatsnew-release-notes = Прочитайте <a { $url }>примечания к выпуску</a> и узнайте больше о том, что нового в вашем { -brand-name-firefox }.
 whatsnew-signoff = <strong>Создано { -brand-name-mozilla }.</strong> Ставим людей выше прибыли с 1998 года.
 whatsnew-donate-to-mofo = Пожертвуйте { -brand-name-mozilla-foundation }
