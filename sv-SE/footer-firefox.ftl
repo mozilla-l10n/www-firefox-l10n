@@ -69,6 +69,7 @@ footer-logo-trademark-licensing = Varumärkeslicens för logotyper
 
 footer-language = Språk
 footer-go = Gå
+footer-ask-question = Ställ en fråga till oss!
 footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
