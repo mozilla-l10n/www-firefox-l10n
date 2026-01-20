@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Provoni veçoritë më të rej
 firefox-channel-all-languages-and-platforms = Krejt Gjuhët dhe Platformat
 firefox-channel-all-languages-and-builds = Krejt Gjuhët dhe Montimet
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } është një platformë e paqëndrueshme testimi dhe zhvillimi. Si parazgjedhje, { -brand-name-beta } dërgon të dhëna te { -brand-name-mozilla } — dhe ndonjëherë edhe te parterë tanët — për të na ndihmuar të trajtojmë probleme dhe të provojmë ide. <a href="{ $link }">Mësoni se ç’ndahet me të tjerët</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } i dërgon vetvetiu të dhëna { -brand-name-mozilla }-s.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Jepnani ide dhe përshtypje</a> që të na ndihmoni të kryejmë përimtimet përfundimtare për funksionimin në një mjedis stabël.
 firefox-channel-check-out-new-android-features = Provojini veçoritë e reja për { -brand-name-android } që në fazën e tyre të hershme. Por qari dhe zarari juaj.
 firefox-channel-nightly-blog = Blog për montimet { -brand-name-nightly }
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } është një platformë e paqëndrueshme testimesh dhe zhvillimi. Si parazgjedhje, { -brand-name-nightly } dërgon të dhëna te { -brand-name-mozilla } — dhe me raste edhe te partnerë tanët — për të na ndihmuar të trajtojmë probleme dhe të provojmë ide. <a href="{ $link }">Mësoni se ç’ndahet me të tjerët</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } i dërgon vetvetiu të dhëna { -brand-name-mozilla }-s.
 firefox-channel-experience-cutting-edge-desktop = Shihni veçoritë e fjalës së fundit, me një version paraqarkullim të shfletuesit: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta }, Firefox Aurora dhe { -brand-name-firefox-nightly }. Shkarkojeni që tani!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = Montime të Dikurshme { -brand-name-ni
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Montoni, provoni, përshkallëzoni, etj me shfletuesin e vetëm të krijuar për zhvilluesit.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } është një platformë e paqëndrueshme testimesh dhe zhvillimi. Si parazgjedhje, { -brand-name-developer-edition } dërgon të dhëna te { -brand-name-mozilla } — dhe me raste edhe te partnerë tanët — për të na ndihmuar të trajtojmë probleme dhe të provojmë ide. <a href="{ $link }">Mësoni se ç’ndahet me të tjerët</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } i dërgon vetvetiu të dhëna { -brand-name-mozilla }-s.
 firefox-channel-nightly = { -brand-name-nightly }

@@ -20,7 +20,7 @@ firefox-channel-all-languages-and-platforms = అన్ని భాషలు, �
 firefox-channel-all-languages-and-builds = అన్ని భాషలు, బిల్డులు
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } స్వయంచాలకంగా { -brand-name-mozilla } కు నివేదికను పంపుతుంది.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = స్థిరమైన వాతావరణంలో పనితనం మరియు సౌలభ్యాలకు తుది మెరుగులు దిద్దేందుకు తోడ్పడటానికి <a rel="external" href="{ $feedback }"> మాకు మీ ప్రతిస్పందనను తెలియజేయండి</a>.
 firefox-channel-check-out-new-android-features = సరికొత్త { -brand-name-android } లక్షణాలను ప్రారంభ దశలోనే తనిఖీ చేయండి. మీ సొంత ప్రయోగంతో అనుభవించండి.
 firefox-channel-nightly-blog = { -brand-name-nightly } బ్లాగు

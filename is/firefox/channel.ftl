@@ -22,7 +22,7 @@ firefox-channel-all-languages-and-platforms = Öll tungumál og útgáfur
 firefox-channel-all-languages-and-builds = Öll tungumál og útgáfur
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } sendir sjálfkrafa upplýsingar til { -brand-name-mozilla }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Sendu inn þína skoðun</a> og hjálpaðu til með að fínstilla afköst og eiginleika.
 firefox-channel-check-out-new-android-features = Kíktu á nýja hluti í { -brand-name-android } sem eru ennþá á byrjunarstigi. Prófaðu samt bara á þína eigin ábyrgð.
 firefox-channel-nightly-blog = { -brand-name-nightly } bloggið

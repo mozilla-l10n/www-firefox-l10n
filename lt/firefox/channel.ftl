@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Išbandykite šviežiausias �
 firefox-channel-all-languages-and-platforms = Visos kalbos ir platformos
 firefox-channel-all-languages-and-builds = Visos kalbos ir platformos
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = „{ -brand-name-beta }“ yra nestabili programa, skirta testuotojams ir programuotojams. Numatytuoju atveju „{ -brand-name-beta }“ siunčia duomenis „{ -brand-name-mozilla }i“ – ir kartais mūsų partneriams – taip padėdama mums spręsti problemas ir išbandyti naujas idėjas. <a href="{ $link }">Sužinkokite, kokia informacija siunčiama</a>.
 firefox-channel-firefox-beta-automatically = „{ -brand-name-firefox-beta }“ automatiškai siunčia informaciją „{ -brand-name-mozilla }i“.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Palikite savo atsiliepimą</a> – taip padėsite mums sudėlioti paskutinius taškus ant „i“ stabilioje aplinkoje.
 firefox-channel-check-out-new-android-features = Išbandykite „Firefox“ „{ -brand-name-android }“ įrenginiams naujoves ankstyviausioje stadijoje. Rizikuokite atsakingai.
 firefox-channel-nightly-blog = „{ -brand-name-nightly }“ tinklaraštis
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = „{ -brand-name-nightly }“ yra nestabili programa, skirta testuotojams ir programuotojams. Numatytuoju atveju „{ -brand-name-nightly }“ siunčia duomenis „{ -brand-name-mozilla }i“ – ir kartais mūsų partneriams – taip padėdama mums spręsti problemas ir išbandyti naujas idėjas. <a href="{ $link }">Sužinkokite, kokia informacija siunčiama</a>.
 firefox-channel-firefox-nightly-automatically = „{ -brand-name-firefox-nightly }“ automatiškai siunčia informaciją „{ -brand-name-mozilla }i“.
 firefox-channel-experience-cutting-edge-desktop = Išbandykite pačias šviežiausias naujoves negalutinėse „Firefox“ naršyklės versijose: „{ -brand-name-firefox-developer-edition }“, „{ -brand-name-firefox-beta }“ ir „{ -brand-name-firefox-nightly }“. Parsisiųskite dabar!
@@ -41,7 +41,7 @@ firefox-channel-release-notes = Laidos apžvalga
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Kurkite ir testuokite, naudodamiesi vienintele naršykle, kuriama būtent programuotojams.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = „{ -brand-name-developer-edition }“ yra nestabili programa, skirta testuotojams ir programuotojams. Numatytuoju atveju „{ -brand-name-developer-edition }“ siunčia duomenis „{ -brand-name-mozilla }i“ – ir kartais mūsų partneriams – taip padėdama mums spręsti problemas ir išbandyti naujas idėjas. <a href="{ $link }">Sužinkokite, kokia informacija siunčiama</a>.
 firefox-channel-firefox-developer-edition = „{ -brand-name-firefox-developer-edition }“ automatiškai siunčia informaciją „{ -brand-name-mozilla }i“.
 firefox-channel-nightly = { -brand-name-nightly }

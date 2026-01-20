@@ -21,7 +21,7 @@ firefox-channel-try-the-latest-android-features = Bain triail as na gnéithe is 
 firefox-channel-all-languages-and-builds = Gach Teanga agus Leagan
 firefox-channel-firefox-beta-automatically = Seolfaidh { -brand-name-firefox-beta } aiseolas chuig { -brand-name-mozilla } go huathoibríoch.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Tabhair aiseolas dúinn</a> chun cabhrú linn an dlaoi mhullaigh a chur ar fheidhmíocht an bhrabhsálaí i dtimpeallacht chobhsaí.
 firefox-channel-check-out-new-android-features = Bain triail as na gnéithe is nuaí ar { -brand-name-android }, ar do phriacal féin.
 firefox-channel-nightly-blog = Blag Firefox { -brand-name-nightly }

@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Ən son { -brand-name-android 
 firefox-channel-all-languages-and-platforms = Bütün Dil və Platformalar
 firefox-channel-all-languages-and-builds = Bütün Dil və Buraxılışlar
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } stabil olmayan və tərtibat platformasıdır. İlkin vəziyyətdə { -brand-name-beta } { -brand-name-mozilla }ya məlumat göndərir — bəzən də partnyorlarımıza — bu da xətaları tapmağımıza və yeni fikirləri yoxlamağımıza imkan verir. <a href="{ $link }">Nələrin paylaşıldığını öyrənin</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } avtomatik olaraq { -brand-name-mozilla }-ya əks-əlaqə göndərir.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = Məhsuldarlıq və funksionallıq üzərində son toxunuşlar etməyimiz üçün təhlükəsiz bir mühitdə bizə <a rel="external" href="{ $feedback }">Rəy bildirin</a>.
 firefox-channel-check-out-new-android-features = Yeni { -brand-name-android } özəlliklərini ilk mərhələlərdə yoxlayın. Əyləncəli və riskli ola bilər.
 firefox-channel-nightly-blog = { -brand-name-nightly } Bloq
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } stabil olmayan və tərtibat platformasıdır. İlkin vəziyyətdə { -brand-name-nightly } { -brand-name-mozilla }ya məlumat göndərir — bəzən də partnyorlarımıza — bu da xətaları tapmağımıza və yeni fikirləri yoxlamağımıza imkan verir. <a href="{ $link }">Nələrin paylaşıldığını öyrənin</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } avtomatik olaraq { -brand-name-mozilla }-ya əks-əlaqə göndərir.
 firefox-channel-experience-cutting-edge-desktop = Ən son əlavə edilən özəllikləri hələ tamamlanmamış buraxılışlarımızda yoxlayın: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } və { -brand-name-firefox-nightly }-ni indi endirin!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = Əvvəlki { -brand-name-nightly } bura
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Tərtibatçılar üçün hazırlanmış tək səyyahla interneti inşa edin, test edin, ölçüləndirin.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } stabil olmayan və tərtibat platformasıdır. İlkin vəziyyətdə { -brand-name-developer-edition } { -brand-name-mozilla }ya məlumat göndərir — bəzən də partnyorlarımıza — bu da xətaları tapmağımıza və yeni fikirləri yoxlamağımıza imkan verir. <a href="{ $link }">Nələrin paylaşıldığını öyrənin</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } avtomatik olaraq { -brand-name-mozilla }-ya əks-əlaqə göndərir.
 firefox-channel-nightly = { -brand-name-nightly }

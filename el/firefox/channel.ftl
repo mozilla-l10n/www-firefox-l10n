@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Δοκιμάστε τις νε
 firefox-channel-all-languages-and-platforms = Όλες οι γλώσσες και οι πλατφόρμες
 firefox-channel-all-languages-and-builds = Όλες οι γλώσσες και οι εκδόσεις
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = Το { -brand-name-beta } είναι μια ασταθής, δοκιμαστική πλατφόρμα ανάπτυξης. Από προεπιλογή, το { -brand-name-beta } στέλνει δεδομένα στη { -brand-name-mozilla } (και, κάποιες φορές, στους συνεργάτες μας) για την επίλυση προβλημάτων και τη δοκιμή νέων ιδεών. <a href="{ $link }">Μάθετε ποια δεδομένα συλλέγονται</a>.
 firefox-channel-firefox-beta-automatically = Το { -brand-name-firefox-beta } στέλνει αυτομάτως σχόλια στη { -brand-name-mozilla }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Στείλτε μας σχόλια</a> για να μας βοηθήσετε να τελειοποιήσουμε τις επιδόσεις και τις λειτουργίες σε ένα σταθερό περιβάλλον.
 firefox-channel-check-out-new-android-features = Δείτε τα νέες λειτουργίες για το { -brand-name-android } στα πρωταρχικά στάδια. Δοκιμάστε με δική σας ευθύνη.
 firefox-channel-nightly-blog = { -brand-name-nightly } Blog
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = Το { -brand-name-nightly } είναι μια ασταθής, δοκιμαστική πλατφόρμα ανάπτυξης. Από προεπιλογή, το { -brand-name-nightly } στέλνει δεδομένα στη { -brand-name-mozilla } (και, κάποιες φορές, στους συνεργάτες μας) για την επίλυση προβλημάτων και τη δοκιμή νέων ιδεών. <a href="{ $link }">Μάθετε ποια δεδομένα συλλέγονται</a>.
 firefox-channel-firefox-nightly-automatically = Το { -brand-name-firefox-nightly } στέλνει αυτομάτως σχόλια στη { -brand-name-mozilla }.
 firefox-channel-experience-cutting-edge-desktop = Πειραματιστείτε με τα πιο σύγχρονα χαρακτηριστικά στις προ-εκδόσεις: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } και { -brand-name-firefox-nightly }. Λήψη τώρα!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = Προηγούμενες εκδόσε�
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Δημιουργήστε, εκτελέστε δοκιμές, κάντε μετρήσεις και πολλά άλλα στο μόνο πρόγραμμα περιήγησης για προγραμματιστές.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = Το { -brand-name-developer-edition } είναι μια ασταθής, δοκιμαστική πλατφόρμα ανάπτυξης. Από προεπιλογή, το { -brand-name-developer-edition } στέλνει δεδομένα στη { -brand-name-mozilla } (και, κάποιες φορές, στους συνεργάτες μας) για την επίλυση προβλημάτων και τη δοκιμή νέων ιδεών. <a href="{ $link }">Μάθετε ποια δεδομένα συλλέγονται</a>.
 firefox-channel-firefox-developer-edition = Το { -brand-name-firefox-developer-edition } στέλνει αυτομάτως σχόλια στη { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }

@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Iskušaj najnovije funkcije { 
 firefox-channel-all-languages-and-platforms = Svi jezici i platforme
 firefox-channel-all-languages-and-builds = Svi jezici i izgradnje
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } je nestabilna platforma za testiranje i razvoj. { -brand-name-beta } standardno šalje podatke organizaciji { -brand-name-mozilla } – i ponekad našim partnerima – kako bi nam pomogli brže riješiti probleme i isprobati ideje. <a href="{ $link }">Saznaj koji se podaci dijele</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } automatski šalje povratne informacije organizaciji { -brand-name-mozilla }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Pošalji nam povratne informacije</a> koje će nam pomoći usavršiti performance i funkcionalnost u stabilnom okruženju.
 firefox-channel-check-out-new-android-features = Isprobaj nove { -brand-name-android } funkcije u njihovim najranijim fazama. Uživaj na vlastitu odgovornost.
 firefox-channel-nightly-blog = { -brand-name-nightly } blog
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } je nestabilna platforma za testiranje i razvoj. { -brand-name-nightly } standardno šalje podatke organizaciji { -brand-name-mozilla } – i ponekad našim partnerima – kako bi nam pomogli brže riješiti probleme i isprobati ideje. <a href="{ $link }">Saznaj koji se podaci dijele</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } automatski šalje povratne informacije organizaciji { -brand-name-mozilla }.
 firefox-channel-experience-cutting-edge-desktop = Iskusi vrhunske funkcije preglednika u verzijama predizdanja: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } i { -brand-name-firefox-nightly }. Preuzmi sada!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = Prethodne { -brand-name-nightly } verz
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Izgradi, testiraj, povećaj itd. s jedinim preglednikom, koji je napravljen samo za programere.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } je nestabilna platforma za testiranje i razvoj. { -brand-name-developer-edition } standardno šalje podatke organizaciji { -brand-name-mozilla } – i ponekad našim partnerima – kako bi nam pomogli brže riješiti probleme i isprobati ideje. <a href="{ $link }">Saznaj koji se podaci dijele</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } automatski šalje povratne informacije organizaciji { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }

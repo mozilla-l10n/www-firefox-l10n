@@ -16,7 +16,7 @@ firefox-channel-try-the-latest-android-features = { -brand-name-android } alhaal
 firefox-channel-all-languages-and-builds = Šenney nda cinarey kul
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } cinakaw wallafiyan dumi ka willandiyan sanba { -brand-name-mozilla } do nga boŋ se.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Willandi ir se</a> k'ir gaa ka goysahã nda korošiyan kokorantey tee ka boori goy windila tabatante ra.
 firefox-channel-check-out-new-android-features = { -brand-name-android } alhaali tejey guna za ngey kaaroo ga. Guna nda boŋ-laasaabay.
 firefox-channel-download-and-test-the-latest-desktop = { -brand-name-firefox } alhaali kokorantey zumandi k'i šii ordinater { -brand-name-firefox } nda { -brand-name-developer-edition }, { -brand-name-beta } nda { -brand-name-nightly } dumi tejey ga.

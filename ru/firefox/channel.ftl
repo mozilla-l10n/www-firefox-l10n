@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Попробуйте нове�
 firefox-channel-all-languages-and-platforms = Все языки и платформы
 firefox-channel-all-languages-and-builds = Все языки и сборки
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } — это нестабильная платформа для тестирования и разработки. По умолчанию { -brand-name-beta } отправляет данные в { -brand-name-mozilla }, а иногда и нашим партнёрам, чтобы помочь нам справиться с проблемами и попробовать идеи. <a href="{ $link }">Узнайте, какие данные отправляются</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } автоматически осуществляет обратную связь с { -brand-name-mozilla }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Отправляйте нам отзывы</a>, чтобы помочь нам внести последние штрихи в производительность и функциональность в стабильной среде.
 firefox-channel-check-out-new-android-features = Оцените новые функции браузера для { -brand-name-android } на ранних стадиях их разработки. Наслаждайтесь на свой страх и риск.
 firefox-channel-nightly-blog = Блог { -brand-name-nightly }
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } — это нестабильная платформа для тестирования и разработки. По умолчанию { -brand-name-nightly } отправляет данные в { -brand-name-mozilla }, а иногда и нашим партнёрам, чтобы помочь нам справиться с проблемами и попробовать идеи. <a href="{ $link }">Узнайте, какие данные отправляются</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } автоматически осуществляет обратную связь с { -brand-name-mozilla }.
 firefox-channel-experience-cutting-edge-desktop = Испытайте новейшие функции в предварительных версиях браузера: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } и { -brand-name-firefox-nightly }. Скачайте их сейчас!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = Предыдущие сборки { -b
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Создавайте, тестируйте, испытывайте и делайте многое другое с единственным браузером, созданным специально для разработчиков.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } — это нестабильная платформа для тестирования и разработки. По умолчанию { -brand-name-developer-edition } отправляет данные в { -brand-name-mozilla }, а иногда и нашим партнёрам, чтобы помочь нам справиться с проблемами и попробовать идеи. <a href="{ $link }">Узнайте, какие данные отправляются</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } автоматически осуществляет обратную связь с { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }

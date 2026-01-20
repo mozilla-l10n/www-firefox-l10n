@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = בדקו את התכונות �
 firefox-channel-all-languages-and-platforms = כל השפות והפלטפורמות
 firefox-channel-all-languages-and-builds = כל השפות והבניות
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = ‏{ -brand-name-beta } היא פלטפורמת פיתוח ובדיקה שאינה יציבה. כברירת מחדל, { -brand-name-beta } שולחת נתונים אל { -brand-name-mozilla } — ולעיתים גם לשותפים שלנו — כדי לסייע לנו לטפל בבעיות ולנסות רעיונות חדשים. <a href="{ $link }">מידע נוסף על מה שמשותף</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } שולח אל { -brand-name-mozilla } משוב באופן אוטומטי.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">שלחו אלינו משוב</a> ועזרו לנו להשלים את ההתאמות הסופיות הנדרשות לפונקציונליות והביצועים בסביבה היציבה.
 firefox-channel-check-out-new-android-features = בדקו תכונות חדשות בגרסת הדפדפן ל־{ -brand-name-android } לפני כולם. ההנאה על אחריותכם בלבד.
 firefox-channel-nightly-blog = { -brand-name-nightly } Blog
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = ‏‏{ -brand-name-nightly } היא פלטפורמת פיתוח ובדיקה שאינה יציבה. כברירת מחדל, { -brand-name-nightly } שולחת נתונים אל { -brand-name-mozilla } — ולעיתים גם לשותפים שלנו — כדי לסייע לנו לטפל בבעיות ולנסות רעיונות חדשים. <a href="{ $link }">מידע נוסף על מה שמשותף</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } שולח אל { -brand-name-mozilla } משוב באופן אוטומטי.
 firefox-channel-experience-cutting-edge-desktop = התנסו בתכונות דפדפן חדשניות בגרסאות טרום-הפצה: { -brand-name-firefox-developer-edition }, ‏{ -brand-name-firefox-beta } ו־{ -brand-name-firefox-nightly }. הורידו כעת!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = בניות קודמות של { -brand-
 firefox-channel-developer-edition = { -brand-name-developer-edition(case: "a") }
 firefox-channel-build-test-scale-and-more = לבנות, לבדוק, להתפתח ועוד, עם הדפדפן היחיד שנבנה רק עבור מפתחים.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition(case: "the") } היא פלטפורמת פיתוח ובדיקה שאינה יציבה. כברירת מחדל, { -brand-name-developer-edition(case: "the") } שולחת נתונים אל { -brand-name-mozilla } — ולעיתים גם לשותפים שלנו — כדי לסייע לנו לטפל בבעיות ולנסות רעיונות חדשים. <a href="{ $link }">מידע נוסף על מה שמשותף</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } שולח אל { -brand-name-mozilla } משוב באופן אוטומטי.
 firefox-channel-nightly = { -brand-name-nightly }

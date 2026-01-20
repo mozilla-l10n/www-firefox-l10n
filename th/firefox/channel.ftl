@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = ลองใช้คุณล
 firefox-channel-all-languages-and-platforms = ทุกภาษาและแพลตฟอร์ม
 firefox-channel-all-languages-and-builds = ทุกภาษาและการประกอบ
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } เป็นแพลตฟอร์มทดสอบและพัฒนาที่ไม่เสถียร โดยค่าเริ่มต้น { -brand-name-beta } จะส่งข้อมูลไปยัง { -brand-name-mozilla } และพันธมิตรของเราในบางครั้งเพื่อช่วยเราจัดการกับปัญหาและทดลองแนวคิดต่าง ๆ <a href="{ $link }">เรียนรู้สิ่งที่แบ่งปัน</a>
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } จะส่งผลตอบรับกลับไปยัง { -brand-name-mozilla } โดยอัตโนมัติ
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">ส่งข้อมูลตอบกลับ</a>เพื่อช่วยเราปรับแต่งประสิทธิภาพและความสามารถขั้นสุดท้ายในสภาพแวดล้อมที่เสถียร
 firefox-channel-check-out-new-android-features = ลองคุณลักษณะใหม่ของ { -brand-name-android } ในสถานะล่าสุด เพลิดเพลินโดยรับความเสี่ยงด้วยตัวคุณเอง
 firefox-channel-nightly-blog = { -brand-name-nightly } Blog
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } เป็นแพลตฟอร์มทดสอบและพัฒนาที่ไม่เสถียร โดยค่าเริ่มต้น { -brand-name-nightly } จะส่งข้อมูลไปยัง { -brand-name-mozilla } และพันธมิตรของเราในบางครั้งเพื่อช่วยเราจัดการกับปัญหาและทดลองแนวคิดต่าง ๆ <a href="{ $link }">เรียนรู้สิ่งที่แบ่งปัน</a>
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } จะส่งข้อมูลตอบกลับสู่ { -brand-name-mozilla }  อัตโนมัติ
 firefox-channel-experience-cutting-edge-desktop = สัมผัสความสามารถล้ำสมัยของเบราว์เซอร์ในรุ่น pre-release: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } และ { -brand-name-firefox-nightly }. ดาวน์โหลดเลย!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = บิลด์ { -brand-name-nightly 
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = ประกอบ ทดสอบ ขยายและอื่น ๆ ด้วยเบราว์เซอร์ที่สร้างมาสำหรับนักพัฒนาโดยเฉพาะ
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } เป็นแพลตฟอร์มทดสอบและพัฒนาที่ไม่เสถียร โดยค่าเริ่มต้น { -brand-name-developer-edition } จะส่งข้อมูลไปยัง { -brand-name-mozilla } และพันธมิตรของเราในบางครั้งเพื่อช่วยเราจัดการกับปัญหาและทดลองแนวคิดต่าง ๆ <a href="{ $link }">เรียนรู้สิ่งที่แบ่งปัน</a>
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } จะส่งคำติชมไปยัง { -brand-name-mozilla } โดยอัตโนมัติ
 firefox-channel-nightly = { -brand-name-nightly }

@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Wupruwujće najnowše funkicji
 firefox-channel-all-languages-and-platforms = Wšě rěče a platformy
 firefox-channel-all-languages-and-builds = Wšě rěče a wersije
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } je instabilna testowanska a wuwiwanska platforma. Po standardźe { -brand-name-beta } { -brand-name-mozilla } daty sćele - a druhdy našim partneram - , zo by nam pomhała, problemy rozrisać a ideje wupruwować. <a href="{ $link }">Zhońće, štož so dale dawa</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } { -brand-name-mozilla } awtomatisce informacije sćele.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Pósćelće nam komentar</a>, zo byšće nam pomhał, kónčne dokładne nastajenja za wukon a funkcionalnosć w stabilnej wokolinje stajić.
 firefox-channel-check-out-new-android-features = Wupruwujće nowe funkcije { -brand-name-android } w jich najzažnišich fazach. Wužiwajće je na swoje riziko.
 firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } je instabilna testowanska a wuwiwanska platforma. Po standardźe { -brand-name-nightly } { -brand-name-mozilla } daty sćele - a druhdy našim partneram - , zo by nam pomhała, problemy rozrisać a ideje wupruwować. <a href="{ $link }">Zhońće, štož so dale dawa</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } { -brand-name-mozilla } awtomatisce informacije sćele.
 firefox-channel-experience-cutting-edge-desktop = Dožiwće čisće nowe funkcije w předwersijach wobhladowaka: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } a { -brand-name-firefox-nightly }. Sćehńće nětko!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = Starše wersije { -brand-name-nightly 
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Wuwiwajće, testujće, přiměrće a wjace za jenički wobhladowak, kotryž je so za wuwiwarjow wuwił.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } je instabilna testowanska a wuwiwanska platforma. Po standardźe { -brand-name-developer-edition } { -brand-name-mozilla } daty sćele - a druhdy našim partneram - , zo by nam pomhała, problemy rozrisać a ideje wupruwować. <a href="{ $link }">Zhońće, štož so dale dawa</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } { -brand-name-mozilla } awtomatisce informacije sćele.
 firefox-channel-nightly = { -brand-name-nightly }

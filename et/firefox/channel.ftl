@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Proovi uusimaid { -brand-name-
 firefox-channel-all-languages-and-platforms = Kõik keeled ja platvormid
 firefox-channel-all-languages-and-builds = Kõik keeled ja versioonid
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } on ebastabiilne testimis- ja arendusplatvorm. Vaikimisi saadab { -brand-name-beta } teavet { -brand-name-mozilla }le — ja vahel ka meie partneritele — aitamaks meil probleeme hallata ja ideid järele proovida. <a href="{ $link }">Rohkem teavet jagatavast</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } saadab { -brand-name-mozilla }le automaatselt tagasisidet.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Anna meile tagasisidet</a> ning aita anda viimast lihvi jõudlusele ja funktsionaalsusele stabiilses keskkonnas.
 firefox-channel-check-out-new-android-features = Proovi uusi võimalusi { -brand-name-android }il nende varaseimas faasis. Naudi omal vastutusel.
 firefox-channel-nightly-blog = { -brand-name-nightly } blogi
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } on ebastabiilne testimis- ja arendusplatvorm. Vaikimisi saadab { -brand-name-nightly } teavet { -brand-name-mozilla }le — ja vahel ka meie partneritele — aitamaks meil probleeme hallata ja ideid järele proovida. <a href="{ $link }">Rohkem teavet jagatavast</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } saadab { -brand-name-mozilla }le automaatselt tagasisidet.
 firefox-channel-experience-cutting-edge-desktop = Koge uusimaid veebilehitseja võimalusi eelväljalasetes: kasuta { -brand-name-firefox-developer-edition }'it, { -brand-name-firefox-beta } ja { -brand-name-firefox-nightly }'t. Laadi kohe alla!
@@ -41,7 +41,7 @@ firefox-channel-release-notes = Väljalasketeave
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Ehita, testi ja skaleeri ainsas veebilehitsejas, mis on ehitatud vaid arendajatele.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } on ebastabiilne testimis- ja arendusplatvorm. Vaikimisi saadab { -brand-name-developer-edition } teavet { -brand-name-mozilla }le — ja vahel ka meie partneritele — aitamaks meil probleeme hallata ja ideid järele proovida. <a href="{ $link }">Rohkem teavet jagatavast</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } saadab { -brand-name-mozilla }le automaatselt tagasisidet.
 firefox-channel-nightly = { -brand-name-nightly }

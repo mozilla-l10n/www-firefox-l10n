@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = { -brand-name-android } үші
 firefox-channel-all-languages-and-platforms = Барлық тілдер және платформалар
 firefox-channel-all-languages-and-builds = Барлық тілдер және жинақтар
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } — тұрақсыз тестілеу және әзірлеу платформасы. Әдепкі бойынша, { -brand-name-beta } бізге мәселелерді шешуге және идеяларды сынап көруге көмектесу үшін { -brand-name-mozilla } компаниясына, кейде біздің серіктестерімізге деректер жібереді. <a href="{ $link }">Қандай деректер бөлісілетінін біліңіз</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } автоматты түрде { -brand-name-mozilla }-ға кері байланыс деректерін жібереді.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = Бізге тұрақты нұсқаның өнімділігін және мүмкіндіктерін жақсарту үшін <a rel="external" href="{ $feedback }">кері байланыс хабарламасын</a> жіберіңіз.
 firefox-channel-check-out-new-android-features = Жаңа { -brand-name-android } мүмкіндіктерін ерте кезеңінде сынаңыз. Өз тәуекеліңізге қарай қолданыңыз.
 firefox-channel-nightly-blog = { -brand-name-nightly } блогы
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } — бұл тұрақсыз тестілеу және әзірлеу платформасы. Әдетте, { -brand-name-nightly } мәселелерді шешуге және идеяларды сынап көруге көмектесу үшін { -brand-name-mozilla }-ға және кейде біздің серіктестерімізге деректер жібереді. <a href="{ $link }">Қандай деректер бөлісілетінін біліңіз</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } автоматты түрде { -brand-name-mozilla }-ға кері байланыс деректерін жібереді.
 firefox-channel-experience-cutting-edge-desktop = Ең соңғы мүмкіндіктерді шығарылымға дейінгі нұсқаларда қолданып көріңіз: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } және { -brand-name-firefox-nightly }. Қазір жүктеп алыңыз!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = Алдыңғы { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Өндірушілер үшін жасалған жалғыз браузер көмегімен жасап, сынап, өсіріңіз.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } — бұл тұрақсыз тестілеу және әзірлеу платформасы. Әдетте, { -brand-name-developer-edition } мәселелерді шешуге және идеяларды сынап көруге көмектесу үшін { -brand-name-mozilla }-ға және кейде біздің серіктестерімізге деректер жібереді. <a href="{ $link }">Қандай деректер бөлісілетінін біліңіз</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } автоматты түрде { -brand-name-mozilla }-ға кері байланыс деректерін жібереді.
 firefox-channel-nightly = { -brand-name-nightly }

@@ -18,7 +18,7 @@ firefox-channel-try-the-latest-android-features = Probeer die jongste funksional
 firefox-channel-all-languages-and-builds = Alle tale en boukonfigurasies
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } stuur outomaties terugvoer aan { -brand-name-mozilla }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Gee terugvoer</a> en help om die laaste paar verbeteringe te maak aan werkverrigting en funksionaliteit voor vrystelling.
 firefox-channel-check-out-new-android-features = Geniet die nuwe funksies vir { -brand-name-android } terwyl hulle kraakvars is, maar op eie risiko.
 firefox-channel-nightly-blog = Joernaal oor { -brand-name-nightly }

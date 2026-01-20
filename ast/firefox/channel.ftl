@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Prueba lo último d'{ -brand-n
 firefox-channel-all-languages-and-platforms = Toles llingües ya plataformes
 firefox-channel-all-languages-and-builds = Toles llingües ya versiones
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } ye una plataforma de desendolcu ya pruebes inestable. Por defeutu, { -brand-name-beta } unvia datos a { -brand-name-mozilla }, ya a vegaes a los nuesos socios, p'ayudanos a remanar los problemes ya probar idees. <a href="{ $link }">Llei lo que se comparte</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } unvia automáticamente información a { -brand-name-mozilla }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Opina</a> p'ayudanos a dar los últimos axustes de rindimientu y funcionalidá nun entornu estable.
 firefox-channel-check-out-new-android-features = Comprueba les novedaes p'{ -brand-name-android } nes sos etapes más tempranes. Esfruta baxo'l to propiu riesgu.
 firefox-channel-nightly-blog = Blogue de { -brand-name-nightly }
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ye una plataforma de desendolcu y pruebes inestable. Por defeutu, { -brand-name-nightly } unvia datos a { -brand-name-mozilla }, y a vegaes a los nuesos socios, p'ayudanos a remanar los problemes y probar idees. <a href="{ $link }">Llei lo que se comparte</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } unvia automáticamente información a { -brand-name-mozilla }.
 firefox-channel-experience-cutting-edge-desktop = Esperimenta les últimes novedaes nes versiones de prellanzamientu: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } y { -brand-name-firefox-nightly }. ¡Báxales agora!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = Versiones anterior de { -brand-name-ni
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Constrúi, prueba, escala y fai más col únicu restolador fechu pa desendolcadores.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } ye una plataforma inestable de desendolcu y pruebes. Por defeutu, { -brand-name-developer-edition } unvia datos a { -brand-name-mozilla }, y a vegaes a los nuesos socios, p'ayudanos a remanar los problemes y probar idees. <a href="{ $link }">Llei lo que se comparte</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } unvia automáticamente información a { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }

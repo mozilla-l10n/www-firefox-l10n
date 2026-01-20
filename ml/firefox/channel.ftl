@@ -22,7 +22,7 @@ firefox-channel-all-languages-and-platforms = എല്ലാ ഭാഷകളു
 firefox-channel-all-languages-and-builds = എല്ലാ ഭാഷകളും ബിൽഡുകളും
 firefox-channel-firefox-beta-automatically = ഫയര്‍ഫോക്സ് ബീറ്റ പ്രതികരണങ്ങൾ സ്വയമേ മോസില്ലയിലേക്ക് അയയ്ക്കും.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = ഒരു സ്റ്റേബിള്‍ അന്തരീക്ഷത്തില്‍ പ്രകടനത്തിലും പ്രവർത്തനത്തിലും അവസാന ഘട്ട മിനുക്കുപണി നടത്താന്‍ <a rel="external" href="{ $feedback }">ഫീഡ്ബാക്ക് നൽകി</a> ഞങ്ങളെ സഹായിക്കുക.
 firefox-channel-check-out-new-android-features = പുതിയ ആന്‍ഡ്രോയിഡ് സവിശേഷതകൾ ആദ്യകാല ഘട്ടങ്ങളിൽ തന്നെ പരിശോധിക്കുക. നിങ്ങളുടെ സ്വന്തം റിസ്കില്‍ ആസ്വദിക്കുക.
 firefox-channel-nightly-blog = { -brand-name-nightly } ബ്ലോഗു്

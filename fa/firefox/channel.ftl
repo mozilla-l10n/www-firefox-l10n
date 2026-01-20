@@ -20,16 +20,16 @@ firefox-channel-try-the-latest-android-features = آخرین امکانات در
 firefox-channel-all-languages-and-platforms = تمام زبان‌ها و سکوها
 firefox-channel-all-languages-and-builds = تمام زبان‌ها و نسخه‌ها
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } یک پلتفرم ناپایدار جهت تست و توسعه می‌باشد. به طور پیش‌فرض، { -brand-name-beta } اطلاعاتی به { -brand-name-mozilla } ارسال می‌کند — و گاهی به بعضی از همکاران ما — تا به ما کمک کند تا مشکلات را حل کنیم و ایده‌های جدیدی به کار بگیریم. <a href="{ $link }">ببینید چه اطلاعاتی که به اشتراک گذاشته می‌شود</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } بطور خودکار به { -brand-name-mozilla } بازخورد می‌فرستد.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">بازخورد خود را ارسال کنید</a> تا به ما کمک کنید آخرین تغییرات را در کارایی و عملکرد در نسخه پایدار را اعمال کنیم.
 firefox-channel-check-out-new-android-features = جدیدترین امکانات { -brand-name-android } را در ابتدایی‌ترین مرحله خود بررسی کنید. با مسئولیت خودتان، لذت ببرید.
 firefox-channel-nightly-blog = وبلاگ { -brand-name-nightly }
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } یک پلتفرم ناپایدار جهت تست و توسعه می‌باشد. به طور پیش‌فرض، { -brand-name-nightly }» اطلاعاتی به { -brand-name-mozilla } ارسال می‌کند — و گاهی به بعضی از همکاران ما — تا به ما کمک کند تا مشکلات را حل کنیم و ایده‌های جدیدی به کار بگیریم. <a href="{ $link }">ببینید چه اطلاعاتی که به اشتراک گذاشته می‌شود</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } بطور خودکار به { -brand-name-mozilla } بازخورد می‌فرستد.
 firefox-channel-experience-cutting-edge-desktop = تازه‌ترین امکانات مرورگر را در نگارش‌های قبل از انتشار تجربه کنید: { -brand-name-firefox-developer-edition }، { -brand-name-firefox-beta } و{ -brand-name-firefox-nightly }. هم‌اکنون دریافت کنید!
@@ -40,7 +40,7 @@ firefox-channel-release-notes = یادداشت‌های انتشار
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = بسازید، تست کنید، توسعه دهید و حتی بیشتر با تنها مرورگر ساخته شده برای توسعه‌دهندگان.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } یک پلتفرم ناپایدار جهت تست و توسعه می‌باشد. به طور پیش‌فرض، { -brand-name-developer-edition } اطلاعاتی به { -brand-name-mozilla } ارسال می‌کند — و گاهی به بعضی از همکاران ما — تا به ما کمک کند تا مشکلات را حل کنیم و ایده‌های جدیدی به کار بگیریم. <a href="{ $link }">ببینید چه اطلاعاتی که به اشتراک گذاشته می‌شود</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } بطور خودکار به { -brand-name-mozilla } بازخورد می‌فرستد.
 firefox-channel-nightly = { -brand-name-nightly }

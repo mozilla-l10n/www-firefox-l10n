@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = ਬਾਕੀ ਸੰਸਾਰ �
 firefox-channel-all-languages-and-platforms = ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਅਤੇ ਪਲੇਟਫਾਰਮ
 firefox-channel-all-languages-and-builds = ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਅਤੇ ਬਿਲਡ
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } ਅਸਥਿਰ ਟੈਸਟਿੰਗ ਅਤੇ ਵਿਕਾਸ ਪਲੇਟਫਾਰਮ ਹੈ। ਮੂਲ ਰੂਪ ਵਿੱਚ, { -brand-name-beta } { -brand-name-mozilla } ਨੂੰ ਡਾਟਾ ਭੇਜਦਾ ਹੈ — ਅਤੇ ਕਦੇ-ਕਦੇ ਸਾਡੇ ਭਾਈਵਾਲਾਂ — ਸਮੱਸਿਆਵਾਂ ਨੂੰ ਸੁਲਝਾਉਣ ਅਤੇ ਵਿਚਾਰਾਂ ਦਾ ਯਤਨ ਕਰਨ ਲਈ ਸਾਡੀ ਸਹਾਇਤਾ ਕਰਦਾ ਹੈ। <a href="{ $link }"> ਕੀ ਸਾਂਝਾ ਕੀਤਾ ਗਿਆ ਹੈ ਸਿੱਖੋ </a>।
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } ਆਪਣੇ-ਆਪ ਹੀ ਫੀਡਬੈਕ { -brand-name-mozilla } ਨੂੰ ਭੇਜਦਾ ਹੈ।
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = ਸਥਿਰ ਮਾਹੌਲ ਵਿੱਚ ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਕਿਰਿਆਵਾਂ ਉੱਤੇ ਅੰਤਮ ਸੁਧਾਰ ਕਰਨ ਲਈ ਮਦਦ ਕਰਨ ਵਾਸਤੇ <a rel="external" href="{ $feedback }">ਸਾਨੂੰ ਫੀਡਬੈਕ ਦਿਓ</a>।
 firefox-channel-check-out-new-android-features = ਨਵੇਂ { -brand-name-android } ਫੀਚਰਾਂ ਨੂੰ ਉਹਨਾਂ ਦੇ ਮੁੱਢਲੇ ਪੜਾਅ ਉੱਤੇ ਹੀ ਜਾਂਚੋ। ਆਪਣੀ ਖੁਦ ਦੀ ਜ਼ਿੰਮੇਵਾਰ 'ਤੇ ਮਾਣੋ।
 firefox-channel-nightly-blog = { -brand-name-nightly } ਬਲੌਗ
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ਇੱਕ ਅਸਥਿਰ ਟੈਸਟਿੰਗ ਅਤੇ ਵਿਕਾਸ ਪਲੇਟਫਾਰਮ ਹੈ। ਮੂਲ ਰੂਪ ਵਿੱਚ { -brand-name-nightly } { -brand-name-mozilla } ਨੂੰ ਡਾਟਾ ਭੇਜਦਾ ਹੈ — ਅਤੇ ਕਦੇ-ਕਦੇ ਸਾਡੇ ਸਾਂਝੇਦਾਰ — ਸਮੱਸਿਆਵਾਂ ਨੂੰ ਸੁਲਝਾਉਣ ਅਤੇ ਵਿਚਾਰਾਂ ਨੂੰ ਅਜਮਾਉਣ ਵਿੱਚ ਸਾਡੀ ਸਹਾਈਤਾ ਦੇ ਲਈ। <a href="{ $link }"> ਕੀ ਸਾਂਝਾ ਕੀਤਾ ਗਿਆ ਹੈ ਸਿੱਖੋ </a>।
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } ਆਪਣੇ-ਆਪ ਫੀਡਬੈਕ { -brand-name-mozilla } ਨੂੰ ਭੇਜਦਾ ਹੈ।
 firefox-channel-experience-cutting-edge-desktop = ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਵਰਜ਼ਨ ਵਿੱਚ ਨਵੇਂ-ਨਕੋਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } ਅਤੇ { -brand-name-firefox-nightly }। ਹੁਣੇ ਇੰਸਟਾਲ ਕਰੋ!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = ਪੁਰਾਣੇ { -brand-name-night
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = ਕੇਵਲ ਡਿਵੈਲਪਰਾਂ ਲਈ ਹੀ ਬਣਾਏ ਗਏ ਬਰਾਊਜ਼ਰ ਨਾਲ ਬਿਲਡ, ਟੈਸਟ, ਸਕੇਲ ਅਤੇ ਹੋਰ ਕਈ ਕੁਝ ਕਰੋ।
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } ਅਸਥਿਰ ਜਾਂਚ ਅਤੇ ਵਿਕਾਸ ਪਲੇਟਫਾਰਮ ਹੈ। ਮੂਲ ਰੂਪ ਵਿੱਚ, ਡਿਵੈਲਪਰ { -brand-name-developer-edition } { -brand-name-mozilla } ਨੂੰ ਡਾਟਾ ਭੇਜਦਾ ਹੈ - ਅਤੇ ਕਦੇ-ਕਦੇ ਸਾਡੇ ਸਾਂਝੇਦਾਰ - ਸਮੱਸਿਆਵਾਂ ਨੂੰ ਸੁਲਝਾਉਣ ਅਤੇ ਵਿਚਾਰਾਂ ਨੂੰ ਅਜਮਾਉਣ ਵਿੱਚ ਸਾਡੀ ਸਹਾਇਤਾ ਦੇ ਲਈ। <a href="{ $link }"> ਕੀ ਸਾਂਝਾ ਕੀਤਾ ਗਿਆ ਹੈ ਸਿੱਖੋ </a>।
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } ਆਪਣੇ-ਆਪ ਫੀਡਬੈਕ { -brand-name-mozilla } ਨੂੰ ਭੇਜਦਾ ਹੈ।
 firefox-channel-nightly = { -brand-name-nightly }

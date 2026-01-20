@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Ketojtob'ëx ri ruk'isib'al ta
 firefox-channel-all-languages-and-platforms = Konojel ri taq ch'ab'äl chuqa' taq nuk'uche'el
 firefox-channel-all-languages-and-builds = Konojel ri taq ch'ab'äl chuqa' taq nuk'uj
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = Ri { -brand-name-beta } jun man choj ta chi tojtob'äl chuqa' k'iyirisab'äl nuk'uche'el. Banon chi ri { -brand-name-beta } yerutäq taq tzij chi re ri { -brand-name-mozilla } —  k'o b'ey re chuqa' chi ke qato'onela' — richin yojkito' yeqasamajij taq k'ayewal chuqa' yeqatojtob'ej taq nojib'äl. <a href="{ $link }">Tawetamaj ri yekomonïx</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } pa ruyonil nutäq k'utun tzij chi re { -brand-name-mozilla }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Taya' kan chi qe ri taq atzijol</a> richin yojato' chi niqab'än kik'ojlem ri ruk'isib'äl taq rutzil rub'eyal richin nisamäj chuqa' rusamaj nub'än pa jun raxinäq k'ojlib'äl
 firefox-channel-check-out-new-android-features = Tatz'eta' ri k'ak'a' taq rub'anikil { -brand-name-android } ri nab'ey taq peraj ruk'aslem. Tasamajij ri taq ruk'ayewal.
 firefox-channel-nightly-blog = { -brand-name-nightly } Ichinya'l
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = Ri { -brand-name-nightly } jun man choj ta chi tojtob'äl chuqa' k'iyirisab'äl nuk'uche'el. Banon chi ri { -brand-name-nightly } yerutäq taq tzij chi re ri { -brand-name-mozilla }  —  k'o b'ey re chuqa' chi ke qato'onela' — richin yojkito' yeqasamajij taq k'ayewal chuqa' yeqatojtob'ej taq nojib'äl. <a href="{ $link }">Tawetamaj ri yekomonïx</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } pa ruyonil nutäq k'utun tzij chi re { -brand-name-mozilla }.
 firefox-channel-experience-cutting-edge-desktop = Tatojtob'ej ri nimaläj taq rub'anikil okik'amaya'l pa jun ruwäch nelesäx yan pe: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } chuqa' { -brand-name-firefox-nightly }. ¡Tiqasäx wakami!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = Nab'ey taq runuk'uj { -brand-name-nigh
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Tinuk', tojtob'enïk, xakb'äl chuqa' ch'aqa' chik rik'in ri yonil chi tz'aqät okik'amaya'l kuma ri ajb'anonela'.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = Ri { -brand-name-developer-edition } jun man choj ta chi tojtob'äl chuqa' k'iyirisab'äl nuk'uche'el. Banon chi ri { -brand-name-developer-edition } yerutäq taq tzij chi re ri { -brand-name-mozilla } —  k'o b'ey re chuqa' chi ke qato'onela' — richin yojkito' yeqasamajij taq k'ayewal chuqa' yeqatojtob'ej taq nojib'äl. <a href="{ $link }">Tawetamaj ri yekomonïx</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } pa ruyonil nutäq k'utun tzij chi re { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }

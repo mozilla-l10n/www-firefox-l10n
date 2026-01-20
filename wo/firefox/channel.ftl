@@ -18,7 +18,7 @@ firefox-channel-download-and-test-future = Yebbil te saytu sumb yiy ñëwi yu { 
 firefox-channel-all-languages-and-builds = Wépp làkk ak sumb
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } mooy yónneel boppam xibaar { -brand-name-mozilla }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Wax nu sa xalaat</a> ngir dimbali nu ci gënal yu mujj yi nuy def ci gaawaay beek solo yu Firefox ci wërlaay gu dal.
 firefox-channel-check-out-new-android-features = Xoolal sunu solo yu yees yi yu { -brand-name-android } ci seenug njëlbeen. Jëfandikoo leen ak moytu.
 firefox-channel-nightly-blog = Blog bu { -brand-name-nightly }

@@ -20,12 +20,12 @@ firefox-channel-all-languages-and-platforms = Ɗemɗe kam e Tammborɗe fof
 firefox-channel-all-languages-and-builds = Ɗemɗe e Mahngooji fof
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } ina nelda duttinal to { -brand-name-mozilla } ɗoon e ɗoon.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Neldu min duttine</a> ngam wallude-en addude bayle moƴƴugol e fannuuji kesi e weeyo yamɗungo.
 firefox-channel-check-out-new-android-features = Ƴeewndo fannuuji { -brand-name-android } kesi e daawe mum'en gadane. Dakmitoro kono yuɓɓaani tawo.
 firefox-channel-nightly-blog = Bolog { -brand-name-nightly }
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ko dinndeere ƴeewndo e topayru nde ƴoƴaani. E teelte mum,{ -brand-name-nightly } neldat keɓe to { -brand-name-mozilla } — asahaaji kadi to renndodiiɓe amen— ngam wallude min defaade caɗe kadi ƴeewndaade miijooji kesi. <a href="{ $link }">Humpito ko neldetee</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } ina nelda duttinal to { -brand-name-mozilla } ɗoon e ɗoon.
 firefox-channel-beta = { -brand-name-beta }
@@ -34,7 +34,7 @@ firefox-channel-release-notes = Konngol bayyinol
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Mahto, ƴeewndo, ɓetto ekn huutoraade wanngorde wajjere waɗanaande topayɓe.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } ko dinndeere ƴeewndo e topayru nde ƴoƴaani. E teelte mum, { -brand-name-developer-edition } neldat keɓe to { -brand-name-mozilla } — asahaaji kadi to renndodiiɓe amen— ngam wallude min defaade caɗe kadi ƴeewndaade miijooji kesi. <a href="{ $link }">Humpito ko neldetee</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } ina nelda duttine to { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }

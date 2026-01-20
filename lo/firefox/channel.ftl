@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = ລອງໃຊ້ຄຸນສ
 firefox-channel-all-languages-and-platforms = ທຸກພາສາ ແລະ platform
 firefox-channel-all-languages-and-builds = ທຸກພາສາ ແລະ ການປະກອບ
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } ແມ່ນແພັດຟອມສຳລັບໄວ້ທົດສອບ ແລະ ການພັດທະນາທີ່ຍັງບໍ່ທັນສະຖຽນ. ໂດຍພື້ນຖານແລ້ວ { -brand-name-beta } ຈະສົ່ງຂໍ້ມູນກັບໄປຫາ { -brand-name-mozilla } — ແລະ ບາງຄັ້ງຈະສົ່ງໄປຫາພັນທະມິດຂອງພວກເຮົາ — ເພື່ອຊ່ວຍພວກເຮົາຈັດການກັບບັນຫາຕ່າງໆ ແລະ ທົດລອງແນວຄິດໃຫມ່ໆ <a href="{ $link }"> ຮຽນຮຽນສິ່ງທີ່ໄດ້ແບ່ງປັນ</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } ຈະສົ່ງຄຳຕິຊົມກັບໄປຍັງ { -brand-name-mozilla } ໂດຍອັດຕະໂນມັດ.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">ສົ່ງຂໍ້ມູນຕິຊົມ</a>ເພື່ອຊ່ວຍເຮົາປັບແຕ່ງປະສິດທິພາບ ແລະ ຄວາມສາມາດຂັ້ນສຸດທ້າຍໃນສະພາບແວດລ້ອມທີ່ສະຖຽນ.
 firefox-channel-check-out-new-android-features = ລອງຄຸນສົມບັດໃໝ່ຂອງ { -brand-name-android } ໃນສະຖານະຫຼ້າສຸດ. ມ່ວນຊື່ນກັບການປະເຊີນຄວາມສ່ຽງດ້ວຍຕົວເຈົ້າເອງ.
 firefox-channel-nightly-blog = ບົດຄວາມ { -brand-name-nightly }
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ແມ່ນແພັດຟອມສຳລັບໄວ້ທົດສອບ ແລະ ການພັດທະນາທີ່ຍັງບໍ່ທັນສະຖຽນ. ໂດຍພື້ນຖານແລ້ວ { -brand-name-nightly } ຈະສົ່ງຂໍ້ມູນກັບໄປຫາ { -brand-name-mozilla } — ແລະ ບາງຄັ້ງຈະສົ່ງໄປຫາພັນທະມິດຂອງພວກເຮົາ — ເພື່ອຊ່ວຍພວກເຮົາຈັດການກັບບັນຫາຕ່າງໆ ແລະ ທົດລອງແນວຄິດໃຫມ່ໆ <a href="{ $link }"> ຮຽນຮຽນສິ່ງທີ່ໄດ້ແບ່ງປັນ</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } ຈະສົ່ງຜົນຕອບຮັບໄປຍັງ { -brand-name-mozilla } ໂດຍອັດຕະໂນມັດ.
 firefox-channel-experience-cutting-edge-desktop = ສຳພັດຄວາມສາມາດທີ່ລຳ້ສະໄໝຂອງບາວເຊີໃນລຸ້ນ pre-release: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } ແລະ { -brand-name-firefox-nightly }. ດາວໂຫຼດເລີຍ!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = ບີວ{ -brand-name-nightly } ກ�
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = ສ້າງ, ທົດສອບ, ຂະຫຍາຍ ແລະ ອື່ນໆ ດ້ວຍບາວເຊີທີ່ສ້າງມາສຳລັບນັກພັດທະນາໂດຍສະເພາະ.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } ເປັນແພັດຟອມທົດສອບ ແລະ ພັດທະນາຍັງບໍ່ສະຖຽນ. ໂດຍພື້ນຖານແລ້ວ { -brand-name-developer-edition } ຈະສົ່ງຂໍ້ມູນໄປຫາ { -brand-name-mozilla } — ແລະ ບາງຄັ້ງອາດຈະສົ່ງໄປຄູ່ຮ່ວມພັດທະນາຂອງ { -brand-name-mozilla } ເພື່ອຊ່ວຍໃຫ້ພວກເຮົາຈັດການກັບບັນຫາຕ່າງໆ ແລະ ທົດລອງແນວຄວາມຄິດໃຫມ່ໆ. <a href="{ $link }">ຮຽນຮູ້ຈາກສິ່ງທີ່ໄດ້ແບ່ງປັນໄປແລ້ວ</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } ະສົ່ງຜົນຕອບຮັບໄປຍັງ { -brand-name-mozilla } ໂດຍອັດຕະໂນມັດ
 firefox-channel-nightly = { -brand-name-nightly }

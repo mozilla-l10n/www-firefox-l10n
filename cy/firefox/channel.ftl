@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Rhowch brawf ar nodweddion diw
 firefox-channel-all-languages-and-platforms = Pob Iaith a Fersiwn
 firefox-channel-all-languages-and-builds = Pob Iaith a Fersiwn
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = Mae { -brand-name-beta } yn blatfform profi a datblygu ansad. Drwy ragosodiad mae { -brand-name-beta }'n anfon data i { -brand-name-mozilla } — ac weithiau i'n partneriaid — i'n cynorthwyo i drin problemau a phrofi syniadau. <a href="{ $link }">Gweld beth sy'n caei ei rannu</a>.
 firefox-channel-firefox-beta-automatically = Mae { -brand-name-firefox-beta } yn anfon adborth yn awtomatig i { -brand-name-mozilla }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Anfonwch adborth</a> fel bo modd i ni wella perfformiad a swyddogaethau mewn amgylchedd sefydlog.
 firefox-channel-check-out-new-android-features = Archwilio ar nodweddion newydd { -brand-name-android } yn ystod eu camau cyntaf. Mwynhewch ar eich menter eich hun.
 firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = Mae { -brand-name-nightly } yn blatfform profi a datblygu ansad. Drwy ragosodiad mae { -brand-name-nightly }'n anfon data i { -brand-name-mozilla } — ac weithiau i'n partneriaid — i'n cynorthwyo i drin problemau a phrofi syniadau. <a href="{ $link }">Gweld beth sy'n caei ei rannu</a>.
 firefox-channel-firefox-nightly-automatically = Mae { -brand-name-firefox-nightly } yn anfon adborth yn awtomatig i { -brand-name-mozilla }.
 firefox-channel-experience-cutting-edge-desktop = Profwch nodweddion blaengar mewn fersiynnau cyn eu ryddhau: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } a { -brand-name-firefox-nightly }. Llwythwch nhw lawr nawr!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = Adeiladau blaenorol { -brand-name-nigh
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Adeiladu, profi, graddio a mwy gyda'r unig borwr wedi'i adeiladu'n benodol ar gyfer datblygwyr.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = Mae { -brand-name-developer-edition } yn blatfform profi a datblygu ansad. Drwy ragosodiad mae { -brand-name-developer-edition }'n anfon data i { -brand-name-mozilla } — ac weithiau i'n partneriaid — i'n cynorthwyo i drin problemau a phrofi syniadau. <a href="{ $link }">Gweld beth sy'n caei ei rannu</a>.
 firefox-channel-firefox-developer-edition = Mae { -brand-name-firefox-developer-edition } yn anfon adborth yn awtomatig i { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }

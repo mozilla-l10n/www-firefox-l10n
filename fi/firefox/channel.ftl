@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Kokeile uusimpia { -brand-name
 firefox-channel-all-languages-and-platforms = Kaikki kielet ja alustat
 firefox-channel-all-languages-and-builds = Kaikki kielet ja versiot
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } on epävakaa testi- ja kehitysversio. Oletusarvoisesti { -brand-name-beta } lähettää tietoja { -brand-name-mozilla }lle — ja toisinaan kumppaneillemme — auttaakseen meitä käsittelemään ongelmia ja kokeilemaan ideoita. <a href="{ $link }">Lue, mitä kaikkea jaetaan</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } lähettää palautetta { -brand-name-mozilla }lle automaattisesti.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Palautetta antamalla</a> autat meitä hiomaan vakaan version suorituskykyä ja ominaisuuksia.
 firefox-channel-check-out-new-android-features = Katsasta uusia { -brand-name-android }-ominaisuuksia niiden varhaisimmissa vaiheissaan. Nauti omalla vastuulla.
 firefox-channel-nightly-blog = { -brand-name-nightly }-blogi
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } on epävakaa testi- ja kehitysversio. Oletusarvoisesti { -brand-name-nightly } lähettää tietoja { -brand-name-mozilla }lle — ja toisinaan kumppaneillemme — auttaakseen meitä käsittelemään ongelmia ja kokeilemaan ideoita. <a href="{ $link }">Lue, mitä kaikkea jaetaan</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } lähettää palautetta { -brand-name-mozilla }lle automaattisesti.
 firefox-channel-experience-cutting-edge-desktop = Koe uusimmat selainominaisuudet käyttämällä ennakkoversioita: { -brand-name-firefox-developer-edition }ia, { -brand-name-firefox-beta }a tai { -brand-name-firefox-nightly }ä. Lataa nyt!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = Aiemmat { -brand-name-nightly }-koonti
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Luo, testaa ja parantele ainoalla ainoastaan kehittäjille tehdyllä selaimella.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } on epävakaa testi- ja kehitysversio. Oletusarvoisesti { -brand-name-developer-edition } lähettää tietoja { -brand-name-mozilla }lle — ja toisinaan kumppaneillemme — auttaakseen meitä käsittelemään ongelmia ja kokeilemaan ideoita. <a href="{ $link }">Lue, mitä kaikkea jaetaan</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } lähettää palautetta { -brand-name-mozilla }lle automaattisesti.
 firefox-channel-nightly = { -brand-name-nightly }

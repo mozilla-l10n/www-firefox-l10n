@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Emprova las pli novas funcziun
 firefox-channel-all-languages-and-platforms = Tuttas linguas e plattafurmas
 firefox-channel-all-languages-and-builds = Tut las linguas e versiuns
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } è ina plattafurma instabla per tests e svilup. { -brand-name-beta } trametta, sco standard, datas a { -brand-name-mozilla } — e mintgatant a noss partenaris — per gidar a schliar problems ed empruvar novas ideas. <a href="{ $link }">Ve a savair tge che vegn transmess</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } trametta automaticamain infurmaziuns a { -brand-name-mozilla }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Ans da tes resun</a> per ans gidar da far las midadas finalas per la prestaziun e funcziunalitad en in ambient stabel.
 firefox-channel-check-out-new-android-features = Scuvra las novas funcziunalitads dad { -brand-name-android } gia durant lur svilup. Giauda sin atgna ristga.
 firefox-channel-nightly-blog = Blog da { -brand-name-nightly }
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } è ina plattafurma instabla per tests e svilup. { -brand-name-nightly } trametta, sco standard, datas a { -brand-name-mozilla } — e mintgatant a noss partenaris — per gidar a schliar problems ed empruvar novas ideas. <a href="{ $link }">Ve a savair tge che vegn transmess</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } trametta automaticamain tschertas infurmaziuns a { -brand-name-mozilla }.
 firefox-channel-experience-cutting-edge-desktop = Emprova las pli novas funcziunalitads en ina versiun preliminara dal navigatur: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } e { -brand-name-firefox-nightly }. Ussa telechargiar!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = Builds pli vegls da { -brand-name-nigh
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Creescha, testescha e scalescha grazia a l'unic navigatur creà extra per sviluppaders.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = Firefox per sviluppaders ({ -brand-name-developer-edition }) è ina plattafurma instabla per tests e svilup. Questa versiun trametta, sco standard, datas a { -brand-name-mozilla } — e mintgatant a noss partenaris — per gidar a schliar problems ed empruvar novas ideas. <a href="{ $link }">Ve a savair tge che vegn transmess</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } trametta automaticamain tschertas infurmaziuns a { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }

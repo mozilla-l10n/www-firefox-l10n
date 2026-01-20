@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = ကမ္ဘာ၏ အခြ�
 firefox-channel-all-languages-and-platforms = ဘာသာစကားအားလုံး နှင့် အခြေခံလည်ပတ်စနစ်များ
 firefox-channel-all-languages-and-builds = ဘာသာစကားများနှင့် တည်ဆောက်ထားမှုများ
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } သည် ထုတ်လုပ်ရေး နှင့် စမ်းသပ်ခြင်းအတွက် ဖြစ်သည်။ စံအားဖြင့် { -brand-name-beta } သည် { -brand-name-mozilla } နှင့် — ၎င်း၏ ပါတနာများ အား အချက်အလက်များ — ပေးပို့ပါသည်။ <a href="{ $link }">ဘာတွေ မျှဝေလဲ ဆိုတာ ကြည့်မည်လား</a>
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } မှအကြံပြုချက်များကိုအလိုအလျောက်{ -brand-name-mozilla }သို့ပေးပို့သည်
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">အကြံပေးချက်များ</a> ပေးပို့ပြီး နောက်ဆုံး ပြင်ဆင်ချက်တွေကို ကောင်းမွန်အောင် လုပ်ဆောင်ရာတွင် ကူညီပါ။
 firefox-channel-check-out-new-android-features = { -brand-name-android } ရဲ့နောက်ဆုံးထွက်လုပ်ဆောင်ချက်များ အားအစောဆုံး စမ်းသပ်ကြည့်ပါ။ သင့် ပြသာနာအားသင် ကိုယ်တိုင်တာဝန်ယူရမည်။
 firefox-channel-nightly-blog = { -brand-name-nightly }ဘလော့ဂ်
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } သည် မတည်ငြိမ်သေးသော စမ်းသပ်ဆဲ၊ ဖန်တီးခြင်းဆိုင်ရာ ပလက်ဖောင်းတစ်ခု ဖြစ်သည်။ ပုံမှန်အားဖြင့် { -brand-name-nightly } သည် { -brand-name-mozilla } ထံသို့ — ထို့ပြင် တခါတရံ အကျိုးတူအဖွဲ့အစည်းများထံသို့ အချက်အလက် ပေးပို့ပါသည်။ ပြဿနာများကို ကိုင်တွယ်ဖြေရှင်းရန်နှင့် စိတ်ကူးများကို အကောင်အထည်ဖော် စမ်းသပ်ကြည့်ရန် ဖြစ်သည်။ <a href="{ $link }">ပေးပို့မည့်အချက်အလက်များကို လေ့လာရန်</a>။
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } မှအကြံပြုချက်များကို { -brand-name-mozilla }သို့ အလိုအလျောက်ပေးပို့သည်
 firefox-channel-experience-cutting-edge-desktop = အစမ်းသုံး ဗားရှင်းများရှိ နောက်ဆုံးပေါ် ဘရောင်ဇာ လုပ်ဆောင်ချက်များ ({ -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } နှင့် { -brand-name-firefox-nightly }) ကို အသုံးပြု ခံစားကြည့်ပါ။ ယခုပင် ဆွဲကူးယူပါ။
@@ -41,7 +41,7 @@ firefox-channel-release-notes = ထုတ်လုပ်မှူမှတ်စ
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = ထုတ်လုပ်သူများအတွက် အထူးစီမံထားသော ဘယောက်ဆာအား သုံးပြီး တည်ဆောက်၊ ပြုပြင် ပြီး တိုးတက်အောင်ပြုလုပ်နိုင်ပါသှ်။
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } သည် မတည်ငြိမ်သေးသော စမ်းသပ်ဆဲ၊ ဖန်တီးခြင်းဆိုင်ရာ ပလက်ဖောင်းတစ်ခု ဖြစ်သည်။ ပုံမှန်အားဖြင့် { -brand-name-developer-edition } သည် { -brand-name-mozilla } ထံသို့ — ထို့ပြင် တခါတရံ အကျိုးတူအဖွဲ့အစည်းများထံသို့ အချက်အလက် ပေးပို့ပါသည်။ ပြဿနာများကို ကိုင်တွယ်ဖြေရှင်းရန်နှင့် စိတ်ကူးများကို အကောင်အထည်ဖော် စမ်းသပ်ကြည့်ရန် ဖြစ်သည်။ <a href="{ $link }">ပေးပို့မည့်အချက်အလက်များကို လေ့လာရန်</a>။
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } သည် { -brand-name-mozilla } သို့ အလိုအလျောက် တုံ့ပြန်ချက် ပေးပို့ပါသည်။
 firefox-channel-nightly = { -brand-name-nightly }

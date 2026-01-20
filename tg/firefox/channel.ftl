@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Хусусиятҳои охи�
 firefox-channel-all-languages-and-platforms = Ҳамаи забонҳо ва платформаҳо
 firefox-channel-all-languages-and-builds = Ҳамаи забонҳо ва сохтҳо
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = «{ -brand-name-beta }» платформаи ноустувори озмоишӣ барои рушди барнома мебошад. Ба таври пешфарз, «{ -brand-name-beta }» маълумотро ба «{ -brand-name-mozilla }» ва баъзан ба шарикони мо мефиристад, то ба мо дар ҳалли мушкилот ва барномарезии фикрҳо кумак расонанд. <a href="{ $link }">Бифаҳмед, ки кадом маълумот мубодила мешавад</a>.
 firefox-channel-firefox-beta-automatically = Браузери «{ -brand-name-firefox-beta }» омори истифодабариро ба ташкилоти «{ -brand-name-mozilla }» ба таври худкор мефиристонад.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = Барои ба анҷом расонидани вориди тағйироти ниҳоӣ ба самаранокии кор ва хусусиятҳои муҳити устувор, лутфан, кушиш карда, <a rel="external" href="{ $feedback }">ба мо фикру мулоҳизаҳои худро фиристонед</a>.
 firefox-channel-check-out-new-android-features = Хусусиятҳои нави «{ -brand-name-android }»-ро дар марҳилаҳои аввали рушди барнома озмоед. Бо таваккали худ истифода кунед ва лаззат баред.
 firefox-channel-nightly-blog = Блоги «{ -brand-name-nightly }»
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = «{ -brand-name-nightly }» платформаи ноустувори озмоишӣ барои рушди барнома мебошад. Ба таври пешфарз, «{ -brand-name-nightly }» маълумотро ба «{ -brand-name-mozilla }» ва баъзан ба шарикони мо мефиристад, то ба мо дар ҳалли мушкилот ва барномарезии фикрҳо кумак расонанд. <a href="{ $link }">Бифаҳмед, ки кадом маълумот мубодила мешавад</a>.
 firefox-channel-firefox-nightly-automatically = Браузери «{ -brand-name-firefox-nightly }» омори истифодабариро ба ташкилоти «{ -brand-name-mozilla }» ба таври худкор мефиристонад.
 firefox-channel-experience-cutting-edge-desktop = Аз таҷрибаи хусусиятҳои пешрафтаи браузери муосир дар версияҳои пеш аз нашр баҳра баред: «{ -brand-name-firefox-developer-edition }», «{ -brand-name-firefox-beta }» ва «{ -brand-name-firefox-nightly }». Ҳамаи онҳоро ҳозир боргирӣ кунед!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = Сохтҳои пешинаи «{ -bra
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Бо браузери ягонае, ки барои барномасозон таҳия шуддаст, лоиҳаҳоро созед, озмоед, васеъ кунед ва амалҳои дигареро иҷро намоед.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = «{ -brand-name-developer-edition }» платформаи ноустувори озмоишӣ барои рушди барнома мебошад. Ба таври пешфарз, «{ -brand-name-developer-edition }» маълумотро ба «{ -brand-name-mozilla }» ва баъзан ба шарикони мо мефиристад, то ба мо дар ҳалли мушкилот ва барномарезии фикрҳо кумак расонанд. <a href="{ $link }">Бифаҳмед, ки кадом маълумот мубодила мешавад</a>.
 firefox-channel-firefox-developer-edition = Браузери «{ -brand-name-firefox-developer-edition }» омори истифодабариро ба ташкилоти «{ -brand-name-mozilla }» ба таври худкор мефиристонад.
 firefox-channel-nightly = { -brand-name-nightly }

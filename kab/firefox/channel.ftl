@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Ɛreḍ timahilin tineggura ɣ
 firefox-channel-all-languages-and-platforms = Akk tutlayin d yinagrawen
 firefox-channel-all-languages-and-builds = Akk tutlayin akked yileqman
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } d anagraw n usekyed akked d tneflit ur yerkiden ara. Di tazwara, { -brand-name-beta } yettazen isefka i { -brand-name-mozilla } — Tikwal i yimendiden-nneɣ — akken ad ɣ-d-yefk afus ad nefru uguren neɣ ad neɛreḍ tiktiwin-nniḍen, <a href="{ $link }"> Issin ayen yettwabḍan</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } yettazen ineɣmisen s wudem awurman i { -brand-name-mozilla }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Azen-aɣ-d tarmit-ik</a> akken ad nẓer ayen ara nṣeggem i usnerni n tmellit akked tmahilin ɣef umnaḍ urkid.
 firefox-channel-check-out-new-android-features = Ili-k seg yimezwura ara iwalin timahilin timaynutin deg { -brand-name-android }. Faṛes tagnit, acukan ur nḍemmen ara ad ddunt.
 firefox-channel-nightly-blog = Ablug { -brand-name-nightly }
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } d anagraw n usekyed akked d tneflit ur yerkiden ara. Di tazwara, { -brand-name-nightly } yettazen isefka i { -brand-name-mozilla } — Tikwal i yimendiden-nneɣ — akken ad ɣ-d-yefk afus ad nefru uguren neɣ ad neɛreḍ tiktiwin-nniḍen, <a href="{ $link }"> Issin ayen yettwabḍan</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } yettazen tikti s wudem awurman i { -brand-name-mozilla }.
 firefox-channel-experience-cutting-edge-desktop = Sekyed isnulfuyen ineggura s yileqman uzwiren: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } d { -brand-name-firefox-nightly }. Sider tura!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = Lqem iεeddan n { -brand-name-nightly 
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Rnu, sekyed udiɣ jbed s useqdec n yiminig i yettwafeṣlen i yineflayen.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = Developper Edition d anagraw n usekyed akked d tneflit ur yerkiden ara. Di tazwara, { -brand-name-developer-edition } yettazen isefka i { -brand-name-mozilla } — Tikwal i yimendiden-nneɣ — akken ad ɣ-d-yefk afus ad nefru uguren neɣ ad neɛreḍ tiktiwin-nniḍen, <a href="{ $link }"> Issin ayen yettwabḍan</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } yettazen tikti s wudem awurman i { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }

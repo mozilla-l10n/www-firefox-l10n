@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Preba las zagueras funcionalid
 firefox-channel-all-languages-and-platforms = Totz los idiomas y plataformas
 firefox-channel-all-languages-and-builds = Totz los idiomas y versions
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } ye una plataforma instable de prebas y desenvolvimiento. Per defecto, { -brand-name-beta } ninvia los datos ta { -brand-name-mozilla } —y en bell caso, ta los nuestros partners— pa aduyar-nos a maniar los problemas y prebar ideyas. <a href="{ $link }">Conoixe lo que se comparte</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } ninvia automaticament información a { -brand-name-mozilla }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Da-nos feedback</a> ta aduyar-nos a meter a punto os zaguers detalles de funcionalidat y rendimiento en un entorno estable.
 firefox-channel-check-out-new-android-features = Preba las nuevas funcionalidatz d'{ -brand-name-android } quan empecipian a fer garras. Disfruta baixo la tuya responsabilidat.
 firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = La versión { -brand-name-nightly } ye una plataforma instable de prebas y desenvolvimiento. Per defecto, los datos se ninviarán a { -brand-name-mozilla } (y bella vez tamién ta los nuestros socios) pa aduyar-nos a tractar problemas y prebar ideyas. <a href="{ $link }">Veyer qué información se replegará</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } ninvia automaticament información a { -brand-name-mozilla }.
 firefox-channel-experience-cutting-edge-desktop = Experimenta las funcionalidatz punteras d'o navegador en as version pre-lanzamiento: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } y { -brand-name-firefox-nightly }. Descarga-las agora!
@@ -41,7 +41,7 @@ firefox-channel-release-notes = Notas de lanzamiento
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Construye, preba, escala, y muito mas con lo solo navegador feito pa desenvolvedors.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = La { -brand-name-developer-edition } ye una plataforma de desenvolvimiento y prebas instable. Per defecto, los datos se ninviarán a { -brand-name-mozilla } (y bella vez tamién ta los nuestros socios) pa aduyar-nos a tractar los problemas y prebar ideyas. <a href="{ $link }">Veyer qué información se replegará</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } ninvia automaticament información a { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }

@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Thử các tính năng mới n
 firefox-channel-all-languages-and-platforms = Tất cả nền tảng và ngôn ngữ
 firefox-channel-all-languages-and-builds = Tất cả ngôn ngữ và kiến trúc
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } là một nền tảng phát triển và thử nghiệm không ổn định. Theo mặc định, { -brand-name-beta } gửi dữ liệu đến { -brand-name-mozilla } — và đôi khi các đối tác của chúng tôi — để giúp chúng tôi xử lý các vấn đề và thử các ý tưởng. <a href="{ $link }">Tìm hiểu những gì được chia sẻ</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } tự động gửi phản hồi về cho { -brand-name-mozilla }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Gửi phản hồi cho chúng tôi</a> giúp chúng tôi đưa ra những tinh chỉnh cuối cùng về mặt hiệu suất và chức năng ở phiên bản ổn định.
 firefox-channel-check-out-new-android-features = Kiểm tra các tính năng mới của { -brand-name-android } trong giai đoạn đầu phát triển. Hãy vui vẻ nếu có lỗi xảy ra.
 firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } là một nền tảng thử nghiệm và phát triển không ổn định. Theo mặc định, { -brand-name-nightly } sẽ gửi dữ liệu tới { -brand-name-mozilla } — và đôi khi các đối tác của chúng tôi — để giúp chúng tôi xử lý vấn đề và thử các ý tưởng. <a href="{ $link }">Tìm hiểu những gì được chia sẻ</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } tự động gửi phản hồi cho { -brand-name-mozilla }.
 firefox-channel-experience-cutting-edge-desktop = Trải nghiệm các tính năng trình duyệt tiên tiến trong các phiên bản tiền phát hành: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } và { -brand-name-firefox-nightly }. Tải xuống ngay!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = Bản dụng trước đây của { -b
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Xây dựng, kiểm tra, mở rộng và nhiều hơn nữa với trình duyệt được xây dựng dành cho nhà phát triển.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } là một nền tảng thử nghiệm và phát triển không ổn định. Theo mặc định, { -brand-name-developer-edition } gửi dữ liệu đến { -brand-name-mozilla } — và đôi khi các đối tác của chúng tôi — để giúp chúng tôi xử lý các vấn đề và thử ý tưởng. <a href="{ $link }">Tìm hiểu những gì được chia sẻ</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } tự động gửi phản hồi tới { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }

@@ -22,7 +22,7 @@ firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } cwalo 
 firefox-channel-check-out-new-android-features = Nen jami manyen me { -brand-name-android } wa ki ii acaki gi. Nong mite kit ma itwero.
 firefox-channel-nightly-blog = Coc me { -brand-name-nightly }
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } obedo kabedo me temo ki yubo jami. Pire kene, { -brand-name-nightly } cwalo data bot { -brand-name-mozilla } — ki kare mukene bot jo ma oribe kwedwa — me konyo wa yubo peko ki temo tam. <a href="{ $link }">Nong ngec i ngo ma kinywako</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } cwalo adwogi pire kene bot { -brand-name-mozilla }.
 firefox-channel-experience-cutting-edge-desktop = Nong jami manyen loyo me layeny mapud pe kikelo gi woko: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } ka { -brand-name-firefox-nightly }. Gam kombedi!

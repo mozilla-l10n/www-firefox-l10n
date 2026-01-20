@@ -21,7 +21,7 @@ firefox-channel-try-the-latest-android-features = Xikonixejeko inepaleuiluan { -
 firefox-channel-all-languages-and-builds = Nochin tepostajtolis uan compilaciones
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } iselti san kititanilia { -brand-name-mozilla } tanemililmej.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Xitechonpanoltili motanemililuan</a> maj titechonpaleui tiktamiyektaliskej keniuj taki totachiualisuan uan nepaleuilmej kampa amo mopatatok.
 firefox-channel-check-out-new-android-features = Xiontachiati yankuikej nepaleuilmej ika { -brand-name-android } ijkuak peua. Xionixmatati uan xionmopakilti.
 firefox-channel-nightly-blog = Tepostanojnots blog tein poui { -brand-name-nightly }

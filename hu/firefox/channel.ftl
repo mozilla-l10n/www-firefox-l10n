@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Próbálja ki a legújabb { -b
 firefox-channel-all-languages-and-platforms = Minden nyelv és platform
 firefox-channel-all-languages-and-builds = Minden nyelv és kiadás
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = A { -brand-name-beta } egy nem stabil tesztelői és fejlesztői platform. Alapértelmezetten, a { -brand-name-beta } adatokat küld a { -brand-name-mozilla } részére – és néha a partnereinknek is, hogy segítsen nekünk kezelni a problémákat, és hogy új ötleteket próbáljunk ki. <a href="{ $link }">Tudja meg mi kerül megosztásra</a>.
 firefox-channel-firefox-beta-automatically = A { -brand-name-firefox-beta } automatikusan visszajelzést küld a { -brand-name-mozilla } részére.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Mondja el véleményét</a>, hogy a stabil verzió megfelelő teljesítményt és funkcionalitást nyújtson.
 firefox-channel-check-out-new-android-features = Próbálja ki a legújabb { -brand-name-android } funkciókat a legkorábbi állapotukban. Élvezze a saját felelősségére.
 firefox-channel-nightly-blog = { -brand-name-nightly } Blog
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = A { -brand-name-nightly } egy nem stabil tesztelői és fejlesztői platform. Alapértelmezetten, a { -brand-name-nightly } adatokat küld a { -brand-name-mozilla } részére – és néha a partnereinknek is, hogy segítsen nekünk kezelni a problémákat, és hogy új ötleteket próbáljunk ki. <a href="{ $link }">Tudja meg mi kerül megosztásra</a>.
 firefox-channel-firefox-nightly-automatically = A { -brand-name-firefox-nightly } automatikus visszajelzést küld a { -brand-name-mozilla } részére.
 firefox-channel-experience-cutting-edge-desktop = Próbálja ki a legújabb böngésző funkciókat az előzetes kiadású verziókban: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } és { -brand-name-firefox-nightly }. Töltse le most!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = Előző { -brand-name-nightly } össze
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Építsen, teszteljen és skálázzon az egyetlen csak fejlesztőknek készülő böngészővel.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = A { -brand-name-developer-edition } egy nem stabil tesztelői és fejlesztői platform. Alapértelmezetten, a { -brand-name-developer-edition } adatokat küld a { -brand-name-mozilla } részére – és néha a partnereinknek is, hogy segítsen nekünk kezelni a problémákat, és hogy új ötleteket próbáljunk ki. <a href="{ $link }">Tudja meg mi kerül megosztásra</a>.
 firefox-channel-firefox-developer-edition = A { -brand-name-firefox-developer-edition } automatikus visszajelzést küld a { -brand-name-mozilla } részére.
 firefox-channel-nightly = { -brand-name-nightly }

@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Vyskúšajte najnovšie funkci
 firefox-channel-all-languages-and-platforms = Všetky jazyky a platformy
 firefox-channel-all-languages-and-builds = Všetky jazyky a verzie
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } je nestabilné zostavenie určené na testovanie a vývoj. V predvolenom nastavení odosiela { -brand-name-beta } údaje { -brand-name-mozilla(case: "dat") } - a niekedy našim partnerom - za účelom riešenia problémov a skúšania nových nápadov. <a href="{ $link }">Viac informácií o odosielaných údajoch</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } automaticky odosiela spätnú väzbu { -brand-name-mozilla(case: "dat") }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Pošlite nám spätnú väzbu</a> a pomôžte nám vylepšiť výkon a funkcionalitu vo finálnych verzií Firefoxu.
 firefox-channel-check-out-new-android-features = Vyskúšajte nové funkcie na { -brand-name-android(case: "loc") } v ich raných fázach. Zážitok na vlastné nebezpečenstvo.
 firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } je nestabilné zostavenie určené na testovanie a vývoj. V predvolenom nastavení odosiela { -brand-name-nightly } údaje { -brand-name-mozilla(case: "dat") } - a niekedy našim partnerom - za účelom riešenia problémov a skúšania nových nápadov. <a href="{ $link }">Viac informácií o odosielaných údajoch</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } automaticky odosiela spätnú väzbu { -brand-name-mozilla(case: "dat") }.
 firefox-channel-experience-cutting-edge-desktop = Vyskúšajte si najnovšie funkcie vo vývojových verziách prehliadača: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } a { -brand-name-firefox-nightly }. Stiahnite si ich hneď teraz!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = Predchádzajúce vydania { -brand-name
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Vyvíjajte, testujte a experimentujte s jediným prehliadačom vytvoreným špeciálne pre vývojárov.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } je nestabilné zostavenie určené na testovanie a vývoj. V predvolenom nastavení odosiela { -brand-name-developer-edition } údaje { -brand-name-mozilla(case: "dat") } - a niekedy našim partnerom - za účelom riešenia problémov a skúšania nových nápadov. <a href="{ $link }">Viac informácií o odosielaných údajoch</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } automaticky odosiela spätnú väzbu { -brand-name-mozilla(case: "dat") }.
 firefox-channel-nightly = { -brand-name-nightly }

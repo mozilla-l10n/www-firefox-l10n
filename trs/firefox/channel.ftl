@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Garasun sa gi'iaj sunt ne'ñan
 firefox-channel-all-languages-and-platforms = Daran' chre nej nuguan'an ni plataforma
 firefox-channel-all-languages-and-builds = Daran' nej nanj a'mi
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } sani 'ngo plataformâ hiaj arâj huè si ni gàchin nahuin hue'ej. Yi'ì dan Bêta a'nïn nuguan'an riña { -brand-name-mozilla } — ni da'aj nej dugui' ñûnj — rugûñu'unj nej si nagi'iaj sà' ñûnj sa huaa. <a href="{ $link }"> Gini'in si nuhuìn si yinga'</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } ni a'nìn ma'an nuguan'an riña { -brand-name-mozilla }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Gataj nuin si anin ruhuat</a> da' gi'iaj sun hue'e ma.
 firefox-channel-check-out-new-android-features = Ni'iaj daj 'iaj sun { -brand-name-android } diu na. Garasun ma daj garan' ruhuat.
 firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } sani 'ngo plataformâ hìaj arâj huè si ni gàchin nahuin hue'ej. Yi'ì dan { -brand-name-nightly } a'nïn nuguan'an riña { -brand-name-mozilla } — ni da'aj nej dugui' ñûnj — rugûñu'unj nej si nagi'iaj sà' ñûnj sa huaa. <a href="{ $link }">Gini'in si nuhuìn si yinga'</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } a'nìn ma'an nuguan'an riña { -brand-name-mozilla }.
 firefox-channel-experience-cutting-edge-desktop = Gini’iāj nī gini’înt dàj nadunâ ‘iaj sun a’ngô navegador hìaj gahuī nakà: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } ngà { -brand-name-firefox-nightly }. ¡Nadunïnj hìaj!
@@ -41,7 +41,7 @@ firefox-channel-release-notes = Nuguan' ri' riña aga' na
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Nagi'iaj, ni nachrá navegador gi'iaj nej si guenda re'.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = Ma sa arâj huè si huin { -brand-name-developer-edition } nī sê sa yitïnj ïn huin. Sa hūaj huin sisī, a'nïn { -brand-name-developer-edition } nuguan'an riña { -brand-name-mozilla } — asi riña a'ngô nej sa 'iaj sun ngà ñûnj — da' rugûñu'un nagi'iaj ñûnj sa huā a'nan'an asi nagi'iaj nakà ñûnj 'ngō sa huāa. <a href="{ $link }">Gini'in ahuin nuguan' duyingaj</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } A'nìn ma'an nuguan'an riña { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }

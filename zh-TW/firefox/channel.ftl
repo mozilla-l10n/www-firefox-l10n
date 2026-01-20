@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = 在 { -brand-name-android } �
 firefox-channel-all-languages-and-platforms = 所有語言與平台
 firefox-channel-all-languages-and-builds = 所有語言與編譯版本
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } 版是一個不穩定的測試與開發平台。預設情況下，{ -brand-name-beta } 版會傳送資料回 { -brand-name-mozilla }，某些時候還會傳送給我們的夥伴，以協助我們處理問題與測試新功能的點子。<a href="{ $link }">了解會回傳哪些資料</a>。
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } 會自動傳送意見回饋給 { -brand-name-mozilla }。
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">提供意見回饋</a> 幫助我們做最後的效能與功能調整到更穩定的狀態。
 firefox-channel-check-out-new-android-features = 搶先試用剛出爐的 { -brand-name-android } 版本最新功能，使用時請多留意。
 firefox-channel-nightly-blog = { -brand-name-nightly } 部落格
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } 版是一個不穩定的測試與開發平台。預設情況下，{ -brand-name-nightly } 版會傳送資料回 { -brand-name-mozilla }，某些時候還會傳送給我們的夥伴，以協助我們處理問題與測試新功能的點子。<a href="{ $link }">了解會回傳哪些資料</a>。
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } 會自動傳送意見回饋給 { -brand-name-mozilla }。
 firefox-channel-experience-cutting-edge-desktop = 體驗測試版瀏覽器當中的最新功能: 立即安裝 { -brand-name-firefox-developer-edition }、{ -brand-name-firefox-beta } 或 { -brand-name-firefox-nightly }！
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = 先前的 { -brand-name-nightly } 編�
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = 使用專門為開發者打造的瀏覽器進行建構、測試、測量。
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } 是一個不穩定的測試與開發平台。預設情況下，{ -brand-name-developer-edition } 會傳送資料回 { -brand-name-mozilla }，某些時候還會傳送給我們的夥伴，以協助我們處理問題與測試新功能的點子。<a href="{ $link }">了解會回傳哪些資料</a>。
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } 會自動回傳資料給 { -brand-name-mozilla }。
 firefox-channel-nightly = { -brand-name-nightly }

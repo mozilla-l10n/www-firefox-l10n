@@ -21,11 +21,11 @@ firefox-channel-try-the-latest-android-features = Klaskit keweriusterioù diwezh
 firefox-channel-all-languages-and-platforms = An holl yezhoù ha savennoù
 firefox-channel-all-languages-and-builds = An holl yezhoù hag handelvoù
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = Ur savenn amprouiñ ha diorren eo { -brand-name-beta }. Dre ziouez e kas { -brand-name-beta } roadennoù da v{ -brand-name-mozilla } — ha d'hor c'hevelerien a-wechoù — evit sikour ac'hanomp da verañ kudennoù ha klask mennozhioù. <a href="{ $link }">Deskit petra vez rannet</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } a gas titouroù ent emgefreek da v{ -brand-name-mozilla }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Roit hoc'h ali</a> evit sikour ac'hanomp da beurlipat an digonusted hag ar c'heweriusterioù en un endro stabil.
 firefox-channel-check-out-new-android-features = Dizoloit keweriusterioù nevez { -brand-name-android } en o fazennoù kentañ, daoust d'ar riskloù.
 firefox-channel-nightly-blog = Blog { -brand-name-nightly }
@@ -37,7 +37,7 @@ firefox-channel-release-notes = Notenn a-zivout an handelv
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Savit, amprouit, skeuilhit ha muioc'h c'hoazh gant ar merdeer nemetañ savet evit an diorroerien hepken.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = Ur savenn amprouiñ ha diorren distabil eo { -brand-name-developer-edition }. Dre ziouer e kas { -brand-name-developer-edition } roadennoù da v{ -brand-name-mozilla } — Hag hor c'hevelerien a-wechoù — evit sikour ac'hanomp da verañ kudennoù ha klask mennozhioù. <a href="{ $link }">Deskit petra vez rannet</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } a gas ent emgefreek evezhiadennoù da v{ -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }

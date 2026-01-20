@@ -18,7 +18,7 @@ firefox-channel-try-the-latest-android-features = अरुसम्म पु�
 firefox-channel-all-languages-and-builds = सवै भाषाहरू र Build हरू
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } ले सुझावहरू स्वतः { -brand-name-mozilla } लाई पठाउँछ।
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = Firefox राम्रो बनाउन <a rel="external" href="{ $feedback }">हामिलाई सुझाव दिनुहोस्</a>।
 firefox-channel-check-out-new-android-features = नयाँ { -brand-name-android } का विशेषताहरू जाँच्नुहोस्। आफ्नै जोखिममा आनन्द लिनुहोस्।
 firefox-channel-nightly-blog = { -brand-name-nightly } Blog

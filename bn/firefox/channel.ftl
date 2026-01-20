@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = অবশিষ্ট বি�
 firefox-channel-all-languages-and-platforms = সকল ভাষা এবং মাধ্যম
 firefox-channel-all-languages-and-builds = সব ভাষা ও বিল্ড
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } একটি পরিবর্তনশীল পরীক্ষামূলক ও ডেভলপমেন্ট প্লাটফর্ম। সমস্যা মোকাবেলায় এবং নতুন ধারণাগুলো পরীক্ষা করতে — পূর্বনির্ধারিতভাবে, বেটা { -brand-name-mozilla } — ও অনেক ক্ষেত্রে অংশীদারদের কাছে তথ্য প্রেরণ করে। <a href="{ $link }">জানুন কি পাঠানো হয়</a>।
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } স্বয়ংক্রিয়ভাবে { -brand-name-mozilla } কে ফিডব্যাক পাঠিয়ে দেয়।
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = স্থিতিশীল পরিবেশের পারফর্ম্যান্স ও কার্যকারিতায় চূরান্ত সমন্বয়ের জন্য <a rel="external" href="{ $feedback }">মতামত দিন</a>।
 firefox-channel-check-out-new-android-features = { -brand-name-android } এর নতুন ফিচারগুলো প্রাথমিক অবস্থায় যাচাই করুন। নিজ দায়িত্বে ব্যবহার করুন।
 firefox-channel-nightly-blog = { -brand-name-nightly } ব্লগ
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } একটি পরিবর্তনশীল পরীক্ষামূলক ও ডেভলপমেন্ট প্লাটফর্ম। সমস্যা মোকাবেলায় এবং নতুন ধারণাগুলো পরীক্ষা করতে — পূর্বনির্ধারিতভাবে, বেটা { -brand-name-mozilla } — ও অনেক ক্ষেত্রে অংশীদারদের কাছে তথ্য প্রেরণ করে। <a href="{ $link }">জানুন কি পাঠানো হয়</a>।
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } স্বয়ংক্রিয়ভাবেই { -brand-name-mozilla } কে ফিডব্যাক পাঠিয়ে দেয়।
 firefox-channel-experience-cutting-edge-desktop = প্রি-রিলিজ সংস্করণে নতুন ও উন্নত ব্রাউজার বৈশিষ্ট্যগুলো উপভোগ করুন: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } এবং { -brand-name-firefox-nightly }। এখনই ডাউনলোড করুন!
@@ -41,7 +41,7 @@ firefox-channel-release-notes = রিলিজ নোট
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = বিল্ড, পরখ, সমৃদ্ধ করা সহ আরও অনেক কিছু করুন এমনি একটি ব্রাউজারে যা শুধুমাত্র তৈরী করা হয়েছে ডেভলপারদের জন্যে।
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } একটি পরিবর্তনশীল পরীক্ষামূলক ও ডেভলপমেন্ট প্লাটফর্ম। সমস্যা মোকাবেলায় এবং নতুন ধারণাগুলো পরীক্ষা করতে — পূর্বনির্ধারিতভাবে, বেটা { -brand-name-mozilla } — ও অনেক ক্ষেত্রে অংশীদারদের কাছে তথ্য প্রেরণ করে। <a href="{ $link }">জানুন কি পাঠানো হয়</a>।
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } স্বয়ংক্রিয়ভাবেই { -brand-name-mozilla } কে ফিডব্যাক পাঠিয়ে দেয়।
 firefox-channel-nightly = { -brand-name-nightly }

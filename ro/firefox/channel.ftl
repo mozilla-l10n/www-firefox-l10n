@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Încearcă ultimele funcționa
 firefox-channel-all-languages-and-platforms = Toate limbile și platformele
 firefox-channel-all-languages-and-builds = Toate limbile și versiunile
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } este o platformă instabilă, folosită pentru testare și dezvoltare. { -brand-name-beta } trimite în mod implicit date la { -brand-name-mozilla } - și uneori la partenerii noștri - pentru a ne ajuta în rezolvarea problemelor și ca să încercăm idei noi. <a href="{ $link }">Află ce informații sunt partajate</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } trimite automat feedback la { -brand-name-mozilla }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Dă-ne feedback</a> pentru a ne ajuta să implementăm optimizările finale de performanță și funcționalitate într-un mediu stabil.
 firefox-channel-check-out-new-android-features = Încearcă noile funcționalități pentru { -brand-name-android } în stadiile incipiente. Bucură-te de ele, dar pe riscul tău.
 firefox-channel-nightly-blog = Blogul { -brand-name-nightly }
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } este o platformă instabilă, folosită pentru testare și dezvoltare. { -brand-name-nightly } trimite în mod implicit date la { -brand-name-mozilla } - și uneori la partenerii noștri - pentru a ne ajuta în rezolvarea problemelor și ca să încercăm idei noi. <a href="{ $link }">Află ce informații sunt partajate</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } trimite automat feedback la { -brand-name-mozilla }.
 firefox-channel-experience-cutting-edge-desktop = Experimentează funcționalitățile de ultimă oră într-o versiune preliminară a browserului: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } și { -brand-name-firefox-nightly }. Descarcă acum!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = Compilații anterioare de { -brand-nam
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Construiește, testează, scalează și multe altele cu singurul browser construit special pentru dezvoltatori.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } este o platformă instabilă, folosită pentru testare și dezvoltare. { -brand-name-developer-edition } trimite în mod implicit date la { -brand-name-mozilla } - și uneori la partenerii noștri - pentru a ne ajuta în rezolvarea problemelor și ca să încercăm idei noi. <a href="{ $link }">Află ce informații sunt partajate</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } trimite automat feedback la { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }

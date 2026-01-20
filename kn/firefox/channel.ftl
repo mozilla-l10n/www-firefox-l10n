@@ -13,7 +13,7 @@ firefox-channel-tips-for-filing-a-bug = ಬಗ್ಸ್ ಸೇರಿಸಲು �
 firefox-channel-all-languages-and-platforms = ಎಲ್ಲಾ ಭಾಷೆಗಳು ಮತ್ತು ವೇದಿಕೆಗಳು
 firefox-channel-all-languages-and-builds = ಎಲ್ಲಾ ಭಾಷೆಗಳು ಮತ್ತು ಬಿಲ್ಡ್‌ಗಳು
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">ಅನಿಸಿಕೆಯನ್ನು ನಮಗೆ ನೀಡಿ</a> ಕಾರ್ಯನಿರ್ವಹಣೆ ಮತ್ತು ಕಾರ್ಯಶೀಲತೆಯಲ್ಲಿ ಅಂತಿಮ ಸರಿಪಡಿಕೆಗಳನ್ನು ಮಾಡುವಲ್ಲಿ ನೆರವಾಗಿ.
 firefox-channel-nightly-blog = { -brand-name-nightly } ಬ್ಲಾಗ್
 firefox-channel-beta = { -brand-name-beta }

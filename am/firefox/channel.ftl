@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = ለተቀረው አለም ከ�
 firefox-channel-all-languages-and-platforms = ሁሉም ቋንቋዎች እና መድረኮች
 firefox-channel-all-languages-and-builds = ሁሉም ቋንቋዎች እና ስራዉች
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } ያልተረጋጋ የሙከራ እና በመበልፀግ ላይ ያለ መድረክ ነው። በነባሪ { -brand-name-beta } ችግሮችን እንድንፈታ እና ሀሳቦችን እንድንሞክር ለማገዝ ወደ { -brand-name-mozilla } — እና አንዳንዴም ወደ አጋሮቻችን — ውሂብ ይልካል። <a href="{ $link }">ምን እንደተጋራ ይወቁ</a>።
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } በራስ ሰር ወደ { -brand-name-mozilla } ግብረ መልስ ይልካል።
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">አስተያየት ይስጡን</a> በተረጋጋ አካባቢ ውስጥ በአፈጻጸም እና ተግባራዊነት ላይ የመጨረሻ ለውጦችን እንድናደርግ ይረዳናል።
 firefox-channel-check-out-new-android-features = አዲስ የ{ -brand-name-android } ባህሪያትን በመጀመሪያ ደረጃቸው ይመልከቱ። በራስዎ ኃላፊነት ይደሰቱ።
 firefox-channel-nightly-blog = { -brand-name-nightly } ጦማር
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ያልተረጋጋ የሙከራ እና በስሪት ያለ መድረክ ነው። በነባሪ { -brand-name-nightly } ችግሮችን እንድንቋቋም እና ሀሳቦችን እንድንሞክር ለማገዝ ወደ { -brand-name-mozilla } — እና አንዳንዴም ወደ አጋሮቻችን — ውሂብ ይልካል። <a href="{ $link }">ምን እንደተጋራ ይወቁ</a>።
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } በራስ ሰር ወደ { -brand-name-mozilla } ግብረ መልስ ይልካል።
 firefox-channel-experience-cutting-edge-desktop = በቅድመ-መለቀቅ ስሪቶች ውስጥ በጣም ጥሩ የአሳሽ ባህሪያትን ይለማመዱ፡{ -brand-name-firefox-developer-edition }፣ { -brand-name-firefox-beta } እና { -brand-name-firefox-nightly }። አሁኑኑ አውርድ!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = ቀዳሚ { -brand-name-nightly } ስ�
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = ይስሩ ይሞክሩ ያመዛዝኑ እና ሌሎችም ይሄ ሁሉ በአንድ አሳሽ ለዴቬሎፐር ተብሎ የተሰራ
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } ያልተረጋጋ የሙከራ እና በመበልፀግ ላይ ያለ መድረክ ነው። በነባሪ { -brand-name-developer-edition }ችግሮችን እንድንፈታ እና ሀሳቦችን እንድንሞክር ለማገዝ ወደ { -brand-name-mozilla } — እና አንዳንዴም ወደ አጋሮቻችን — ውሂብ ይልካል። <a href="{ $link }">ምን እንደተጋራ ይወቁ</a>።
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } በራስ ሰር ወደ { -brand-name-mozilla } ግብረ መልስ ይልካል።
 firefox-channel-nightly = { -brand-name-nightly }

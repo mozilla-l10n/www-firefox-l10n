@@ -21,7 +21,7 @@ firefox-channel-try-the-latest-android-features = Ensajar las darrièras foncion
 firefox-channel-all-languages-and-builds = Totas las lengas e versions
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } manda automaticament d'informacions a { -brand-name-mozilla }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Fasètz-nos remontar vòstra experiéncia</a> per nos ajudar a portar la tòca finala als melhoraments de performanças e a las foncionalitats dins un environament estable.
 firefox-channel-check-out-new-android-features = Descobrissètz las totas darrièras foncionalitats sus { -brand-name-android }. Gausissètz jos responsabilitat.
 firefox-channel-nightly-blog = Blog { -brand-name-nightly }

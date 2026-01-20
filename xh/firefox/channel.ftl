@@ -10,7 +10,7 @@ firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
 firefox-channel-download-and-test-future = Danlowuda uze uvavanye ezinye ii{ -brand-name-firefox } ezikhululelwa idesktophu, i{ -brand-name-android } ne-{ -brand-name-ios }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Sinike ingxelo</a> ukuze sincedakale ekubekeni izijungqe zokugqibela ekusebenzeni nasemsebenzini kwimeko ezinzileyo.
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-release-notes = Amanqaku oshicilelo

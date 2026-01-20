@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = Probearje de nijste { -brand-n
 firefox-channel-all-languages-and-platforms = Alle talen en platfoarms
 firefox-channel-all-languages-and-builds = Alle talen en builds
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } is in net-stabyl test- en ûntwikkelplatfoarm. Standert ferstjoert { -brand-name-beta } gegevens nei { -brand-name-mozilla } – en somtiden ús partners – om ús te helpen by it oanpakken fan problemen en it probearjen fan ideeën. <a href="{ $link }">Lês wat der dield wurdt</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } ferstjoert automatysk feedback nei { -brand-name-mozilla }.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Jou feedback</a> om ús te helpen de lêste oanpassingen oan prestaasjes en funksjonaliteit yn in stabile omjouwing oan te bringen.
 firefox-channel-check-out-new-android-features = Besjoch as earste nije funksjes yn { -brand-name-android }. Genietsje op eigen risiko.
 firefox-channel-nightly-blog = { -brand-name-nightly }-blog
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } is in net-stabyl test- en ûntwikkelplatfoarm. Standert ferstjoert { -brand-name-nightly } gegevens nei { -brand-name-mozilla } – en somtiden ús partners – om ús te helpen by it oanpakken fan problemen en it probearjen fan ideeën. <a href="{ $link }">Lês wat der dield wurdt</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } ferstjoert automatysk feedback nei { -brand-name-mozilla }.
 firefox-channel-experience-cutting-edge-desktop = Underfyn grinsferlizzende browserfunksjes yn pre-release-ferzjes: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } en { -brand-name-firefox-nightly }. Ynstallearje it no!
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = Eardere builds fan { -brand-name-night
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Bou, test, skeal en doch mear mei de iennichste browser dy’t makke is foar ûntwikkelers.
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } is in net-stabyl test- en ûntwikkelplatfoarm. Standert ferstjoert { -brand-name-developer-edition } gegevens nei { -brand-name-mozilla } – en somtiden ús partners – om ús te helpen by it oanpakken fan problemen en it probearjen fan ideeën. <a href="{ $link }">Lês wat der dield wurdt</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } ferstjoert automatysk feedback nei { -brand-name-mozilla }.
 firefox-channel-nightly = { -brand-name-nightly }

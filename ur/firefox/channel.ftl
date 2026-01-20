@@ -20,16 +20,16 @@ firefox-channel-try-the-latest-android-features = تازہ تریں { -brand-nam
 firefox-channel-all-languages-and-platforms = تمام زبانیں اور پلیٹ فارمز
 firefox-channel-all-languages-and-builds = تمام زبانیں اور بلڈز
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } ایک غیر مستحکم جانچ اور ڈویلپمنٹ  کا پلیٹ فارم ہے۔ پہلے سے طے شدہ طور پر ، { -brand-name-beta } { -brand-name-mozilla }- اور بعض اوقات ہمارے شراکت داروں کو ڈیٹا بھیجتا ہے تاکہ مسائل کو حل کرنے اور خیالات کو آزمانے میں ہماری مدد کی جاسکے۔ <a href="{ $link }"> سیکھن کیا شیر ہوا ہے ہے </a>۔
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } خودکار طور پر  { -brand-name-mozilla } لئے رائے ارسال کرتے ہیں.
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">ہمیں رد عمل دیں</a> اور مدد کریں تاکی ہم مستحکم ماحول میں آخر موافقت کر سکے کارکردگی اور فعالیت پر۔
 firefox-channel-check-out-new-android-features = ابتدائی مراحل میں نئی { -brand-name-android } خصوصیات کی پڑتال کریں. اپنی ذمہ داری پر لطف اندوز ہوں.
 firefox-channel-nightly-blog = { -brand-name-nightly } بلاگ
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ایک غیر مستحکم جانچ اور ڈویلپمنٹ  کا پلیٹ فارم ہے۔ پہلے سے طے شدہ طور پر ، { -brand-name-nightly } { -brand-name-mozilla }- اور بعض اوقات ہمارے شراکت داروں کو ڈیٹا بھیجتا ہے تاکہ مسائل کو حل کرنے اور خیالات کو آزمانے میں ہماری مدد کی جاسکے۔ <a href="{ $link }"> سیکھن کیا شیر ہوا ہے ہے </a>۔
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } خودکار طور پر { -brand-name-mozilla } کو رد عمل ارسال کرتا ہے۔
 firefox-channel-experience-cutting-edge-desktop = پری ریلیز والے ورژن میں جدید خصوصیات کا تجربہ کریں:{ -brand-name-firefox-developer-edition }،{ -brand-name-firefox-beta }  اور فائر { -brand-name-firefox-nightly }۔ ابھی انسٹال کریں!
@@ -40,7 +40,7 @@ firefox-channel-previous-nightly-builds = پچھلی { -brand-name-nightly } ب�
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = بنائیں, جانچیں ، تغیر کریں اور مزید صرف اس برائوزر کے ساتھ جو تخلیق کاروں کے لیئے بنا ہو۔
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } ایک غیر مستحکم جانچ اور ڈویلپمنٹ  کا پلیٹ فارم ہے۔ پہلے سے طے شدہ طور پر ، { -brand-name-developer-edition } { -brand-name-mozilla }- اور بعض اوقات ہمارے شراکت داروں کو ڈیٹا بھیجتا ہے تاکہ مسائل کو حل کرنے اور خیالات کو آزمانے میں ہماری مدد کی جاسکے۔ <a href="{ $link }"> سیکھن کیا شیر ہوا ہے ہے </a>۔
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition }خودکار طور پر  { -brand-name-mozilla } لئے رائے ارسال کرتے ہیں.
 firefox-channel-nightly = { -brand-name-nightly }

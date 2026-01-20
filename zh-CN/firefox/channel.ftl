@@ -21,16 +21,16 @@ firefox-channel-try-the-latest-android-features = 提前体验和尝试最新的
 firefox-channel-all-languages-and-platforms = 所有语言和平台
 firefox-channel-all-languages-and-builds = 所有语言和版本
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } 版本是不稳定的测试和开发平台。默认情况下，{ -brand-name-beta } 版本会向 { -brand-name-mozilla } 发送数据，有时数据也会发送给我们的合作伙伴，以帮助我们处理问题与测试一些新点子。<a href="{ $link }">了解会回传哪些数据</a>。
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } 版会自动发送反馈信息到 { -brand-name-mozilla }。
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">提供反馈</a>帮助我们将性能和功能最终调整到稳定的环境。
 firefox-channel-check-out-new-android-features = 最先体验 { -brand-name-android } 版的最新功能。享受的同时，请自担风险。
 firefox-channel-nightly-blog = { -brand-name-nightly } 博客
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } 版本是不稳定的测试和开发平台。默认情况下，开发者版本会向 { -brand-name-mozilla } 发送数据，有时数据也会发送给我们的合作伙伴，以帮助我们处理问题与测试一些新点子。<a href="{ $link }">了解会回传哪些数据</a>。
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } 版会自动发送反馈到 { -brand-name-mozilla }。
 firefox-channel-experience-cutting-edge-desktop = 在下列预发布版本中可体验到最新的浏览器功能：{ -brand-name-firefox-developer-edition }、{ -brand-name-firefox-beta } 与 { -brand-name-firefox-nightly }。立即下载！
@@ -42,7 +42,7 @@ firefox-channel-previous-nightly-builds = 先前的 { -brand-name-nightly } 构�
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = 使用专为开发者打造的浏览器进行构建、测试和测量。
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = 开发者版本是不稳定的测试和开发平台。默认情况下，{ -brand-name-developer-edition }会向 { -brand-name-mozilla } 发送数据，有时数据也会发送给我们的合作伙伴，以帮助我们处理问题与测试一些新点子。<a href="{ $link }">了解会回传哪些数据</a>。
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition }会自动发送反馈到 { -brand-name-mozilla }。
 firefox-channel-nightly = { -brand-name-nightly }
