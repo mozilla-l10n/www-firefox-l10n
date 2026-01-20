@@ -5,6 +5,9 @@
 navigation-firefox-home = Cartref { -brand-name-firefox }
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = Cynradd
+navigation-browser = Porwr
+navigation-close-menu = Cau'r ddewislen
+navigation-get-firefox = Cael { -brand-name-firefox }
 
 ## Features
 

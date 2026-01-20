@@ -69,6 +69,7 @@ footer-logo-trademark-licensing = Trwyddedu Nod Masnach Logo
 
 footer-language = Iaith
 footer-go = Mynd
+footer-ask-question = Gofynnwch gwestiwn i ni!
 footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding

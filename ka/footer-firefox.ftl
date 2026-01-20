@@ -69,6 +69,7 @@ footer-logo-trademark-licensing = ლოგო, სავაჭრო ნიშ�
 
 footer-language = ენა
 footer-go = წინ
+footer-ask-question = დავსვით კითხვა!
 footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding

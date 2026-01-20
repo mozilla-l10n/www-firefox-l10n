@@ -5,6 +5,9 @@
 navigation-firefox-home = { -brand-name-firefox } kezdőlap
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = Elsődleges
+navigation-browser = Böngésző
+navigation-close-menu = Menü bezárása
+navigation-get-firefox = { -brand-name-firefox } beszerzése
 
 ## Features
 
