@@ -7,6 +7,7 @@ navigation-firefox-home = startowy bok { -brand-name-firefox }
 navigation-landmark-label = Primarny
 navigation-browser = Wobglědowak
 navigation-close-menu = Meni zacyniś
+navigation-get-firefox = Wobstarajśo se { -brand-name-firefox }
 
 ## Features
 
