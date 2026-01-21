@@ -510,3 +510,5 @@
         [loc] Chromebooku
        *[nom] Chromebook
     }
+# Enterprise program name
+-brand-name-support-for-organizations = Wsparcie dla organizacji
