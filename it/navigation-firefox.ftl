@@ -5,6 +5,9 @@
 navigation-firefox-home = Pagina iniziale di { -brand-name-firefox }
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = Primario
+navigation-browser = Browser
+navigation-close-menu = Chiudi menu
+navigation-get-firefox = Ottieni { -brand-name-firefox }
 
 ## Features
 
