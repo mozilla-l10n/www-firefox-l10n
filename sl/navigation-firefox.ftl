@@ -5,6 +5,9 @@
 navigation-firefox-home = Dom { -brand-name-firefox(sklon: "rodilnik") }
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = Glavno
+navigation-browser = Brskalnik
+navigation-close-menu = Zapri meni
+navigation-get-firefox = Prenesite { -brand-name-firefox }
 
 ## Features
 
