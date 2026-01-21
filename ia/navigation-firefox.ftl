@@ -7,6 +7,7 @@ navigation-firefox-home = Pagina initial de { -brand-name-firefox }
 navigation-landmark-label = Primari
 navigation-browser = Navigator
 navigation-close-menu = Clauder menu
+navigation-get-firefox = Discarga { -brand-name-firefox }
 
 ## Features
 
