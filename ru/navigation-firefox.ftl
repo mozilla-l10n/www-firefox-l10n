@@ -7,7 +7,7 @@ navigation-firefox-home = Домашняя страница { -brand-name-firefo
 navigation-landmark-label = Основной
 navigation-browser = Браузер
 navigation-close-menu = Закрыть меню
-navigation-get-firefox = Загрузить { -brand-name-firefox }
+navigation-get-firefox = Скачать { -brand-name-firefox }
 
 ## Features
 
