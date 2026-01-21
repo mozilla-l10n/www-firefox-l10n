@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-deploy-when-and-how-you-want = Instaliraj kada i kako želiš
 firefox-enterprise-enterprise-downloads = Preuzimanja za { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } (64-bitni)
@@ -14,6 +15,7 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } – MSI instalacijski program
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) – MSI instalacija
+firefox-enterprise-resources = Resursi
 firefox-enterprise-msi-installers = MSI instalacijski programi
 firefox-enterprise-legacy-browser-support = Podrška za stare web preglednike
 firefox-enterprise-admx-templates = ADMX predlošci

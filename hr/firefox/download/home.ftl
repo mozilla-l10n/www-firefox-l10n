@@ -34,12 +34,15 @@ firefox-home-your-stuff = Tvoje stvari, na svim tvojim ekranima
 firefox-home-get-firefox-mobile = Nabavi { -brand-name-firefox } mobile kako bi tvoje lozinke, kartice i povijest, kao i tvoja privatnost i sigurnost, bile s tobom kamo god ideš.
 firefox-home-privacy-built-in = Ugrađena privatnost
 firefox-home-personal-data-not-for-sale = Tvoji osobni podaci nisu na prodaju. Programi za praćenje i kolačići trećih strana su standardno blokirani, tako da možeš samo … pregledavati.
+firefox-home-learn-data-protection = Saznaj kako { -brand-name-firefox } štiti tvoje podatke
 
 ## Customization
 
+firefox-home-work-smarter = Radi pametnije, igraj snažnije
 # Variables
 #   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
 firefox-home-explore-the-possibilities = Pregledaj mogućnosti za istraživanje, kupovinu i više u <a { $extensions_attrs }>proširenjima</a>.
+firefox-home-bye-boring = Zbogom dosadni pregledniče
 
 ## Final call-out
 
