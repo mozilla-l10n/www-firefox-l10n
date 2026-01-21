@@ -28,4 +28,7 @@ firefox-enterprise-documentation-and-community = Dokumentacija i podrška zajedn
 firefox-enterprise-sample-plist-for-configuration = Primjer <a href="{ $url }">pliste za konfiguracijski profil</a>
 firefox-enterprise-pkg-installer = PKG instalacijski programi
 firefox-enterprise-windows-32-bit = { -brand-name-windows } (32-bitni)
+# Variables:
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
+firefox-enterprise-download-firefox-or-esr = Preuzmi { -brand-name-firefox } ili { -brand-name-firefox-esr } za <a { $firefox_all }>jedan drugi jezik ili platformu.</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
