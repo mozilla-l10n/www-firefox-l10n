@@ -16,3 +16,6 @@ ui-share = ចែក​រំលែក
 ui-menu = ​ម៉ឺនុយ
 ui-please-turn-on-javascript = សូម​បើក JavaScript ដើម្បី​បង្ហាញ​ទំព័រ​នេះ​ដោយ​ត្រឹមត្រូវ។
 ui-learn-more = ស្វែងយល់​​បន្ថែម
+ui-view = ទស្សនា
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = ការផ្សព្វផ្សាយ
