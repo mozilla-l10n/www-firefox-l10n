@@ -69,6 +69,7 @@ footer-logo-trademark-licensing = Иҷозатномаи тамғаи молӣ �
 
 footer-language = Забон
 footer-go = Гузариш
+footer-ask-question = Ба мо савол диҳед!
 footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding

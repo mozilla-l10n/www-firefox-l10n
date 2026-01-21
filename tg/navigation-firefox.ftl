@@ -5,6 +5,9 @@
 navigation-firefox-home = Саҳифаи асосии «{ -brand-name-firefox }»
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = Асосӣ
+navigation-browser = Браузер
+navigation-close-menu = Пӯшидани меню
+navigation-get-firefox = «{ -brand-name-firefox }»-ро ба даст оред
 
 ## Features
 
