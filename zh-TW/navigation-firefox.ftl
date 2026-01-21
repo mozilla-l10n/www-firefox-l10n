@@ -5,7 +5,7 @@
 navigation-firefox-home = { -brand-name-firefox } 首頁
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = 主要
-navigation-browser = 網頁瀏覽器
+navigation-browser = 瀏覽器
 navigation-close-menu = 關閉選單
 navigation-get-firefox = 下載 { -brand-name-firefox }
 

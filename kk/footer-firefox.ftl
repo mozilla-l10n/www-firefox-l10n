@@ -69,6 +69,7 @@ footer-logo-trademark-licensing = Логотип сауда белгісін л�
 
 footer-language = Тіл
 footer-go = Өту
+footer-ask-question = Бізге сұрақ қойыңыз!
 footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding

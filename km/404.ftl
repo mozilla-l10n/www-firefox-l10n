@@ -15,3 +15,6 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }"> ស្វែ�
 # Variables:
 #   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>ទាញយក</a> កម្មវិធីរុករក { -brand-name-firefox } សម្រាប់ឧបករណ៍ចល័ត ឬកុំព្យូទ័រលើតុរបស់អ្នក
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>បរិច្ចាគ</a> to the { -brand-name-mozilla-foundation }  និងទាញយកអ៊ីនធឺណិតពីបច្ចេកវិទ្យាធំៗវិញ។

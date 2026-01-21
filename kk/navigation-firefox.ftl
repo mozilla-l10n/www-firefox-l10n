@@ -5,6 +5,9 @@
 navigation-firefox-home = { -brand-name-firefox } басты беті
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = Негізгі
+navigation-browser = Браузер
+navigation-close-menu = Мәзірді жабу
+navigation-get-firefox = { -brand-name-firefox } алу
 
 ## Features
 
