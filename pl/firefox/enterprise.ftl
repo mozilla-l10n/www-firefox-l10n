@@ -18,6 +18,7 @@ firefox-enterprise-your-browser-your-business = Twoja przeglądarka, Twój bizne
 firefox-enterprise-deploy-when-and-how-you-want = Wdrażaj kiedy i jak chcesz
 firefox-enterprise-install-packages-policies = Dzięki pakietom instalacyjnym oraz szerokiemu zakresowi zasad i funkcji grupowych wdrażanie jest szybsze i bardziej elastyczne niż kiedykolwiek — i banalnie proste w systemach Windows, Linux i macOS.
 firefox-enterprise-release-cycles = Cykle wydań dopasowane do Twojej organizacji
+firefox-enterprise-choose-firefox-for-features-esr-stability = Wybierz { -brand-name-firefox(case: "gen") }, aby otrzymywać najnowsze funkcje i stabilne wersje co cztery tygodnie, lub { -brand-name-firefox-esr(case: "gen") }, aby cieszyć się długoterminową stabilnością, regularnymi aktualizacjami zabezpieczeń i corocznymi wydaniami głównymi.
 firefox-enterprise-enterprise-downloads = Pobieranie wydania { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } (64‑bitowy)
 firefox-enterprise-macos = { -brand-name-mac }
