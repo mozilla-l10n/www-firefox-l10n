@@ -8,7 +8,7 @@
 # Page title
 firefox-enterprise-use-firefox-esr-enterprise-browser = Użyj { -brand-name-firefox(case: "acc") } lub { -brand-name-esr(case: "acc") } jako przeglądarki korporacyjnej zapewniającej bezpieczeństwo na dużą skalę
 firefox-enterprise-brand-name = { -brand-name-enterprise }
-firefox-enterprise-protection-powered-by = Ochrona klasy korporacyjnej, oparta na { -brand-name-firefox(case: "dat") }
+firefox-enterprise-protection-powered-by = Ochrona klasy korporacyjnej, oparta na { -brand-name-firefox(case: "loc") }
 firefox-enterprise-your-browser-your-business = Twoja przeglądarka, Twój biznes
 firefox-enterprise-deploy-when-and-how-you-want = Wdrażaj kiedy i jak chcesz
 firefox-enterprise-install-packages-policies = Dzięki pakietom instalacyjnym oraz szerokiemu zakresowi zasad i funkcji grupowych wdrażanie jest szybsze i bardziej elastyczne niż kiedykolwiek — i banalnie proste w systemach Windows, Linux i macOS.
