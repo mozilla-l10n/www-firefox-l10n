@@ -8,6 +8,7 @@
 # Page title
 firefox-enterprise-use-firefox-esr-enterprise-browser = Użyj { -brand-name-firefox(case: "acc") } lub { -brand-name-esr(case: "acc") } jako przeglądarki korporacyjnej zapewniającej bezpieczeństwo na dużą skalę
 firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-protection-powered-by = Ochrona klasy korporacyjnej, oparta na { -brand-name-firefox(case: "dat") }
 firefox-enterprise-your-browser-your-business = Twoja przeglądarka, Twój biznes
 firefox-enterprise-deploy-when-and-how-you-want = Wdrażaj kiedy i jak chcesz
 firefox-enterprise-install-packages-policies = Dzięki pakietom instalacyjnym oraz szerokiemu zakresowi zasad i funkcji grupowych wdrażanie jest szybsze i bardziej elastyczne niż kiedykolwiek — i banalnie proste w systemach Windows, Linux i macOS.
@@ -33,3 +34,9 @@ firefox-enterprise-documentation-and-community = Dokumentacja i wsparcie społe
 firefox-enterprise-sample-plist-for-configuration = Przykładowe <a href="{ $url }">plist dla profilu konfiguracji</a>
 firefox-enterprise-pkg-installer = Instalator PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } (32‑bitowy)
+# Variables:
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
+firefox-enterprise-download-firefox-or-esr = Pobierz { -brand-name-firefox(case: "acc") } lub { -brand-name-firefox-esr(case: "acc") } dla <a { $firefox_all }>innego języka lub systemu</a>.
+firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+firefox-enterprise-early-access-is = Już teraz możesz skorzystać z wczesnego dostępu do naszego nowego programu wsparcia, który rusza w styczniu 2026 r. Program ten został stworzony z myślą o organizacjach korzystających z { -brand-name-firefox(case: "gen") } w celu zapewnienia bezpieczeństwa, odporności i suwerenności danych. Zapewnia on prywatne, niezawodne i dostosowane wsparcie dla wdrożeń na dużą skalę.
+firefox-enterprise-contact-sales = Kontakt z Działem Sprzedaży
