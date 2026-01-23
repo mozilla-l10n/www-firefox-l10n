@@ -21,20 +21,20 @@ firefox-channel-all-languages-and-platforms = सभी भाषाएँ त�
 firefox-channel-all-languages-and-builds = सारी भाषाएँ एवं संस्करण
 
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } एक अस्थिर टेस्टिंग और डेवलपमेंट प्लेटफ़ार्म है। डिफ़ॉल्ट रूप से, { -brand-name-beta } { -brand-name-mozilla } को डेटा भेजता है — और कभी कभार हमारे पार्टनरों को — ताकि हमे परेशानियों को संभालने और विचारों को जाँचने में मदद मिले। <a href="{ $link }">जाने क्या साझा होता है</a>।
 
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } स्वतः { -brand-name-mozilla } को प्रतिक्रिया भेजता है।
 
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = हमें <a rel="external" href="{ $feedback }">प्रतिक्रिया दे</a> ताकि हम अपने प्रदर्शन और कार्यक्षमता को एक स्थिर पर्यावरण में अंतिम रूप दे सकें।
 
 firefox-channel-check-out-new-android-features = नए { -brand-name-android } विशेषताओं को उनके शुरूआती चरणों में देखें। आनंद लें लेकिन खतरा मोल लेने के लिए तैयार रहें।
 firefox-channel-nightly-blog = { -brand-name-nightly } ब्लॉग
 
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } एक अस्थिर टेस्टिंग और डेवलपमेंट प्लेटफ़ार्म है। डिफ़ॉल्ट रूप से, { -brand-name-nightly } { -brand-name-mozilla } को डेटा भेजता है — और कभी कभार हमारे पार्टनरों को — ताकि हमे परेशानियों को संभालने और विचारों को जाँचने में मदद मिले। <a href="{ $link }">जाने क्या साझा होता है</a>।
 
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } स्वतः { -brand-name-mozilla } को प्रतिक्रिया भेजता है।
@@ -48,7 +48,7 @@ firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = डेवलपर्स के लिए बनाए गए एकमात्र ब्राउज़र के साथ बनाएँ, परीक्षण करें, मापें और भी बहुत कुछ करें।
 
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } एक अस्थिर टेस्टिंग और डेवलपमेंट प्लेटफ़ार्म है। डिफ़ॉल्ट रूप से, { -brand-name-developer-edition } { -brand-name-mozilla } को डेटा भेजता है — और कभी कभार हमारे पार्टनरों को — ताकि हमे परेशानियों को संभालने और विचारों को जाँचने में मदद मिले। <a href="{ $link }">जाने क्या साझा होता है</a>।
 
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } स्वतः { -brand-name-mozilla } को प्रतिक्रिया भेजता है।
