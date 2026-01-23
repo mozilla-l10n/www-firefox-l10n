@@ -21,20 +21,20 @@ firefox-channel-all-languages-and-platforms = Semua Bahasa dan Platform
 firefox-channel-all-languages-and-builds = Semua Bahasa dan Build
 
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } merupakan platform pengujian dan pengembangan yang tidak stabil. Secara bawaan, { -brand-name-beta } mengirim data ke { -brand-name-mozilla } — dan terkadang mitra kami — untuk membantu kami menangani masalah dan mencoba ide. <a href="{ $link }">Pelajari apa yang dibagikan</a>.
 
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } mengirim umpan balik secara otomatis ke { -brand-name-mozilla }.
 
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Beri kami umpan balik</a> untuk membantu kami melakukan perubahan terakhir pada kinerja dan fungsionalitas dalam lingkungan yang stabil.
 
 firefox-channel-check-out-new-android-features = Lihat fitur baru { -brand-name-android } di tahap paling awal. Nikmati dengan risiko Anda sendiri.
 firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } merupakan platform pengujian dan pengembangan yang tidak stabil. Secara bawaan, { -brand-name-nightly } mengirim data ke { -brand-name-mozilla } — dan terkadang mitra kami — untuk membantu kami menangani masalah dan mencoba ide. <a href="{ $link }">Pelajari apa yang dibagikan</a>.
 
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } mengirim umpan balik secara otomatis ke { -brand-name-mozilla }.
@@ -48,7 +48,7 @@ firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Membuat, menguji, mengukur, dan masih banyak lagi dengan satu-satunya peramban yang dibangun hanya untuk pengembang.
 
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } merupakan platform pengujian dan pengembangan yang tidak stabil. Secara bawaan, { -brand-name-developer-edition } mengirim data ke { -brand-name-mozilla } — dan terkadang mitra kami — untuk membantu kami menangani masalah dan mencoba ide. <a href="{ $link }">Pelajari apa yang dibagikan</a>.
 
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } mengirim umpan balik secara otomatis ke { -brand-name-mozilla }.

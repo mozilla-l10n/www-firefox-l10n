@@ -7,6 +7,9 @@ navigation-firefox-home = الصفحة الرئيسية لـ { -brand-name-firef
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = أساسي
 
+navigation-browser = المتصفح
+navigation-get-firefox = احصل على { -brand-name-firefox }
+
 ## Features
 
 navigation-features = الميزات

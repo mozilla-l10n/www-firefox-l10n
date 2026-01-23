@@ -21,20 +21,20 @@ firefox-channel-all-languages-and-platforms = كل اللغات والأنظمة
 firefox-channel-all-languages-and-builds = كل اللغات والإصدارات
 
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } هو نظام أساسي غير مستقر للاختبار والتطوير. يُرسل { -brand-name-beta } بشكل افتراضي بيانات إلى { -brand-name-mozilla } — وأحيانًا إلى الشركاء — لمساعدتنا في التعامل مع المشاكل وتجربة الأفكار. <a href="{ $link }">معرفة المزيد عن ما تمت مشاركته</a>.
 
 firefox-channel-firefox-beta-automatically = يُرسل { -brand-name-firefox-beta } تلقائيًا تعليقات إلى { -brand-name-mozilla }.
 
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">أرسل لنا المشاكل والمقترحات</a> لمساعدتنا في وضع التعديلات النهائية على الأداء والوظائف في بيئة مستقرة.
 
 firefox-channel-check-out-new-android-features = اكتشف ميزات { -brand-name-android } في مراحلها الأولى. استمتع بالاستخدام على مسؤوليتك الخاصة.
 firefox-channel-nightly-blog = مدونة { -brand-name-nightly }
 
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } هو نظام أساسي غير مستقر للاختبار والتطوير. يُرسل { -brand-name-nightly } بشكل افتراضي بيانات إلى { -brand-name-mozilla } — وأحيانًا إلى الشركاء — لمساعدتنا في التعامل مع المشاكل وتجربة الأفكار. <a href="{ $link }">معرفة المزيد عن ما تمت مشاركته</a>.
 
 firefox-channel-firefox-nightly-automatically = يُرسل { -brand-name-firefox-nightly } تلقائيًا تعليقات إلى { -brand-name-mozilla }.
@@ -48,7 +48,7 @@ firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = يمكنك البناء والاختبار والتوسيع والمزيد باستخدام المتصفح الوحيد المصمم للمطورين فقط.
 
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } هو نظام أساسي غير مستقر للاختبار والتطوير. يُرسل { -brand-name-developer-edition } بشكل افتراضي بيانات إلى { -brand-name-mozilla } — وأحيانًا إلى الشركاء — لمساعدتنا في التعامل مع المشاكل وتجربة الأفكار. <a href="{ $link }">معرفة المزيد عن ما تمت مشاركته</a>.
 
 firefox-channel-firefox-developer-edition = يُرسل { -brand-name-firefox-developer-edition } تلقائيًا تعليقات إلى { -brand-name-mozilla }.

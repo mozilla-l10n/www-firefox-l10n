@@ -21,20 +21,20 @@ firefox-channel-all-languages-and-platforms = 言語・プラットフォーム�
 firefox-channel-all-languages-and-builds = 言語・ビルド全種
 
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } は不安定な開発中の試験版プラットフォームです。問題対処とアイデア試行に役立てるため、{ -brand-name-beta } は既定の設定で { -brand-name-mozilla } にデータを送信するほか、Mozilla の提携企業にデータを送信する場合もあります。<a href="{ $link }">共有されるデータの詳細</a>.
 
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } は { -brand-name-mozilla } にフィードバックを自動送信します。
 
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = Mozilla が安定した環境のパフォーマンスや機能の最終調整を行う上で役立てるため、<a rel="external" href="{ $feedback }">フィードバックをお寄せください</a>
 
 firefox-channel-check-out-new-android-features = 初期版の新 { -brand-name-android } 機能をお試しください。リスク自己負担の上でお楽しみください。
 firefox-channel-nightly-blog = { -brand-name-nightly } のブログ
 
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } は不安定な開発中の試験版プラットフォームです。問題対処とアイデア試行に役立てるため、{ -brand-name-nightly } は既定の設定で { -brand-name-mozilla } にデータを送信するほか、Mozilla の提携企業にデータを送信する場合もあります。<a href="{ $link }">共有されるデータの詳細</a>.
 
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } は { -brand-name-mozilla } にフィードバックを自動送信します。
@@ -48,7 +48,7 @@ firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = デベロッパー専用に構築された唯一のブラウザーで、構築、テスト、スケーリングなどができます。
 
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } は不安定な開発中の試験版プラットフォームです。問題対処とアイデア試行に役立てるため、{ -brand-name-developer-edition } は既定の設定で { -brand-name-mozilla } にデータを送信するほか、Mozilla の提携企業にデータを送信する場合もあります。<a href="{ $link }">共有されるデータの詳細</a>.
 
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } は { -brand-name-mozilla } にフィードバックを自動送信します。

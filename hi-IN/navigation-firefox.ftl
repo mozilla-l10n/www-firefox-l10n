@@ -7,6 +7,9 @@ navigation-firefox-home = { -brand-name-firefox } होम
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = प्राथमिक
 
+navigation-browser = ब्राउज़र
+navigation-get-firefox = { -brand-name-firefox } पाएँ
+
 ## Features
 
 navigation-features = फ़ीचर्स
