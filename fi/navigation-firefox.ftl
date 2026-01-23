@@ -5,6 +5,9 @@
 navigation-firefox-home = { -brand-name-firefox }-etusivu
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = Ensisijainen
+navigation-browser = Selain
+navigation-close-menu = Sulje valikko
+navigation-get-firefox = Lataa { -brand-name-firefox }
 
 ## Features
 
