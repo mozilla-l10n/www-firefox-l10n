@@ -21,20 +21,20 @@ firefox-channel-all-languages-and-platforms = Alle Sprachen und Plattformen
 firefox-channel-all-languages-and-builds = Alle Sprachen und Versionen
 
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } ist eine instabile Test- und Entwicklungsplattform. { -brand-name-beta } sendet standardmäßig Daten an { -brand-name-mozilla } – und manchmal an unsere Partner –, um uns bei der Problemlösung zu unterstützen und neue Ideen auszuprobieren. <a href="{ $link }">Erfahre, welche Daten geteilt werden</a>.
 
 firefox-channel-firefox-beta-automatically = Die { -brand-name-firefox-beta } sendet automatisch Feedback an { -brand-name-mozilla }.
 
 # Variables:
-#   $feedback (url) - link to https://input.mozilla.com/feedback
+#   $feedback (url) - link to https://connect.mozilla.org/
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Sag uns deine Meinung</a> und hilf uns, in einer stabilen Umgebung die letzten Verbesserungen an Leistung und Funktionalität vorzunehmen.
 
 firefox-channel-check-out-new-android-features = Teste neue { -brand-name-android }-Funktionen während der Entwicklung. Nutzung auf eigene Gefahr.
 firefox-channel-nightly-blog = Der { -brand-name-nightly } Blog
 
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ist eine instabile Test- und Entwicklungsplattform. { -brand-name-nightly } sendet standardmäßig Daten an { -brand-name-mozilla } – und manchmal an unsere Partner –, um uns bei der Problemlösung zu unterstützen und neue Ideen auszuprobieren. <a href="{ $link }">Erfahre, welche Daten geteilt werden</a>.
 
 firefox-channel-firefox-nightly-automatically = Die { -brand-name-firefox-nightly } sendet automatisch Feedback an { -brand-name-mozilla }.
@@ -48,7 +48,7 @@ firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Entwickeln, testen und skalieren – mit dem einzigen Browser nur für Entwickler.
 
 # Variables:
-#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } ist eine instabile Test- und Entwicklungsplattform. { -brand-name-developer-edition } sendet standardmäßig Daten an { -brand-name-mozilla } – und manchmal an unsere Partner –, um uns bei der Problemlösung zu unterstützen und neue Ideen auszuprobieren. <a href="{ $link }">Erfahre, welche Daten geteilt werden</a>.
 
 firefox-channel-firefox-developer-edition = Die { -brand-name-firefox-developer-edition } sendet automatisch Feedback an { -brand-name-mozilla }.
