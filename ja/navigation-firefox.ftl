@@ -7,6 +7,10 @@ navigation-firefox-home = { -brand-name-firefox } ホーム
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = プライマリ
 
+navigation-browser = ブラウザー
+navigation-close-menu = メニューを閉じる
+navigation-get-firefox = { -brand-name-firefox } をダウンロード
+
 ## Features
 
 navigation-features = 機能
