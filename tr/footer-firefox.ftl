@@ -69,6 +69,7 @@ footer-logo-trademark-licensing = Logo Ticari Marka Lisansı
 
 footer-language = Dil
 footer-go = Git
+footer-ask-question = Bize soru sorun!
 footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding

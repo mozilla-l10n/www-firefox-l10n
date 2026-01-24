@@ -5,6 +5,9 @@
 navigation-firefox-home = { -brand-name-firefox } ana sayfası
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = Ana
+navigation-browser = Tarayıcı
+navigation-close-menu = Menüyü kapat
+navigation-get-firefox = { -brand-name-firefox }’u indir
 
 ## Features
 
