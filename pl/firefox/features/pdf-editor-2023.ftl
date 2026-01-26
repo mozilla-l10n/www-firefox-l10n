@@ -17,6 +17,7 @@ pdf-editor-weve-all-faced-this-you-need-to = Wszyscy się z tym spotkaliśmy: mu
 pdf-editor-no-more-now-all-you-need-to-do = Koniec z tym! Teraz jedyne, co musisz zrobić, to edytować plik PDF online za pomocą { -brand-name-firefox(case: "gen") }, zapisać go i wysłać e-mailem ze swojego komputera.
 pdf-editor-add-text = Dodaj tekst
 pdf-editor-open-the-pdf-in-firefox-click-text = Otwórz plik PDF w { -brand-name-firefox(case: "loc") }. Kliknij przycisk Tekst, aby wybrać kolor i rozmiar tekstu, a następnie wybierz miejsce w dokumencie, w którym chcesz dodać tekst. To takie proste!
+pdf-editor-add-drawings = Dodaj rysunki
 pdf-editor-add-image-with-alt-text = Dodaj obraz z tekstem alternatywnym
 pdf-editor-open-pdf-click-image-icon = Otwórz plik PDF w { -brand-name-firefox(case: "loc") }. Kliknij ikonę obrazu, która wyświetli monit o przesłanie obrazu. Dostosuj rozmiar i umiejscowienie obrazu w razie potrzeby. Dodaj tekst alternatywny, aby dodać opis zdjęcia i uczynić plik PDF bardziej dostępnym.
 pdf-editor-create-a-highlight = Utwórz wyróżnienie
