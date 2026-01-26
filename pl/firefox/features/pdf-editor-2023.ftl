@@ -26,3 +26,4 @@ pdf-editor-select-text-you-want-to = Otwórz plik PDF w { -brand-name-firefox(ca
 pdf-editor-create-a-signature = Utwórz podpis
 pdf-editor-click-the-signature-icon = Otwórz plik PDF w { -brand-name-firefox(case: "ins") }. Kliknij ikonę podpisu, a następnie kliknij „Dodaj nowy podpis”. Wybierz opcję Wpisz, Narysuj lub Obraz i kliknij przycisk Dodaj, aby wstawić podpis. Możesz również zapisać swoje podpisy i użyć ich ponownie później.
 pdf-editor-add-a-comment = Dodaj komentarze
+pdf-editor-click-the-comment-icon = Otwórz plik PDF w { -brand-name-firefox(case: "ins") }. Zaznacz tekst, a następnie kliknij ikonę komentarza, która pojawi się pod zaznaczeniem, wpisz komentarz i kliknij Dodaj, aby zapisać. Dużo komentarzy w pliku PDF? Kliknij ikonę komentarza w prawym górnym rogu, aby otworzyć panel boczny i przejść do tego, którego potrzebujesz.
