@@ -68,6 +68,7 @@ footer-logo-trademark-licensing = Lesen Tanda Dagangan Logo
 
 footer-language = Bahasa
 footer-go = Pergi
+footer-ask-question = Sila tanya kami!
 
 footer-firefox = { -brand-name-firefox }
 
