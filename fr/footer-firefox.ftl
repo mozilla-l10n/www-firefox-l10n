@@ -68,6 +68,7 @@ footer-logo-trademark-licensing = Licence de marque pour l’utilisation du logo
 
 footer-language = Langue
 footer-go = OK
+footer-ask-question = Posez-nous vos questions !
 
 footer-firefox = { -brand-name-firefox }
 
