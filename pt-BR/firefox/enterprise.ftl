@@ -5,6 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+# Page title
+firefox-enterprise-use-firefox-esr-enterprise-browser = Use o { -brand-name-firefox } ou o { -brand-name-esr } como seu navegador corporativo para segurança em escala.
+# Page description
+firefox-enterprise-open-source-browser-with-enterprise-security = O { -brand-name-firefox } é o navegador de código aberto com segurança, privacidade e flexibilidade de nível empresarial. Use o { -brand-name-firefox } para obter os recursos mais recentes ou o { -brand-name-esr } para estabilidade a longo prazo.
+firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-use-as-your-enterprise-browser = Usar o { -brand-name-firefox } como seu navegador corporativo.
+firefox-enterprise-secure-at-scale = O { -brand-name-firefox } oferece navegação segura, robusta e com foco em privacidade em grande escala. Com diretivas corporativas tanto no { -brand-name-firefox } como no { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }), as organizações obtêm flexibilidade, controle e transparência em um navegador confiável de código aberto.
 firefox-enterprise-deploy-when-and-how-you-want = Implante quando e como quiser
 firefox-enterprise-enterprise-downloads = Downloads do { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } de 64 bits
