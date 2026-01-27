@@ -7,6 +7,7 @@ navigation-firefox-home = Beranda { -brand-name-firefox }
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = Utama
 
+navigation-browser = Peramban
 navigation-close-menu = Tutup menu
 navigation-get-firefox = Dapatkan { -brand-name-firefox }
 
