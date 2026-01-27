@@ -68,6 +68,7 @@ footer-logo-trademark-licensing = ロゴ商標ライセンス
 
 footer-language = 言語
 footer-go = 進む
+footer-ask-question = 質問してください
 
 footer-firefox = { -brand-name-firefox }
 

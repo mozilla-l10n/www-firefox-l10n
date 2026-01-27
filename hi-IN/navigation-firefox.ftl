@@ -8,6 +8,7 @@ navigation-firefox-home = { -brand-name-firefox } होम
 navigation-landmark-label = प्राथमिक
 
 navigation-browser = ब्राउज़र
+navigation-close-menu = मेन्यू बंद करें
 navigation-get-firefox = { -brand-name-firefox } पाएँ
 
 ## Features

@@ -68,6 +68,7 @@ footer-logo-trademark-licensing = ترخيص شعار العلامة التجا�
 
 footer-language = اللغة
 footer-go = ابدأ
+footer-ask-question = اطرح علينا سؤالًا!
 
 footer-firefox = { -brand-name-firefox }
 
