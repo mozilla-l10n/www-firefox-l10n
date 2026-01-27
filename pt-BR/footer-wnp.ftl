@@ -19,3 +19,4 @@ footer-firefox-support = Suporte do { -brand-name-firefox }
 footer-privacy-notice = Aviso de privacidade
 footer-donate = Faça uma doação para a { -brand-name-mozilla }
 footer-donate-v2 = Faça uma doação para a { -brand-name-mozilla-foundation }
+footer-make-good-things = Criemos coisas boas juntos

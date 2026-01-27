@@ -40,6 +40,9 @@ firefox-enterprise-documentation-and-community = Documentação e suporte da com
 firefox-enterprise-sample-plist-for-configuration = Exemplo de <a href="{ $url }">plist para perfil de configuração</a>
 firefox-enterprise-pkg-installer = Instalador PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } de 32 bits
+# Variables:
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
+firefox-enterprise-download-firefox-or-esr = Baixe o { -brand-name-firefox } ou o { -brand-name-firefox-esr } para <a { $firefox_all }>outro idioma ou plataforma</a>.
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-early-access-is = O acesso antecipado já está disponível para o nosso novo programa de suporte, que será lançado em janeiro de 2026. Desenvolvido para organizações que usam o { -brand-name-firefox } para garantir segurança, resiliência e soberania de dados, ele oferece suporte privativo, confiável e personalizado para implementações em larga escala.
 firefox-enterprise-contact-sales = Fale com nossa equipe de vendas
