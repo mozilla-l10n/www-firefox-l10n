@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Seu endereço de email
 newsletter-form-we-are-sorry-but-there = Desculpe, houve um problema em nosso sistema. Tente novamente mais tarde!
 newsletter-form-please-select-country = Selecione um país ou região
 newsletter-form-please-select-language = Selecione um idioma
+newsletter-form-button-cta = inscrever-se
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = seunome@example.com
 newsletter-form-select-country-or-region = Selecione país ou região
@@ -29,6 +30,8 @@ newsletter-form-sign-up-now = Inscreva-se agora
 newsletter-form-thanks = Obrigado!
 newsletter-form-yes = Sim
 newsletter-form-no = Não
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Enviando
 multi-newsletter-form-checkboxes-legend = Quero informações sobre:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
