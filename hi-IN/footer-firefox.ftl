@@ -68,6 +68,7 @@ footer-logo-trademark-licensing = लोगो ट्रेडमार्क �
 
 footer-language = भाषा
 footer-go = जाएँ
+footer-ask-question = सवाल पूछें!
 
 footer-firefox = { -brand-name-firefox }
 
