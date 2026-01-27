@@ -8,6 +8,7 @@ navigation-firefox-home = الصفحة الرئيسية لـ { -brand-name-firef
 navigation-landmark-label = أساسي
 
 navigation-browser = المتصفح
+navigation-close-menu = أَغلِق القائمة
 navigation-get-firefox = احصل على { -brand-name-firefox }
 
 ## Features
