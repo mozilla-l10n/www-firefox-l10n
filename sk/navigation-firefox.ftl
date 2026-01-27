@@ -5,6 +5,9 @@
 navigation-firefox-home = Domovská stránka { -brand-name-firefox(case: "gen") }
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = Hlavný
+navigation-browser = Prehliadač
+navigation-close-menu = Zavrieť ponuku
+navigation-get-firefox = Získajte { -brand-name-firefox }
 
 ## Features
 
