@@ -5,6 +5,9 @@
 navigation-firefox-home = Αρχική σελίδα { -brand-name-firefox }
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = Κύριο
+navigation-browser = Πρόγραμμα περιήγησης
+navigation-close-menu = Κλείσιμο μενού
+navigation-get-firefox = Λήψη του { -brand-name-firefox }
 
 ## Features
 

@@ -69,6 +69,7 @@ footer-logo-trademark-licensing = Άδεια χρήσης εμπορικών σ�
 
 footer-language = Γλώσσα
 footer-go = Μετάβαση
+footer-ask-question = Κάντε μας μια ερώτηση!
 footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
