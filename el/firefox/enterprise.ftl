@@ -36,6 +36,9 @@ firefox-enterprise-documentation-and-community = Τεκμηρίωση και υ�
 firefox-enterprise-sample-plist-for-configuration = Δείγμα <a href="{ $url }">plist για προφίλ ρυθμίσεων παραμέτρων</a>
 firefox-enterprise-pkg-installer = Πρόγραμμα εγκατάστασης PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
+# Variables:
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
+firefox-enterprise-download-firefox-or-esr = Κάντε λήψη του { -brand-name-firefox } ή του { -brand-name-firefox-esr } για <a { $firefox_all }>κάποια άλλη γλώσσα ή πλατφόρμα.</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-early-access-is = Η πρώιμη πρόσβαση είναι πλέον ανοικτή για το νέο μας πρόγραμμα υποστήριξης που ξεκινά τον Ιανουάριο του 2026. Σχεδιασμένο για οργανισμούς που χρησιμοποιούν το { -brand-name-firefox } για την ασφάλεια, την προσαρμοστικότητα και τον έλεγχο των δεδομένων, το πρόγραμμα παρέχει ιδιωτική, αξιόπιστη και προσαρμοσμένη υποστήριξη για αναπτύξεις μεγάλης κλίμακας.
 firefox-enterprise-contact-sales = Επικοινωνία με το τμήμα πωλήσεων
