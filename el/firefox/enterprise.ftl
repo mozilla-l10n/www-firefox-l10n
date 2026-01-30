@@ -7,6 +7,8 @@
 
 # Page title
 firefox-enterprise-use-firefox-esr-enterprise-browser = Χρησιμοποιήστε το { -brand-name-firefox } ή το { -brand-name-esr } ως το εταιρικό σας πρόγραμμα περιήγησης για ασφάλεια σε μεγάλη κλίμακα
+# Page description
+firefox-enterprise-open-source-browser-with-enterprise-security = Το { -brand-name-firefox } είναι το πρόγραμμα περιήγησης ανοικτού κώδικα με ασφάλεια, ιδιωτικότητα και ευελιξία εταιρικού επιπέδου. Χρησιμοποιήστε το { -brand-name-firefox } για να αποκτήσετε τις πιο πρόσφατες δυνατότητες ή το { -brand-name-esr } για μακροπρόθεσμη σταθερότητα.
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = Χρησιμοποιήστε το { -brand-name-firefox } ως το εταιρικό σας πρόγραμμα περιήγησης
 firefox-enterprise-protection-powered-by = Προστασία εταιρικού επιπέδου, με την υποστήριξη του { -brand-name-firefox }
