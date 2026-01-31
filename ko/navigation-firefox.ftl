@@ -5,6 +5,9 @@
 navigation-firefox-home = { -brand-name-firefox } 홈
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = 주요 항목
+navigation-browser = 브라우저
+navigation-close-menu = 메뉴 닫기
+navigation-get-firefox = { -brand-name-firefox } 다운로드
 
 ## Features
 
