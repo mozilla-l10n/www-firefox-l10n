@@ -19,3 +19,6 @@ download-button-firefox-android = <span>{ -brand-name-firefox }</span> សម្
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> សម្រាប់ { -brand-name-ios }
 download-button-firefox-privacy = ឯនជនភាព { -brand-name-firefox }
 download-button-download = ទាញយក
+download-firefox-esr = ទាញយក { -brand-name-firefox-esr }
+download-firefox-esr-32 = ទាញយក { -brand-name-firefox-esr } 32-bit
+download-firefox-esr-64 = ទាញយក { -brand-name-firefox-esr } 64-bit
