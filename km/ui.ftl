@@ -15,6 +15,10 @@ ui-replay = ម្ដងទៀត
 ui-share = ចែក​រំលែក
 ui-menu = ​ម៉ឺនុយ
 ui-please-turn-on-javascript = សូម​បើក JavaScript ដើម្បី​បង្ហាញ​ទំព័រ​នេះ​ដោយ​ត្រឹមត្រូវ។
+ui-show-more = បង្ហាញបន្ថែម
+ui-show-less = បង្ហាញតិច
+ui-show-all = បង្ហាញទាំងអស់
+ui-hide-all = លាក់ទាំងអស់
 ui-learn-more = ស្វែងយល់​​បន្ថែម
 ui-view = ទស្សនា
 # An accessible label used to describe the purpose of a cross-promotional page element.
