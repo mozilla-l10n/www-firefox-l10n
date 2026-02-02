@@ -5,6 +5,9 @@
 navigation-firefox-home = { -brand-name-firefox } pentru acasă
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = Primar
+navigation-browser = Browser
+navigation-close-menu = Închide meniul
+navigation-get-firefox = Instalează { -brand-name-firefox }
 
 ## Features
 
