@@ -35,6 +35,7 @@ download-a-different-build = Last ned ein annan versjon
 
 download-button-linux-32-v2 = Last ned Linux 32-bit
 download-button-linux-64-v2 = Last ned Linux 64-bit
+download-button-linux-arm64 = Last ned for Linux ARM64
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated

@@ -46,3 +46,10 @@ firefox-new-fast = 快速、免費，又有隱私
 firefox-new-from-mozilla = 來自 { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } 是由非營利組織 { -brand-name-mozilla } 所推出，能夠快速載入網頁、記憶體用量更少，還有滿滿功能的免費瀏覽器。
 firefox-new-download-a-different = 下載其他平台與語言版本
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook

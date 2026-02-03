@@ -46,3 +46,10 @@ firefox-new-fast = სწრაფი, პირადი და უფასო
 firefox-new-from-mozilla = ქმნის { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } უფასო ბრაუზერია, გვერდების სწრაფი ჩატვირთვით, მეხსიერების ნაკლები მოხმარებითა და უამრავი დამატებითი შესაძლებლობით - ზურგს კი უმაგრებს არამომგებიანი { -brand-name-mozilla }.
 firefox-new-download-a-different = ჩამოტვირთვა სხვადასხვა სისტემებსა და ენებზე
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook

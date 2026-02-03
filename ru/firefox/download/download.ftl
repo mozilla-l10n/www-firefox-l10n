@@ -46,3 +46,10 @@ firefox-new-fast = Быстрый, приватный и бесплатный
 firefox-new-from-mozilla = от { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser(case: "nominative_uppercase") } — это бесплатный веб-браузер с быстрой загрузкой страниц, уменьшенным расходом памяти и множеством функций, проект некоммерческой организации { -brand-name-mozilla }.
 firefox-new-download-a-different = Скачать для других платформ и языков
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook

@@ -46,3 +46,10 @@ firefox-new-fast = Rychlý, soukromý, svobodný a zdarma
 firefox-new-from-mozilla = od { -brand-name-mozilla(case: "gen") }
 firefox-new-desc = { -brand-name-firefox-browser } je svobodný webový prohlížeč, který umí stránky načítat rychle, nepotřebuje tolik paměti a přitom nabízí plno funkcí. Také jde o projekt od neziskové organizace { -brand-name-mozilla }.
 firefox-new-download-a-different = Stáhnout pro jinou platformu nebo v jiném jazyce
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook

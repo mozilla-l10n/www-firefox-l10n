@@ -46,3 +46,10 @@ firefox-new-fast = Rápido, privado e gratuito
 firefox-new-from-mozilla = da { -brand-name-mozilla }
 firefox-new-desc = O { -brand-name-firefox-browser } é um navegador gratuito, com carregamento de páginas rápido, menor utilização de memória e muitas funcionalidades - um projeto sem fins lucrativos da { -brand-name-mozilla }.
 firefox-new-download-a-different = Transferir para um idioma ou ambiente diferente
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook

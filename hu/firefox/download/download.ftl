@@ -46,3 +46,10 @@ firefox-new-fast = Gyors, privát és ingyenes
 firefox-new-from-mozilla = a { -brand-name-mozilla(ending: "accented") }tól
 firefox-new-desc = A { -brand-name-firefox-browser } egy ingyenes webböngésző gyors oldalbetöltéssel, kevesebb memóriahasználattal és számos funkcióval – a nonprofit { -brand-name-mozilla } projektje.
 firefox-new-download-a-different = Letöltés más platformokra és nyelveken
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook

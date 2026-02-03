@@ -46,3 +46,10 @@ firefox-new-fast = Cyflym, Preifat, Rhydd ac Am Ddim
 firefox-new-from-mozilla = oddi wrth { -brand-name-mozilla }
 firefox-new-desc = Mae { -brand-name-firefox-browser } yn borwr gwe rhydd ac am ddim gyda llwytho tudalen cyflym, llai o ddefnydd cof, a llawer o nodweddion - project y { -brand-name-mozilla } dim-er-elw.
 firefox-new-download-a-different = Llwytho i lawr ar gyfer llwyfannau ac ieithoedd eraill
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook
