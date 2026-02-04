@@ -6,4 +6,6 @@
 ### URL: https://www-dev.springfield.moz.works/channel/desktop/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
+firefox-developer-start-now = ចាប់ផ្តើមឥឡូវ
+firefox-developer-memory = អង្គ​ចងចាំ
 firefox-developer-style-editor = កម្មវិធី​កែសម្រួល​រចនាប័ទ្ម
