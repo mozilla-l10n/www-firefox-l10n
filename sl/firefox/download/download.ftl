@@ -46,3 +46,10 @@ firefox-new-fast = Hiter, zaseben in prost
 firefox-new-from-mozilla = izpod rok { -brand-name-mozilla(sklon: "rodilnik") }
 firefox-new-desc = { -brand-name-firefox-browser } je brezplačen spletni brskalnik, ki hitro nalaga strani, porablja manj pomnilnika in je opremljen s kopico zmožnosti – projekt neprofitne organizacije { -brand-name-mozilla }.
 firefox-new-download-a-different = Prenesi za drugo platformo ali jezik
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook

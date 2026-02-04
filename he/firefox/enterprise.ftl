@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-use-as-your-enterprise-browser = שימוש ב־{ -brand-name-firefox } כדפדפן הארגוני שלך
 firefox-enterprise-deploy-when-and-how-you-want = פריסה בזמן ובאופן שתרצו
 firefox-enterprise-enterprise-downloads = הורדות ל־{ -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
@@ -14,6 +16,7 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser(case: "a") }
 firefox-enterprise-firefox-browser-msi-installer = ‏{ -brand-name-firefox-browser } - מתקין MSI
 firefox-enterprise-firefox-extended-support-release = ‏{ -brand-name-firefox-extended-support-release } (‏{ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = ‏{ -brand-name-firefox-extended-support-release } (‏{ -brand-name-esr }) - מתקין MSI
+firefox-enterprise-resources = משאבים
 firefox-enterprise-msi-installers = מתקיני MSI
 firefox-enterprise-legacy-browser-support = תמיכה בדפדפנים מדור קודם
 firefox-enterprise-admx-templates = תבניות ADMX

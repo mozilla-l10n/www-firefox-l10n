@@ -46,3 +46,10 @@ firefox-new-fast = מהיר, פרטי וחינמי
 firefox-new-from-mozilla = מבית { -brand-name-mozilla }
 firefox-new-desc = ה{ -brand-name-firefox-browser } הוא דפדפן אינטרנט חינמי עם טעינת דפים מהירה, פחות שימוש בזיכרון והרבה תכונות - פרויקט של עמותת { -brand-name-mozilla } שאינה למטרות רווח.
 firefox-new-download-a-different = הורדה לפלטפורמה או לשפה אחרת
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook
