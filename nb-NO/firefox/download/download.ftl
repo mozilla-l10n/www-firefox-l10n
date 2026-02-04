@@ -46,3 +46,10 @@ firefox-new-fast = Raskt, privat og gratis
 firefox-new-from-mozilla = fra { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } er en gratis nettleser med rask sideinnlasting, mindre minnebruk og mange funksjoner – et prosjekt fra den ideelle organisasjonen { -brand-name-mozilla }.
 firefox-new-download-a-different = Last ned for andre plattformer eller språk
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook
