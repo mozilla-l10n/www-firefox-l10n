@@ -21,3 +21,4 @@ firefox-desktop-download-adjust-search-bar = កែតម្រូវការ�
 firefox-desktop-download-change-new-tab = ផ្លាស់ប្តូរប្លង់ផ្ទាំងថ្មី
 firefox-desktop-download-make-firefox-your = ធ្វើឱ្យ <strong>{ -brand-name-firefox }</strong> ជារបស់អ្នកផ្ទាល់
 firefox-desktop-download-sync-your-devices = ធ្វើសមកាលកម្ម​ឧបករណ៍​របស់​អ្នក
+firefox-desktop-download-screenshots = រូបថតអេក្រង់
