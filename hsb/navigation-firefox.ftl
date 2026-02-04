@@ -27,6 +27,7 @@ navigation-close-resources-menu = Resursowy meni začinić
 navigation-product = Produkt
 navigation-desktop = Desktop
 navigation-mobile = Mobilny telefon
+navigation-enterprise = Enterprise
 navigation-release-notes = Wersijowe informacije
 navigation-support = Pomoc
 navigation-add-ons = Přidatki
