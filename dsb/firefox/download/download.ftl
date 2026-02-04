@@ -46,3 +46,10 @@ firefox-new-fast = Malsny, priwatny a dermotny
 firefox-new-from-mozilla = wót { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } jo dwrmotny webwobglědowak, kótaryž boki malsnje zacytujo, mjenjej składa wužywa a wjele funkcijow ma - projekt za wše wužytneje organizacije { -brand-name-mozilla }.
 firefox-new-download-a-different = Firefox za druge platformy abo rěcy ześěgnuś
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook
