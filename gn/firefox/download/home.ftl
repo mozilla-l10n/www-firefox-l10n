@@ -32,6 +32,7 @@ firefox-home-block-ad-trackers = Ejoko umi ñemurã rapykuehoha eku’e’ỹre
 firefox-home-swear-off = Eñemomombyry mba’evaígui
 firefox-home-your-stuff = Nemba’e, opaite ne mba’erechahápe
 firefox-home-privacy-built-in = Ñemireko oikepyréva
+firefox-home-personal-data-not-for-sale = Ne mba’ekuaarãita noñevendemo’ãi. Umi tapykuehoha ha kookie mbohapyháva ojejokóma ijypykue guive, péicha añoite … eikundaháta.
 firefox-home-learn-data-protection = Eikuaáke { -brand-name-firefox } omo’ã ne mba’ekuaarã
 
 ## Customization

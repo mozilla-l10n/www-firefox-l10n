@@ -69,6 +69,7 @@ footer-logo-trademark-licensing = Marca registrada ra’ãnga’i ñemoneĩ
 
 footer-language = Ñe’ẽ
 footer-go = Jeho
+footer-ask-question = ¡Rojapo peteĩ porandu!
 footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding

@@ -5,6 +5,9 @@
 navigation-firefox-home = { -brand-name-firefox } ñepyrũ
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = Ñepyrũgua
+navigation-browser = Kundahára
+navigation-close-menu = Emboty poravorã
+navigation-get-firefox = Erekóke { -brand-name-firefox }
 
 ## Features
 
@@ -24,8 +27,10 @@ navigation-close-resources-menu = Emboty poravorã Mba’eita
 navigation-product = Apopyre
 navigation-desktop = Mesa arigua
 navigation-mobile = Pumbyry
+navigation-enterprise = Mba’apohaguasu
 navigation-release-notes = Jehaipy rehegua
 navigation-support = Ñepytyvõ
+navigation-extensions-and-themes = Jepysokue ha téma
 navigation-add-ons = Moĩmbaha
 navigation-learn = Kuaa
 navigation-blog = Blog

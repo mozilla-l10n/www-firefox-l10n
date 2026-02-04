@@ -46,3 +46,10 @@ firefox-new-fast = Ipya’e, hekoñemi ha rei
 firefox-new-from-mozilla = { -brand-name-mozilla } mba’e
 firefox-new-desc = { -brand-name-firefox-browser } ha’e ñanduti kundahára reigua kuatiarogue henyhẽ pya’éva, mandu’arerenda poru’ive ha heta hembiapoite. Apopyrã { -brand-name-mozilla } mba’éva, atyguasu viru’ỹgua
 firefox-new-download-a-different = Emboguejy jehechaukaha térã ñe’ẽ ambuéva
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook
