@@ -35,6 +35,7 @@ download-a-different-build = Басқа жинақты жүктеп алу
 
 download-button-linux-32-v2 = Linux 32-биттік нұсқасына арналған жүктеп алу
 download-button-linux-64-v2 = Linux 64-биттік нұсқасына арналған жүктеп алу
+download-button-linux-arm64 = Linux ARM64 нұсқасына арналған жүктеп алу
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated

@@ -46,3 +46,10 @@ firefox-new-fast = Жылдам, жеке және тегін
 firefox-new-from-mozilla = { -brand-name-mozilla } ұсынған
 firefox-new-desc = { -brand-name-firefox-browser } — беттерді жылдам жүктейтін, жадты аз пайдаланатын және көптеген функциялары бар тегін веб-браузер. Бұл — коммерциялық емес { -brand-name-mozilla } ұйымының жобасы.
 firefox-new-download-a-different = Басқа платформа үшін немесе басқа тілде жүктеп алыңыз
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook
