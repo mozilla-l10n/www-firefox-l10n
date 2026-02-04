@@ -32,6 +32,7 @@ navigation-release-notes = Jehaipy rehegua
 navigation-support = Ñepytyvõ
 navigation-extensions-and-themes = Jepysokue ha téma
 navigation-add-ons = Moĩmbaha
+navigation-all-downloads = Opaite ñemboguejy
 navigation-learn = Kuaa
 navigation-blog = Blog
 navigation-compare = Moñondive
