@@ -29,6 +29,7 @@ navigation-desktop = Na komputery
 navigation-mobile = Na telefony
 navigation-release-notes = Informacje o wydaniu
 navigation-support = Pomoc
+navigation-extensions-and-themes = Rozszerzenia i motywy
 navigation-add-ons = Dodatki
 navigation-learn = Dowiedz się
 navigation-blog = Blog
