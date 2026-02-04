@@ -5,3 +5,6 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/desktop/
 
+firefox-browsers-windows = { -brand-name-firefox } សម្រាប់ { -brand-name-windows }
+firefox-browsers-custom = ជម្រើសទាញយកផ្ទាល់ខ្លួន
+firefox-browsers-enterprise = { -brand-name-enterprise }

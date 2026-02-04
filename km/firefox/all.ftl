@@ -24,6 +24,15 @@ firefox-all-mobile = ទូរស័ព្ទចល័ត
 firefox-all-recommended = (បានណែនាំ)
 firefox-all-lang-multi = ពហុភាសា
 firefox-all-64-bit-installers = កម្មវិធីដំឡើង 64-bit
+firefox-all-32-bit-installers = កម្មវិធីដំឡើង 32-bit
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = ទាញយក { $esr_version }
+firefox-all-release-notes = កំណត់ចំណាំចេញផ្សាយ
+firefox-all-source-code = ប្រភពកូដ
+firefox-all-need-help = ត្រូវការ​ជំនួយ?
+firefox-all-choose-which-firefox = ជ្រើសរើស { -brand-name-firefox-browser } មួយណា ដែលត្រូវទាញយកជាភាសារបស់អ្នក
+firefox-all-firefox-privacy-notice = សេចក្តីជូនដំណឹងអំពីឯកជនភាព { -brand-name-firefox }
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
