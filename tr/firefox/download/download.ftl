@@ -46,3 +46,10 @@ firefox-new-fast = Hızlı, gizli ve ücretsiz
 firefox-new-from-mozilla = { -brand-name-mozilla }’dan
 firefox-new-desc = { -brand-name-firefox-browser } sayfaları daha hızlı açan, daha az bellek tüketen ve birçok özelliğe sahip ücretsiz bir web tarayıcısı. Kâr amacı gütmeyen { -brand-name-mozilla }'dan.
 firefox-new-download-a-different = Başka bir platform veya dilde indirin
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook
