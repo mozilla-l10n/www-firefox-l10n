@@ -15,6 +15,11 @@ footer-android = Android
 footer-linux = Linux
 footer-custom-download = Opciones de descarga personalizadas
 
+## Download links for dev versions of Firefox (beta, nightly).
+
+footer-beta = { -brand-name-beta }
+footer-nightly = { -brand-name-nightly }
+
 ## Links to community groups.
 
 # Section title

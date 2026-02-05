@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-deploy-when-and-how-you-want = Implementa cuándo y cómo quieras
 firefox-enterprise-enterprise-downloads = Descargas de { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
@@ -14,6 +15,7 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - instalador MSI
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - instalador MSI
+firefox-enterprise-resources = Recursos
 firefox-enterprise-msi-installers = Instaladores MSI
 firefox-enterprise-legacy-browser-support = Compatibilidad con navegadores antiguos
 firefox-enterprise-admx-templates = Plantillas ADMX
@@ -26,3 +28,4 @@ firefox-enterprise-documentation-and-community = Documentación y ayuda de la co
 firefox-enterprise-sample-plist-for-configuration = Ejemplo de <a href="{ $url }">plist para el perfil de configuración</a>
 firefox-enterprise-pkg-installer = Instalador PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
+firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
