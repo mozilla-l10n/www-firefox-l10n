@@ -52,3 +52,4 @@ firefox-new-from-mozilla = daripada { -brand-name-mozilla }
 
 firefox-new-desc = { -brand-name-firefox-browser } adalah pelayar internet percuma dengan pemuatan laman yang pantas, kurang penggunaan memori dan pelbagai ciri-ciri berguna - sebuah projek daripada komuniti bukan berasaskan keuntungan { -brand-name-mozilla }.
 firefox-new-download-a-different = Muat turun platform atau bahasa yang berbeza
+
