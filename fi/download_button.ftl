@@ -35,6 +35,7 @@ download-a-different-build = Lataa toinen build-kooste
 
 download-button-linux-32-v2 = Lataa 32-bittiselle Linuxille
 download-button-linux-64-v2 = Lataa 64-bittiselle Linuxille
+download-button-linux-arm64 = Lataa Linux ARM64:lle
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated

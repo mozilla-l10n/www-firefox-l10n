@@ -69,6 +69,7 @@ footer-logo-trademark-licensing = Logon tavaramerkkilisensointi
 
 footer-language = Kieli
 footer-go = Siirry
+footer-ask-question = Esitä kysymys!
 footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
