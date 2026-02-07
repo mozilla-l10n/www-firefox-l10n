@@ -35,6 +35,7 @@ download-a-different-build = Stiahnuť iné zostavenie
 
 download-button-linux-32-v2 = Stiahnite si pre Linux (32‑bitová verzia)
 download-button-linux-64-v2 = Stiahnite si pre Linux (64‑bitová verzia)
+download-button-linux-arm64 = Stiahnuť pre Linux ARM64
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
