@@ -46,3 +46,10 @@ firefox-new-fast = Зудкор, хусусӣ ва ройгон
 firefox-new-from-mozilla = аз ширкати «{ -brand-name-mozilla }»
 firefox-new-desc = Браузери «{ -brand-name-firefox-browser }» - браузери интернетии ройгон мебошад, ки саҳифаҳоро тез бор мекунад, аз ҳофиза кам истифода мебарад ва дорои бисёр хусусиятҳо мебошад - натиҷаи лоиҳаи ташкилоти ғайритиҷоратии «{ -brand-name-mozilla }».
 firefox-new-download-a-different = Барои платформаи дигар ё бо забони дигар боргирӣ намоед
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook

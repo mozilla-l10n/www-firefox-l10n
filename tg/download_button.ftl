@@ -35,6 +35,7 @@ download-a-different-build = Сохти дигареро боргирӣ намо
 
 download-button-linux-32-v2 = Боргирӣ кардан барои «Linux» 32-бит
 download-button-linux-64-v2 = Боргирӣ кардан барои «Linux» 64-бит
+download-button-linux-arm64 = Боргирӣ кардан барои «ARM64»
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
