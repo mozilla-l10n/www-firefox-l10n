@@ -9,4 +9,6 @@ mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 mobile-ios-get-firefox-for = ទទួលយក { -brand-name-firefox } សម្រាប់ { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = ផ្ញើតំណភ្ជាប់ទាញយក ទៅទូរស័ព្ទរបស់អ្នក។
 mobile-ios-scan-the-qr-code-to-get-started = ស្កេនលេខកូដ QR ដើម្បីចាប់ផ្តើម
+mobile-ios-scan-alt-text = ស្កេនកូដ QR ដើម្បីទទួលបាន { -brand-name-firefox } នៅលើ { -brand-name-ios }
+mobile-ios-make-firefox-your = ធ្វើឱ្យ { -brand-name-firefox } ជាកម្មវិធីរុករក លំនាំដើមរបស់អ្នក
 mobile-ios-about-mozilla = អំពី { -brand-name-mozilla }

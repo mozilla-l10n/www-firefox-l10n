@@ -12,5 +12,6 @@ mobile-android-get-firefox-for = ទទួលយក { -brand-name-firefox } ស�
 mobile-android-send-a-download-link-to-your = ផ្ញើតំណភ្ជាប់ទាញយក ទៅទូរស័ព្ទរបស់អ្នក។
 mobile-android-scan-the-qr-code-to-get-started = ស្កេនលេខកូដ QR ដើម្បីចាប់ផ្តើម
 mobile-android-scan-alt-text = ស្កេនលេខកូដ QR ដើម្បីទទួលបាន { -brand-name-firefox } នៅលើ { -brand-name-android }
+mobile-android-fast-and-private = រហ័ស និងឯកជន
 mobile-android-save-power-with = សន្សំសំចៃថាមពលជាមួយម៉ូដងងឹត
 mobile-android-about-mozilla = អំពី { -brand-name-mozilla }

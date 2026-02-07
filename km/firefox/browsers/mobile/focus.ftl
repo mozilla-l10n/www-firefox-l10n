@@ -7,3 +7,4 @@
 
 mobile-focus-get-firefox-focus = ទទួលយក { -brand-name-firefox-focus }
 mobile-focus-scan-the-qr-code-to-get-started = ស្កេនលេខកូដ QR ដើម្បីចាប់ផ្តើម
+mobile-focus-delete-your-history = លុបប្រវត្តិរបស់អ្នក
