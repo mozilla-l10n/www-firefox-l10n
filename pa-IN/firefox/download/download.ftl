@@ -46,3 +46,10 @@ firefox-new-fast = ਤੇਜ਼, ਪ੍ਰਾਈਵੇਟ ਤੇ ਮੁਫ਼ਤ
 firefox-new-from-mozilla = { -brand-name-mozilla } ਵਲੋਂ
 firefox-new-desc = { -brand-name-firefox-browser } ਵੱਧ ਤੇਜ਼ ਸਫ਼ਾ ਲੋਡ ਕਰਨ, ਘੱਟ ਮੈਮੋਰੀ ਵਰਤਣ ਤੇ ਕਈ ਸਾਰੇ ਫ਼ੀਚਰਾਂ ਵਾਲਾ ਮੁਫ਼ਤ ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਹੈ - ਗ਼ੈਰ-ਫਾਇਦੇਮੰਦ { -brand-name-mozilla } ਵਲੋਂ ਪ੍ਰੋਜੈਕਟ।
 firefox-new-download-a-different = ਵੱਖਰੇ ਪਲੇਟਫਾਰਮ ਜਾਂ ਭਾਸ਼ਾ ਡਾਊਨਲੋਡ ਕਰੋ
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = ਲੀਨਕਸ
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook

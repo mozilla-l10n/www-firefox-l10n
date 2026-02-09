@@ -5,6 +5,12 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+# Page description
+firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } ਇੰਟਰਪ੍ਰਾਈਸ ਪੱਧਰੀ ਸੁਰੱਖਿਆ, ਪਰਦੇਦਾਰੀ ਅਤੇ ਢਲਣਯੋਗਤਾ ਨਾਲ ਆਜ਼ਾਦ ਸਰੋਤ ਬਰਾਊਜ਼ਰ ਹੈ। ਨਵੇਂ ਫ਼ੀਚਰਾਂ ਲਈ { -brand-name-firefox } ਨੂੰ ਵਰਤੋਂ ਜਾਂ ਲੰਮੇ ਸਮੇਂ ਦੀ ਸਥਿਰਤਾ ਲਈ { -brand-name-esr } ਨੂੰ ਵਰਤੋਂ।
+firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-use-as-your-enterprise-browser = { -brand-name-firefox } ਨੂੰ ਆਪਣੇ ਇੰਟਰਪ੍ਰਾਈਸ ਬਰਾਊਜ਼ਰ ਵਜੋਂ ਵਰਤੋਂ
+firefox-enterprise-protection-powered-by = { -brand-name-firefox } ਵਲੋਂ ਦਿੱਤੀ ਇੰਟਰਪ੍ਰਾਈਜ਼ ਪੱਧਰੀ ਸੁਰੱਖਿਆ
+firefox-enterprise-your-browser-your-business = ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਰ, ਤੁਹਾਡਾ ਕਾਰੋਬਾਰ
 firefox-enterprise-deploy-when-and-how-you-want = ਜਦੋਂ ਤੇ ਜਿਵੇਂ ਤੁਸੀਂ ਚਾਹੋ ਸਥਾਪਤ ਕਰੋ
 firefox-enterprise-release-cycles = ਤੁਹਾਡੇ ਸੰਸਥਾ ਮੁਤਾਬਕ ਰਿਲੀਜ਼ ਸਾਈਕਲ
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } ਡਾਊਨਲੋਡ
