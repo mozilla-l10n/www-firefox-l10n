@@ -38,9 +38,9 @@
 
 -brand-name-beta = Beta
 -brand-name-developer-edition = Developer Edition
--brand-name-enterprise = Enterprise
+-brand-name-enterprise = សហគ្រាស
 -brand-name-esr = ESR
--brand-name-focus = Focus
+-brand-name-focus = ផ្ដោតសំខាន់
 -brand-name-nightly = Nightly
 
 ## Firefox browsers (legacy)
