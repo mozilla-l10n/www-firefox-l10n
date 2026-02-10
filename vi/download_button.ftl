@@ -35,10 +35,11 @@ download-a-different-build = Tải xuống bản dựng khác
 
 download-button-linux-32-v2 = Tải xuống cho Linux 32-bit
 download-button-linux-64-v2 = Tải xuống cho Linux 64-bit
+download-button-linux-arm64 = Tải xuống cho Linux ARM64
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
-download-button-using-debian = Sử dụng Debian, Ubuntu hoặc bất kỳ bản phân phối dựa trên Debian nào?<br> Bạn có thể thiết lập <a { $attrs }>APT repository thay thế</a> của chúng tôi.
+download-button-using-debian = Bạn đang sử dụng Debian, Ubuntu hay bất kỳ bản phân phối dựa trên Debian?<br> Thay vào đó bạn có thể thiết lập <a { $attrs }>APT repository</a> của chúng tôi.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Tải về từ Microsoft
 # Variables

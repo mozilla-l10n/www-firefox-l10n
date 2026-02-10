@@ -46,3 +46,10 @@ firefox-new-fast = Nhanh chóng, riêng tư & miễn phí
 firefox-new-from-mozilla = từ { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } là trình duyệt web miễn phí tải trang nhanh, sử dụng ít bộ nhớ hơn và nhiều tính năng - một dự án của tổ chức phi lợi nhuận { -brand-name-mozilla }.
 firefox-new-download-a-different = Tải xuống trên nền tảng hoặc ngôn ngữ khác
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook
