@@ -36,5 +36,13 @@ download-a-different-build = ទាញយកកំណែផ្សេង
 download-button-linux-32-v2 = ទាញយកសម្រាប់ Linux 32-bit
 download-button-linux-64-v2 = ទាញយកសម្រាប់ Linux 64-bit
 download-button-linux-arm64 = ទាញយកសម្រាប់ Linux ARM64
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = កំពុងប្រើ Debian, Ubuntu ឬការចែកចាយដែលមានមូលដ្ឋានលើ Debian ណាមួយ?<br> អ្នកអាចដំឡើង <a { $attrs }>ឃ្លាំង APT របស់យើងជំនួសវិញ</a>។
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = ទទួលយកពី Microsoft
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = ចែករំលែកពីរបៀបដែលអ្នកបានរកឃើញ { -brand-name-firefox } និងរបៀបដែលអ្នកប្រើប្រាស់វាជាមួយដៃគូបច្ចេកវិទ្យាទីផ្សាររបស់ { -brand-name-mozilla }។ ទិន្នន័យនេះមិនដែលត្រូវបានលក់ ឬប្រើដើម្បីបង្ហាញអ្នកពីការផ្សាយពាណិជ្ជកម្មនោះទេ។ <a { $attrs }>ស្វែងយល់ពីរបៀបដែលយើងប្រើប្រាស់ទិន្នន័យ</a>។
