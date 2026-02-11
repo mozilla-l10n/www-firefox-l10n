@@ -46,3 +46,10 @@ firefox-new-fast = Rapid, privat și gratuit
 firefox-new-from-mozilla = de la { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } este un browser web gratuit cu încărcare rapidă a paginilor, utilizare redusă a memoriei și o mulțime de funcții - un proiect al organizației non-profit { -brand-name-mozilla }.
 firefox-new-download-a-different = Descarcă pentru alte platforme și limbi
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook
