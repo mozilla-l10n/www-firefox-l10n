@@ -7,6 +7,7 @@
 
 firefox-desktop-download-download-options = ជម្រើសទាញយក និងភាសាផ្សេងទៀត
 firefox-desktop-download-see-your-report = មើលរបាយការណ៍ការពាររបស់អ្នក
+firefox-desktop-download-bookmarks-manager = កម្មវិធីគ្រប់គ្រងចំណាំ
 firefox-desktop-download-spell-check = ពិនិត្យអក្ខរាវិរុទ្ធ
 firefox-desktop-download-pinned-tabs = ខ្ទាស់​ផ្ទាំង
 firefox-desktop-download-share-links = ចែករំលែកតំណ
