@@ -23,5 +23,7 @@ ui-learn-more = Läs mer
 ui-view = Visa
 ui-pause-animation = Pausa animation
 ui-play-animation = Spela animation
+ui-view-all = Visa alla
+ui-more-features = Fler funktioner
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Kampanj
