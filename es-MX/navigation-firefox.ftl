@@ -9,9 +9,12 @@ navigation-get-firefox = Obtener { -brand-name-firefox }
 ## Features
 
 navigation-features = Características
+navigation-top-features = Características principales
 navigation-fingerprint-blocking = Bloqueo de huellas dactilares
 navigation-ad-tracker-blocking = Bloqueo de rastreadores de publicidad
 navigation-private-browsing = Modo de navegación privada
+navigation-password-manager = Administrador de contraseñas gratuito
+navigation-features-all = Ver todas las características de { -brand-name-firefox }
 
 ## Resources
 
@@ -24,6 +27,7 @@ navigation-release-notes = Notas de la versión
 navigation-support = Soporte
 navigation-extensions-and-themes = Extensiones y temas
 navigation-add-ons = Complementos
+navigation-all-downloads = Todas las descargas
 navigation-learn = Aprender
 navigation-blog = Blog
 navigation-compare = Comparar

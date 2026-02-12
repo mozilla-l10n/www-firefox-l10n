@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Tu dirección de correo electrónico
 newsletter-form-we-are-sorry-but-there = Discúlpanos, pero hubo un problema con nuestro sistema. Por favor, inténtalo de nuevo más tarde.
 newsletter-form-please-select-country = Por favor selecciona un país o región
 newsletter-form-please-select-language = Por favor, selecciona un idioma
+newsletter-form-button-cta = Registrarse
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = tunombre@ejemplo.com
 newsletter-form-select-country-or-region = Seleccionar país o región
@@ -17,6 +18,8 @@ newsletter-form-get-firefox-news = Recibe noticias sobre { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Me parece bien que { -brand-name-mozilla } gestione mi información según se indica en <a href="{ $url }">esta política de privacidad</a>
+newsletter-form-we-will-only-send-v2 = Solo te enviaremos información relacionada con { -brand-name-mozilla }. Puedes darte de baja en cualquier momento.
+newsletter-form-we-will-only-send-firefox-v2 = Solo te enviaremos información relacionada con { -brand-name-firefox }. Puedes darte de baja en cualquier momento.
 newsletter-form-if-you-havent-previously = Si no has confirmado previamente una suscripción a un boletín relacionado a { -brand-name-mozilla }, puede que tengas que hacerlo. Por favor, revisa tu bandeja de entrada o filtro de spam en busca de un email de nosotros.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Tú
 newsletter-form-get-firefox-tips = Obtén consejos, trucos, noticias y más de { -brand-name-firefox }
@@ -27,6 +30,8 @@ newsletter-form-sign-up-now = Regístrate ahora
 newsletter-form-thanks = ¡Gracias!
 newsletter-form-yes = Sí
 newsletter-form-no = No
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Enviando
 multi-newsletter-form-checkboxes-legend = Quiero información sobre:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
