@@ -23,5 +23,7 @@ ui-learn-more = Dysgu rhagor
 ui-view = Gweld
 ui-pause-animation = Oedi'r animeiddiad
 ui-play-animation = Chwarae animeiddiad
+ui-view-all = Gweld y cyfan
+ui-more-features = Mwy o nodweddion
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Hyrwyddo
