@@ -23,5 +23,7 @@ ui-learn-more = Ayrıntılı bilgi al
 ui-view = Göster
 ui-pause-animation = Animasyonu duraklat
 ui-play-animation = Animasyonu oynat
+ui-view-all = Tümünü göster
+ui-more-features = Diğer özellikler
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Tanıtım
