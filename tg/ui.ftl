@@ -23,5 +23,7 @@ ui-learn-more = Маълумоти бештар
 ui-view = Намоиш
 ui-pause-animation = Таваққуф кардани аниматсия
 ui-play-animation = Пахш кардани аниматсия
+ui-view-all = Ҳамаро дидан
+ui-more-features = Хусусиятҳои бештар
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Пешрафт
