@@ -23,5 +23,7 @@ ui-learn-more = Tìm hiểu thêm
 ui-view = Xem
 ui-pause-animation = Tạm dừng hoạt ảnh
 ui-play-animation = Phát hoạt ảnh
+ui-view-all = Xem tất cả
+ui-more-features = Nhiều tính năng hơn
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Khuyến mãi
