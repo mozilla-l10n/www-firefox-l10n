@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+# An accessible label used to describe that the role of the element is the primary website navigation.
+navigation-landmark-label = Primario
 navigation-browser = Navegador
 navigation-close-menu = Cerrar menú
 navigation-get-firefox = Obtener { -brand-name-firefox }
@@ -9,6 +11,7 @@ navigation-get-firefox = Obtener { -brand-name-firefox }
 ## Features
 
 navigation-features = Características
+navigation-close-features-menu = Cerrar menú de funcionalidades
 navigation-top-features = Características principales
 navigation-fingerprint-blocking = Bloqueo de huellas dactilares
 navigation-ad-tracker-blocking = Bloqueo de rastreadores de publicidad
@@ -19,6 +22,7 @@ navigation-features-all = Ver todas las características de { -brand-name-firefo
 ## Resources
 
 navigation-resources = Recursos
+navigation-close-resources-menu = Cerrar menú de recursos
 navigation-product = Producto
 navigation-desktop = Escritorio
 navigation-mobile = Móvil
