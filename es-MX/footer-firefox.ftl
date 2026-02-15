@@ -17,6 +17,8 @@ footer-custom-download = Opciones de descarga personalizadas
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
+# Section title
+footer-latest = Últimas compilaciones
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 

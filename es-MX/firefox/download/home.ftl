@@ -6,6 +6,10 @@
 ### URL: https://www-dev.springfield.moz.works/
 
 
+## Features
+
+firefox-home-privacy-built-in = Privacidad incorporada
+
 ## Used as accessible alternative text for images.
 
 firefox-home-multiple-cursors = Varios cursores.
