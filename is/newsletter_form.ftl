@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Tölvupóstfangið þitt
 newsletter-form-we-are-sorry-but-there = Því miður kom upp vandamál með kerfið okkar. Endilega reyndu aftur síðar!
 newsletter-form-please-select-country = Veldu land eða svæði
 newsletter-form-please-select-language = Veldu tungumál
+newsletter-form-button-cta = Skráðu þig
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = jon.jonsson@example.com
 newsletter-form-select-country-or-region = Veldu land eða hérað
@@ -29,6 +30,8 @@ newsletter-form-sign-up-now = Skráðu þig núna
 newsletter-form-thanks = Takk!
 newsletter-form-yes = Já
 newsletter-form-no = Nei
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Sendi
 multi-newsletter-form-checkboxes-legend = Ég vil fá upplýsingar um:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
