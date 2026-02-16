@@ -46,3 +46,10 @@ firefox-new-fast = ໄວ, ສ່ວນຕົວ ແລະ ຟຣີ
 firefox-new-from-mozilla = ຜະລິດໂດຍ { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } ເປັນເວັບບຣາວເຊີຟຣີທີ່ມີການໂຫຼດໜ້າເວັບໄວ, ໃຊ້ຄວາມຈຳໜ້ອຍລົງ, ແລະຄຸນສົມບັດຫຼາຍຢ່າງ - ເປັນໂຄງການທີ່ບໍ່ຫວັງຜົນກຳໄລ { -brand-name-mozilla } .
 firefox-new-download-a-different = ດາວໂຫລດແພລະຕະຟອມຫຼືພາສາອື່ນ
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook

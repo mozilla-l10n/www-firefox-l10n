@@ -5,6 +5,12 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+# Page title
+firefox-enterprise-use-firefox-esr-enterprise-browser = ໃຊ້ { -brand-name-firefox } ຫຼື { -brand-name-esr } ເປັນໂປຣແກຣມທ່ອງເວັບຂອງວິສາຫະກິດຂອງທ່ານເພື່ອຄວາມປອດໄພໃນຂອບເຂດກ້ວາງຂວາງ
+# Page description
+firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } ເປັນໂປຣແກຣມທ່ອງເວັບແບບໂອເພນຊອສທີ່ມີຄວາມປອດໄພ, ຄວາມເປັນສ່ວນຕົວ ແລະ ຄວາມຍືດຫຍຸ່ນລະດັບວິສາຫະກິດ. ໃຊ້ { -brand-name-firefox } ສຳລັບຄຸນສົມບັດລ່າສຸດ ຫຼື { -brand-name-esr } ສຳລັບຄວາມໝັ້ນຄົງໃນໄລຍະຍາວ.
+firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-use-as-your-enterprise-browser = ໃຊ້ { -brand-name-firefox } ເປັນໂປຣແກຣມທ່ອງເວັບວິສາຫະກິດຂອງທ່ານ
 firefox-enterprise-deploy-when-and-how-you-want = ນຳໃຊ້ເວລາ ແລະວິທີທີ່ທ່ານຕ້ອງການ
 firefox-enterprise-enterprise-downloads = ດາວໂຫຼດ { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit

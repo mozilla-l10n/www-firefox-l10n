@@ -35,6 +35,7 @@ download-a-different-build = ດາວ​ໂຫຼດ​ການ​ສ້າງ
 
 download-button-linux-32-v2 = ດາວໂຫລດສໍາລັບ Linux 32-bit
 download-button-linux-64-v2 = ດາວໂຫລດສໍາລັບ Linux 64-bit
+download-button-linux-arm64 = ດາວໂຫຼດສຳລັບ Linux ARM64
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
