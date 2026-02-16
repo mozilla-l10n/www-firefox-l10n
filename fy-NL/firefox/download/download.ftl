@@ -46,3 +46,10 @@ firefox-new-fast = Fluch, privee en fergees
 firefox-new-from-mozilla = fan { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } is in fergeze webbrowser dy’t siden fluch laadt, minder ûnthâld brûkt en folop funksjes befettet – in projekt fan de non-profitorganisaasje { -brand-name-mozilla }.
 firefox-new-download-a-different = Downloade foar in oar platfoarm of taal
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook

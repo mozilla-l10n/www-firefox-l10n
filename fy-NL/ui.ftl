@@ -23,5 +23,7 @@ ui-learn-more = Mear lêze
 ui-view = Werjaan
 ui-pause-animation = Animaasjes pauzearje
 ui-play-animation = Animaasjes ôfspylje
+ui-view-all = Alles besjen
+ui-more-features = Mear funksjes
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Promoasje
