@@ -10,3 +10,4 @@
 # Variables:
 #   $number (number) - the number of the step
 block-step-card-step = Étape { $number }
+

@@ -53,3 +53,10 @@ firefox-new-from-mozilla = par { -brand-name-mozilla }
 firefox-new-desc = Firefox est un navigateur web libre et gratuit, moins gourmand en mémoire, qui charge les pages rapidement et qui dispose de nombreuses fonctionnalités. C’est un projet de l’organisation à but non lucratif { -brand-name-mozilla }.
 firefox-new-download-a-different = Télécharger Firefox pour d’autres langues et plateformes
 
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook
