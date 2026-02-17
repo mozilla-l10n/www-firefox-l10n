@@ -19,9 +19,13 @@ firefox-all-change-language = Vel eit anna språk
 firefox-all-down-arrow = Vel frå lista nedanfor
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Få hjelp
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Nettlesar:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Plattform:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Språk:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Last ned:
 firefox-all-desktop = Datamaskin
 firefox-all-mobile = Mobil

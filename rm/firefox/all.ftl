@@ -19,9 +19,13 @@ firefox-all-change-language = Tscherna in’autra lingua
 firefox-all-down-arrow = Tscherna da la glista sutvart
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Ir per agid
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Navigatur:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Plattafurma:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Lingua:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Telechargiar:
 firefox-all-desktop = Desktop
 firefox-all-mobile = Mobil

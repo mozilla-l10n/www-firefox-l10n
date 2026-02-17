@@ -19,9 +19,13 @@ firefox-all-change-language = Másik nyelv választása
 firefox-all-down-arrow = Válasszon a lenti listából
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Segítség
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Böngésző:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Platform:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Nyelv:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Letöltés:
 firefox-all-desktop = Asztali
 firefox-all-mobile = Mobil

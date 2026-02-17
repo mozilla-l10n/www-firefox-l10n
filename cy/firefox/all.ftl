@@ -19,9 +19,13 @@ firefox-all-change-language = Dewiswch iaith wahanol
 firefox-all-down-arrow = Dewiswch o'r rhestr isod
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Derbyn cymorth
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Porwr:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Platfform:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Iaith:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Llwytho i lawr:
 firefox-all-desktop = Bwrdd Gwaith
 firefox-all-mobile = Symudol

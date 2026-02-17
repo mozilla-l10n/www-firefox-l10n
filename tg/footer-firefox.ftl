@@ -9,7 +9,6 @@
 footer-download = Боргирӣ кардан
 footer-download-auto = «{ -brand-name-firefox }»-ро боргирӣ кунед
 footer-windows = Windows
-footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux

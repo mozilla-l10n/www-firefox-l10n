@@ -19,9 +19,13 @@ firefox-all-change-language = Eiporavo ñe’ẽ ambuéva
 firefox-all-down-arrow = Eiporavo tysýi tenondegua
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Eipotápa pytyvõ
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Kundahára:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Pyendavusu:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Ñe’ẽ:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Emboguejy:
 firefox-all-desktop = Mesa arigua
 firefox-all-mobile = Pumbyry popegua

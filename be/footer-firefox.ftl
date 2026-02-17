@@ -9,7 +9,6 @@
 footer-download = Сцягванне
 footer-download-auto = Сцягнуць { -brand-name-firefox }
 footer-windows = Windows
-footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux

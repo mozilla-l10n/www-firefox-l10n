@@ -19,9 +19,13 @@ firefox-all-change-language = Scarta n’autra lingua
 firefox-all-down-arrow = Scarta dâ lista appressu
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Fatti ajutari
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Navicaturi:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Chiattafurma:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Lingua:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Scàrrica:
 firefox-all-desktop = Scagnu
 firefox-all-mobile = Mòbbili

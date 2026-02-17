@@ -9,7 +9,6 @@
 footer-download = Shkarkoje
 footer-download-auto = Shkarkoni { -brand-name-firefox }-in
 footer-windows = Windows
-footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux

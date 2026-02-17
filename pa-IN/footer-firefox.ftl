@@ -9,7 +9,6 @@
 footer-download = ਡਾਊਨਲੋਡ
 footer-download-auto = { -brand-name-firefox } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
 footer-windows = ਵਿੰਡੋਜ਼
-footer-mac = ਮੈਕ
 footer-ios = iOS
 footer-android = ਐਂਡਰਾਈਡ
 footer-linux = ਲੀਨਕਸ

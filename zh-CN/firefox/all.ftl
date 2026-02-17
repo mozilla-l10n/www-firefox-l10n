@@ -19,9 +19,13 @@ firefox-all-change-language = 选择其他语言
 firefox-all-down-arrow = 从下方列表中选择
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = 获取帮助
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. 浏览器：
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. 平台：
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. 语言：
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. 下载：
 firefox-all-desktop = 桌面版
 firefox-all-mobile = 移动版

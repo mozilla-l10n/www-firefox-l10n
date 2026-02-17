@@ -9,7 +9,6 @@
 footer-download = دریافت
 footer-download-auto = دریافت { -brand-name-firefox }
 footer-windows = ویندوز
-footer-mac = Mac
 footer-ios = iOS
 footer-android = اندروید
 footer-linux = لینوکس

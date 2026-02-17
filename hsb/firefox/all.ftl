@@ -19,9 +19,13 @@ firefox-all-change-language = Wubjerće druhu rěč
 firefox-all-down-arrow = Wubjerće ze slědowaceje lisćiny
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Pomoc sej wobstarać
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Wobhladowak:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Platforma:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Rěč:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Sćehnjenje:
 firefox-all-desktop = Desktop
 firefox-all-mobile = Mobilny telefon

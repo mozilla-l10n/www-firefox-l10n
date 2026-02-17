@@ -19,9 +19,13 @@ firefox-all-change-language = Επιλέξτε μια διαφορετική γ�
 firefox-all-down-arrow = Επιλέξτε από την παρακάτω λίστα
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Λήψη βοήθειας
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Πρόγραμμα περιήγησης:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Πλατφόρμα:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Γλώσσα:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Λήψη:
 firefox-all-desktop = Υπολογιστές
 firefox-all-mobile = Κινητές συσκευές

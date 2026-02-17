@@ -19,9 +19,13 @@ firefox-all-change-language = ເລືອກພາສາອື່ນ
 firefox-all-down-arrow = ເລືອກຈາກບັນຊີລາຍຊື່ຂ້າງລຸ່ມນີ້
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = ຂໍຄວາມຊ່ວຍເຫລືອ
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. ຕົວທ່ອງເວັບ:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Platform:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. ພາສາ:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. ດາວໂຫລດ:
 firefox-all-desktop = ເດສກ໌ທັອບ
 firefox-all-mobile = ໂທລະສັບມືຖື

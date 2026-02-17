@@ -9,7 +9,6 @@
 footer-download = İndir
 footer-download-auto = { -brand-name-firefox }’u indir
 footer-windows = Windows
-footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux

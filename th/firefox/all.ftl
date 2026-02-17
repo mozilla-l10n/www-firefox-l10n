@@ -19,9 +19,13 @@ firefox-all-change-language = เลือกภาษาอื่น
 firefox-all-down-arrow = เลือกจากรายการด้านล่าง
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = รับความช่วยเหลือ
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. เบราว์เซอร์:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. แพลตฟอร์ม:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. ภาษา:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. ดาวน์โหลด:
 firefox-all-desktop = เดสก์ท็อป
 firefox-all-mobile = มือถือ

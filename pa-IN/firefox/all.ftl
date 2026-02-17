@@ -19,9 +19,13 @@ firefox-all-change-language = ਵੱਖਰੀ ਭਾਸ਼ਾ ਨੂੰ ਚੁ�
 firefox-all-down-arrow = ਹੇਠਲੀ ਸੂਚੀ ਵਿੱਚੋਂ ਚੁਣੋ
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = ਮਦਦ ਲਵੋ
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. ਬਰਾਊਜ਼ਰ:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. ਪਲੇਟਫਾਰਮ:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. ਭਾਸ਼ਾ:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. ਡਾਊਨਲੋਡ:
 firefox-all-desktop = ਡੈਸਕਟਾਪ
 firefox-all-mobile = ਮੋਬਾਇਲ

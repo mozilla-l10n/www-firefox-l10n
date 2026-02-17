@@ -9,7 +9,6 @@
 footer-download = Скачать
 footer-download-auto = Скачать { -brand-name-firefox }
 footer-windows = Windows
-footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux

@@ -19,9 +19,13 @@ firefox-all-change-language = Valitse eri kieli
 firefox-all-down-arrow = Valitse alla olevasta luettelosta
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Apua
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Selain:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Alusta:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Kieli:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Lataa:
 firefox-all-desktop = Työpöytä
 firefox-all-mobile = Mobiili

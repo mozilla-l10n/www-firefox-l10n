@@ -11,9 +11,13 @@ firefox-all-change-browser = Dibab ur produ all
 firefox-all-change-language = Dibab ur yezh all
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Kaout skoazell
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Merdeer:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Savenn:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Yezh:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Pellgargañ:
 firefox-all-desktop = Burev
 firefox-all-mobile = Hezoug

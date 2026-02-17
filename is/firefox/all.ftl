@@ -19,9 +19,13 @@ firefox-all-change-language = Veldu annað tungumál
 firefox-all-down-arrow = Veldu úr listanum hér að neðan
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Fá aðstoð
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Vafri:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Stýrikerfi:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Tungumál:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Sækja:
 firefox-all-desktop = Vinnutölvur
 firefox-all-mobile = Farsími

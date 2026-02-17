@@ -19,9 +19,13 @@ firefox-all-change-language = Fren tutlayt-nniḍen
 firefox-all-down-arrow = Fren seg tebdart-a ddaw-a
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Awi tallelt
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Iminig:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Tiɣerɣert
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Tutlayt:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Asader:
 firefox-all-desktop = Tanarit
 firefox-all-mobile = Aziraz

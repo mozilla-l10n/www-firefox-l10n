@@ -19,9 +19,13 @@ firefox-all-change-language = Izberite drug jezik
 firefox-all-down-arrow = Izberite s spodnjega seznama
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Pomoč
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Brskalnik:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Platforma:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Jezik:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Prenos:
 firefox-all-desktop = Namizni računalniki
 firefox-all-mobile = Mobilne naprave

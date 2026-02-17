@@ -19,9 +19,13 @@ firefox-all-change-language = Забони дигареро интихоб на�
 firefox-all-down-arrow = Аз рӯйхати зерин интихоб намоед
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Гирифтани кумак
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Браузер:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Платформа:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Забон:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Боргирӣ:
 firefox-all-desktop = Мизи корӣ
 firefox-all-mobile = Мобилӣ

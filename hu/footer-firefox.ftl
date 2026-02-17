@@ -9,7 +9,6 @@
 footer-download = Letöltés
 footer-download-auto = A { -brand-name-firefox } letöltése
 footer-windows = Windows
-footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux

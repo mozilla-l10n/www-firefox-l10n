@@ -13,7 +13,9 @@ firefox-all-change-language = వేరే భాషను ఎంచుకోం
 firefox-all-down-arrow = క్రింది జాబితా నుండి ఎంచుకోండి
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = సహాయం పొందండి
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. విహారిణి:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. భాష:
 firefox-all-lang-multi = పలు భాషలు
 firefox-all-64-bit-installers = 64-బిట్ ఇన్‌స్టాలర్లు

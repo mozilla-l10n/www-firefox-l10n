@@ -9,7 +9,6 @@
 footer-download = Preuzmi
 footer-download-auto = Preuzmite { -brand-name-firefox }
 footer-windows = Windows
-footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux

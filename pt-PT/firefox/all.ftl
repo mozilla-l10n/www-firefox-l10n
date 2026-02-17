@@ -19,9 +19,13 @@ firefox-all-change-language = Escolha um idioma diferente
 firefox-all-down-arrow = Escolha da lista em baixo
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Obter ajuda
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Navegador:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Plataforma:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Idioma:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Transferência:
 firefox-all-desktop = Computador
 firefox-all-mobile = Móvel

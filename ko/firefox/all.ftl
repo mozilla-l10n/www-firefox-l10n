@@ -19,9 +19,13 @@ firefox-all-change-language = 다른 언어 선택
 firefox-all-down-arrow = 아래 목록에서 선택
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = 도움말
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. 브라우저:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. 플랫폼:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. 언어:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. 다운로드:
 firefox-all-desktop = 데스크톱
 firefox-all-mobile = 모바일
