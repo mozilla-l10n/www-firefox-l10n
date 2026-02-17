@@ -23,6 +23,7 @@ ui-learn-more = 了解更多
 ui-view = 檢視
 ui-pause-animation = 暫停動畫
 ui-play-animation = 播放動畫
+ui-edit = 編輯
 ui-view-all = 檢視全部
 ui-more-features = 更多功能
 # An accessible label used to describe the purpose of a cross-promotional page element.

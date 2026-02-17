@@ -21,12 +21,16 @@ firefox-all-down-arrow = Vyberte si z níže uvedeného seznamu
 firefox-all-get-help = Získat pomoc
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Prohlížeč:
+firefox-all-browser-v3 = Prohlížeč
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Platforma:
+firefox-all-platform-v3 = Platforma
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Jazyk:
+firefox-all-language-v3 = Jazyk
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Stáhněte si:
+firefox-all-download-v2 = Stáhnout
 firefox-all-desktop = Počítač
 firefox-all-mobile = Mobil
 firefox-all-recommended = (doporučeno)

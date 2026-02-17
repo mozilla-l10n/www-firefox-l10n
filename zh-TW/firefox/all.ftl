@@ -21,12 +21,16 @@ firefox-all-down-arrow = 請從下列清單中選擇
 firefox-all-get-help = 取得幫助
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. 瀏覽器：
+firefox-all-browser-v3 = 網頁瀏覽器
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. 平台：
+firefox-all-platform-v3 = 平台
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. 語言：
+firefox-all-language-v3 = 語言
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. 下載：
+firefox-all-download-v2 = 下載
 firefox-all-desktop = 桌面版
 firefox-all-mobile = 行動版
 firefox-all-recommended = （建議）

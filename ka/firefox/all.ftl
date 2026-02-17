@@ -21,12 +21,16 @@ firefox-all-down-arrow = აირჩიეთ ქვემოთ მოცე�
 firefox-all-get-help = დახმარების მიღება
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. ბრაუზერი:
+firefox-all-browser-v3 = ბრაუზერი
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. სისტემა:
+firefox-all-platform-v3 = პლატფორმა
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. ენა:
+firefox-all-language-v3 = ენა
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. ჩამოტვირთვა:
+firefox-all-download-v2 = ჩამოტვირთვა
 firefox-all-desktop = კომპიუტერი
 firefox-all-mobile = მობილური
 firefox-all-recommended = (სასურველია)

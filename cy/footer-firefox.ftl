@@ -9,6 +9,7 @@
 footer-download = Llwytho i Lawr
 footer-download-auto = Llwytho { -brand-name-firefox } i Lawr
 footer-windows = Windows
+footer-macos = macOS
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux

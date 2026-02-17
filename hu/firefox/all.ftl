@@ -21,12 +21,16 @@ firefox-all-down-arrow = Válasszon a lenti listából
 firefox-all-get-help = Segítség
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Böngésző:
+firefox-all-browser-v3 = Böngésző
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Platform:
+firefox-all-platform-v3 = Platform
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Nyelv:
+firefox-all-language-v3 = Nyelv
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Letöltés:
+firefox-all-download-v2 = Letöltés
 firefox-all-desktop = Asztali
 firefox-all-mobile = Mobil
 firefox-all-recommended = (ajánlott)

@@ -9,6 +9,7 @@
 footer-download = Stáhnout
 footer-download-auto = Stáhnout { -brand-name-firefox(case: "acc") }
 footer-windows = Windows
+footer-macos = macOS
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux

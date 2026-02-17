@@ -23,6 +23,7 @@ ui-learn-more = ვრცლად
 ui-view = ნახვა
 ui-pause-animation = მოძრაობის შეჩერება
 ui-play-animation = ამოძრავება
+ui-edit = ჩასწორება
 ui-view-all = ყველას ნახვა
 ui-more-features = მეტი შესაძლებლობები
 # An accessible label used to describe the purpose of a cross-promotional page element.

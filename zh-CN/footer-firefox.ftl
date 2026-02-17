@@ -9,6 +9,7 @@
 footer-download = 下载
 footer-download-auto = 下载 { -brand-name-firefox }
 footer-windows = Windows
+footer-macos = macOS
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux

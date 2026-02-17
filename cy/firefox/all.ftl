@@ -21,12 +21,16 @@ firefox-all-down-arrow = Dewiswch o'r rhestr isod
 firefox-all-get-help = Derbyn cymorth
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Porwr:
+firefox-all-browser-v3 = Porwr
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Platfform:
+firefox-all-platform-v3 = Platfform
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Iaith:
+firefox-all-language-v3 = Iaith
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Llwytho i lawr:
+firefox-all-download-v2 = Llwytho i Lawr
 firefox-all-desktop = Bwrdd Gwaith
 firefox-all-mobile = Symudol
 firefox-all-recommended = (Argymhellwn)

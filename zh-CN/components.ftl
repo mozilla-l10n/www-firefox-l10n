@@ -11,3 +11,6 @@
 # Variables:
 #   $number (number) - the number of the step
 block-step-card-step = 第 { $number } 步
+# Download Firefox button
+# Download Firefox button has optional "set as default" checkmark label
+block-set-as-default = 将 { -brand-name-firefox } 设为默认浏览器。
