@@ -23,9 +23,13 @@ firefox-all-down-arrow = اختر من القائمة التالية
 
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = احصل على المساعدة
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. المُتصفح:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. المنصة:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. اللغة:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. التنزيل:
 firefox-all-desktop = أجهزة الكمبيوتر المكتبية
 firefox-all-mobile = الهواتف المحمولة
