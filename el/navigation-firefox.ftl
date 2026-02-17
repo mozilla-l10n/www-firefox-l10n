@@ -27,6 +27,7 @@ navigation-close-resources-menu = Κλείσιμο μενού πόρων
 navigation-product = Προϊόν
 navigation-desktop = Υπολογιστές
 navigation-mobile = Κινητές συσκευές
+navigation-enterprise = Επιχειρήσεις
 navigation-release-notes = Σημειώσεις έκδοσης
 navigation-support = Υποστήριξη
 navigation-extensions-and-themes = Επεκτάσεις και θέματα
