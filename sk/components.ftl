@@ -13,4 +13,4 @@
 block-step-card-step = Krok { $number }
 # Download Firefox button
 # Download Firefox button has optional "set as default" checkmark label
-block-set-as-default = Nastavte si { -brand-name-firefox(case: "acc") } ako predvolený prehliadač.
+block-set-as-default = Nastaviť { -brand-name-firefox(case: "acc") } ako predvolený prehliadač.
