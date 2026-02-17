@@ -21,12 +21,16 @@ firefox-all-down-arrow = Wubjerće ze slědowaceje lisćiny
 firefox-all-get-help = Pomoc sej wobstarać
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Wobhladowak:
+firefox-all-browser-v3 = Wobhladowak
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Platforma:
+firefox-all-platform-v3 = Platforma
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Rěč:
+firefox-all-language-v3 = Rěč
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Sćehnjenje:
+firefox-all-download-v2 = Sćahnyć
 firefox-all-desktop = Desktop
 firefox-all-mobile = Mobilny telefon
 firefox-all-recommended = (Doporučeny)
