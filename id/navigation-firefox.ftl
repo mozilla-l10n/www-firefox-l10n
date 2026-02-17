@@ -29,6 +29,7 @@ navigation-close-resources-menu = Tutup menu Sumber Daya
 navigation-product = Produk
 navigation-desktop = Desktop
 navigation-mobile = Seluler
+navigation-enterprise = Enterprise
 navigation-release-notes = Catatan Rilis
 navigation-support = Dukungan
 navigation-add-ons = Pengaya

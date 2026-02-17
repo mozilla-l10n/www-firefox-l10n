@@ -53,3 +53,10 @@ firefox-new-from-mozilla = dari { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } adalah peramban web gratis yang memuat halaman dengan cepat, menggunakan lebih sedikit memori, dan banyak fitur lainnya - proyek nirlaba { -brand-name-mozilla }.
 firefox-new-download-a-different = Unduh dalam platform atau bahasa lain
 
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook
