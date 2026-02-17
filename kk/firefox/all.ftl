@@ -21,12 +21,16 @@ firefox-all-down-arrow = Төмендегі тізімнен таңдаңыз
 firefox-all-get-help = Көмек алу
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Браузер:
+firefox-all-browser-v3 = Браузер
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Платформа:
+firefox-all-platform-v3 = Платформа
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Тіл:
+firefox-all-language-v3 = Тіл
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Жүктеп алу:
+firefox-all-download-v2 = Жүктеп алу
 firefox-all-desktop = Дербес компьютер
 firefox-all-mobile = Мобильді
 firefox-all-recommended = (Ұсынылады)

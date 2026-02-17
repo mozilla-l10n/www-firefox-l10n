@@ -9,6 +9,7 @@
 footer-download = Жүктеп алу
 footer-download-auto = { -brand-name-firefox } жүктеп алу
 footer-windows = Windows
+footer-macos = macOS
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
