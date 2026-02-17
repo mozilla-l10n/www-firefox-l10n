@@ -9,6 +9,7 @@
 footer-download = Nedlastingar
 footer-download-auto = Last ned { -brand-name-firefox }
 footer-windows = Windows
+footer-macos = macOS
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
