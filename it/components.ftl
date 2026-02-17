@@ -11,3 +11,6 @@
 # Variables:
 #   $number (number) - the number of the step
 block-step-card-step = Passaggio { $number }
+# Download Firefox button
+# Download Firefox button has optional "set as default" checkmark label
+block-set-as-default = Imposta { -brand-name-firefox } come browser predefinito.
