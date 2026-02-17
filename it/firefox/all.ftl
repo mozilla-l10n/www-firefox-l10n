@@ -30,6 +30,7 @@ firefox-all-language-v2 = 3. Lingua:
 firefox-all-language-v3 = Lingua
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Download:
+firefox-all-download-v2 = Download
 firefox-all-desktop = Desktop
 firefox-all-mobile = Mobile
 firefox-all-recommended = (consigliato)
