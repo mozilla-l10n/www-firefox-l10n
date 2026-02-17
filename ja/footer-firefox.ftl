@@ -8,7 +8,6 @@
 footer-download = ダウンロード
 footer-download-auto = { -brand-name-firefox } をダウンロード
 footer-windows = Windows
-footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
