@@ -22,6 +22,7 @@ ui-learn-more = Pelajari selengkapnya
 ui-view = Lihat
 ui-pause-animation = Jeda animasi
 ui-play-animation = Putar animasi
+ui-view-all = Lihat semua
 
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Promosi

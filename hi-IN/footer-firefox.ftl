@@ -8,7 +8,6 @@
 footer-download = डाउनलोड करें
 footer-download-auto = { -brand-name-firefox } डाउनलोड करें
 footer-windows = Windows
-footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux

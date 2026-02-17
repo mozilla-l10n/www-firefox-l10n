@@ -29,6 +29,7 @@ navigation-close-resources-menu = リソースメニューを閉じる
 navigation-product = 製品
 navigation-desktop = デスクトップ
 navigation-mobile = モバイル
+navigation-enterprise = Enterprise
 navigation-release-notes = リリースノート
 navigation-support = サポート
 navigation-add-ons = アドオン

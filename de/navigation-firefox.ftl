@@ -29,6 +29,7 @@ navigation-close-resources-menu = Ressourcenmenü schließen
 navigation-product = Produkt
 navigation-desktop = Desktop
 navigation-mobile = Mobile
+navigation-enterprise = Enterprise
 navigation-release-notes = Versionshinweise
 navigation-support = Hilfe
 navigation-add-ons = Add-ons

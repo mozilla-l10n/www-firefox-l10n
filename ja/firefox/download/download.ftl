@@ -53,3 +53,10 @@ firefox-new-from-mozilla = { -brand-name-mozilla } が開発
 firefox-new-desc = { -brand-name-firefox-browser } は、ページの読み込みが高速で、メモリ使用量が少なく、豊富な機能を備えた無料のウェブブラウザーです。非営利団体 { -brand-name-mozilla } のプロジェクトとして提供しています。
 firefox-new-download-a-different = 他のプラットフォームまたは言語でダウンロードする
 
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook

@@ -29,6 +29,7 @@ navigation-close-resources-menu = Fermer le menu Ressources
 navigation-product = Produit
 navigation-desktop = Ordinateur
 navigation-mobile = Mobile
+navigation-enterprise = Entreprise
 navigation-release-notes = Notes de mise à jour
 navigation-support = Assistance
 navigation-add-ons = Modules complémentaires

@@ -38,6 +38,7 @@ download-a-different-build = कोई दूसरा बिल्ड डाउ
 
 download-button-linux-32-v2 = Linux 32-बिट के लिए डाउनलोड करें
 download-button-linux-64-v2 = Linux 64-बिट के लिए डाउनलोड करें
+download-button-linux-arm64 = Linux ARM64 के लिए डाउनलोड करें
 
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions

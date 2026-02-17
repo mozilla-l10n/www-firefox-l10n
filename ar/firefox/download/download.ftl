@@ -53,3 +53,10 @@ firefox-new-from-mozilla = من { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } مُتصفّح ويب مجاني بسرعة تحميل فائقة واستخدام أقل للذاكرة والكثير من المزايا - مشروع لا يَستهدف الربح { -brand-name-mozilla }.
 firefox-new-download-a-different = تحميل منصة أو لغة مُختلفة
 
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook

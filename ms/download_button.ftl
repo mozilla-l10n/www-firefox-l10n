@@ -38,6 +38,7 @@ download-a-different-build = Muat turun versi yang lain
 
 download-button-linux-32-v2 = Muat turun untuk Linux 32-bit
 download-button-linux-64-v2 = Muat turun untuk Linux 64-bit
+download-button-linux-arm64 = Muat turun untuk Linux ARM64
 
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions

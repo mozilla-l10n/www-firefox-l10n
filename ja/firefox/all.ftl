@@ -23,9 +23,13 @@ firefox-all-down-arrow = 以下からお選びください
 
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = サポート
+# Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. ブラウザー:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = プラットフォーム:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 言語:
+# Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. ダウンロード:
 firefox-all-desktop = デスクトップ
 firefox-all-mobile = モバイル

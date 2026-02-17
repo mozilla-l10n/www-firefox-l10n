@@ -8,7 +8,6 @@
 footer-download = Muat turun
 footer-download-auto = Muat turun { -brand-name-firefox }
 footer-windows = Windows
-footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
