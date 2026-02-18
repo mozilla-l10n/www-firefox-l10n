@@ -21,12 +21,16 @@ firefox-all-down-arrow = Kies út ûndersteande list
 firefox-all-get-help = Krij help
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Browser:
+firefox-all-browser-v3 = Browser
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Platfoarm:
+firefox-all-platform-v3 = Platfoarm
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Taal:
+firefox-all-language-v3 = Taal
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Downloade:
+firefox-all-download-v2 = Downloade
 firefox-all-desktop = Desktop
 firefox-all-mobile = Mobyl
 firefox-all-recommended = (Oanrekommandearre)

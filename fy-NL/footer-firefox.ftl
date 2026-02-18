@@ -9,6 +9,7 @@
 footer-download = Downloade
 footer-download-auto = { -brand-name-firefox } downloade
 footer-windows = Windows
+footer-macos = macOS
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
