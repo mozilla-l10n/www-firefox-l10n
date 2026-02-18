@@ -5,8 +5,11 @@
 
 ## Download links for stable versions of Firefox across multiple platforms.
 
+# Section title
+footer-download = ดาวน์โหลด
 footer-download-auto = ดาวน์โหลด { -brand-name-firefox }
 footer-windows = Windows
+footer-macos = macOS
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
@@ -60,8 +63,16 @@ footer-websites-privacy-notice = ประกาศความเป็นส�
 footer-terms-of-use = เงื่อนไขการใช้งาน
 footer-websites-cookie-policy = นโยบายคุกกี้
 footer-community-participation-guidelines = แนวทางการมีส่วนร่วมของชุมชน
+footer-logo-trademark-licensing = การอนุญาตให้ใช้เครื่องหมายการค้าโลโก้
 
 ## Language Switcher
 
 footer-language = ภาษา
+footer-go = ไป
+footer-ask-question = ถามคำถามกับเรา!
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+
+footer-powdered-by = ขับเคลื่อนโดย { -brand-name-mozilla }
+footer-putting-people = ให้ความสำคัญกับผู้คนมากกว่าผลกำไรมาตั้งแต่ปี 1998
