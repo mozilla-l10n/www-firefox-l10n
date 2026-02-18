@@ -46,3 +46,10 @@ firefox-new-fast = เร็ว เป็นส่วนตัว และฟ�
 firefox-new-from-mozilla = จาก { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } เป็นเว็บเบราว์เซอร์ฟรีที่มีการโหลดหน้าเว็บอย่างรวดเร็ว ใช้หน่วยความจำน้อยลง และมีคุณสมบัติมากมาย ซึ่งเป็นโครงการที่ไม่แสวงหาผลกำไรของ { -brand-name-mozilla }
 firefox-new-download-a-different = ดาวน์โหลดสำหรับแพลตฟอร์มหรือภาษาอื่น
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook
