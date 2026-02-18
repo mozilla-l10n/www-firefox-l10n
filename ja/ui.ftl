@@ -23,6 +23,7 @@ ui-view = 見る
 ui-pause-animation = アニメーションを一時停止
 ui-play-animation = アニメーション再生
 ui-view-all = すべて見る
+ui-more-features = 充実した機能
 
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = プロモーション
