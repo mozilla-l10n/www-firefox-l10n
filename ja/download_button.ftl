@@ -38,6 +38,7 @@ download-a-different-build = 別のビルドをダウンロード
 
 download-button-linux-32-v2 = Linux 32 ビットをダウンロード
 download-button-linux-64-v2 = Linux 64 ビットをダウンロード
+download-button-linux-arm64 = Linux ARM6 版のダウンロード
 
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
