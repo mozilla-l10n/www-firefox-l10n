@@ -34,6 +34,9 @@ firefox-enterprise-documentation-and-community = Kuatiata ha tekohagua ñepytyv�
 firefox-enterprise-sample-plist-for-configuration = Techapyrã <a href="{ $url }">plist mbohekopyahu mba’tépe g̃uarã</a>
 firefox-enterprise-pkg-installer = PKG mohendaha
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
+# Variables:
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
+firefox-enterprise-download-firefox-or-esr = Emboguejy { -brand-name-firefox } térã { -brand-name-firefox-esr } <a { $firefox_all }>-pe g̃uarã ambue ñe’ẽ térã pyendavusu.</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-contact-sales = Eñe’ẽ ñevendeha ndive
 firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } kuatiaite
