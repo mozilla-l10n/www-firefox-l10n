@@ -21,12 +21,16 @@ firefox-all-down-arrow = Välj från listan nedan
 firefox-all-get-help = Få hjälp
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Webbläsare:
+firefox-all-browser-v3 = Webbläsare
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Plattform:
+firefox-all-platform-v3 = Plattform
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Språk:
+firefox-all-language-v3 = Språk
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Hämta:
+firefox-all-download-v2 = Ladda ner
 firefox-all-desktop = Dator
 firefox-all-mobile = Mobil
 firefox-all-recommended = (Rekommenderas)
