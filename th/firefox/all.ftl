@@ -21,12 +21,16 @@ firefox-all-down-arrow = เลือกจากรายการด้าน�
 firefox-all-get-help = รับความช่วยเหลือ
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. เบราว์เซอร์:
+firefox-all-browser-v3 = เบราว์เซอร์
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. แพลตฟอร์ม:
+firefox-all-platform-v3 = แพลตฟอร์ม
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. ภาษา:
+firefox-all-language-v3 = ภาษา
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. ดาวน์โหลด:
+firefox-all-download-v2 = ดาวน์โหลด
 firefox-all-desktop = เดสก์ท็อป
 firefox-all-mobile = มือถือ
 firefox-all-recommended = (แนะนำ)
