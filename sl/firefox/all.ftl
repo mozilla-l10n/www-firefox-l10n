@@ -21,12 +21,16 @@ firefox-all-down-arrow = Izberite s spodnjega seznama
 firefox-all-get-help = Pomoč
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Brskalnik:
+firefox-all-browser-v3 = Brskalnik
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Platforma:
+firefox-all-platform-v3 = Platforma
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Jezik:
+firefox-all-language-v3 = Jezik
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Prenos:
+firefox-all-download-v2 = Prenesi
 firefox-all-desktop = Namizni računalniki
 firefox-all-mobile = Mobilne naprave
 firefox-all-recommended = (priporočeno)
