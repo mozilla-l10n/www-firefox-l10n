@@ -21,12 +21,16 @@ firefox-all-down-arrow = Eiporavo tysýi tenondegua
 firefox-all-get-help = Eipotápa pytyvõ
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Kundahára:
+firefox-all-browser-v3 = Kundahára
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Pyendavusu:
+firefox-all-platform-v3 = Pyendavusu
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Ñe’ẽ:
+firefox-all-language-v3 = Ñe’ẽ
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Emboguejy:
+firefox-all-download-v2 = Mboguejy
 firefox-all-desktop = Mesa arigua
 firefox-all-mobile = Pumbyry popegua
 firefox-all-recommended = (Jeroviapyrãva)

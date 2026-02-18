@@ -23,6 +23,7 @@ ui-learn-more = Eikuaave
 ui-view = Hecha
 ui-pause-animation = Mokyre’ỹ ñemombyta
 ui-play-animation = Mokyre’ỹ ñemongu’e
+ui-edit = Mbosako’i
 ui-view-all = Ehechapa
 ui-more-features = Tembiapoite oikóva
 # An accessible label used to describe the purpose of a cross-promotional page element.
