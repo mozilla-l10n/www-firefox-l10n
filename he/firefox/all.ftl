@@ -21,12 +21,16 @@ firefox-all-down-arrow = יש לבחור מהרשימה למטה
 firefox-all-get-help = קבלת עזרה
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. דפדפן:
+firefox-all-browser-v3 = דפדפן
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. פלטפורמה:
+firefox-all-platform-v3 = פלטפורמה
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. שפה:
+firefox-all-language-v3 = שפה
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. הורדה:
+firefox-all-download-v2 = הורדה
 firefox-all-desktop = מחשב שולחני
 firefox-all-mobile = נייד
 firefox-all-recommended = (מומלץ)
