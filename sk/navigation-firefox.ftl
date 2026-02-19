@@ -41,7 +41,10 @@ navigation-compare = Porovnanie
 navigation-podcast = Podcast
 navigation-data-protection = Ochrana údajov
 navigation-protection = Ochrana
+navigation-control = Ovládanie
+navigation-focus = Zameranie
 
 ## Download
 
 navigation-download = Stiahnuť
+navigation-download-firefox = Stiahnuť { -brand-name-firefox(case: "acc") }
