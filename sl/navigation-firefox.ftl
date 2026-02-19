@@ -35,9 +35,11 @@ navigation-add-ons = Dodatki
 navigation-all-downloads = Vsi prenosi
 navigation-learn = Učenje
 navigation-blog = Blog
+navigation-newsletter = Okrožnica
 navigation-compare = Primerjaj
 navigation-podcast = Podcast
 navigation-data-protection = Varstvo podatkov
+navigation-protection = Zaščita
 
 ## Download
 
