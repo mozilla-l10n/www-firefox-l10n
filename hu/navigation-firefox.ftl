@@ -19,7 +19,7 @@ navigation-ad-tracker-blocking = Reklámkövetők blokkolása
 navigation-private-browsing = Privát böngészési mód
 navigation-password-manager = Ingyenes jelszókezelő
 navigation-features-all = Összes { -brand-name-firefox }-funkció megtekintése
-navigation-about-firefox-features = Körülbelül { -brand-name-firefox } funkciók
+navigation-about-firefox-features = A { -brand-name-firefox } funkciói
 
 ## Resources
 
