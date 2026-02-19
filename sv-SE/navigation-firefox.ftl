@@ -35,6 +35,7 @@ navigation-add-ons = Tillägg
 navigation-all-downloads = Alla nedladdningar
 navigation-learn = Utforska
 navigation-blog = Blogg
+navigation-newsletter = Nyhetsbrev
 navigation-compare = Jämför
 navigation-podcast = Podcast
 navigation-data-protection = Dataskydd

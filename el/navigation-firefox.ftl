@@ -39,8 +39,12 @@ navigation-blog = Ιστολόγιο
 navigation-newsletter = Ενημερωτικό δελτίο
 navigation-compare = Σύγκριση
 navigation-podcast = Podcast
-navigation-data-protection = Προστασία Δεδομένων
+navigation-data-protection = Προστασία δεδομένων
+navigation-protection = Προστασία
+navigation-control = Έλεγχος
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = Λήψη
+navigation-download-firefox = Λήψη του { -brand-name-firefox }

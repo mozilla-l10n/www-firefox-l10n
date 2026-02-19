@@ -19,6 +19,7 @@ navigation-ad-tracker-blocking = Chặn trình theo dõi quảng cáo
 navigation-private-browsing = Chế độ duyệt web riêng tư
 navigation-password-manager = Trình quản lý mật khẩu miễn phí
 navigation-features-all = Xem tất cả tính năng của { -brand-name-firefox }
+navigation-about-firefox-features = Về các tính năng của { -brand-name-firefox }
 
 ## Resources
 
@@ -35,10 +36,15 @@ navigation-add-ons = Tiện ích
 navigation-all-downloads = Tất cả tải xuống
 navigation-learn = Tìm hiểu
 navigation-blog = Blog
+navigation-newsletter = Bản tin
 navigation-compare = So sánh
 navigation-podcast = Podcast
 navigation-data-protection = Bảo vệ dữ liệu
+navigation-protection = Bảo vệ
+navigation-control = Điều khiển
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = Tải xuống
+navigation-download-firefox = Tải xuống { -brand-name-firefox }

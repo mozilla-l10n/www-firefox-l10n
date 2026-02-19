@@ -37,8 +37,8 @@ firefox-home-swear-off = Αποφύγετε τους περισπασμούς
 firefox-home-stay-focused = Μείνετε συγκεντρωμένοι με επεκτάσεις όπως τα <a { $tomato_clock_attrs }>Tomato Clock</a> και <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a>: αυτά φέρουν την ένδειξη «Προτεινόμενο», δηλαδή πληρούν υψηλές προδιαγραφές ασφαλείας και λειτουργικότητας.
 firefox-home-your-stuff = Τα δεδομένα σας, σε όλες τις οθόνες σας
 firefox-home-get-firefox-mobile = Αποκτήστε το { -brand-name-firefox } για κινητές συσκευές, ώστε οι κωδικοί πρόσβασης, οι καρτέλες και το ιστορικό σας — καθώς και το απόρρητο και η ασφάλειά σας — να είναι μαζί σας όπου κι αν πάτε.
-firefox-home-privacy-built-in = Ενσωματωμένο ιδιωτικό απόρρητο
-firefox-home-personal-data-not-for-sale = Τα προσωπικά σας δεδομένα δεν διατίθενται προς πώληση. Οι ιχνηλάτες και τα cookies τρίτων αποκλείονται από προεπιλογή, ώστε να μπορείτε απλά να … περιηγηθείτε.
+firefox-home-privacy-built-in = Ενσωματωμένη προστασία απορρήτου
+firefox-home-personal-data-not-for-sale = Τα προσωπικά σας δεδομένα δεν διατίθενται προς πώληση. Οι ιχνηλάτες και τα cookie τρίτων αποκλείονται από προεπιλογή, ώστε να μπορείτε απλώς να… περιηγηθείτε.
 firefox-home-learn-data-protection = Μάθετε πώς το { -brand-name-firefox } προστατεύει τα δεδομένα σας
 
 ## Customization
