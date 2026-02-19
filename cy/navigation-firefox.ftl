@@ -19,6 +19,7 @@ navigation-ad-tracker-blocking = Rhwystro Tracwyr Hysbysebion
 navigation-private-browsing = Modd Pori Preifat
 navigation-password-manager = Rheolwr Cyfrinair Rhad ac Am Ddim
 navigation-features-all = Gweld pob un o Nodweddion { -brand-name-firefox }
+navigation-about-firefox-features = Tua { -brand-name-firefox } o nodweddion
 
 ## Resources
 
@@ -35,10 +36,15 @@ navigation-add-ons = Ychwanegion
 navigation-all-downloads = Pob Llwyth
 navigation-learn = Dysgu
 navigation-blog = Blog
+navigation-newsletter = Taflen Newyddion
 navigation-compare = Cymharu
 navigation-podcast = Podlediad
 navigation-data-protection = Diogelu Data
+navigation-protection = Amddiffyniad
+navigation-control = Rheoli
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = Llwytho i Lawr
+navigation-download-firefox = Llwytho { -brand-name-firefox } i Lawr

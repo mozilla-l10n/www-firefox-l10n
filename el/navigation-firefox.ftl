@@ -19,6 +19,7 @@ navigation-ad-tracker-blocking = Φραγή διαφημιστικών ιχνη�
 navigation-private-browsing = Λειτουργία ιδιωτικής περιήγησης
 navigation-password-manager = Δωρεάν διαχείριση κωδικών πρόσβασης
 navigation-features-all = Προβολή όλων των δυνατοτήτων του { -brand-name-firefox }
+navigation-about-firefox-features = Σχετικά με τις δυνατότητες του { -brand-name-firefox }
 
 ## Resources
 
@@ -35,6 +36,7 @@ navigation-add-ons = Πρόσθετα
 navigation-all-downloads = Όλες οι λήψεις
 navigation-learn = Εκμάθηση
 navigation-blog = Ιστολόγιο
+navigation-newsletter = Ενημερωτικό δελτίο
 navigation-compare = Σύγκριση
 navigation-podcast = Podcast
 navigation-data-protection = Προστασία Δεδομένων

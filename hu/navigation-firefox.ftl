@@ -19,6 +19,7 @@ navigation-ad-tracker-blocking = Reklámkövetők blokkolása
 navigation-private-browsing = Privát böngészési mód
 navigation-password-manager = Ingyenes jelszókezelő
 navigation-features-all = Összes { -brand-name-firefox }-funkció megtekintése
+navigation-about-firefox-features = Körülbelül { -brand-name-firefox } funkciók
 
 ## Resources
 
@@ -35,10 +36,15 @@ navigation-add-ons = Kiegészítők
 navigation-all-downloads = Összes letöltés
 navigation-learn = Tanulás
 navigation-blog = Blog
+navigation-newsletter = Hírlevél
 navigation-compare = Összehasonlítás
 navigation-podcast = Podcast
 navigation-data-protection = Adatvédelem
+navigation-protection = Védelem
+navigation-control = Vezérlés
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = Letöltés
+navigation-download-firefox = { -brand-name-firefox } letöltése

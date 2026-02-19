@@ -19,6 +19,7 @@ navigation-ad-tracker-blocking = 封鎖廣告追蹤器
 navigation-private-browsing = 隱私瀏覽模式
 navigation-password-manager = 免費密碼管理員
 navigation-features-all = 檢視所有 { -brand-name-firefox } 功能
+navigation-about-firefox-features = 關於 { -brand-name-firefox } 功能
 
 ## Resources
 
@@ -35,10 +36,15 @@ navigation-add-ons = 附加元件
 navigation-all-downloads = 所有下載項目
 navigation-learn = 了解
 navigation-blog = 部落格
+navigation-newsletter = 電子報
 navigation-compare = 比較
 navigation-podcast = 網路廣播 (Podcast)
 navigation-data-protection = 資料保護
+navigation-protection = 保護
+navigation-control = 控制
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = 下載
+navigation-download-firefox = 下載 { -brand-name-firefox }

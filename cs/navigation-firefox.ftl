@@ -19,6 +19,7 @@ navigation-ad-tracker-blocking = Blokování sledujících reklam
 navigation-private-browsing = Režim anonymního prohlížení
 navigation-password-manager = Bezplatný správce hesel
 navigation-features-all = Zobrazit všechny funkce { -brand-name-firefox(case: "gen") }
+navigation-about-firefox-features = O { -brand-name-firefox } funkcích
 
 ## Resources
 
@@ -35,10 +36,15 @@ navigation-add-ons = Doplňky
 navigation-all-downloads = Všechny soubory ke stažení
 navigation-learn = Vzdělávání
 navigation-blog = Blog
+navigation-newsletter = Zpravodaj
 navigation-compare = Porovnání
 navigation-podcast = Podcast
 navigation-data-protection = Ochrana dat
+navigation-protection = Ochrana
+navigation-control = Kontrolní zprávy
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = Stáhnout
+navigation-download-firefox = Stáhnout { -brand-name-firefox(case: "acc") }

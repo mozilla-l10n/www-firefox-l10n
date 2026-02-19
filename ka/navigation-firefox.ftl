@@ -19,6 +19,7 @@ navigation-ad-tracker-blocking = სარეკლამო მეთვალ�
 navigation-private-browsing = პირადი თვალიერება
 navigation-password-manager = პაროლების უფასო მმართველი
 navigation-features-all = იხილეთ ყველა შესაძლებლობა, რომელთაც { -brand-name-firefox } გთავაზობთ
+navigation-about-firefox-features = { -brand-name-firefox } ფუნქციის შესახებ
 
 ## Resources
 
@@ -35,10 +36,15 @@ navigation-add-ons = დამატებები
 navigation-all-downloads = ყველა ჩამოტვირთვა
 navigation-learn = გაეცანით
 navigation-blog = სვეტი
+navigation-newsletter = ბიულეტენი
 navigation-compare = შედარება
 navigation-podcast = პოდკასტი
 navigation-data-protection = მონაცემთა დაცვა
+navigation-protection = დაცვა
+navigation-control = Control
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = ჩამოტვირთვა
+navigation-download-firefox = ჩამოტვირთეთ { -brand-name-firefox }
