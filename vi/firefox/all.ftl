@@ -21,12 +21,16 @@ firefox-all-down-arrow = Chọn từ danh sách dưới đây
 firefox-all-get-help = Trợ giúp
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Trình duyệt:
+firefox-all-browser-v3 = Trình duyệt
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Nền tảng:
+firefox-all-platform-v3 = Nền tảng
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Ngôn ngữ:
+firefox-all-language-v3 = Ngôn ngữ
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Tải xuống:
+firefox-all-download-v2 = Tải xuống
 firefox-all-desktop = Máy tính để bàn
 firefox-all-mobile = Di động
 firefox-all-recommended = (Được đề xuất)
