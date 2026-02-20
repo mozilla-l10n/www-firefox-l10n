@@ -40,7 +40,9 @@ navigation-blog = Blog
 navigation-compare = Comparer
 navigation-podcast = Podcast
 navigation-data-protection = Protection des données
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = Télécharger
+navigation-download-firefox = Télécharger { -brand-name-firefox }
