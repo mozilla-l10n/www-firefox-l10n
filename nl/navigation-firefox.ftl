@@ -19,6 +19,7 @@ navigation-ad-tracker-blocking = Blokkeren van advertentietrackers
 navigation-private-browsing = Privénavigatiemodus
 navigation-password-manager = Gratis wachtwoordenbeheerder
 navigation-features-all = Alle { -brand-name-firefox }-functies bekijken
+navigation-about-firefox-features = Over { -brand-name-firefox }-functies
 
 ## Resources
 
@@ -35,10 +36,15 @@ navigation-add-ons = Add-ons
 navigation-all-downloads = Alle downloads
 navigation-learn = Leren
 navigation-blog = Blog
+navigation-newsletter = Nieuwsbrief
 navigation-compare = Vergelijken
 navigation-podcast = Podcast
 navigation-data-protection = Gegevensbeveiliging
+navigation-protection = Bescherming
+navigation-control = Besturing
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = Downloaden
+navigation-download-firefox = { -brand-name-firefox } downloaden
