@@ -21,6 +21,7 @@ navigation-ad-tracker-blocking = حجب المتعقّبات الإعلانية
 navigation-private-browsing = وضع التصفح الخاص
 navigation-password-manager = إدارة كلمات المرور مجانًا
 navigation-features-all = عرض جميع مزايا { -brand-name-firefox }
+navigation-about-firefox-features = نبذة عن ميزات { -brand-name-firefox }
 
 ## Resources
 
@@ -37,10 +38,15 @@ navigation-add-ons = الوظائف الإضافية
 navigation-all-downloads = جميع التحميلات
 navigation-learn = اعرف
 navigation-blog = المدوّنة
+navigation-newsletter = النشرة الإخبارية
 navigation-compare = مقارنة
 navigation-podcast = تدوين صوتي
 navigation-data-protection = حماية البيانات
+navigation-protection = الحماية
+navigation-control = التحكّم
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = تنزيل
+navigation-download-firefox = تنزيل { -brand-name-firefox }
