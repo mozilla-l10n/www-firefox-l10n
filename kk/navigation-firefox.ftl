@@ -19,6 +19,7 @@ navigation-ad-tracker-blocking = Жарнама трекерлерін бұға�
 navigation-private-browsing = Жекелік шолу режимі
 navigation-password-manager = Тегін парольдер басқарушысы
 navigation-features-all = { -brand-name-firefox } барлық мүмкіндіктерін қарау
+navigation-about-firefox-features = { -brand-name-firefox } мүмкіндіктері туралы
 
 ## Resources
 
@@ -35,10 +36,15 @@ navigation-add-ons = Қосымшалар
 navigation-all-downloads = Барлық жүктемелер
 navigation-learn = Үйрену
 navigation-blog = Блог
+navigation-newsletter = Жаңалықтар бюллетені
 navigation-compare = Салыстыру
 navigation-podcast = Подкаст
 navigation-data-protection = Деректерді қорғау
+navigation-protection = Қорғаныс
+navigation-control = Басқару
+navigation-focus = Фокус
 
 ## Download
 
 navigation-download = Жүктеп алу
+navigation-download-firefox = { -brand-name-firefox } жүктеп алу
