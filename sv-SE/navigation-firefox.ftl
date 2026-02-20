@@ -19,6 +19,7 @@ navigation-ad-tracker-blocking = Blockering av annonsspårare
 navigation-private-browsing = Privat surfläge
 navigation-password-manager = Gratis lösenordshanterare
 navigation-features-all = Visa alla { -brand-name-firefox }-funktioner
+navigation-about-firefox-features = Om { -brand-name-firefox } funktioner
 
 ## Resources
 
@@ -39,7 +40,11 @@ navigation-newsletter = Nyhetsbrev
 navigation-compare = Jämför
 navigation-podcast = Podcast
 navigation-data-protection = Dataskydd
+navigation-protection = Skydd
+navigation-control = Kontroll
+navigation-focus = Fokus
 
 ## Download
 
 navigation-download = Hämta
+navigation-download-firefox = Hämta { -brand-name-firefox }
