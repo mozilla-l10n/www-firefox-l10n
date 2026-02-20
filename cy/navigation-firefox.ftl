@@ -19,7 +19,7 @@ navigation-ad-tracker-blocking = Rhwystro Tracwyr Hysbysebion
 navigation-private-browsing = Modd Pori Preifat
 navigation-password-manager = Rheolwr Cyfrinair Rhad ac Am Ddim
 navigation-features-all = Gweld pob un o Nodweddion { -brand-name-firefox }
-navigation-about-firefox-features = Tua { -brand-name-firefox } o nodweddion
+navigation-about-firefox-features = Ynghylch nodweddion  { -brand-name-firefox }
 
 ## Resources
 
@@ -40,7 +40,7 @@ navigation-newsletter = Taflen Newyddion
 navigation-compare = Cymharu
 navigation-podcast = Podlediad
 navigation-data-protection = Diogelu Data
-navigation-protection = Amddiffyniad
+navigation-protection = Diogelwch
 navigation-control = Rheoli
 navigation-focus = Focus
 
