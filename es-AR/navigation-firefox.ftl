@@ -41,7 +41,7 @@ navigation-compare = Comparar
 navigation-podcast = Podcast
 navigation-data-protection = Protección de datos
 navigation-protection = Protección
-navigation-control = Controlar
+navigation-control = Control
 navigation-focus = Focus
 
 ## Download
