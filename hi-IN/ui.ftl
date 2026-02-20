@@ -22,6 +22,7 @@ ui-learn-more = अधिक जानें
 ui-view = देखें
 ui-pause-animation = एनीमेशन पॉज़ करें
 ui-play-animation = एनीमेशन चलाएं
+ui-edit = संपादन
 ui-view-all = सभी कुछ देखें
 ui-more-features = और फ़ीचर्स
 
