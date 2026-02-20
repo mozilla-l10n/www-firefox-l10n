@@ -40,7 +40,9 @@ navigation-blog = ブログ
 navigation-compare = 比較
 navigation-podcast = ポッドキャスト
 navigation-data-protection = データ保護
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = ダウンロード
+navigation-download-firefox = { -brand-name-firefox } をダウンロード
