@@ -44,3 +44,4 @@ navigation-protection = Zaščita
 ## Download
 
 navigation-download = Prenesi
+navigation-download-firefox = Prenesite { -brand-name-firefox }
