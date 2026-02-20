@@ -19,6 +19,7 @@ navigation-ad-tracker-blocking = Reklam Takip Kodlarını Engelleme
 navigation-private-browsing = Gizli Gezinti Modu
 navigation-password-manager = Ücretsiz Parola Yöneticisi
 navigation-features-all = Tüm { -brand-name-firefox } özelliklerini görün
+navigation-about-firefox-features = { -brand-name-firefox } özellikleri hakkında
 
 ## Resources
 
@@ -35,10 +36,15 @@ navigation-add-ons = Eklentiler
 navigation-all-downloads = Tüm indirmeler
 navigation-learn = Öğren
 navigation-blog = Blog
+navigation-newsletter = Bülten
 navigation-compare = Karşılaştır
 navigation-podcast = Podcast
 navigation-data-protection = Veri Koruması
+navigation-protection = Koruma
+navigation-control = Kontrol
+navigation-focus = Odaklanma
 
 ## Download
 
 navigation-download = İndir
+navigation-download-firefox = { -brand-name-firefox }’u indir
