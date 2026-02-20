@@ -21,6 +21,7 @@ navigation-ad-tracker-blocking = विज्ञापन ट्रैकर ब
 navigation-private-browsing = निजी ब्राउज़िंग मोड
 navigation-password-manager = मुफ़्त पासवर्ड मैनेजर
 navigation-features-all = सभी { -brand-name-firefox } फ़ीचर्स देखें
+navigation-about-firefox-features = { -brand-name-firefox } फ़ीचर्स के बारे में
 
 ## Resources
 
@@ -37,10 +38,15 @@ navigation-add-ons = ऐड-ऑन्स
 navigation-all-downloads = सभी डाउनलोड
 navigation-learn = जानें
 navigation-blog = ब्लॉग
+navigation-newsletter = सूचनापत्र
 navigation-compare = तुलना करें
 navigation-podcast = पोडकास्ट
 navigation-data-protection = डेटा सुरक्षा
+navigation-protection = प्रोटेक्शन
+navigation-control = कंट्रोल
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = डाउनलोड करें
+navigation-download-firefox = { -brand-name-firefox } डाउनलोड करें

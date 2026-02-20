@@ -25,12 +25,16 @@ firefox-all-down-arrow = नीचे दी गई सूची में स�
 firefox-all-get-help = मदद लें
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. ब्राउज़र:
+firefox-all-browser-v3 = ब्राउज़र
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. प्लेटफ़ॉर्म:
+firefox-all-platform-v3 = प्लेटफार्म
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. भाषा:
+firefox-all-language-v3 = भाषा
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. डाउनलोड:
+firefox-all-download-v2 = डाउनलोड करें
 firefox-all-desktop = डेस्कटॉप
 firefox-all-mobile = मोबाइल
 firefox-all-recommended = (सुझाया गया)

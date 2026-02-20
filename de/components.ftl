@@ -11,3 +11,6 @@
 #   $number (number) - the number of the step
 block-step-card-step = Schritt { $number }
 
+# Download Firefox button
+# Download Firefox button has optional "set as default" checkmark label
+block-set-as-default = Mach { -brand-name-firefox } zu deinem Standard-Browser.

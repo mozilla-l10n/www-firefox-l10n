@@ -40,7 +40,9 @@ navigation-blog = Blog
 navigation-compare = Bandingkan
 navigation-podcast = Podcast
 navigation-data-protection = Perlindungan Data
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = Muat turun
+navigation-download-firefox = Muat turun { -brand-name-firefox }

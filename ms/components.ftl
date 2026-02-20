@@ -11,3 +11,6 @@
 #   $number (number) - the number of the step
 block-step-card-step = Langkah { $number }
 
+# Download Firefox button
+# Download Firefox button has optional "set as default" checkmark label
+block-set-as-default = Tetapkan { -brand-name-firefox } sebagai pelayar lalai anda.

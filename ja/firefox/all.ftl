@@ -25,12 +25,15 @@ firefox-all-down-arrow = 以下からお選びください
 firefox-all-get-help = サポート
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. ブラウザー:
+firefox-all-browser-v3 = ブラウザー
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = プラットフォーム:
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 言語:
+firefox-all-language-v3 = 言語
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. ダウンロード:
+firefox-all-download-v2 = ダウンロード
 firefox-all-desktop = デスクトップ
 firefox-all-mobile = モバイル
 firefox-all-recommended = おすすめ

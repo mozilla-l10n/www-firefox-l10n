@@ -25,12 +25,16 @@ firefox-all-down-arrow = Pilih dari daftar di bawah
 firefox-all-get-help = Dapatkan bantuan
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Peramban:
+firefox-all-browser-v3 = Peramban
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Platform:
+firefox-all-platform-v3 = Platform
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Bahasa:
+firefox-all-language-v3 = Bahasa
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Unduh:
+firefox-all-download-v2 = Unduh
 firefox-all-desktop = Desktop
 firefox-all-mobile = Seluler
 firefox-all-recommended = (Direkomendasikan)
