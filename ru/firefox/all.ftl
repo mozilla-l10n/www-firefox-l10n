@@ -30,7 +30,7 @@ firefox-all-language-v2 = 3. Язык:
 firefox-all-language-v3 = Язык
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Скачивание:
-firefox-all-download-v2 = Загрузить
+firefox-all-download-v2 = Скачать
 firefox-all-desktop = Компьютер
 firefox-all-mobile = Мобильный
 firefox-all-recommended = (Рекомендуется)
