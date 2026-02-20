@@ -9,6 +9,7 @@
 footer-download = הורדה
 footer-download-auto = הורדת { -brand-name-firefox }
 footer-windows = Windows
+footer-macos = macOS
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
@@ -68,6 +69,7 @@ footer-logo-trademark-licensing = רישוי סימן מסחרי של לוגו
 
 footer-language = שפה
 footer-go = מעבר
+footer-ask-question = שאלו אותנו שאלה!
 footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding

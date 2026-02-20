@@ -11,3 +11,6 @@
 # Variables:
 #   $number (number) - the number of the step
 block-step-card-step = שלב מספר { $number }
+# Download Firefox button
+# Download Firefox button has optional "set as default" checkmark label
+block-set-as-default = הגדרת { -brand-name-firefox } כדפדפן ברירת המחדל שלך.
