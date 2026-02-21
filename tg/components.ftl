@@ -11,3 +11,6 @@
 # Variables:
 #   $number (number) - the number of the step
 block-step-card-step = Қадами { $number }
+# Download Firefox button
+# Download Firefox button has optional "set as default" checkmark label
+block-set-as-default = Браузери «{ -brand-name-firefox }»-ро ҳамчун браузери пешфарзи худ танзим намоед.

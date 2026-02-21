@@ -19,6 +19,7 @@ navigation-ad-tracker-blocking = Манъкунии васоити пайгир�
 navigation-private-browsing = Реҷаи «Тамошобинии хусусӣ»
 navigation-password-manager = Мудири ройгон барои идораи ниҳонвожаҳо
 navigation-features-all = Дидани ҳамаи ҳусусиятҳои «{ -brand-name-firefox }»
+navigation-about-firefox-features = Дар бораи хусусиятҳои «{ -brand-name-firefox }»
 
 ## Resources
 
@@ -35,10 +36,15 @@ navigation-add-ons = Ҷузъҳои иловагӣ
 navigation-all-downloads = Ҳамаи боргириҳо
 navigation-learn = Омӯзиш
 navigation-blog = Блог
+navigation-newsletter = Номаи иттилоотӣ
 navigation-compare = Муқоиса кардани браузерҳо
 navigation-podcast = Подкаст
 navigation-data-protection = Муҳофизати маълумот
+navigation-protection = Муҳофизат
+navigation-control = Идоракунӣ
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = Боргирӣ кардан
+navigation-download-firefox = «{ -brand-name-firefox }»-ро боргирӣ кунед

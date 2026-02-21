@@ -21,12 +21,16 @@ firefox-all-down-arrow = Аз рӯйхати зерин интихоб намо�
 firefox-all-get-help = Гирифтани кумак
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Браузер:
+firefox-all-browser-v3 = Браузер
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Платформа:
+firefox-all-platform-v3 = Платформа
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Забон:
+firefox-all-language-v3 = Забон
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Боргирӣ:
+firefox-all-download-v2 = Боргирӣ кардан
 firefox-all-desktop = Мизи корӣ
 firefox-all-mobile = Мобилӣ
 firefox-all-recommended = (Тавсия дода мешавад)
