@@ -17,6 +17,7 @@ pdf-editor-weve-all-faced-this-you-need-to = Svi smo se već suočili s ovime: m
 pdf-editor-no-more-now-all-you-need-to-do = Ne više! PDF datoteku sada možeš urediti online s { -brand-name-firefox }om, spremiti je i poslati e-poštom sa svog računala.
 pdf-editor-add-text = Dodaj tekst
 pdf-editor-open-the-pdf-in-firefox-click-text = Otvori PDF u { -brand-name-firefox }u. Pritisni gumb „Tekst” za biranje boje i veličine teksta prije biranja mjesta u dokumentu gdje želiš dodati tekst. Tako jednostavno!
+pdf-editor-add-drawings = Dodaj crteže
 pdf-editor-add-image-with-alt-text = Dodaj sliku s alternativnim tekstom
 pdf-editor-open-pdf-click-image-icon = Otvori PDF u { -brand-name-firefox }u. Klikni ikonu za slike koja će te zatražiti da učitaš sliku. Po potrebi prilagodi veličinu i položaj svoje slike. Klikni gumb „Alternativni tekst” na slici za dodavanje opisa slike kako bi tvoj PDF pristupačniji.
 pdf-editor-create-a-highlight = Dodaj isticanje
