@@ -28,6 +28,7 @@ firefox-all-browser-v2 = 1. Navigateur :
 firefox-all-browser-v3 = Navigateur
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Plateforme :
+firefox-all-platform-v3 = Plateforme
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Langue :
 firefox-all-language-v3 = Langue
