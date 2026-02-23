@@ -22,6 +22,7 @@ ui-learn-more = Weitere Infos
 ui-view = Ansehen
 ui-pause-animation = Animation anhalten
 ui-play-animation = Animation abspielen
+ui-edit = Bearbeiten
 ui-view-all = Alle ansehen
 ui-more-features = Weitere Funktionen
 

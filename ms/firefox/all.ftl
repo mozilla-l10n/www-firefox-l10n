@@ -28,6 +28,7 @@ firefox-all-browser-v2 = 1. Pelayar:
 firefox-all-browser-v3 = Pelayar
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Platform:
+firefox-all-platform-v3 = Platform
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Bahasa
 firefox-all-language-v3 = Bahasa
