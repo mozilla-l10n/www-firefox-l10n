@@ -28,6 +28,7 @@ firefox-all-browser-v2 = 1. ブラウザー:
 firefox-all-browser-v3 = ブラウザー
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = プラットフォーム:
+firefox-all-platform-v3 = プラットフォーム
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 言語:
 firefox-all-language-v3 = 言語

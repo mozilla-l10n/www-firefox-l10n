@@ -21,6 +21,7 @@ navigation-ad-tracker-blocking = 広告トラッカーのブロック
 navigation-private-browsing = プライベートブラウジングモード
 navigation-password-manager = 無料のパスワードマネージャー
 navigation-features-all = { -brand-name-firefox } の全機能を見る
+navigation-about-firefox-features = { -brand-name-firefox } の機能について
 
 ## Resources
 
@@ -37,9 +38,12 @@ navigation-add-ons = アドオン
 navigation-all-downloads = すべてのダウンロード
 navigation-learn = 学習
 navigation-blog = ブログ
+navigation-newsletter = ニュースレター
 navigation-compare = 比較
 navigation-podcast = ポッドキャスト
 navigation-data-protection = データ保護
+navigation-protection = 保護
+navigation-control = 管理
 navigation-focus = Focus
 
 ## Download

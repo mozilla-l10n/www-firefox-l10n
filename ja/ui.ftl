@@ -22,6 +22,7 @@ ui-learn-more = もっと詳しく
 ui-view = 見る
 ui-pause-animation = アニメーションを一時停止
 ui-play-animation = アニメーション再生
+ui-edit = 編集
 ui-view-all = すべて見る
 ui-more-features = 充実した機能
 
