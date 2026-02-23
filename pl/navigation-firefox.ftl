@@ -35,10 +35,14 @@ navigation-add-ons = Dodatki
 navigation-all-downloads = Wszystkie pliki do pobrania
 navigation-learn = Dowiedz się
 navigation-blog = Blog
+navigation-newsletter = Newsletter
 navigation-compare = Porównaj
 navigation-podcast = Podcast
 navigation-data-protection = Ochrona danych
+navigation-protection = Ochrona
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = Pobierz
+navigation-download-firefox = Pobierz { -brand-name-firefox(case: "acc") }
