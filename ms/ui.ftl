@@ -22,6 +22,7 @@ ui-learn-more = Ketahui lebih lanjut
 ui-view = Lihat
 ui-pause-animation = Jeda animasi
 ui-play-animation = Main animasi
+ui-edit = Edit
 ui-view-all = Lihat semua
 ui-more-features = Lagi ciri
 

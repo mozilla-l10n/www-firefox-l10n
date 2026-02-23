@@ -21,6 +21,7 @@ navigation-ad-tracker-blocking = Sekatan Penjejak Iklan
 navigation-private-browsing = Mod Pelayaran Peribadi
 navigation-password-manager = Pengurus Kata Laluan Percuma
 navigation-features-all = Lihat semua Ciri { -brand-name-firefox }
+navigation-about-firefox-features = Perihal ciri-ciri { -brand-name-firefox }
 
 ## Resources
 
@@ -37,9 +38,12 @@ navigation-add-ons = Tambahan
 navigation-all-downloads = Semua Muat turun
 navigation-learn = Ketahui
 navigation-blog = Blog
+navigation-newsletter = Buletin
 navigation-compare = Bandingkan
 navigation-podcast = Podcast
 navigation-data-protection = Perlindungan Data
+navigation-protection = Perlindungan
+navigation-control = Kawalan
 navigation-focus = Focus
 
 ## Download
