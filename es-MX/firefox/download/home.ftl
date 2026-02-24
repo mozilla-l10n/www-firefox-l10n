@@ -9,6 +9,11 @@
 ## Features
 
 firefox-home-privacy-built-in = Privacidad incorporada
+firefox-home-learn-data-protection = Descubre cómo { -brand-name-firefox } protege tus datos
+
+## Customization
+
+firefox-home-bye-boring = Adiós, navegador aburrido
 
 ## Used as accessible alternative text for images.
 
