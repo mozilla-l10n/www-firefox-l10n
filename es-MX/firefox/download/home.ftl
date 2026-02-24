@@ -19,3 +19,7 @@ firefox-home-bye-boring = Adiós, navegador aburrido
 
 firefox-home-multiple-cursors = Varios cursores.
 firefox-home-lots-of-open = Muchas pestañas abiertas.
+firefox-home-desktop-laptop-and-phone = Computadora de escritorio, portátil y teléfono.
+firefox-home-browser-window-with-lock = Ventana del navegador con iconos de candado y escudo.
+firefox-home-firefox-in-dark = { -brand-name-firefox } en modo oscuro.
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } en un escritorio.
