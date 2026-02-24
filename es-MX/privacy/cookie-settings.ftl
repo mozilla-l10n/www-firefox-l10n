@@ -23,6 +23,7 @@ cookie-settings-turn-on-javascript = Activa JavaScript para actualizar tus ajust
 cookie-settings-category-necessary-heading = Necesario
 cookie-settings-category-necessary-what-are-subheading = ¿Qué son las cookies necesarias?
 cookie-settings-category-necessary-what-are-desc = Estas tecnologías son necesarias para apoyar funciones esenciales del sitio web, como iniciar sesión en un área segura de un sitio web o agregar artículos a un carrito de compras en línea, y no se pueden desactivar.
+cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } utiliza cookies necesarias únicamente para proporcionar funciones esenciales del sitio web, como iniciar sesión con tu { -brand-name-mozilla-account } o adquirir una suscripción de software al finalizar la compra. Sin estas tecnologías, es posible que las funciones esenciales del sitio web no funcionen.
 
 ## Preference cookies section
 
@@ -36,6 +37,7 @@ cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } util
 cookie-settings-category-analytics-heading = Analítica
 cookie-settings-category-analytics-what-are-subheading = ¿Qué son las Cookies Analíticas?
 cookie-settings-category-analytics-what-are-desc = Estas tecnologías recopilan información sobre cómo las personas utilizan los sitios web, como las páginas visitadas, los enlaces en los que hacen clic y de qué otros sitios web se originaron las visitas.
+cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } utiliza información analítica para comprender cómo interactúan los usuarios con nuestros sitios web, lo que nos permite mejorarlos y solucionar cualquier problema. También podemos utilizar datos de cookies, información del dispositivo y direcciones IP para comprender cómo interactúan los usuarios con nuestros productos, servicios, comunicaciones, sitios web, campañas en línea, dispositivos y otras plataformas. Solo recopilaremos información analítica y configuraremos cookies analíticas con tu consentimiento.
 
 ## Privacy section
 
