@@ -19,6 +19,7 @@ navigation-ad-tracker-blocking = Ñemurã jejoko rapykuehoha
 navigation-private-browsing = Kundaha Ñemigua Reko
 navigation-password-manager = Ñe’ẽñemi reigua ñangarekoha
 navigation-features-all = Ehechapaite tembiapoitekuéra { -brand-name-firefox } rehegua
+navigation-about-firefox-features = { -brand-name-firefox } rembiapoite rehegua
 
 ## Resources
 
@@ -35,10 +36,15 @@ navigation-add-ons = Moĩmbaha
 navigation-all-downloads = Opaite ñemboguejy
 navigation-learn = Kuaa
 navigation-blog = Blog
+navigation-newsletter = Kuatia marandu
 navigation-compare = Moñondive
 navigation-podcast = Podcast
 navigation-data-protection = Mba’ekuaarã ñemo’ã
+navigation-protection = Ñemo’ã
+navigation-control = Guerovaha
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = Mboguejy
+navigation-download-firefox = Emboguejy { -brand-name-firefox }
