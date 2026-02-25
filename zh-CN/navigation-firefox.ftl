@@ -19,7 +19,7 @@ navigation-ad-tracker-blocking = 拦截广告跟踪器
 navigation-private-browsing = 隐私浏览模式
 navigation-password-manager = 免费密码管理器
 navigation-features-all = 尽览 { -brand-name-firefox } 特色功能
-navigation-about-firefox-features = 关于 { -brand-name-firefox } 项功能
+navigation-about-firefox-features = 关于 { -brand-name-firefox } 的功能
 
 ## Resources
 
@@ -36,13 +36,13 @@ navigation-add-ons = 附加组件
 navigation-all-downloads = 全部下载
 navigation-learn = 深入了解
 navigation-blog = 博客
-navigation-newsletter = 新闻邮件
+navigation-newsletter = 新闻通讯
 navigation-compare = 比较
 navigation-podcast = 播客
 navigation-data-protection = 数据保护
 navigation-protection = 保护
 navigation-control = 控制
-navigation-focus = Focus
+navigation-focus = 专注
 
 ## Download
 
