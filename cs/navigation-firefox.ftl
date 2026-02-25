@@ -36,13 +36,13 @@ navigation-add-ons = Doplňky
 navigation-all-downloads = Všechny soubory ke stažení
 navigation-learn = Vzdělávání
 navigation-blog = Blog
-navigation-newsletter = Zpravodaj
+navigation-newsletter = Newsletter
 navigation-compare = Porovnání
 navigation-podcast = Podcast
 navigation-data-protection = Ochrana dat
 navigation-protection = Ochrana
-navigation-control = Kontrolní zprávy
-navigation-focus = Focus
+navigation-control = Ovládání
+navigation-focus = Zaměření
 
 ## Download
 
