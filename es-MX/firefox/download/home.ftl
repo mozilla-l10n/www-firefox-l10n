@@ -8,11 +8,17 @@
 
 ## Features
 
+firefox-home-your-stuff = Tus cosas, en todas tus pantallas
+firefox-home-get-firefox-mobile = Obtén { -brand-name-firefox } para móviles para que tus contraseñas, pestañas e historial (y la privacidad y seguridad en las que confías) te acompañen a donde sea que vayas.
 firefox-home-privacy-built-in = Privacidad incorporada
+firefox-home-personal-data-not-for-sale = Tus datos personales no están a la venta. Los rastreadores y las cookies de terceros están bloqueados por defecto, así que puedes simplemente… navegar.
 firefox-home-learn-data-protection = Descubre cómo { -brand-name-firefox } protege tus datos
 
 ## Customization
 
+# asterisks provide playful emphasis, omit or use symbols appropriate in your language
+firefox-home-really-make-it = Hazlo *verdaderamente* tuyo
+firefox-home-work-smarter = Trabaja más inteligentemente, juega más duro
 firefox-home-bye-boring = Adiós, navegador aburrido
 
 ## Used as accessible alternative text for images.

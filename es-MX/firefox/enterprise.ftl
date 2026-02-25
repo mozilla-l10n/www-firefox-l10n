@@ -10,6 +10,7 @@ firefox-enterprise-protection-powered-by = Protección de nivel empresarial, con
 firefox-enterprise-open-source-transparency = { -brand-name-firefox } combina la transparencia del código abierto con funciones de seguridad avanzadas y actualizaciones frecuentes para ayudar a proteger los datos de tu organización.
 firefox-enterprise-your-browser-your-business = Tu navegador, tu negocio
 firefox-enterprise-deploy-when-and-how-you-want = Implementa cuándo y cómo quieras
+firefox-enterprise-release-cycles = Ciclos de lanzamiento que se adaptan a tu organización
 firefox-enterprise-enterprise-downloads = Descargas de { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
