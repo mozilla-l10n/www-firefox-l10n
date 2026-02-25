@@ -19,6 +19,9 @@ firefox-home-learn-data-protection = Descubre cómo { -brand-name-firefox } prot
 # asterisks provide playful emphasis, omit or use symbols appropriate in your language
 firefox-home-really-make-it = Hazlo *verdaderamente* tuyo
 firefox-home-work-smarter = Trabaja más inteligentemente, juega más duro
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = Explora las posibilidades de investigación, compras y más en <a { $extensions_attrs }>extensiones</a>.
 firefox-home-bye-boring = Adiós, navegador aburrido
 
 ## Used as accessible alternative text for images.
