@@ -5,6 +5,9 @@
 navigation-firefox-home = Kreu i { -brand-name-firefox }-it
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = Parësor
+navigation-browser = Shfletues
+navigation-close-menu = Mbylle menunë
+navigation-get-firefox = Merrni { -brand-name-firefox }-in
 
 ## Features
 
@@ -16,6 +19,7 @@ navigation-ad-tracker-blocking = Bllokim Gjurmuesish Në Reklama
 navigation-private-browsing = Mënyra Shfletim Privat
 navigation-password-manager = Përgjegjës Fjalëkalimesh Falas
 navigation-features-all = Shihni krejt Veçoritë e { -brand-name-firefox }-it
+navigation-about-firefox-features = Mbi veçori { -brand-name-firefox }-i
 
 ## Resources
 
@@ -24,15 +28,23 @@ navigation-close-resources-menu = Mbyllni menunë Burime
 navigation-product = Produkt
 navigation-desktop = Desktop
 navigation-mobile = Celular
+navigation-enterprise = Ndërmarrje
 navigation-release-notes = Shënime Hedhjeje Në Qarkullim
 navigation-support = Asistencë
+navigation-extensions-and-themes = Zgjerime & Tema
 navigation-add-ons = Shtesa
+navigation-all-downloads = Krejt Shkarkimet
 navigation-learn = Mësoni
 navigation-blog = Blog
+navigation-newsletter = Buletin
 navigation-compare = Krahasoni
 navigation-podcast = Podkast
 navigation-data-protection = Mbrojtje të Dhënash
+navigation-protection = Mbrojtje
+navigation-control = Kontroll
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = Shkarkoje
+navigation-download-firefox = Shkarkoni { -brand-name-firefox }-in

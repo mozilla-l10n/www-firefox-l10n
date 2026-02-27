@@ -21,12 +21,16 @@ firefox-all-down-arrow = Zgjidhni nga lista më poshtë
 firefox-all-get-help = Merrni ndihmë
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Shfletues:
+firefox-all-browser-v3 = Shfletues
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Platformë:
+firefox-all-platform-v3 = Platformë
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Gjuhë:
+firefox-all-language-v3 = Gjuhë
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Shkarkim:
+firefox-all-download-v2 = Shkarkoje
 firefox-all-desktop = Desktop
 firefox-all-mobile = Celular
 firefox-all-recommended = (E rekomanduar)

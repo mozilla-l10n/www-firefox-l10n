@@ -23,5 +23,8 @@ ui-learn-more = Mësoni më tepër
 ui-view = Shiheni
 ui-pause-animation = Ndale animacionin
 ui-play-animation = Luaje animacionin
+ui-edit = Përpunoni
+ui-view-all = Shihini krejt
+ui-more-features = Më tepër veçori
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Promocion

@@ -46,3 +46,10 @@ firefox-new-fast = I shpejtë, Privat & Falas
 firefox-new-from-mozilla = nga { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } është një shfletues falas me ngarkim të shpejtë faqesh, përdorim më të pakët të kujtesës dhe plot veçori - një projekt i entit jofitimprurës { -brand-name-mozilla }.
 firefox-new-download-a-different = Shkarkojeni për një platformë ose gjuhë tjetër
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook
