@@ -20,6 +20,7 @@ firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - ຕົວຕິດຕັ້ງ MSI
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - ຕົວຕິດຕັ້ງ MSI
+firefox-enterprise-resources = ຊັບພະຍາກອນ
 firefox-enterprise-msi-installers = ຕົວຕິດຕັ້ງ MSI
 firefox-enterprise-legacy-browser-support = ຮອງຮັບຕົວທ່ອງເວັບແບບເກົ່າ
 firefox-enterprise-admx-templates = ແມ່ແບບ ADMX
@@ -32,3 +33,4 @@ firefox-enterprise-documentation-and-community = ເອກະສານ ແລະ
 firefox-enterprise-sample-plist-for-configuration = ຕົວຢ່າງ <a href="{ $url }">plist ສໍາລັບໂປຣໄຟລ໌ການຕັ້ງຄ່າ</a>
 firefox-enterprise-pkg-installer = ຕົວຕິດຕັ້ງ PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-ບິດ
+firefox-enterprise-contact-sales = ຕິດຕໍ່ຝ່າຍຂາຍ

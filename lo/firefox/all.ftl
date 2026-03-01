@@ -21,12 +21,16 @@ firefox-all-down-arrow = ເລືອກຈາກບັນຊີລາຍຊື�
 firefox-all-get-help = ຂໍຄວາມຊ່ວຍເຫລືອ
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. ຕົວທ່ອງເວັບ:
+firefox-all-browser-v3 = ໂປຣແກຣມທ່ອງເວັບ
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Platform:
+firefox-all-platform-v3 = ແພລດຟອມ
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. ພາສາ:
+firefox-all-language-v3 = ພາສາ
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. ດາວໂຫລດ:
+firefox-all-download-v2 = ດາວໂຫຼດ
 firefox-all-desktop = ເດສກ໌ທັອບ
 firefox-all-mobile = ໂທລະສັບມືຖື
 firefox-all-recommended = (ແນະນຳ)
