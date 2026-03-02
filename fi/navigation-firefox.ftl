@@ -34,10 +34,14 @@ navigation-add-ons = Lisäosat
 navigation-all-downloads = Kaikki lataukset
 navigation-learn = Opi
 navigation-blog = Blogi
+navigation-newsletter = Uutiskirje
 navigation-compare = Vertaa
 navigation-podcast = Podcast
 navigation-data-protection = Tietojen suojaus
+navigation-protection = Suojaus
+navigation-focus = Keskity
 
 ## Download
 
 navigation-download = Lataa
+navigation-download-firefox = Lataa { -brand-name-firefox }
