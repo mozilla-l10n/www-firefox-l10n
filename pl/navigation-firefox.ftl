@@ -19,6 +19,7 @@ navigation-ad-tracker-blocking = Blokowanie śledzących reklam
 navigation-private-browsing = Tryb prywatny
 navigation-password-manager = Darmowy menedżer haseł
 navigation-features-all = Wszystkie funkcje { -brand-name-firefox(case: "gen") }
+navigation-about-firefox-features = O funkcjach { -brand-name-firefox(case: "gen") }
 
 ## Resources
 
