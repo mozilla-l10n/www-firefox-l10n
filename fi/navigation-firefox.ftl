@@ -19,6 +19,7 @@ navigation-ad-tracker-blocking = Mainosseurainten esto
 navigation-private-browsing = Yksityinen selaustila
 navigation-password-manager = Ilmainen salasananhallinta
 navigation-features-all = Näytä kaikki { -brand-name-firefox }in ominaisuudet
+navigation-about-firefox-features = { -brand-name-firefox }in ominaisuuksista
 
 ## Resources
 
@@ -27,6 +28,7 @@ navigation-close-resources-menu = Sulje Resurssit-valikko
 navigation-product = Tuote
 navigation-desktop = Työpöytä
 navigation-mobile = Mobiili
+navigation-enterprise = Yrityksille
 navigation-release-notes = Julkaisutiedot
 navigation-support = Tuki
 navigation-extensions-and-themes = Laajennukset ja teemat
@@ -39,6 +41,7 @@ navigation-compare = Vertaa
 navigation-podcast = Podcast
 navigation-data-protection = Tietojen suojaus
 navigation-protection = Suojaus
+navigation-control = Hallinta
 navigation-focus = Keskity
 
 ## Download

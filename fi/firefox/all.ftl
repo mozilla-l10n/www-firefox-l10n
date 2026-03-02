@@ -21,12 +21,16 @@ firefox-all-down-arrow = Valitse alla olevasta luettelosta
 firefox-all-get-help = Apua
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Selain:
+firefox-all-browser-v3 = Selain
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Alusta:
+firefox-all-platform-v3 = Alusta
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Kieli:
+firefox-all-language-v3 = Kieli
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Lataa:
+firefox-all-download-v2 = Lataa
 firefox-all-desktop = Työpöytä
 firefox-all-mobile = Mobiili
 firefox-all-recommended = (suositeltu)
