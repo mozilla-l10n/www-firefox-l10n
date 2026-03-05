@@ -56,7 +56,7 @@ firefox-all-esr-if-you-choose = Nëse zgjidhni të shkarkoni versionin e vjetër
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
 firefox-all-esr-read-more = Lexoni më tepër mbi <a { $attrs }>ciklin e hedhjes në qarkullim të { -brand-name-firefox-esr }</a>.
 firefox-all-check-the-system-requirements = Kontrolloni domosdoshmëri sistemi
-firefox-all-release-notes = Shënime versioni
+firefox-all-release-notes = Shënime hedhjeje në qarkullim
 firefox-all-source-code = Kodi burim
 firefox-all-need-help = Ju duhet ndihmë?
 firefox-all-choose-which-firefox = Zgjidhni cili { -brand-name-firefox-browser } të shkarkohet në gjuhën tuaj
