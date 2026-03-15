@@ -7,6 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = การปิดกั้นโฆษณา
+# Page Title
+features-adblocker-meta-title-v2 = เกี่ยวกับตัวปิดกั้นโฆษณา
 # Obsolete string (expires 16-09-2025)
 features-adblocker-meta-title = เกี่ยวกับตัวปิดกั้นโฆษณา - { -brand-name-firefox }
 # HTML page description

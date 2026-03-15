@@ -23,5 +23,8 @@ ui-learn-more = เรียนรู้เพิ่มเติม
 ui-view = มุมมอง
 ui-pause-animation = หยุดภาพเคลื่อนไหวชั่วคราว
 ui-play-animation = เล่นภาพเคลื่อนไหว
+ui-edit = แก้ไข
+ui-view-all = ดูทั้งหมด
+ui-more-features = คุณลักษณะเพิ่มเติม
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = โปรโมชั่น
