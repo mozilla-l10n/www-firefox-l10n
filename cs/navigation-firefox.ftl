@@ -19,7 +19,7 @@ navigation-ad-tracker-blocking = Blokování sledujících reklam
 navigation-private-browsing = Režim anonymního prohlížení
 navigation-password-manager = Bezplatný správce hesel
 navigation-features-all = Zobrazit všechny funkce { -brand-name-firefox(case: "gen") }
-navigation-about-firefox-features = O { -brand-name-firefox } funkcích
+navigation-about-firefox-features = O funkcích { -brand-name-firefox(case: "gen") }
 
 ## Resources
 
