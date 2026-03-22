@@ -19,6 +19,7 @@ navigation-ad-tracker-blocking = 광고 추적기 차단
 navigation-private-browsing = 사생활 보호 모드
 navigation-password-manager = 무료 비밀번호 관리자
 navigation-features-all = { -brand-name-firefox } 전체 기능 보기
+navigation-about-firefox-features = { -brand-name-firefox } 기능
 
 ## Resources
 
@@ -27,15 +28,23 @@ navigation-close-resources-menu = 자원 메뉴 닫기
 navigation-product = 제품
 navigation-desktop = 데스크톱
 navigation-mobile = 모바일
+navigation-enterprise = 기업
 navigation-release-notes = 출시 안내
 navigation-support = 도움말
+navigation-extensions-and-themes = 확장기능과 테마
 navigation-add-ons = 부가 기능
+navigation-all-downloads = 모든 다운로드
 navigation-learn = 배우기
 navigation-blog = 블로그
+navigation-newsletter = 뉴스레터
 navigation-compare = 비교하기
 navigation-podcast = 팟캐스트
 navigation-data-protection = 데이터 보호
+navigation-protection = 보호
+navigation-control = 제어
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = 다운로드
+navigation-download-firefox = { -brand-name-firefox } 다운로드

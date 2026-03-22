@@ -46,3 +46,10 @@ firefox-new-fast = 빠름, 안전함, 무료
 firefox-new-from-mozilla = { -brand-name-mozilla }로부터
 firefox-new-desc = { -brand-name-firefox-browser }는 비영리 단체인 { -brand-name-mozilla }에서 출시한 무료 웹 브라우저로 페이지 로딩이 빠르고 메모리를 적게 사용하며 다양한 기능을 갖추었습니다.
 firefox-new-download-a-different = 플랫폼 또는 언어를 변경하여 다운로드
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook

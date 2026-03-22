@@ -9,6 +9,7 @@
 footer-download = 다운로드
 footer-download-auto = { -brand-name-firefox } 다운로드
 footer-windows = Windows
+footer-macos = macOS
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
