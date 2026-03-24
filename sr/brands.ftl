@@ -72,6 +72,7 @@
 
 ## Mozilla projects
 
+-brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
@@ -79,6 +80,7 @@
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = Mozilla налог
 -brand-name-mozilla-accounts = Mozilla налози
+-brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-thunderbird = Thunderbird
 
@@ -124,3 +126,5 @@
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
 -brand-name-chromebook = Chromebook
+# Enterprise program name
+-brand-name-support-for-organizations = Подршка за организације

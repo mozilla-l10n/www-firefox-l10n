@@ -11,4 +11,4 @@ firefox-mobile-get-the-mobile-browser-built = Набавите мобилни п
 firefox-mobile-check-out-firefox-again-its = Поново упознајте { -brand-name-firefox }. Брз, приватан и на вашој страни. За { -brand-name-ios } и { -brand-name-android }.
 firefox-mobile-get-firefox-mobile = Преузмите { -brand-name-firefox } Mobile
 firefox-mobile-send-a-download-link-to-your = Пошаљите везу за преузимање на телефон.
-firefox-mobile-scan-the-qr-code-to-get-started = Скенирајте QR код да почнете
+firefox-mobile-scan-the-qr-code-to-get-started = Скенирајте КР код да почнете

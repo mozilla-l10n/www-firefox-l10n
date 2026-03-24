@@ -7,6 +7,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } је невероватно брз и пружа најновије програмерске алате и могућности као што је CSS Grid и framework debugging
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Добродошли у ваш нови омиљени прегледач. Прегледач са најновијим могућностима, брзим перформансама и програмерским алатима који су вам потребни за развој отвореног веба.
 firefox-developer-speak-up = Реците своје мишљење
 firefox-developer-feedback-makes-us = Повратне информације нас чине бољим. Кажите нам како можемо да побољшамо прегледач и Developer tools.
@@ -61,5 +62,6 @@ firefox-developer-the-new-fonts-panel = Нови панел за фонтове 
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } аутоматски шаље повратне информације { -brand-name-mozilla }-и.
 firefox-developer-download-the-firefox-browser = Преузмите { -brand-name-firefox } направљен за програмере
 firefox-developer-made-for-developers = Прегледач направљен за програмере
+firefox-developer-all-the-latest-v2 = Сви најновији алати за програмере у бета верзији, поред функција као што су уређивач конзоле у више редова и инспектор веб прикључница.
 firefox-developer-a-separate-profile = <strong>Одвојен профил и путања</strong> за лако покретање уз стандардну или { -brand-name-beta } { -brand-name-firefox } верзију.
 firefox-developer-preferences-tailored = Подешавања <strong>скројена за веб програмере</strong>: Отклањање грешака у прегледачу и удаљено су подразумевано омогућени, као и тамна тема и брз приступ алаткама за програмере.

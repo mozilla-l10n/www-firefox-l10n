@@ -35,9 +35,14 @@ download-a-different-build = Преузмите другу верзију
 
 download-button-linux-32-v2 = Преузмите за Linux 32-битни
 download-button-linux-64-v2 = Преузмите за Linux 64-битни
+download-button-linux-arm64 = Преузми за Linux ARM64
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = Користите Debian, Ubuntu или било коју дистрибуцију засновану на Debian-у?<br> Уместо тога можете поставити наш <a { $attrs }>APT репозиторијум</a>.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Преузмите са Microsoft-а
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = Поделите како сте открили { -brand-name-firefox } и да га користите са { -brand-name-mozilla }-иним маркетиншким технолошким партнерима. Ови подаци се никада не продају нити користе за приказивање огласа. <a { $attrs }>Сазнајте како користимо податке</a>.

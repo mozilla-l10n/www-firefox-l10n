@@ -5,3 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/compare/
 
+# Page title
+compare-index-compare-firefox-with-other = Упоредите { -brand-name-firefox } са другим прегледачима
+# Page description
+# "stacks up" is slang for a competitive comparison to determine a winner, like stacking blocks to see who has more.
+compare-index-see-how-firefox-stacks-up = Погледајте како се { -brand-name-firefox } котира у односу на друге водеће стоне веб прегледаче по питању могућности, приватности и једноставности употребе.
+compare-index-firefox-versus-google-chrome = { -brand-name-firefox } против Google Chrome-а
+compare-index-firefox-versus-microsoft-edge = { -brand-name-firefox } против Microsoft Edge-а
+compare-index-firefox-versus-apple-safari = { -brand-name-firefox } против Apple Safari-ја
+compare-index-firefox-versus-brave = { -brand-name-firefox } против Brave-а
+compare-index-firefox-versus-opera = { -brand-name-firefox } против Opera-е
