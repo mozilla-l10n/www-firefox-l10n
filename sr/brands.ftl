@@ -58,6 +58,10 @@
 
 -brand-name-relay = Relay
 
+## Firefox projects
+
+-brand-name-firefox-labs = Firefox Labs
+
 ## Pocket
 
 -brand-name-pocket = Pocket
