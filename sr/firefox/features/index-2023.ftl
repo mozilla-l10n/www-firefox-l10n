@@ -5,6 +5,38 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/
 
+# HTML page title
+features-index-firefox-browser-features = Могућности { -brand-name-firefox } прегледача
+# HTML page description
+features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } је брз, лаган прегледач усредсређен на приватност који ради на свим вашим уређајима.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } је све бржи и бржи
+features-index-the-latest-browser-speed-benchmarks = Најновији тестови брзине прегледача доказују да је { -brand-name-firefox } бржи него икад.
 features-index-is-firefox-a-private-browser = Је ли { -brand-name-firefox } приватан прегледач?
+features-index-were-focused-on-your-right-to = Усредсређени смо на ваше право на приватност. Ваши подаци, ваша веб активност и ваш живот на мрежи су заштићени уз { -brand-name-firefox }.
+features-index-free-password-manager = Бесплатан управник лозинки
+features-index-get-help-creating-new-passwords = Потражите помоћ при прављењу нових лозинки, аутоматски попуњавајте обрасце на мрежи и пријављујте се аутоматски.
 features-index-customize-your-firefox-browser = Прилагодите ваш { -brand-name-firefox } прегледач
+features-index-choose-how-your-browser-looks = Изаберите како ваш прегледач изгледа уз хиљаде бесплатних тема.
+features-index-firefox-browser-sync = { -brand-name-firefox } усклађивање прегледача
+features-index-access-your-firefox-bookmarks = Приступите својим { -brand-name-firefox } обележивачима, лозинкама, отвореним језичцима и још много тога са било ког уређаја.
+features-index-bookmark-manager = Управник обележивача
+features-index-organize-your-bookmarks-with = Организујте своје обележиваче помоћу фасцикли и ознака.
+features-index-private-browsing-mode = Режим приватног прегледања
+features-index-automatically-delete-cookies = Аутоматски избришите колачиће и обришите историјат прегледања када га затворите.
+features-index-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } додаци и проширења прегледача
+features-index-add-new-tools-capabilities-and = Додајте нове алате, могућности и забавне ствари у свој прегледач.
+features-index-pinned-browser-tabs = Закачени језичци прегледача
+features-index-keep-your-favorite-pages-open = Држите своје омиљене странице отвореним и на само један клик. Користите закачене језичке да бисте пратили своју е-пошту или апликације за размену порука.
+features-index-eyedropper-tool = Алат капаљка
+features-index-identify-the-exact-color-on-a = Идентификујте тачну боју на страници и копирајте њен хексадецимални код.
+features-index-pdf-editor = ПДФ уређивач
+features-index-view-and-edit-pdf-files = Прегледајте и уређујте ПДФ датотеке директно у { -brand-name-firefox }-у.
+features-index-fingerprint-blocking = Блокирање дигиталних отисака
+features-index-ad-tracker-blocking = Блокирање огласа за праћење
+features-index-firefox-automatically-blocks = { -brand-name-firefox } аутоматски блокира преко 2000 огласа за праћење који вас прате широм интернета.
+# "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
+features-index-ditch-the-sticky-ads = Отарасите се наметљивих огласа који вас прате уз помоћ уграђених блокатора дигиталних отисака у { -brand-name-firefox }-у.
+features-index-translate-the-web = Преведите веб
+features-index-translate-websites-to-your = Преведите веб сајтове на свој језик директно у свом { -brand-name-firefox } прегледачу – без дељења својих података са било ким другим.
+features-index-picture-in-picture = Слика у слици
+features-index-got-things-to-do = Имате ствари које треба да урадите и ствари које желите да гледате? Радите обоје користећи Слику у слици у { -brand-name-firefox }-у.

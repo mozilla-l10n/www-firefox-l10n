@@ -5,3 +5,6 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/
 
+features-shared-firefox-features = { -brand-name-firefox } функције
+features-shared-footer-cta-title = Урадите више уз { -brand-name-firefox }
+features-shared-footer-cta-desc = Преузмите брз, лаган прегледач фокусиран на приватност који подржава непрофитна организација и који ради на свим вашим уређајима.
