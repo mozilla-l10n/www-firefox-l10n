@@ -7,7 +7,9 @@
 
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = Uporabljajte { -brand-name-firefox } kot službeni brskalnik
+firefox-enterprise-your-browser-your-business = Vaš brskalnik, vaši posli
 firefox-enterprise-deploy-when-and-how-you-want = Uvedite kadar in kako želite
+firefox-enterprise-install-packages-policies = Z namestitvenimi paketi ter širokim naborom skupinskih pravilnikov in funkcij je uvajanje hitrejše in bolj prilagodljivo kot kdajkoli prej – in mačji kašelj za okolja Windows, Linux in macOS.
 firefox-enterprise-release-cycles = Izdajni cikli, ki ustrezajo vaši organizaciji
 firefox-enterprise-enterprise-downloads = Prenosi za { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } (64-bitni)
