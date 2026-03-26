@@ -41,6 +41,8 @@ navigation-compare = Primerjaj
 navigation-podcast = Podcast
 navigation-data-protection = Varstvo podatkov
 navigation-protection = Zaščita
+navigation-control = Nadzor
+navigation-focus = Focus
 
 ## Download
 

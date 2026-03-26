@@ -25,5 +25,6 @@ ui-pause-animation = Ustavi animacijo
 ui-play-animation = Predvajaj animacijo
 ui-edit = Uredi
 ui-view-all = Prikaži vse
+ui-more-features = Več značilnosti
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Promocija
