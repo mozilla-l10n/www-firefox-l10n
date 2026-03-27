@@ -18,4 +18,21 @@ download-button-firefox-nightly-android = { -brand-name-android } uchun <span>{ 
 download-button-firefox-android = { -brand-name-android } uchun <span>{ -brand-name-firefox }</span>
 download-button-firefox-ios = { -brand-name-ios } uchun <span>{ -brand-name-firefox }</span>
 download-button-firefox-privacy = { -brand-name-firefox } Maxfiylik
+download-button-firefox-privacy-notice = { -brand-name-firefox } maxfiylik bildirishnomalari
 download-button-download = Yuklab olish
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } endi { $os_version } va undan pastki versiyalarda <a href="{ $help_url }">qoʻllab‑quvvatlanmaydi</a>.
+download-firefox-esr = { -brand-name-firefox-esr } yuklab olish
+download-firefox-esr-32 = 32-bitlik { -brand-name-firefox-esr } yuklab olish
+download-firefox-esr-64 = 64-bitlik { -brand-name-firefox-esr } yuklab olish
+
+## Linux
+
+download-button-linux-32-v2 = 32-bitlik Linux uchun yuklab olish
+download-button-linux-64-v2 = 64-bitlik Linux uchun yuklab olish
+download-button-linux-arm64 = Linux ARM64 uchun yuklab olish
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Microsoftʼdan yuklab olish
