@@ -42,6 +42,19 @@ firefox-all-64-bit-installers = 64 bit oʻrnatkichlar
 firefox-all-choose-a-64-bit-installer = 64 razryadlik protsessorli kompyuterlar uchun 64 bitlik oʻrnatkichni tanlang. Bu ayrim dasturlar uchun koʻproq operativ xotira ajratadi. Aynan turli kuchli ilova va oʻyinlar uchun juda muhim.
 firefox-all-32-bit-installers = 32 bit oʻrnatkich
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Ushbu havola orqali Microsoft Store’dagi { -brand-name-firefox } sahifasiga o‘tasiz. Agar kompyuteringizda Windows 10 yoki 11 oʻrnatilgan boʻlsa, ushbu sahifa orqali Microsoft Store ilovasiga oʻtib { -brand-name-firefox }ʼni oʻrnatishingiz mumkin boʻladi. Bunda { -brand-name-firefox } yangilanishlari ham Microsoft Store orqali avtomatik amalga oshiriladi. Microsoft Storeʼdan oʻrnatilgan versiyaning ishlashida va imkoniyatlarida biroz farqlar boʻlishi mumkin, ammo aksariyat foydalanuvchilar buni sezishmaydi.
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = { $esr_version } yuklab olish
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Hozirda ESRʼning { $esr_current_major } va { $esr_next_major } asosiy versiyalari orasidagi oʻtish bosqichi ketmoqda.
+firefox-all-esr-when-there-is = Asosiy versiya yangilanganda, { -brand-name-firefox-esr }ʼning bir nechta oraliq versiyalari vaqtinchalik birga ishlaydi. Bu eski versiyadan foydalanayotganlarga yangisiga oʻtish uchun tayyorgarlik koʻrish imkonini beradi.
+firefox-all-esr-if-you-choose = Agarda ESRʼning eskiroq versiyasini yuklab olsangiz, oʻtish bosqichi yakunlangach, brauzer avtomatik ravishda yangisiga yangilanadi.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = <a { $attrs }>{ -brand-name-firefox-esr }ʼning reliz sikli</a> haqida batafsil maʼlumot oling.
 firefox-all-check-the-system-requirements = Tizim talablari bilan tanishing
 firefox-all-release-notes = Reliz qaydlari
 firefox-all-source-code = Manba kodi
@@ -54,6 +67,8 @@ firefox-all-get-a-sneak-peek-at = { -brand-name-firefox } brauzerini eng soʻngg
 firefox-all-test-your-sites-against = Saytlaringizni tez kunlarda chiqadigan { -brand-name-firefox } funksiyalari bilan mosligini tekshirib koʻring. Bu funksiyalarga kuchli va moslashuvchan DevTools kiritilgan.
 firefox-all-count-on-stability-and = Bu korporativ { -brand-name-firefox } brauzeridan foydalanishning osonligi va uning barqarorligiga ishonch hosil qiling.
 firefox-all-windows-installers-for = AKTga asoslangan korporativ kompaniylar uchun Windows oʻrnatkichlari { -brand-name-firefox-browser } bilan boshqarish va sozlashni osonlashtiradi.
+firefox-all-arm64-installers = ARM64/AArch64 oʻrnatkichlari
+firefox-all-arm64-installers-optimized-v2 = Windows va Linux kompyuterlariga optimallashtirilgan ARM64/AArch64 oʻrnatkichlar.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32 bit razryadli protsessorli yoki eski va kuchsiz kompyuterlar uchun 32 bitlik oʻrnatkichni tanlang. 64 yoki 32 bitlik oʻrnatkichdan birini <a href="{ $url }">tanlashga ikkilanayotgan boʻlsangiz,</a> 32 bitlikni tanlashni tavsiya qilamiz.
@@ -68,3 +83,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-download-esr-115 = ESR 115 yuklab olish
