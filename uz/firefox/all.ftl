@@ -5,6 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/download/all/
 
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = { -brand-name-firefox } brauzerini oʻzbekcha va yana 90 dan ortiq boshqa tillarda yuklab oling
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Har bir inson internetdan foydalanish huquqiga ega — ona tilingiz bunga aslo toʻsiq boʻlmasligi kerak. Aynan shu sababli, butun dunyodagi fidoyi koʻngillilar koʻmagi yordamida biz { -brand-name-firefox } brauzerini 90 dan ortiq tillarda taqdim etmoqdamiz.
+firefox-all-choose-browser = Davom etish uchun brauzerni tanlang
+firefox-all-choose-platform = Davom etish uchun platformani tanlang
+firefox-all-choose-language = Davom etish uchun tilni tanlang
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Yordam olish
 firefox-all-sorry-we-couldnt-find = Afsuski, sizga kerakli versiyani topa olmadik. Yana bir marta urinib koʻring yoki quyidagi roʻyxatdan boshqasini tanlang.
@@ -18,9 +25,9 @@ firefox-all-source-code = Manba kodi
 firefox-all-need-help = Yordam kerakmi?
 firefox-all-choose-which-firefox = Ona tilingizda foydalanish uchun { -brand-name-firefox-browser }ʼni kerakli versiyasini tanlang
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } maxfiylik haqida bildirishnomasi
-firefox-all-learn-about-firefox = { -brand-name-firefox } brauzerlari haqida batafsil
-firefox-all-the-standard-firefox = Standart { -brand-name-firefox } brauzeri – tez va xavfsiz. Qaysi birini tanlashga ikkilanayotgan boʻlsangiz, buni tanlang.
-firefox-all-get-a-sneak-peek-at = { -brand-name-firefox } brauzerini chiqishi oldidan uning oxirgi funksiyalari bilan tanishib chiqing.
+firefox-all-learn-about-firefox = { -brand-name-firefox } brauzerlari haqida bilib oling
+firefox-all-the-standard-firefox = Standart { -brand-name-firefox } brauzeri — tez va xavfsiz. Qaysi birini tanlashga ikkilanayotgan boʻlsangiz, buni tanlang.
+firefox-all-get-a-sneak-peek-at = { -brand-name-firefox } brauzerini eng soʻnggi imkoniyatlari bilan ular ommaga chiqarilishidan oldin tanishib chiqing.
 firefox-all-test-your-sites-against = Saytlaringizni tez kunlarda chiqadigan { -brand-name-firefox } funksiyalari bilan mosligini tekshirib koʻring. Bu funksiyalarga kuchli va moslashuvchan DevTools kiritilgan.
 firefox-all-count-on-stability-and = Bu korporativ { -brand-name-firefox } brauzeridan foydalanishning osonligi va uning barqarorligiga ishonch hosil qiling.
 firefox-all-windows-installers-for = AKTga asoslangan korporativ kompaniylar uchun Windows oʻrnatkichlari { -brand-name-firefox-browser } bilan boshqarish va sozlashni osonlashtiradi.
