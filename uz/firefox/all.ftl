@@ -12,13 +12,36 @@ firefox-all-everyone-deserves-access-v2 = Har bir inson internetdan foydalanish 
 firefox-all-choose-browser = Davom etish uchun brauzerni tanlang
 firefox-all-choose-platform = Davom etish uchun platformani tanlang
 firefox-all-choose-language = Davom etish uchun tilni tanlang
+firefox-all-change-browser = Boshqa mahsulotni tanlang
+firefox-all-change-platform = Boshqa platformani tanlang
+firefox-all-change-language = Boshqa tilni tanlang
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Quyidagi roʻyxatdan tanlang
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Yordam olish
+# Obsolete string (expires: 2026-04-10)
+firefox-all-browser-v2 = 1. Brauzer:
+firefox-all-browser-v3 = Brauzer
+# Obsolete string (expires: 2026-04-10)
+firefox-all-platform-v2 = 2. Platforma:
+firefox-all-platform-v3 = Platforma
+# Obsolete string (expires: 2026-04-10)
+firefox-all-language-v2 = 3. Til:
+firefox-all-language-v3 = Til
+# Obsolete string (expires: 2026-04-10)
+firefox-all-download = 4. Yuklab olish:
+firefox-all-download-v2 = Yuklab olish
+firefox-all-desktop = Kompyuter
+firefox-all-mobile = Mobil ilova
+firefox-all-recommended = (Tavsiya etiladi)
+firefox-all-lang-multi = Bir necha til
+firefox-all-plat-mobile = Android va iOS
 firefox-all-sorry-we-couldnt-find = Afsuski, sizga kerakli versiyani topa olmadik. Yana bir marta urinib koʻring yoki quyidagi roʻyxatdan boshqasini tanlang.
 firefox-all-the-pre-alpha-version = Relizoldi alfa versiya nosozliklarni topish va yangi funksiyalarini sinab koʻrishni sevadigan tajribali foydalanuvchilar uchun moʻljallangan.
 firefox-all-64-bit-installers = 64 bit oʻrnatkichlar
 firefox-all-choose-a-64-bit-installer = 64 razryadlik protsessorli kompyuterlar uchun 64 bitlik oʻrnatkichni tanlang. Bu ayrim dasturlar uchun koʻproq operativ xotira ajratadi. Aynan turli kuchli ilova va oʻyinlar uchun juda muhim.
 firefox-all-32-bit-installers = 32 bit oʻrnatkich
+firefox-all-microsoft-store-installers = Microsoft Store
 firefox-all-check-the-system-requirements = Tizim talablari bilan tanishing
 firefox-all-release-notes = Reliz qaydlari
 firefox-all-source-code = Manba kodi
