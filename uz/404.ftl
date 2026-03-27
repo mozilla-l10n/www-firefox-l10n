@@ -12,3 +12,9 @@ not-found-page-go-back = Orqaga qaytish
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = { -brand-name-firefox } ortida turgan notijorat tashkilot — { -brand-name-mozilla } haqida <a href="{ $about }">bilib oling</a>.
+# Variables:
+#   $download (url) - link to https://www.firefox.com/
+not-found-page-download-the-firefox-browser = { -brand-name-firefox } brauzerini mobil qurilma yoki kompyuteringizga <a href={ $download }>yuklab oling</a>
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = { -brand-name-mozilla-foundation } jamgʻarmasiga <a { $donate }>xayriya qiling</a> va internetni yirik texnogigantlar nazoratidan qaytarib oling.
