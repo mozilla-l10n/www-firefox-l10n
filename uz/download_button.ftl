@@ -27,14 +27,14 @@ download-button-download = Yuklab olish
 download-button-unsupported-platform = { $channel_name } endi { $os_version } va undan pastki versiyalarda <a href="{ $help_url }">qoʻllab‑quvvatlanmaydi</a>.
 download-button-please-download-esr = { -brand-name-firefox } brauzeridan foydalanish uchun { -brand-name-firefox-esr } (kengaytirilgan qoʻllab‑quvvatlash versiyasini) yuklab oling.
 download-firefox-esr = { -brand-name-firefox-esr } yuklab olish
-download-firefox-esr-32 = 32-bitlik { -brand-name-firefox-esr } yuklab olish
-download-firefox-esr-64 = 64-bitlik { -brand-name-firefox-esr } yuklab olish
+download-firefox-esr-32 = 32-bit { -brand-name-firefox-esr } yuklab olish
+download-firefox-esr-64 = 64-bit { -brand-name-firefox-esr } yuklab olish
 download-a-different-build = Boshqa versiyani yuklab olish
 
 ## Linux
 
-download-button-linux-32-v2 = 32-bitlik Linux uchun yuklab olish
-download-button-linux-64-v2 = 64-bitlik Linux uchun yuklab olish
+download-button-linux-32-v2 = 32-bit Linux uchun yuklab olish
+download-button-linux-64-v2 = 64-bit Linux uchun yuklab olish
 download-button-linux-arm64 = Linux ARM64 uchun yuklab olish
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions

@@ -9,9 +9,9 @@
 firefox-all-get-help = Yordam olish
 firefox-all-sorry-we-couldnt-find = Afsuski, sizga kerakli versiyani topa olmadik. Yana bir marta urinib koʻring yoki quyidagi roʻyxatdan boshqasini tanlang.
 firefox-all-the-pre-alpha-version = Relizoldi alfa versiya nosozliklarni topish va yangi funksiyalarini sinab koʻrishni sevadigan tajribali foydalanuvchilar uchun moʻljallangan.
-firefox-all-64-bit-installers = 64 bitlik oʻrnatkichlar
+firefox-all-64-bit-installers = 64-bit oʻrnatkichlar
 firefox-all-choose-a-64-bit-installer = 64 razryadlik protsessorli kompyuterlar uchun 64 bitlik oʻrnatkichni tanlang. Bu ayrim dasturlar uchun koʻproq operativ xotira ajratadi. Aynan turli kuchli ilova va oʻyinlar uchun juda muhim.
-firefox-all-32-bit-installers = 32 bitlik oʻrnatkich
+firefox-all-32-bit-installers = 32-bit oʻrnatkich
 firefox-all-check-the-system-requirements = Tizim talablari bilan tanishing
 firefox-all-release-notes = Reliz qaydlari
 firefox-all-source-code = Manba kodi
