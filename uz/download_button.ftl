@@ -25,14 +25,24 @@ download-button-download = Yuklab olish
 #   $help_url (url) - link to https://support.mozilla.org/
 #   $os_version (string) - e.g. Windows 8.1, macOS 10.14
 download-button-unsupported-platform = { $channel_name } endi { $os_version } va undan pastki versiyalarda <a href="{ $help_url }">qoʻllab‑quvvatlanmaydi</a>.
+download-button-please-download-esr = { -brand-name-firefox } brauzeridan foydalanish uchun { -brand-name-firefox-esr } (kengaytirilgan qoʻllab‑quvvatlash versiyasini) yuklab oling.
 download-firefox-esr = { -brand-name-firefox-esr } yuklab olish
 download-firefox-esr-32 = 32-bitlik { -brand-name-firefox-esr } yuklab olish
 download-firefox-esr-64 = 64-bitlik { -brand-name-firefox-esr } yuklab olish
+download-a-different-build = Boshqa versiyani yuklab olish
 
 ## Linux
 
 download-button-linux-32-v2 = 32-bitlik Linux uchun yuklab olish
 download-button-linux-64-v2 = 64-bitlik Linux uchun yuklab olish
 download-button-linux-arm64 = Linux ARM64 uchun yuklab olish
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Debian, Ubuntu yoki boshqa Debian asosidagi distributivlardan foydalanyapsizmi?<br>Buning oʻrniga bizning <a { $attrs }>APT repozitoriyni sozlab olishingiz mumkin</a>.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Microsoftʼdan yuklab olish
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = { -brand-name-firefox } brauzerini qanday topganingiz va undan foydalanishingiz haqidagi maʼlumotlarni { -brand-name-mozilla }ʼning marketing hamkorlari bilan boʻlishing. Bu maʼlumotlar hech qachon sotilmaydi va sizga reklama koʻrsatish uchun ishlatilmaydi. <a { $attrs }>Maʼlumotlardan qanday foydalanishimiz haqida batafsil maʼlumot oling</a>.
