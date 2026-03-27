@@ -2,13 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-newsletter-form-please-enter-a-valid = E-mail manzilni xatosiz kiriting.
+newsletter-form-please-enter-a-valid = Yaroqli e‑pochta manzilni kiriting
 newsletter-form-your-email-here = E-POCHTA MANZILINGIZ
-newsletter-form-get-firefox-news = { -brand-name-firefox } yangiliklaridan xabardor bo‘lib turing
+newsletter-form-get-firefox-news = { -brand-name-firefox } yangiliklaridan xabardor boʻlib turing
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Ushbu <a href="{ $url }"> maxfiylik toʻgʻrisidagi bildirishnomada </a> tushuntirilganidek, { -brand-name-mozilla } mening maʼlumotlarim bilan ishlashiga roziman.
-newsletter-form-if-you-havent-previously = Ilgari { -brand-name-mozilla }ga aloqador obunani tasdiqlamagan bo‘lsangiz, shunda davom etishingiz mumkin. E-pochtangizdagi "Kiruvchi xatlar" yoki "Spam" jildini tekshirib ko‘ring.
+newsletter-form-if-you-havent-previously = Ilgari { -brand-name-mozilla }ʼga aloqador obunani tasdiqlamagan boʻlsangiz, shunda davom etishingiz mumkin. E-pochtangizdagi "Kiruvchi xatlar" yoki "Spam" jildini tekshirib koʻring.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Siz
 newsletter-form-get-firefox-tips = { -brand-name-firefox } bo‘yicha maslahatlar, ko‘rsatmalar va yordam olish
 newsletter-form-available-languages = Mavjud tillar

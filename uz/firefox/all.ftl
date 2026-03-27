@@ -69,6 +69,8 @@ firefox-all-count-on-stability-and = Bu korporativ { -brand-name-firefox } brauz
 firefox-all-windows-installers-for = AKTga asoslangan korporativ kompaniylar uchun Windows oʻrnatkichlari { -brand-name-firefox-browser } bilan boshqarish va sozlashni osonlashtiradi.
 firefox-all-arm64-installers = ARM64/AArch64 oʻrnatkichlari
 firefox-all-arm64-installers-optimized-v2 = Windows va Linux kompyuterlariga optimallashtirilgan ARM64/AArch64 oʻrnatkichlar.
+firefox-all-testflight = TestFlight orqali iOS uchun { -brand-name-firefox }ʼni sinab koʻrishga roʻyxatdan oʻting
+firefox-all-product-send-link = Yuklab olish havolasini telefoningizga yuboring
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32 bit razryadli protsessorli yoki eski va kuchsiz kompyuterlar uchun 32 bitlik oʻrnatkichni tanlang. 64 yoki 32 bitlik oʻrnatkichdan birini <a href="{ $url }">tanlashga ikkilanayotgan boʻlsangiz,</a> 32 bitlikni tanlashni tavsiya qilamiz.
@@ -83,4 +85,7 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
 firefox-all-download-esr-115 = ESR 115 yuklab olish
+firefox-all-note-unsupported = Eslatma: Agar Windows 7, 8, 8.1 yoki macOS 10.12, 10.13, 10.14 versiyalaridan foydalanayotgan boʻlsangiz, { -brand-name-firefox } brauzerini ishlatish uchun ESR 115 talqinini yuklab oling.
