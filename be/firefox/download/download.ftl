@@ -24,6 +24,7 @@ firefox-new-your-firefox-new-should-begin = Ваша сцягванне пачн
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } - гэта больш, чым браўзер.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Сцягванне была перарвана. Але яшчэ не ўсё страчана.
+firefox-new-download-select-linux = Выберыце варыянт сцягвання ніжэй
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-system-may-not = Ваша сістэма можа не задавальняць патрабаванням { -brand-name-firefox }, але вы можаце паспрабаваць адну з <a href="{ $url }">гэтых версій</a>:

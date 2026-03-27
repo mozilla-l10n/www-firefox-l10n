@@ -16,6 +16,9 @@ installer-help-action-choose = Выберыце загрузку ніжэй.
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc-v2 = Усталюйце апошнюю версію. Аўтаматычная прыватнасць ужо тут. Сцягніце { -brand-name-firefox }, каб блакаваць больш за { $trackers } трэкераў.
 installer-help-firefox-beta-desc = Тэстуйце функцыі, якія з'явяцца ў наступным выпуску ў самай стабільнай зборцы.
 installer-help-firefox-developer-desc = Стварайце, тэстуйце, вымярайце і выконвайце іншыя задачы з дапамогай адзінага браўзера для распрацоўшчыкаў.
 installer-help-firefox-nightly-desc = Зазірніце ў наш вэб-браўзер наступнага пакалення і дапамажыце нам зрабіць яго лепшым.

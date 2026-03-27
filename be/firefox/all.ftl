@@ -27,6 +27,7 @@ firefox-all-platform-v2 = 2. Платформа:
 firefox-all-language-v2 = 3. Мова:
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Сцягванне:
+firefox-all-download-v2 = Сцягнуць
 firefox-all-desktop = Камп'ютар
 firefox-all-mobile = Мабільны
 firefox-all-recommended = (Рэкамендуецца)
@@ -36,6 +37,10 @@ firefox-all-the-pre-alpha-version = Папярэдняя альфа-версія
 firefox-all-64-bit-installers = 64-бітныя інсталятары
 firefox-all-choose-a-64-bit-installer = Выберыце 64-разрадную праграму ўстаноўкі для камп'ютараў з 64-разраднымі працэсарамі, якія дазваляюць размяркоўваць больш аператыўнай памяці для асобных праграм — гэта асабліва важна для гульняў і іншых патрабавальных праграм.
 firefox-all-32-bit-installers = 32-бітныя інсталятары
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Сцягнуць { $esr_version }
+firefox-all-esr-if-you-choose = Калі вы абярэце сцягнуць старую версію ESR, вы будзеце аўтаматычна абноўлены да новай пасля заканчэння пераходнага перыяду.
 firefox-all-check-the-system-requirements = Праверыць сістэмныя патрабаванні
 firefox-all-release-notes = Заўвагі пры выпуску
 firefox-all-source-code = Зыходны код
@@ -65,3 +70,5 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-download-esr-115 = Сцягнуць ESR 115
+firefox-all-note-unsupported = Заўвага: Калі вы карыстаеце Windows 7, Windows 8, Windows 8.1 або macOS 10.12, 10.13 ці 10.14, каб ужываць { -brand-name-firefox }, сцягніце версію ESR 115.

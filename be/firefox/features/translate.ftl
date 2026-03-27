@@ -6,3 +6,4 @@
 ### URL: https://www-dev.springfield.moz.works/features/translate/
 
 features-translate-translate-the-web = Перакладайце сеціва з дапамогаю { -brand-name-firefox }
+features-translate-get-started-in-your-preferred = Пачніце працу на патрэбнай мове, сцягнуўшы { -brand-name-firefox }

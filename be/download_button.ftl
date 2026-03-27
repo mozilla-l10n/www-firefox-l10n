@@ -35,3 +35,4 @@ download-a-different-build = Сцягнуць іншую зборку
 
 download-button-linux-32-v2 = Сцягнуць для 64-бітнай Linux
 download-button-linux-64-v2 = Сцягнуць для 64-бітнай Linux
+download-button-linux-arm64 = Сцягнуць для Linux ARM64

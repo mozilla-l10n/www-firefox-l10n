@@ -125,6 +125,8 @@ firefox-desktop-download-now-else = Цяпер скончыце <strong>ўста
 firefox-desktop-download-now-windows = Цяпер <strong>запусціце</strong> праграму ўсталявання, якая толькі што сцягнулася.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Цяпер <strong>адкрыйце</strong> файл, які толькі што сцягнуўся.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Выберыце варыянт <strong>сцягвання</strong> ніжэй
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Узніклі праблемы? <a { $attrs }>Атрымайце дапамогу па ўсталяванні</a>.
