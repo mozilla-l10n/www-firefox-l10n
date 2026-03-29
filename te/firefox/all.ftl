@@ -17,6 +17,7 @@ firefox-all-get-help = సహాయం పొందండి
 firefox-all-browser-v2 = 1. విహారిణి:
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. భాష:
+firefox-all-language-v3 = భాష
 firefox-all-lang-multi = పలు భాషలు
 firefox-all-64-bit-installers = 64-బిట్ ఇన్‌స్టాలర్లు
 firefox-all-32-bit-installers = 32-బిట్ ఇన్‌స్టాలర్లు
