@@ -25,6 +25,7 @@ firefox-all-browser-v2 = 1. Браўзер:
 firefox-all-platform-v2 = 2. Платформа:
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Мова:
+firefox-all-language-v3 = Мова
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Сцягванне:
 firefox-all-download-v2 = Сцягнуць
@@ -32,11 +33,13 @@ firefox-all-desktop = Камп'ютар
 firefox-all-mobile = Мабільны
 firefox-all-recommended = (Рэкамендуецца)
 firefox-all-lang-multi = Некалькі моў
+firefox-all-plat-mobile = Android і iOS
 firefox-all-sorry-we-couldnt-find = На жаль, не ўдалося знайсці версію, якую вы шукаеце. Калі ласка, паспрабуйце ізноў, або выберыце са спісу ніжэй.
 firefox-all-the-pre-alpha-version = Папярэдняя альфа-версія для дасведчаных карыстальнікаў, якія любяць паляваць на збоі і тэставаць новыя функцыі, што распрацоўваюцца.
 firefox-all-64-bit-installers = 64-бітныя інсталятары
 firefox-all-choose-a-64-bit-installer = Выберыце 64-разрадную праграму ўстаноўкі для камп'ютараў з 64-разраднымі працэсарамі, якія дазваляюць размяркоўваць больш аператыўнай памяці для асобных праграм — гэта асабліва важна для гульняў і іншых патрабавальных праграм.
 firefox-all-32-bit-installers = 32-бітныя інсталятары
+firefox-all-microsoft-store-installers = Крама Microsoft
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Сцягнуць { $esr_version }

@@ -6,6 +6,8 @@
 ## Resources
 
 navigation-all-downloads = Усе сцягванні
+navigation-compare = Параўнаць
+navigation-podcast = Падкаст
 
 ## Download
 

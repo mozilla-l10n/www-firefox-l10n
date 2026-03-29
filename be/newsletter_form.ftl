@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Ваш электронны адрас
 newsletter-form-we-are-sorry-but-there = Нам шкада, але ў нашай сістэме ўзнікла праблема. Калі ласка, паспрабуйце пазней!
 newsletter-form-please-select-country = Калі ласка, выберыце краіну або рэгіён
 newsletter-form-please-select-language = Калі ласка, абярыце мову
+newsletter-form-button-cta = Рэгістрацыя
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Выберыце краіну або рэгіён
@@ -27,6 +28,8 @@ newsletter-form-sign-up-now = Зарэгістравацца зараз
 newsletter-form-thanks = Дзякуй!
 newsletter-form-yes = Так
 newsletter-form-no = Не
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Дасыланне
 multi-newsletter-form-checkboxes-legend = Я хачу атрымліваць інфармацыю пра:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

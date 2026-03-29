@@ -23,5 +23,7 @@ ui-learn-more = Падрабязней
 ui-view = Прагляд
 ui-pause-animation = Прыпыніць анімацыю
 ui-play-animation = Прайграць анімацыю
+ui-edit = Рэдагаваць
+ui-view-all = Глядзець усё
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Прасоўванне

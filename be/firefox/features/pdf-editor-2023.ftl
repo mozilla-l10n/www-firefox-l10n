@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/compare/
+### URL: https://www-dev.springfield.moz.works/features/pdf-editor/
 
-# Used as a small link to a cited source
-compare-shared-source = крыніца
+pdf-editor-create-a-signature = Стварыць подпіс
+pdf-editor-add-a-comment = Дадаць каментарыі
