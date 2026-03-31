@@ -8,6 +8,7 @@ newsletter-form-your-email-address = تہاݙا ای میل پتہ
 newsletter-form-we-are-sorry-but-there = ساکوں افسوس ہے، پر ساݙے سسٹم نال ہک مسئلہ ہائی۔ سوہݨا، ولدا بعد وچ کوشش کرو!
 newsletter-form-please-select-country = سوہݨا، ملک یا علاقہ چݨو
 newsletter-form-please-select-language = سوہݨا، ہک زبان چُݨو
+newsletter-form-button-cta = سائن اپ
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = ملک یا علاقہ چݨو
@@ -29,6 +30,8 @@ newsletter-form-sign-up-now = ہݨ سائن اپ تھیوو
 newsletter-form-thanks = شکریہ!
 newsletter-form-yes = جیا
 newsletter-form-no = کو
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = بھیڄیندا پیا ہے
 multi-newsletter-form-checkboxes-legend = میں ایں بارے ڄاݨکاری چاہنداں:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
