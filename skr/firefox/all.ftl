@@ -21,12 +21,16 @@ firefox-all-down-arrow = ہیٹھاں تندیر وچوں چݨو
 firefox-all-get-help = مدد گھنو
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1۔ براؤزر:
+firefox-all-browser-v3 = براؤزر
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2۔ پلیٹ فارم:
+firefox-all-platform-v3 = پلیٹ فارم
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3۔ زبان:
+firefox-all-language-v3 = زبان
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4۔ ڈاؤن لوڈ:
+firefox-all-download-v2 = ڈاؤن لوڈ
 firefox-all-desktop = ڈیسک ٹاپ
 firefox-all-mobile = موبائل
 firefox-all-recommended = (سفارش تھئے ہوئے)
