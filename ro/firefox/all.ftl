@@ -21,12 +21,16 @@ firefox-all-down-arrow = Alege din lista de mai jos
 firefox-all-get-help = Obține ajutor
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Browser:
+firefox-all-browser-v3 = Browser
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Platformă:
+firefox-all-platform-v3 = Platformă
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Limbă:
+firefox-all-language-v3 = Limbă
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Descarcă:
+firefox-all-download-v2 = Descarcă
 firefox-all-desktop = Desktop
 firefox-all-mobile = Mobil
 firefox-all-recommended = (Recomandat)

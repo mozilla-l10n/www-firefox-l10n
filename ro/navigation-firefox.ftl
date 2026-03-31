@@ -19,6 +19,7 @@ navigation-ad-tracker-blocking = Blocarea elementelor de urmărire din reclame
 navigation-private-browsing = Mod de navigare privată
 navigation-password-manager = Manager de parole gratuit
 navigation-features-all = Vezi toate funcționalitățile { -brand-name-firefox }
+navigation-about-firefox-features = Despre funcționalitățile { -brand-name-firefox }
 
 ## Resources
 
@@ -35,10 +36,15 @@ navigation-add-ons = Suplimente
 navigation-all-downloads = Toate descărcările
 navigation-learn = Învață
 navigation-blog = Blog
+navigation-newsletter = Buletin de știri
 navigation-compare = Compară
 navigation-podcast = Podcast
 navigation-data-protection = Protecția datelor
+navigation-protection = Protecție
+navigation-control = Control
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = Descarcă
+navigation-download-firefox = Descarcă { -brand-name-firefox }
