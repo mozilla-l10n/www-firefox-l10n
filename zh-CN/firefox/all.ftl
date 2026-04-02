@@ -75,7 +75,7 @@ firefox-all-product-send-link = 发送下载链接到您的手机
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 为 32 位处理器的——或者较旧或性能较弱的计算机，选择 32 位安装程序，<a href="{ $url }">若您不确定</a>是选择 64 位还是 32 位安装程序，我们建议您下载后者。
 firefox-all-msi-installers = MSI 安装程序
-firefox-all-select-your-preferred-language = 选择您偏好的首选语言
+firefox-all-select-your-preferred-language = 选择您偏好的语言
 firefox-all-learn-about-installers = 详细了解安装程序
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
