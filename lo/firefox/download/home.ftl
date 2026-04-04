@@ -56,7 +56,7 @@ firefox-home-the-internet-can = ອິນເຕີເນັດສາມາດເ
 
 ## Final call-out
 
-firefox-home-billionaire-free = ມະຫາເສດຖີຟຣີເປັນເວລາ 20+ ປີ
+firefox-home-billionaire-free = Billionaire-free ເປັນເວລາ 20+ ກ່ວາປີ
 firefox-home-firefox-was-created = { -brand-name-firefox } ຖືກສ້າງຂື້ນໃນປີ 2004 ໂດຍ { -brand-name-mozilla } ເປັນທາງເລືອກທີ່ໄວກວ່າ, ເປັນສ່ວນຕົວກວ່າ ແລະ ສາມາດປັບແຕ່ງໄດ້ກັບຕົວທ່ອງເວັບເຊັ່ນ Internet Explorer. ມື້ນີ້, ພວກເຮົາຍັງບໍ່ຫວັງຜົນກຳໄລ, ຍັງບໍ່ເປັນຂອງມະຫາເສດຖີຄົນໃດ ແລະ ຍັງເຮັດວຽກເພື່ອສ້າງອິນເຕີເນັດ — ແລະເວລາທີ່ທ່ານໃຊ້ກັບມັນ — ດີກວ່າ.
 
 ## Used as accessible alternative text for images.

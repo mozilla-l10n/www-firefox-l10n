@@ -58,11 +58,11 @@ footer-tiktok = TikTok
 
 ## Legal links
 
-footer-websites-privacy-notice = ປະກາດຄວາມເປັນສ່ວນຕົວຂອງເວັບໄຊທ໌
+footer-websites-privacy-notice = ແຈ້ງການຄວາມເປັນສ່ວນຕົວຂອງເວັບໄຊທ
 footer-terms-of-use = ເງື່ອນໄຂການນໍາໃຊ້
 footer-websites-cookie-policy = ນະໂຍບາຍຄຸກກີ
-footer-community-participation-guidelines = ຂໍ້ແນະນຳການມີສ່ວນຮ່ວມຂອງຊຸມຊົນ
-footer-logo-trademark-licensing = ໃບອະນຸຍາດເຄື່ອງໝາຍການຄ້າໂລໂກ້
+footer-community-participation-guidelines = ຄຳແນະນຳກ່ຽວກັບການມີສ່ວນຮ່ວມຂອງຊຸມຊົນ
+footer-logo-trademark-licensing = ການອອກໃບອະນຸຍາດໂລໂກ້ເຄື່ອງໝາຍການຄ້າ
 
 ## Language Switcher
 
@@ -73,4 +73,4 @@ footer-firefox = { -brand-name-firefox }
 ## Mozilla branding
 
 footer-powdered-by = ຂັບເຄື່ອນໂດຍ { -brand-name-mozilla }
-footer-putting-people = ເອົາຄົນກ່ອນຜົນກຳໄລຕັ້ງແຕ່ປີ 1998
+footer-putting-people = ນັບຕັ້ງແຕ່ປີ 1998, ໄດ້ໃຫ້ຄວາມສຳຄັນກັບຜູ້ໃຊ້ຫຼາຍກ່ອນຜົນກຳໄລ
