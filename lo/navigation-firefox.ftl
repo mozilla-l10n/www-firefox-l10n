@@ -8,7 +8,7 @@ navigation-landmark-label = ສ່ວນຫຼັກ
 
 ## Features
 
-navigation-features = ຄຸນລັກສະນະ
+navigation-features = ຄຸນສົມບັດ
 navigation-close-features-menu = ປິດເມນູຄຸນສົມບັດ
 navigation-top-features = ຄຸນສົມບັດເດັ່ນໆ
 navigation-fingerprint-blocking = ການຂັດຂວາງລາຍນິ້ວມື

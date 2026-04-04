@@ -8,27 +8,27 @@
 
 ## Intro
 
-firefox-home-take-control = ຄວບຄຸມອິນເຕີເນັດຂອງທ່ານ
-firefox-home-go-online = ອອນລາຍດ້ວຍການລົບກວນ, ສຽງລົບກວນ ແລະ ຄວາມກົດດັນໜ້ອຍລົງ. ຄິດວ່າພວກເຮົາເປັນອາກາດສົດທີ່ໃຊ້ຫາຍໃຈ.
+firefox-home-take-control = ຄວບຄຸມອິນເຕີເນັດໃນແບບຂອງທ່ານ
+firefox-home-go-online = ໃຊ້ອອນໄລນ໌ ໂດຍມີສິ່ງລົບກວນ, ຄວາມວຸ້ນວາຍ ແລະ ຄວາມຕຶງຄຽດ ໜ້ອຍລົງ; ໃຫ້ຄິດວ່າຕົວເຮົາເອງເປັນຄືກັບອາກາດທີ່ສົດຊື່ນ.
 firefox-home-set-firefox-as = ຕັ້ງ { -brand-name-firefox } ເປັນຕົວທ່ອງເວັບເລີ່ມຕົ້ນຂອງທ່ານ.
 
 ## What's new
 
 # accessible section heading
 firefox-home-latest-features = ຄຸນສົມບັດຫຼ້າສຸດຂອງ { -brand-name-firefox }
-firefox-home-dial-down = ຫຼຸດສຽງລົບກວນລົງ
-firefox-home-block-ads = ປິດກັ້ນການໂຄສະນາ ແລະ ປັບປຸງຄວາມເປັນສ່ວນຕົວຂອງທ່ານດ້ວຍການຕັ້ງຄ່າທີ່ສາມາດປັບແຕ່ງໄດ້ ແລະ ສ່ວນຂະຫຍາຍທີ່ສາມາດດາວໂຫລດໄດ້.
-firefox-home-multitasking = ເຮັດຫຼາຍວຽກ?
-firefox-home-go-into-reading = ເຂົ້າສູ່ໂໝດການອ່ານ, ປາກົດວິດີໂອ ແລະ ຈັດລະບຽບຫຼາຍຂຶ້ນດ້ວຍແຖບຕັ້ງ ແລະ ກຸ່ມແຖບ.
-firefox-home-keep-tabs-on = ຮັກສາແຖບຢູ່ໃນແຖບທັງຫມົດຂອງທ່ານ
-firefox-home-close-duplicates = ປິດການຊໍ້າກັນ, ຄົ້ນຫາ ແລະ ປັກໝຸດແຖບເປີດ — ມີຄວາມເປັນໄປໄດ້ເກືອບບໍ່ຈຳກັດສຳລັບຈຳນວນແຖບເກືອບບໍ່ຈຳກັດທີ່ທ່ານໄດ້ເປີດ.
+firefox-home-dial-down = ຫຼຸດຄວາມວຸ້ນວາຍໃຫ້ນ້ອຍລົງ
+firefox-home-block-ads = ບລັອກໂຄສະນາ ແລະ ປັບປຸງຄວາມເປັນສ່ວນຕົວຂອງທ່ານດ້ວຍການຕັ້ງຄ່າທີ່ສາມາດປັບແຕ່ງໄດ້ ແລະ Extension ທີ່ສາມາດດາວໂຫຼດໄດ້ຫຼາຍຢ່າງ.
+firefox-home-multitasking = ເຮັດຫຼາຍຢ່າງພ້ອມກັນບໍ?
+firefox-home-go-into-reading = ເຂົ້າສູ່ໂໝດການອ່ານ, ສະແດງວິດີໂອປັອບອັບ, ແລະ ຈັດລະບຽບໃຫ້ດີຂຶ້ນດ້ວຍແຖບຕັ້ງ ແລະ ກຸ່ມແຖບ.
+firefox-home-keep-tabs-on = ຮັກສາແຖບຕ່າງໆໄວ້ໃນແຖບທັງໝົດຂອງທ່ານ
+firefox-home-close-duplicates = ປິດແຖບທີ່ຊໍ້າຊ້ອນ, ຄົ້ນຫາ ແລະ ປັກໝຸດແຖບທີ່ເປີດຢູ່. ມີຄວາມເປັນໄປໄດ້ທີ່ບໍ່ມີທີ່ສິ້ນສຸດສຳລັບຈຳນວນແຖບອັນໃຫຍ່ຫຼວງທີ່ທ່ານເປີດຢູ່.
 firefox-home-see-release = ເບິ່ງບັນທຶກການປ່ອຍ
 
 ## Features
 
-firefox-home-get-the-browser = ເອົາຕົວທ່ອງເວັບທີ່ຊ່ວຍໃຫ້ທ່ານເຮັດວຽກສໍາເລັດ
+firefox-home-get-the-browser = ເລືອກໂປຣແກຣມທ່ອງເວັບທີ່ຊ່ວຍໃຫ້ທ່ານເຮັດວຽກໄດ້ສຳເລັດລຸລ່ວງ
 firefox-home-block-ad-trackers = ບລັອກຕົວຕິດຕາມໂຄສະນາໂດຍບໍ່ຕ້ອງຍົກນິ້ວມືຂຶ້ນແມ້ແຕ່ນີ້ວດຽວ.
-firefox-home-ad-trackers-make = ຕົວຕິດຕາມການໂຄສະນາເຮັດໃຫ້ຫນ້າເວັບໂຫຼດຊ້າລົງ. ດ້ວຍ { -brand-name-firefox }, ທ່ານຈະບໍ່ຕ້ອງເຂົ້າໄປເບິ່ງໃນການຕັ້ງຄ່າເພື່ອແກ້ໄຂມັນ, ເພາະວ່າພວກເຮົາປິດກັ້ນຕົວຕິດຕາມສ່ວນໃຫຍ່ໂດຍອັດຕະໂນມັດ.
+firefox-home-ad-trackers-make = ຕົວຕິດຕາມໂຄສະນາເຮັດໃຫ້ການໂຫຼດໜ້າເວັບຊ້າລົງ. ໃນ { -brand-name-firefox }, ທ່ານບໍ່ຈຳເປັນຕ້ອງໄປຄົ້ນຫາໃນການຕັ້ງຄ່າເພື່ອແກ້ໄຂບັນຫານີ້, ເພາະວ່າພວກເຮົາໄດ້ບລັອກຕົວຕິດຕາມສ່ວນໃຫຍ່ໂດຍອັດຕະໂນມັດ.
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = ປະຕິເສດສິ່ງລົບກວນ
 # Variables
