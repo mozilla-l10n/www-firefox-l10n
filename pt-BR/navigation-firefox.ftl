@@ -19,6 +19,7 @@ navigation-ad-tracker-blocking = Bloqueio de rastreadores de anúncios
 navigation-private-browsing = Modo de navegação privativa
 navigation-password-manager = Gerenciador de senhas gratuito
 navigation-features-all = Veja todos os recursos do { -brand-name-firefox }
+navigation-about-firefox-features = Informações sobre recursos do { -brand-name-firefox }
 
 ## Resources
 
@@ -35,10 +36,15 @@ navigation-add-ons = Extensões
 navigation-all-downloads = Todos os downloads
 navigation-learn = Aprender
 navigation-blog = Blog
+navigation-newsletter = Boletim informativo
 navigation-compare = Comparar
 navigation-podcast = Podcast
 navigation-data-protection = Proteção de dados
+navigation-protection = Proteção
+navigation-control = Controle
+navigation-focus = Foco
 
 ## Download
 
 navigation-download = Baixar
+navigation-download-firefox = Baixe o { -brand-name-firefox }
