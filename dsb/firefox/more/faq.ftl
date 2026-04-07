@@ -65,6 +65,9 @@ does-firefox-have = Ma { -brand-name-firefox } zatwarjony VPN?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } zatwarjony VPN (virtual private network „wirtuelna priwatna seś“) njama, ale  { -brand-name-mozilla } produkt z mjenim <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> napórajo, kótaryž móžośo pśidatnje k priwatnemu { -brand-name-firefox-browser } wužywaś, kótaryž waš zwisk we WLAN ako teke wašu IP-adresu šćita.
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-have-vpn = { -brand-name-firefox } dermotny, zatwarjony VPN wopśimujo, kótaryž wašu IP-adresu pśeśiwo pśeslědowanjeju šćita, mjaztym až pśeglědujośo. Zmóžniśo jen w { -brand-name-firefox } z jadnučkim kliknjenim. K dispoziciji we wubranych markach. Za šćit cełego rěda pśez wšykne waše rědy a nałoženja testujśo <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>.
 who-owns-firefox = Komu { -brand-name-firefox } słuša?
 
 # Variables:
