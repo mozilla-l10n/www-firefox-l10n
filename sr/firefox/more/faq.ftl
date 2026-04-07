@@ -65,6 +65,9 @@ does-firefox-have = Да ли { -brand-name-firefox } има уграђени VP
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } нема уграђен VPN (виртуелну приватну мрежу), али { -brand-name-mozilla } има <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> који можете да користите уз приватни { -brand-name-firefox-browser } да заштитите вашу Wi-Fi везу, као и IP адресу.
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-have-vpn = { -brand-name-firefox } укључује бесплатан, уграђени VPN који штити вашу IP адресу од праћења док прегледате веб. Укључите га у { -brand-name-firefox }-у једним кликом. Доступно на одабраним тржиштима. За потпуну заштиту уређаја на свим вашим уређајима и апликацијама, погледајте <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>.
 who-owns-firefox = Чији је { -brand-name-firefox }?
 
 # Variables:
