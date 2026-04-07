@@ -67,7 +67,7 @@ does-firefox-have = { -brand-name-firefox } 內建 VPN 嗎？
 firefox-does-not-v2 = { -brand-name-firefox } 沒有內建 VPN（虛擬私人網路），但 { -brand-name-mozilla } 有提供 <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> 這套產品，讓您可以搭配能保護隱私的 { -brand-name-firefox-browser }使用，以保護您的 Wi-Fi 連線以及 IP 地址。
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
-firefox-does-have-vpn = { -brand-name-firefox } 包含免費的內建 VPN 可保護您的 IP 地址在您上網時不被追踪。 { -brand-name-firefox } 只要滑鼠一點即可開啟。於部分市場推出。若想在您的所有裝置與應用程式中進行全方位保護請參考 <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>。
+firefox-does-have-vpn = { -brand-name-firefox } 內建免費 VPN，保護您的 IP 位置在不被追蹤。只要在 { -brand-name-firefox } 輕鬆一點即可開啟。只在部分市場推出。若需對您的所有裝置與應用程式進行全方位保護，請使用 <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>。
 who-owns-firefox = 誰擁有 { -brand-name-firefox }？
 
 # Variables:
