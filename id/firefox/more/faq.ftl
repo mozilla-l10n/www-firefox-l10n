@@ -31,7 +31,6 @@ you-can-easily = Anda dapat dengan mudah mengunduh peramban desktop { -brand-nam
 
 is-firefox-free = Apakah { -brand-name-firefox } gratis?
 yep-the-firefox-browser-is-free = Iya! { -brand-name-firefox-browser } itu gratis. Sebenarnya sangat gratis. Tanpa ada biaya tersembunyi atau apa pun. Anda tidak perlu membayar apa pun untuk menggunakannya.
-related-questions-free = Pertanyaan terkait: apakah { -brand-name-firefox-browser } gratis, apakah { -brand-name-firefox } dikenakan biaya
 
 is-chrome-better = Apakah { -brand-name-chrome } lebih baik dari { -brand-name-firefox }?
 no-we-dont = Tidak, menurut kami { -brand-name-chrome } tidak lebih baik dari { -brand-name-firefox }, dan inilah alasannya: ketika orang bertanya peramban mana yang lebih baik, mereka sebenarnya menanyakan peramban mana yang lebih cepat dan aman. { -brand-name-firefox } diperbarui setiap bulan untuk memastikan Anda memiliki peramban tercepat yang menghargai privasi Anda secara otomatis.
@@ -41,7 +40,6 @@ no-we-dont = Tidak, menurut kami { -brand-name-chrome } tidak lebih baik dari { 
 
 see-how-firefox = <a href="{ $url }">Lihat bagaimana { -brand-name-firefox } dibandingkan dengan { -brand-name-chrome }.</a>
 
-related-questions-better = Pertanyaan terkait: apakah { -brand-name-firefox } lebih baik daripada { -brand-name-chrome }, apakah { -brand-name-firefox } lebih baik daripada { -brand-name-google }, apakah { -brand-name-firefox } lebih aman daripada { -brand-name-chrome }, apakah { -brand-name-firefox } lebih privat daripada { -brand-name-chrome }
 is-firefox-safe-download = Apakah { -brand-name-firefox } aman untuk diunduh?
 
 # Variables:
@@ -56,7 +54,6 @@ is-firefox-safe = Apakah { -brand-name-firefox } aman?
 
 not-only-is = { -brand-name-firefox } tidak hanya aman digunakan, ia juga membantu menjaga data dan informasi pribadi Anda tetap aman. { -brand-name-firefox-browser } secara otomatis memblokir pelacak pihak ketiga yang dikenal, pelacak media sosial, penambang kripto, dan pengumpul sidik jari agar tidak mengumpulkan data Anda. <a href="{ $url }">Pelajari lebih lanjut mengenai privasi di produk kami.</a>
 
-related-questions-safe = Pertanyaan terkait: apakah { -brand-name-firefox } bagus untuk privasi, apakah { -brand-name-firefox } aman, apakah { -brand-name-firefox } lebih baik untuk privasi
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -80,7 +77,7 @@ does-firefox-have = Apakah { -brand-name-firefox } memiliki VPN bawaan?
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } tidak memiliki VPN bawaan (jaringan pribadi virtual), tetapi { -brand-name-mozilla } membuat produk yang bernama <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> yang dapat Anda gunakan sebagai tambahan ke { -brand-name-firefox-browser } pribadi yang dapat melindungi koneksi Anda di Wi-Fi, serta alamat IP Anda.
 
-related-questions-ip = Pertanyaan terkait: apakah { -brand-name-firefox } menyembunyikan alamat IP Anda
+
 
 who-owns-firefox = Siapa pemilik { -brand-name-firefox }?
 
@@ -89,5 +86,3 @@ who-owns-firefox = Siapa pemilik { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } dibuat oleh { -brand-name-mozilla-corporation }, anak perusahaan yang sepenuhnya dimiliki oleh nirlaba <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> dan dipandu oleh prinsip Manifesto { -brand-name-mozilla }. Pelajari lebih lanjut mengenai pembuat { -brand-name-firefox } <a href="{ $url2 }">di sini.</a>
-
-related-questions-who = Pertanyaan terkait: siapakah yang memiliki { -brand-name-firefox }, siapa pemilik { -brand-name-firefox-browser }, apakah { -brand-name-firefox } dimiliki oleh { -brand-name-google }, apakah { -brand-name-mozilla } { -brand-name-firefox } dimiliki oleh { -brand-name-google }
