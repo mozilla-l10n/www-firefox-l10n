@@ -28,7 +28,6 @@ how-do-i = 要如何安裝 { -brand-name-firefox-browser }？
 you-can-easily = 您可以<a href="{ $url }">在此</a>很簡單就下載到 { -brand-name-firefox } 桌面版瀏覽器。{ -brand-name-firefox } 可在 <a href="{ $url2 }">{ -brand-name-windows }</a>、<a href="{ $url3 }">{ -brand-name-mac-short }</a> 及 <a href="{ $url4 }">{ -brand-name-linux }</a> 平台使用，並且也有 <a href="{ $url5 }">{ -brand-name-android } 及 { -brand-name-ios } 的對應版本</a>。下載前，請確定您是從可靠的 { -brand-name-mozilla }/{ -brand-name-firefox } 網站下載我們的瀏覽器。
 is-firefox-free = { -brand-name-firefox } 要收費嗎？
 yep-the-firefox-browser-is-free = 對！{ -brand-name-firefox-browser }是免費的。超級免費又自由、沒有任何隱藏成本，不用支付任何費用即可使用。
-related-questions-free = 相關問題：{ -brand-name-firefox-browser }要收費嗎？、{ -brand-name-firefox } 要付錢嗎？
 is-chrome-better = { -brand-name-chrome } 比 { -brand-name-firefox } 還好嗎？
 no-we-dont = 不，我們不覺得 { -brand-name-chrome } 有比 { -brand-name-firefox } 好。這是因為：當人們在問哪套瀏覽器「比較好」的時候，實際上是在問哪套瀏覽器更快、更安全。{ -brand-name-firefox } 每月都會推出更新，確保讓您能總是使用到最快、又最能尊重您隱私的瀏覽器。
 
@@ -36,7 +35,6 @@ no-we-dont = 不，我們不覺得 { -brand-name-chrome } 有比 { -brand-name-f
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">看看 { -brand-name-firefox } 與 { -brand-name-chrome } 有什麼不同。</a>
-related-questions-better = 相關問題：{ -brand-name-firefox } 比 { -brand-name-chrome } 還好嗎？、{ -brand-name-firefox } 比 { -brand-name-google } 好嗎？、{ -brand-name-firefox } 比 { -brand-name-chrome } 安全嗎？、{ -brand-name-firefox } 比 { -brand-name-chrome } 更有隱私嗎？
 is-firefox-safe-download = 下載 { -brand-name-firefox } 安全嗎？
 
 # Variables:
@@ -49,7 +47,6 @@ is-firefox-safe = { -brand-name-firefox } 用起來安全嗎？
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = 除了 { -brand-name-firefox } 用起來很安全之外，也能幫助您確保個人資料、隱私資訊的安全。{ -brand-name-firefox-browser }會自動封鎖已知的第三方追蹤器、社交網路追蹤器、加密貨幣採礦程式、數位指紋追蹤程式來收集您的資料。<a href="{ $url }">了解我們的產品當中的隱私權的更多資訊。</a>
-related-questions-safe = 相關問題：{ -brand-name-firefox } 對保護隱私權做得好嗎？、{ -brand-name-firefox } 安全嗎？、{ -brand-name-firefox } 對保護隱私權做得更好嗎？
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -68,7 +65,6 @@ does-firefox-have = { -brand-name-firefox } 內建 VPN 嗎？
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } 沒有內建 VPN（虛擬私人網路），但 { -brand-name-mozilla } 有提供 <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> 這套產品，讓您可以搭配能保護隱私的 { -brand-name-firefox-browser }使用，以保護您的 Wi-Fi 連線以及 IP 地址。
-related-questions-ip = 相關問題：{ -brand-name-firefox } 會隱藏您的 IP 地址嗎？
 who-owns-firefox = 誰擁有 { -brand-name-firefox }？
 
 # Variables:
@@ -76,4 +72,3 @@ who-owns-firefox = 誰擁有 { -brand-name-firefox }？
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } 是由非營利組織 <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> 的全資子公司 { -brand-name-mozilla-corporation } 打造，並且遵循 { -brand-name-mozilla } Manifesto 的宣言內容運轉。您可以<a href="{ $url2 }">在此</a>更加了解 { -brand-name-firefox } 的開發者。
-related-questions-who = 相關問題：誰擁有 { -brand-name-firefox }？、誰擁有 { -brand-name-firefox-browser }？、{ -brand-name-google } 擁有 { -brand-name-firefox } 嗎？、{ -brand-name-google } 擁有 { -brand-name-mozilla } { -brand-name-firefox } 嗎？

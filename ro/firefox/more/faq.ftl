@@ -28,7 +28,6 @@ how-do-i = Cum obțin { -brand-name-firefox-browser }?
 you-can-easily = Poți descărca ușor browserul { -brand-name-firefox } pentru desktop de <a href="{ $url }">aici.</a> { -brand-name-firefox } merge pe dispozitive <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> și <a href="{ $url4 }">{ -brand-name-linux }</a> și este disponibil și pentru <a href="{ $url5 }">{ -brand-name-android } și { -brand-name-ios }.</a> Asigură-te că ne descarci browserul de pe una dintre paginile noastre de încredere { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = { -brand-name-firefox } e gratuit?
 yep-the-firefox-browser-is-free = Da! Browserul { -brand-name-firefox-browser } este gratuit. Super gratuit, de fapt. Fără costuri ascunse sau altceva. Nu plătești nimic pentru a-l utiliza.
-related-questions-free = Întrebări similare: este { -brand-name-firefox-browser } gratuit, costă { -brand-name-firefox }
 is-chrome-better = Este { -brand-name-chrome } mai bun decât { -brand-name-firefox }?
 no-we-dont = Nu, nu credem că { -brand-name-chrome } este mai bun decât { -brand-name-firefox } și iată de ce: când oamenii întreabă care browser este mai bun, de fapt întreabă care browser este mai rapid și mai sigur. { -brand-name-firefox } este actualizat lunar pentru a te asigura că ai cel mai rapid browser care îți respectă automat confidențialitatea.
 
@@ -36,7 +35,6 @@ no-we-dont = Nu, nu credem că { -brand-name-chrome } este mai bun decât { -bra
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Vezi cum se compară { -brand-name-firefox } cu { -brand-name-chrome }.</a>
-related-questions-better = Întrebări similare: este { -brand-name-firefox } mai bun decât { -brand-name-chrome }, este { -brand-name-firefox } mai bun decât { -brand-name-google }, este { -brand-name-firefox } mai sigur decât { -brand-name-chrome }, este { -brand-name-firefox } mai confidențial decât { -brand-name-chrome }
 is-firefox-safe-download = Este { -brand-name-firefox } sigur de descărcat?
 
 # Variables:
@@ -49,7 +47,6 @@ is-firefox-safe = Este { -brand-name-firefox } sigur?
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox } nu este doar sigur de utilizat, ci ajută și la păstrarea în siguranță a datelor și informațiilor private. { -brand-name-firefox-browser } blochează automat elementele de urmărire terțe cunoscute, elementele de urmărire de pe rețelele de socializare, criptominerii și detectoarele de amprente digitale și le împiedică să îți colecteze datele. <a href="{ $url }">Află mai multe despre confidențialitatea din produsele noastre.</a>
-related-questions-safe = Întrebări similare: este { -brand-name-firefox } bun pentru confidențialitate, este { -brand-name-firefox } sigur, este { -brand-name-firefox } mai bun pentru confidențialitate
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -68,7 +65,6 @@ does-firefox-have = { -brand-name-firefox } are VPN încorporat?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } nu are VPN (rețea privată virtuală) încorporat, dar { -brand-name-mozilla } creează un produs numit <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> pe care îl poți utiliza pe lângă browserul privat { -brand-name-firefox-browser }, care îți poate proteja conexiunea prin Wi-Fi, precum și adresa IP.
-related-questions-ip = Întrebări similare: { -brand-name-firefox } îți ascunde adresa IP
 who-owns-firefox = Cine deține { -brand-name-firefox }?
 
 # Variables:
@@ -76,4 +72,3 @@ who-owns-firefox = Cine deține { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } este creat de { -brand-name-mozilla-corporation }, o filială deținută integral de organizația non-profit <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> și este ghidat de principiile Manifestului { -brand-name-mozilla }. Află mai multe despre creatorul { -brand-name-firefox } <a href="{ $url2 }">aici.</a>
-related-questions-who = Întrebări similare: de cine este deținut { -brand-name-firefox }, cine deține { -brand-name-firefox-browser }, este { -brand-name-firefox } deținut de { -brand-name-google }, este { -brand-name-mozilla } { -brand-name-firefox } deținut de { -brand-name-google }

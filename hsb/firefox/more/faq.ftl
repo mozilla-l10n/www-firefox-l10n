@@ -28,7 +28,6 @@ how-do-i = Kak móžu sej { -brand-name-firefox-browser } wobstarać?
 you-can-easily = Móžeće desktopowy wobhladowak { -brand-name-firefox } <a href="{ $url }">tu</a> lochko sćahnyć. { -brand-name-firefox } na gratach <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> a <a href="{ $url4 }">{ -brand-name-linux }</a> funguje, a je tež za <a href="{ $url5 }">{ -brand-name-android } a { -brand-name-ios } k dispoziciji.</a> Zawěsćće, zo naš wobhladowak wot jedneje z našich dowěry hódnych stronow { -brand-name-mozilla }/{ -brand-name-firefox } sćahujeće.
 is-firefox-free = Je { -brand-name-firefox } darmotny?
 yep-the-firefox-browser-is-free = Haj! { -brand-name-firefox-browser } je darmotny. Samo wjace hač darmotny. Žane schowane košty abo tak. Njetrjebaće ničo płaćić, zo byšće jón wužiwał.
-related-questions-free = Podobne prašenja: Je { -brand-name-firefox-browser } darmotny, płaći { -brand-name-firefox } pjenjezy
 is-chrome-better = Je { -brand-name-chrome } lěpši hač { -brand-name-firefox }?
 no-we-dont = Ně, njemyslimy sej, zo { -brand-name-chrome } je lěpši hač { -brand-name-firefox } a tole je přičina: Hdyž ludźo so prašeja, kotry wobhladowak je lěpši, prašeja so poprawom, kotry wobhladowak je spěšniši a wěsćiši. { -brand-name-firefox } so kóždy měsac aktualizuje, zo byšće zawěsćił, zo maće najspěšniši wobhladowak, kotryž wašu priwatnosć awtomatisce respektuje.
 
@@ -36,7 +35,6 @@ no-we-dont = Ně, njemyslimy sej, zo { -brand-name-chrome } je lěpši hač { -b
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Hladajće, kak { -brand-name-firefox } porno { -brand-name-chrome } wotrězuje.</a>
-related-questions-better = Podobne prašenja: Je { -brand-name-firefox } lěpši hač { -brand-name-chrome }, je { -brand-name-firefox } lěpši hač { -brand-name-google }, je { -brand-name-firefox } wěsćiši hač { -brand-name-chrome }, je { -brand-name-firefox } priwatniši hač { -brand-name-chrome }
 is-firefox-safe-download = Da so { -brand-name-firefox } wěsće sćahnyć?
 
 # Variables:
@@ -49,7 +47,6 @@ is-firefox-safe = Je { -brand-name-firefox } wěsty?
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox } njeje jenož wěsće wužiwajomny, ale tež pomha, waše a priwatne informacije wěste dźeržeć. { -brand-name-firefox-browser } awtomatisce znate přesćěhowaki třećich poskićowarjow, přesćěhowaki  socialnych medijow, kryptokopaki a hromadźaki porstowych wotćišćow při hromadźenju datow haći. <a href="{ $url }">Zhońće wjace wo priwatnosći w našich produktach.</a>
-related-questions-safe = Podobne prašenja: Je { -brand-name-firefox } dobry za priwatnosć, je { -brand-name-firefox } wěsty, je { -brand-name-firefox } lěpši za priwatnosć
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -68,7 +65,6 @@ does-firefox-have = Ma { -brand-name-firefox } zatwarjeny VPN?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } zatwarjeny VPN (virtual private network „wirtuelna priwatna syć“) nima, ale  { -brand-name-mozilla } produkt z mjenom <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> wutworja, kotryž móžeće přidatnje k priwatnemu { -brand-name-firefox-browser } wužiwać, kotryž waš zwisk we WLAN kaž tež wašu IP-adresu škita.
-related-questions-ip = Podobne prašenja: Chowa { -brand-name-firefox } wašu IP-adresu
 who-owns-firefox = Komu { -brand-name-firefox } słuša?
 
 # Variables:
@@ -76,4 +72,3 @@ who-owns-firefox = Komu { -brand-name-firefox } słuša?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } so wot { -brand-name-mozilla-corporation } wuwiwa, stoprocentoweje wotnožki towarstwa powšitkownosći wužitneje załožby <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> a wjedźe so po zasadach manifesta { -brand-name-mozilla }. Zhońće <a href="{ $url2 }">tu</a> wjace wo wuwiwarju { -brand-name-firefox }.
-related-questions-who = Podobne prašenja: Komu { -brand-name-firefox } słuša, komu { -brand-name-firefox-browser } słuša, słuša { -brand-name-firefox } { -brand-name-google }, słuša { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-google }

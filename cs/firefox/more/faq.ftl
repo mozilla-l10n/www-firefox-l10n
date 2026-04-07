@@ -28,7 +28,6 @@ how-do-i = Jak získám { -brand-name-firefox-browser(case: "acc", capitalizatio
 you-can-easily = Prohlížeč { -brand-name-firefox } pro počítače si můžete snadno stáhnout <a href="{ $url }">zde</a>. { -brand-name-firefox } funguje na zařízeních se systémy <a href="{ $url2 }">{ -brand-name-windows }</a>, <a href="{ $url3 }">{ -brand-name-mac-short }</a> a <a href="{ $url4 }">{ -brand-name-linux }</a> a je k dispozici také pro <a href="{ $url5 }">{ -brand-name-android } a { -brand-name-ios }</a>. Vždy se prosím ujistěte, že si náš prohlížeč stahujete z našich webových stránek, tj. ze stránek { -brand-name-mozilla(case: "gen") }.
 is-firefox-free = Je { -brand-name-firefox } zdarma?
 yep-the-firefox-browser-is-free = Ano! { -brand-name-firefox-browser } je zdarma. Vlastně úplně zdarma. Žádné skryté náklady nebo tak něco. Za používání nic neplatíte.
-related-questions-free = A s tím souvisí: je { -brand-name-firefox-browser(case: "nom", capitalization: "lower") } zdarma, nebo se za { -brand-name-firefox(case: "acc") } něco platí?
 is-chrome-better = Je { -brand-name-chrome } lepší než { -brand-name-firefox }?
 no-we-dont = Nemyslíme si, že by byl { -brand-name-chrome } lepší než { -brand-name-firefox }, protože když se lidé ptají, který prohlížeč je rychlejší, většinou jim záleží na rychlosti a bezpečnosti. { -brand-name-firefox } aktualizujeme každý měsíc, abychom zajistili, že máte k dispozici vždy ten nejrychlejší prohlížeč, který bude respektovat vaše soukromí.
 
@@ -36,7 +35,6 @@ no-we-dont = Nemyslíme si, že by byl { -brand-name-chrome } lepší než { -br
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = Podívejte se na <a href="{ $url }">porovnání { -brand-name-firefox(case: "gen") } s { -brand-name-chrome(case: "ins") }</a>.
-related-questions-better = A s tím souvisí: je { -brand-name-firefox } lepší než { -brand-name-chrome }, je { -brand-name-firefox } lepší než { -brand-name-google }, je { -brand-name-firefox } bezpečnější než { -brand-name-chrome }, je { -brand-name-firefox } lepší než { -brand-name-chrome } s ohledem na soukromí?
 is-firefox-safe-download = Je bezpečné si { -brand-name-firefox(case: "acc") } stáhnout?
 
 # Variables:
@@ -49,7 +47,6 @@ is-firefox-safe = Je { -brand-name-firefox } bezpečný?
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = Nejen, že je { -brand-name-firefox } bezpečný, ale také pomáhá udržovat v bezpečí vaše data a soukromé informace. { -brand-name-firefox-browser } automaticky blokuje známé sledovací prvky třetích stran, sledovací prvky sociálních sítí a skripty pro těžbu kryptoměny a pro vytváření otisku prohlížeče, aby neshromažďovaly vaše údaje. <a href="{ $url }">Zjistěte více o ochraně soukromí v našich produktech.</a>
-related-questions-safe = A s tím souvisí: je { -brand-name-firefox } vhodný s ohledem na soukromí, je { -brand-name-firefox } bezpečný?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -68,7 +65,6 @@ does-firefox-have = Má { -brand-name-firefox } vestavěnou VPN?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } neobsahuje zabudovanou VPN (virtuální privátní síť), ale { -brand-name-mozilla } vytváří produkt s názvem <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, který můžete použít jako doplněk k soukromému { -brand-name-firefox-browser(case: "dat", capitalization: "lower") } , který může chránit vaše připojení na Wi-Fi, stejně jako vaši IP adresu.
-related-questions-ip = A s tím souvisí: skryje { -brand-name-firefox } mou IP adresu?
 who-owns-firefox = Kdo vlastní { -brand-name-firefox(case: "acc") }?
 
 # Variables:
@@ -76,4 +72,3 @@ who-owns-firefox = Kdo vlastní { -brand-name-firefox(case: "acc") }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox(case: "acc") } vyvíjí { -brand-name-mozilla-corporation }, dceřiná společnost neziskové organizace <a href="{ $url }">{ -brand-name-mozilla-foundation }</a>, a řídí se zásadami Manifestu { -brand-name-mozilla(case: "gen") }. Více se o tvůrci { -brand-name-firefox(case: "gen") } dozvíte <a href="{ $url2 }">zde</a>.
-related-questions-who = A s tím souvisí: kdo je vlastníkem { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }, patří { -brand-name-firefox } { -brand-name-google(case: "dat") }, patří { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-google(case: "dat") }?

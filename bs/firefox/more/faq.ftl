@@ -28,7 +28,6 @@ how-do-i = Kako da dobijem { -brand-name-firefox-browser }?
 you-can-easily = Možete lahko preuzeti { -brand-name-firefox } desktop pretraživač <a href="{ $url }">ovdje.</a> { -brand-name-firefox } radi na <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> i <a href="{ $url4 }">{ -brand-name-linux }</a> uređajima, a dostupan je i za <a href="{ $url5 }">{ -brand-name-android } i { -brand-name-ios } .</a> Pobrinite se da preuzimate naš pretraživač sa jedne od naših pouzdanih { -brand-name-mozilla }/{ -brand-name-firefox } stranica.
 is-firefox-free = Je li { -brand-name-firefox } besplatan?
 yep-the-firefox-browser-is-free = Yep! { -brand-name-firefox-browser } je besplatan. Super besplatno, zapravo. Bez skrivenih troškova ili bilo čega. Ne plaćate ništa da biste ga koristili.
-related-questions-free = Povezana pitanja: da li je { -brand-name-firefox-browser } besplatan, da li { -brand-name-firefox } košta nešto novca
 is-chrome-better = Je li { -brand-name-chrome } bolji od { -brand-name-firefox }?
 no-we-dont = Ne, ne mislimo da je { -brand-name-chrome } bolji od { -brand-name-firefox }, a evo zašto: kada ljudi pitaju koji je pretraživač bolji, oni se zaista pitaju koji je pretraživač brži i sigurniji. { -brand-name-firefox } se ažurira mjesečno kako bi se osiguralo da imate najbrži pretraživač koji automatski poštuje vašu privatnost.
 
@@ -36,7 +35,6 @@ no-we-dont = Ne, ne mislimo da je { -brand-name-chrome } bolji od { -brand-name-
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Pogledajte kako { -brand-name-firefox } u poređenju sa { -brand-name-chrome }om.</a>
-related-questions-better = Povezana pitanja: je li { -brand-name-firefox } bolji od { -brand-name-chrome }, je li { -brand-name-firefox } bolji od { -brand-name-google }, je { -brand-name-firefox } sigurniji od { -brand-name-chrome }, je { -brand-name-firefox } privatniji od { -brand-name-chrome }
 is-firefox-safe-download = Da li je { -brand-name-firefox } siguran za preuzimanje?
 
 # Variables:
@@ -49,7 +47,6 @@ is-firefox-safe = Je li { -brand-name-firefox } siguran?
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = Ne samo da je { -brand-name-firefox } siguran za upotrebu, već pomaže da vaši podaci i privatne informacije budu sigurni. { -brand-name-firefox-browser } automatski blokira prikupljanje vaših podataka poznatih trećih strana, tragača društvenih medija, kripto rudara i otisaka prstiju. <a href="{ $url }">Saznajte više o privatnosti u našim proizvodima.</a>
-related-questions-safe = Povezana pitanja: je li { -brand-name-firefox } dobar za privatnost, je li { -brand-name-firefox } siguran, je li { -brand-name-firefox } bolji za privatnost
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -68,7 +65,6 @@ does-firefox-have = Da li { -brand-name-firefox } ima ugrađeni VPN?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } nema ugrađeni VPN (virtuelna privatna mreža), ali { -brand-name-mozilla } kreira proizvod pod nazivom <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> koji možete koristiti kao dodatak privatnom { -brand-name-firefox-browser } koji može zaštititi vašu vezu na Wi-Fi, kao i vašu IP adresu.
-related-questions-ip = Povezana pitanja: da li { -brand-name-firefox } sakriva vašu IP adresu
 who-owns-firefox = Ko posjeduje { -brand-name-firefox }?
 
 # Variables:
@@ -76,4 +72,3 @@ who-owns-firefox = Ko posjeduje { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } je napravila { -brand-name-mozilla-corporation }, podružnica u potpunom vlasništvu neprofitne <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> i vođen je principima manifesta { -brand-name-mozilla }. Saznajte više o proizvođaču { -brand-name-firefox }a <a href="{ $url2 }">ovdje.</a>
-related-questions-who = Povezana pitanja: ko je vlasnik { -brand-name-firefox }a, ko posjeduje { -brand-name-firefox-browser }, je li { -brand-name-firefox } u vlasništvu { -brand-name-google }a, je li { -brand-name-mozilla } { -brand-name-firefox } u vlasništvu { -brand-name-google }a

@@ -28,7 +28,6 @@ how-do-i = Hogyan szerezhetem be a { -brand-name-firefox-browser }t?
 you-can-easily = <a href="{ $url }">Innen</a> könnyedén letöltheti az asztali { -brand-name-firefox } böngészőt. A { -brand-name-firefox } működik a <a href="{ $url2 }">{ -brand-name-windows }t,</a> <a href="{ $url3 }">{ -brand-name-mac-short }et</a> és <a href="{ $url4 }">{ -brand-name-linux }ot</a> futtató eszközökön, de elérhető <a href="{ $url5 }">{ -brand-name-android }ra és { -brand-name-ios }-re</a> is. Győződjön meg róla, hogy a { -brand-name-mozilla } / { -brand-name-firefox } egyik megbízható oldaláról tölti le.
 is-firefox-free = A { -brand-name-firefox } ingyenes?
 yep-the-firefox-browser-is-free = Igen! A { -brand-name-firefox-browser } ingyenes. Teljesen ingyenes. Nincsenek rejtett költségek vagy egyebek. Nem fizet semmit a használatáért.
-related-questions-free = Kapcsolódó kérdések: a { -brand-name-firefox-browser } ingyenes, pénzbe kerül-e a { -brand-name-firefox }
 is-chrome-better = A { -brand-name-chrome } jobb, mint a { -brand-name-firefox }?
 no-we-dont = Nem, nem gondoljuk, hogy a { -brand-name-chrome } jobb lenne, mint a { -brand-name-firefox }, és ennek ez az oka: amikor az emberek azt kérdezik, hogy melyik böngésző a jobb, arra kíváncsiak, hogy melyik böngésző gyorsabb és biztonságosabb. A { -brand-name-firefox } havonta frissül, hogy biztosan a leggyorsabb böngészője legyen, amely automatikusan tiszteletben tartja a magánszféráját.
 
@@ -36,7 +35,6 @@ no-we-dont = Nem, nem gondoljuk, hogy a { -brand-name-chrome } jobb lenne, mint 
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Nézze meg, hogy a { -brand-name-firefox } hogy áll a { -brand-name-chrome }-hoz képest.</a>
-related-questions-better = Kapcsolódó kérdések: a { -brand-name-firefox } jobb-e, mint a { -brand-name-chrome }; a { -brand-name-firefox } jobb-e, mint a { -brand-name-google };a { -brand-name-firefox } biztonságosabb-e, mint a { -brand-name-chrome }; a { -brand-name-firefox } privátabb-e, mint a { -brand-name-chrome }
 is-firefox-safe-download = Biztonságos a { -brand-name-firefox } letöltése?
 
 # Variables:
@@ -49,7 +47,6 @@ is-firefox-safe = A { -brand-name-firefox } biztonságos?
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = A { -brand-name-firefox } nem csak biztonságosan használható, de biztonságban tartja az adatait és a privát információit. A { -brand-name-firefox-browser } automatikusan blokkolja az ismert harmadik féltől származó nyomkövetők, közösségimédia-követők, kriptobányászok és ujjlenyomat-készítők adatgyűjtését. <a href="{ $url }">Tudjon meg többet a termékeink adatvédelméről.</a>
-related-questions-safe = Kapcsolódó kérdések: a { -brand-name-firefox } jó-e az adatvédelem szempontjából; biztonságos-e a { -brand-name-firefox }; adatvédelmi szempontból jobb-e a { -brand-name-firefox }
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -68,7 +65,6 @@ does-firefox-have = A { -brand-name-firefox } rendelkezik beépített VPN-nel?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = A { -brand-name-firefox } nem rendelkezik beépített VPN-nel (virtuális magánhálózattal), de a { -brand-name-mozilla } létrehozta a <a href="{ $url }">{ -brand-name-mozilla-vpn }-t</a>, amelyet a privát { -brand-name-firefox-browser } mellett használhat, és megvédi a WiFi-kapcsolatát, valamint az IP-címét is.
-related-questions-ip = Kapcsolódó kérdések: a { -brand-name-firefox } elrejti-e az IP-címét
 who-owns-firefox = Kié a { -brand-name-firefox }?
 
 # Variables:
@@ -76,4 +72,3 @@ who-owns-firefox = Kié a { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = A { -brand-name-firefox(case: "accusative") } a { -brand-name-mozilla-corporation } készíti, amely a nonprofit <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> teljes tulajdonú leányvállalata, és a { -brand-name-mozilla } kiáltvány irányelvei vezérlik. Tudjon meg többet a { -brand-name-firefox } gyártójáról <a href="{ $url2 }">itt.</a>
-related-questions-who = Kapcsolódó kérdések: ki a { -brand-name-firefox } tulajdonosa; ki a { -brand-name-firefox-browser } tulajdonosa; a{ -brand-name-google }-e a { -brand-name-firefox } tulajdonosa; a { -brand-name-google }-e a { -brand-name-mozilla } { -brand-name-firefox } tulajdonosa

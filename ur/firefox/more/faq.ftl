@@ -46,7 +46,6 @@ why-is-firefox = { -brand-name-firefox } سست کیوں ہے؟
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
-related-questions-ip = متعلقہ سوالات: کی { -brand-name-firefox }  آپ کا IP پتہ چھپاتا ہے؟
 who-owns-firefox = { -brand-name-firefox } کا مالک کون ہے؟
 
 # Variables:

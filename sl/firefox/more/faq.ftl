@@ -28,7 +28,6 @@ how-do-i = Kako dobim { -brand-name-firefox-browser(sklon: "tozilnik") }?
 you-can-easily = Brskalnik { -brand-name-firefox } za namizne računalnike lahko prenesete <a href="{ $url }">tukaj.</a> { -brand-name-firefox } deluje na napravah s sistemom <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> ali <a href="{ $url4 }">{ -brand-name-linux }</a>, na voljo pa je tudi za <a href="{ $url5 }">{ -brand-name-android } in { -brand-name-ios }.</a> Naš brskalnik vedno prenesite z ene od uradnih, zaupanja vrednih strani { -brand-name-mozilla(sklon: "rodilnik") } ali { -brand-name-firefox(sklon: "rodilnik") }.
 is-firefox-free = Je { -brand-name-firefox } brezplačen?
 yep-the-firefox-browser-is-free = Je! { -brand-name-firefox-browser(zacetnica: "velika") } je brezplačen. Pravzaprav več kot brezplačen. Nobenih skritih računov. Za njegovo uporabo ne plačate nič.
-related-questions-free = Povezana vprašanja: ali je { -brand-name-firefox-browser } brezplačen, ali { -brand-name-firefox } stane
 is-chrome-better = Je { -brand-name-chrome } boljši od { -brand-name-firefox }a?
 no-we-dont = Ne, menimo, da { -brand-name-chrome } ni boljši od { -brand-name-firefox(sklon: "rodilnik") }, in sicer zato: ko se ljudje sprašujejo, kateri brskalnik je boljši, jih pravzaprav zanima, kateri je hitrejši in varnejši. { -brand-name-firefox } se mesečno posodablja, kar vam zagotavlja najhitrejši brskalnik, ki samodejno spoštuje vašo zasebnost.
 
@@ -36,7 +35,6 @@ no-we-dont = Ne, menimo, da { -brand-name-chrome } ni boljši od { -brand-name-f
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Oglejte si, kako se { -brand-name-firefox } primerja s { -brand-name-chrome(sklon: "orodnik") }.</a>
-related-questions-better = Povezana vprašanja: je { -brand-name-firefox } boljši kot { -brand-name-chrome }, je { -brand-name-firefox } boljši kot { -brand-name-google }, je { -brand-name-firefox } varnejši kot { -brand-name-chrome }, je { -brand-name-firefox } bolj zaseben kot { -brand-name-chrome }
 is-firefox-safe-download = Je { -brand-name-firefox } varno prenesti?
 
 # Variables:
@@ -49,7 +47,6 @@ is-firefox-safe = Je { -brand-name-firefox } varen?
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = Ne le, da je { -brand-name-firefox } varen za uporabo, temveč ohranja varne tudi vaše zasebne podatke ohranja zasebne. { -brand-name-firefox-browser(zacetnica: "velika") } samodejno preprečuje znanim sledilcem tretjih strani, sledilcem družbenih omrežij, kriptorudarjem in sledilcem prstnih odtisov, da bi zbirali vaše podatke. <a href="{ $url }">Več o zasebnosti naših izdelkov.</a>
-related-questions-safe = Povezana vprašanja: ali je { -brand-name-firefox } dober za zasebnost, ali je { -brand-name-firefox } varen, ali je { -brand-name-firefox } boljši za zasebnost
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -68,7 +65,6 @@ does-firefox-have = Ali ima { -brand-name-firefox } vgrajen VPN?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } nima vgrajenega VPN (navideznega zasebnega omrežja), vendar { -brand-name-mozilla } ponuja program <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, ki ga lahko kombinirate z zasebnim { -brand-name-firefox-browser(sklon: "orodnik") }. Tako boste zaščitili ne le svoje podatke na omrežju WiFi, temveč tudi svoj naslov IP.
-related-questions-ip = Povezana vprašanja: ali { -brand-name-firefox } skrije vaš naslov IP
 who-owns-firefox = Kdo je lastnik { -brand-name-firefox }a?
 
 # Variables:
@@ -76,4 +72,3 @@ who-owns-firefox = Kdo je lastnik { -brand-name-firefox }a?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } ustvarja { -brand-name-mozilla-corporation }, hčerinsko podjetje v polni lasti neprofitne organizacije <a href="{ $url }">{ -brand-name-mozilla-foundation }</a>, ki ga vodijo načela iz Manifesta { -brand-name-mozilla(sklon: "rodilnik") }. Spoznajte podjetje, ki razvija Firefox, na { -brand-name-firefox } <a href="{ $url2 }">tej strani</a>.
-related-questions-who = Povezana vprašanja: kdo je lastnik { -brand-name-firefox(sklon: "rodilnik") }, kdo je lastnik { -brand-name-firefox-browser(sklon: "rodilnik") }, ali je { -brand-name-google } lastnik { -brand-name-firefox(sklon: "rodilnik") }, ali je { -brand-name-mozilla } { -brand-name-firefox } v lasti { -brand-name-google(sklon: "rodilnik") }

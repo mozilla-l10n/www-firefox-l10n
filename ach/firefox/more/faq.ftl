@@ -20,7 +20,6 @@ how-do-i = Atwero nongo { -brand-name-firefox-browser } nining?
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = { -brand-name-firefox } tye me nono?
-related-questions-free = Lapeny ma cal kwede: { -brand-name-firefox-browser } tye me nono, mono { -brand-name-firefox } mite cente
 is-chrome-better = Mono { -brand-name-chrome } ber loyo { -brand-name-firefox }?
 
 # Variables:

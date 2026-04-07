@@ -28,7 +28,6 @@ how-do-i = Como obter o { -brand-name-firefox-browser }?
 you-can-easily = Pode transferir o { -brand-name-firefox } para computadores <a href="{ $url }">aqui</a>. O { -brand-name-firefox } funciona em dispositivos <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> e <a href="{ $url4 }">{ -brand-name-linux }</a>, e está também disponível para <a href="{ $url5 }">{ -brand-name-android } e { -brand-name-ios }</a>. Confirme que está a transferir o nosso navegador a partir das nossas páginas de confiança da { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = O { -brand-name-firefox } é gratuito?
 yep-the-firefox-browser-is-free = Sim! O { -brand-name-firefox-browser } é gratuito. Na verdade, super gratuito. Sem custos ocultos ou qualquer coisa. Não paga nada para o utilizar.
-related-questions-free = Questões relacionadas: o { -brand-name-firefox-browser } é gratuito, o { -brand-name-firefox } custa dinheiro
 is-chrome-better = O { -brand-name-chrome } é melhor que o { -brand-name-firefox }?
 no-we-dont = Não, nós não achamos que o { -brand-name-chrome } seja melhor do que o { -brand-name-firefox } e eis o motivo: quando as pessoas perguntam qual é o melhor navegador, o que elas estão realmente a perguntar é qual é o navegador é mais rápido e mais seguro. O { -brand-name-firefox } é atualizado mensalmente para garantir que tem o navegador mais rápido e que respeita, automaticamente, a sua privacidade.
 
@@ -36,7 +35,6 @@ no-we-dont = Não, nós não achamos que o { -brand-name-chrome } seja melhor do
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Veja como o { -brand-name-firefox } se compara ao { -brand-name-chrome }.</a>
-related-questions-better = Questões relacionadas: o { -brand-name-firefox } é melhor do que o { -brand-name-chrome }, o { -brand-name-firefox } é melhor que o { -brand-name-google }, o { -brand-name-firefox } é mais seguro que o { -brand-name-chrome }, o { -brand-name-firefox } é mais privado que o { -brand-name-chrome }
 is-firefox-safe-download = É seguro transferir o { -brand-name-firefox }?
 
 # Variables:
@@ -49,7 +47,6 @@ is-firefox-safe = O { -brand-name-firefox } é seguro?
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = Não só é seguro utilizar o { -brand-name-firefox }, como este ajuda a manter os seus dados e informações privadas seguras. O { -brand-name-firefox-browser } bloqueia automaticamente rastreadores de terceiros conhecidos, rastreadores de redes sociais, cripto-mineradores e identificadores digitais de recolher os seus dados. <a href="{ $url }">Saiba mais sobre a privacidade dos nossos produtos</a>.
-related-questions-safe = Questões relacionadas: o { -brand-name-firefox } é bom para a privacidade, o { -brand-name-firefox } é seguro, o { -brand-name-firefox } é melhor para a privacidade
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -68,7 +65,6 @@ does-firefox-have = O { -brand-name-firefox } tem uma VPN incorporada?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = O { -brand-name-firefox } não tem uma VPN (rede virtual privada) integrada, mas a { -brand-name-mozilla } cria a <a href="{ $url }"> { -brand-name-mozilla-vpn }</a>, um produto que pode utilizar de forma complementar ao { -brand-name-firefox-browser }, e que pode proteger a sua ligação Wi-Fi, bem como o seu endereço IP.
-related-questions-ip = Questões relacionadas: o { -brand-name-firefox } oculta o seu endereço IP
 who-owns-firefox = Quem é o proprietário do { -brand-name-firefox }?
 
 # Variables:
@@ -76,4 +72,3 @@ who-owns-firefox = Quem é o proprietário do { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = O { -brand-name-firefox } é feito pela { -brand-name-mozilla-corporation }, propriedade absoluta da entidade sem fins lucrativos <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> e rege-se pelos princípios o manifesto da { -brand-name-mozilla }. Saiba mais sobre a produtora do { -brand-name-firefox } <a href="{ $url2 }">aqui</a>.
-related-questions-who = Questões relacionadas: que é o dono do { -brand-name-firefox }, quem é o proprietário do { -brand-name-firefox-browser }, o { -brand-name-firefox } é propriedade da { -brand-name-google }, o { -brand-name-mozilla } { -brand-name-firefox } é propriedade da { -brand-name-google }

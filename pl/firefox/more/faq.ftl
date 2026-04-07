@@ -28,7 +28,6 @@ how-do-i = Jak można pobrać { -brand-name-firefox-browser(case: "acc", capital
 you-can-easily = <a href="{ $url }">Tutaj</a> możesz łatwo pobrać przeglądarkę { -brand-name-firefox } na komputer. { -brand-name-firefox } działa na urządzeniach z systemami <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> i <a href="{ $url4 }">{ -brand-name-linux }</a> i jest również dostępny na <a href="{ $url5 }">{ -brand-name-android(case: "gen") } i { -brand-name-ios }</a>. Upewnij się, że pobierasz naszą przeglądarkę z jednej z naszych zaufanych stron { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = Czy { -brand-name-firefox } jest darmowy?
 yep-the-firefox-browser-is-free = Tak! { -brand-name-firefox-browser(localization: "lower") } jest darmowa, właściwie super darmowa. Bez żadnych ukrytych kosztów. Nie płacisz nic, aby jej używać.
-related-questions-free = Powiązane pytania: Czy { -brand-name-firefox-browser(capitalization: "lower") } jest darmowa, czy { -brand-name-firefox } kosztuje
 is-chrome-better = Czy { -brand-name-chrome } jest lepszy niż { -brand-name-firefox }?
 no-we-dont = Nie, uważamy, że { -brand-name-chrome } nie jest lepszy od { -brand-name-firefox(case: "gen") }, ponieważ gdy ludzie pytają, która przeglądarka jest lepsza, to tak naprawdę pytają, która przeglądarka jest szybsza i bezpieczniejsza. { -brand-name-firefox } jest aktualizowany co miesiąc, by zapewnić ci najszybszą przeglądarkę, która domyślnie szanuje twoją prywatność.
 
@@ -36,7 +35,6 @@ no-we-dont = Nie, uważamy, że { -brand-name-chrome } nie jest lepszy od { -bra
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Zobacz jak { -brand-name-firefox } wypada w porównaniu z { -brand-name-chrome }</a>
-related-questions-better = Powiązane pytania: czy { -brand-name-firefox } jest lepszy niż { -brand-name-chrome }, czy { -brand-name-firefox } jest lepszy niż { -brand-name-google }, czy { -brand-name-firefox } jest bezpieczniejszy niż { -brand-name-chrome }, czy { -brand-name-firefox } jest bardziej prywatny niż { -brand-name-chrome }
 is-firefox-safe-download = Czy { -brand-name-firefox(case: "gen") } można bezpiecznie pobrać?
 
 # Variables:
@@ -49,7 +47,6 @@ is-firefox-safe = Czy { -brand-name-firefox } jest bezpieczny?
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox } jest nie tylko bezpieczny w użyciu, ale także pomaga chronić Twoje dane i prywatne informacje. { -brand-name-firefox-browser } automatycznie blokuje znane zewnętrzne elementy śledzące, skrypty śledzące mediów społecznościowych, koparki kryptowalut i skrypty zbierające dane o konfiguracji. <a href="{ $url }">Dowiedz się więcej o prywatności w naszych produktach.</a>
-related-questions-safe = Powiązane pytania: Czy { -brand-name-firefox } zapewnia prywatność, czy { -brand-name-firefox } jest bezpieczny, czy { -brand-name-firefox } jest bardziej prywatny
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -68,7 +65,6 @@ does-firefox-have = Czy { -brand-name-firefox } ma wbudowanego VPN-a?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } nie ma wbudowanego VPN-a (wirtualnej sieci prywatnej), ale { -brand-name-mozilla } tworzy produkt o nazwie <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, którego można używać jako uzupełnienie prywatnej { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }, a która chroni połączenie Wi-Fi i adres IP.
-related-questions-ip = Powiązane pytania: czy { -brand-name-firefox } ukrywa Twój adres IP?
 who-owns-firefox = Kto jest właścicielem { -brand-name-firefox(case: "gen") }?
 
 # Variables:
@@ -76,4 +72,3 @@ who-owns-firefox = Kto jest właścicielem { -brand-name-firefox(case: "gen") }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } jest tworzony przez { -brand-name-mozilla-corporation(case: "gen") }, spółkę zależną organizacji non-profit <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> i prowadzony wedle zasad Manifestu { -brand-name-mozilla(case: "gen") }. Dowiedz się więcej na temat twórców { -brand-name-firefox(case: "gen") } <a href="{ $url2 }">tutaj</a>.
-related-questions-who = Powiązane pytania: w czyim posiadaniu jest { -brand-name-firefox }, kto posiada { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }, czy { -brand-name-firefox } jest własnością { -brand-name-google }, czy { -brand-name-mozilla } { -brand-name-firefox } jest własnością { -brand-name-google }

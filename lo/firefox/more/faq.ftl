@@ -28,7 +28,6 @@ how-do-i = ຂ້ອຍຈະເອົາ { -brand-name-firefox-browser } ໄດ
 you-can-easily = ທ່ານສາມາດດາວໂຫຼດ { -brand-name-firefox } desktop browser ໄດ້ຢ່າງງ່າຍດາຍ <a href="{ $url }">ທີ່ນີ້.</a> { -brand-name-firefox } ເຮັດວຽກຢູ່ໃນ <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> ແລະ <a href="{ $url4 }">{ -brand-name-linux } </a> ອຸປະກອນ, ແລະຍັງມີໃຫ້ສໍາລັບ <a href="{ $url5 }">{ -brand-name-android } ແລະ { -brand-name-ios } .</a> ໃຫ້ແນ່ໃຈວ່າທ່ານກໍາລັງດາວໂຫລດຕົວທ່ອງເວັບຂອງພວກເຮົາຈາກຫນຶ່ງໃນຫນ້າທີ່ເຊື່ອຖືໄດ້ຂອງພວກເຮົາ { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = { -brand-name-firefox } ແມ່ນບໍ່ເສຍຄ່າບໍ?
 yep-the-firefox-browser-is-free = ແມ່ນແລ້ວ! { -brand-name-firefox-browser } ແມ່ນບໍ່ເສຍຄ່າ. Super ຟຣີແທ້ໆ. ບໍ່ມີຄ່າໃຊ້ຈ່າຍທີ່ເຊື່ອງໄວ້ ຫຼື ສິ່ງໃດ. ທ່ານບໍ່ໄດ້ຈ່າຍຄ່າຫຍັງເພື່ອໃຊ້ມັນ.
-related-questions-free = ຄໍາຖາມທີ່ກ່ຽວຂ້ອງ: ແມ່ນ { -brand-name-firefox-browser } ຟຣີ, ບໍ່ { -brand-name-firefox } ຄ່າໃຊ້ຈ່າຍເງິນ
 is-chrome-better = { -brand-name-chrome } ດີກວ່າ { -brand-name-firefox } ບໍ?
 no-we-dont = ບໍ່, ພວກເຮົາບໍ່ຄິດວ່າ { -brand-name-chrome } ຈະດີກວ່າ { -brand-name-firefox }, ແລະນີ້ແມ່ນເຫດຜົນ: ເມື່ອຄົນຖາມວ່າ browser ໃດດີກວ່າ, ເຂົາເຈົ້າຖາມແທ້ໆວ່າ browser ໃດໄວກວ່າ ແລະ. ປອດໄພກວ່າ. { -brand-name-firefox } ໄດ້ຖືກປັບປຸງປະຈໍາເດືອນເພື່ອໃຫ້ແນ່ໃຈວ່າທ່ານມີຕົວທ່ອງເວັບທີ່ໄວທີ່ສຸດທີ່ເຄົາລົບຄວາມເປັນສ່ວນຕົວຂອງທ່ານໂດຍອັດຕະໂນມັດ.
 
@@ -36,7 +35,6 @@ no-we-dont = ບໍ່, ພວກເຮົາບໍ່ຄິດວ່າ { -bran
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">ເບິ່ງວ່າ { -brand-name-firefox } ປຽບທຽບ { -brand-name-chrome } ແນວໃດ.</a>
-related-questions-better = ຄໍາຖາມທີ່ກ່ຽວຂ້ອງ: ແມ່ນ { -brand-name-firefox } ດີກວ່າ { -brand-name-chrome }, ແມ່ນ { -brand-name-firefox } ດີກວ່າ { -brand-name-google }, ແມ່ນ { -brand-name-firefox } ປອດໄພກວ່າ { -brand-name-chrome }, ແມ່ນ { -brand-name-firefox } ສ່ວນຕົວກວ່າ { -brand-name-chrome }
 is-firefox-safe-download = { -brand-name-firefox } ປອດໄພໃນການດາວໂຫຼດບໍ?
 
 # Variables:
@@ -49,7 +47,6 @@ is-firefox-safe = { -brand-name-firefox } ປອດໄພບໍ?
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = ບໍ່ພຽງແຕ່ { -brand-name-firefox } ປອດໄພທີ່ຈະໃຊ້, ມັນຍັງຊ່ວຍຮັກສາຂໍ້ມູນ ແລະຂໍ້ມູນສ່ວນຕົວຂອງທ່ານໃຫ້ປອດໄພ. { -brand-name-firefox-browser } ອັດຕະໂນມັດຈະບລັອກຕົວຕິດຕາມພາກສ່ວນທີສາມທີ່ຮູ້ຈັກ, ຕົວຕິດຕາມສື່ສັງຄົມ, cryptominers ແລະເຄື່ອງພິມລາຍນິ້ວມືຈາກການເກັບກຳຂໍ້ມູນຂອງທ່ານ. <a href="{ $url }">ສຶກສາເພີ່ມເຕີມກ່ຽວກັບຄວາມເປັນສ່ວນຕົວໃນຜະລິດຕະພັນຂອງພວກເຮົາ.</a>
-related-questions-safe = ຄໍາຖາມທີ່ກ່ຽວຂ້ອງ: ແມ່ນ { -brand-name-firefox } ທີ່ດີສໍາລັບຄວາມເປັນສ່ວນຕົວ, ແມ່ນ { -brand-name-firefox } ປອດໄພ, ແມ່ນ { -brand-name-firefox } ດີກວ່າສໍາລັບຄວາມເປັນສ່ວນຕົວ
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -68,7 +65,6 @@ does-firefox-have = { -brand-name-firefox } ມີ VPN ໃນຕົວບໍ?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } ບໍ່ມີ VPN ໃນຕົວ (ເຄືອຂ່າຍສ່ວນຕົວ virtual), ແຕ່ { -brand-name-mozilla } ສ້າງຜະລິດຕະພັນທີ່ເອີ້ນວ່າ <a href="{ $url }">{ -brand-name-mozilla-vpn } </a> ທີ່ທ່ານສາມາດໃຊ້ນອກເໜືອໄປຈາກສ່ວນຕົວ { -brand-name-firefox-browser } ທີ່ສາມາດປົກປ້ອງການເຊື່ອມຕໍ່ຂອງທ່ານໃນ WiFi, ເຊັ່ນດຽວກັນກັບທີ່ຢູ່ IP ຂອງທ່ານ.
-related-questions-ip = ຄໍາຖາມທີ່ກ່ຽວຂ້ອງ: ບໍ່ { -brand-name-firefox } ເຊື່ອງທີ່ຢູ່ IP ຂອງທ່ານ
 who-owns-firefox = ໃຜເປັນເຈົ້າຂອງ { -brand-name-firefox }?
 
 # Variables:
@@ -76,4 +72,3 @@ who-owns-firefox = ໃຜເປັນເຈົ້າຂອງ { -brand-name-fire
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } ແມ່ນເຮັດໂດຍ { -brand-name-mozilla-corporation }, ບໍລິສັດຍ່ອຍທີ່ເປັນເຈົ້າຂອງທັງໝົດຂອງອົງການບໍ່ຫວັງຜົນກຳໄລ <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> ແລະຖືກແນະນຳໂດຍຫຼັກການຂອງ { -brand-name-mozilla } Manifesto. ສຶກສາເພີ່ມເຕີມກ່ຽວກັບຜູ້ຜະລິດ { -brand-name-firefox } <a href="{ $url2 }">ທີ່ນີ້.</a>
-related-questions-who = ຄໍາຖາມທີ່ກ່ຽວຂ້ອງ: ໃຜແມ່ນ { -brand-name-firefox } ເປັນເຈົ້າຂອງ, ໃຜເປັນເຈົ້າຂອງ { -brand-name-firefox-browser }, ແມ່ນ { -brand-name-firefox } ເປັນເຈົ້າຂອງໂດຍ { -brand-name-google }, ແມ່ນ { -brand-name-mozilla } { -brand-name-firefox } ເປັນເຈົ້າຂອງໂດຍ { -brand-name-google }

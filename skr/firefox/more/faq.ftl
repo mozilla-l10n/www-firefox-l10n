@@ -26,7 +26,6 @@ how-do-i = میں { -brand-name-firefox-browser } کین٘ویں گھن سڳدا
 
 you-can-easily = تساں آسانی نال { -brand-name-firefox } ڈیسک ٹاپ براؤزر کوں <a href="{ $url }"> اتھوں ڈاؤن لوڈ کر سڳدے او۔ </a> { -brand-name-firefox } <a href="{ $url2 }"> { -brand-name-windows } تے کم کریندا ہے۔ </a> <a href="{ $url3 }"> { -brand-name-mac-short } </a> تے <a href="{ $url4 }"> { -brand-name-linux } </a> آلات تے <a href="{ $url5 }"> { -brand-name-android } تے { -brand-name-ios } کیتے وی دستیاب ہے۔ </a> یقینی بݨاؤ جو اساں تہاݙے قابل اعتماد { -brand-name-mozilla } / { -brand-name-firefox } ورقیاں وِچوں کہیں ہک کنوں اساݙا براؤزر ڈاؤن لوڈ کریندے پئے او۔
 is-firefox-free = بھلا { -brand-name-firefox } مفت ہے؟
-related-questions-free = متعلقہ سوالات: بھلا { -brand-name-firefox-browser } مفت ہے،  بھلا { -brand-name-firefox } مل نال ملدے
 is-chrome-better = بھلا { -brand-name-firefox } کنوں { -brand-name-chrome } چنگیرا ہے۔
 no-we-dont = کائناں، اساں نہیں سوچیندے جو { -brand-name-chrome } { -brand-name-firefox } کنوں بہتر ہے، تے ایہا وجہ ہے: جݙاں لوک پچھدے ہن جو کیڑھا براؤزر بہتر ہے، تاں او واقعی پچھدے پئے ہن جو کیڑھا براؤزر تکھا ہے تے زیادہ محفوظ { -brand-name-firefox } کوں ماہانہ اپ ڈیٹ کیتا ویندا ہے تاں جو ایہ یقینی بݨایا ونڄ سڳے جو تہاݙے کول تکھا براؤزر ہے جیڑھا آپوں ڄاݨ تہاݙی رازداری دا احترام کریندا ہے۔
 
@@ -34,7 +33,6 @@ no-we-dont = کائناں، اساں نہیں سوچیندے جو { -brand-name-
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">ݙیکھو کین٘ویں { -brand-name-firefox } مقابلہ کریندے{ -brand-name-chrome }.</a>
-related-questions-better = متعلقہ سوالات: بھلا  { -brand-name-chrome } کنوں{ -brand-name-firefox } بہتر ہے۔ بھلا { -brand-name-google } کنوں { -brand-name-firefox } بہتر ہے۔ بھلا { -brand-name-chrome } کنوں { -brand-name-chrome } محفوظ تر ہے۔ بھلا { -brand-name-chrome } کنوں { -brand-name-firefox } ودھیک نجی ہے۔
 is-firefox-safe-download = بھلا { -brand-name-firefox } ڈاؤن لوڈ کرݨ کیتے محفوظ ہے؟
 
 # Variables:
@@ -47,7 +45,6 @@ is-firefox-safe = بھلا { -brand-name-firefox } محفوظ ہے؟
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = نہ سکھݨا { -brand-name-firefox } استعمال کرݨ کیتے محفوظ ہے، بھل ایہ تہاݙے ڈیٹا تے نجی معلومات کوں محفوظ رکھݨ وِچ وی مدد کریندا ہے۔ { -brand-name-firefox-browser } آپوں ڄاݨ ڄاتے سنڄاتے تریاکل ٹریکرز، سوشل میڈیا ٹریکرز، کرپٹومائنرز تے فنگر پرنٹرز کوں تہاݙا ڈیٹا کٹھا کرݨ کنوں روکیندا ہے۔ <a href="{ $url }"> اساݙے بݨتراں وِچ رازداری دے بارے ودھیک ڄاݨو۔ </a>
-related-questions-safe = متعلقہ سوالات:  بھلا { -brand-name-firefox } رازداری کیتے چنگی ہے۔ بھلا { -brand-name-firefox } محفوظ ہے۔ بھلا رازداری کیتے { -brand-name-firefox } بہتر ہے۔
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -66,7 +63,6 @@ does-firefox-have = بھلا { -brand-name-firefox } وچ بلٹ ــ ان وی 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } وِچ بِلٹ اِن وی پی این (ورچوئل پرائیویٹ نیٹ ورک) کائنی، پَر { -brand-name-mozilla }ہِک پراڈکٹ بݨین٘دا ہِے <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>  جیکوں تُساں نجی براؤزر { -brand-name-firefox-browser } کنوں ان٘ج استعمال کر سڳدے ہِیوے جہڑا وائی فائی اُتّے تُ٘ہاݙے کنکشن دے نال نال تُہاݙے آئی پی پتے دی وی راکھی کر سڳدا ہِے۔
-related-questions-ip = متعلقہ سوالات: بھلا { -brand-name-firefox } تہاݙ ا IP پتہ لکین٘دا ہے؟
 who-owns-firefox = { -brand-name-firefox } دا مالک کوݨ ہے؟
 
 # Variables:
@@ -74,4 +70,3 @@ who-owns-firefox = { -brand-name-firefox } دا مالک کوݨ ہے؟
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } کوں { -brand-name-mozilla-corporation } بݨایا ہے، جیڑھا غیر منافع بخش <a href="{ $url }"> { -brand-name-mozilla-foundation } </a> مکمل ملکیتی ذیلی کمپنی ہے تے{ -brand-name-mozilla } مینی فیسٹو دے اصولاں نال رہنمائی کریندا ہے۔ { -brand-name-firefox } دے بݨاوݨ والے دے بارے وِچ ودھیک ڄاݨو <a href="{ $url2 }">اتھاں۔</a>
-related-questions-who = متعلقہ سوالات: { -brand-name-firefox } کیندی ملکیت ہے، کون { -brand-name-firefox-browser } دا مالک ہے، { -brand-name-firefox } دی ملکیت { -brand-name-google } ہے، { -brand-name-mozilla } { -brand-name-firefox } دی ملکیت { -brand-name-google }

@@ -26,7 +26,6 @@ how-do-i = Amek ara xedmeɣ akken ad d-awiɣ { -brand-name-firefox-browser }?
 
 you-can-easily = Tzemreḍ ad d-tsadreḍ s tefses { -brand-name-firefox } iminig n tnarit <a href="{ $url }">dagi.</a> { -brand-name-firefox } iteddu ɣef <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> akked <a href="{ $url4 }">{ -brand-name-linux }</a> yibenkan, yella daɣen i <a href="{ $url5 }">{ -brand-name-android } d { -brand-name-ios }.</a> Ḍmen belli tsadareḍ-d iminig-nneɣ seg yiwen n yisebtar-nneɣ yettwattkalen { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = { -brand-name-firefox } baṭel?
-related-questions-free = Isteqsiyen yeqqnen: { -brand-name-firefox-browser } baṭel, { -brand-name-firefox } tlaq-as tedrimt
 is-chrome-better = { -brand-name-chrome } xiṛ n { -brand-name-firefox }?
 
 # Variables:
@@ -56,7 +55,6 @@ does-firefox-use = { -brand-name-firefox } isseqdac { -brand-name-google }?
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
 does-firefox-have = { -brand-name-firefox } qur-s VPN usliɣ?
-related-questions-ip = Isteqsiyen yeqqnen: { -brand-name-firefox } iteffer tansa-inek·inem IP
 who-owns-firefox = Anwa i d bab n { -brand-name-firefox }?
 
 # Variables:
@@ -64,4 +62,3 @@ who-owns-firefox = Anwa i d bab n { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } texdem-it { -brand-name-mozilla-corporation }, d ayla meṛṛa n <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> ur nettnadi ara tadrimt, daɣen iteddu s wansayen n umeskan n { -brand-name-mozilla }. Issin ugar ɣef win i ixedmen{ -brand-name-firefox } <a href="{ $url2 }">dagi.</a>
-related-questions-who = Isteqsiyen-nniḍen: d anwa i d bab n { -brand-name-firefox }, d anwa i d bab n { -brand-name-firefox-browser }, d { -brand-name-firefox } bab-is d { -brand-name-google }, d { -brand-name-mozilla } { -brand-name-firefox } bab-is d { -brand-name-google }

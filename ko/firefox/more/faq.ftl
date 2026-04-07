@@ -28,7 +28,6 @@ how-do-i = 어떻게 { -brand-name-firefox-browser }를 받을 수 있나요?
 you-can-easily = <a href="{ $url }">여기</a>를 클릭하여 { -brand-name-firefox } 데스크톱 브라우저를 간단히 다운로드하실 수 있습니다. { -brand-name-firefox }는 <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short },</a> <a href="{ $url4 }">{ -brand-name-linux }</a>가 설치된 기기에서 사용하실 수 있으며, <a href="{ $url5 }">{ -brand-name-android }와 { -brand-name-ios }</a>에서도 만나보실 수 있습니다. 반드시 신뢰할 수 있는 { -brand-name-mozilla }/{ -brand-name-firefox } 웹 페이지에서 다운로드하세요.
 is-firefox-free = { -brand-name-firefox }는 무료인가요?
 yep-the-firefox-browser-is-free = 네! { -brand-name-firefox-browser }는 무료입니다. 정말로 무료입니다. 숨겨진 비용 따위는 없습니다.  { -brand-name-firefox-browser }를 사용하기 위해 어떤 비용도 지불하지 않아도 됩니다.
-related-questions-free = 관련 질문: { -brand-name-firefox-browser }는 무료이며 { -brand-name-firefox }는 비용이 드나요?
 is-chrome-better = { -brand-name-chrome }이 { -brand-name-firefox }보다 나은가요?
 no-we-dont = 아니요, 우리는 { -brand-name-chrome }이 { -brand-name-firefox }보다 낫다고 생각하지 않습니다. 그 이유는 다음과 같습니다. 사람들이 어떤 브라우저가 더 나은지 물을 때 사람들이 실제로 궁금해 하는 것은 어떤 브라우저가 더 빠르고 안전한가 입니다. { -brand-name-firefox }는 사용자가 개인정보를 중요하게 생각하는 가장 빠른 브라우저를 사용 할 수 있도록 매월 자동으로 업데이트됩니다.
 
@@ -36,7 +35,6 @@ no-we-dont = 아니요, 우리는 { -brand-name-chrome }이 { -brand-name-firefo
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">{ -brand-name-firefox }와 { -brand-name-chrome }을 비교해 보세요</a>.
-related-questions-better = 관련 질문: { -brand-name-firefox }가 { -brand-name-chrome }보다 나은가요?, { -brand-name-firefox }가 { -brand-name-google }보다 나은가요?, { -brand-name-firefox }가 { -brand-name-chrome }보다 안전한가요?, { -brand-name-firefox }가 { -brand-name-chrome }보다 사적인가요?
 is-firefox-safe-download = { -brand-name-firefox }는 다운로드해도 안전한가요?
 
 # Variables:
@@ -49,7 +47,6 @@ is-firefox-safe = { -brand-name-firefox }는 안전한가요?
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox }는 사용하기에 안전할 뿐만 아니라, 사용자의 데이터와 개인 정보의 안전을 유지하는 데 기여합니다. { -brand-name-firefox-browser }는 알려진 외부 추적기와 소셜 미디어 추적기, 암호화폐 채굴기와 디지털 지문을 자동으로 차단하여 사용자의 데이터를 지킵니다. <a href="{ $url }">우리의 애플리케이션들이 개인 정보를 어떻게 다루는지 더 알아보세요.</a>
-related-questions-safe = 관련 질문: { -brand-name-firefox }는 개인 정보 보호에 좋은가요, { -brand-name-firefox }는 안전한가요, { -brand-name-firefox }는 개인 정보 보호에 더 좋합한가요
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -68,7 +65,6 @@ does-firefox-have = { -brand-name-firefox }에 내장 VPN이 있나요?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox }에는 내장 VPN(virtual private network, 가상 사설망)이 없지만 { -brand-name-mozilla }가 { -brand-name-firefox-browser }와 함께 사용할 수 있으며 사용자의 Wi-Fi 연결과 IP 주소를 보호할 수 있는 <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>이라는 제품을 만듭니다.
-related-questions-ip = 관련 질문: { -brand-name-firefox }가 IP 주소를 숨시나요?
 who-owns-firefox = { -brand-name-firefox }의 소유자는 누구인가요?
 
 # Variables:
@@ -76,4 +72,3 @@ who-owns-firefox = { -brand-name-firefox }의 소유자는 누구인가요?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox }는 비영리 단체인 <a href="{ $url }">{ -brand-name-mozilla-foundation }</a>의 완전자회사 { -brand-name-mozilla-corporation }이 만들며, { -brand-name-mozilla } 선언문의 원칙을 따릅니다. <a href="{ $url2 }">여기</a>에서 { -brand-name-firefox }의 개발사에 대해 더 알아보세요.
-related-questions-who = 관련 질문: { -brand-name-firefox }는 누구 소유인가, 누가 { -brand-name-firefox-browser }를 소유하는가, { -brand-name-firefox }는 { -brand-name-google } 소유인가, { -brand-name-mozilla }{ -brand-name-firefox }는 { -brand-name-google } 소유인가

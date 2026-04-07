@@ -28,7 +28,6 @@ how-do-i = Hvordan får jeg tak i { -brand-name-firefox-browser }?
 you-can-easily = Du kan enkelt laste ned nettleseren { -brand-name-firefox } for datamaskin <a href="{ $url }">her.</a> { -brand-name-firefox } fungerer på <a href="{ $url2 }">{ -brand-name-windows }-,</a> <a href="{ $url3 }">{ -brand-name-mac-short }-</a> og <a href="{ $url4 }">{ -brand-name-linux }-</a>enheter, og er også tilgjengelig for <a href="{ $url5 }">{ -brand-name-android } og { -brand-name-ios }.</a> Pass på at du laster ned nettleseren vår fra en av våre pålitelige { -brand-name-mozilla }-/{ -brand-name-firefox }-sider.
 is-firefox-free = Er { -brand-name-firefox } gratis?
 yep-the-firefox-browser-is-free = Jepp! { -brand-name-firefox-browser } er gratis. Helt gratis, faktisk. Ingen skjulte kostnader eller noe. Du betaler ingenting for å bruke den.
-related-questions-free = Relaterte spørsmål: er { -brand-name-firefox-browser } gratis, koster { -brand-name-firefox } penger
 is-chrome-better = Er { -brand-name-chrome } bedre enn { -brand-name-firefox }?
 no-we-dont = Nei, vi synes ikke { -brand-name-chrome } er bedre enn { -brand-name-firefox }, og her er grunnen: når folk spør hvilken nettleser som er bedre, spør de egentlig hvilken nettleser som er raskere og tryggere. { -brand-name-firefox } oppdateres månedlig for å sikre at du har den raskeste nettleseren som respekterer personvernet ditt automatisk.
 
@@ -36,7 +35,6 @@ no-we-dont = Nei, vi synes ikke { -brand-name-chrome } er bedre enn { -brand-nam
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Se hvordan { -brand-name-firefox } er sammenlignet med { -brand-name-chrome }.</a>
-related-questions-better = Relaterte spørsmål: er { -brand-name-firefox } bedre enn { -brand-name-chrome }, er { -brand-name-firefox } bedre enn { -brand-name-google }, er { -brand-name-firefox } tryggere enn { -brand-name-chrome }, er { -brand-name-firefox } mer privat enn { -brand-name-chrome }
 is-firefox-safe-download = Er det trygt å laste ned { -brand-name-firefox }?
 
 # Variables:
@@ -49,7 +47,6 @@ is-firefox-safe = Er { -brand-name-firefox } trygg?
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = Ikke bare er { -brand-name-firefox } trygt å bruke, det bidrar også til å holde dataene og privat informasjon trygg. { -brand-name-firefox-browser } blokkerer automatisk kjente tredjepartssporere, sporing via sosiale medier, kryptoutvinnere og fingeravtrykksporing fra å samle inn dataene dine. <a href="{ $url }">Les mer om personvernet i produktene våre.</a>
-related-questions-safe = Relaterte spørsmål: er { -brand-name-firefox } bra for personvernet, er { -brand-name-firefox } sikkert, er { -brand-name-firefox } bedre for personvernet
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -68,7 +65,6 @@ does-firefox-have = Har { -brand-name-firefox } innebygd VPN?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } har ikke innebygd VPN (virtuelt privat nettverk), men { -brand-name-mozilla } har utviklet et produkt kalt <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> som du kan bruke i tillegg til den private { -brand-name-firefox-browser }. Det kan beskytte tilkoblingen din på Wi-Fi og skjule IP-adressen din.
-related-questions-ip = Relaterte spørsmål: skjuler { -brand-name-firefox } IP-adressen din
 who-owns-firefox = Hvem eier { -brand-name-firefox }?
 
 # Variables:
@@ -76,4 +72,3 @@ who-owns-firefox = Hvem eier { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } er laget av { -brand-name-mozilla-corporation }, et heleid datterselskap av den ideelle organisasjonen <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> og styres av prinsippene i { -brand-name-mozilla }-manifestet. Les mer om skaperen av { -brand-name-firefox } <a href="{ $url2 }">her.</a>
-related-questions-who = Relaterte spørsmål: hvem eies { -brand-name-firefox } av, hvem eier { -brand-name-firefox-browser }, eies { -brand-name-firefox } av { -brand-name-google }, eies { -brand-name-mozilla } { -brand-name-firefox } av { -brand-name-google }

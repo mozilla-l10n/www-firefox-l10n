@@ -28,7 +28,6 @@ how-do-i = { -brand-name-firefox-browser }nı nasıl indirebilirim?
 you-can-easily = { -brand-name-firefox } masaüstü tarayıcısını <a href="{ $url }">buradan</a> kolayca indirebilirsiniz. { -brand-name-firefox } <a href="{ $url2 }">{ -brand-name-windows }</a>, <a href="{ $url3 }">{ -brand-name-mac-short }</a> ve <a href="{ $url4 }">{ -brand-name-linux }</a> cihazlarda da çalışır; ayrıca <a href="{ $url5 }">{ -brand-name-android } ve { -brand-name-ios }</a> sürümleri mevcuttur. Tarayıcımızı güvenilir { -brand-name-mozilla }/{ -brand-name-firefox } sayfalarımızdan indirdiğinizden emin olun.
 is-firefox-free = { -brand-name-firefox } ücretsiz mi?
 yep-the-firefox-browser-is-free = Evet! { -brand-name-firefox-browser } ücretsiz. Hem de tamamen ücretsiz. Gizli maliyet falan yok. Kullanmak için hiçbir ödeme yapmıyorsunuz.
-related-questions-free = İlgili sorular: { -brand-name-firefox-browser } bedava mı, { -brand-name-firefox } ücretli mi
 is-chrome-better = { -brand-name-chrome }, { -brand-name-firefox }’tan daha mı iyi?
 no-we-dont = Hayır, bizce { -brand-name-chrome } { -brand-name-firefox }’tan daha iyi değil. Neden mi? İnsanlar hangi tarayıcının daha iyi olduğunu sorduklarında, aslında hangi tarayıcının daha hızlı ve daha güvenli olduğunu soruyorlar. { -brand-name-firefox }, gizliliğinize saygı gösteren en hızlı tarayıcı. Öyle olmaya devam etmesi için de her ay güncelleniyor.
 
@@ -36,7 +35,6 @@ no-we-dont = Hayır, bizce { -brand-name-chrome } { -brand-name-firefox }’tan 
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">{ -brand-name-firefox } ile { -brand-name-chrome }’un karşılaştırmasına bakın.</a>
-related-questions-better = İlgili sorular: { -brand-name-firefox } { -brand-name-chrome }'dan daha mı iyi, { -brand-name-firefox } { -brand-name-google }'dan daha mı iyi, { -brand-name-firefox } { -brand-name-chrome }'dan daha mı güvenli, { -brand-name-firefox } { -brand-name-chrome }'dan daha mı gizli
 is-firefox-safe-download = { -brand-name-firefox }’u indirmek güvenli mi?
 
 # Variables:
@@ -49,7 +47,6 @@ is-firefox-safe = { -brand-name-firefox } güvenli mi?
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox } yalnızca güvenilir olmakla kalmıyor, verilerinizi ve özel bilgilerinizi de güvende tutuyor. { -brand-name-firefox-browser } üçüncü taraf takip kodlarının, sosyal medya takip kodlarının, kripto madencilerinin ve parmak izi toplayıcılarının verilerinizi toplamasını otomatik olarak engelliyor. <a href="{ $url }">Ürünlerimizin gizlilik uygulamaları hakkında daha fazla bilgi alın.</a>
-related-questions-safe = İlgili sorular: { -brand-name-firefox } gizlilik için iyi mi, { -brand-name-firefox } güvenli mi, { -brand-name-firefox } gizlilik için daha mı iyi
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -68,7 +65,6 @@ does-firefox-have = { -brand-name-firefox }'ta yerleşik bir VPN var mı?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } yerleşik bir VPN (sanal özel ağ) özelliği içermiyor ama { -brand-name-mozilla }, gizlilik yanlısı { -brand-name-firefox-browser }na ek olarak kullanabileceğiniz, Wi-Fi bağlantınızı koruyan ve IP adresinizi gizleyen <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> adlı bir ürün sunuyor.
-related-questions-ip = İlgili sorular: { -brand-name-firefox } IP adresinizi gizler mi
 who-owns-firefox = { -brand-name-firefox }'un sahibi kim?
 
 # Variables:
@@ -76,4 +72,3 @@ who-owns-firefox = { -brand-name-firefox }'un sahibi kim?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox }, kâr amacı gütmeyen <a href="{ $url }">{ -brand-name-mozilla-foundation }</a>'nın yan kuruluşu { -brand-name-mozilla-corporation } tarafından { -brand-name-mozilla } Manifestosu'nun prensiplerine göre geliştiriliyor. { -brand-name-firefox }'un geliştiricisi hakkında <a href="{ $url2 }">buradan</a> daha fazla bilgi alabilirsiniz.
-related-questions-who = İlgili sorular: { -brand-name-firefox } kime ait, { -brand-name-firefox-browser }nın sahibi kim, { -brand-name-firefox }'un sahibi { -brand-name-google } mı, { -brand-name-mozilla } { -brand-name-firefox }'un sahibi { -brand-name-google } mu

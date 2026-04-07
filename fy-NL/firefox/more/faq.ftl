@@ -28,7 +28,6 @@ how-do-i = Hoe krij ik de { -brand-name-firefox-browser }?
 you-can-easily = Jo kinne de { -brand-name-firefox }-desktopbrowser ienfâldich <a href="{ $url }">hjir</a> downloade. { -brand-name-firefox } wurket op <a href="{ $url2 }">{ -brand-name-windows }</a>-, <a href="{ $url3 }">{ -brand-name-mac-short }</a>- en <a href="{ $url4 }">{ -brand-name-linux }{ -brand-name-linux }</a>-apparaten en is ek beskikber foar <a href="{ $url5 }">{ -brand-name-android } en { -brand-name-ios }</a>. Soargj derfoar dat jo ús browser downloade fan ien fan ús fertroude { -brand-name-mozilla }-/{ -brand-name-firefox }-siden.
 is-firefox-free = Is { -brand-name-firefox } fergees?
 yep-the-firefox-browser-is-free = Ja! De { -brand-name-firefox-browser } is fergees. Superfergees, eins. Gjin ferburgen kosten, neat. Jo betelje neat foar it gebrûk.
-related-questions-free = Besibbe fragen: is { -brand-name-firefox-browser } fergees, kostet { -brand-name-firefox } jild
 is-chrome-better = Is { -brand-name-chrome } better as { -brand-name-firefox }?
 no-we-dont = Nee, wy tinke net dat { -brand-name-chrome } better is as { -brand-name-firefox }, en wol om dizze reden: as minsken freegje hokker browser better is, freegje se eins hokker browser flugger en feiliger is. { -brand-name-firefox } wurdt moanliks bywurke, om derfoar te soargjen dat jo de fluchste browser hawwe dy’t automatysk jo privacy respektearret.
 
@@ -36,7 +35,6 @@ no-we-dont = Nee, wy tinke net dat { -brand-name-chrome } better is as { -brand-
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Besjoch hoe’t { -brand-name-firefox } him ferhâldt ta { -brand-name-chrome }.</a>
-related-questions-better = Besibbe fragen: is { -brand-name-firefox } better as { -brand-name-chrome }, is { -brand-name-firefox } better as { -brand-name-google }, is { -brand-name-firefox } feiliger as { -brand-name-chrome }, is { -brand-name-firefox } mear privee as { -brand-name-chrome }
 is-firefox-safe-download = Is { -brand-name-firefox } feilich om te downloaden?
 
 # Variables:
@@ -49,7 +47,6 @@ is-firefox-safe = Is { -brand-name-firefox } feilich?
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox } is net allinnich feilich yn gebrûk, it helpt ek jo gegevens en priveegegevens feilich te hâlden. De { -brand-name-firefox-browser } blokkearret automatysk bekende trackers fan tredden, sosjale-mediatrackers, cryptominers en fingerprinters, sadat dizze jo gegevens net sammelje kinne. <a href="{ $url }">Mear ynfo oer de privacy yn ús produkten.</a>
-related-questions-safe = Besibbe fragen: is { -brand-name-firefox } goed foar privacy, is { -brand-name-firefox } befeilige, is { -brand-name-firefox } better foar privacy
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -68,7 +65,6 @@ does-firefox-have = Hat { -brand-name-firefox } in ynboude VPN?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } hat gjin ynboude VPN (virtual private network), mar { -brand-name-mozilla } makket in produkt mei de namme (<a href="{ $url }">{ -brand-name-mozilla-vpn }</a>),  dat jo brûke kinne njonken de privee{ -brand-name-firefox-browser }en jo ferbining op wifi beskermje kin, krekt as jo IP-adres.
-related-questions-ip = Besibbe fragen: ferstoppet { -brand-name-firefox } jo IP-adres
 who-owns-firefox = Wa is de eigener fan { -brand-name-firefox }?
 
 # Variables:
@@ -76,4 +72,3 @@ who-owns-firefox = Wa is de eigener fan { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } wurdt makke troch { -brand-name-mozilla-corporation }, in folsleine dochter fan de maatskippij sûnder winsteachmerk <a href="{ $url }">{ -brand-name-mozilla-foundation }</a>, en wurdt lieden troch de prinsipen fan it { -brand-name-mozilla } Manifesto. Mear ynfo oer de makker fan { -brand-name-firefox } <a href="{ $url2 }">hjir.</a>
-related-questions-who = Besibbe fragen: wa besit { -brand-name-firefox }, wa besit { -brand-name-firefox-browser }, is { -brand-name-firefox } fan { -brand-name-google }, is { -brand-name-mozilla } { -brand-name-firefox } fan { -brand-name-google }

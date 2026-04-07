@@ -28,7 +28,6 @@ how-do-i = Ինչպե՞ս կարող եմ ստանալ { -brand-name-firefox-bro
 you-can-easily = Դուք կարող եք հեշտությամբ ներբեռնել { -brand-name-firefox } աշխատասեղանի դիտարկիչը <a href="{ $url }">այստեղից։</a> { -brand-name-firefox }-ն աշխատում է <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> և <a href="{ $url4 }">{ -brand-name-linux }</a> սարքերի վրա, ինչպես նաև հասանելի է <a href="{ $url5 }">{ -brand-name-android } և { -brand-name-ios } համար։</a> Համոզվեք, որ մեր դիտարկիչը ներբեռնում եք մեր վստահելի { -brand-name-mozilla }/{ -brand-name-firefox } էջերից մեկից։
 is-firefox-free = { -brand-name-firefox }-ն անվճա՞ր է։
 yep-the-firefox-browser-is-free = Այո՛։ { -brand-name-firefox-browser }-ն անվճար է։ Իրականում շատ անվճար է։ Ոչ մի թաքնված վճար կամ այլ բան չկա։ Դուք ոչինչ չեք վճարում այն օգտագործելու համար։
-related-questions-free = Առնչվող հարցեր՝ անվտա՞նգ է { -brand-name-firefox-browser }-ը, արժե՞ { -brand-name-firefox }-ը։
 is-chrome-better = { -brand-name-chrome }-ն ավելի լավն է, քան { -brand-name-firefox }-ը։
 no-we-dont = Ոչ, մենք չենք կարծում, որ { -brand-name-chrome }-ն ավելի լավն է, քան { -brand-name-firefox }-ը, և ահա թե ինչու. երբ մարդիկ հարցնում են, թե որ դիտարկիչն է ավելի լավ, նրանք իրականում հարցնում են, թե որ դիտարկիչն է ավելի արագ և անվտանգ: { -brand-name-firefox }-ը թարմացվում է ամեն ամիս՝ համոզվելու համար, որ դուք ունեք ամենաարագ դիտարկիչը, որը ինքնաշխատ հարգում է ձեր գաղտնիությունը:
 
@@ -36,7 +35,6 @@ no-we-dont = Ոչ, մենք չենք կարծում, որ { -brand-name-chrome }
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Տեսեք, թե ինչպես է { -brand-name-firefox }-ը համեմատվում { -brand-name-chrome }-ի հետ։</a>
-related-questions-better = Առնչվող հարցեր՝ արդյո՞ք { -brand-name-firefox }-ը ավելի լավն է, քան { -brand-name-chrome }-ը, արդյո՞ք { -brand-name-firefox }-ը ավելի լավն է, քան { -brand-name-google }-ը, արդյո՞ք { -brand-name-firefox }-ն ավելի անվտա՞նգ է, քան { -brand-name-chrome }-ը, արդյո՞ք { -brand-name-firefox }-ը ավելի գաղտնի է, քան { -brand-name-chrome }-ը։
 is-firefox-safe-download = Անվտանգ է՞ { -brand-name-firefox }-ը ներբեռնելու համար։
 
 # Variables:
@@ -49,7 +47,6 @@ is-firefox-safe = Անվտանգ է՞ { -brand-name-firefox }-ը։
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox }-ը ոչ միայն անվտանգ է օգտագործման համար, այլև օգնում է պահպանել ձեր տվյալների և անձնական տեղեկատվության անվտանգությունը: { -brand-name-firefox-browser }-ը ինքնաշխատ արգելափակում է հայտնի երրորդ կողմի հետագծիչներին, սոցիալական ցանցերի հետագծիչներին, կրիպտոմայներներին և մատնահետքերի օգտագործողներին՝ ձեր տվյալները հավաքելու համար: <a href="{ $url }">Իմացեք ավելին մեր արտադրանքի գաղտնիության մասին:</a>
-related-questions-safe = Առնչվող հարցեր՝ լա՞վ է { -brand-name-firefox }-ը գաղտնիության համար, արդյո՞ք { -brand-name-firefox }-ը անվտանգ է, արդյո՞ք { -brand-name-firefox }-ը ավելի լավ է գաղտնիության համար։
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -68,7 +65,6 @@ does-firefox-have = { -brand-name-firefox }-ը ներկառուցված VPN ու
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox }-ը չունի ներկառուցված VPN (վիրտուալ մասնավոր ցանց), սակայն { -brand-name-mozilla }-ն ստեղծում է <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> անունով արտադրանք, որը կարող եք օգտագործել մասնավոր { -brand-name-firefox-browser }-ից բացի, որը կարող է պաշտպանել ձեր Wi-Fi կապը, ինչպես նաև ձեր IP հասցեն։
-related-questions-ip = Առնչվող հարցեր՝ արդյոք { -brand-name-firefox }-ը թաքցնում է ձեր IP հասցեն
 who-owns-firefox = Ո՞ւմ է պատկանում { -brand-name-firefox }-ը։
 
 # Variables:
@@ -76,4 +72,3 @@ who-owns-firefox = Ո՞ւմ է պատկանում { -brand-name-firefox }-ը։
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox }-ը ստեղծվել է { -brand-name-mozilla-corporation }-ի կողմից, որը ոչ առևտրային <a href="{ $url }">{ -brand-name-mozilla-foundation }-ի</a> ամբողջությամբ սեփականության տակ գտնվող դուստր ձեռնարկություն է և առաջնորդվում է { -brand-name-mozilla } Մանիֆեստի սկզբունքներով: Իմացեք ավելին { -brand-name-firefox }-ի ստեղծողի մասին <a href="{ $url2 }">այստեղ:</a>
-related-questions-who = Առնչվող հարցեր՝ ո՞ւմ է պատկանում { -brand-name-firefox }-ը, ո՞ւմ է պատկանում { -brand-name-firefox-browser }-ը, ո՞ւմ է պատկանում { -brand-name-firefox }-ը { -brand-name-google }-ին, ո՞ւմ է պատկանում { -brand-name-mozilla }-ն { -brand-name-firefox }-ը { -brand-name-google }-ին։

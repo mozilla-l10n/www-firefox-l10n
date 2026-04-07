@@ -28,7 +28,6 @@ how-do-i = Miten { -brand-name-firefox-browser } on mahdollista saada?
 you-can-easily = Voit ladata { -brand-name-firefox }in työpöytäversion <a href="{ $url }">täältä.</a> { -brand-name-firefox } toimii <a href="{ $url2 }">{ -brand-name-windows }illa,</a> <a href="{ $url3 }">{ -brand-name-mac-short }illa</a> ja <a href="{ $url4 }">{ -brand-name-linux }illa</a>, ja se on saatavana myös <a href="{ $url5 }">{ -brand-name-android }ille ja { -brand-name-ios }:lle.</a> Varmista, että lataat selaimemme joltain luotetuista { -brand-name-mozilla }/{ -brand-name-firefox }-sivuistamme.
 is-firefox-free = Onko { -brand-name-firefox } ilmainen?
 yep-the-firefox-browser-is-free = Kyllä! { -brand-name-firefox-browser } on ilmainen. Itse asiassa todella ilmainen. Se ei sisällä piilokuluja. Et maksa mitään sen käytöstä.
-related-questions-free = Aiheeseen liittyviä kysymyksiä: onko { -brand-name-firefox-browser } ilmainen, maksaako { -brand-name-firefox }
 is-chrome-better = Onko { -brand-name-chrome } parempi kuin { -brand-name-firefox }?
 no-we-dont = Ei, emme usko, että { -brand-name-chrome } on parempi kuin { -brand-name-firefox }, ja tässä syy: kun ihmiset kysyvät, mikä selain on parempi, he todella kysyvät, mikä selain on nopeampi ja turvallisempi. { -brand-name-firefox } päivitetään kuukausittain, jotta sinulla olisi nopein selain, joka kunnioittaa automaattisesti yksityisyyttäsi.
 
@@ -36,7 +35,6 @@ no-we-dont = Ei, emme usko, että { -brand-name-chrome } on parempi kuin { -bran
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Katso, kuinka { -brand-name-firefox } pärjää { -brand-name-chrome }a vastaan.</a>
-related-questions-better = Aiheeseen liittyviä kysymyksiä: onko { -brand-name-firefox } parempi kuin { -brand-name-chrome }, onko { -brand-name-firefox } parempi kuin { -brand-name-google }, onko { -brand-name-firefox } turvallisempi kuin { -brand-name-chrome }, onko { -brand-name-firefox } yksityisempi kuin { -brand-name-chrome }
 is-firefox-safe-download = Onko { -brand-name-firefox }in lataaminen turvallista?
 
 # Variables:
@@ -49,7 +47,6 @@ is-firefox-safe = Onko { -brand-name-firefox } turvallinen?
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = Sen lisäksi, että { -brand-name-firefox } on turvallinen käyttää, se auttaa myös pitämään tietosi ja yksityiset tietosi turvassa. { -brand-name-firefox-browser } estää automaattisesti tunnettuja kolmannen osapuolen seuraimia, sosiaalisen median seuraimia, kryptolouhijoita ja yksilöijiä keräämästä tietojasi. <a href="{ $url }">Lisätietoja tuotteidemme tietosuojasta.</a>
-related-questions-safe = Aiheeseen liittyviä kysymyksiä: onko { -brand-name-firefox } hyvä yksityisyyden kannalta, onko { -brand-name-firefox } turvallinen, onko { -brand-name-firefox } parempi yksityisyyden kannalta
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -68,7 +65,6 @@ does-firefox-have = Onko { -brand-name-firefox }issa sisäänrakennettu VPN?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox }issa ei ole sisäänrakennettua VPN:ää (virtuaalista erillisverkkoa), mutta { -brand-name-mozilla } tarjoaa tuotetta nimeltä <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>. { -brand-name-firefox-browser } ja sen kanssa VPN voivat suojata WiFi-yhteyksiäsi sekä IP-osoitettasi.
-related-questions-ip = Aiheeseen liittyviä kysymyksiä: piilottaako { -brand-name-firefox } IP-osoitteesi
 who-owns-firefox = Kuka omistaa { -brand-name-firefox }in?
 
 # Variables:
@@ -76,4 +72,3 @@ who-owns-firefox = Kuka omistaa { -brand-name-firefox }in?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } on { -brand-name-mozilla-corporation }in valmistama, voittoa tavoittelemattoman <a href="{ $url }">{ -brand-name-mozilla-foundation }in kokonaan omistama tytäryhtiö,</a> ja sitä ohjaavat { -brand-name-mozilla }-manifestin periaatteet. Lue lisää { -brand-name-firefox }in valmistajasta <a href="{ $url2 }">täältä.</a>
-related-questions-who = Aiheeseen liittyviä kysymyksiä: kuka omistaa { -brand-name-firefox }in, kuka omistaa { -brand-name-firefox-browser }, omistaako { -brand-name-google } { -brand-name-firefox }in, omistaako { -brand-name-google } { -brand-name-mozilla } { -brand-name-firefox }in
