@@ -65,6 +65,9 @@ does-firefox-have = A { -brand-name-firefox } rendelkezik beépített VPN-nel?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = A { -brand-name-firefox } nem rendelkezik beépített VPN-nel (virtuális magánhálózattal), de a { -brand-name-mozilla } létrehozta a <a href="{ $url }">{ -brand-name-mozilla-vpn }-t</a>, amelyet a privát { -brand-name-firefox-browser } mellett használhat, és megvédi a WiFi-kapcsolatát, valamint az IP-címét is.
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-have-vpn = A(z) { -brand-name-firefox } { -brand-name-firefox } egy ingyenes, beépített VPN-t tartalmaz, amely megvédi az IP-címét a követéstől böngészés közben. Kapcsolja be { -brand-name-firefox } múlva, egyetlen kattintással. Néhány piacon elérhető. A teljes eszközvédelemhez az összes eszköze és alkalmazása között, nézze meg a(z) <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> összeget.
 who-owns-firefox = Kié a { -brand-name-firefox }?
 
 # Variables:

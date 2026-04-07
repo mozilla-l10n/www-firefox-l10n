@@ -65,6 +65,9 @@ does-firefox-have = { -brand-name-firefox } 是否内置 VPN？
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } 没有内置 VPN（虚拟专用网络），但 { -brand-name-mozilla } 有一个名为 <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> 的产品，您可以在使用 { -brand-name-firefox-browser } 时用它来保护您的 WiFi 连接和 IP 地址。
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-have-vpn = { -brand-name-firefox } 内置免费 VPN 功能可保护您的 IP 地址在上网时不被跟踪。在 { -brand-name-firefox } 中只需点击一下即可打开。仅在特定市场可用。 <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> 想了解如何全面保护您的所有设备和应用。
 who-owns-firefox = 谁掌舵着 { -brand-name-firefox }？
 
 # Variables:

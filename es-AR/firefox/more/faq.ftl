@@ -65,6 +65,9 @@ does-firefox-have = ¿{ -brand-name-firefox } tiene una VPN integrada?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } no tiene una VPN (red privada virtual) incorporada, pero { -brand-name-mozilla } crea un producto llamado <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> que podés usar además del { -brand-name-firefox-browser } privado que puede proteger tu conexión en WiFi, así como tu dirección IP.
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-have-vpn = { -brand-name-firefox } incluye una VPN gratuita incorporada que protege tu dirección IP para que no sea rastreada mientras navegas. Actívala en { -brand-name-firefox } con un solo clic. Disponible en mercados selectos. Para una protección completa en todos tus dispositivos y aplicaciones, mirá <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>.
 who-owns-firefox = ¿Quién es el dueño de { -brand-name-firefox }?
 
 # Variables:
