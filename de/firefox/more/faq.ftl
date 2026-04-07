@@ -31,7 +31,6 @@ you-can-easily = Du kannst den Desktop-Browser { -brand-name-firefox } <a href="
 
 is-firefox-free = Ist { -brand-name-firefox } kostenlos?
 yep-the-firefox-browser-is-free = Ja! Der { -brand-name-firefox-browser } ist kostenlos. Superkostenlos, um genau zu sein. Keine versteckten Kosten oder so was. Du bezahlst nichts, um ihn zu nutzen.
-related-questions-free = Verwandte Fragen: Ist { -brand-name-firefox-browser } kostenlos, kostet { -brand-name-firefox } Geld?
 
 is-chrome-better = Ist { -brand-name-chrome } besser als { -brand-name-firefox }
 no-we-dont = Nein, wir finden { -brand-name-chrome } nicht besser als { -brand-name-firefox } und das sind unsere Gründe: wenn jemand wissen möchte, welcher Browser besser ist, geht es eigentlich um die Fragen, welcher Browser schneller und welcher sicherer ist. { -brand-name-firefox } wird monatlich aktualisiert, damit du immer den schnellstmöglichen Browser hast, der deine Daten automatisch schützt.
@@ -41,7 +40,6 @@ no-we-dont = Nein, wir finden { -brand-name-chrome } nicht besser als { -brand-n
 
 see-how-firefox = <a href="{ $url }">Lies einen Vergleich zwischen { -brand-name-firefox } und { -brand-name-chrome }.</a>
 
-related-questions-better = Ähnliche Fragen: Ist { -brand-name-firefox } besser als { -brand-name-chrome }, ist { -brand-name-firefox } besser als { -brand-name-google }, ist { -brand-name-firefox } sicherer als { -brand-name-chrome }, ist { -brand-name-firefox } privater als { -brand-name-chrome }?
 is-firefox-safe-download = Ist es sicher, { -brand-name-firefox } herunterzuladen?
 
 # Variables:
@@ -56,7 +54,6 @@ is-firefox-safe = Ist { -brand-name-firefox } sicher?
 
 not-only-is = Die Verwendung von { -brand-name-firefox } ist nicht nur sicher, sondern trägt auch zur Sicherheit deiner Daten und persönlichen Informationen bei. Der { -brand-name-firefox-browser } verhindert automatisch, dass bekannte Tracker von Drittanbietern, Tracker für soziale Medien, Kryptominer und Fingerprinter deine Daten erfassen. <a href="{ $url }">Erfahre mehr über den Datenschutz in unseren Produkten.</a>
 
-related-questions-safe = Ähnliche Fragen: Ist { -brand-name-firefox } gut für den Datenschutz, ist { -brand-name-firefox } sicher, ist { -brand-name-firefox } besser für den Datenschutz?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
@@ -80,7 +77,7 @@ does-firefox-have = Hat { -brand-name-firefox } ein integriertes VPN?
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } hat kein integriertes VPN (Virtual Private Network), aber { -brand-name-mozilla } bietet ein Produkt namens <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> an, das du zusätzlich zum privaten { -brand-name-firefox-browser } nutzen kannst und das deine Verbindung im WLAN sowie deine IP-Adresse schützen kann.
 
-related-questions-ip = Verwandte Fragen: Versteckt { -brand-name-firefox } Ihre IP-Adresse?
+
 
 who-owns-firefox = Wem gehört { -brand-name-firefox }?
 
@@ -89,5 +86,3 @@ who-owns-firefox = Wem gehört { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } wird von der { -brand-name-mozilla-corporation } entwickelt, eine hundertprozentige Tochtergesellschaft der gemeinnützigen Organisation <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> und orientiert sich an den Richtlinien des { -brand-name-mozilla }-Manifests. Erfahre <a href="{ $url2 }">hier</a> mehr über die Macher von { -brand-name-firefox }.
-
-related-questions-who = Ähnliche Fragen: wem gehört { -brand-name-firefox }, wem gehört { -brand-name-firefox-browser }, gehört { -brand-name-firefox } { -brand-name-google }, gehört { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-google }
