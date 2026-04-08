@@ -31,6 +31,7 @@ firefox-home-block-ad-trackers = Ejoko umi ñemurã rapykuehoha eku’e’ỹre
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Eñemomombyry mba’evaígui
 firefox-home-your-stuff = Nemba’e, opaite ne mba’erechahápe
+firefox-home-get-firefox-mobile = Erekóta { -brand-name-firefox } pumbyrygua ikatu hag̃ua ne ñe’ẽñemi, tendayke ha tembiasakue, avei tekoñemi ha tekorosã rejeroviaha, oho nendive rehohápe.
 firefox-home-privacy-built-in = Ñemireko oikepyréva
 firefox-home-personal-data-not-for-sale = Ne mba’ekuaarãita noñevendemo’ãi. Umi tapykuehoha ha kookie mbohapyháva ojejokóma ijypykue guive, péicha añoite … eikundaháta.
 firefox-home-learn-data-protection = Eikuaáke { -brand-name-firefox } omo’ã ne mba’ekuaarã

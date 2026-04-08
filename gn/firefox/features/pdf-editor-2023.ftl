@@ -17,6 +17,7 @@ pdf-editor-no-more-now-all-you-need-to-do = ¡Anivéma! Ko’ág̃a, ejapokuaáv
 pdf-editor-add-text = Embojuapy moñe’ẽrã
 pdf-editor-open-the-pdf-in-firefox-click-text = Embojuruja PDF { -brand-name-firefox } ndive. Eikutu votõ Moñe’ẽrã eiporavo hag̃ua sa’y ha moñe’ẽrã tuichakue eiporavo mboyve moõitépa embojuapyseve moñe’ẽrã. ¡Hasy’ỹre!
 pdf-editor-add-drawings = Embojuaju ta’ãnga
+pdf-editor-open-the-pdf-in-firefox-click-draw-to-choose = Eipe’a pe PDF { -brand-name-firefox }-pe. Eikutu upe ta’ãnga’i Moha’ãnga eiporavo hag̃ua sa’y, anambusu ha iñypytũva emoha’ãnga mboyve kuatiaitére.
 pdf-editor-add-image-with-alt-text = Embojuaju moñe’ẽrã mokõiha ndive
 pdf-editor-open-pdf-click-image-icon = Embojuruja PDF { -brand-name-firefox } ndive. Eikutu ta’ãnga’i, ojerurétava ehupi hag̃ua ta’ãnga. Ehecha tuichakue ha mba’éichapa emoĩta ta’ãnga eipotaháicha. Eikutu pe votõ "+Moñe’ẽrã mokõiháva" ta’ãngápe embojuaju hag̃ua ta’ãnga ñemoñe’ẽ ha ejepo nde PDF iporãve hag̃uáicha.
 pdf-editor-create-a-highlight = Emoheñói hechapyrãva
