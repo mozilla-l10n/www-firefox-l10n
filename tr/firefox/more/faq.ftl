@@ -65,6 +65,9 @@ does-firefox-have = { -brand-name-firefox }'ta yerleşik bir VPN var mı?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } yerleşik bir VPN (sanal özel ağ) özelliği içermiyor ama { -brand-name-mozilla }, gizlilik yanlısı { -brand-name-firefox-browser }na ek olarak kullanabileceğiniz, Wi-Fi bağlantınızı koruyan ve IP adresinizi gizleyen <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> adlı bir ürün sunuyor.
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-have-vpn = { -brand-name-firefox }’ta siz internette gezinirken IP adresinizin izlenmesini engelleyen ücretsiz bir dâhili VPN bulunuyor. { -brand-name-firefox }’ta bu özelliği tek bir tıklamayla açabilirsiniz ama bu özellik şimdilik yalnızca belirli bölgelerde kullanılabilir. Tüm cihazlarınızda ve uygulamalarınızda tam cihaz koruması için <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> sayfasına bakabilirsiniz.
 who-owns-firefox = { -brand-name-firefox }'un sahibi kim?
 
 # Variables:
