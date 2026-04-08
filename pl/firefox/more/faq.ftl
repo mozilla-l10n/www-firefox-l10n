@@ -67,7 +67,7 @@ does-firefox-have = Czy { -brand-name-firefox } ma wbudowanego VPN-a?
 firefox-does-not-v2 = { -brand-name-firefox } nie ma wbudowanego VPN-a (wirtualnej sieci prywatnej), ale { -brand-name-mozilla } tworzy produkt o nazwie <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, którego można używać jako uzupełnienie prywatnej { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }, a która chroni połączenie Wi-Fi i adres IP.
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
-firefox-does-have-vpn = { -brand-name-firefox } zawiera bezpłatny, wbudowany VPN, który chroni Twój adres IP przed śledzeniem podczas przeglądania stron. Włącz go w { -brand-name-firefox(case: "loc") } jednym kliknięciem. Dostępne w wybranych krajach. Aby zapewnić pełną ochronę wszystkich urządzeń i aplikacji, sprawdź <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>.
+firefox-does-have-vpn = { -brand-name-firefox } zawiera bezpłatnego, wbudowanego VPN-a, który chroni Twój adres IP przed śledzeniem podczas przeglądania stron. Włącz go w { -brand-name-firefox(case: "loc") } jednym kliknięciem. Dostępny w wybranych krajach. Aby zapewnić pełną ochronę wszystkich urządzeń i aplikacji, sprawdź <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>.
 who-owns-firefox = Kto jest właścicielem { -brand-name-firefox(case: "gen") }?
 
 # Variables:
