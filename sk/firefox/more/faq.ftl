@@ -65,6 +65,9 @@ does-firefox-have = Má { -brand-name-firefox } vstavanú sieť VPN?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } nemá vstavanú VPN (virtuálnu súkromnú sieť), ale { -brand-name-mozilla } vytvára produkt s názvom <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, ktorý môžete použiť ako doplnok k súkromnému { -brand-name-firefox-browser(case: "dat", capitalization: "lower") }, ktorý môže chrániť vaše pripojenie na Wi‑Fi, ako aj vašu IP adresu.
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-have-vpn = { -brand-name-firefox } obsahuje bezplatnú vstavanú sieť VPN, ktorá chráni vašu IP adresu pred sledovaním počas prehliadania. Zapnete ju priamo vo { -brand-name-firefox(case: "loc") } jediným kliknutím. Dostupné na vybraných trhoch. Ak chcete úplnú ochranu všetkých vašich zariadení a aplikácií, pozrite si  <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>.
 who-owns-firefox = Kto vlastní { -brand-name-firefox }?
 
 # Variables:
