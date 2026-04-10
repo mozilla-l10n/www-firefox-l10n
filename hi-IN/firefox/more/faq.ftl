@@ -78,6 +78,9 @@ does-firefox-have = क्या { -brand-name-firefox } में एक अं
 firefox-does-not-v2 = { -brand-name-firefox } में बिल्ट-इन VPN (वर्चुअल प्राइवेट नेटवर्क) नहीं होता है, लेकिन { -brand-name-mozilla } एक प्रोडक्ट तैयार करता है जिसका नाम है <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, जिसका उपयोग आप प्राइवेट { -brand-name-firefox-browser } के अतिरिक्त कर सकते हैं, जो वाई-फ़ाई पर पर आपके कनेक्शन, और साथ ही साथ आपके आईपी एड्रेस की रक्षा कर सकता है।
 
 
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-have-vpn = { -brand-name-firefox } में एक मुफ़्त, इन-बिल्ट VPN शामिल है, जो आपके ब्राउज़ करते समय आपके IP एड्रेस को ट्रैक होने से बचाता है। इसे { -brand-name-firefox } में बस एक क्लिक से चालू करें। यह अभी चुनिंदा बाज़ारों में उपलब्ध है। अगर आपको अपने सभी डिवाइस और ऐप्स के लिए संपूर्ण डिवाइस सुरक्षा पानी है, तो <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> का उपयोग करें।
 
 who-owns-firefox = { -brand-name-firefox } का मालिक कौन है?
 
