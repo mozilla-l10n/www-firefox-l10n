@@ -78,6 +78,9 @@ does-firefox-have = Apakah { -brand-name-firefox } memiliki VPN bawaan?
 firefox-does-not-v2 = { -brand-name-firefox } tidak memiliki VPN bawaan (jaringan pribadi virtual), tetapi { -brand-name-mozilla } membuat produk yang bernama <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> yang dapat Anda gunakan sebagai tambahan ke { -brand-name-firefox-browser } pribadi yang dapat melindungi koneksi Anda di Wi-Fi, serta alamat IP Anda.
 
 
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-have-vpn = { -brand-name-firefox } dilengkapi VPN gratis bawaan yang melindungi alamat IP Anda dari pelacakan saat Anda menjelajah. Aktifkan di { -brand-name-firefox } dengan sekali klik. Tersedia di wilayah tertentu. Untuk perlindungan menyeluruh di semua perangkat dan aplikasi Anda, lihat <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>.
 
 who-owns-firefox = Siapa pemilik { -brand-name-firefox }?
 
