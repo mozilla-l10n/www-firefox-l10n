@@ -78,6 +78,9 @@ does-firefox-have = { -brand-name-firefox } dispose-t-il d’un VPN intégré ?
 firefox-does-not-v2 = { -brand-name-firefox } ne propose pas de VPN intégré, mais { -brand-name-mozilla } a conçu un produit appelé <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, que vous pouvez utiliser en complément du { -brand-name-firefox-browser } privé pour protéger votre connexion en Wi-Fi ainsi que votre adresse IP.
 
 
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-have-vpn = { -brand-name-firefox } inclut un VPN intégré et gratuit qui empêche votre adresse IP d’être pistée pendant que vous naviguez. Activez-le en un seul clic dans { -brand-name-firefox }. Disponible uniquement dans certains pays. Pour une protection intégrale de tous vos appareils et applications, choisissez <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>.
 
 who-owns-firefox = À qui appartient { -brand-name-firefox } ?
 
