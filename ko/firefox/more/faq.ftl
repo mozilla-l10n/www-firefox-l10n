@@ -65,6 +65,9 @@ does-firefox-have = { -brand-name-firefox }에 내장 VPN이 있나요?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox }에는 내장 VPN(virtual private network, 가상 사설망)이 없지만 { -brand-name-mozilla }가 { -brand-name-firefox-browser }와 함께 사용할 수 있으며 사용자의 Wi-Fi 연결과 IP 주소를 보호할 수 있는 <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>이라는 제품을 만듭니다.
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-have-vpn = { -brand-name-firefox }는 무료 VPN을 내장하고 있어 사용자가 탐색하는 동안 IP 주소가 추적되지 않도록 보호합니다. { -brand-name-firefox }에서 클릭 한 번으로 켜세요. 일부 시장에서만 사용 가능합니다. 모든 기기와 앱에서 기기를 완전히 보호하려면 <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>을 확인하세요.
 who-owns-firefox = { -brand-name-firefox }의 소유자는 누구인가요?
 
 # Variables:
