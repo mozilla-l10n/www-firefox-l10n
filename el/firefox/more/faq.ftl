@@ -65,6 +65,9 @@ does-firefox-have = Διαθέτει το { -brand-name-firefox } ενσωματ
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = Το { -brand-name-firefox } δεν διαθέτει ενσωματωμένο VPN (εικονικό ιδιωτικό δίκτυο), αλλά η { -brand-name-mozilla } δημιούργησε το <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> που μπορείτε να χρησιμοποιήσετε σε συνδυασμό με το ιδιωτικό πρόγραμμα περιήγησης { -brand-name-firefox-browser }, το οποίο μπορεί να προστατεύσει τη σύνδεσή σας στο Wi-Fi, καθώς και τη διεύθυνση IP σας.
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-have-vpn = Το { -brand-name-firefox } περιλαμβάνει ένα δωρεάν VPN που προστατεύει τη διεύθυνση IP σας από καταγραφή κατά την περιήγηση. Ενεργοποιήστε το στο { -brand-name-firefox } με ένα μόνο κλικ. Διαθέσιμο σε επιλεγμένες αγορές. Για πλήρη προστασία σε όλες τις συσκευές και τις εφαρμογές σας, δείτε το <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>.
 who-owns-firefox = Σε ποια εταιρεία ανήκει το { -brand-name-firefox };
 
 # Variables:
