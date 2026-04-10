@@ -78,6 +78,9 @@ does-firefox-have = هل لدى { -brand-name-firefox } VPN مدمج؟
 firefox-does-not-v2 = لا يحتوي { -brand-name-firefox } على VPN (شبكة افتراضية خاصة) مُدمجة، ولكن { -brand-name-mozilla } تُقدّم منتجًا يُسمى <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> ويمكنك استخدامه بالإضافة إلى { -brand-name-firefox-browser } الخاص الذي يمكنه حماية اتصالك على شبكة Wi-Fi، بالإضافة إلى عنوان IP الخاص بك.
 
 
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-have-vpn = يتضمّن { -brand-name-firefox } شبكة VPN مجانية مُدمجة تحمي عنوان IP الخاص بكم من التتبع أثناء التصفّح. يُمكنكم تشغيلها في { -brand-name-firefox } بنقرة واحدة. متوفّرة في أسواق مختارة. للحصول على حماية كاملة للجهاز عبر جميع أجهزتكم وتطبيقاتكم، يُرجى الاطلاع على <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>.
 
 who-owns-firefox = من يملك { -brand-name-firefox }؟
 
