@@ -9,6 +9,7 @@
 firefox-enterprise-use-firefox-esr-enterprise-browser = Koristi { -brand-name-firefox } ili { -brand-name-esr } kao poslovni preglednik za sigurnost velikih razmjera
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = Koristi { -brand-name-firefox } kao poslovni preglednik
+firefox-enterprise-secure-at-scale = { -brand-name-firefox } pruža sigurno, otporno i na privatnost usmjereno pregledavanje u velikim razmjerima. S poslovnim pravilima za { -brand-name-firefox } ili { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }), organizacije dobivaju fleksibilnost, kontrolu i transparentnost u pouzdanom pregledniku otvorenog koda.
 firefox-enterprise-protection-powered-by = Zaštita na poslovnoj razini koju pokreće { -brand-name-firefox }
 firefox-enterprise-open-source-transparency = { -brand-name-firefox } kombinira transparentnost otvorenog koda s naprednim sigurnosnim funkcijama i čestim aktualiziranjima kao pomoć za zaštitu podataka tvoje organizacije.
 firefox-enterprise-your-browser-your-business = Tvoj preglednik, tvoj posao
@@ -41,3 +42,6 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } (32-bitni)
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Preuzmi { -brand-name-firefox } ili { -brand-name-firefox-esr } za <a { $firefox_all }>jedan drugi jezik ili platformu.</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+firefox-enterprise-early-access-is = Rani pristup je sada otvoren za naš novi program podrške koji počinje u siječnju 2026. Izrađen za organizacije koje koriste { -brand-name-firefox } kako bi osigurale sigurnost, otpornost i suverenitet podataka, pruža privatnu, pouzdanu i prilagođenu podršku za velike implementacije.
+firefox-enterprise-support-for-organizations-documentation = Dokumentacija za { -brand-name-support-for-organizations }
+firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } je ponuda za timove kojima je potrebna privatna trijaža i eskalacija problema, definirana vremena odgovora, prilagođene opcije razvoja i bliska suradnja s inženjerskim i proizvodnim timovima tvrtke { -brand-name-mozilla }.
