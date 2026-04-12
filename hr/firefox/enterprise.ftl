@@ -45,3 +45,4 @@ firefox-enterprise-support-for-organizations = { -brand-name-support-for-organiz
 firefox-enterprise-early-access-is = Rani pristup je sada otvoren za naš novi program podrške koji počinje u siječnju 2026. Izrađen za organizacije koje koriste { -brand-name-firefox } kako bi osigurale sigurnost, otpornost i suverenitet podataka, pruža privatnu, pouzdanu i prilagođenu podršku za velike implementacije.
 firefox-enterprise-support-for-organizations-documentation = Dokumentacija za { -brand-name-support-for-organizations }
 firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } je ponuda za timove kojima je potrebna privatna trijaža i eskalacija problema, definirana vremena odgovora, prilagođene opcije razvoja i bliska suradnja s inženjerskim i proizvodnim timovima tvrtke { -brand-name-mozilla }.
+firefox-enterprise-support-plan = Plan podrške
