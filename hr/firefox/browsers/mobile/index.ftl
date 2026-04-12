@@ -12,7 +12,7 @@ browsers-mobile-overview-of-all-mobile = Pregled svih { -brand-name-firefox } mo
 browsers-mobile-firefox-for-android = { -brand-name-firefox } za { -brand-name-android }
 browsers-mobile-infinitely-customizable-private = Beskrajno prilagodljiv, privatan i siguran, { -brand-name-firefox } za { -brand-name-android } je nevjerojatno brz preglednik koji te nikada neće izdati.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios }
-browsers-mobile-go-your-own-way = Nastavi po svome s { -brand-name-firefox } za mobilne uređaje
+browsers-mobile-go-your-own-way = Nastavi po svome s aplikacijom { -brand-name-firefox } za mobitele
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } za mobitel se prilagođava tebi i olakšava pregled svih tvojih otvorenih kartica, prošlih pretraživanja i omiljenih web-stranica.
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Nabavi poboljšanu zaštitu od praćenja i postavi { -brand-name-firefox } svojim standardnim preglednikom zauvijek na tvom { -brand-name-iphone }u i { -brand-name-ipad }u.
