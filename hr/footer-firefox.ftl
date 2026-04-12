@@ -9,6 +9,7 @@
 footer-download = Preuzmi
 footer-download-auto = Preuzmi { -brand-name-firefox }
 footer-windows = Windows
+footer-macos = macOS
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
@@ -68,6 +69,7 @@ footer-logo-trademark-licensing = Korištenje zaštitnih znakova i logotipova
 
 footer-language = Jezik
 footer-go = Idi
+footer-ask-question = Postavi nam pitanje!
 footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding

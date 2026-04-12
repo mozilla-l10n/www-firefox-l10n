@@ -7,6 +7,8 @@ send-to-device-your-download-link = Tvoja poveznica za preuzimanje je poslana.
 send-to-device-please-enter-an-email = Upiši jednu e-mail adresu.
 send-to-device-an-error-occured = Došlo je do greške u sustavu. Pokušaj ponovo kasnije.
 send-to-device-enter-your-email = Upiši svoju e-mail adresu
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = tvojeime@primjer.hr
 send-to-device-send = Pošalji
 send-to-device-intended-recipient-email = Primatelj e-pošte mora pristati.
 send-to-device-check-your-device-email = Provjeri na svom uređaju, je li stigao e-mail!

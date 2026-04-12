@@ -5,6 +5,9 @@
 navigation-firefox-home = { -brand-name-firefox } početna stranica
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = Primarni
+navigation-browser = Preglednik
+navigation-close-menu = Zatvori izbornik
+navigation-get-firefox = Preuzmi { -brand-name-firefox }
 
 ## Features
 
@@ -16,6 +19,7 @@ navigation-ad-tracker-blocking = Blokiranje praćenja putem oglasa
 navigation-private-browsing = Modus privatnog pregledavanja
 navigation-password-manager = Besplatan upravljač lozinki
 navigation-features-all = Pogledaj sve { -brand-name-firefox } funkcije
+navigation-about-firefox-features = O { -brand-name-firefox } funkcijama
 
 ## Resources
 
@@ -24,15 +28,23 @@ navigation-close-resources-menu = Zatvori izbornik resursa
 navigation-product = Proizvod
 navigation-desktop = Desktop
 navigation-mobile = Mobitel
+navigation-enterprise = Poduzeća
 navigation-release-notes = Napomene o izdanju
 navigation-support = Podrška
+navigation-extensions-and-themes = Proširenja i teme
 navigation-add-ons = Dodaci
+navigation-all-downloads = Sva preuzimanja
 navigation-learn = Nauči
 navigation-blog = Blog
+navigation-newsletter = Bilten
 navigation-compare = Usporedi
 navigation-podcast = Podcast
 navigation-data-protection = Zaštita podataka
+navigation-protection = Zaštita
+navigation-control = Kontrola
+navigation-focus = Focus
 
 ## Download
 
 navigation-download = Preuzmi
+navigation-download-firefox = Preuzmi { -brand-name-firefox }
