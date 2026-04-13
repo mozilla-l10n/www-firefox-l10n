@@ -67,7 +67,7 @@ does-firefox-have = A yw { -brand-name-firefox } yn cynnig VPN?
 firefox-does-not-v2 = Nid oes gan { -brand-name-firefox } VPN (rhwydwaith preifat rhithwir) fel rhan ohono, ond mae { -brand-name-mozilla } yn creu cynnyrch o'r enw <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> y gallwch ei ddefnyddio yn ogystal â'r { -brand-name-firefox-browser } preifat sy'n gallu diogeu eich cysylltiad ar WiFi, yn ogystal â'ch cyfeiriad IP.
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
-firefox-does-have-vpn = Mae { -brand-name-firefox } yn cynnwys VPN adeiledig am ddim sy'n amddiffyn eich cyfeiriad IP rhag cael ei dracio wrth i chi bori. Trowch ef ymlaen mewn { -brand-name-firefox } gydag un clic. Ar gael mewn marchnadoedd dethol. I gael amddiffyniad dyfais lawn ar draws eich holl ddyfeisiau ac apiau, edrychwch ar <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>.
+firefox-does-have-vpn = Mae { -brand-name-firefox } yn cynnwys VPN mewnol am ddim sy'n diogelu eich cyfeiriad IP rhag cael ei dracio wrth i chi bori. Trowch ef ymlaen o fewn { -brand-name-firefox } gydag un clic. Ar gael mewn marchnadoedd dethol. I gael diogelwch dyfais lawn ar draws eich holl ddyfeisiau ac apiau, edrychwch ar <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>.
 who-owns-firefox = Pwy sydd bia { -brand-name-firefox }?
 
 # Variables:
