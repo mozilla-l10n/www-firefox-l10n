@@ -46,3 +46,10 @@ firefox-new-fast = Hraðvirkt, einka og ókeypis
 firefox-new-from-mozilla = frá { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } er ókeypis vafri með hraðri hleðslu á síðum, léttari minnisnotkun og fullt af eiginleikum - afurð verkefnis á vegum { -brand-name-mozilla }, sem ekki er rekið í hagnaðarskyni.
 firefox-new-download-a-different = Sækja fyrir annað stýrikerfi eða tungumál
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook
