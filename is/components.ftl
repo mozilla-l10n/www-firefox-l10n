@@ -11,3 +11,6 @@
 # Variables:
 #   $number (number) - the number of the step
 block-step-card-step = Skref { $number }
+# Download Firefox button
+# Download Firefox button has optional "set as default" checkmark label
+block-set-as-default = Stilltu { -brand-name-firefox } sem sjálfgefna vafrann þinn.

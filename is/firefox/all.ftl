@@ -21,12 +21,16 @@ firefox-all-down-arrow = Veldu úr listanum hér að neðan
 firefox-all-get-help = Fá aðstoð
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Vafri:
+firefox-all-browser-v3 = Vafri
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Stýrikerfi:
+firefox-all-platform-v3 = Stýrikerfi
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Tungumál:
+firefox-all-language-v3 = Tungumál
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Sækja:
+firefox-all-download-v2 = Sækja
 firefox-all-desktop = Vinnutölvur
 firefox-all-mobile = Farsími
 firefox-all-recommended = (mælt með)

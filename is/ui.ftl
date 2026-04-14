@@ -23,6 +23,7 @@ ui-learn-more = Fræðast meira
 ui-view = Skoða
 ui-pause-animation = Gera hlé á hreyfimynd
 ui-play-animation = Spila hreyfimynd
+ui-edit = Breyta
 ui-view-all = Skoða allt
 ui-more-features = Fleiri eiginleikar
 # An accessible label used to describe the purpose of a cross-promotional page element.
