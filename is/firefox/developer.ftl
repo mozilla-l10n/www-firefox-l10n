@@ -19,4 +19,5 @@ firefox-developer-memory = Minni
 firefox-developer-find-memory-leaks = Finndu minnisleka og gerðu forritið þitt hraðvirkt.
 firefox-developer-style-editor = Style Editor
 firefox-developer-new-tools = Ný verkfæri
+firefox-developer-inactive-css = Óvirkt CSS
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } automatically sends feedback to { -brand-name-mozilla }.

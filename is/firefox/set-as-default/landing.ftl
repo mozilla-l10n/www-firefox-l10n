@@ -12,3 +12,4 @@ set-as-default-landing-choose-the-browser = Veldu vafrann sem verndar friðhelgi
 set-as-default-landing-you-should-get = Þú ættir að fá að ráða því hvernig þú vafrar
 set-as-default-landing-choose-automatic-privacy = Veldu sjálfvirka persónuvernd
 set-as-default-landing-choose-freedom-on-every = Veldu frelsi á öllum tækjum
+set-as-default-landing-choose-corporate-independence = Veldu sjálfstæði frá fyrirtækjum
