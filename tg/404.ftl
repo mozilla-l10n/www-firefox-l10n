@@ -15,6 +15,7 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Маълумо
 # Variables:
 #   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = Браузери { -brand-name-firefox }-ро барои дастгоҳи мобилӣ ё мизи кории худ <a href={ $download }>боргирӣ кунед</a>
+# Obsolete string (expires: 2026-06-15)
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 not-found-page-donate-to-mozilla-reclaim-from = Ба «{ -brand-name-mozilla-foundation }» <a { $donate }>саҳм гузоред</a> ва Интернетро аз ширкатҳои технологияҳои бузург ба худ гардонед.

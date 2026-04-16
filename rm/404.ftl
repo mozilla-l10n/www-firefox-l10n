@@ -15,6 +15,7 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Ve a savair da
 # Variables:
 #   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Telechargia</a> il navigatur { -brand-name-firefox } per tes apparat mobil u computer
+# Obsolete string (expires: 2026-06-15)
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Fa ina donaziun</a> en favur da la { -brand-name-mozilla-foundation } per deliberar l’internet dals concerns da tecnologia.

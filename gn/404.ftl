@@ -15,6 +15,7 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Eikuaa</a> { -
 # Variables:
 #   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Emboguejy</a> { -brand-name-firefox } kundahára ne mba’e’oka térã mohendaha mesa ariguápe
+# Obsolete string (expires: 2026-06-15)
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Embojopói</a> { -brand-name-mozilla-foundation } ha erekóta Ñanduti mba’apohaguasu tembiporupyahugua.

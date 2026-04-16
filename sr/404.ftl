@@ -15,6 +15,7 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Сазнајт
 # Variables:
 #   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Преузмите</a> { -brand-name-firefox } прегледач за ваш мобилни уређај или рачунар
+# Obsolete string (expires: 2026-06-15)
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Донирајте</a> { -brand-name-mozilla-foundation } и одузмите великим технолошким компанијама контролу над интернетом.

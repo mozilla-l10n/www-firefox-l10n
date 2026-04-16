@@ -15,6 +15,7 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Μάθετε</
 # Variables:
 #   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Αποκτήστε</a> το { -brand-name-firefox } για την κινητή συσκευή ή τον υπολογιστή σας
+# Obsolete string (expires: 2026-06-15)
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Δωρίστε</a> στο { -brand-name-mozilla-foundation } και ανακτήστε το διαδίκτυο από τους τεχνολογικούς κολοσσούς.

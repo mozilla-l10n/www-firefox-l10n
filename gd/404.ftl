@@ -15,6 +15,7 @@ not-found-page-learn-about-mozilla-the-non = Faigh <a href="{ $about }">fiosrach
 # Variables:
 #   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Luchdaich a-nuas</a> brabhsair { -brand-name-firefox } dhan uidheam mobile no desktop agad
+# Obsolete string (expires: 2026-06-15)
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Thoir tabhartas</a> dha { -brand-name-mozilla-foundation } is ath-bhuannaicheamaid an t-eadar-lìon air ais o companaidhean mòr an teicneolais.

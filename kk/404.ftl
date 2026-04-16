@@ -15,6 +15,7 @@ not-found-page-learn-about-mozilla-the-non = { -brand-name-firefox } жобас�
 # Variables:
 #   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = Мобильді құрылғыңызға немесе жұмыс үстеліңізге арналған { -brand-name-firefox } браузерін <a href={ $download }>жүктеп алыңыз</a>
+# Obsolete string (expires: 2026-06-15)
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 not-found-page-donate-to-mozilla-reclaim-from = { -brand-name-mozilla-foundation } ұйымына <a { $donate }>демеушілік жасаңыз</a> және интернетті ірі компаниялардан қайтарып алыңыз.
