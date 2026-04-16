@@ -19,3 +19,6 @@ not-found-page-download-the-firefox-browser = Мобильді құрылғың�
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 not-found-page-donate-to-mozilla-reclaim-from = { -brand-name-mozilla-foundation } ұйымына <a { $donate }>демеушілік жасаңыз</a> және интернетті ірі компаниялардан қайтарып алыңыз.
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-foundation = { -brand-name-mozilla-foundation } ұйымына <a { $donate }>демеушілік жасаңыз</a> және интернетті ірі компаниялардан қайтарып алыңыз.
