@@ -19,3 +19,6 @@ not-found-page-download-the-firefox-browser = <a href={ $download }>Llwytho i la
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Cyfrannu</a> at y { -brand-name-mozilla-foundation } ac adennill y rhyngrwyd rhag technoleg fawr.
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-foundation = <a { $donate }>Cyfrannwch</a> tuag at { -brand-name-mozilla-foundation } er mwyn adennill y rhyngrwyd rhag y cwmnïau technoleg fawr.

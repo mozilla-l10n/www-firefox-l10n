@@ -19,3 +19,6 @@ not-found-page-download-the-firefox-browser = <a href={ $download }>Töltse le</
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Adományozzon</a> a { -brand-name-mozilla-foundation }nak, és szerezze vissza az internetet a nagy technológiai vállalatoktól.
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-foundation = <a { $donate }>Adományozzon</a> a { -brand-name-mozilla-foundation }nak, és szerezze vissza az internetet a nagy technológiai vállalatoktól.
