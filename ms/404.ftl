@@ -17,6 +17,8 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Ketahui</a> te
 #   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Muat turun</a> { -brand-name-firefox } untuk peranti mudah alih atau desktop anda
 
+# Obsolete string (expires: 2026-06-15)
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Dermalah</a> ke { -brand-name-mozilla-foundation } dan tuntut semula kuasa internet anda daripada syarikat teknologi gergasi.
+
