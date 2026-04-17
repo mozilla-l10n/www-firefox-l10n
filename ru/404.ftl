@@ -21,4 +21,4 @@ not-found-page-download-the-firefox-browser = <a href={ $download }>Скачай
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Сделайте пожертвование</a> в пользу { -brand-name-mozilla-foundation } и отберите Интернет у крупных компаний.
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
-not-found-page-donate-to-mozilla-foundation = <a { $donate }>Пожертвуйте</a> в пользу { -brand-name-mozilla-foundation } и верните Интернет у бигтеха.
+not-found-page-donate-to-mozilla-foundation = <a { $donate }>Пожертвуйте</a> в пользу { -brand-name-mozilla-foundation } и заберите Интернет у бигтеха.
