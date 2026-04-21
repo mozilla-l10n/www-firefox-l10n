@@ -13,6 +13,7 @@ firefox-enterprise-protection-powered-by = Ñemo’ã mba’apohaguávarõ, { -b
 firefox-enterprise-open-source-transparency = { -brand-name-firefox } ombojopyru ayvu juruja tembiapoite hekosakãva tekorosã añetépe ha hekopyahumeme omo’ãkuaa hag̃ua tendaguasu mba’ekuaarãita.
 firefox-enterprise-your-browser-your-business = Ne kundahára, ne ñemuha
 firefox-enterprise-deploy-when-and-how-you-want = Eipyso eipota ha ejaposeháicha
+firefox-enterprise-install-packages-policies = Umi ñemohenda hetaguáva ha avei peteĩ porureko iñasãiva ha tembiapoite atyguáva, pe ñemoinge ipya’eve ha hekohu’ũ araka’eve oĩ’ỹháicha — ha ndahasyiete Windows ha MacOS jerére.
 firefox-enterprise-release-cycles = Ñemoherakuã ojokupytýva nde atyguasu ndive
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } ñemboguejy
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
