@@ -19,3 +19,6 @@ not-found-page-download-the-firefox-browser = <a href={ $download }>Emboguejy</a
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Embojopói</a> { -brand-name-mozilla-foundation } ha erekóta Ñanduti mba’apohaguasu tembiporupyahugua.
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-foundation = <a { $donate }>Embojopói</a> { -brand-name-mozilla-foundation } ha erekóta Ñanduti mba’apohaguasu tembiporupyahugua.

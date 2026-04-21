@@ -10,6 +10,7 @@ firefox-enterprise-use-firefox-esr-enterprise-browser = Eiporu { -brand-name-fir
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = Eiporu { -brand-name-firefox } ne kundahára mba’apohaguávaramo
 firefox-enterprise-protection-powered-by = Ñemo’ã mba’apohaguávarõ, { -brand-name-firefox } rembiporupyahu ndive
+firefox-enterprise-open-source-transparency = { -brand-name-firefox } ombojopyru ayvu juruja tembiapoite hekosakãva tekorosã añetépe ha hekopyahumeme omo’ãkuaa hag̃ua tendaguasu mba’ekuaarãita.
 firefox-enterprise-your-browser-your-business = Ne kundahára, ne ñemuha
 firefox-enterprise-deploy-when-and-how-you-want = Eipyso eipota ha ejaposeháicha
 firefox-enterprise-release-cycles = Ñemoherakuã ojokupytýva nde atyguasu ndive
