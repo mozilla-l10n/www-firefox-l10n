@@ -22,3 +22,6 @@ not-found-page-download-the-firefox-browser = <a href={ $download }>Muat turun</
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Dermalah</a> ke { -brand-name-mozilla-foundation } dan tuntut semula kuasa internet anda daripada syarikat teknologi gergasi.
 
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-foundation = <a { $donate }>Dermalah</a> kepada { -brand-name-mozilla-foundation } dan tuntut semula kebebasan berinternet daripada syarikat teknologi pemonolopi.

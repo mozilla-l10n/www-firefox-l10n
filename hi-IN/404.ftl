@@ -22,3 +22,6 @@ not-found-page-download-the-firefox-browser = अपने मोबाइल �
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 not-found-page-donate-to-mozilla-reclaim-from = { -brand-name-mozilla-foundation } को <a { $donate }>दान दें</a> और इंटरनेट का कंट्रोल विशाल टेक कंपनियों से वापस अपने हाथ में लें।
 
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-foundation = { -brand-name-mozilla-foundation } को <a { $donate }>दान दें</a> और इंटरनेट का कंट्रोल विशाल टेक कंपनियों से वापस अपने हाथ में लें।
