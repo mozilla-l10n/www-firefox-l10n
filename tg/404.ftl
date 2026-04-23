@@ -19,3 +19,6 @@ not-found-page-download-the-firefox-browser = Браузери { -brand-name-fir
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 not-found-page-donate-to-mozilla-reclaim-from = Ба «{ -brand-name-mozilla-foundation }» <a { $donate }>саҳм гузоред</a> ва Интернетро аз ширкатҳои технологияҳои бузург ба худ гардонед.
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-foundation = Ба «{ -brand-name-mozilla-foundation }» <a { $donate }>саҳм гузоред</a> ва Интернетро аз ширкатҳои технологияҳои бузург ба салоҳияти худ гардонед.
