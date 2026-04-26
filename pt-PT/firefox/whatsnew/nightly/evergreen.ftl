@@ -22,5 +22,5 @@ nightly-whatsnew-if-you-want-to = Se pretende saber o que está a acontecer à v
 nightly-whatsnew-want-to-know-which = Quer descobrir quais as funcionalidades da plataforma que pode experimentar no { -brand-name-nightly } e que ainda não estão disponíveis nos outros canais do { -brand-name-firefox }? Então, espreite a página de preferências do <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
-nightly-whatsnew-do-you-experience = Está a enfrentar falhas? Comportamento inesperado? Regressões da compatibilidade web? Adoraríamos de os ter arquivados no <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> para ter a certeza que estes não chegam ao lançamento final (carma extra se adicionar a palavra-chave <em>{ -brand-name-nightly }-community</em> aos seus relatórios de bugs)!
+nightly-whatsnew-do-you-experience = Tem tido falhas? Comportamentos inesperados? Regressões de compatibilidade web? Gostaríamos muito que os reportasse em <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> para garantir que não chegam ao lançamento final (ganha pontos extra se adicionar a palavra-chave <em>{ -brand-name-nightly }-community</em> aos seus relatórios de erro)!
 nightly-whatsnew-go-community = Vamos, comunidade!

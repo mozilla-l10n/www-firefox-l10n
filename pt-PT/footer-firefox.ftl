@@ -46,7 +46,7 @@ footer-release-notes = Notas de lançamento
 # https://www-dev.springfield.moz.works/more/
 footer-learn = Aprender
 footer-support = Apoio
-footer-addons = Extras
+footer-addons = Complementos
 footer-blog = Blogue
 
 ## Links to social media
