@@ -52,7 +52,7 @@ firefox-home-explore-the-possibilities = Explore as possibilidades de pesquisa, 
 firefox-home-bye-boring = Adeus, navegador entediante
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
-firefox-home-the-internet-can = A Internet pode ser um lugar cor-de-rosa, com o <a { $theme_attrs }>tema</a> do extra certo.
+firefox-home-the-internet-can = A Internet pode ser um lugar mais agradável, com o <a { $theme_attrs }>tema</a> certo.
 
 ## Final call-out
 

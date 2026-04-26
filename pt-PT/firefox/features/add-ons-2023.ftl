@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/add-ons/
 
-features-add-ons-firefox-add-ons = Extras do { -brand-name-firefox }
-features-add-ons-firefox-add-ons-and-browser-extensions = Extras e extensões do navegador { -brand-name-firefox }
+features-add-ons-firefox-add-ons = Complementos do { -brand-name-firefox }
+features-add-ons-firefox-add-ons-and-browser-extensions = Complementos e extensões do navegador { -brand-name-firefox }
 features-add-ons-extensions-also-known-as-add-ons = As extensões – também conhecidas como extras do { -brand-name-firefox } – são funcionalidades extra que pode transferir e instalar para adicionar mais funcionalidades e ferramentas ao seu navegador. Os extras permitem-lhe personalizar o seu navegador { -brand-name-firefox } e melhorar a forma como utiliza a web.
 # Variables:
 #   $fbcontainer (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
