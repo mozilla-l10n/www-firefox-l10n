@@ -21,4 +21,4 @@ not-found-page-download-the-firefox-browser = <a href={ $download }>Stáhněte s
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Přispějte</a> ve prospěch { -brand-name-mozilla-foundation } a získejte zpět internet od velkých korporací.
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
-not-found-page-donate-to-mozilla-foundation = <a { $donate }>Přispějte</a> organizaci { -brand-name-mozilla-foundation } a vezměte si zpět internet od velkých technologií.
+not-found-page-donate-to-mozilla-foundation = <a { $donate }>Přispějte</a> nadaci { -brand-name-mozilla-foundation } a pomozte osvobodit internet od nadvlády velkých technologických firem.
