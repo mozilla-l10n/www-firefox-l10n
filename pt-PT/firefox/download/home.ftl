@@ -27,14 +27,14 @@ firefox-home-see-release = Ver notas de lançamento
 ## Features
 
 firefox-home-get-the-browser = Obtenha o navegador que o ajuda a fazer o trabalho
-firefox-home-block-ad-trackers = Bloqueie trackers de anúncios sem mover um dedo
-firefox-home-ad-trackers-make = Os rastreadores de anúncios tornam as páginas da Internet mais lentas. Com { -brand-name-firefox }, não terá de revirar as configurações para corrigir isto, porque bloqueamos automaticamente a maioria dos rastreadores.
+firefox-home-block-ad-trackers = Bloqueie rastreadores de anúncios automaticamente
+firefox-home-ad-trackers-make = Os rastreadores de anúncios tornam o carregamento das páginas web mais lento. Com o { -brand-name-firefox }, não precisa de mexer nas definições para resolver isto, pois bloqueamos automaticamente a maioria dos rastreadores.
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Rejeite as distrações
 # Variables
 #   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
 #   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
-firefox-home-stay-focused = Mantenha-se focado com extensões como o <a { $tomato_clock_attrs }>To qual o relógio</a> e <a { $turn_off_the_lights_attrs }>Desligar as luzes</a> — estas são Recomendadas, que é como a nossa estrela Dourada por ter segurança e funcionalidade excecionais .
+firefox-home-stay-focused = Mantenha a concentração com extensões como <a { $tomato_clock_attrs }>Tomato Clock</a> e <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — são Recomendadas, o que equivale à nossa distinção máxima pela sua segurança e funcionalidades excecionais.
 firefox-home-your-stuff = As suas coisas, em todos os seus ecrãs
 firefox-home-get-firefox-mobile = Obtenha o { -brand-name-firefox } móvel para que as suas palavras-passe, separadores e histórico — e a privacidade e segurança em que confia — o acompanham para onde for.
 firefox-home-privacy-built-in = Privacidade integrada
