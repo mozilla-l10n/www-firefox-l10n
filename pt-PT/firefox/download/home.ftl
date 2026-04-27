@@ -10,7 +10,7 @@
 
 firefox-home-take-control = Assuma o controlo da sua Internet
 firefox-home-go-online = Aceda à Internet com menos distrações, ruído e stress. Pense em nós como uma lufada de ar fresco.
-firefox-home-set-firefox-as = Definir o { -brand-name-firefox } como o seu navegador predefinido.
+firefox-home-set-firefox-as = Defina o { -brand-name-firefox } como o seu navegador predefinido.
 
 ## What's new
 
@@ -36,7 +36,7 @@ firefox-home-swear-off = Rejeite as distrações
 #   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
 firefox-home-stay-focused = Mantenha a concentração com extensões como <a { $tomato_clock_attrs }>Tomato Clock</a> e <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> — são Recomendadas, o que equivale à nossa distinção máxima pela sua segurança e funcionalidades excecionais.
 firefox-home-your-stuff = As suas coisas, em todos os seus ecrãs
-firefox-home-get-firefox-mobile = Obtenha o { -brand-name-firefox } móvel para que as suas palavras-passe, separadores e histórico — e a privacidade e segurança em que confia — o acompanham para onde for.
+firefox-home-get-firefox-mobile = Descarregue o { -brand-name-firefox } no seu telemóvel para levar consigo as suas palavras-passe, separadores, histórico e toda a privacidade e segurança na qual confia, onde quer que vá.
 firefox-home-privacy-built-in = Privacidade integrada
 firefox-home-personal-data-not-for-sale = Os seus dados pessoais não estão à venda. Os rastreadores e cookies de terceiros estão bloqueados por predefinição, para que possa apenas … navegar.
 firefox-home-learn-data-protection = Saiba como o { -brand-name-firefox } protege os seus dados
@@ -44,29 +44,29 @@ firefox-home-learn-data-protection = Saiba como o { -brand-name-firefox } proteg
 ## Customization
 
 # asterisks provide playful emphasis, omit or use symbols appropriate in your language
-firefox-home-really-make-it = *Realmente* torne-o seu
-firefox-home-work-smarter = Trabalhe de forma mais inteligente, jogue mais
+firefox-home-really-make-it = Torne-o *Realmente* seu
+firefox-home-work-smarter = Trabalhe com mais inteligência, divirta-se ainda mais
 # Variables
 #   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
-firefox-home-explore-the-possibilities = Explore as possibilidades de pesquisa, compras e muito mais, nas <a { $extensions_attrs }>extensões</a>.
-firefox-home-bye-boring = Adeus, navegador entediante
+firefox-home-explore-the-possibilities = Descubra novas possibilidades para pesquisar, fazer compras e muito mais através das <a { $extensions_attrs }>extensões</a>.
+firefox-home-bye-boring = Adeus, browser aborrecido
 # Variables
 #   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
 firefox-home-the-internet-can = A Internet pode ser um lugar mais agradável, com o <a { $theme_attrs }>tema</a> certo.
 
 ## Final call-out
 
-firefox-home-billionaire-free = Sem multi-bilionários por mais de 20 anos
-firefox-home-firefox-was-created = O { -brand-name-firefox } foi criado em 2004 por { -brand-name-mozilla } como uma alternativa mais rápida, mais privada e personalizável a navegadores como o Internet Explorer. Hoje, ainda não temos fins lucrativos, não somos propriedade de nenhum multi-bilionário e ainda estamos a trabalhar para tornar a Internet — e o tempo que gasta na mesma — melhor.
+firefox-home-billionaire-free = Sem bilionários, há mais de 20 anos
+firefox-home-firefox-was-created = O { -brand-name-firefox } foi lançado em 2004 pela { -brand-name-mozilla } como uma alternativa mais rápida, privada e personalizável a navegadores como o Internet Explorer. Hoje, continuamos sem fins lucrativos, não pertencemos a nenhum bilionário e mantemo-nos empenhados em melhorar a Internet — e o tempo que passa nela.
 
 ## Used as accessible alternative text for images.
 
 firefox-home-firefox-on-desktop = { -brand-name-firefox } no computador e dispositivo móvel.
-firefox-home-happy-toggle = Feliz alternar.
+firefox-home-happy-toggle = Feliz mudança.
 firefox-home-multiple-cursors = Múltiplos cursores.
 firefox-home-lots-of-open = Muitos separadores abertos.
 firefox-home-shield-and-hand = Escudo e mão a proteger um separador do navegador.
-firefox-home-a-human-brain = Um cerebro humano ligado ao mundo.
+firefox-home-a-human-brain = Um cérebro humano ligado ao mundo.
 firefox-home-desktop-laptop-and-phone = Computador, portátil e telefone.
 firefox-home-browser-window-with-lock = Janela do navegador com ícones de cadeado e escudo.
 firefox-home-firefox-in-dark = { -brand-name-firefox } no modo escuro.
