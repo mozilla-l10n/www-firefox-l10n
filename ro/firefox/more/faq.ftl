@@ -65,6 +65,9 @@ does-firefox-have = { -brand-name-firefox } are VPN încorporat?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } nu are VPN (rețea privată virtuală) încorporat, dar { -brand-name-mozilla } creează un produs numit <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> pe care îl poți utiliza pe lângă browserul privat { -brand-name-firefox-browser }, care îți poate proteja conexiunea prin Wi-Fi, precum și adresa IP.
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-have-vpn = { -brand-name-firefox } include un VPN încorporat gratuit care îți protejează adresa IP împotriva urmăririi în timpul navigării pe internet. Activează-l în { -brand-name-firefox } dintr-un singur clic. Disponibil pe piețele selectate. Pentru protecție completă a dispozitivului, pe toate dispozitivele și aplicațiile tale, vezi <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>.
 who-owns-firefox = Cine deține { -brand-name-firefox }?
 
 # Variables:
