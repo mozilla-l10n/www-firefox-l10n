@@ -11,7 +11,7 @@ whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = อัปเดต { -brand-name-firefox } ของคุณเรียบร้อยแล้ว
 whatsnew-download-firefox-for-your = ดาวน์โหลด { -brand-name-firefox } สำหรับสมาร์ทโฟนและแท็บเล็ตของคุณ
 # An accessible label for a QR code image
-whatsnew-qr-code-alt = สแกนรหัส QR นี้
+whatsnew-qr-code-alt = สแกนคิวอาร์โค้ดนี้
 # Variables:
 #   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = อ่าน<a { $url }>บันทึกประจำรุ่น</a>เพื่อเรียนรู้เพิ่มเติมว่ามีอะไรใหม่ในเบราว์เซอร์ { -brand-name-firefox } ของคุณ
