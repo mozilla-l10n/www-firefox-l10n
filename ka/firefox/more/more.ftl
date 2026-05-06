@@ -30,4 +30,4 @@ firefox-calls-it = { -brand-name-firefox } უწოდებს პირად
 firefox-more-fingerprinter-blocking = ამოცნობის შეზღუდვა
 firefox-more-fingerprinting-is-a = ანაბეჭდით ამოცნობა ინტერნეტში თვალის დევნების სახეა, მეტად მძლავრი, ვიდრე ფუნთუშებით მეთვალყურეობა — სწორედ ამიტომაც ზღუდავს { -brand-name-firefox-browser }.
 firefox-more-translate-the-web = გვერდების თარგმნა
-firefox-more-translate-more-than = თარგმნეთ 100-ზე მეტი ენიდან თქვენს ენაზე პირდაპირ { -brand-name-firefox-browser }-ში – ჯერ არნახული სიმარტივით.
+firefox-more-translate-more-than = თარგმნეთ 100-ზე მეტი ენიდან თქვენს ენაზე პირდაპირ { -brand-name-firefox-browser }-დან არნახული სიიოლით.
