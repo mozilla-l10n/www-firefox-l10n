@@ -109,6 +109,9 @@ firefox-desktop-download-from-security-to = Desde la seguridad hasta las noticia
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } fue creado por <a { $attrs }>{ -brand-name-mozilla }</a> como una alternativa más rápida y privada a navegadores como { -brand-name-ie }, y ahora { -brand-name-chrome }. Hoy en día, nuestra comunidad de voluntarios y empresas impulsadas por la misión continúan poniendo tu privacidad por sobre de todo.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = A medida que internet crece y cambia, { -brand-name-firefox } sigue priorizando tu derecho a la privacidad; siempre ha sido nuestra prioridad. Obtén más información sobre nuestras prácticas de datos en nuestro <a { $attrs }>Aviso de privacidad</a>.
 # Obsolete string (expires 19-09-2025)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/
