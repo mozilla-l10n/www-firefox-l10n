@@ -25,7 +25,7 @@ firefox-desktop-set-as-default = Establecer { -brand-name-firefox } como tu nave
 firefox-desktop-download-download-options = Opciones de descarga y otros idiomas
 firefox-desktop-download-browser-support = Ayuda para { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do-v2 = Haz lo que haces en línea.<br> { -brand-name-firefox-browser } te tiene protegido.
+firefox-desktop-download-do-what-you-do-v2 = Haz lo que haces en línea.<br> { -brand-name-firefox-browser } te tiene <strong>protegido</strong>.
 firefox-desktop-download-we-block-the-ad = Bloqueamos los rastreadores publicitarios. Por ello, exploras internet más rápido.
 firefox-desktop-download-ads-are-distracting = La publicidad distrae y hace que las páginas web se carguen más lentamente, mientras que sus rastreadores observan cada movimiento que realizas en línea. { -brand-name-firefox-browser } bloquea la mayoría de los rastreadores automáticamente, por lo que no es necesario profundizar en los ajustes de seguridad.
 firefox-desktop-download-see-your-report = Mira tu reporte de protección
