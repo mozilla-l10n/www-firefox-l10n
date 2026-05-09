@@ -7,6 +7,16 @@
 
 compare-shared-compare-firefox = Comparar { -brand-name-firefox }
 compare-shared-footer-cta-title = Haz más con { -brand-name-firefox }
+compare-shared-footer-cta-desc = Obtén el navegador rápido, ligero y centrado en la privacidad, respaldado por una organización sin fines de lucro y compatible con todos tus dispositivos.
+compare-shared-we-also-offer-easy = También ofrecemos funciones fáciles de usar, como por ejemplo:
+compare-shared-firefox-also-has-built-in = { -brand-name-firefox } también tiene herramientas integradas como:
+# Variables
+# $pdf (url) - link to https://www.firefox.com/features/pdf-editor/
+compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Edita archivos PDF</a> sobre la marcha dentro de la ventana de tu navegador { -brand-name-firefox } - no necesitas software adicional.
+# Variables
+# $translate (url) - link to https://www.firefox.com/features/translate/
+compare-shared-translate-a-web-page = <a { $translate }>Traducir una página web</a> de forma local y privada.
 compare-shared-its-easy-to-switch = Es fácil cambiar
+compare-shared-since-we-dont-have-to-make = Como no tenemos que complacer a los accionistas, podemos centrarnos en hacerte feliz a ti y siempre priorizar tu privacidad y comodidad.
 # Used as a small link to a cited source
 compare-shared-source = fuente
