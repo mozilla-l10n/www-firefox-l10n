@@ -7,5 +7,7 @@
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
+# HTML page description
+compare-chome-read-our-comparison = Lee nuestra comparativa de los navegadores { -brand-name-firefox } y Chrome en cuanto a características, privacidad y facilidad de uso.
 compare-chrome-we-block-trackers-by-default = Bloqueamos rastredores de forma predeterminada, Chrome no lo hace.
 compare-chrome-google-runs-the-worlds-largest = Google gestiona la red publicitaria más grande del mundo y Chrome es parte de ella.

@@ -15,3 +15,6 @@ compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } le facilit
 # Variables:
 # $primary (url) - link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
 compare-brave-firefox-gives-you-the-option = { -brand-name-firefox } te ofrece la opción de cifrar tus contraseñas guardadas y puedes <a { $primary }>usar una contraseña principal para acceder a ellas</a>; Tus contraseñas están protegidas incluso si tienes que compartir una computadora. Brave no protege sus contraseñas con contraseña.
+# Variables:
+# $howto (url) - link to https://support.mozilla.org/kb/import-data-another-browser
+compare-brave-switching-to-firefox-is-easy = Cambiar a { -brand-name-firefox } es fácil y rápido: importa tus marcadores, contraseñas, historial y preferencias de Brave con un solo clic y estarás listo para usar { -brand-name-firefox } de inmediato. Aquí te mostramos <a { $howto }>cómo importar tus datos de Brave</a>.
