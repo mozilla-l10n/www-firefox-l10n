@@ -14,3 +14,6 @@ firefox-developer-view-the-release = Vea las <a { $attrs }>notas de la versión<
 firefox-developer-developer-tools-user = Documentos de usuario de herramientas para desarrolladores
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Recursos para desarrolladores, por desarrolladores
+firefox-developer-mdn-playground = Patio de juegos
+firefox-developer-mdn-blog = { -brand-name-mdn } Blog
+firefox-developer-mdn-updates = Actualizaciones

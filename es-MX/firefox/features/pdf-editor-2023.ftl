@@ -16,3 +16,4 @@ pdf-editor-fill-in-forms-online-without = Completa formularios en línea sin nec
 pdf-editor-weve-all-faced-this-you-need-to = Todos nos hemos enfrentado a esto: tenemos que completar un formulario en formato PDF, pero no es editable. En el pasado, la única opción era imprimirlo en un árbol muerto, agregarle cosas con tinta y luego escanearlo nuevamente en la computadora.
 pdf-editor-add-text = Agregar texto
 pdf-editor-add-image-with-alt-text = Agregar imagen con texto alternativo
+pdf-editor-add-a-comment = Agregar comentarios
