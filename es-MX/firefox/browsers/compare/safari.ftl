@@ -7,6 +7,9 @@
 
 # Page title
 compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } vs Apple Safari
+# HTML page description
+compare-safari-read-our-comparison = Lee nuestra comparativa de los navegadores { -brand-name-firefox } y Safari en cuanto a características, privacidad y facilidad de uso.
+compare-safari-safari-and-firefox-both-have = Safari y { -brand-name-firefox } tienen buenas características de privacidad y seguridad.
 compare-safari-but-firefox-also-has-built-in = Pero { -brand-name-firefox } también tiene herramientas integradas como:
 compare-safari-firefox-offers-a-wide-range-of = { -brand-name-firefox } ofrece una amplia gama de opciones de personalización, incluyendo la posibilidad de mover menús y barras de herramientas a diferentes ubicaciones en la ventana del navegador. La interfaz de Safari es menos personalizable.
 # Variables:
