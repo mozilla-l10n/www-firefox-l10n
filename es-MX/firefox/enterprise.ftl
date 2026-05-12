@@ -33,3 +33,4 @@ firefox-enterprise-sample-plist-for-configuration = Ejemplo de <a href="{ $url }
 firefox-enterprise-pkg-installer = Instalador PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } documentación

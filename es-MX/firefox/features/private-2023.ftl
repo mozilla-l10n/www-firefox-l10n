@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/private/
 
+features-private-is-firefox-a-private-browser = ¿Es { -brand-name-firefox } un navegador privado?
 features-private-what-information-does-firefox = ¿Qué información recopila { -brand-name-firefox }?
