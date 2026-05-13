@@ -46,6 +46,7 @@ firefox-enterprise-download-firefox-or-esr = Stiahnite si { -brand-name-firefox 
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 # Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = Skorší prístup k nášmu novému programu podpory, ktorý sa spustí v januári 2026, je teraz otvorený. Program je vytvorený pre organizácie, ktoré používajú { -brand-name-firefox } na zaistenie bezpečnosti, odolnosti a suverenity údajov a poskytuje súkromnú, spoľahlivú a prispôsobenú podporu pre rozsiahle nasadenia.
+firefox-enterprise-early-access-is-v2 = Skorší prístup k nášmu novému programu podpory je teraz otvorený. Program je vytvorený pre organizácie, ktoré používajú { -brand-name-firefox } na zaistenie bezpečnosti, odolnosti a suverenity údajov a poskytuje súkromnú, spoľahlivú a prispôsobenú podporu pre rozsiahle nasadenia.
 firefox-enterprise-contact-sales = Kontaktovať predajcu
 firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } - dokumentácia
 firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } je špecializovaná ponuka pre tímy, ktoré vyžadujú špecificke triedenie a eskaláciu nájdených problémov, definovanie reakčných časov pre podporu, možnosti vlastného vývoja a úzku spoluprácu s inžinierskymi a produktovými tímami { -brand-name-mozilla(case: "gen") }.
