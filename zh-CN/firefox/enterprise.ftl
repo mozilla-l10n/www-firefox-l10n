@@ -46,6 +46,7 @@ firefox-enterprise-download-firefox-or-esr = 下载<a { $firefox_all }>其他语
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 # Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = 我们将于 2026 年 1 月推出全新支持计划，现已开放先行体验。此计划专为选用 { -brand-name-firefox } 来保障安全、弹性、数据主权的组织打造，可为大规模部署提供专属、可靠、定制化的支持服务。
+firefox-enterprise-early-access-is-v2 = 我们新推出的支持计划的抢先体验现已开放。为使用 { -brand-name-firefox } 确保安全性、弹性和数据自主权的组织而构建为大规模部署提供私密、可靠、定制的支持。
 firefox-enterprise-contact-sales = 联系销售团队
 firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations }文档
 firefox-enterprise-support-for-organizations-is = “{ -brand-name-support-for-organizations }”专为需要非公开问题会审和升级处理、明确响应时间、定制开发选项、与 { -brand-name-mozilla } 工程和产品团队紧密合作的团队提供服务。

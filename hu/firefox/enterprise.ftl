@@ -46,6 +46,7 @@ firefox-enterprise-download-firefox-or-esr = A { -brand-name-firefox } vagy a { 
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 # Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = Az előzetes hozzáférés megnyílt a 2026 januárjában induló új támogatási programunkhoz. Azon szervezetek számára, amelyek a biztonság, az rugalmasság és az adatszuverenitás érdekében a { -brand-name-firefox }ot használják; privát, megbízható és egyéni támogatást nyújt a nagyméretű telepítésekhez.
+firefox-enterprise-early-access-is-v2 = Az előzetes hozzáférés megnyílt az új támogatási programunk számára. Azon szervezetek számára készült, amelyek a biztonság, az rugalmasság és az adatszuverenitás érdekében a(z) { -brand-name-firefox } szolgáltatást használják. privát, megbízható és egyéni támogatást nyújt a nagyszabású telepítésekhez.
 firefox-enterprise-contact-sales = Kapcsolatfelvétel az értékesítéssel
 firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } dokumentációja
 firefox-enterprise-support-for-organizations-is = A { -brand-name-support-for-organizations } egy dedikált ajánlat azon csapatok számára, akiknek szükségük van a privát problémák rendezésére és eszkalálására, a meghatározott válaszidőkre, az egyéni fejlesztési lehetőségekre és a { -brand-name-mozilla } mérnöki és termékcsapataival való szoros együttműködésre.

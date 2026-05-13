@@ -46,6 +46,7 @@ firefox-enterprise-download-firefox-or-esr = ჩამოტვირთეთ {
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 # Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = ადრეული წვდომა უკვე ღიაა ჩვენი ახალი მხარდაჭერის პროგრამისთვის, რომელიც 2026 წლის იანვრიდან გაეშვება. შექმნილია იმ დაწესებულებებისთვის, რომელთაც ადგებათ { -brand-name-firefox } უსაფრთხოების, მდგრადობისა და მონაცემთა ხელშეუხებლობის უზრუნველსაყოფად და სთავაზობს მათ პირად, საიმედო და მორგებული სახის მხარდაჭერას ფართომასშტაბიანი გამოყენებისთვის.
+firefox-enterprise-early-access-is-v2 = ადრეული წვდომა უკვე გახსნილია ჩვენი ახალი მხარდაჭერის პროგრამისთვის. შექმნილია ორგანიზაციებისთვის, რომლებიც იყენებენ { -brand-name-firefox }-ს უსაფრთხოების, მდგრადობისა და მონაცემთა სუვერენიტეტის უზრუნველსაყოფად, იგი უზრუნველყოფს პირადულობას, სანდო და სასურველ მხარდაჭერას ფართომასშტაბიანი გამოყენებისთვის.
 firefox-enterprise-contact-sales = დაუკავშირდით გაყიდვებს
 firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } – ცნობარი
 firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } საგანგებო შემოთავაზებაა იმ გუნდებისთვის, რომელთაც ესაჭიროებათ მოსაგვარებელი საკითხების კერძო განხილვები, დახარისხება და სათანადო ხალხამდე მიტანა, პასუხის განსაზღვრული დრო, მორგებული შემუშავების საშუალებები და ახლო თანამშრომლობა { -brand-name-mozilla }-ს პროდუქტების ამწყობ გუნდებთან.

@@ -46,6 +46,7 @@ firefox-enterprise-download-firefox-or-esr = Преузмите { -brand-name-fi
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 # Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = Рани приступ је сада отворен за наш нови програм подршке који се покреће у јануару 2026. Направљен за организације које користе { -brand-name-firefox } како би осигурале безбедност, отпорност и суверенитет података, он пружа приватну, поуздану и прилагођену подршку за имплементације великих размера.
+firefox-enterprise-early-access-is-v2 = Рани приступ је сада отворен за наш нови програм подршке. Направљен за организације које користе { -brand-name-firefox } како би осигурале безбедност, отпорност и суверенитет података, он пружа приватну, поуздану и прилагођену подршку за велике примене.
 firefox-enterprise-contact-sales = Контактирајте продају
 firefox-enterprise-support-for-organizations-documentation = Документација за { -brand-name-support-for-organizations }
 firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } је наменска понуда за тимове којима је потребна приватна тријажа и ескалација проблема, дефинисано време одговора, прилагођене опције развоја и блиска сарадња са { -brand-name-mozilla } инжењерским и производним тимовима.
