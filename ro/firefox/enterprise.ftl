@@ -44,6 +44,7 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } pe 32 de biți
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Descarcă { -brand-name-firefox } sau { -brand-name-firefox-esr } pentru <a { $firefox_all }>altă limbă sau altă platformă.</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+# Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = Accesul anticipat este acum disponibil pentru noul nostru program de asistență, care va fi lansat în ianuarie 2026. Creat pentru organizațiile care utilizează { -brand-name-firefox } pentru a asigura securitatea, reziliența și suveranitatea datelor, acesta oferă asistență privată, fiabilă și personalizată pentru implementări la scară largă.
 firefox-enterprise-contact-sales = Contactează departamentul de vânzări
 firefox-enterprise-support-for-organizations-documentation = Documentație { -brand-name-support-for-organizations }

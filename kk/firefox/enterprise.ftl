@@ -44,6 +44,7 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-биттік
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = { -brand-name-firefox } немесе { -brand-name-firefox-esr } бағдарламасын <a { $firefox_all }>басқа тіл немесе платформа үшін жүктеп алыңыз.</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+# Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = 2026 жылдың қаңтарында іске қосылатын жаңа қолдау көрсету бағдарламамызға ерте қол жеткізу мүмкіндігі ашылды. Қауіпсіздікті, тұрақтылықты және деректердің егемендігін қамтамасыз ету үшін { -brand-name-firefox } браузерін пайдаланатын ұйымдар үшін жасалған бұл бағдарлама ауқымды орналастырулар үшін жеке, сенімді және арнайы қолдауды қамтамасыз етеді.
 firefox-enterprise-contact-sales = Сату бөліміне хабарласу
 firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } құжаттамасы

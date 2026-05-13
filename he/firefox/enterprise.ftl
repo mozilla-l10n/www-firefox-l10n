@@ -30,6 +30,7 @@ firefox-enterprise-sample-plist-for-configuration = דוגמה ל־<a href="{ $u
 firefox-enterprise-pkg-installer = מתקין PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+# Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = גישה מוקדמת פתוחה כעת לתוכנית התמיכה החדשה שלנו שתשיק בינואר 2026. היא נבנתה עבור ארגונים המשתמשים ב־{ -brand-name-firefox } כדי להבטיח אבטחה, חוסן וריבונות נתונים, ומספקת תמיכה פרטית, אמינה ומותאמת אישית עבור פריסות בקנה מידה גדול.
 firefox-enterprise-contact-sales = יצירת קשר עם המכירות
 firefox-enterprise-support-for-organizations-documentation = תיעוד עבור { -brand-name-support-for-organizations }

@@ -44,6 +44,7 @@ firefox-enterprise-windows-32-bit = 32 bites { -brand-name-windows }
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = A { -brand-name-firefox } vagy a { -brand-name-firefox-esr } letöltése <a { $firefox_all }>másik nyelvre vagy platformra.</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+# Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = Az előzetes hozzáférés megnyílt a 2026 januárjában induló új támogatási programunkhoz. Azon szervezetek számára, amelyek a biztonság, az rugalmasság és az adatszuverenitás érdekében a { -brand-name-firefox }ot használják; privát, megbízható és egyéni támogatást nyújt a nagyméretű telepítésekhez.
 firefox-enterprise-contact-sales = Kapcsolatfelvétel az értékesítéssel
 firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } dokumentációja

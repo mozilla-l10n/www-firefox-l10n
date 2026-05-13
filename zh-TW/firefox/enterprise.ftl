@@ -44,6 +44,7 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 位元
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = 下載<a { $firefox_all }>其他語言或平台</a>版本的 { -brand-name-firefox } 或 { -brand-name-firefox-esr }。
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+# Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = 我們將於 2026 年 1 月推出新的技術支援計畫，現在開放搶先試用。本計畫是針對使用 { -brand-name-firefox } 確保安全性、韌性、資料主權的組織而打造的，針對大規模部署情境提供有隱私、可靠的客制化技術支援。
 firefox-enterprise-contact-sales = 聯絡銷售團隊
 firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations }文件

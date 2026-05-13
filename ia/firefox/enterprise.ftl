@@ -44,6 +44,7 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 bits
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Discarga { -brand-name-firefox } o { -brand-name-firefox-esr } pro <a { $firefox_all }>un altere lingua o platteforma.</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+# Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = Le accesso precoce es ora aperte pro nostre nove lanceamento del programma de supporto in januario 2026. Producite pro organisationes que usa { -brand-name-firefox } pro assecurar securitate, resilientia, e soveranitate del datos, illo offere supporto private, fidibile, e personal pro le displicamentos in large-scala.
 firefox-enterprise-contact-sales = Contactar venditas
 firefox-enterprise-support-for-organizations-documentation = Documentation re { -brand-name-support-for-organizations }

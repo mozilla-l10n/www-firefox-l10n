@@ -44,6 +44,7 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows }, 32‑bitová verzia
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Stiahnite si { -brand-name-firefox } alebo { -brand-name-firefox-esr } v <a { $firefox_all }>inom jazyku či pre inú platformu</a>.
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+# Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = Skorší prístup k nášmu novému programu podpory, ktorý sa spustí v januári 2026, je teraz otvorený. Program je vytvorený pre organizácie, ktoré používajú { -brand-name-firefox } na zaistenie bezpečnosti, odolnosti a suverenity údajov a poskytuje súkromnú, spoľahlivú a prispôsobenú podporu pre rozsiahle nasadenia.
 firefox-enterprise-contact-sales = Kontaktovať predajcu
 firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } - dokumentácia

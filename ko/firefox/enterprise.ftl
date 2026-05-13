@@ -44,6 +44,7 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32비트
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = <a { $firefox_all }>다른 언어 또는 플랫폼</a>용 { -brand-name-firefox }나 { -brand-name-firefox-esr }을 다운로드하세요.
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+# Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = 2026년 1월 출시 예정인 새로운 지원 프로그램의 얼리 액세스가 시작되었습니다. 보안, 복원력 및 데이터 주권을 보장하기 위해 { -brand-name-firefox }를 사용하는 조직을 위해 설계된 이 프로그램은 대규모 배포 환경에 대한 비공개적이고 안정적이며 맞춤형 지원을 제공합니다.
 firefox-enterprise-contact-sales = 영업팀에 문의
 firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } 문서

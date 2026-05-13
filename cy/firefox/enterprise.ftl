@@ -44,6 +44,7 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-did
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Llwythwch { -brand-name-firefox } neu { -brand-name-firefox-esr } i lawr ar gyfer <a { $firefox_all }>iaith neu lwyfan arall.</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+# Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = Mae mynediad cynnar bellach ar agor ar gyfer agor ein rhaglen gymorth newydd ym mis Ionawr 2026. Wedi'i adeiladu ar gyfer sefydliadau sy'n defnyddio { -brand-name-firefox } i sicrhau diogelwch, gwytnwch, a sofraniaeth data, mae'n darparu cymorth preifat, dibynadwy ac wedi'i deilwra ar gyfer gosodiadau ar raddfa fawr.
 firefox-enterprise-contact-sales = Cysylltwch â'n Tîm Gwerthu
 firefox-enterprise-support-for-organizations-documentation = Dogfennaeth { -brand-name-support-for-organizations }
