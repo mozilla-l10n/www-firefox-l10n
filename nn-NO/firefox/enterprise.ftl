@@ -46,6 +46,7 @@ firefox-enterprise-download-firefox-or-esr = Last ned { -brand-name-firefox } el
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 # Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = Tidleg tilgang er no opna for det nye støtteprogrammet vårt som blir lansert i januar 2026. Bygd for organisasjonar som brukar { -brand-name-firefox } for å sikre tryggheit, robustheit og datasuverenitet, tilbyr det privat, påliteleg og tilpassa støtte for utrulling i stor skala.
+firefox-enterprise-early-access-is-v2 = Tidleg tilgang er no open for det nye støtteprogrammet vårt. Det er bygd for organisasjonar som brukar { -brand-name-firefox } for å sørge for sikkerheit, robustheit og datasuverenitet, og tilbyr privat, påliteleg og tilpassa støtte for storskala implementeringar.
 firefox-enterprise-contact-sales = Kontakt sal
 firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations }-dokumentasjon
 firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } er eit tilpassa tilbod for team som treng privat problemløysing og eskalering, definerte svartider, tilpassa utviklingsalternativ og tett samarbeid med { -brand-name-mozilla }s ingeniør- og produkt-team.
