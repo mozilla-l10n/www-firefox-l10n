@@ -46,7 +46,7 @@ firefox-enterprise-download-firefox-or-esr = Llwythwch { -brand-name-firefox } n
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 # Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = Mae mynediad cynnar bellach ar agor ar gyfer agor ein rhaglen gymorth newydd ym mis Ionawr 2026. Wedi'i adeiladu ar gyfer sefydliadau sy'n defnyddio { -brand-name-firefox } i sicrhau diogelwch, gwytnwch, a sofraniaeth data, mae'n darparu cymorth preifat, dibynadwy ac wedi'i deilwra ar gyfer gosodiadau ar raddfa fawr.
-firefox-enterprise-early-access-is-v2 = Mae mynediad cynnar nawr ar agor ar gyfer ein rhaglen gymorth newydd. Wedi'i adeiladu ar gyfer sefydliadau sy'n defnyddio { -brand-name-firefox } i sicrhau diogelwch, gwytnwch, a sofraniaeth data, mae'n darparu cymorth preifat, dibynadwy ac wedi'i deilwra ar gyfer gosodiadau ar raddfa fawr.
+firefox-enterprise-early-access-is-v2 = Mae mynediad cynnar nawr ar agor ar gyfer ein rhaglen gymorth newydd. Wedi'i adeiladu ar gyfer sefydliadau sy'n defnyddio { -brand-name-firefox } er mwyn sicrhau diogelwch, gwytnwch, a sofraniaeth data, mae'n darparu cymorth preifat, dibynadwy ac wedi'i deilwra ar gyfer gosodiadau ar raddfa fawr.
 firefox-enterprise-contact-sales = Cysylltwch â'n Tîm Gwerthu
 firefox-enterprise-support-for-organizations-documentation = Dogfennaeth { -brand-name-support-for-organizations }
 firefox-enterprise-support-for-organizations-is = Mae { -brand-name-support-for-organizations } yn gynnig pwrpasol ar gyfer timau sydd angen brysbennu ac uwchgyfeirio materion, amseroedd ymateb diffiniedig, dewisiadau datblygu personol yn breifat, a chydweithio agos â thimau peirianneg a chynnyrch { -brand-name-mozilla }.
