@@ -51,6 +51,7 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 ビット
 firefox-enterprise-download-firefox-or-esr = <a { $firefox_all }>他の言語またはプラットフォーム</a>向けの { -brand-name-firefox } または { -brand-name-firefox-esr } のダウンロードはこちら。
 
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+# Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = 2026 年 1 月に始まる新しいサポートプログラムへの早期アクセスを受け付けています。{ -brand-name-firefox } を利用する法人のために設計。セキュリティ、回復力、データ主権を確保し、プライベートで信頼性の高いカスタムサポートを大規模な展開に提供します。
 firefox-enterprise-contact-sales = 営業にお問い合わせ
 firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } ドキュメント
