@@ -51,6 +51,7 @@ firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 بت
 firefox-enterprise-download-firefox-or-esr = نزّل { -brand-name-firefox } أو { -brand-name-firefox-esr } لـ <a { $firefox_all }>لغة أو منصة أخرى.</a>
 
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+# Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = التسجيل المبكر مفتوح الآن في برنامج الدعم الجديد والذي سيتم إطلاقه في يناير 2026. تم تصميم هذا البرنامج خصيصًا للمؤسسات التي تستخدم { -brand-name-firefox } لضمان الأمان والمرونة والتحكّم في البيانات، ويقدّم دعمًا خاصًا وموثوقًا ومخصصًا للنشر على نطاق واسع.
 firefox-enterprise-contact-sales = تواصل مع المبيعات
 firefox-enterprise-support-for-organizations-documentation = وثائق { -brand-name-support-for-organizations }
