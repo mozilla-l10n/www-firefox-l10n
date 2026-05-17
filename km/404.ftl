@@ -18,4 +18,7 @@ not-found-page-download-the-firefox-browser = <a href={ $download }>ទាញយ
 # Obsolete string (expires: 2026-06-15)
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
-not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>បរិច្ចាគ</a> to the { -brand-name-mozilla-foundation }  និងទាញយកអ៊ីនធឺណិតពីបច្ចេកវិទ្យាធំៗវិញ។
+not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>បរិច្ចាគ</a> ទៅឱ្យ { -brand-name-mozilla-foundation } និងទាមទារអ៊ីនធឺណិតពីក្រុមហ៊ុនបច្ចេកវិទ្យាធំៗមកវិញ។
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-foundation = <a { $donate }>បរិច្ចាគ</a> ទៅឱ្យ { -brand-name-mozilla-foundation } និងទាមទារអ៊ីនធឺណិតពីក្រុមហ៊ុនបច្ចេកវិទ្យាធំៗមកវិញ។
