@@ -32,8 +32,14 @@ firefox-home-ad-trackers-make = Los rastreadores publicitarios ralentizan la car
 firefox-home-swear-off = Libérate de las distracciones
 firefox-home-your-stuff = Tus cosas, en todas tus pantallas
 firefox-home-get-firefox-mobile = Obtén { -brand-name-firefox } para móviles para que tus contraseñas, pestañas e historial (y la privacidad y seguridad en las que confías) te acompañen a donde sea que vayas.
+firefox-home-privacy-built-in = Privacidad integrada
+firefox-home-personal-data-not-for-sale = Tus datos personales no están a la venta. Los rastreadores y las cookies de terceros están bloqueados por defecto, así que puedes simplemente … navegar.
 
 ## Customization
 
 # asterisks provide playful emphasis, omit or use symbols appropriate in your language
 firefox-home-really-make-it = Hazlo *verdaderamente* tuyo
+firefox-home-work-smarter = Trabaja de manera más inteligente, juega más duro
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = Explora las posibilidades de investigación, compras y más en <a { $extensions_attrs }>extensiones</a>.
