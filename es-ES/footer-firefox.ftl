@@ -2,4 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-m24-pencil-banner-firefox-has-moved-v2 = { -brand-name-firefox } se ha mudado – Misma misión. Mismos valores. Te damos la bienvenida a firefox.com.
+
+## Links to community groups.
+
+# Section title
+footer-community = Comunidad
+
+## Links to resources
+
+# Section title
+footer-resources = Recursos

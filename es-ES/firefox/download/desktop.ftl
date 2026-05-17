@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Está disponible una nueva versión de { -brand-name-firefox }. <a { $update_url }>Actualizar a la última versión</a>
 firefox-desktop-download-get-the-browser = Descarga el navegador que protege lo que es importante
 firefox-desktop-download-fast-reliable-private = Rápido, fiable y privado: para tu tranquilidad en línea.
+firefox-desktop-set-as-default = Establece { -brand-name-firefox } como tu navegador predeterminado.
 firefox-desktop-download-download-options = Opciones de descarga y otros idiomas
 firefox-desktop-download-browser-support = Ayuda de { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
