@@ -36,7 +36,7 @@ firefox-home-swear-off = Deixe as distrações de lado
 #   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
 firefox-home-stay-focused = Mantenha o foco com extensões como <a { $tomato_clock_attrs }>Tomato Clock</a> e <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a>. Elas são recomendadas, o que é como um emblema dourado que indica funcionalidades e segurança excepcionais.
 firefox-home-your-stuff = Suas coisas, em todos os seus dispositivos
-firefox-home-get-firefox-mobile = Use o { -brand-name-firefox } para dispositivos móveis para que suas senhas, abas e histórico, além da privacidade e segurança em que você confia, estejam com você onde quer que vá.
+firefox-home-get-firefox-mobile = Use o { -brand-name-firefox } para dispositivos móveis para que suas senhas, abas e histórico, além da privacidade e segurança que você confia, estejam com você onde quer que vá.
 firefox-home-privacy-built-in = Privacidade integrada
 firefox-home-personal-data-not-for-sale = Seus dados pessoais não estão à venda. Rastreadores e cookies de terceiros são bloqueados por padrão, para que você possa simplesmente … navegar.
 firefox-home-learn-data-protection = Saiba como o { -brand-name-firefox } protege seus dados
