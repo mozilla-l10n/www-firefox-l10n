@@ -53,6 +53,7 @@ firefox-enterprise-download-firefox-or-esr = نزّل { -brand-name-firefox } أ
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 # Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = التسجيل المبكر مفتوح الآن في برنامج الدعم الجديد والذي سيتم إطلاقه في يناير 2026. تم تصميم هذا البرنامج خصيصًا للمؤسسات التي تستخدم { -brand-name-firefox } لضمان الأمان والمرونة والتحكّم في البيانات، ويقدّم دعمًا خاصًا وموثوقًا ومخصصًا للنشر على نطاق واسع.
+firefox-enterprise-early-access-is-v2 = يتوفر الآن الوصول المبكر إلى برنامج الدعم الجديد الخاص بنا. تم تصميم هذا البرنامج خصيصًا للمؤسسات التي تستخدم { -brand-name-firefox } لضمان الأمان والمرونة والتحكّم في البيانات، ويقدّم دعمًا خاصًا وموثوقًا ومخصصًا للنشر على نطاق واسع.
 firefox-enterprise-contact-sales = تواصل مع المبيعات
 firefox-enterprise-support-for-organizations-documentation = وثائق { -brand-name-support-for-organizations }
 firefox-enterprise-support-for-organizations-is = يُعد { -brand-name-support-for-organizations } مخصصًا للفرق التي تحتاج إلى معالجة خاصة للمشكلات وتسلسل واضح للتصعيد وأوقات استجابة محددة وخيارات تطوير مُخصّصة وتعاون وثيق مع فرق { -brand-name-mozilla } الهندسية ومنتجاتها.
