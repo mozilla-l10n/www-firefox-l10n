@@ -53,6 +53,7 @@ firefox-enterprise-download-firefox-or-esr = Téléchargez { -brand-name-firefox
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 # Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = L’accès anticipé à notre nouveau programme d’assistance, qui sera lancé en janvier 2026, est désormais ouvert. Conçu pour les organisations qui utilisent { -brand-name-firefox } pour garantir la sécurité, la résilience et la souveraineté des données, il fournit une assistance privée, fiable et personnalisée pour les déploiements à grande échelle.
+firefox-enterprise-early-access-is-v2 = L’accès anticipé à notre nouveau programme d’assistance est désormais ouvert. Conçu pour les organisations qui utilisent { -brand-name-firefox } pour garantir la sécurité, la résilience et la souveraineté de leurs données, il fournit une assistance privée, fiable et personnalisée pour les déploiements à grande échelle.
 firefox-enterprise-contact-sales = Contacter le service Vente
 firefox-enterprise-support-for-organizations-documentation = Documentation de l’{ -brand-name-support-for-organizations }
 firefox-enterprise-support-for-organizations-is = L’{ -brand-name-support-for-organizations } est une offre dédiée aux équipes ayant besoin d’un processus privé de tri et de remontée des problèmes, de délais de réponse définis, d’options de développement personnalisées et d’une collaboration étroite avec les équipes de { -brand-name-mozilla } en charge de l’ingénierie et des produits.
