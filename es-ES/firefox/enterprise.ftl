@@ -49,4 +49,5 @@ firefox-enterprise-early-access-is = Ya está disponible el acceso anticipado a 
 firefox-enterprise-early-access-is-v2 = Ya está disponible el acceso anticipado a nuestro nuevo programa de soporte. Diseñado para organizaciones que utilizan { -brand-name-firefox } para garantizar la seguridad, la resiliencia y la soberanía de los datos, proporciona soporte privado, fiable y personalizado para implementaciones a gran escala.
 firefox-enterprise-contact-sales = Contactar con el departamento de ventas
 firefox-enterprise-support-for-organizations-documentation = Documentación de { -brand-name-support-for-organizations }
+firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } es una oferta dedicada a equipos que necesitan gestión y escalado de problemas privados, tiempos de respuesta definidos, opciones de desarrollo personalizadas y una estrecha colaboración con los equipos de ingeniería y producto de { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Plan de asistencia
