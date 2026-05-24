@@ -6,3 +6,4 @@
 ### URL: https://www-dev.springfield.moz.works/whatsnew/80.0a2/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
+firefox-developer-congrats-you-now-have-latest = Xá tienes la última versión de { -brand-name-firefox-developer-edition }.

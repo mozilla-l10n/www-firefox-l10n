@@ -5,4 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/translate/
 
+# HTML page title
+features-translate-translate-a-webpage-with-firefox = Traducción de páxines web con { -brand-name-firefox }
 features-translate-translate-the-web = Traduz la web con { -brand-name-firefox }
+features-translate-what-languages-are-currently = ¿Qué llingües son compatibles?
