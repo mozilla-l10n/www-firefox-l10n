@@ -43,3 +43,20 @@ firefox-home-work-smarter = Trabaja de manera más inteligente, juega más duro
 # Variables
 #   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
 firefox-home-explore-the-possibilities = Explora las posibilidades de investigación, compras y más en <a { $extensions_attrs }>extensiones</a>.
+firefox-home-bye-boring = Adiós, navegador aburrido
+
+## Final call-out
+
+firefox-home-billionaire-free = Libre de multimillonarios durante más de 20 años
+
+## Used as accessible alternative text for images.
+
+firefox-home-happy-toggle = Cambio feliz.
+firefox-home-multiple-cursors = Múltiples cursores.
+firefox-home-lots-of-open = Muchas pestañas abiertas.
+firefox-home-shield-and-hand = Escudo y mano protegiendo una pestaña del navegador.
+firefox-home-a-human-brain = Un cerebro humano conectado con el mundo.
+firefox-home-desktop-laptop-and-phone = Ordenador de sobremesa, portátil y teléfono.
+firefox-home-browser-window-with-lock = Ventana del navegador con iconos de candado y escudo.
+firefox-home-firefox-in-dark = { -brand-name-firefox } en modo oscuro.
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } en un ordenador de escritorio.
