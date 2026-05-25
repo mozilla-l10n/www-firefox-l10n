@@ -19,3 +19,6 @@ not-found-page-download-the-firefox-browser = <a href={ $download }>Sæktu</a> {
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Gefðu</a> til { -brand-name-mozilla-foundation } og endurheimtu internetið frá stóru tæknifyrirtækjunum.
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-foundation = <a { $donate }>Gefðu</a> til { -brand-name-mozilla-foundation } og endurheimtu internetið frá stóru tæknifyrirtækjunum.
