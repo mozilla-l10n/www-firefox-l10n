@@ -19,13 +19,55 @@ footer-custom-download = Opciones de descarga personalizadas
 
 # Section title
 footer-latest = Últimas versiones
+footer-beta = { -brand-name-beta }
+footer-nightly = { -brand-name-nightly }
+
+## Download links for enterprise versions of Firefox.
+
+# Section title
+footer-business = { -brand-name-firefox } para empresas
+footer-enterprise = { -brand-name-enterprise }
 
 ## Links to community groups.
 
 # Section title
 footer-community = Comunidad
+footer-contribute = Colaborar
+footer-developer = Desarrollador
+footer-connect = Conectar
 
 ## Links to resources
 
 # Section title
 footer-resources = Recursos
+footer-compare = Comparar
+footer-release-notes = Notas de la versión
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = Aprender
+footer-support = Ayuda
+footer-addons = Complementos
+footer-blog = Blog
+
+## Links to social media
+
+# Section title
+footer-follow-us = Síguenos
+footer-instagram = Instagram
+footer-youtube = YouTube
+footer-tiktok = TikTok
+
+## Legal links
+
+footer-websites-privacy-notice = Aviso de privacidad del sitio web
+footer-terms-of-use = Términos de uso
+footer-websites-cookie-policy = Política de cookies
+footer-community-participation-guidelines = Pautas para la participación en la comunidad
+footer-logo-trademark-licensing = Licencia de marca registrada de logotipo
+
+## Language Switcher
+
+footer-language = Idioma
+footer-go = Ir
+footer-ask-question = ¡Haznos una pregunta!
+footer-firefox = { -brand-name-firefox }

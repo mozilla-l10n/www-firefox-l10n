@@ -10,6 +10,7 @@
 
 firefox-home-take-control = Toma el control de tu internet
 firefox-home-go-online = Conéctate con menos distracciones, ruido y estrés. Piensa en nosotros como una bocanada de aire fresco.
+firefox-home-set-firefox-as = Establece { -brand-name-firefox } como tu navegador predeterminado.
 
 ## What's new
 
@@ -30,10 +31,15 @@ firefox-home-block-ad-trackers = Bloquea los rastreadores publicitarios sin move
 firefox-home-ad-trackers-make = Los rastreadores publicitarios ralentizan la carga de las páginas web. Con { -brand-name-firefox }, no tendrás que buscar en los ajustes para solucionarlo, ya que bloqueamos automáticamente la mayoría de los rastreadores.
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = Libérate de las distracciones
+# Variables
+#   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
+#   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
+firefox-home-stay-focused = Mantente concentrado con extensiones como <a { $tomato_clock_attrs }>Tomato Clock</a> y <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a>: están recomendadas, lo que equivale a nuestra estrella dorada por tener una seguridad y funcionalidad excepcionales.
 firefox-home-your-stuff = Tus cosas, en todas tus pantallas
 firefox-home-get-firefox-mobile = Obtén { -brand-name-firefox } para móviles para que tus contraseñas, pestañas e historial (y la privacidad y seguridad en las que confías) te acompañen a donde sea que vayas.
 firefox-home-privacy-built-in = Privacidad integrada
 firefox-home-personal-data-not-for-sale = Tus datos personales no están a la venta. Los rastreadores y las cookies de terceros están bloqueados por defecto, así que puedes simplemente … navegar.
+firefox-home-learn-data-protection = Descubre cómo { -brand-name-firefox } protege tus datos
 
 ## Customization
 
@@ -44,13 +50,18 @@ firefox-home-work-smarter = Trabaja de manera más inteligente, juega más duro
 #   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
 firefox-home-explore-the-possibilities = Explora las posibilidades de investigación, compras y más en <a { $extensions_attrs }>extensiones</a>.
 firefox-home-bye-boring = Adiós, navegador aburrido
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = Internet puede ser un lugar prometedor si se cuenta con complemento de <a { $theme_attrs }>tema</a> adecuado.
 
 ## Final call-out
 
 firefox-home-billionaire-free = Libre de multimillonarios durante más de 20 años
+firefox-home-firefox-was-created = { -brand-name-firefox } fue creado en 2004 por { -brand-name-mozilla } como una alternativa más rápida, privada y personalizable a navegadores como Internet Explorer. Hoy en día, seguimos siendo una organización sin ánimo de lucro, sin pertenecer a ningún multimillonario y trabajando para mejorar internet y el tiempo que pasas en él.
 
 ## Used as accessible alternative text for images.
 
+firefox-home-firefox-on-desktop = { -brand-name-firefox } en ordenadores de escritorio y dispositivos móviles.
 firefox-home-happy-toggle = Cambio feliz.
 firefox-home-multiple-cursors = Múltiples cursores.
 firefox-home-lots-of-open = Muchas pestañas abiertas.
