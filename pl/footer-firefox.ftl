@@ -74,5 +74,5 @@ footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding
 
-footer-powdered-by = Napędzane przez { -brand-name-mozilla(case: "acc") }
+footer-powdered-by = Stworzony przez { -brand-name-mozilla(case: "acc") }
 footer-putting-people = Stawiamy ludzi ponad zyski od 1998 roku
