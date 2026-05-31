@@ -71,3 +71,8 @@ footer-language = Idioma
 footer-go = Ir
 footer-ask-question = ¡Haznos una pregunta!
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+
+footer-powdered-by = Desarrollado por { -brand-name-mozilla }
+footer-putting-people = Anteponiendo las personas a los beneficios desde 1998
