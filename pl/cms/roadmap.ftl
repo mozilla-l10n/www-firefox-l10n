@@ -9,3 +9,17 @@
 # Variables:
 #    $date (string) Date when the page was last updated
 roadmap-last-updated = Ostatnia aktualizacja: { $date }
+
+## Pill indicating the status of an item in Firefox's roadmap
+
+roadmap-status-exploring = Analizowane
+roadmap-status-in-progress = W trakcie
+roadmap-status-testing = Testowane
+roadmap-status-coming-soon = Wkrótce
+roadmap-status-recently-shipped = Ostatnio wydane
+
+## Tag indicating where the feature is available
+
+roadmap-tag-desktop = Na komputery
+roadmap-tag-android = { -brand-name-android }
+roadmap-tag-ios = { -brand-name-ios }
