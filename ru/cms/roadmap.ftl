@@ -15,8 +15,8 @@ roadmap-last-updated = Последнее обновление: { $date }
 roadmap-status-exploring = Обзор
 roadmap-status-in-progress = Выполняется
 roadmap-status-testing = Тестирование
-roadmap-status-coming-soon = Скоро в продаже
-roadmap-status-recently-shipped = Недавно отправленные
+roadmap-status-coming-soon = Скоро
+roadmap-status-recently-shipped = Недавно поставлено
 
 ## Tag indicating where the feature is available
 
