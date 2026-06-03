@@ -8,7 +8,7 @@
 # Label indicating when the list was last updated
 # Variables:
 #    $date (string) Date when the page was last updated
-roadmap-last-updated = 上次更新{ $date }
+roadmap-last-updated = 上次更新：{ $date }
 
 ## Pill indicating the status of an item in Firefox's roadmap
 
@@ -16,7 +16,7 @@ roadmap-status-exploring = 探索
 roadmap-status-in-progress = 准备中
 roadmap-status-testing = 测试
 roadmap-status-coming-soon = 即将推出
-roadmap-status-recently-shipped = 最近发货
+roadmap-status-recently-shipped = 最近推出
 
 ## Tag indicating where the feature is available
 
