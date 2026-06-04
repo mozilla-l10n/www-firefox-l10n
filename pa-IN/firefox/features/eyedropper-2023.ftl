@@ -6,3 +6,5 @@
 ### URL: https://www-dev.springfield.moz.works/features/eyedropper/
 
 features-eyedropper-eyedropper-tool = ਆਈ-ਡਰੋਪਰ ਟੂਲ
+# HTML page description
+features-eyedropper-identify-the-exact-color-on-a = ਸਫ਼ੇ ਉੱਤੇ ਸਹੀ ਰੰਗ ਦੀ ਪਛਾਣ ਕਰੋ ਅਤੇ ਇਸ ਦੇ ਹੈਕਸਾ ਕੋਡ ਨੂੰ ਕਾਪੀ ਕਰੋ।
