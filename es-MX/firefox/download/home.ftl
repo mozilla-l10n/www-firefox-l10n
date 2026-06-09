@@ -10,6 +10,7 @@
 
 firefox-home-take-control = Toma el control de tu internet
 firefox-home-go-online = Navega en internet con menos distracciones, ruido y estrés. Piensa en nosotros como un respiro de aire fresco.
+firefox-home-set-firefox-as = Establecer { -brand-name-firefox } como navegador predeterminado.
 
 ## What's new
 
@@ -49,11 +50,23 @@ firefox-home-work-smarter = Trabaja más inteligentemente, juega más duro
 #   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
 firefox-home-explore-the-possibilities = Explora las posibilidades de investigación, compras y más en <a { $extensions_attrs }>extensiones</a>.
 firefox-home-bye-boring = Adiós, navegador aburrido
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = Es posible transformar la experiencia en internet gracias al <a { $theme_attrs }>tema</a> de complemento adecuado.
+
+## Final call-out
+
+firefox-home-billionaire-free = Más de 20 años sin depender de multimillonarios
+firefox-home-firefox-was-created = { -brand-name-firefox } fue creado en 2004 por { -brand-name-mozilla } como una alternativa más rápida, privada y personalizable a navegadores como Internet Explorer. Hoy en día, la organización sigue siendo sin fines de lucro, sin pertenecer a ningún multimillonario y con el firme compromiso de mejorar el internet y el tiempo que se pasa en él.
 
 ## Used as accessible alternative text for images.
 
+firefox-home-firefox-on-desktop = { -brand-name-firefox } para computadora y dispositivos móviles.
+firefox-home-happy-toggle = Activa la felicidad
 firefox-home-multiple-cursors = Varios cursores.
 firefox-home-lots-of-open = Muchas pestañas abiertas.
+firefox-home-shield-and-hand = Un escudo y una mano protegiendo una pestaña del navegador.
+firefox-home-a-human-brain = Un cerebro humano conectado al mundo.
 firefox-home-desktop-laptop-and-phone = Computadora de escritorio, portátil y teléfono.
 firefox-home-browser-window-with-lock = Ventana del navegador con iconos de candado y escudo.
 firefox-home-firefox-in-dark = { -brand-name-firefox } en modo oscuro.

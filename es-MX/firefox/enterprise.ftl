@@ -5,11 +5,18 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+# Page title
+firefox-enterprise-use-firefox-esr-enterprise-browser = Uso de { -brand-name-firefox } o { -brand-name-esr } como navegador empresarial para una seguridad a gran escala
+# Page description
+firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } es el navegador de código abierto con seguridad, privacidad y flexibilidad de nivel empresarial. Se recomienda el uso de { -brand-name-firefox } para acceder a las funciones más recientes o de { -brand-name-esr } para una estabilidad a largo plazo.
 firefox-enterprise-brand-name = { -brand-name-enterprise }
+firefox-enterprise-use-as-your-enterprise-browser = Establecer { -brand-name-firefox } como navegador empresarial
+firefox-enterprise-secure-at-scale = { -brand-name-firefox } ofrece una navegación segura, resiliente y centrada en la privacidad a gran escala. Gracias a las políticas empresariales disponibles tanto en { -brand-name-firefox } como en { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }), las organizaciones obtienen flexibilidad, control y transparencia en un navegador de código abierto y de total confianza.
 firefox-enterprise-protection-powered-by = Protección de nivel empresarial, con tecnología de { -brand-name-firefox }
 firefox-enterprise-open-source-transparency = { -brand-name-firefox } combina la transparencia del código abierto con funciones de seguridad avanzadas y actualizaciones frecuentes para ayudar a proteger los datos de tu organización.
 firefox-enterprise-your-browser-your-business = Tu navegador, tu negocio
 firefox-enterprise-deploy-when-and-how-you-want = Implementa cuándo y cómo quieras
+firefox-enterprise-install-packages-policies = Gracias a los paquetes de instalación y a una amplia variedad de políticas de grupo y funciones, el despliegue es más rápido y flexible que nunca, facilitando enormemente el trabajo en entornos Windows, Linux y macOS.
 firefox-enterprise-release-cycles = Ciclos de lanzamiento que se adaptan a tu organización
 firefox-enterprise-enterprise-downloads = Descargas de { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
