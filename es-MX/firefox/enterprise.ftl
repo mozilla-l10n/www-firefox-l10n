@@ -18,6 +18,7 @@ firefox-enterprise-your-browser-your-business = Tu navegador, tu negocio
 firefox-enterprise-deploy-when-and-how-you-want = Implementa cuándo y cómo quieras
 firefox-enterprise-install-packages-policies = Gracias a los paquetes de instalación y a una amplia variedad de políticas de grupo y funciones, el despliegue es más rápido y flexible que nunca, facilitando enormemente el trabajo en entornos Windows, Linux y macOS.
 firefox-enterprise-release-cycles = Ciclos de lanzamiento que se adaptan a tu organización
+firefox-enterprise-choose-firefox-for-features-esr-stability = Es posible optar por { -brand-name-firefox } para acceder a las funciones más recientes y a versiones estables cada cuatro semanas, o bien por { -brand-name-firefox-esr } para obtener estabilidad a largo plazo, actualizaciones de seguridad periódicas y lanzamientos principales anuales.
 firefox-enterprise-enterprise-downloads = Descargas de { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
@@ -39,5 +40,14 @@ firefox-enterprise-documentation-and-community = Documentación y ayuda de la co
 firefox-enterprise-sample-plist-for-configuration = Ejemplo de <a href="{ $url }">plist para el perfil de configuración</a>
 firefox-enterprise-pkg-installer = Instalador PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
+# Variables:
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
+firefox-enterprise-download-firefox-or-esr = Descargar { -brand-name-firefox } o { -brand-name-firefox-esr } para <a { $firefox_all }>otro idioma o plataforma.</a>
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
+# Obsolete string (expires: 2026-06-10)
+firefox-enterprise-early-access-is = Ya está abierto el acceso anticipado al nuevo programa de soporte que iniciará en enero de 2026. Diseñado para organizaciones que utilizan { -brand-name-firefox } con el fin de garantizar la seguridad, la resiliencia y la soberanía de los datos, este servicio ofrece asistencia privada, confiable y personalizada para despliegues a gran escala.
+firefox-enterprise-early-access-is-v2 = Ya está abierto el acceso anticipado al nuevo programa de soporte. Diseñado para organizaciones que utilizan { -brand-name-firefox } con el fin de garantizar la seguridad, la resiliencia y la soberanía de los datos, este servicio ofrece asistencia privada, confiable y personalizada para despliegues a gran escala.
+firefox-enterprise-contact-sales = Contactar al equipo de ventas
 firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } documentación
+firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } es una oferta dedicada para equipos que requieren clasificación y escalación privada de problemas, tiempos de respuesta definidos, opciones de desarrollo a la medida y una estrecha colaboración con los equipos de ingeniería y producto de { -brand-name-mozilla }.
+firefox-enterprise-support-plan = Plan de soporte
