@@ -13,3 +13,6 @@ compare-opera-read-our-comparison = Lee nuestra comparativa de los navegadores {
 # $fingerprint (url) - link to https://www.firefox.com/features/block-fingerprinting/
 compare-opera-firefoxs-default-privacy-settings = La configuración de privacidad predeterminada de { -brand-name-firefox } es más sólida que la de Opera y contamos con más funciones para evitar que los sitios web te rastreen, como el <a { $fingerprint }>bloqueo de huella digital</a>.
 compare-opera-firefox-offers-a-wide-range-of = { -brand-name-firefox } ofrece una amplia variedad de opciones de personalización, incluyendo la posibilidad de mover menús y barras de herramientas a diferentes lugares de la ventana del navegador. Por otro lado, la interfaz de Opera es menos adaptable.
+# Variables:
+# $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
+compare-opera-switching-to-firefox-is-easy = Cambiar a { -brand-name-firefox } es fácil y rápido: importa tus marcadores de Opera, contraseñas, historial y preferencias con un solo clic para empezar a usar { -brand-name-firefox }. A continuación, te mostramos <a { $howto }>cómo usar el botón Importar para hacer el cambio</a>.
