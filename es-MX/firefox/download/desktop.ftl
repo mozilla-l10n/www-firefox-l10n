@@ -117,6 +117,9 @@ firefox-desktop-download-as-the-internet-v2 = A medida que internet crece y camb
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = A medida que Internet crece y cambia, { -brand-name-firefox } continúa enfocándose en tu derecho a la privacidad; lo llamamos la <a { $attrs }>Promesa de datos personales</a>: Recolecta menos. Lo mantiene seguro. Sin secretos. Tus datos, tu actividad web, tu vida en línea están protegidos con { -brand-name-firefox }.
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } está disponible en todos tus dispositivos; lleva contigo tus pestañas, historial y marcadores. Solo necesitas una <a { $attrs }>{ -brand-name-mozilla-account }</a> para acceder a la sincronización y a más productos de { -brand-name-mozilla }.
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Obtén una imagen de alta resolución de cualquier cosa en línea con nuestra herramienta de <a { $attrs }>captura de pantalla</a> integrada en el navegador.
 # Variables:
