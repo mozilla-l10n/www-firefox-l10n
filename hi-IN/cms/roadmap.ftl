@@ -7,6 +7,11 @@
 
 ## Pill indicating the status of an item in Firefox's roadmap
 
+roadmap-status-in-progress = चालू
+roadmap-status-testing = परीक्षण
 
 ## Tag indicating where the feature is available
 
+roadmap-tag-desktop = डेस्कटॉप
+roadmap-tag-android = { -brand-name-android }
+roadmap-tag-ios = { -brand-name-ios }
