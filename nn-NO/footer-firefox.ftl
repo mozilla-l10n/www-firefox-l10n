@@ -18,7 +18,7 @@ footer-custom-download = Tilpassa nedlastingsalternativ
 ## Download links for dev versions of Firefox (beta, nightly).
 
 # Section title
-footer-latest = De siste versjonane
+footer-latest = Dei siste versjonane
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 
