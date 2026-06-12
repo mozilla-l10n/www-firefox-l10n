@@ -10,3 +10,6 @@
 
 ## Tag indicating where the feature is available
 
+roadmap-tag-desktop = Desktop
+roadmap-tag-android = { -brand-name-android }
+roadmap-tag-ios = { -brand-name-ios }
