@@ -9,3 +9,4 @@
 ## Error messages
 
 contact-form-submit = Enviar
+contact-form-select-option = Selecciona una opción
