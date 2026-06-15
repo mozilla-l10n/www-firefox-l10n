@@ -8,7 +8,9 @@
 
 ## Error messages
 
+contact-form-error-required = Это обязательное поле.
 contact-form-error-sending = При отправке вашего сообщения произошла ошибка. Повторите попытку.
 contact-form-error-empty = Пожалуйста, заполните форму.
 contact-form-submit = Отправить
 contact-form-select-option = Выберите вариант
+contact-form-correct-errors = Пожалуйста, исправьте указанные ниже ошибки
