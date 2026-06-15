@@ -8,9 +8,6 @@
 
 ## Error messages
 
-# Variables
-#   $field (string) The required form field that wasn't filled
-contact-form-error-required-field = U dient het veld { $field } in te vullen.
 contact-form-error-sending = Er is een fout opgetreden bij het verzenden van uw bericht. Probeer het opnieuw.
 contact-form-error-empty = Vul het formulier in.
 contact-form-submit = Indienen
