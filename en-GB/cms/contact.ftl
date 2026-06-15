@@ -8,7 +8,9 @@
 
 ## Error messages
 
+contact-form-error-required = This field is required.
 contact-form-error-sending = There was an error sending your message. Please try again.
 contact-form-error-empty = Please fill out the form.
 contact-form-submit = Submit
 contact-form-select-option = Select an option
+contact-form-correct-errors = Please correct the errors below
