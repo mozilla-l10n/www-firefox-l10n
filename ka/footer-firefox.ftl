@@ -62,7 +62,7 @@ footer-tiktok = TikTok
 footer-websites-privacy-notice = საიტის პირადულობის განაცხადი
 footer-terms-of-use = გამოყენების პირობები
 footer-websites-cookie-policy = ფუნთუშების დებულება
-footer-community-participation-guidelines = გზამკვლევი მონაწილეობისთვის
+footer-community-participation-guidelines = მონაწილის გზამკვლევი
 footer-logo-trademark-licensing = ლოგო, სავაჭრო ნიშნების ლიცენზია
 
 ## Language Switcher
