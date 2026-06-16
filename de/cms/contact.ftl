@@ -6,4 +6,7 @@
 
 ## Error messages
 
+contact-form-error-sending = Beim Versenden deiner Nachricht ist ein Fehler aufgetreten. Bitte versuche es erneut.
+contact-form-error-empty = Bitte fülle das Formular aus.
 contact-form-submit = Absenden
+contact-form-select-option = Eine Option wählen
