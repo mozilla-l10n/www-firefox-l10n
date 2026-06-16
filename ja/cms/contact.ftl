@@ -6,4 +6,7 @@
 
 ## Error messages
 
+contact-form-error-sending = メッセージの送信中にエラーが発生しました。もう一度お試しください。
+contact-form-error-empty = フォームにご記入ください。
 contact-form-submit = 送信
+contact-form-select-option = オプションを選択
