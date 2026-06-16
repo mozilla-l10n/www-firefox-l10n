@@ -8,7 +8,9 @@
 
 ## Error messages
 
+contact-form-error-required = Dit veld is vereist.
 contact-form-error-sending = Er is een fout opgetreden bij het verzenden van uw bericht. Probeer het opnieuw.
 contact-form-error-empty = Vul het formulier in.
 contact-form-submit = Indienen
 contact-form-select-option = Selecteer een optie
+contact-form-correct-errors = Corrigeer de onderstaande fouten
