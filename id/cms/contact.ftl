@@ -6,4 +6,7 @@
 
 ## Error messages
 
+contact-form-error-sending = Terjadi kesalahan saat mengirim pesan Anda. Silakan coba lagi.
+contact-form-error-empty = Silakan isi formulir ini.
 contact-form-submit = Kirim
+contact-form-select-option = Pilih opsi
