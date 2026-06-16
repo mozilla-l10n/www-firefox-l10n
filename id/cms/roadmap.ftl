@@ -4,9 +4,18 @@
 
 ### The Roadmap page shows a list of features coming up on Firefox
 
+# Label indicating when the list was last updated
+# Variables:
+#    $date (string) Date when the page was last updated
+roadmap-last-updated = Terakhir diperbarui: { $date }
 
 ## Pill indicating the status of an item in Firefox's roadmap
 
+roadmap-status-exploring = Menelusuri
+roadmap-status-in-progress = Sedang Diproses
+roadmap-status-testing = Pengujian
+roadmap-status-coming-soon = Segera Hadir
+roadmap-status-recently-shipped = Baru Dirilis
 
 ## Tag indicating where the feature is available
 
