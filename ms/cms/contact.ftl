@@ -6,4 +6,7 @@
 
 ## Error messages
 
+contact-form-error-sending = Ada ralat ketika menghantar mesej anda Sila cuba semula.
+contact-form-error-empty = Sila isikan borang.
 contact-form-submit = Hantar
+contact-form-select-option = Pilih opsyen
