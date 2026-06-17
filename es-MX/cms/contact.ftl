@@ -8,6 +8,7 @@
 
 ## Error messages
 
+contact-form-error-required = Se requiere este campo.
 contact-form-error-sending = Hubo un error al enviar tu mensaje. Por favor, inténtalo de nuevo.
 contact-form-submit = Enviar
 contact-form-select-option = Selecciona una opción

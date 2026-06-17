@@ -17,4 +17,5 @@ pdf-editor-weve-all-faced-this-you-need-to = Todos nos hemos enfrentado a esto: 
 pdf-editor-add-text = Agregar texto
 pdf-editor-add-image-with-alt-text = Agregar imagen con texto alternativo
 pdf-editor-create-a-highlight = Crear un elemento destacado
+pdf-editor-create-a-signature = Crea una firma
 pdf-editor-add-a-comment = Agregar comentarios
