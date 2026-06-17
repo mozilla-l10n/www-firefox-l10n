@@ -33,6 +33,7 @@ navigation-release-notes = Uitgaveopmerkingen
 navigation-support = Ondersteuning
 navigation-extensions-and-themes = Extensies & Thema’s
 navigation-whats-new = Wat is er nieuw
+navigation-whats-next = Volgende stap
 navigation-add-ons = Add-ons
 navigation-all-downloads = Alle downloads
 navigation-learn = Leren
