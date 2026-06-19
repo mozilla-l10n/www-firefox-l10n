@@ -59,6 +59,7 @@ firefox-desktop-download-curated-content-on = תוכן מותאם אישית ב�
 firefox-desktop-download-share-links = שיתוף קישורים
 firefox-desktop-download-protect-your-privacy = הגנה על הפרטיות שלכם
 firefox-desktop-download-third-party-cookie = חסימת עוגיות צד־שלישי
+firefox-desktop-download-fingerprinter-blocking = חסימת רכיבי זהות דיגיטלית
 firefox-desktop-download-cryptominer-blocking = חסימת כורי מטבעות דיגיטליים
 firefox-desktop-download-private-browsing-mode = מצב גלישה פרטית
 firefox-desktop-download-individual-protections-report = דוח הגנות אישית
