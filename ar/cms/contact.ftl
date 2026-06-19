@@ -6,7 +6,9 @@
 
 ## Error messages
 
+contact-form-error-required = هذا الحقل مطلوب.
 contact-form-error-sending = حدث خطأ أثناء إرسال رسالتك. يُرجى إعادة المحاولة.
 contact-form-error-empty = يُرجى تعبئة النموذج.
 contact-form-submit = إرسال
 contact-form-select-option = حدّد أحد الخيارات
+contact-form-correct-errors = يُرجى تصحيح الأخطاء فيما يلي
