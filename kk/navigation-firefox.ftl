@@ -33,6 +33,7 @@ navigation-release-notes = Шығарылым ескертпесі
 navigation-support = Қолдау
 navigation-extensions-and-themes = Кеңейтулер және темалар
 navigation-whats-new = Не жаңалық
+navigation-whats-next = Әрі қарай не болады
 navigation-add-ons = Қосымшалар
 navigation-all-downloads = Барлық жүктемелер
 navigation-learn = Үйрену
