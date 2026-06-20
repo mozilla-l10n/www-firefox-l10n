@@ -33,6 +33,7 @@ navigation-release-notes = Σημειώσεις έκδοσης
 navigation-support = Υποστήριξη
 navigation-extensions-and-themes = Επεκτάσεις και θέματα
 navigation-whats-new = Τι νέο υπάρχει
+navigation-whats-next = Τι ακολουθεί
 navigation-add-ons = Πρόσθετα
 navigation-all-downloads = Όλες οι λήψεις
 navigation-learn = Εκμάθηση
