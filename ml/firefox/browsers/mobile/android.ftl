@@ -8,3 +8,4 @@
 # HTML page title
 mobile-android-firefox-browser-android = { -brand-name-firefox-browser }{ -brand-name-android }
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
+mobile-android-fast-and-private = വിരവേറിയതും സ്വകാര്യവും
