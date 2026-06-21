@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/mobile/
 
+browsers-mobile-compare = താരതമ്യുക
 browsers-mobile-download = ഇറക്കിവയ്ക്കുക
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

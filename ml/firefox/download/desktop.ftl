@@ -5,11 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/?xv=legacy
 
+firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-download-options = ഇറക്കിവയ്ക്കൽ സാധ്യതകളും മറ്റെ ഭാഷകളും
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } പിന്തുണ
 firefox-desktop-download-bookmark-history = അടയാളക്കുറിപ്പുകളും നാൾവഴിയും തുറന്ന ടാബുകളും ഫലങ്ങളിൽ കാണുക
 firefox-desktop-download-sync-across-devices = എല്ലാ ഉപകരണങ്ങളും സമന്വയിപ്പിക്കുക
 firefox-desktop-download-reader-mode = വായന പരി
+firefox-desktop-download-spell-check = അക്ഷരത്തെറ്റു പരിശോധന
 firefox-desktop-download-pinned-tabs = കുത്തിസൂചിയിട്ട ടാബുകൾ
 firefox-desktop-download-share-links = കണ്ണി പങ്കിടുക
 firefox-desktop-download-private-browsing-mode = സ്വകാര്യ തിരച്ചിൽ പരി

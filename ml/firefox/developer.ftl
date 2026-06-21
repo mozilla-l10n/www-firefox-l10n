@@ -7,6 +7,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = ഏറ്റവും പുതിയ ഡെവലപ്പർ ഉപകരണങ്ങളും CSS ഗ്രിഡ് പിന്തുണ, ഫ്രെയിംവർക്ക് ഡീബഗ്ഗിങ്ങ് എന്നിങ്ങനെ ഏറ്റവും പുതിയ സവിശേഷതകളും നൽകുന്ന മിന്നൽ വേഗതയുള്ള ബ്രൗസറാണ് ഫയർഫോക്സ് ഡെവലപ്പർ എഡിഷൻ
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = നിങ്ങളുടെ പുതിയ ഇഷ്ട ബ്രൌസറിലേക്ക് സ്വാഗതം. ഏറ്റവും പുതിയ ഫീച്ചറുകളും വേഗതയേറിയ പ്രകടനവും ഓപ്പൺ വെബ് നിര്‍മ്മാണത്തിനായി വേണ്ട ഉപകരണങ്ങളും നേടുക.
 firefox-developer-speak-up = ശബ്ദമുയർത്തുക
 firefox-developer-feedback-makes-us = നിങ്ങളുടെ പ്രതികരണമാണ് ഞങ്ങളെ നല്ലതാക്കുന്നത്. ബ്രൌസറും ഡെവലപ്പര്‍ ടൂളുകളും നന്നാക്കാനുള്ള അഭിപ്രായങ്ങള്‍ അറിയിക്കു.
