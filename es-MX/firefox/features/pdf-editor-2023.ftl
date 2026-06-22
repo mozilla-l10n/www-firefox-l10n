@@ -22,5 +22,7 @@ pdf-editor-open-the-pdf-in-firefox-click-draw-to-choose = Abre el archivo PDF in
 pdf-editor-add-image-with-alt-text = Agregar imagen con texto alternativo
 pdf-editor-open-pdf-click-image-icon = Abre el archivo PDF en { -brand-name-firefox }. Haz clic en el ícono de imagen para abrir la ventana de dialogo para subir tu imagen. Ajusta el tamaño y ubicación de la imagen a tu gusto. Haz clic en el botón "+Texto alternativo" sobre la imagen para agregar una descripción y garantizar la accesibilidad de tu archivo PDF.
 pdf-editor-create-a-highlight = Crear un elemento destacado
+pdf-editor-select-text-you-want-to = Abre el archivo PDF en { -brand-name-firefox }. Selecciona el texto que quieres resaltar y haz clic en el ícono de resaltado que aparecerá bajo el texto seleccionado. También puedes hacer clic derecho para desplegar un menú contextual y seleccionar la opción de resaltado. Si quieres resaltar a mano alzada, puedes hacer clic en el ícono de resaltado en la barra superior derecha.
 pdf-editor-create-a-signature = Crea una firma
+pdf-editor-click-the-signature-icon = Abre el archivo PDF en { -brand-name-firefox }. Haz clic en el ícono de firma y luego en la opción "Agregar nueva firma". Escoge entre Texto, Dibujo o Imagen, y haz clic en el botón Agregar para insertar la firma. Puedes guardar tus firmas para usarlas más adelante.{ " " }
 pdf-editor-add-a-comment = Agregar comentarios
