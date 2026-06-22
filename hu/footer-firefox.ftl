@@ -48,6 +48,8 @@ footer-learn = Tanulás
 footer-support = Támogatás
 footer-addons = Kiegészítők
 footer-blog = Blog
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = Árubolt
 
 ## Links to social media
 

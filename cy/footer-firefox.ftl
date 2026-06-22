@@ -48,6 +48,8 @@ footer-learn = Dysgu
 footer-support = Cefnogaeth
 footer-addons = Ychwanegion
 footer-blog = Blog
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = Siop Merch
 
 ## Links to social media
 

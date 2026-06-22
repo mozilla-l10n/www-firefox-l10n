@@ -20,12 +20,29 @@ firefox-enterprise-install-packages-policies = Com pacotes de instalação e uma
 firefox-enterprise-release-cycles = Ciclos de lançamentos que se adequam à sua organização
 firefox-enterprise-choose-firefox-for-features-esr-stability = Escolha { -brand-name-firefox } para as funcionalidades mais recentes e lançamentos estáveis a cada quatro semanas, ou { -brand-name-firefox-esr } para estabilidade a longo prazo, atualizações de segurança regulares e lançamentos principais anuais.
 firefox-enterprise-enterprise-downloads = Transferências para o { -brand-name-enterprise }
+firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-linux = { -brand-name-linux }
 firefox-enterprise-select-your-download = Selecione a sua transferência
+# Standard release, updated with the latest features roughly every four weeks.
+firefox-enterprise-firefox-latest = { -brand-name-firefox } (mais recente)
+firefox-enterprise-firefox-latest-msi = { -brand-name-firefox } (último) — MSI
+firefox-enterprise-firefox-latest-pkg = { -brand-name-firefox } (mais recente) — PKG
+firefox-enterprise-firefox-latest-64-bit = { -brand-name-firefox } (mais recente) — 64 bits
+firefox-enterprise-firefox-latest-arm64 = { -brand-name-firefox } (último) — ARM64
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
+firefox-enterprise-firefox-esr-msi = { -brand-name-firefox-esr } — MSI
+firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } — PKG
+firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64-bit
+firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
 firefox-enterprise-resources = Recursos
+firefox-enterprise-release-notes-v2 = { -brand-name-enterprise } Notas de Lançamento
+# Canonical home for all enterprise deployment and administration documentation.
+firefox-enterprise-documentation = { -brand-name-firefox } { -brand-name-enterprise } documentação
+# Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
+firefox-enterprise-policy-templates = Modelos de políticas
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Notas de lançamento

@@ -48,6 +48,8 @@ footer-learn = გაეცანით
 footer-support = მხარდაჭერა
 footer-addons = დამატებები
 footer-blog = სვეტი
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = საქონლის მაღაზია
 
 ## Links to social media
 

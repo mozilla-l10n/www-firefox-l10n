@@ -17,3 +17,15 @@ newsletters-sign-up-to-receive-monthly = Подпишитесь, чтобы по
 
 # Enterprise
 
+newsletter-enterprise-title = Подписаться на { -brand-name-mozilla } корпоративные обновления
+newsletter-enterprise-description = Будьте в курсе новостей о поддержке { -brand-name-firefox } Enterprise, { -brand-name-firefox } для организаций, а также о вебинарах, мероприятиях и обновлениях продуктов для профессионалов в области ИТ, безопасности и комплаенса.
+newsletter-enterprise-description-consent = Вы решаете, по каким темам { -brand-name-mozilla } Enterprise может связываться с вами по электронной почте. После отправки этой формы, вы получите письмо для подтверждения. Вы будете добавлены в список рассылки только после подтверждения вашего адреса эл. почты.
+newsletter-enterprise-description-note = Примечание: Ваша подписка является добровольной и может быть отозвана в любое время.
+# Consent checkbox label in the enterprise newsletter form
+newsletter-enterprise-form-consent = Я хочу получать электронные письма от { -brand-name-mozilla } Enterprise по выбранным мной выше темам.
+newsletter-enterprise-form-consent-details = Эти письма могут содержать информацию о { -brand-name-firefox } Enterprise, { -brand-name-firefox } Поддержке для организаций, вебинарах, мероприятиях, обновлениях продуктов и функций для ИТ, безопасности и соответствии. Я могу отозвать свое согласие в любое время.
+# Privacy notice section below the enterprise newsletter form
+newsletter-enterprise-privacy-statement = { -brand-name-mozilla } будет обрабатывать предоставленную вами информацию, чтобы отправлять вам выбранные сообщения по электронной почте и документировать ваше согласие. Дополнительная информация доступна в уведомлении о конфиденциальности { -brand-name-mozilla }.
+newsletter-enterprise-privacy-link = Уведомление о конфиденциальности
+newsletter-enterprise-legal-link = Правовая информация
+newsletter-enterprise-contact-link = Контакты

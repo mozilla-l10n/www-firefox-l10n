@@ -48,6 +48,8 @@ footer-learn = 了解
 footer-support = 技術支援
 footer-addons = 附加元件
 footer-blog = 部落格
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = Merch 商店
 
 ## Links to social media
 
