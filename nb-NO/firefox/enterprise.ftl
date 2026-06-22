@@ -20,8 +20,12 @@ firefox-enterprise-install-packages-policies = Med installasjonspakker og et bre
 firefox-enterprise-release-cycles = Utgivelsessykluser som passer din organisasjon
 firefox-enterprise-choose-firefox-for-features-esr-stability = Velg { -brand-name-firefox } for de nyeste funksjonene og stabile utgivelser hver fjerde uke, eller { -brand-name-firefox-esr } for langsiktig stabilitet, regelmessige sikkerhetsoppdateringer og årlige hovedutgivelser.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise }-nedlastinger
+firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-linux = { -brand-name-linux }
 firefox-enterprise-select-your-download = Velg din nedlasting
+# Standard release, updated with the latest features roughly every four weeks.
+firefox-enterprise-firefox-latest = { -brand-name-firefox } (nyeste)
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
