@@ -26,3 +26,4 @@ pdf-editor-select-text-you-want-to = Abre el archivo PDF en { -brand-name-firefo
 pdf-editor-create-a-signature = Crea una firma
 pdf-editor-click-the-signature-icon = Abre el archivo PDF en { -brand-name-firefox }. Haz clic en el ícono de firma y luego en la opción "Agregar nueva firma". Escoge entre Texto, Dibujo o Imagen, y haz clic en el botón Agregar para insertar la firma. Puedes guardar tus firmas para usarlas más adelante.{ " " }
 pdf-editor-add-a-comment = Agregar comentarios
+pdf-editor-click-the-comment-icon = Abre el archivo PDF en { -brand-name-firefox }. Selecciona el texto que quieres comentar y luego haz clic en el ícono de Comentario que aparece bajo el texto seleccionado. Escribe tu comentario y haz clic en "Agregar" para guardarlo. ¿Demasiado comentarios en un solo PDF? Haz clic en el ícono Comentario en la barra superior derecha para abrir la barra lateral y navegar al comentario que te interesa.

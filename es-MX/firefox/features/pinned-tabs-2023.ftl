@@ -7,3 +7,5 @@
 
 # page title
 pinned-tabs-pinned-browser-tabs = Pestañas del navegador fijadas
+# HTML page description
+pinned-tabs-keep-your-favorite-pages-open = Mantén tus páginas favoritas abiertas y a solo un clic de distancia. Utiliza las pestañas fijadas para estar siempre al tanto de tu correo electrónico o aplicaciones de mensajería.
