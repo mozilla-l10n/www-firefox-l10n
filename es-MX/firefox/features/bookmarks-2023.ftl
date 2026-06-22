@@ -9,6 +9,9 @@
 bookmark-manager-bookmark-manager = Administrador de marcadores
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Organiza tus marcadores con carpetas y etiquetas.
+# Variables:
+#   $sync (url) - link to https://www.firefox.com/features/sync/
+bookmark-manager-bookmarks-are-links-you-save = Los marcadores son enlaces que guardas en el navegador para poder volver a tus lugares favoritos de la web de forma rápida y sencilla. { -brand-name-firefox } incluye administrador de marcadores muy práctico para organizar, buscar, actualizar y <a { $sync }>sincronizar todos los enlaces guardados en todos tus dispositivos</a>.
 bookmark-manager-organize-your-boomarks-into = Organiza tus marcadores en carpetas con capacidad de búsqueda
 bookmark-manager-collect-your-bookmarks-in-folders = Reúna sus marcadores en carpetas y etiquételos con más detalles. También puedes ordenar tus marcadores para encontrar rápidamente los que necesitas.
 bookmark-manager-easily-import-bookmarks = Importa marcadores fácilmente
