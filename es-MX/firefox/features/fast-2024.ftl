@@ -13,4 +13,10 @@ features-fast-speedometer-is-the-most-widely = La referencia de rendimiento más
 features-fast-the-new-speedomer-3-benchmark = El nuevo índice de referencia Speedometer 3 es la primera medición significativa de navegadores desarrollada a través de una colaboración con todos los navegadores más importantes, y diseñada para beneficiar a toda la web.
 features-fast-faster-every-day = Cada día más rápido
 features-fast-firefox-is-powered-by-the-world = { -brand-name-firefox } funcional con el motor de clase mundial { -brand-name-gecko }, y cuenta con velocidades sorprendentes de carga de estilos y esqueletos, funcionalidades modernas de JavaScript, y un sinfín de mejoras constantes de rendimiento para mantener contentos a nuestros usuarios e impulsar avances en la plataforma web.
+# Variables
+#   $link (url) - link to https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/
+features-fast-all-browsers-had-to-make = Para tener un buen desempeño en las nuevas pruebas Speedometer 3, todos los navegadores se vieron obligados a implementar mejoras. { -brand-name-firefox } en particular hizo mejorías significativas, <a { $link }>incrementando notoriamente la velocidad</a> para los usuarios como resultado directo. { -brand-name-firefox } es más rápido que nunca, y podrás sentir la diferencia en velocidad, con tiempos de carga más rápidos e interacciones más fluidas.
 features-fast-towards-a-faster-web = Hacia una web más rápida
+# Variables
+#   $link (url) - link to https://www.mozilla.org/about/webvision/full/#performance
+features-fast-theres-been-an-encouraging = En { -brand-name-mozilla } estamos <a { $link }>comprometidos</a> a continuar mejorando nuestro navegador, pero también toda la web. Por eso hemos invertido en esta colaboración para desarrollar Speedometer 3, que a su vez ha mejorado el rendimiento de todos los navegadores. Sin importar qué navegador elijas, queremos que { -brand-name-mozilla } sea muy rápido.
