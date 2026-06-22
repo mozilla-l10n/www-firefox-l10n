@@ -20,26 +20,15 @@ firefox-enterprise-install-packages-policies = Gyda phecynnau gosod ac ystod ean
 firefox-enterprise-release-cycles = Cylchoedd rhyddhau sy'n gweddu i'ch sefydliad
 firefox-enterprise-choose-firefox-for-features-esr-stability = Dewiswch { -brand-name-firefox } ar gyfer y nodweddion diweddaraf a datganiadau sefydlog bob pedair wythnos, neu { -brand-name-firefox-esr } ar gyfer sefydlogrwydd hirdymor, diweddariadau diogelwch rheolaidd, a datganiadau mawr blynyddol.
 firefox-enterprise-enterprise-downloads = Pecynnau { -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-did
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Dewis…
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - gosodwr MSI
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - gosodwr MSI
 firefox-enterprise-resources = Adnoddau
-firefox-enterprise-msi-installers = Gosodwyr MSI
-firefox-enterprise-legacy-browser-support = Cymorth porwyr blaenorol
-firefox-enterprise-admx-templates = Templedi ADMX
-firefox-enterprise-deployment-guide = Canllaw darparu
-firefox-enterprise-policy-documentation = Dogfennaeth polisi
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Nodiadau Rhyddhau
-firefox-enterprise-documentation-and-community = Dogfennaeth a Chefnogaeth Gymunedol
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = Sampl o'r <a href="{ $url }">plist ar gyfer proffil ffurfweddiad</a>
-firefox-enterprise-pkg-installer = Gosodwr PKG
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-did
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Llwythwch { -brand-name-firefox } neu { -brand-name-firefox-esr } i lawr ar gyfer <a { $firefox_all }>iaith neu lwyfan arall.</a>

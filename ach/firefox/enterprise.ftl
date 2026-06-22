@@ -6,5 +6,6 @@
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-macos = { -brand-name-mac }
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })

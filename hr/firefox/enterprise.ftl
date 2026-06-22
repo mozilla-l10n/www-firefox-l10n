@@ -18,26 +18,15 @@ firefox-enterprise-install-packages-policies = Uz instalacijske pakete i široku
 firefox-enterprise-release-cycles = Ciklusi izdanja koji odgovaraju tvojoj organizaciji
 firefox-enterprise-choose-firefox-for-features-esr-stability = Odaberi { -brand-name-firefox } za najnovije funkcije i stabilna izdanja svaka četiri tjedna ili { -brand-name-firefox-esr } za dugoročnu stabilnost, redovita sigurnosna aktualiziranja i godišnja glavna izdanja.
 firefox-enterprise-enterprise-downloads = Preuzimanja za { -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = { -brand-name-windows } (64-bitni)
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Odaberi preuzimanje
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } – MSI instalacijski program
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) – MSI instalacija
 firefox-enterprise-resources = Resursi
-firefox-enterprise-msi-installers = MSI instalacijski programi
-firefox-enterprise-legacy-browser-support = Podrška za stare web preglednike
-firefox-enterprise-admx-templates = ADMX predlošci
-firefox-enterprise-deployment-guide = Vodič za implementaciju
-firefox-enterprise-policy-documentation = Dokumentacija o politici
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Napomene o izdanju
-firefox-enterprise-documentation-and-community = Dokumentacija i podrška zajednice
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = Primjer <a href="{ $url }">pliste za konfiguracijski profil</a>
-firefox-enterprise-pkg-installer = PKG instalacijski programi
-firefox-enterprise-windows-32-bit = { -brand-name-windows } (32-bitni)
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Preuzmi { -brand-name-firefox } ili { -brand-name-firefox-esr } za <a { $firefox_all }>jedan drugi jezik ili platformu.</a>

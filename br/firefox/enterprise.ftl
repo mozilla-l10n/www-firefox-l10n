@@ -6,13 +6,8 @@
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-enterprise-downloads = Pellgargadurioù { -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Diuzit ho pellgargadur
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - Stalier MSI
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - Stalier MSI
-firefox-enterprise-msi-installers = Stalierioù MSI
-firefox-enterprise-pkg-installer = Stalier PKG
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit

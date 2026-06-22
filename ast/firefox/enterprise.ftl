@@ -6,5 +6,3 @@
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-macos = { -brand-name-mac }
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-windows-32-bit = { -brand-name-windows } de 32 bits

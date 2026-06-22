@@ -7,19 +7,11 @@
 
 firefox-enterprise-deploy-when-and-how-you-want = جب اور جیسے چاہیں تعینات کریں
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } ڈاؤن لوڈز
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 بٹ
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = اپنی  ڈاؤن لوڈ کو منتخب کریں
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } براؤزر - MSI انسٹالر
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI انسٹالر
-firefox-enterprise-msi-installers = MSI انسٹالرز
-firefox-enterprise-legacy-browser-support = لیگیسی براؤزر کی سپورٹ
-firefox-enterprise-admx-templates = ADMX ٹیمپلیٹس
-firefox-enterprise-deployment-guide = تعیناتی کا ہدایت نامہ
-firefox-enterprise-policy-documentation = پالیسی دستاویزات
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = اجرائی نوٹس
-firefox-enterprise-documentation-and-community = دستاویزات اور برادری کی سپورٹ
-firefox-enterprise-pkg-installer = PKG انسٹالر
-firefox-enterprise-windows-32-bit = { -brand-name-windows }  32 بٹ

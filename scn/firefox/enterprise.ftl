@@ -6,18 +6,11 @@
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-enterprise-downloads = Scarricamenti di { -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = { -brand-name-windows } a 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Scarta soccu voi scarricari
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - nzitaturi MSI
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - nzitaturi MSI
-firefox-enterprise-msi-installers = Nzitatura MSI
-firefox-enterprise-legacy-browser-support = Supportu pî navicatura vecchi
-firefox-enterprise-admx-templates = Mudeḍḍi ADMX
-firefox-enterprise-deployment-guide = Guida pâ distribbuzzioni
-firefox-enterprise-policy-documentation = Ducumentazzioni dî dirittivi
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Nutizzi dâ virsioni
-firefox-enterprise-pkg-installer = Nzitaturi PKG
-firefox-enterprise-windows-32-bit = { -brand-name-windows } a 32-bit

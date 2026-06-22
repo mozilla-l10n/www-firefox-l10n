@@ -20,26 +20,15 @@ firefox-enterprise-install-packages-policies = Med installationspaket och en bre
 firefox-enterprise-release-cycles = Versionscykler som passar din organisation
 firefox-enterprise-choose-firefox-for-features-esr-stability = Välj { -brand-name-firefox } för de senaste funktionerna och stabila utgåvorna var fjärde vecka eller { -brand-name-firefox-esr } för långsiktig stabilitet, regelbundna säkerhetsuppdateringar och årliga större släpp.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } hämtningar
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bitars
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Välj din nedladdning
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI-installationsprogram
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI-installationsprogram
 firefox-enterprise-resources = Resurser
-firefox-enterprise-msi-installers = MSI-installationsprogram
-firefox-enterprise-legacy-browser-support = Support för äldre webbläsare
-firefox-enterprise-admx-templates = ADMX-mallar
-firefox-enterprise-deployment-guide = Driftsättningsguide
-firefox-enterprise-policy-documentation = Policy-dokumentation
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Versionsfakta
-firefox-enterprise-documentation-and-community = Dokumentation och stöd från gemenskapen
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = Exempel på <a href="{ $url }">plist för konfigurationsprofil</a>
-firefox-enterprise-pkg-installer = PKG-installationsprogram
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bitars
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Hämta { -brand-name-firefox } eller { -brand-name-firefox-esr } på <a { $firefox_all }>ett annat språk eller annan plattform.</a>

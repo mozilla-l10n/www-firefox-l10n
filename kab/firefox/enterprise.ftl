@@ -8,23 +8,12 @@
 firefox-enterprise-use-as-your-enterprise-browser = Err { -brand-name-firefox } d iminig n tkebbanit-inek
 firefox-enterprise-deploy-when-and-how-you-want = Sers melmi d wamek tebɣiḍ
 firefox-enterprise-enterprise-downloads = Sider { -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-ibiten
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Fren asader-ik
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - asebdadMSI
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - asebdad MSI
 firefox-enterprise-resources = Tiɣbula
-firefox-enterprise-msi-installers = Imsebdaden MSI
-firefox-enterprise-legacy-browser-support = Tallelt n yiminig aqbur
-firefox-enterprise-admx-templates = Tineɣrufin ADMX
-firefox-enterprise-deployment-guide = Amnir n usrusu
-firefox-enterprise-policy-documentation = Tasemlit n tsertit
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Tizmilin n lqem
-firefox-enterprise-documentation-and-community = Tasemlit d tallelt n tmezdagnut
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = Amedya n <a href="{ $url }">plist i twila n umaɣnu</a>
-firefox-enterprise-pkg-installer = Asebdad PKG
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-ibiten

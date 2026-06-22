@@ -20,26 +20,15 @@ firefox-enterprise-install-packages-policies = 透過安裝套件與一系列的
 firefox-enterprise-release-cycles = 適合您組織的發行週期
 firefox-enterprise-choose-firefox-for-features-esr-stability = 選用 { -brand-name-firefox } 即可每 4 週獲得最新功能與穩定發行版本，或選用 { -brand-name-firefox-esr } 即可獲得更長期的穩定度、定期安全性更新，每年推出一次主要版本更新。
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } 下載項目
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 位元
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = 選擇下載版本
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI 安裝程式
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI 安裝程式
 firefox-enterprise-resources = 資源
-firefox-enterprise-msi-installers = MSI 格式安裝程式
-firefox-enterprise-legacy-browser-support = 傳統瀏覽器支援
-firefox-enterprise-admx-templates = ADMX 範本
-firefox-enterprise-deployment-guide = 部署指南
-firefox-enterprise-policy-documentation = 原則文件
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = 發行公告
-firefox-enterprise-documentation-and-community = 文件與社群支援
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = 設定檔的<a href="{ $url }">範例 plist</a>
-firefox-enterprise-pkg-installer = PKG 格式安裝程式
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 位元
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = 下載<a { $firefox_all }>其他語言或平台</a>版本的 { -brand-name-firefox } 或 { -brand-name-firefox-esr }。

@@ -20,26 +20,15 @@ firefox-enterprise-install-packages-policies = Với các gói cài đặt và m
 firefox-enterprise-release-cycles = Chu kỳ phát hành phù hợp với tổ chức của bạn
 firefox-enterprise-choose-firefox-for-features-esr-stability = Chọn { -brand-name-firefox } để có các tính năng mới nhất và bản phát hành ổn định mỗi bốn tuần, hoặc { -brand-name-firefox-esr } để có tính ổn định lâu dài, cập nhật bảo mật thường xuyên và các bản phát hành lớn hàng năm.
 firefox-enterprise-enterprise-downloads = Tải xuống { -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Chọn tải xuống bản cài đặt của bạn
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - Trình cài đặt MSI
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - Trình cài đặt MSI
 firefox-enterprise-resources = Tài nguyên
-firefox-enterprise-msi-installers = Trình cài đặt MSI
-firefox-enterprise-legacy-browser-support = Hỗ trợ trình duyệt cũ
-firefox-enterprise-admx-templates = Mẫu ADMX
-firefox-enterprise-deployment-guide = Hướng dẫn triển khai
-firefox-enterprise-policy-documentation = Tài liệu chính sách
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Ghi chú phát hành
-firefox-enterprise-documentation-and-community = Tài liệu và hỗ trợ cộng đồng
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = Mẫu <a href="{ $url }">plist cho các tập tin cấu hình</a>
-firefox-enterprise-pkg-installer = Trình cài đặt PKG
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Tải xuống { -brand-name-firefox } hoặc { -brand-name-firefox-esr } cho <a { $firefox_all }>ngôn ngữ hoặc nền tảng khác.</a>

@@ -7,19 +7,11 @@
 
 firefox-enterprise-deploy-when-and-how-you-want = Hollir nde njiɗɗaa e no njiɗirɗaa
 firefox-enterprise-enterprise-downloads = Gaawte { -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Suɓo gaawtogol maa
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - aafirde MSI
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = Bayyinol ({ -brand-name-esr }) { -brand-name-firefox-extended-support-release }
-firefox-enterprise-firefox-extended-support-release-msi = Bayyinol ({ -brand-name-esr }) { -brand-name-firefox-extended-support-release } - Aafirde MSI
-firefox-enterprise-msi-installers = Gaafirɗe MSI
-firefox-enterprise-legacy-browser-support = Tammbol wanngorde aadanteere
-firefox-enterprise-admx-templates = Tiimtorɗe ADMX
-firefox-enterprise-deployment-guide = Ɗowirde bertugol
-firefox-enterprise-policy-documentation = Duttorɗe dawrugol
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Konngol bayyinol
-firefox-enterprise-documentation-and-community = Duttorɗe e Tammbol Renndo
-firefox-enterprise-pkg-installer = Aafirde PKG
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 64-bit

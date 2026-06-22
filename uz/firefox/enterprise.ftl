@@ -6,5 +6,6 @@
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-macos = { -brand-name-mac }
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Relez eslatmalari
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 bit

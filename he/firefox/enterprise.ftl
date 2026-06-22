@@ -9,26 +9,15 @@ firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = שימוש ב־{ -brand-name-firefox } כדפדפן הארגוני שלך
 firefox-enterprise-deploy-when-and-how-you-want = פריסה בזמן ובאופן שתרצו
 firefox-enterprise-enterprise-downloads = הורדות ל־{ -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = בחירת ההורדה שלכם
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser(case: "a") }
-firefox-enterprise-firefox-browser-msi-installer = ‏{ -brand-name-firefox-browser } - מתקין MSI
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = ‏{ -brand-name-firefox-extended-support-release } (‏{ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = ‏{ -brand-name-firefox-extended-support-release } (‏{ -brand-name-esr }) - מתקין MSI
 firefox-enterprise-resources = משאבים
-firefox-enterprise-msi-installers = מתקיני MSI
-firefox-enterprise-legacy-browser-support = תמיכה בדפדפנים מדור קודם
-firefox-enterprise-admx-templates = תבניות ADMX
-firefox-enterprise-deployment-guide = מדריך פריסה
-firefox-enterprise-policy-documentation = תיעוד מדיניות
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = הערות שחרור
-firefox-enterprise-documentation-and-community = תיעוד ותמיכה קהילתית
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = דוגמה ל־<a href="{ $url }">plist עבור פרופיל תצורה</a>
-firefox-enterprise-pkg-installer = מתקין PKG
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 # Obsolete string (expires: 2026-06-10)
 firefox-enterprise-early-access-is = גישה מוקדמת פתוחה כעת לתוכנית התמיכה החדשה שלנו שתשיק בינואר 2026. היא נבנתה עבור ארגונים המשתמשים ב־{ -brand-name-firefox } כדי להבטיח אבטחה, חוסן וריבונות נתונים, ומספקת תמיכה פרטית, אמינה ומותאמת אישית עבור פריסות בקנה מידה גדול.

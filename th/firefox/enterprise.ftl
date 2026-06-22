@@ -20,26 +20,15 @@ firefox-enterprise-install-packages-policies = ด้วยแพคเกจก
 firefox-enterprise-release-cycles = รอบการออกรุ่นที่เหมาะสมกับองค์กรของคุณ
 firefox-enterprise-choose-firefox-for-features-esr-stability = เลือก { -brand-name-firefox } เพื่อรับคุณลักษณะล่าสุดและการออกรุ่นเสถียรทุกสี่สัปดาห์ หรือ { -brand-name-firefox-esr } เพื่อความเสถียรในระยะยาว การอัปเดตความปลอดภัยเป็นประจำ และการอัปเดตรุ่นหลักประจำปี
 firefox-enterprise-enterprise-downloads = การดาวน์โหลด { -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 บิต
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = เลือกการดาวน์โหลดของคุณ
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - ตัวติดตั้ง MSI
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI installer
 firefox-enterprise-resources = แหล่งข้อมูล
-firefox-enterprise-msi-installers = ตัวติดตั้ง MSI
-firefox-enterprise-legacy-browser-support = การรองรับเบราว์เซอร์รุ่นเก่า
-firefox-enterprise-admx-templates = เทมเพลต ADMX
-firefox-enterprise-deployment-guide = คู่มือการปรับใช้
-firefox-enterprise-policy-documentation = เอกสารประกอบเกี่ยวกับนโยบาย
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = บันทึกประจำรุ่น
-firefox-enterprise-documentation-and-community = เอกสารประกอบและการสนับสนุนของชุมชน
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }">plist ตัวอย่างสำหรับโปรไฟล์กำหนดค่า</a>
-firefox-enterprise-pkg-installer = ตัวติดตั้ง PKG
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 บิต
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = ดาวน์โหลด { -brand-name-firefox } หรือ { -brand-name-firefox-esr } ใน<a { $firefox_all }>ภาษาหรือแพลตฟอร์มอื่น</a>

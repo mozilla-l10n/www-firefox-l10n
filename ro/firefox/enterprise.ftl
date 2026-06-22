@@ -20,26 +20,15 @@ firefox-enterprise-install-packages-policies = Cu pachete de instalare și o ext
 firefox-enterprise-release-cycles = Cicluri de lansare care se potrivesc organizației tale
 firefox-enterprise-choose-firefox-for-features-esr-stability = Alege { -brand-name-firefox } pentru cele mai recente funcționalități și versiuni stabile la fiecare patru săptămâni sau { -brand-name-firefox-esr } pentru stabilitate pe termen lung, actualizări de securitate regulate și versiuni majore anuale.
 firefox-enterprise-enterprise-downloads = Descărcări { -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = { -brand-name-windows } pe 64 de biți
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Selectează descărcarea
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser(case: "definite-article", capitalization: "upper") }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser(case: "definite-article", capitalization: "upper") } - Program de instalare MSI
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - instalator MSI
 firefox-enterprise-resources = Resurse
-firefox-enterprise-msi-installers = Instalatoare MSI
-firefox-enterprise-legacy-browser-support = Suport browsere perimate
-firefox-enterprise-admx-templates = Șabloane ADMX
-firefox-enterprise-deployment-guide = Ghid de lansare
-firefox-enterprise-policy-documentation = Documentație politici
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Note privind versiunea
-firefox-enterprise-documentation-and-community = Documentație și asistență din partea comunității
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = Exemplu de <a href="{ $url }">plistă pentru profilul de configurare</a>
-firefox-enterprise-pkg-installer = Instalator PKG
-firefox-enterprise-windows-32-bit = { -brand-name-windows } pe 32 de biți
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Descarcă { -brand-name-firefox } sau { -brand-name-firefox-esr } pentru <a { $firefox_all }>altă limbă sau altă platformă.</a>

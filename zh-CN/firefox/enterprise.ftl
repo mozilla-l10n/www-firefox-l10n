@@ -20,26 +20,15 @@ firefox-enterprise-install-packages-policies = 通过使用安装包和可广泛
 firefox-enterprise-release-cycles = 总有适合的发布周期
 firefox-enterprise-choose-firefox-for-features-esr-stability = 选择 { -brand-name-firefox } 可每四周获取一次搭载最新功能的稳定版本更新；或选择 { -brand-name-firefox-esr } 以获得长期稳定性、定期安全更新，并每年获取一次主要版本更新。
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise }下载
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 位
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = 选择下载版本
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI 安装程序
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release }（{ -brand-name-esr }）
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release }（{ -brand-name-esr }）- 安装程序
 firefox-enterprise-resources = 资源
-firefox-enterprise-msi-installers = MSI 安装程序
-firefox-enterprise-legacy-browser-support = 旧版浏览器支持
-firefox-enterprise-admx-templates = ADMX 模板
-firefox-enterprise-deployment-guide = 部署指南
-firefox-enterprise-policy-documentation = 策略文档
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = 发行说明
-firefox-enterprise-documentation-and-community = 文档和社区支持
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = 配置文件的 <a href="{ $url }">Plist 模板</a>
-firefox-enterprise-pkg-installer = PKG 安装包
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 位
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = 下载<a { $firefox_all }>其他语言或平台</a>的 { -brand-name-firefox } 或 { -brand-name-firefox-esr }。

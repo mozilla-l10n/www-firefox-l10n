@@ -20,26 +20,15 @@ firefox-enterprise-install-packages-policies = 설치 패키지와 그룹 정책
 firefox-enterprise-release-cycles = 조직에 적합한 출시 주기
 firefox-enterprise-choose-firefox-for-features-esr-stability = { -brand-name-firefox }를 선택하면 4주마다 최신 기능과 정식 버전을 출시할 수 있습니다. { -brand-name-firefox-esr }을 선택하면 장기적인 안정성과 정기 보안 업데이트, 연간 주요 출시 버전을 받을 수 있습니다.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } 다운로드
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64비트
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = 다운로드 선택
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI 설치 프로그램
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI 설치 프로그램
 firefox-enterprise-resources = 자료
-firefox-enterprise-msi-installers = MSI 설치 프로그램
-firefox-enterprise-legacy-browser-support = 오래된 브라우저 지원
-firefox-enterprise-admx-templates = ADMX 템플릿
-firefox-enterprise-deployment-guide = 배포 안내서
-firefox-enterprise-policy-documentation = 정책 문서
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = 출시 안내
-firefox-enterprise-documentation-and-community = 문서 및 커뮤니티 지원
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }"> 구성 프로필의 plist </a> 샘플
-firefox-enterprise-pkg-installer = PKG 설치 프로그램
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32비트
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = <a { $firefox_all }>다른 언어 또는 플랫폼</a>용 { -brand-name-firefox }나 { -brand-name-firefox-esr }을 다운로드하세요.

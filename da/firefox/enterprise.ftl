@@ -5,6 +5,4 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit

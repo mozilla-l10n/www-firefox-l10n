@@ -20,26 +20,15 @@ firefox-enterprise-install-packages-policies = Με τα πακέτα εγκατ
 firefox-enterprise-release-cycles = Κύκλοι κυκλοφορίας που ταιριάζουν στον οργανισμό σας
 firefox-enterprise-choose-firefox-for-features-esr-stability = Επιλέξτε το { -brand-name-firefox } για τις πιο πρόσφατες λειτουργίες και σταθερές εκδόσεις κάθε τέσσερις εβδομάδες ή το { -brand-name-firefox-esr } για μακροχρόνια σταθερότητα, τακτικές ενημερώσεις ασφαλείας και μεγάλες εκδόσεις ετησίως.
 firefox-enterprise-enterprise-downloads = Λήψεις { -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Επιλογή λήψης
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - Πρόγραμμα εγκατάστασης MSI
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - Πρόγραμμα εγκατάστασης MSI
 firefox-enterprise-resources = Πόροι
-firefox-enterprise-msi-installers = Προγράμματα εγκατάστασης MSI
-firefox-enterprise-legacy-browser-support = Υποστήριξη παλαιών προγραμμάτων περιήγησης
-firefox-enterprise-admx-templates = Πρότυπα ADMX
-firefox-enterprise-deployment-guide = Οδηγός διανομής
-firefox-enterprise-policy-documentation = Τεκμηρίωση πολιτικής
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Σημειώσεις έκδοσης
-firefox-enterprise-documentation-and-community = Τεκμηρίωση και υποστήριξη κοινότητας
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = Δείγμα <a href="{ $url }">plist για προφίλ ρυθμίσεων παραμέτρων</a>
-firefox-enterprise-pkg-installer = Πρόγραμμα εγκατάστασης PKG
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Κάντε λήψη του { -brand-name-firefox } ή του { -brand-name-firefox-esr } για <a { $firefox_all }>κάποια άλλη γλώσσα ή πλατφόρμα.</a>

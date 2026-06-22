@@ -20,26 +20,15 @@ firefox-enterprise-install-packages-policies = დასაყენებელ
 firefox-enterprise-release-cycles = გამოშვების ციკლები, რომელიც შეესაბამება თქვენს დაწესებულებას
 firefox-enterprise-choose-firefox-for-features-esr-stability = აირჩიეთ { -brand-name-firefox } უახლესი ფუნქციებითა და მდგრადი გამოშვებებისთვის ოთხ კვირაში, ან { -brand-name-firefox-esr } ხანგრძლივად მდგრადობისთვის, უსაფრთხოების რიგითი განახლებისთვის და ყოველწლიური ძირითადი გამოშვებებისთვის.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } – ჩამოტვირთვები
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-ბიტიანი
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = შეარჩიეთ ჩამოსატვირთი
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } – MSI-დასაყენებელი
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) – MSI-დასაყენებელი
 firefox-enterprise-resources = მასალები
-firefox-enterprise-msi-installers = MSI-დასაყენებლები
-firefox-enterprise-legacy-browser-support = მოძველებული ბრაუზერის მხარდაჭერა
-firefox-enterprise-admx-templates = ADMX-ნიმუშები
-firefox-enterprise-deployment-guide = გამართვის სახელმძღვანელო
-firefox-enterprise-policy-documentation = დებულებების მასალები
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = გამოშვების მონაცემები
-firefox-enterprise-documentation-and-community = მასალები და მხარდაჭერა ერთობისგან
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = ნიმუშად <a href="{ $url }">plist პროფილის გამართვისთვის</a>
-firefox-enterprise-pkg-installer = PKG-დასაყენებელი
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-ბიტიანი
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = ჩამოტვირთეთ { -brand-name-firefox } ან { -brand-name-firefox-esr } <a { $firefox_all }>სხვა ენისა და პლატფორმისთვის.</a>

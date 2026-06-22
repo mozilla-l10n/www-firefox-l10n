@@ -20,26 +20,15 @@ firefox-enterprise-install-packages-policies = Yükleme paketleri, grup ilkeleri
 firefox-enterprise-release-cycles = Kuruluşunuza uygun sürüm döngüleri
 firefox-enterprise-choose-firefox-for-features-esr-stability = En yeni özellikler ve dört haftada bir yayımlanan stabil sürümler için { -brand-name-firefox }’u; uzun süreli stabilite, düzenli güvenlik güncellemeleri ve yılda bir yayımlanan büyük sürümler için { -brand-name-firefox-esr }’ı seçebilirsiniz.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } indirmeleri
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 bit
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = İndirmenizi seçin
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI yükleyici
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI yükleyici
 firefox-enterprise-resources = Kaynaklar
-firefox-enterprise-msi-installers = MSI yükleyiciler
-firefox-enterprise-legacy-browser-support = Eski tarayıcı desteği
-firefox-enterprise-admx-templates = ADMX şablonları
-firefox-enterprise-deployment-guide = Dağıtım kılavuzu
-firefox-enterprise-policy-documentation = İlke belgeleri
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Sürüm notları
-firefox-enterprise-documentation-and-community = Belgeler ve topluluk desteği
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }">Yapılandırma profili için plist</a> örneği
-firefox-enterprise-pkg-installer = PKG yükleyici
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 bit
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = { -brand-name-firefox } veya { -brand-name-firefox-esr }’ı <a { $firefox_all }>başka bir dil veya platform</a> için indirin.

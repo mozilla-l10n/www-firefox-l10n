@@ -7,22 +7,11 @@
 
 firefox-enterprise-deploy-when-and-how-you-want = Distribuescha l'installaziun co e cura che ti vuls
 firefox-enterprise-enterprise-downloads = Telechargiadas per { -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 bits
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Tscherna tia telechargiada
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } – program d'installaziun MSI
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) – program d'installaziun MSI
-firefox-enterprise-msi-installers = Programs d'installaziun MSI
-firefox-enterprise-legacy-browser-support = Sustegn per navigaturs pli vegls
-firefox-enterprise-admx-templates = Models ADMX
-firefox-enterprise-deployment-guide = Manual per la distribuziun
-firefox-enterprise-policy-documentation = Documentaziun da las directivas
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Indicaziuns davart la versiun
-firefox-enterprise-documentation-and-community = Documentaziun e support da la cuminanza
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = Exempel da <a href="{ $url }">plist per il profil da configuraziun</a>
-firefox-enterprise-pkg-installer = Program d'installaziun PKG
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 bits

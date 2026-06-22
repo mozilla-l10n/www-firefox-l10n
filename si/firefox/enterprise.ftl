@@ -7,22 +7,11 @@
 
 firefox-enterprise-deploy-when-and-how-you-want = ඔබට අවශ්‍ය විට සහ ආකාරයට යොදවන්න
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } බාගැනීම්
-firefox-enterprise-windows-64-bit = { -brand-name-windows } බිටු-64
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = බාගැනීම තෝරන්න
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI ස්ථාපකය
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI ස්ථාපකය
-firefox-enterprise-msi-installers = MSI ස්ථාපක
-firefox-enterprise-legacy-browser-support = පරණ අතිරික්සු සහාය
-firefox-enterprise-admx-templates = ADMX අච්චු
-firefox-enterprise-deployment-guide = යෙදවීමේ මාර්ගෝපදේශය
-firefox-enterprise-policy-documentation = ප්‍රතිපත්ති ප්‍රලේඛනය
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = නිකුතු සටහන්
-firefox-enterprise-documentation-and-community = ප්‍රලේඛනය සහ ප්‍රජා සහාය
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }">වින්‍යාස පැතිකඩ සඳහා plist</a> නිදසුන
-firefox-enterprise-pkg-installer = PKG ස්ථාපකය
-firefox-enterprise-windows-32-bit = { -brand-name-windows } බිටු-32

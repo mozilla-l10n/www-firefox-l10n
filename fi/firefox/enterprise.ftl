@@ -11,24 +11,13 @@ firefox-enterprise-your-browser-your-business = Sinun selain, sinun liiketoimint
 firefox-enterprise-deploy-when-and-how-you-want = Ota käyttöön milloin ja miten haluat
 firefox-enterprise-release-cycles = Organisaatiollesi sopivat julkaisusyklit
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise }-lataukset
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bittinen
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Valitse lataus
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI-asennusohjelma
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } -{ -brand-name-esr } - MSI-asennusohjelma
 firefox-enterprise-resources = Resurssit
-firefox-enterprise-msi-installers = MSI-asennusohjelmat
-firefox-enterprise-legacy-browser-support = Vanhan selaimen tuki
-firefox-enterprise-admx-templates = ADMX-mallit
-firefox-enterprise-deployment-guide = Käyttöönotto-opas
-firefox-enterprise-policy-documentation = Käytäntöjen dokumentaatio
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Julkaisutiedot
-firefox-enterprise-documentation-and-community = Dokumentaatio ja yhteisön tuki
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }">plist-konfiguraatioprofiilin</a> esimerkki
-firefox-enterprise-pkg-installer = PKG-asentaja
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bittinen
 firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }

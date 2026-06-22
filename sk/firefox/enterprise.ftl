@@ -20,26 +20,15 @@ firefox-enterprise-install-packages-policies = Pomocou inštalačných balíčko
 firefox-enterprise-release-cycles = Cykly vydávania, ktoré vyhovujú vašej organizácii
 firefox-enterprise-choose-firefox-for-features-esr-stability = Ak chcete najnovšie funkcie a stabilné vydania každé štyri týždne, zvoľte { -brand-name-firefox }. Ak chcete dlhodobú stabilitu, pravidelné bezpečnostné aktualizácie a hlavné vydania v ročnom cykle, zvoľte { -brand-name-firefox-esr }.
 firefox-enterprise-enterprise-downloads = Na stiahnutie pre { -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = { -brand-name-windows }, 64‑bitová verzia
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Vyberte si svoju verziu
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - inštalátor MSI
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - inštalátor MSI
 firefox-enterprise-resources = Zdroje
-firefox-enterprise-msi-installers = MSI inštalátory
-firefox-enterprise-legacy-browser-support = Podpora pre staršie prehliadače
-firefox-enterprise-admx-templates = Šablóny ADMX
-firefox-enterprise-deployment-guide = Sprievodca nasadením
-firefox-enterprise-policy-documentation = Dokumentácia k pravidlám
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Poznámky k vydaniu
-firefox-enterprise-documentation-and-community = Dokumentácia a komunitná podpora
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = Zoznam pre <a href="{ $url }">nastavenie profilu</a>
-firefox-enterprise-pkg-installer = PKG inštalátor
-firefox-enterprise-windows-32-bit = { -brand-name-windows }, 32‑bitová verzia
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Stiahnite si { -brand-name-firefox } alebo { -brand-name-firefox-esr } v <a { $firefox_all }>inom jazyku či pre inú platformu</a>.

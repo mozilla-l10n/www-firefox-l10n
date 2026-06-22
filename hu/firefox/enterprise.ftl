@@ -20,26 +20,15 @@ firefox-enterprise-install-packages-policies = A telepítőcsomagokkal és a sz�
 firefox-enterprise-release-cycles = A szervezetéhez illő kiadási ciklusok
 firefox-enterprise-choose-firefox-for-features-esr-stability = Válassza a { -brand-name-firefox }ot a legújabb funkciókért és négyhetenkénti stabil kiadásokért, vagy a { -brand-name-firefox-esr }-t a hosszú távú stabilitásért, a rendszeres biztonsági frissítésekért és az évenkénti főverziókért.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } letöltések
-firefox-enterprise-windows-64-bit = 64 bites { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Válassza ki a letöltését
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } – MSI telepítő
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) – MSI telepítő
 firefox-enterprise-resources = Erőforrások
-firefox-enterprise-msi-installers = MSI telepítők
-firefox-enterprise-legacy-browser-support = Örökölt böngészőtámogatás
-firefox-enterprise-admx-templates = ADMX-sablonok
-firefox-enterprise-deployment-guide = Telepítési útmutató
-firefox-enterprise-policy-documentation = Házirend-dokumentáció
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Kiadási megjegyzések
-firefox-enterprise-documentation-and-community = Dokumentáció és közösségi támogatás
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = Minta <a href="{ $url }">plist konfigurációs profilhoz</a>
-firefox-enterprise-pkg-installer = PKG telepítő
-firefox-enterprise-windows-32-bit = 32 bites { -brand-name-windows }
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = A { -brand-name-firefox } vagy a { -brand-name-firefox-esr } letöltése <a { $firefox_all }>másik nyelvre vagy platformra.</a>

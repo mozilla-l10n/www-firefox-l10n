@@ -20,26 +20,15 @@ firefox-enterprise-install-packages-policies = Бо истифода аз бас
 firefox-enterprise-release-cycles = Давраҳои релиз, ки ба талаботи ташкилоти шумо мутобиқ мебошанд
 firefox-enterprise-choose-firefox-for-features-esr-stability = Браузери «{ -brand-name-firefox }»-ро интихоб карда, ба хусусиятҳои навтарин ва нашрҳои устувор ҳар чор ҳафта дастрасӣ пайдо намоед, ё версияи «{ -brand-name-firefox-esr }»-ро интихоб карда, ба устувории дарозмуддат, навсозиҳои мунтазам барои амнияти низом ва нашрҳои асосии солона дастрасӣ пайдо намоед.
 firefox-enterprise-enterprise-downloads = Боргириҳо барои браузери «{ -brand-name-enterprise }»
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-бит
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Боргирии худро интихоб намоед
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - Насбкунандаи «MSI»
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - Насбкунандаи «MSI»
 firefox-enterprise-resources = Манбаъҳо
-firefox-enterprise-msi-installers = Насбкунандаи «MSI»
-firefox-enterprise-legacy-browser-support = Дастгирии браузерҳои куҳна
-firefox-enterprise-admx-templates = Қолабҳои «ADMX»
-firefox-enterprise-deployment-guide = Дастур барои рушду такомул
-firefox-enterprise-policy-documentation = Ҳуҷҷатҳо барои сиёсатмадорӣ
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Қайдҳои нашр
-firefox-enterprise-documentation-and-community = Ҳуҷҷатгузорӣ ва дастгирии ҷомеа
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = Намунаи <a href="{ $url }">файли рӯйхати хусусиятҳо (plist) барои профили танзимот</a>
-firefox-enterprise-pkg-installer = Насбкунандаи «PKG»
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-бит
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Браузери «{ -brand-name-firefox }» ё «{ -brand-name-firefox-esr }»-ро <a { $firefox_all }>барои платформаи дигар ё бо забони дигар</a> боргирӣ намоед.

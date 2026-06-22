@@ -20,26 +20,15 @@ firefox-enterprise-install-packages-policies = Z instalěrowańskimi paketami a 
 firefox-enterprise-release-cycles = Wózjawjeńske cykluse, kótarež se k wašej organizaciji góźe
 firefox-enterprise-choose-firefox-for-features-esr-stability = Wubjeŕśo { -brand-name-firefox } za nejnowše funkcije a stabilne wersije kužde styri tyźenje, abo { -brand-name-firefox-esr } za dłujkodobnu stabilnosć, pšawidłowne wěstotne aktualizacije a lětne głowne wersije.
 firefox-enterprise-enterprise-downloads = Ześěgnjenja za { -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Wubjeŕśo swójo ześěgnjenje
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = Wobglědowak { -brand-name-firefox-browser } - MSI-instalěrowak
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI-instalěrowak
 firefox-enterprise-resources = Resurse
-firefox-enterprise-msi-installers = MSI-instalěrowaki
-firefox-enterprise-legacy-browser-support = Pódpěra za starše wobglědowaki
-firefox-enterprise-admx-templates = ADMX-pśedłogi
-firefox-enterprise-deployment-guide = Směrnice za rozdźělenje
-firefox-enterprise-policy-documentation = Dokumentacija pšawidłow
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Wersijowe informacije
-firefox-enterprise-documentation-and-community = Dokumentacija a pódpěra wót zgromaźeństwa
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = Pśikład <a href="{ $url }">plist za konfiguraciski profil</a>
-firefox-enterprise-pkg-installer = PKG-instalěrowak
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Ześěgniśo { -brand-name-firefox } abo { -brand-name-firefox-esr } za <a { $firefox_all }>drugu rěc abo platformu.</a>

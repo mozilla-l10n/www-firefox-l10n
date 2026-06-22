@@ -5,18 +5,11 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
-firefox-enterprise-windows-64-bit = 64-ቢት { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = ማውረድዎን ይምረጡ
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - MSI ጫኚ
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release }({ -brand-name-esr })- MSI ጫኚ
-firefox-enterprise-msi-installers = MSI ጫኚዎች
-firefox-enterprise-legacy-browser-support = የቆየ አሳሽ ድጋፍ
-firefox-enterprise-admx-templates = ADMX አብነቶች
-firefox-enterprise-deployment-guide = የትግበራ መመሪያ
-firefox-enterprise-policy-documentation = የመመሪያ ሰነድ
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = የመልቀቂያ ማስታወሻዎች
-firefox-enterprise-documentation-and-community = ሰነዶች እና የማህበረሰብ ድጋፍ
-firefox-enterprise-windows-32-bit = 32-ቢት { -brand-name-windows }
