@@ -39,6 +39,10 @@ firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-r
 firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
 firefox-enterprise-resources = Resurser
 firefox-enterprise-release-notes-v2 = { -brand-name-enterprise } versjonsnotat
+# Canonical home for all enterprise deployment and administration documentation.
+firefox-enterprise-documentation = { -brand-name-firefox } { -brand-name-enterprise } dokumentasjon
+# Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
+firefox-enterprise-policy-templates = Policymaler
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Versjonsnotat
