@@ -23,28 +23,20 @@ firefox-enterprise-install-packages-policies = وبفضل حزم التثبيت 
 firefox-enterprise-release-cycles = دورات إصدار تتناسب مع احتياجات مؤسّستكم
 firefox-enterprise-choose-firefox-for-features-esr-stability = اختر { -brand-name-firefox } للحصول على أحدث الميزات والإصدارات المُستقرة كل أربعة أسابيع، أو { -brand-name-firefox-esr } للاستقرار طويل الأمد، مع تحديثات أمنية مُنتظمة وإصدارات رئيسية سنوية.
 firefox-enterprise-enterprise-downloads = تنزيلات { -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 بت
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = اختر نوع التنزيل
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - أداة تثبيت MSI
+
+
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - أداة تثبيت MSI
 firefox-enterprise-resources = الموارد
-firefox-enterprise-msi-installers = أدوات تثبيت MSI
-firefox-enterprise-legacy-browser-support = دعم المتصفّحات القديمة
-firefox-enterprise-admx-templates = قوالب ADMX
-firefox-enterprise-deployment-guide = دليل النشر
-firefox-enterprise-policy-documentation = توثيق السياسات
+
+
+
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = مُلاحظات الإصدار
-firefox-enterprise-documentation-and-community = التوثيق ودعم المُنتدى
-
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = Sample <a href="{ $url }">plist لملف تعريف التكوين</a>
-
-firefox-enterprise-pkg-installer = أداة تثبيت PKG
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 بت
 
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
