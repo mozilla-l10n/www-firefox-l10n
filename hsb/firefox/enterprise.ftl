@@ -20,7 +20,9 @@ firefox-enterprise-install-packages-policies = Z instalaciskimi paketami a wobš
 firefox-enterprise-release-cycles = Wozjewjenske cyklusy, kotrež so k wašej organizaciji hodźa
 firefox-enterprise-choose-firefox-for-features-esr-stability = Wubjerće { -brand-name-firefox } za najnowše funkcije a stabilne wersije kóžde štyri njedźele, abo { -brand-name-firefox-esr } za dołhodobnu stabilnosć, prawidłowne wěstotne aktualizacije a lětne hłowne wersije.
 firefox-enterprise-enterprise-downloads = Sćehnjenja za { -brand-name-enterprise }
+firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-linux = { -brand-name-linux }
 firefox-enterprise-select-your-download = Wubjerće swoje sćehnjenje
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
