@@ -20,7 +20,9 @@ firefox-enterprise-install-packages-policies = Με τα πακέτα εγκατ
 firefox-enterprise-release-cycles = Κύκλοι κυκλοφορίας που ταιριάζουν στον οργανισμό σας
 firefox-enterprise-choose-firefox-for-features-esr-stability = Επιλέξτε το { -brand-name-firefox } για τις πιο πρόσφατες λειτουργίες και σταθερές εκδόσεις κάθε τέσσερις εβδομάδες ή το { -brand-name-firefox-esr } για μακροχρόνια σταθερότητα, τακτικές ενημερώσεις ασφαλείας και μεγάλες εκδόσεις ετησίως.
 firefox-enterprise-enterprise-downloads = Λήψεις { -brand-name-enterprise }
+firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-linux = { -brand-name-linux }
 firefox-enterprise-select-your-download = Επιλογή λήψης
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
