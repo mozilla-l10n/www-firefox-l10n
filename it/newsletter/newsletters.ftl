@@ -17,3 +17,6 @@ newsletters-sign-up-to-receive-monthly = Iscriviti per ricevere ogni mese aggior
 
 # Enterprise
 
+newsletter-enterprise-title = Iscriviti alla newsletter { -brand-name-mozilla } Enterprise Updates
+newsletter-enterprise-description = Rimani aggiornato su { -brand-name-firefox } Enterprise, { -brand-name-firefox } for Organizations Support, oltre a webinar, eventi e novità sui prodotti dedicati ai professionisti IT, della sicurezza e della conformità.
+newsletter-enterprise-description-note = Nota: l’iscrizione è facoltativa e puoi annullarla in qualsiasi momento.
