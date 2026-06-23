@@ -48,6 +48,8 @@ footer-learn = Tìm hiểu
 footer-support = Hỗ trợ
 footer-addons = Tiện ích
 footer-blog = Blog
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = Cửa hàng lưu niệm
 
 ## Links to social media
 
