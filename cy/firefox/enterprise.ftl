@@ -28,19 +28,19 @@ firefox-enterprise-select-your-download = Dewis…
 firefox-enterprise-firefox-latest = { -brand-name-firefox } (diweddaraf)
 firefox-enterprise-firefox-latest-msi = { -brand-name-firefox } (diweddaraf) — MSI
 firefox-enterprise-firefox-latest-pkg = { -brand-name-firefox } (diweddaraf) — PKG
-firefox-enterprise-firefox-latest-64-bit = { -brand-name-firefox } (diweddaraf) - 64-bit
+firefox-enterprise-firefox-latest-64-bit = { -brand-name-firefox } (diweddaraf) - 64-did
 firefox-enterprise-firefox-latest-arm64 = { -brand-name-firefox } (diweddaraf) — ARM64
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-esr-msi = { -brand-name-firefox-esr } — MSI
 firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } — PKG
-firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64-bit
+firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64-did
 firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
 firefox-enterprise-resources = Adnoddau
 firefox-enterprise-release-notes-v2 = { -brand-name-enterprise } Nodiadau Rhyddhau
 # Canonical home for all enterprise deployment and administration documentation.
-firefox-enterprise-documentation = { -brand-name-firefox } { -brand-name-enterprise } dogfennaeth
+firefox-enterprise-documentation = Dogfennaeth { -brand-name-firefox } { -brand-name-enterprise }
 # Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
 firefox-enterprise-policy-templates = Templedi polisi
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
