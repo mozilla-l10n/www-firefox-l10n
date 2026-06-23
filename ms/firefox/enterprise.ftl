@@ -23,28 +23,20 @@ firefox-enterprise-install-packages-policies = Dengan pakej pemasangan dan aplik
 firefox-enterprise-release-cycles = Kitaran pelancaran yang memenuhi kehendak syarikat anda
 firefox-enterprise-choose-firefox-for-features-esr-stability = Pilih { -brand-name-firefox } untuk ciri terkini dan pelancaran yang lebih stabil setiap empat minggu, atau { -brand-name-firefox-esr } untuk kestabilan jangka lama, kemas kini keselamatan yang kerap dan keluaran besar setiap tahun.
 firefox-enterprise-enterprise-downloads = Item muat turun { -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Pilih item muat turun anda
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - Pemasang MSI
+
+
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - Pemasang MSI
 firefox-enterprise-resources = Sumber
-firefox-enterprise-msi-installers = Pemasang MSI
-firefox-enterprise-legacy-browser-support = Sokongan pelayar Legacy
-firefox-enterprise-admx-templates = Templat ADMX
-firefox-enterprise-deployment-guide = Panduan Integrasi
-firefox-enterprise-policy-documentation = Dokumentasi polisi
+
+
+
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Nota Siaran
-firefox-enterprise-documentation-and-community = Dokumentasi dan Sokongan Komuniti
-
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = Sampel <a href="{ $url }">plist untuk profil konfigurasi</a>
-
-firefox-enterprise-pkg-installer = Pemasang PKG
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/

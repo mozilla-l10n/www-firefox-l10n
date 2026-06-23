@@ -35,6 +35,7 @@ navigation-release-notes = Nota Siaran
 navigation-support = Bantuan
 navigation-extensions-and-themes = Sambungan & Tema
 navigation-whats-new = Apa yang Baru
+navigation-whats-next = Apa Seterusnya
 navigation-add-ons = Tambahan
 navigation-all-downloads = Semua Muat turun
 navigation-learn = Ketahui

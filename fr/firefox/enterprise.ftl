@@ -23,28 +23,20 @@ firefox-enterprise-install-packages-policies = Avec des offres d’installation 
 firefox-enterprise-release-cycles = Des cycles de renouvellement de version adaptés à votre organisation
 firefox-enterprise-choose-firefox-for-features-esr-stability = Choisissez { -brand-name-firefox } pour profiter de nouvelles fonctionnalités et versions stables toutes les quatre semaines, ou { -brand-name-firefox-esr } pour sa stabilité à long terme, ses mises à jour de sécurité régulières et ses nouvelles versions annuelles.
 firefox-enterprise-enterprise-downloads = Téléchargements pour les { -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 bits
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Sélectionnez votre téléchargement
-firefox-enterprise-firefox-browser = Navigateur Firefox
-firefox-enterprise-firefox-browser-msi-installer = Navigateur Firefox — Installeur MSI
+
+
+# Extended Support Release. Spelled out on the first ESR entry in each platform's
+# list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — Installeur MSI
 firefox-enterprise-resources = Ressources
-firefox-enterprise-msi-installers = Installeurs MSI
-firefox-enterprise-legacy-browser-support = Extension Legacy browser support
-firefox-enterprise-admx-templates = Modèles ADMX
-firefox-enterprise-deployment-guide = Guide de déploiement
-firefox-enterprise-policy-documentation = Documentation des stratégies
+
+
+
+# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
+# Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Notes de mise à jour
-firefox-enterprise-documentation-and-community = Documentation et assistance communautaire
-
-# Variables:
-#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
-firefox-enterprise-sample-plist-for-configuration = Exemple de <a href="{ $url }">plist pour le profil de configuration</a>
-
-firefox-enterprise-pkg-installer = Installeurs PKG
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 bits
 
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/

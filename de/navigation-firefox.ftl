@@ -35,6 +35,7 @@ navigation-release-notes = Versionshinweise
 navigation-support = Hilfe
 navigation-extensions-and-themes = Erweiterungen und Themen
 navigation-whats-new = Was ist neu
+navigation-whats-next = Was passiert jetzt?
 navigation-add-ons = Add-ons
 navigation-all-downloads = Alle Downloads
 navigation-learn = Lernen
