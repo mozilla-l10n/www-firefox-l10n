@@ -23,3 +23,9 @@ newsletter-enterprise-description-consent = U bepaalt over welke onderwerpen { -
 newsletter-enterprise-description-note = Noot: uw abonnement is vrijwillig en kan op elk moment worden ingetrokken.
 # Consent checkbox label in the enterprise newsletter form
 newsletter-enterprise-form-consent = Ik wil graag e-mailberichten van { -brand-name-mozilla } Enterprise ontvangen over de hierboven geselecteerde onderwerpen.
+newsletter-enterprise-form-consent-details = Deze e-mailberichten kunnen informatie bevatten over { -brand-name-firefox } voor Ondernemingen, ondersteuning voor { -brand-name-firefox } voor organisaties, webinars, evenementen, productupdates en functie-updates op het gebied van IT, beveiliging en compliance. Ik kan mijn toestemming te allen tijde voor de toekomst intrekken.
+# Privacy notice section below the enterprise newsletter form
+newsletter-enterprise-privacy-statement = { -brand-name-mozilla } verwerkt de door u verstrekte gegevens om u de geselecteerde e-mailberichten te sturen en om uw toestemming te documenteren. Nadere informatie is beschikbaar in de privacyverklaring van { -brand-name-mozilla }.
+newsletter-enterprise-privacy-link = Privacyverklaring
+newsletter-enterprise-legal-link = Juridische kennisgeving
+newsletter-enterprise-contact-link = Contact
