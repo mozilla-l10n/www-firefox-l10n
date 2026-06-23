@@ -49,7 +49,7 @@ footer-support = Поддержка
 footer-addons = Дополнения
 footer-blog = Блог
 # Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
-footer-merch-store = Магазин с товарами
+footer-merch-store = Магазин мерча
 
 ## Links to social media
 

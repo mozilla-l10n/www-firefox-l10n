@@ -28,17 +28,17 @@ firefox-enterprise-select-your-download = Выберите ваш выпуск
 firefox-enterprise-firefox-latest = { -brand-name-firefox } (последний)
 firefox-enterprise-firefox-latest-msi = { -brand-name-firefox } (последний) — MSI
 firefox-enterprise-firefox-latest-pkg = { -brand-name-firefox } (последний) — PKG
-firefox-enterprise-firefox-latest-64-bit = { -brand-name-firefox } (последняя) — 64-битная
+firefox-enterprise-firefox-latest-64-bit = { -brand-name-firefox } (последний) — 64-битный
 firefox-enterprise-firefox-latest-arm64 = { -brand-name-firefox } (последний) — ARM64
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-esr-msi = { -brand-name-firefox-esr } — MSI
 firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } — PKG
-firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64-битная
+firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64-битный
 firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
 firefox-enterprise-resources = Ресурсы
-firefox-enterprise-release-notes-v2 = { -brand-name-enterprise } Примечания к выпуску
+firefox-enterprise-release-notes-v2 = Примечания к выпуску { -brand-name-enterprise }
 # Canonical home for all enterprise deployment and administration documentation.
 firefox-enterprise-documentation = Документация на { -brand-name-firefox } { -brand-name-enterprise }
 # Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
