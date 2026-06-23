@@ -6,3 +6,4 @@
 ### URL: https://www-dev.springfield.moz.works/browsers/mobile/ios/
 
 mobile-ios-get-firefox-for = Hent { -brand-name-firefox } til { -brand-name-ios }
+mobile-ios-scan-the-qr-code-to-get-started = Skan QR-koden for at komme i gang
