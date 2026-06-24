@@ -19,7 +19,6 @@ newsletters-sign-up-to-receive-monthly = Iratkozzon fel, hogy havonta értesülj
 
 newsletter-enterprise-title = Iratkozzon fel a { -brand-name-mozilla } vállalati híreire
 newsletter-enterprise-description = Tájékozódjon a { -brand-name-firefox } vállalati és a { -brand-name-firefox } szervezeti támogatásról, valamint a releváns webes szemináriumokról, eseményekről és informatikai, biztonsági és megfelelőségi szakembereknek szóló termékhírekről.
-newsletter-enterprise-description-consent = Ön dönti el, hogy mely témákban keresse meg a { -brand-name-mozilla } Enterprise e-mailben. Az űrlap beküldése után egy megerősítő e-mailt fog kapni. Csak az e-mail cím megerősítése után kerül fel a levelezőlistára.
 newsletter-enterprise-description-note = Megjegyzés: Az előfizetés önkéntes és bármikor visszavonható.
 # Consent checkbox label in the enterprise newsletter form
 newsletter-enterprise-form-consent = Szeretnék e-mail leveleket kapni a { -brand-name-mozilla } Enterprisetól, a fent kiválasztott témákban.
@@ -28,4 +27,3 @@ newsletter-enterprise-form-consent-details = Ezek az e-mailek információkat ta
 newsletter-enterprise-privacy-statement = A(z) { -brand-name-mozilla } feldolgozza az Ön által megadott információkat annak érdekében, hogy elküldjük Önnek a kiválasztott e-maileket, és dokumentálja a hozzájárulását. További információk { -brand-name-mozilla } adatvédelmi nyilatkozatában találhatók.
 newsletter-enterprise-privacy-link = Adatvédelmi nyilatkozat
 newsletter-enterprise-legal-link = Jogi megjegyzés
-newsletter-enterprise-contact-link = Kapcsolat
