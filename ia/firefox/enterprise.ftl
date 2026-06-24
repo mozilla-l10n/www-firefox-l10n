@@ -38,8 +38,11 @@ firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } — PKG
 firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64-bit
 firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
 firefox-enterprise-resources = Ressources
+firefox-enterprise-release-notes-v2 = Notas de version de { -brand-name-enterprise }
 # Canonical home for all enterprise deployment and administration documentation.
 firefox-enterprise-documentation = Documentation de { -brand-name-firefox } { -brand-name-enterprise }
+# Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
+firefox-enterprise-policy-templates = Modellos de regulamento
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Notas pro iste revision
