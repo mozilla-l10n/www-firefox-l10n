@@ -12,6 +12,9 @@ firefox-all-the-pre-alpha-version = E versioin pre-alpha en pe utenti asperti ch
 firefox-all-64-bit-installers = Programmi de instaçion a 64-bit
 firefox-all-choose-a-64-bit-installer = Piggia 'n istalatô a 64-bit pe-i computer con procesoî a 64-bit, che permetan de alocâ ciù RAM pe ògni programma — questo o l'é ben ben inportante pe-i zeughi e atre aplicaçioin inpegnative.
 firefox-all-32-bit-installers = Programmi de instaçion a 32-bit
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Descarega { $esr_version }
 firefox-all-check-the-system-requirements = Contròlla i requixiti de scistema
 firefox-all-release-notes = Nòtte da verscion
 firefox-all-source-code = Còdice sorgente

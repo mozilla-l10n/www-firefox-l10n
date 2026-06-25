@@ -20,3 +20,20 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> pe { -brand-n
 download-button-firefox-privacy = Privacy de { -brand-name-firefox }
 download-button-firefox-privacy-notice = Informaçioin in sciâ privacy de { -brand-name-firefox }
 download-button-download = Descarega
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">o no l'é ciù soportou</a> in sce { $os_version } e verscioin ciù vege.
+download-firefox-esr = Descarega { -brand-name-firefox-esr }
+download-firefox-esr-32 = Descarega { -brand-name-firefox-esr } 32-bit
+download-firefox-esr-64 = Descarega { -brand-name-firefox-esr } 64-bit
+download-a-different-build = Descarega 'n’atra verscion
+
+## Linux
+
+download-button-linux-32-v2 = Descarega pe Linux 32-bit
+download-button-linux-64-v2 = Descarega pe Linux 64-bit
+download-button-linux-arm64 = Descarega pe Linux ARM64
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Piggitou da Microsoft
