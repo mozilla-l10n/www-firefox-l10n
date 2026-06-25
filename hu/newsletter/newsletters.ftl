@@ -26,4 +26,4 @@ newsletter-enterprise-form-consent-details = Ezek az e-mailek információkat ta
 # Privacy notice section below the enterprise newsletter form
 newsletter-enterprise-privacy-statement = A(z) { -brand-name-mozilla } feldolgozza az Ön által megadott információkat annak érdekében, hogy elküldjük Önnek a kiválasztott e-maileket, és dokumentáljuk a hozzájárulását. További információk a { -brand-name-mozilla } adatvédelmi nyilatkozatában találhatók.
 newsletter-enterprise-privacy-link = Adatvédelmi nyilatkozat
-newsletter-enterprise-legal-link = Jogi megjegyzés
+newsletter-enterprise-legal-link = Jogi nyilatkozat
