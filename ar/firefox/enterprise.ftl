@@ -23,7 +23,9 @@ firefox-enterprise-install-packages-policies = وبفضل حزم التثبيت 
 firefox-enterprise-release-cycles = دورات إصدار تتناسب مع احتياجات مؤسّستكم
 firefox-enterprise-choose-firefox-for-features-esr-stability = اختر { -brand-name-firefox } للحصول على أحدث الميزات والإصدارات المُستقرة كل أربعة أسابيع، أو { -brand-name-firefox-esr } للاستقرار طويل الأمد، مع تحديثات أمنية مُنتظمة وإصدارات رئيسية سنوية.
 firefox-enterprise-enterprise-downloads = تنزيلات { -brand-name-enterprise }
+firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-linux = { -brand-name-linux }
 firefox-enterprise-select-your-download = اختر نوع التنزيل
 
 
@@ -31,6 +33,7 @@ firefox-enterprise-select-your-download = اختر نوع التنزيل
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-resources = الموارد
+firefox-enterprise-release-notes-v2 = ملاحظات إصدار { -brand-name-enterprise }
 
 
 
