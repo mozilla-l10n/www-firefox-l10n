@@ -18,3 +18,5 @@ newsletters-sign-up-to-receive-monthly = ニュースレターにご登録くだ
 
 
 
+
+newsletter-enterprise-privacy-link = プライバシーに関する通知
