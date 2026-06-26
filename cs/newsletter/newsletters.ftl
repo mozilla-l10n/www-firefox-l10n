@@ -18,7 +18,11 @@ newsletters-sign-up-to-receive-monthly = Přihlaste se k měsíčnímu odběru n
 # Enterprise
 
 newsletter-enterprise-title = Předplaťte si aktualizace { -brand-name-mozilla } pro podniky
+newsletter-enterprise-description-v2 = Buďte v obraze o { -brand-name-firefox-enterprise } a { -brand-name-firefox-for-organizations-support }, stejně jako o relevantních webinářích, událostech a aktualizacích produktů pro IT profesionály, bezpečnost a shodu.
 newsletter-enterprise-description-note = Poznámka: Vaše předplatné je dobrovolné a můžete ho kdykoli zrušit.
+# Consent checkbox label in the enterprise newsletter form
+newsletter-enterprise-form-consent-v2 = Chci dostávat e-maily od služby { -brand-name-mozilla } o produktech pro firmy, událostech, aktualizacích a souvisejících tématech z oblasti IT, bezpečnosti a shody.
+newsletter-enterprise-form-consent-details-v2 = Tyto e-maily mohou obsahovat informace o společnostech { -brand-name-firefox-enterprise }, { -brand-name-firefox-for-organizations-support }, webových seminářích, událostech, aktualizacích a aktualizacích funkcí z oblasti IT, bezpečnosti a souladu s předpisy. Svůj souhlas mohu kdykoliv odvolat s účinkem do budoucna.
 # Privacy notice section below the enterprise newsletter form
 newsletter-enterprise-privacy-statement = { -brand-name-mozilla } zpracuje vámi poskytnuté informace pro zasílání vybraných e-mailových zpráv a pro dokumentaci vašeho souhlasu. Další informace jsou k dispozici v zásadách ochrany osobních údajů pro aplikaci { -brand-name-mozilla }.
 newsletter-enterprise-privacy-link = Zásady ochrany osobních údajů

@@ -259,3 +259,4 @@
 -brand-name-chromebook = Chromebook
 # Enterprise program name
 -brand-name-support-for-organizations = Szervezeti támogatás
+-brand-name-firefox-for-organizations-support = Firefox szervezetek támogatása
