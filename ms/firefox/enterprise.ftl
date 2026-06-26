@@ -23,7 +23,9 @@ firefox-enterprise-install-packages-policies = Dengan pakej pemasangan dan aplik
 firefox-enterprise-release-cycles = Kitaran pelancaran yang memenuhi kehendak syarikat anda
 firefox-enterprise-choose-firefox-for-features-esr-stability = Pilih { -brand-name-firefox } untuk ciri terkini dan pelancaran yang lebih stabil setiap empat minggu, atau { -brand-name-firefox-esr } untuk kestabilan jangka lama, kemas kini keselamatan yang kerap dan keluaran besar setiap tahun.
 firefox-enterprise-enterprise-downloads = Item muat turun { -brand-name-enterprise }
+firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-linux = { -brand-name-linux }
 firefox-enterprise-select-your-download = Pilih item muat turun anda
 
 
@@ -31,6 +33,7 @@ firefox-enterprise-select-your-download = Pilih item muat turun anda
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-resources = Sumber
+firefox-enterprise-release-notes-v2 = Nota Pelancaran { -brand-name-enterprise }
 
 
 
