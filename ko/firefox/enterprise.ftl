@@ -20,12 +20,29 @@ firefox-enterprise-install-packages-policies = 설치 패키지와 그룹 정책
 firefox-enterprise-release-cycles = 조직에 적합한 출시 주기
 firefox-enterprise-choose-firefox-for-features-esr-stability = { -brand-name-firefox }를 선택하면 4주마다 최신 기능과 정식 버전을 출시할 수 있습니다. { -brand-name-firefox-esr }을 선택하면 장기적인 안정성과 정기 보안 업데이트, 연간 주요 출시 버전을 받을 수 있습니다.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } 다운로드
+firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-linux = { -brand-name-linux }
 firefox-enterprise-select-your-download = 다운로드 선택
+# Standard release, updated with the latest features roughly every four weeks.
+firefox-enterprise-firefox-latest = { -brand-name-firefox } (최신)
+firefox-enterprise-firefox-latest-msi = { -brand-name-firefox } (최신) — MSI
+firefox-enterprise-firefox-latest-pkg = { -brand-name-firefox } (최신) — PKG
+firefox-enterprise-firefox-latest-64-bit = { -brand-name-firefox } (최신) — 64비트
+firefox-enterprise-firefox-latest-arm64 = { -brand-name-firefox } (최신) — ARM64
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
+firefox-enterprise-firefox-esr-msi = { -brand-name-firefox-esr } — MSI
+firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } — PKG
+firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64비트
+firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
 firefox-enterprise-resources = 자료
+firefox-enterprise-release-notes-v2 = { -brand-name-enterprise } 출시 정보
+# Canonical home for all enterprise deployment and administration documentation.
+firefox-enterprise-documentation = { -brand-name-firefox } { -brand-name-enterprise } 문서
+# Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
+firefox-enterprise-policy-templates = 정책 템플릿
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = 출시 안내

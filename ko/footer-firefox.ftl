@@ -48,6 +48,8 @@ footer-learn = 배우기
 footer-support = 도움말
 footer-addons = 부가 기능
 footer-blog = 블로그
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = 상품 스토어
 
 ## Links to social media
 
