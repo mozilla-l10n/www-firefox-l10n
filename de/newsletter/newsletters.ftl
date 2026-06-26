@@ -18,3 +18,5 @@ newsletters-sign-up-to-receive-monthly = Melde dich für monatliche Updates von 
 
 
 
+
+newsletter-enterprise-privacy-link = Datenschutzhinweis

@@ -16,5 +16,12 @@ newsletters-sign-up-to-receive-monthly = Daftar untuk menerima informasi bulanan
 
 # Enterprise
 
+newsletter-enterprise-title = Berlangganan info terbaru { -brand-name-mozilla } Enterprise
+newsletter-enterprise-description-note = Catatan: Berlangganan bersifat sukarela dan dapat dibatalkan kapan saja.
 
 
+
+# Privacy notice section below the enterprise newsletter form
+newsletter-enterprise-privacy-statement = { -brand-name-mozilla } akan memproses informasi yang Anda berikan agar dapat mengirimkan komunikasi melalui email sesuai pilihan Anda dan mencatat persetujuan Anda. Untuk informasi lebih lanjut, lihat pemberitahuan privasi { -brand-name-mozilla }.
+newsletter-enterprise-privacy-link = Pemberitahuan Privasi
+newsletter-enterprise-legal-link = Pemberitahuan Hukum

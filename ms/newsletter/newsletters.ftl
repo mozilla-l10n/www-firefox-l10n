@@ -18,3 +18,5 @@ newsletters-sign-up-to-receive-monthly = Berdaftarlah untuk menerima kemas kini 
 
 
 
+
+newsletter-enterprise-privacy-link = Notis Privasi

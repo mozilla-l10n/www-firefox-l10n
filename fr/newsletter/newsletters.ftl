@@ -18,3 +18,5 @@ newsletters-sign-up-to-receive-monthly = Inscrivez-vous et recevez chaque mois d
 
 
 
+
+newsletter-enterprise-privacy-link = Politique de confidentialité

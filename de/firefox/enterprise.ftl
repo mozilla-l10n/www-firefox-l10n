@@ -23,7 +23,9 @@ firefox-enterprise-install-packages-policies = Mit Installationspaketen und eine
 firefox-enterprise-release-cycles = Releasezyklen, die auf dein Unternehmen angepasst sind
 firefox-enterprise-choose-firefox-for-features-esr-stability = Wähle { -brand-name-firefox } für die aktuellsten Funktionen und stabile Versionen alle vier Woche oder { -brand-name-firefox-esr } für langfristige Stabilität, regelmäßige Sicherheits-Updates und jährliche große Releases.
 firefox-enterprise-enterprise-downloads = Downloads für { -brand-name-enterprise }
+firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-linux = { -brand-name-linux }
 firefox-enterprise-select-your-download = Wähle deinen Download
 
 
@@ -31,6 +33,7 @@ firefox-enterprise-select-your-download = Wähle deinen Download
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-resources = Ressourcen
+firefox-enterprise-release-notes-v2 = { -brand-name-enterprise } Versionshinweise
 
 
 
