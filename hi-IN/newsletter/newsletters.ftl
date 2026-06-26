@@ -18,3 +18,5 @@ newsletters-sign-up-to-receive-monthly = { -brand-name-firefox } से ऐस�
 
 
 
+
+newsletter-enterprise-privacy-link = निजता सूचना
