@@ -174,3 +174,4 @@
                *[upper] Υποστήριξη για οργανισμούς
             }
     }
+-brand-name-firefox-for-organizations-support = Υποστήριξη Firefox για οργανισμούς
