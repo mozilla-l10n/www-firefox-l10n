@@ -128,3 +128,4 @@
 -brand-name-chromebook = Chromebook
 # Enterprise program name
 -brand-name-support-for-organizations = 조직 지원
+-brand-name-firefox-for-organizations-support = 기업용 Firefox 고객지원
