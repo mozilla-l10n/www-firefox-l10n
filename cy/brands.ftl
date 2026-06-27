@@ -128,4 +128,4 @@
 -brand-name-chromebook = Chromebook
 # Enterprise program name
 -brand-name-support-for-organizations = Cefnogaeth i Sefydliadau
--brand-name-firefox-for-organizations-support = Firefox ar gyfer Cefnogaeth Sefydliadau
+-brand-name-firefox-for-organizations-support = Cefnogaeth Firefox ar gyfer Sefydliadau
