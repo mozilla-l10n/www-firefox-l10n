@@ -461,3 +461,4 @@
     .gender = masculine
 # Enterprise program name
 -brand-name-support-for-organizations = Podpora pre organizácie
+-brand-name-firefox-for-organizations-support = Podpora Firefoxu pre organizácie
