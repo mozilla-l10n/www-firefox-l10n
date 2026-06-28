@@ -20,12 +20,27 @@ firefox-enterprise-install-packages-policies = Yükleme paketleri, grup ilkeleri
 firefox-enterprise-release-cycles = Kuruluşunuza uygun sürüm döngüleri
 firefox-enterprise-choose-firefox-for-features-esr-stability = En yeni özellikler ve dört haftada bir yayımlanan stabil sürümler için { -brand-name-firefox }’u; uzun süreli stabilite, düzenli güvenlik güncellemeleri ve yılda bir yayımlanan büyük sürümler için { -brand-name-firefox-esr }’ı seçebilirsiniz.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } indirmeleri
+firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-linux = { -brand-name-linux }
 firefox-enterprise-select-your-download = İndirmenizi seçin
+# Standard release, updated with the latest features roughly every four weeks.
+firefox-enterprise-firefox-latest = { -brand-name-firefox } (en yeni)
+firefox-enterprise-firefox-latest-msi = { -brand-name-firefox } (en yeni) — MSI
+firefox-enterprise-firefox-latest-pkg = { -brand-name-firefox } (en yeni) — PKG
+firefox-enterprise-firefox-latest-64-bit = { -brand-name-firefox } (en yeni) — 64 bit
+firefox-enterprise-firefox-latest-arm64 = { -brand-name-firefox } (en yeni) — ARM64
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
+firefox-enterprise-firefox-esr-msi = { -brand-name-firefox-esr } — MSI
+firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } — PKG
+firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64 bit
+firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
 firefox-enterprise-resources = Kaynaklar
+firefox-enterprise-release-notes-v2 = { -brand-name-enterprise } sürüm notları
+# Canonical home for all enterprise deployment and administration documentation.
+firefox-enterprise-documentation = { -brand-name-firefox } { -brand-name-enterprise } belgeleri
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Sürüm notları
