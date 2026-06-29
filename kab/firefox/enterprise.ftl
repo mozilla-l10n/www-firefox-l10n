@@ -32,3 +32,6 @@ firefox-enterprise-policy-templates = Timudmiwin n tsertit
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Tizmilin n lqem
+# Variables:
+#   $firefox_all (url) - link to https://www.firefox.com/download/all/
+firefox-enterprise-download-firefox-or-esr = Sader-d { -brand-name-firefox } neɣ { -brand-name-firefox-esr } i <a { $firefox_all }>tutlayt neɣ tiɣerɣert nniḍen.</a>
