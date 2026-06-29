@@ -9,8 +9,8 @@
 ## Error messages
 
 contact-form-error-required = 此字段必填。
-contact-form-error-sending = 发送您的消息时发生错误。请重试。
+contact-form-error-sending = 发送消息时出错，请重试。
 contact-form-error-empty = 请填写表单。
 contact-form-submit = 提交
 contact-form-select-option = 选择一项
-contact-form-correct-errors = 请纠正下面的错误
+contact-form-correct-errors = 请更正下述错误。

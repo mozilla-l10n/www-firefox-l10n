@@ -25,11 +25,11 @@ firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-linux = { -brand-name-linux }
 firefox-enterprise-select-your-download = 选择下载版本
 # Standard release, updated with the latest features roughly every four weeks.
-firefox-enterprise-firefox-latest = { -brand-name-firefox }最新
-firefox-enterprise-firefox-latest-msi = { -brand-name-firefox } (最新) — MSI
-firefox-enterprise-firefox-latest-pkg = { -brand-name-firefox } 最新 - PKG
+firefox-enterprise-firefox-latest = { -brand-name-firefox }（最新版）
+firefox-enterprise-firefox-latest-msi = { -brand-name-firefox }（最新版）— MSI
+firefox-enterprise-firefox-latest-pkg = { -brand-name-firefox }（最新版）— PKG
 firefox-enterprise-firefox-latest-64-bit = { -brand-name-firefox } 最新 — 64 位
-firefox-enterprise-firefox-latest-arm64 = { -brand-name-firefox } (最新) — ARM64
+firefox-enterprise-firefox-latest-arm64 = { -brand-name-firefox }（最新版）— ARM64
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release }（{ -brand-name-esr }）
@@ -40,7 +40,7 @@ firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
 firefox-enterprise-resources = 资源
 firefox-enterprise-release-notes-v2 = { -brand-name-enterprise } 发行说明
 # Canonical home for all enterprise deployment and administration documentation.
-firefox-enterprise-documentation = { -brand-name-firefox } { -brand-name-enterprise } 篇文档
+firefox-enterprise-documentation = { -brand-name-firefox } { -brand-name-enterprise }文档
 # Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
 firefox-enterprise-policy-templates = 策略模板
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
