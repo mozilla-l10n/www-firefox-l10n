@@ -18,7 +18,11 @@ newsletters-sign-up-to-receive-monthly = Schrijf u in om maandelijkse updates va
 # Enterprise
 
 newsletter-enterprise-title = Abonneren op { -brand-name-mozilla } Enterprise Updates
+newsletter-enterprise-description-v2 = Blijf op de hoogte over { -brand-name-firefox-enterprise }, { -brand-name-firefox-for-organizations-support }, evenals relevante webinars, evenementen en productupdates voor IT-, beveiligings- en compliance-professionals.
 newsletter-enterprise-description-note = Noot: uw abonnement is vrijwillig en kan op elk moment worden ingetrokken.
+# Consent checkbox label in the enterprise newsletter form
+newsletter-enterprise-form-consent-v2 = Ik wil graag e-mailberichten van { -brand-name-mozilla } ontvangen over producten voor ondernemingen, evenementen, productupdates en gerelateerde IT-, beveiligings- en compliance-onderwerpen.
+newsletter-enterprise-form-consent-details-v2 = Deze e-mailberichten kunnen informatie bevatten over { -brand-name-firefox-enterprise }, { -brand-name-firefox-for-organizations-support }, webinars, evenementen, productupdates en functie-updates op het gebied van IT, beveiliging en compliance. Ik kan mijn toestemming te allen tijde voor de toekomst intrekken.
 # Privacy notice section below the enterprise newsletter form
 newsletter-enterprise-privacy-statement = { -brand-name-mozilla } verwerkt de door u verstrekte gegevens om u de geselecteerde e-mailberichten te sturen en om uw toestemming te documenteren. Nadere informatie is beschikbaar in de privacyverklaring van { -brand-name-mozilla }.
 newsletter-enterprise-privacy-link = Privacyverklaring
