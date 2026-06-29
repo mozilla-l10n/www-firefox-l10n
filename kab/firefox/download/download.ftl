@@ -45,3 +45,10 @@ firefox-new-download-browser = Sader { -brand-name-firefox-browser }
 firefox-new-fast = D arurad, d uslig & d ilelli
 firefox-new-from-mozilla = seg { -brand-name-mozilla }
 firefox-new-download-a-different = Sader tiɣerqert neɣ tutlayt tayeḍ
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook

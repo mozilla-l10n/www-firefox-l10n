@@ -8,6 +8,7 @@ newsletter-form-your-email-address = Tansa-inek imayl
 newsletter-form-we-are-sorry-but-there = Nesḥassef, maca yella wugur akked unagraw-ik⋅im. Ttxil-k⋅m ɛreḍ tikkelt niḍen ticki?
 newsletter-form-please-select-country = Ttxil-k⋅m fren tamurt neɣ tamnaḍt
 newsletter-form-please-select-language = Fren tutlayt, ma ulac aɣilif
+newsletter-form-button-cta = Jerred
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Fren tamnaḍt neγ tamurt

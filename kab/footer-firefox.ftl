@@ -9,6 +9,7 @@
 footer-download = Azdam
 footer-download-auto = Sader { -brand-name-firefox }
 footer-windows = Windows
+footer-macos = macOS
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
@@ -68,4 +69,5 @@ footer-logo-trademark-licensing = Turagt n tecreḍt yersen n ulugu
 
 footer-language = Tutlayt
 footer-go = Bdu
+footer-ask-question = Efk-aɣ-d asteqsi!
 footer-firefox = { -brand-name-firefox }

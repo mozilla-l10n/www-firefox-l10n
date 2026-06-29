@@ -35,6 +35,7 @@ download-a-different-build = Sader-d asefsu nniḍen
 
 download-button-linux-32-v2 = Zdem i Linux 32-ibiten
 download-button-linux-64-v2 = Zdem i Linux 64-ibiten
+download-button-linux-arm64 = Sader-d i Linux ARM64
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated

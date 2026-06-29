@@ -21,12 +21,16 @@ firefox-all-down-arrow = Fren seg tebdart-a ddaw-a
 firefox-all-get-help = Awi tallelt
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Iminig:
+firefox-all-browser-v3 = Iminig
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Tiɣerɣert
+firefox-all-platform-v3 = Tiɣerɣert
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Tutlayt:
+firefox-all-language-v3 = Tutlayt
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Asader:
+firefox-all-download-v2 = Sader
 firefox-all-desktop = Tanarit
 firefox-all-mobile = Aziraz
 firefox-all-recommended = (Yelha)
