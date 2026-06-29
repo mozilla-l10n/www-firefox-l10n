@@ -20,12 +20,29 @@ firefox-enterprise-install-packages-policies = Бо истифода аз бас
 firefox-enterprise-release-cycles = Давраҳои релиз, ки ба талаботи ташкилоти шумо мутобиқ мебошанд
 firefox-enterprise-choose-firefox-for-features-esr-stability = Браузери «{ -brand-name-firefox }»-ро интихоб карда, ба хусусиятҳои навтарин ва нашрҳои устувор ҳар чор ҳафта дастрасӣ пайдо намоед, ё версияи «{ -brand-name-firefox-esr }»-ро интихоб карда, ба устувории дарозмуддат, навсозиҳои мунтазам барои амнияти низом ва нашрҳои асосии солона дастрасӣ пайдо намоед.
 firefox-enterprise-enterprise-downloads = Боргириҳо барои браузери «{ -brand-name-enterprise }»
+firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-linux = { -brand-name-linux }
 firefox-enterprise-select-your-download = Боргирии худро интихоб намоед
+# Standard release, updated with the latest features roughly every four weeks.
+firefox-enterprise-firefox-latest = { -brand-name-firefox } (навтарин)
+firefox-enterprise-firefox-latest-msi = { -brand-name-firefox } (навтарин) — MSI
+firefox-enterprise-firefox-latest-pkg = { -brand-name-firefox } (навтарин) — PKG
+firefox-enterprise-firefox-latest-64-bit = { -brand-name-firefox } (навтарин) — 64-bit
+firefox-enterprise-firefox-latest-arm64 = { -brand-name-firefox } (навтарин) — ARM64
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
+firefox-enterprise-firefox-esr-msi = { -brand-name-firefox-esr } — MSI
+firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } — PKG
+firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64-бит
+firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
 firefox-enterprise-resources = Манбаъҳо
+firefox-enterprise-release-notes-v2 = Қайдҳои нашри «{ -brand-name-enterprise }»
+# Canonical home for all enterprise deployment and administration documentation.
+firefox-enterprise-documentation = Санадҳои { -brand-name-firefox } { -brand-name-enterprise }
+# Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
+firefox-enterprise-policy-templates = Қолабҳои «Сиёсатҳо»
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Қайдҳои нашр

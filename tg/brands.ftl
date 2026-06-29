@@ -128,3 +128,4 @@
 -brand-name-chromebook = Chromebook
 # Enterprise program name
 -brand-name-support-for-organizations = Дастгирӣ барои ташкилотҳо
+-brand-name-firefox-for-organizations-support = Дастгирии «Firefox» барои ташкилотҳо

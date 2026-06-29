@@ -48,6 +48,8 @@ footer-learn = Омӯзиш
 footer-support = Дастгирӣ
 footer-addons = Ҷузъҳои иловагӣ
 footer-blog = Блог
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = Дукони тиҷоратӣ
 
 ## Links to social media
 
