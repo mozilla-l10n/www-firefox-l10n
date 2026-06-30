@@ -49,6 +49,9 @@ firefox-enterprise-release-notes = Kiadási megjegyzések
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = A { -brand-name-firefox } vagy a { -brand-name-firefox-esr } letöltése <a { $firefox_all }>másik nyelvre vagy platformra.</a>
+firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
 firefox-enterprise-early-access-is-v2 = Az előzetes hozzáférés megnyílt az új támogatási programunkhoz. Azon szervezetek számára készült, amelyek a biztonság, az rugalmasság és az adatszuverenitás érdekében a { -brand-name-firefox }ot használják; privát, megbízható és egyéni támogatást nyújt a nagyszabású telepítésekhez.
 firefox-enterprise-contact-sales = Kapcsolatfelvétel az értékesítéssel
+firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } dokumentáció
+firefox-enterprise-support-for-organizations-is-v2 = A { -brand-name-firefox-professional-support } egy dedikált ajánlat azon csapatok számára, akiknek szükségük van a privát problémák rendezésére és eszkalálására, meghatározott válaszidőkre, egyéni fejlesztési lehetőségekre, és a { -brand-name-mozilla } mérnöki és termékcsapataival való szoros együttműködésre.
 firefox-enterprise-support-plan = Támogatási csomag

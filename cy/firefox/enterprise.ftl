@@ -49,6 +49,9 @@ firefox-enterprise-release-notes = Nodiadau Rhyddhau
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Llwythwch { -brand-name-firefox } neu { -brand-name-firefox-esr } i lawr ar gyfer <a { $firefox_all }>iaith neu lwyfan arall.</a>
+firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
 firefox-enterprise-early-access-is-v2 = Mae mynediad cynnar nawr ar agor ar gyfer ein rhaglen gymorth newydd. Wedi'i adeiladu ar gyfer sefydliadau sy'n defnyddio { -brand-name-firefox } er mwyn sicrhau diogelwch, gwytnwch, a sofraniaeth data, mae'n darparu cymorth preifat, dibynadwy ac wedi'i deilwra ar gyfer gosodiadau ar raddfa fawr.
 firefox-enterprise-contact-sales = Cysylltwch â'n Tîm Gwerthu
+firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } dogfennaeth
+firefox-enterprise-support-for-organizations-is-v2 = Mae { -brand-name-firefox-professional-support } yn gynnig pwrpasol ar gyfer timau sydd angen brysbennu ac uwchgyfeirio materion preifat, amseroedd ymateb diffiniedig, opsiynau datblygu personol, a chydweithio agos â thimau peirianneg a chynnyrch { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Cynllun Cefnogi

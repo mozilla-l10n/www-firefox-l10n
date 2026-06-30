@@ -49,6 +49,9 @@ firefox-enterprise-release-notes = 发行说明
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = 下载<a { $firefox_all }>其他语言或平台</a>的 { -brand-name-firefox } 或 { -brand-name-firefox-esr }。
+firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
 firefox-enterprise-early-access-is-v2 = 我们将推出全新支持计划，现已开放先行体验。此计划专为选用 { -brand-name-firefox } 来保障安全、弹性、数据主权的组织打造，可为大规模部署提供专属、可靠、定制化的支持服务。
 firefox-enterprise-contact-sales = 联系销售团队
+firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } 文档
+firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } 是专门为需要私人问题分类和向上呈报、定义响应时间、定制开发选项以及与 { -brand-name-mozilla } 的工程和产品团队密切合作的团队提供的。
 firefox-enterprise-support-plan = 支持计划
