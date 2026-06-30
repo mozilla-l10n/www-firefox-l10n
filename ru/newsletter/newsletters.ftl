@@ -15,8 +15,8 @@ newsletters-make-the-most = Используйте { -brand-name-firefox } по 
 # Subtitle for /newsletter/
 newsletters-sign-up-to-receive-monthly = Подпишитесь, чтобы получать ежемесячные новости о { -brand-name-firefox } и интернет-тенденциях, которые определяют вашу жизнь в Интернете.
 # Enterprise
-newsletter-enterprise-title-v2 = Подпишитесь на { -brand-name-mozilla } корпоративных обновлений
-newsletter-enterprise-description-v3 = Будьте в курсе новостей { -brand-name-firefox-enterprise }, { -brand-name-firefox-professional-support }, а также вебинаров, мероприятий и обновлений продуктов для профессионалов в области ИТ, безопасности и комплаенса.
+newsletter-enterprise-title-v2 = Подпишитесь на корпоративные обновления { -brand-name-mozilla }
+newsletter-enterprise-description-v3 = Будьте в курсе новостей { -brand-name-firefox-enterprise }, { -brand-name-firefox-professional-support }, а также вебинаров, мероприятий и обновлений продуктов для профессионалов в области ИТ, безопасности и комплайенса.
 newsletter-enterprise-description-note = Примечание: Ваша подписка является добровольной и может быть отозвана в любое время.
 # Consent checkbox label in the enterprise newsletter form
 newsletter-enterprise-form-consent-v3 = Отправляя эту форму, вы соглашаетесь с тем, что { -brand-name-mozilla } будет связываться с вами по поводу продуктов для организаций, событий, обновлений продуктов, а также связанных с этим тем, безопасности и соответствия требованиям.
