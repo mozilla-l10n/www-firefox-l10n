@@ -53,4 +53,5 @@ firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professi
 firefox-enterprise-early-access-is-v2 = Zažny přistup je nětko za naš program podpěry k dispoziciji.  Je za organizacije mysleny, kotrež { -brand-name-firefox } wužiwaja, zo bychu wěstotu, wobstajnosć a suwerenitu datow zaručili, skići priwatnu, spušćomnu a přiměrjenu podpěru za wobšěrne poskićenja.
 firefox-enterprise-contact-sales = Rozšěrjenski wotrjad skontaktować
 firefox-enterprise-support-for-organizations-documentation-v2 = Dokumentacija { -brand-name-firefox-professional-support }
+firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } je specialny poskitk za teamy, kotrež priwatne wobchadźenje a rozšěrjenje problemow, definowane wotmołwne časy, swójske wuwiwanske nastajenja a wuske zhromadne dźěło z techniskimi a produktowymi teamami { -brand-name-mozilla } trjebaja.
 firefox-enterprise-support-plan = Plan podpěry
