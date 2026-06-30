@@ -49,6 +49,9 @@ firefox-enterprise-release-notes = Versjonsnotat
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Last ned { -brand-name-firefox } eller { -brand-name-firefox-esr } for <a { $firefox_all }>et annet språk eller en annen plattform.</a>
+firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
 firefox-enterprise-early-access-is-v2 = Tidlig tilgang er nå åpnet for vårt nye støtteprogram. Bygget for organisasjoner som bruker { -brand-name-firefox } for å sikre trygghet, robusthet og datasuverenitet, tilbyr det privat, pålitelig og tilpasset støtte for utrulling i stor skala.
 firefox-enterprise-contact-sales = Kontakt salg
+firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } dokumentasjon
+firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } er et dedikert tilbud for team som trenger privat saksbehandling og eskalering, definerte responstider, tilpassede utviklingsmuligheter og tett samarbeid med ingeniør- og produktteamene hos { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Støtteplan
