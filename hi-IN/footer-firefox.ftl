@@ -47,6 +47,8 @@ footer-learn = जानें
 footer-support = सपोर्ट
 footer-addons = ऐड-ऑन्स
 footer-blog = ब्लॉग
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = मर्चेंडाइज स्टोर
 
 ## Links to social media
 

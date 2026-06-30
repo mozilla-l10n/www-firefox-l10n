@@ -16,7 +16,12 @@ newsletters-sign-up-to-receive-monthly = Melde dich für monatliche Updates von 
 
 # Enterprise
 
+newsletter-enterprise-title = Abonniere die Updates von { -brand-name-mozilla } Enterprise
+newsletter-enterprise-description-note = Hinweis: Dein Abonnement ist freiwillig und kann jederzeit gekündigt werden.
 
 
 
+# Privacy notice section below the enterprise newsletter form
+newsletter-enterprise-privacy-statement = { -brand-name-mozilla } wird die von dir bereitgestellten Informationen nutzen, um die ausgewählte E-Mail-Kommunikationen zuzuschicken und deine Zustimmung zu dokumentieren. Weitere Informationen findest du im Datenschutzhinweis von { -brand-name-mozilla }.
 newsletter-enterprise-privacy-link = Datenschutzhinweis
+newsletter-enterprise-legal-link = Rechtliche Hinweise

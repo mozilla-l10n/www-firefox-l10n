@@ -47,6 +47,8 @@ footer-learn = Ketahui
 footer-support = Bantuan
 footer-addons = Tambahan
 footer-blog = Blog
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = Kedai barangan
 
 ## Links to social media
 
