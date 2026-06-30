@@ -128,3 +128,4 @@
 -brand-name-chromebook = Chromebook
 # Enterprise program name
 -brand-name-support-for-organizations = Hỗ trợ cho các tổ chức
+-brand-name-firefox-for-organizations-support = Hỗ trợ Firefox dành cho Tổ chức
