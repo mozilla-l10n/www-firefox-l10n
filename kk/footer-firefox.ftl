@@ -48,6 +48,8 @@ footer-learn = Үйрену
 footer-support = Қолдау
 footer-addons = Қосымшалар
 footer-blog = Блог
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = Мерч дүкені
 
 ## Links to social media
 

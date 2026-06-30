@@ -28,10 +28,21 @@ firefox-enterprise-select-your-download = Жүктеп алуды таңдаңы
 firefox-enterprise-firefox-latest = { -brand-name-firefox } (соңғы)
 firefox-enterprise-firefox-latest-msi = { -brand-name-firefox } (соңғы) — MSI
 firefox-enterprise-firefox-latest-pkg = { -brand-name-firefox } (соңғы) — PKG
+firefox-enterprise-firefox-latest-64-bit = { -brand-name-firefox } (соңғы) — 64-бит
+firefox-enterprise-firefox-latest-arm64 = { -brand-name-firefox } (соңғы) — ARM64
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
+firefox-enterprise-firefox-esr-msi = { -brand-name-firefox-esr } — MSI
+firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } — PKG
+firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64-бит
+firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
 firefox-enterprise-resources = Ресурстар
+firefox-enterprise-release-notes-v2 = { -brand-name-enterprise } шығарылым ескертпесі
+# Canonical home for all enterprise deployment and administration documentation.
+firefox-enterprise-documentation = { -brand-name-firefox } { -brand-name-enterprise } құжаттамасы
+# Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
+firefox-enterprise-policy-templates = Саясат үлгілері
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Шығарылым ескертпесі
