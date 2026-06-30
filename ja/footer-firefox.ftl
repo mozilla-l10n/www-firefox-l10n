@@ -47,6 +47,8 @@ footer-learn = 学習
 footer-support = サポート
 footer-addons = アドオン
 footer-blog = ブログ
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = グッズストア
 
 ## Links to social media
 
