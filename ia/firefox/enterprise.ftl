@@ -49,6 +49,8 @@ firefox-enterprise-release-notes = Notas pro iste revision
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Discarga { -brand-name-firefox } o { -brand-name-firefox-esr } pro <a { $firefox_all }>un altere lingua o platteforma.</a>
+firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
 firefox-enterprise-early-access-is-v2 = Le accesso precoce es ora aperte pro nostre nove programma de supporto. Producite pro organisationes que usa { -brand-name-firefox } pro assecurar securitate, resilientia, e soveranitate del datos, illo offere supporto private, fidibile, e personal pro le displicamentos in large-scala.
 firefox-enterprise-contact-sales = Contactar venditas
+firefox-enterprise-support-for-organizations-documentation-v2 = Documentation de { -brand-name-firefox-professional-support }
 firefox-enterprise-support-plan = Plano de supporto
