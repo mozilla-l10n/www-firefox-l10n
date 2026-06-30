@@ -14,6 +14,3 @@
 newsletters-make-the-most = Aproveite ao máximo o { -brand-name-firefox }
 # Subtitle for /newsletter/
 newsletters-sign-up-to-receive-monthly = Inscreva-se para receber mensalmente novidades do { -brand-name-firefox } e tendências da internet que moldam sua vida online.
-
-# Enterprise
-

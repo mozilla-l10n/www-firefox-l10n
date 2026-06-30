@@ -126,6 +126,3 @@
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
 -brand-name-chromebook = Chromebook
-# Enterprise program name
--brand-name-support-for-organizations = 對企業或組織的支援服務
--brand-name-firefox-for-organizations-support = Firefox 企業或組織技術支援

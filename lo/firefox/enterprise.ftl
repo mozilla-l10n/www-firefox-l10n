@@ -25,7 +25,5 @@ firefox-enterprise-resources = ຊັບພະຍາກອນ
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = ບັນທຶກປະຈຳລຸ້ນ
-firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-contact-sales = ຕິດຕໍ່ຝ່າຍຂາຍ
-firefox-enterprise-support-for-organizations-documentation = ເອກະສານປະກອບ { -brand-name-support-for-organizations }
 firefox-enterprise-support-plan = ແຜນການສະໜັບສະໜູນ

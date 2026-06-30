@@ -32,11 +32,6 @@ firefox-enterprise-release-notes = Notas de la versión
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Descargar { -brand-name-firefox } o { -brand-name-firefox-esr } para <a { $firefox_all }>otro idioma o plataforma.</a>
-firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
-# Obsolete string (expires: 2026-06-10)
-firefox-enterprise-early-access-is = Ya está abierto el acceso anticipado al nuevo programa de soporte que iniciará en enero de 2026. Diseñado para organizaciones que utilizan { -brand-name-firefox } con el fin de garantizar la seguridad, la resiliencia y la soberanía de los datos, este servicio ofrece asistencia privada, confiable y personalizada para despliegues a gran escala.
 firefox-enterprise-early-access-is-v2 = Ya está abierto el acceso anticipado al nuevo programa de soporte. Diseñado para organizaciones que utilizan { -brand-name-firefox } con el fin de garantizar la seguridad, la resiliencia y la soberanía de los datos, este servicio ofrece asistencia privada, confiable y personalizada para despliegues a gran escala.
 firefox-enterprise-contact-sales = Contactar al equipo de ventas
-firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } documentación
-firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } es una oferta dedicada para equipos que requieren clasificación y escalación privada de problemas, tiempos de respuesta definidos, opciones de desarrollo a la medida y una estrecha colaboración con los equipos de ingeniería y producto de { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Plan de soporte

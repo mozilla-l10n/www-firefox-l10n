@@ -15,4 +15,3 @@ firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-exte
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = ریلیز نوٹ
-firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }

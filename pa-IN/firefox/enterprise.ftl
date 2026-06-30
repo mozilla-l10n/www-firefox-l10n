@@ -26,7 +26,5 @@ firefox-enterprise-release-notes = ਰੀਲਿਜ਼ ਨੋਟਿਸ
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = { -brand-name-firefox } ਜਾਂ <a { $firefox_all }>ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਜਾਂ ਪਲੇਟਫਾਰਮ</a> ਲਈ { -brand-name-firefox-esr } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ।
-firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-contact-sales = ਸੇਲਜ਼ ਨਾਲ ਸੰਪਰਕ ਕਰੋ
-firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } ਦਸਤਾਵੇਜ਼
 firefox-enterprise-support-plan = ਸਹਾਇਤਾ ਪਲਾਨ

@@ -35,10 +35,5 @@ firefox-enterprise-policy-templates = תבניות מדיניות
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = הערות שחרור
-firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
-# Obsolete string (expires: 2026-06-10)
-firefox-enterprise-early-access-is = גישה מוקדמת פתוחה כעת לתוכנית התמיכה החדשה שלנו שתשיק בינואר 2026. היא נבנתה עבור ארגונים המשתמשים ב־{ -brand-name-firefox } כדי להבטיח אבטחה, חוסן וריבונות נתונים, ומספקת תמיכה פרטית, אמינה ומותאמת אישית עבור פריסות בקנה מידה גדול.
 firefox-enterprise-contact-sales = יצירת קשר עם המכירות
-firefox-enterprise-support-for-organizations-documentation = תיעוד עבור { -brand-name-support-for-organizations }
-firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } היא הצעה ייעודית לצוותים הזקוקים למיון והסלמה פרטיים של בעיות, זמני תגובה מוגדרים, אפשרויות פיתוח מותאמות אישית ושיתוף פעולה הדוק עם צוותי ההנדסה והמוצר של { -brand-name-mozilla }.
 firefox-enterprise-support-plan = תוכנית תמיכה

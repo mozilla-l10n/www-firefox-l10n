@@ -49,11 +49,6 @@ firefox-enterprise-release-notes = Шығарылым ескертпесі
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = { -brand-name-firefox } немесе { -brand-name-firefox-esr } бағдарламасын <a { $firefox_all }>басқа тіл немесе платформа үшін жүктеп алыңыз.</a>
-firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
-# Obsolete string (expires: 2026-06-10)
-firefox-enterprise-early-access-is = 2026 жылдың қаңтарында іске қосылатын жаңа қолдау көрсету бағдарламамызға ерте қол жеткізу мүмкіндігі ашылды. Қауіпсіздікті, тұрақтылықты және деректердің егемендігін қамтамасыз ету үшін { -brand-name-firefox } браузерін пайдаланатын ұйымдар үшін жасалған бұл бағдарлама ауқымды орналастырулар үшін жеке, сенімді және арнайы қолдауды қамтамасыз етеді.
 firefox-enterprise-early-access-is-v2 = Жаңа қолдау көрсету бағдарламамызға ерте қол жеткізу мүмкіндігі ашылды. Қауіпсіздікті, тұрақтылықты және деректердің егемендігін қамтамасыз ету үшін { -brand-name-firefox } браузерін пайдаланатын ұйымдар үшін жасалған бұл бағдарлама ауқымды орналастырулар үшін жеке, сенімді және арнайы қолдауды қамтамасыз етеді.
 firefox-enterprise-contact-sales = Сату бөліміне хабарласу
-firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } құжаттамасы
-firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } — мәселелерді жеке сұрыптау және эскалациялау, белгіленген жауап беру уақыты, арнайы әзірлеу опциялары және { -brand-name-mozilla } компаниясының инженерлік және өнім топтарымен тығыз ынтымақтастықты қажет ететін командаларға арналған арнайы ұсыныс.
 firefox-enterprise-support-plan = Қолдау жоспары

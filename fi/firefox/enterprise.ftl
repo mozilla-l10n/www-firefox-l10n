@@ -20,4 +20,3 @@ firefox-enterprise-resources = Resurssit
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Julkaisutiedot
-firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }

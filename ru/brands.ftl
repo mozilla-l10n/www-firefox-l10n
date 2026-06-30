@@ -194,6 +194,3 @@
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
 -brand-name-chromebook = Chromebook
-# Enterprise program name
--brand-name-support-for-organizations = Поддержка для организаций
--brand-name-firefox-for-organizations-support = Поддержка Firefox для организаций

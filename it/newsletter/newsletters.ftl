@@ -14,15 +14,7 @@
 newsletters-make-the-most = Ottieni il massimo da { -brand-name-firefox }
 # Subtitle for /newsletter/
 newsletters-sign-up-to-receive-monthly = Iscriviti per ricevere ogni mese aggiornamenti da { -brand-name-firefox } e per scoprire le tendenze di Internet che modellano la tua vita digitale.
-
-# Enterprise
-
-newsletter-enterprise-title = Iscriviti alla newsletter { -brand-name-mozilla } Enterprise Updates
-newsletter-enterprise-description-v2 = Rimani aggiornato su { -brand-name-firefox-enterprise }, { -brand-name-firefox-for-organizations-support }, oltre a webinar, eventi e novità sui prodotti dedicati ai professionisti IT, della sicurezza e della conformità.
 newsletter-enterprise-description-note = Nota: l’iscrizione è facoltativa e puoi annullarla in qualsiasi momento.
-# Consent checkbox label in the enterprise newsletter form
-newsletter-enterprise-form-consent-v2 = Desidero ricevere email da { -brand-name-mozilla } riguardanti prodotti Enterprise, eventi, aggiornamenti sui prodotti e temi relativi a IT, sicurezza e conformità.
-newsletter-enterprise-form-consent-details-v2 = Questi messaggi di posta elettronica possono includere informazioni su { -brand-name-firefox-enterprise }, { -brand-name-firefox-for-organizations-support }, webinar, eventi, aggiornamenti sui prodotti e aggiornamenti di funzionalità per argomenti relativi a IT, sicurezza e conformità. Posso revocare il mio consenso in qualsiasi momento con effetto per il futuro.
 # Privacy notice section below the enterprise newsletter form
 newsletter-enterprise-privacy-statement = { -brand-name-mozilla } utilizzerà le informazioni che fornisci per inviarti le comunicazioni email selezionate e per registrare il tuo consenso. Puoi trovare ulteriori dettagli nell’Informativa sulla privacy di { -brand-name-mozilla }.
 newsletter-enterprise-privacy-link = Informativa sulla privacy

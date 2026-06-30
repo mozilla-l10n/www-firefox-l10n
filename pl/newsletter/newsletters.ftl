@@ -14,6 +14,3 @@
 newsletters-make-the-most = Wyciągnij z { -brand-name-firefox(case: "gen") } jak najwięcej
 # Subtitle for /newsletter/
 newsletters-sign-up-to-receive-monthly = Zarejestruj się, aby co miesiąc otrzymywać aktualności od { -brand-name-firefox(case: "gen") } i informacje o trendach internetowych, które kształtują Twoje życie w sieci.
-
-# Enterprise
-

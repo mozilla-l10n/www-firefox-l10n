@@ -28,7 +28,5 @@ firefox-enterprise-release-notes = Jehaipy rehegua
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Emboguejy { -brand-name-firefox } térã { -brand-name-firefox-esr } <a { $firefox_all }>-pe g̃uarã ambue ñe’ẽ térã pyendavusu.</a>
-firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
 firefox-enterprise-contact-sales = Eñe’ẽ ñevendeha ndive
-firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } kuatiaite
 firefox-enterprise-support-plan = Ñepytyvõ rehegua
