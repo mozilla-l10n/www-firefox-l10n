@@ -35,5 +35,8 @@ firefox-enterprise-policy-templates = תבניות מדיניות
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = הערות שחרור
+firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
 firefox-enterprise-contact-sales = יצירת קשר עם המכירות
+firefox-enterprise-support-for-organizations-documentation-v2 = תיעוד של { -brand-name-firefox-professional-support }
+firefox-enterprise-support-for-organizations-is-v2 = ‏{ -brand-name-firefox-professional-support } היא הצעה ייעודית לצוותים הזקוקים למיון והסלמה פרטיים של בעיות, זמני תגובה מוגדרים, אפשרויות פיתוח מותאמות אישית ושיתוף פעולה הדוק עם צוותי ההנדסה והמוצר של { -brand-name-mozilla }.
 firefox-enterprise-support-plan = תוכנית תמיכה
