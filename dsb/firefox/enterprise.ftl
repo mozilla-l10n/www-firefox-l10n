@@ -49,6 +49,9 @@ firefox-enterprise-release-notes = Wersijowe informacije
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Ześěgniśo { -brand-name-firefox } abo { -brand-name-firefox-esr } za <a { $firefox_all }>drugu rěc abo platformu.</a>
+firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
 firefox-enterprise-early-access-is-v2 = Jěsny pśistup jo něnto za naš program pódpěry k dispoziciji.  Jo za organizacije myslony, kótarež { -brand-name-firefox } wužywaju, aby wěstotu, wobstawnosć a suwerenitu datow zarucyli, bitujo priwatnu, spušćobnu a pśiměrjonu pódpěru za wobšyrne k-dispoziciji-stajenja.
 firefox-enterprise-contact-sales = Rozšyrjeńsku wótźělbu skontaktěrowaś
+firefox-enterprise-support-for-organizations-documentation-v2 = Dokumentacija { -brand-name-firefox-professional-support }
+firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } jo specialny póbitowanje za teamy, kótarež priwatne wobchadanje a rozšyrjenje problemow, definěrowane wótegronowe case, swójske wuwijańske nastajenja a wuske zgromadne źěło z techniskimi a produktowymi teamami { -brand-name-mozilla } trjebaju.
 firefox-enterprise-support-plan = Plan pódpěry
