@@ -48,6 +48,8 @@ footer-learn = ਸਿੱਖੋ
 footer-support = ਸਹਿਯੋਗ
 footer-addons = ਐਡ-ਆਨ
 footer-blog = ਬਲੌਗ
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = ਵਪਾਰਕ ਸਟੋਰ
 
 ## Links to social media
 

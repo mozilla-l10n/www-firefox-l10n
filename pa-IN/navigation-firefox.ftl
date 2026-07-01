@@ -32,6 +32,7 @@ navigation-enterprise = ਇੰਟਰਪ੍ਰਾਈਜ਼
 navigation-release-notes = ਰੀਲਿਜ਼ ਨੋਟਿਸ
 navigation-support = ਸਹਿਯੋਗ
 navigation-extensions-and-themes = ਇਕਸਟੈਨਸ਼ਨਾਂ ਅਤੇ ਥੀਮ
+navigation-whats-new = ਨਵਾਂ ਕੀ ਹੈ
 navigation-add-ons = ਐਡ-ਆਨ
 navigation-all-downloads = ਸਾਰੇ ਡਾਊਨਲੋਡ
 navigation-learn = ਸਿੱਖੋ
