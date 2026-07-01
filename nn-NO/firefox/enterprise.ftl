@@ -52,4 +52,6 @@ firefox-enterprise-download-firefox-or-esr = Last ned { -brand-name-firefox } el
 firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
 firefox-enterprise-early-access-is-v2 = Tidleg tilgang er no open for det nye støtteprogrammet vårt. Det er bygd for organisasjonar som brukar { -brand-name-firefox } for å sørge for sikkerheit, robustheit og datasuverenitet, og tilbyr privat, påliteleg og tilpassa støtte for storskala implementeringar.
 firefox-enterprise-contact-sales = Kontakt sal
+firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } dokumentasjon
+firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } er eit dedikert tilbod for team som treng privat saksbehandling og eskalering, definerte responstider, tilpassa utviklingsmoglegheiter og tett samarbeid med ingeniør- og produktteama hos { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Støtteplan
