@@ -459,3 +459,5 @@
        *[nom] Chromebook
     }
     .gender = masculine
+# Enterprise program name
+-brand-name-firefox-professional-support = Profesionálna podpora Firefoxu
