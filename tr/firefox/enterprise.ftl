@@ -41,12 +41,16 @@ firefox-enterprise-resources = Kaynaklar
 firefox-enterprise-release-notes-v2 = { -brand-name-enterprise } sürüm notları
 # Canonical home for all enterprise deployment and administration documentation.
 firefox-enterprise-documentation = { -brand-name-firefox } { -brand-name-enterprise } belgeleri
+# Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
+firefox-enterprise-policy-templates = İlke şablonları
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Sürüm notları
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = { -brand-name-firefox } veya { -brand-name-firefox-esr }’ı <a { $firefox_all }>başka bir dil veya platform</a> için indirin.
+firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
 firefox-enterprise-early-access-is-v2 = Yeni destek programımız erken erişime açıldı. Güvenlik, sağlamlık ve veri bağımsızlığı için { -brand-name-firefox } kullanan kuruluşlara özel bu program; büyük ölçekli deployment’lar için güvenilir ve kuruluşa özel destek sunuyor.
 firefox-enterprise-contact-sales = Satış ekibiyle iletişime geçin
+firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } belgeleri
 firefox-enterprise-support-plan = Destek planı
