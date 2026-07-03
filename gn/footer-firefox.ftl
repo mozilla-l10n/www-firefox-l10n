@@ -48,6 +48,8 @@ footer-learn = Kuaa
 footer-support = Ñepytyvõ
 footer-addons = Moĩmbaha
 footer-blog = Blog
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = Merchandising ñemuha
 
 ## Links to social media
 
