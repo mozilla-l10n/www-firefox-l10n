@@ -14,9 +14,7 @@ newsletters-make-the-most = Dapatkan hasil maksimal dari { -brand-name-firefox }
 # Subtitle for /newsletter/
 newsletters-sign-up-to-receive-monthly = Daftar untuk menerima informasi bulanan dari { -brand-name-firefox } serta tren internet yang memengaruhi kehidupan daring Anda.
 
-# Enterprise
 
-newsletter-enterprise-title = Berlangganan info terbaru { -brand-name-mozilla } Enterprise
 newsletter-enterprise-description-note = Catatan: Berlangganan bersifat sukarela dan dapat dibatalkan kapan saja.
 
 
