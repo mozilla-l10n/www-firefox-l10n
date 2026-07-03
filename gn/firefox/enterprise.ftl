@@ -16,6 +16,7 @@ firefox-enterprise-deploy-when-and-how-you-want = Eipyso eipota ha ejaposeháich
 firefox-enterprise-install-packages-policies = Umi ñemohenda hetaguáva ha avei peteĩ porureko iñasãiva ha tembiapoite atyguáva, pe ñemoinge ipya’eve ha hekohu’ũ araka’eve oĩ’ỹháicha — ha ndahasyiete Windows ha MacOS jerére.
 firefox-enterprise-release-cycles = Ñemoherakuã ojokupytýva nde atyguasu ndive
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } ñemboguejy
+firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Eiporavo ne ñemboguejy
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
