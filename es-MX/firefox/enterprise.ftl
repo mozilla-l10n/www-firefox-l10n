@@ -26,10 +26,19 @@ firefox-enterprise-linux = { -brand-name-linux }
 firefox-enterprise-select-your-download = Selecciona tu descarga
 # Standard release, updated with the latest features roughly every four weeks.
 firefox-enterprise-firefox-latest = { -brand-name-firefox } (última versión)
+firefox-enterprise-firefox-latest-msi = { -brand-name-firefox } (última versión) — MSI
+firefox-enterprise-firefox-latest-pkg = { -brand-name-firefox } (última versión) — PKG
+firefox-enterprise-firefox-latest-64-bit = { -brand-name-firefox } (última versión) — 64 bits
+firefox-enterprise-firefox-latest-arm64 = { -brand-name-firefox } (última versión) — ARM64
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
+firefox-enterprise-firefox-esr-msi = { -brand-name-firefox-esr } — MSI
+firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } — PKG
+firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64 bits
+firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
 firefox-enterprise-resources = Recursos
+firefox-enterprise-release-notes-v2 = { -brand-name-enterprise } Notas de la versión
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Notas de la versión
