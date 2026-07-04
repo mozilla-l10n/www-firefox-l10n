@@ -49,6 +49,7 @@ firefox-enterprise-release-notes = Қайдҳои нашр
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Браузери «{ -brand-name-firefox }» ё «{ -brand-name-firefox-esr }»-ро <a { $firefox_all }>барои платформаи дигар ё бо забони дигар</a> боргирӣ намоед.
+firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
 firefox-enterprise-early-access-is-v2 = Дастрасии барвақт барои барномаи нави дастгирии мо акнун кушода аст. Ин барнома барои ташкилотҳое таҳия шудааст, ки аз браузери «{ -brand-name-firefox }» ҷиҳати таъмини амният, кори устувор ва истиқлоли рақамӣ истифода мебаранд ва барои татбиқи миқёси васеъ дастгирии хусусӣ, боэътимод ва танзимшавандаро пешниҳод менамоянд.
 firefox-enterprise-contact-sales = Бо шуъбаи савдо дар тамос шавед
 firefox-enterprise-support-plan = Нақшаи дастгирӣ
