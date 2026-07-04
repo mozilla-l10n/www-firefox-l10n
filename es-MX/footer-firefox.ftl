@@ -70,3 +70,8 @@ footer-logo-trademark-licensing = Licenciamiento de logotipo de marca registrada
 footer-language = Idioma
 footer-go = Ir
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+
+footer-powdered-by = Desarrollado por { -brand-name-mozilla }
+footer-putting-people = Priorizando a las personas sobre las ganancias desde 1998
