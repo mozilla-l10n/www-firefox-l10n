@@ -59,11 +59,10 @@ firefox-enterprise-release-notes = रिलीज़ नोट्स
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = { -brand-name-firefox } या { -brand-name-firefox-esr } डाउनलोड करें - <a { $firefox_all }>किसी अन्य भाषा या प्लेटफ़ॉर्म</a> के लिए।
 
-firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
-# Obsolete string (expires: 2026-06-10)
-firefox-enterprise-early-access-is = जनवरी 2026 में लॉन्च होने वाले हमारे नए सपोर्ट प्रोग्राम का पहले से एक्सेस पाने का अवसर अब उपलब्ध है। यह उन ऑर्गनाइज़ेशन के लिए तैयार किया गया है जो { -brand-name-firefox } का उपयोग इसलिए करते हैं ताकि सुरक्षा, मजबूती और डेटा संप्रभुता सुनिश्चित हो, यह बड़े पैमाने पर डिप्लॉयमेंट के लिए प्राइवेट, विश्वसनीय और कस्टम सपोर्ट प्रदान करता है।
+firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
+
 firefox-enterprise-early-access-is-v2 = हमारे नए सपोर्ट प्रोग्राम का अर्ली एक्सेस अब शुरू हो चुका है। यह उन ऑर्गनाइज़ेशन के लिए तैयार किया गया है जो { -brand-name-firefox } का उपयोग इसलिए करते हैं ताकि सुरक्षा, मजबूती और डेटा संप्रभुता सुनिश्चित हो, यह बड़े पैमाने पर डिप्लॉयमेंट के लिए प्राइवेट, विश्वसनीय और कस्टम सपोर्ट प्रदान करता है।
 firefox-enterprise-contact-sales = सेल्स से संपर्क करें
-firefox-enterprise-support-for-organizations-documentation = { -brand-name-support-for-organizations } डॉक्यूमेंटेशन
-firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } एक समर्पित सेवा है उन टीमों के लिए जिन्हें प्राइवेट इश्यू ट्राएज और एस्कलेशन, निर्धारित रिस्पॉन्स समय, कस्टम डेवलपमेंट विकल्प, और { -brand-name-mozilla } की इंजीनियरिंग व प्रोडक्ट टीमों के साथ निकट सहयोग की आवश्यकता होती है।
+firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } डॉक्यूमेंटेशन
+firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } एक समर्पित सेवा है उन टीमों के लिए जिन्हें प्राइवेट इश्यू ट्राएज और एस्कलेशन, निर्धारित रिस्पॉन्स समय, कस्टम डेवलपमेंट विकल्प, और { -brand-name-mozilla } की इंजीनियरिंग व प्रोडक्ट टीमों के साथ निकट सहयोग की आवश्यकता होती है।
 firefox-enterprise-support-plan = सपोर्ट प्लान

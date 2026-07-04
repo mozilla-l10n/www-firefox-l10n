@@ -59,11 +59,10 @@ firefox-enterprise-release-notes = Catatan Rilis
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Unduh { -brand-name-firefox } atau { -brand-name-firefox-esr } untuk <a { $firefox_all }>bahasa atau platform lain.</a>
 
-firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
-# Obsolete string (expires: 2026-06-10)
-firefox-enterprise-early-access-is = Akses awal kini dibuka untuk program dukungan terbaru kami yang akan diluncurkan pada Januari 2026. Dirancang untuk organisasi yang menggunakan { -brand-name-firefox } guna memastikan keamanan, ketahanan, dan kedaulatan data, program ini menawarkan dukungan pribadi, andal, dan disesuaikan untuk penerapan dalam skala besar.
+firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
+
 firefox-enterprise-early-access-is-v2 = Akses awal kini dibuka untuk program dukungan terbaru kami. Dirancang untuk organisasi yang menggunakan { -brand-name-firefox } guna memastikan keamanan, ketahanan, dan kedaulatan data, program ini menawarkan dukungan pribadi, andal, dan disesuaikan untuk penerapan dalam skala besar.
 firefox-enterprise-contact-sales = Hubungi Tim Penjualan
-firefox-enterprise-support-for-organizations-documentation = Dokumentasi { -brand-name-support-for-organizations }
-firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } adalah layanan khusus untuk tim yang memerlukan penanganan dan eskalasi masalah secara privat, waktu tanggapan yang terjamin, opsi pengembangan yang disesuaikan, serta kolaborasi erat dengan tim teknik dan produk { -brand-name-mozilla }.
+firefox-enterprise-support-for-organizations-documentation-v2 = Dokumentasi { -brand-name-firefox-professional-support }
+firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } adalah layanan khusus untuk tim yang memerlukan penanganan dan eskalasi masalah secara privat, waktu tanggapan yang terjamin, opsi pengembangan yang disesuaikan, serta kolaborasi erat dengan tim teknik dan produk { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Paket Dukungan

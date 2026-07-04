@@ -59,11 +59,10 @@ firefox-enterprise-release-notes = Nota Siaran
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Muat turun { -brand-name-firefox } atau { -brand-name-firefox-esr } untuk <a { $firefox_all }>satu lagi bahasa atau platform.</a>
 
-firefox-enterprise-support-for-organizations = { -brand-name-support-for-organizations }
-# Obsolete string (expires: 2026-06-10)
-firefox-enterprise-early-access-is = Akses awal kini dibuka untuk program baru kami bagi Januari 2026. Dibuka untuk organisasi yang menggunakan { -brand-name-firefox } selain menjamin keselamatan, ketahanan serta kedaulatan data, ia menyediakan bantuan peribadi, dipercayai dan khas untuk kerahan berskala besar
+firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
+
 firefox-enterprise-early-access-is-v2 = Akses awal kini dibuka untuk program sokongan terbaru kami. Dibina untuk organisasi yang menggunakan { -brand-name-firefox } bagi menjamin keselamatan, ketahanan serta kedaulatan data, ia menyediakan bantuan peribadi, dipercayai dan khas untuk kerahan berskala besar.
 firefox-enterprise-contact-sales = Hubungi Wakil Jualan
-firefox-enterprise-support-for-organizations-documentation = Dokumentasi { -brand-name-support-for-organizations }
-firefox-enterprise-support-for-organizations-is = { -brand-name-support-for-organizations } adalah satu tawaran yang khusus untuk organisasi yang memerlukan pengurusan dan pengagihan peribadi, tempoh respon, pilihan pembangunan tersendiri, serta kolaborasi akrab dengan jurutera dan pasukan produk daripada { -brand-name-mozilla }.
+firefox-enterprise-support-for-organizations-documentation-v2 = Dokumentasi { -brand-name-firefox-professional-support }
+firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } adalah satu tawaran yang khusus untuk organisasi yang memerlukan pengurusan dan pengagihan peribadi, tempoh respon, pilihan pembangunan tersendiri, serta kolaborasi akrab dengan jurutera dan pasukan produk daripada { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Pelan Bantuan
