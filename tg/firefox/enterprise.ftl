@@ -52,4 +52,6 @@ firefox-enterprise-download-firefox-or-esr = Браузери «{ -brand-name-fi
 firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
 firefox-enterprise-early-access-is-v2 = Дастрасии барвақт барои барномаи нави дастгирии мо акнун кушода аст. Ин барнома барои ташкилотҳое таҳия шудааст, ки аз браузери «{ -brand-name-firefox }» ҷиҳати таъмини амният, кори устувор ва истиқлоли рақамӣ истифода мебаранд ва барои татбиқи миқёси васеъ дастгирии хусусӣ, боэътимод ва танзимшавандаро пешниҳод менамоянд.
 firefox-enterprise-contact-sales = Бо шуъбаи савдо дар тамос шавед
+firefox-enterprise-support-for-organizations-documentation-v2 = Санадҳои { -brand-name-firefox-professional-support }
+firefox-enterprise-support-for-organizations-is-v2 = «{ -brand-name-firefox-professional-support }» — ин пешниҳоди махсус барои дастаҳои корӣ мебошад, ки ба онҳо хусусиятҳои зерин лозиманд: ҳал кардани мушкилиҳои хусусӣ бо гузаронидани ташхис ва боло бардоштани сатҳи корӣ, вақтҳои муайян барои ҷавоби дастгирӣ, имкониятҳои барномарезии фармоишӣ ва ҳамкории наздик бо дастаҳои техникӣ ва дастаҳои маҳсулоти «{ -brand-name-mozilla }».
 firefox-enterprise-support-plan = Нақшаи дастгирӣ
