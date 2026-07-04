@@ -41,12 +41,16 @@ firefox-enterprise-resources = Recursos
 firefox-enterprise-release-notes-v2 = { -brand-name-enterprise } Notas de la versión
 # Canonical home for all enterprise deployment and administration documentation.
 firefox-enterprise-documentation = { -brand-name-firefox } { -brand-name-enterprise } documentación
+# Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
+firefox-enterprise-policy-templates = Plantillas de políticas
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Notas de la versión
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Descargar { -brand-name-firefox } o { -brand-name-firefox-esr } para <a { $firefox_all }>otro idioma o plataforma.</a>
+firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
 firefox-enterprise-early-access-is-v2 = Ya está abierto el acceso anticipado al nuevo programa de soporte. Diseñado para organizaciones que utilizan { -brand-name-firefox } con el fin de garantizar la seguridad, la resiliencia y la soberanía de los datos, este servicio ofrece asistencia privada, confiable y personalizada para despliegues a gran escala.
 firefox-enterprise-contact-sales = Contactar al equipo de ventas
+firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } documentación
 firefox-enterprise-support-plan = Plan de soporte
