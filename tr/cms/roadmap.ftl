@@ -16,6 +16,7 @@ roadmap-status-exploring = Keşfediliyor
 roadmap-status-in-progress = Devam ediyor
 roadmap-status-testing = Test ediliyor
 roadmap-status-coming-soon = Çok yakında
+roadmap-status-recently-shipped = Yeni çıktı
 
 ## Tag indicating where the feature is available
 
