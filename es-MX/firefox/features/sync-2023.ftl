@@ -9,4 +9,5 @@
 features-sync-firefox-browser-sync = sincronización del navegador { -brand-name-firefox }
 # HTML page description
 features-sync-access-your-firefox-bookmarks = Accede a tus marcadores, contraseñas, pestañas abiertas de { -brand-name-firefox } y más desde cualquier dispositivo.
+features-sync-with-firefox-you-can-pick-up-where = Con { -brand-name-firefox }, puedes retomar exactamente donde estabas cuando alternes entre usar tu computadora y tu teléfono móvil o tableta. { -brand-name-firefox } te permite ver tus marcadores, historial de navegación, contraseñas guardadas y mucho más, sin importar el dispositivo que estés utilizando.
 features-sync-send-tabs-from-one-device-to-another = Enviar pestañas de un dispositivo a otro
