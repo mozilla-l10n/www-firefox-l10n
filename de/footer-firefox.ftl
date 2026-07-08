@@ -12,7 +12,7 @@ footer-macos = macOS
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
-footer-custom-download = Standard Download-Optionen
+footer-custom-download = Benutzerdefinierte Downloads
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
@@ -33,7 +33,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = Community
 footer-contribute = Beitragen
 footer-developer = Entwickler
-footer-connect = Soziale Aspekte
+footer-connect = Connect
 
 ## Links to resources
 
