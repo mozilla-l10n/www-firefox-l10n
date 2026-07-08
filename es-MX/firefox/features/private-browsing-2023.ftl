@@ -14,3 +14,9 @@ features-private-browsing-private-browsing-mode-opens-v2 = El modo de navegació
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = Una ventana del navegador { -brand-name-firefox } en modo de navegación privada.
 features-private-browsing-what-private-browsing-doesnt-do = Lo que la navegación privada no hace
+# Variables:
+#   $vpn (url) = link to https://www.mozilla.org/products/vpn/
+features-private-browsing-private-browsing-mode-will-not = El modo de navegación privada no eliminará ningún marcador que crees desde una ventana de navegación privada, ni te protegerá contra malware o virus. Tampoco puede impedir que los sitios web que visites vean dónde te encuentras físicamente o que tu proveedor de internet registre tu actividad en línea. Para eso, necesitas una <a href="{ $vpn }">VPN confiable</a>.
+# Variables:
+#   $chrome (url) = link to https://www.firefox.com/more/incognito-browser/
+features-private-browsing-compare-firefoxs-private-browsing = Compara la navegación privada de { -brand-name-firefox } con el <a href="{ $chrome }">modo incógnito de Chrome</a>.
