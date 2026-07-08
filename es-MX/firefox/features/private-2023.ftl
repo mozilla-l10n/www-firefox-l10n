@@ -19,3 +19,6 @@ features-private-what-information-does-firefox = ¿Qué información recopila { 
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/privacy/
 features-private-mozilla-the-maker-of-firefox = En { -brand-name-mozilla } (los creadores de { -brand-name-firefox }) nos tomamos muy en serio la privacidad. <strong>Realmente en serio</strong>. De hecho, todos los productos { -brand-name-firefox } que desarrollamos cumplen con nuestra <a href="{ $url }">Promesa sobre datos personales</a>: Menos datos. Más protección. Ningún secreto.
+# Variables:
+#   $url (url) = link to https://www.mozilla.org/privacy/firefox/
+features-private-read-firefoxs-privacy-notice = Si quieres más información, puedes leer el <a href="{ $url }">Aviso de privacidad de { -brand-name-firefox }</a>. En serio, vale la pena echarle un vistazo. No hay letra pequeña. Prometido.
