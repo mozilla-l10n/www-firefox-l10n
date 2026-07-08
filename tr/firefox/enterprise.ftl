@@ -53,4 +53,5 @@ firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professi
 firefox-enterprise-early-access-is-v2 = Yeni destek programımız erken erişime açıldı. Güvenlik, sağlamlık ve veri bağımsızlığı için { -brand-name-firefox } kullanan kuruluşlara özel bu program; büyük ölçekli deployment’lar için güvenilir ve kuruluşa özel destek sunuyor.
 firefox-enterprise-contact-sales = Satış ekibiyle iletişime geçin
 firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } belgeleri
+firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support }; ekipler için kişiselleştirilmiş geliştirme seçenekleri, { -brand-name-mozilla } mühendislik ve ürün ekipleriyle yakın iş birliği, sorunlara belirli zaman aralığında dönüş yapılması, öncelik verilmesi ve gerektiğinde üst ekiplere yönlendirilmesini sağlayan bir hizmettir.
 firefox-enterprise-support-plan = Destek planı
