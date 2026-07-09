@@ -15,12 +15,12 @@ newsletters-make-the-most = Hozza ki a legtöbbet a { -brand-name-firefox }ból
 # Subtitle for /newsletter/
 newsletters-sign-up-to-receive-monthly = Iratkozzon fel, hogy havonta értesüljön a { -brand-name-firefox } híreiről és azokról az internetes trendekről, amelyek meghatározzák az online életét.
 # Enterprise
-newsletter-enterprise-title-v2 = Iratkozzon fel a vállalati frissítésekre: { -brand-name-mozilla }
-newsletter-enterprise-description-v3 = Tájékozódjon a(z) { -brand-name-firefox-enterprise }, { -brand-name-firefox-professional-support } kiegészítőről, valamint a releváns webes szemináriumokról, eseményekről és informatikai, biztonsági és megfelelőségi szakembereknek szóló termékfrissítésekről.
+newsletter-enterprise-title-v2 = Iratkozzon fel a { -brand-name-mozilla } Enterprise híreire
+newsletter-enterprise-description-v3 = Tájékozódjon a { -brand-name-firefox-enterprise } és a { -brand-name-firefox-professional-support } híreiről, valamint a releváns webes szemináriumokról, eseményekről és informatikai, biztonsági és megfelelőségi szakembereknek szóló termékfrissítésekről.
 newsletter-enterprise-description-note = Megjegyzés: Az előfizetés önkéntes és bármikor visszavonható.
 # Consent checkbox label in the enterprise newsletter form
-newsletter-enterprise-form-consent-v3 = Az űrlap beküldésével beleegyezik, hogy { -brand-name-mozilla } kapcsolatba lépjen Önnel vállalati termékekkel, eseményekkel, termékfrissítésekkel, valamint a kapcsolódó informatikai, biztonsági és megfelelőségi témákkal kapcsolatban.
-newsletter-enterprise-form-consent-details-v3 = Ezek az e-mailek információkat tartalmazhatnak a következőről: { -brand-name-firefox-enterprise }, { -brand-name-firefox-professional-support }, webináriumok, események, termék- és informatikai, biztonsági és megfelelőségi témákban. A hozzájárulásomat jövőbeli hatállyal bármikor visszavonhatom.
+newsletter-enterprise-form-consent-v3 = Az űrlap beküldésével beleegyezik, hogy a { -brand-name-mozilla } kapcsolatba lépjen Önnel vállalati termékekkel, eseményekkel, termékfrissítésekkel, valamint a kapcsolódó informatikai, biztonsági és megfelelőségi témákkal kapcsolatban.
+newsletter-enterprise-form-consent-details-v3 = Ezek az e-mailek információkat tartalmazhatnak a { -brand-name-firefox-enterprise } és a { -brand-name-firefox-professional-support } szolgáltatásról, webináriumokról, eseményekről, termékfrissítésekről, valamint informatikai, biztonsági és megfelelőségi témákról. A hozzájárulásomat jövőbeli hatállyal bármikor visszavonhatom.
 # Privacy notice section below the enterprise newsletter form
 newsletter-enterprise-privacy-statement = A(z) { -brand-name-mozilla } feldolgozza az Ön által megadott információkat annak érdekében, hogy elküldjük Önnek a kiválasztott e-maileket, és dokumentáljuk a hozzájárulását. További információk a { -brand-name-mozilla } adatvédelmi nyilatkozatában találhatók.
 newsletter-enterprise-privacy-link = Adatvédelmi nyilatkozat
