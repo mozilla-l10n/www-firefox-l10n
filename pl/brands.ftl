@@ -510,3 +510,5 @@
         [loc] Chromebooku
        *[nom] Chromebook
     }
+# Enterprise program name
+-brand-name-firefox-professional-support = Profesjonalne wsparcie Firefoksa

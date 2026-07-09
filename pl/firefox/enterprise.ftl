@@ -20,8 +20,12 @@ firefox-enterprise-install-packages-policies = Dzięki pakietom instalacyjnym or
 firefox-enterprise-release-cycles = Cykle wydań dopasowane do Twojej organizacji
 firefox-enterprise-choose-firefox-for-features-esr-stability = Wybierz { -brand-name-firefox(case: "gen") }, aby otrzymywać najnowsze funkcje i stabilne wersje co cztery tygodnie, lub { -brand-name-firefox-esr(case: "gen") }, aby cieszyć się długoterminową stabilnością, regularnymi aktualizacjami zabezpieczeń i corocznymi wydaniami głównymi.
 firefox-enterprise-enterprise-downloads = Pobieranie wydania { -brand-name-enterprise }
+firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-linux = { -brand-name-linux }
 firefox-enterprise-select-your-download = Wybierz, co pobrać
+# Standard release, updated with the latest features roughly every four weeks.
+firefox-enterprise-firefox-latest = { -brand-name-firefox } (najnowsza)
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
@@ -34,4 +38,5 @@ firefox-enterprise-release-notes = Informacje o wydaniu
 firefox-enterprise-download-firefox-or-esr = Pobierz { -brand-name-firefox(case: "acc") } lub { -brand-name-firefox-esr(case: "acc") } dla <a { $firefox_all }>innego języka lub systemu</a>.
 firefox-enterprise-early-access-is-v2 = Już teraz możesz skorzystać z wczesnego dostępu do naszego nowego programu wsparcia. Program ten został stworzony z myślą o organizacjach korzystających z { -brand-name-firefox(case: "gen") } w celu zapewnienia bezpieczeństwa, odporności i suwerenności danych. Zapewnia on prywatne, niezawodne i dostosowane wsparcie dla wdrożeń na dużą skalę.
 firefox-enterprise-contact-sales = Kontakt z Działem Sprzedaży
+firefox-enterprise-support-for-organizations-documentation-v2 = Dokumentacja usługi { -brand-name-firefox-professional-support }
 firefox-enterprise-support-plan = Plan wsparcia
