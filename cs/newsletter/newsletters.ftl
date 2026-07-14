@@ -24,4 +24,4 @@ newsletter-enterprise-form-consent-details-v3 = Tyto e-maily mohou obsahovat inf
 # Privacy notice section below the enterprise newsletter form
 newsletter-enterprise-privacy-statement = { -brand-name-mozilla } zpracuje vámi poskytnuté informace pro zasílání vybraných e-mailových zpráv a pro dokumentaci vašeho souhlasu. Další informace jsou k dispozici v zásadách ochrany osobních údajů pro aplikaci { -brand-name-mozilla }.
 newsletter-enterprise-privacy-link = Zásady ochrany osobních údajů
-newsletter-enterprise-legal-link = Právní upozornění
+newsletter-enterprise-legal-link = Právní omezení
