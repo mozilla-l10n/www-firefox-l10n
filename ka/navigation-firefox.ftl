@@ -33,17 +33,17 @@ navigation-release-notes = გამოშვების შენიშვნ�
 navigation-support = მხარდაჭერა
 navigation-extensions-and-themes = გაფართოებები და თემები
 navigation-whats-new = რა სიახლეებია
-navigation-whats-next = რა არის შემდეგი
+navigation-whats-next = რა მოგველის
 navigation-add-ons = დამატებები
 navigation-all-downloads = ყველა ჩამოტვირთვა
 navigation-learn = გაეცანით
 navigation-blog = სვეტი
-navigation-newsletter = ბიულეტენი
+navigation-newsletter = სიახლეთა ცნობარი
 navigation-compare = შედარება
 navigation-podcast = პოდკასტი
 navigation-data-protection = მონაცემთა დაცვა
-navigation-protection = დაცვა
-navigation-control = Control
+navigation-protection = უსაფრთხოება
+navigation-control = მართვა
 navigation-focus = Focus
 
 ## Download

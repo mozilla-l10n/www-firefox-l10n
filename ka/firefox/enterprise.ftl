@@ -6,18 +6,18 @@
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 # Page title
-firefox-enterprise-use-firefox-esr-enterprise-browser = გამოიყენეთ { -brand-name-firefox } ან { -brand-name-esr } თქვენი ორგანიზაციის ბრაუზერად უსაფრთხოებისთვის
+firefox-enterprise-use-firefox-esr-enterprise-browser = გამოიყენეთ { -brand-name-firefox } ან { -brand-name-esr } თქვენი დაწესებულების ბრაუზერად უსაფრთხოების ასამაღლებლად
 # Page description
 firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } არის ღია წყაროს მქონე ბრაუზერი, დაწესებულების დონის დაცვით, პირადულობითა და მოქნილობით. გამოიყენეთ { -brand-name-firefox } უახლესი შესაძლებლობებისთვის ან { -brand-name-esr } ხანგრძლივი მდგრადობისთვის.
 firefox-enterprise-brand-name = { -brand-name-enterprise }
-firefox-enterprise-use-as-your-enterprise-browser = { -brand-name-firefox } გამოიყენეთ ორგანიზაციის ბრაუზერად
+firefox-enterprise-use-as-your-enterprise-browser = გამოიყენეთ { -brand-name-firefox } დაწესებულების ბრაუზერად
 firefox-enterprise-secure-at-scale = { -brand-name-firefox } გთავაზობთ დაცულ, მდგრად და პირადულობაზე ორიენტირებული გვერდების მონახულებას. ორგანიზაციის დებულებებით ორივე { -brand-name-firefox }-ში, ან { -brand-name-firefox-extended-support-release }-ში ({ -brand-name-esr }), ორგანიზაციები იღებენ მოქნილობას, მართვასა და გამჭვირვალობას სანდო, ღია წყაროს მქონე ბრაუზერში.
-firefox-enterprise-protection-powered-by = დაწესებულებისგან დაცვა, უზრუნველყოფს { -brand-name-firefox }
+firefox-enterprise-protection-powered-by = დაწესებულების შესაფერისი დაცვა, უზრუნველყოფს { -brand-name-firefox }
 firefox-enterprise-open-source-transparency = { -brand-name-firefox } აერთიანებს ღია წყაროს გამჭვირვალობას, უსაფრთხოების გაფართოებულ შესაძლებლობებთან და ხშირი განახლებასთან, თქვენი ორგანიზაციის მონაცემების დასაცავად.
-firefox-enterprise-your-browser-your-business = თქვენი ბრაუზერი, თქვენი ბიზნესი
+firefox-enterprise-your-browser-your-business = თქვენი ბრაუზერი, თქვენი საქმეა
 firefox-enterprise-deploy-when-and-how-you-want = გამართეთ, როცა და როგორც გნებავთ
 firefox-enterprise-install-packages-policies = დასაყენებელი კრებულებით, ჯგუფის დებულებებისა და შესაძლებლობების ფართო გაფართოებით, გამართვა არნახულად სწრაფი და მოქნილია – რაც მთავარია, Windows, Linux და macOS გარემოში.
-firefox-enterprise-release-cycles = გამოშვების ციკლები, რომელიც შეესაბამება თქვენს დაწესებულებას
+firefox-enterprise-release-cycles = გამოშვების შუალედები, რომლებიც ერგება თქვენს დაწესებულებას
 firefox-enterprise-choose-firefox-for-features-esr-stability = აირჩიეთ { -brand-name-firefox } უახლესი ფუნქციებითა და მდგრადი გამოშვებებისთვის ოთხ კვირაში, ან { -brand-name-firefox-esr } ხანგრძლივად მდგრადობისთვის, უსაფრთხოების რიგითი განახლებისთვის და ყოველწლიური ძირითადი გამოშვებებისთვის.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } – ჩამოტვირთვები
 firefox-enterprise-windows = { -brand-name-windows }
@@ -40,9 +40,9 @@ firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } – ARM64
 firefox-enterprise-resources = მასალები
 firefox-enterprise-release-notes-v2 = { -brand-name-enterprise } გამოშვების შენიშვნები
 # Canonical home for all enterprise deployment and administration documentation.
-firefox-enterprise-documentation = { -brand-name-firefox } { -brand-name-enterprise } დოკუმენტაცია
+firefox-enterprise-documentation = { -brand-name-firefox } { -brand-name-enterprise } ცნობარი
 # Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
-firefox-enterprise-policy-templates = პოლიტიკის თარგები
+firefox-enterprise-policy-templates = დებულების თარგები
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = გამოშვების მონაცემები
@@ -52,6 +52,6 @@ firefox-enterprise-download-firefox-or-esr = ჩამოტვირთეთ {
 firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
 firefox-enterprise-early-access-is-v2 = ადრეული წვდომა უკვე გახსნილია ჩვენი ახალი მხარდაჭერის პროგრამისთვის. შექმნილია ორგანიზაციებისთვის, რომლებიც იყენებენ { -brand-name-firefox }-ს უსაფრთხოების, მდგრადობისა და მონაცემთა სუვერენიტეტის უზრუნველსაყოფად, იგი უზრუნველყოფს პირადულობას, სანდო და სასურველ მხარდაჭერას ფართომასშტაბიანი გამოყენებისთვის.
 firefox-enterprise-contact-sales = დაუკავშირდით გაყიდვებს
-firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } დოკუმენტაცია
+firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } ცნობარი
 firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } საგანგებო შემოთავაზებაა იმ გუნდებისთვის, რომელთაც ესაჭიროებათ პირადი ხარვეზების გამოსწორება და ესკალაცია, რეაგირების დროები, მორგებული შემუშავების პარამეტრები და { -brand-name-mozilla }-ის საინჟინრო და პროდუქტის გუნდთან მჭიდრო თანამშრომლობა.
 firefox-enterprise-support-plan = მხარდაჭერის გეგმა
