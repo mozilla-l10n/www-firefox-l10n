@@ -48,6 +48,8 @@ footer-learn = Läs mer
 footer-support = Hjälp
 footer-addons = Tillägg
 footer-blog = Blogg
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = Mozilla-butik
 
 ## Links to social media
 

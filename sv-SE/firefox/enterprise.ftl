@@ -38,12 +38,20 @@ firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } — PKG
 firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64-bitars
 firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
 firefox-enterprise-resources = Resurser
+firefox-enterprise-release-notes-v2 = { -brand-name-enterprise } versionsfakta
+# Canonical home for all enterprise deployment and administration documentation.
+firefox-enterprise-documentation = { -brand-name-firefox } { -brand-name-enterprise } dokumentation
+# Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
+firefox-enterprise-policy-templates = Policymallar
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Versionsfakta
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Hämta { -brand-name-firefox } eller { -brand-name-firefox-esr } på <a { $firefox_all }>ett annat språk eller annan plattform.</a>
+firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
 firefox-enterprise-early-access-is-v2 = Tidig tillgång är nu öppen för vårt nya supportprogram. Byggd för organisationer som använder { -brand-name-firefox } för att säkerställa säkerhet, robusthet och datasuveränitet, ger det privat, pålitlig och anpassad support för storskaliga distributioner.
 firefox-enterprise-contact-sales = Kontakta försäljning
+firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } dokumentation
+firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } är ett dedikerat erbjudande för team som behöver privat problemhantering och eskalering, definierade svarstider, anpassade utvecklingsalternativ och nära samarbete med { -brand-name-mozilla }:s teknik- och produktteam.
 firefox-enterprise-support-plan = Supportplan
