@@ -20,11 +20,23 @@ firefox-enterprise-install-packages-policies = Med installationspaket och en bre
 firefox-enterprise-release-cycles = Versionscykler som passar din organisation
 firefox-enterprise-choose-firefox-for-features-esr-stability = Välj { -brand-name-firefox } för de senaste funktionerna och stabila utgåvorna var fjärde vecka eller { -brand-name-firefox-esr } för långsiktig stabilitet, regelbundna säkerhetsuppdateringar och årliga större släpp.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } hämtningar
+firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-linux = { -brand-name-linux }
 firefox-enterprise-select-your-download = Välj din nedladdning
+# Standard release, updated with the latest features roughly every four weeks.
+firefox-enterprise-firefox-latest = { -brand-name-firefox } (senaste)
+firefox-enterprise-firefox-latest-msi = { -brand-name-firefox } (senaste) — MSI
+firefox-enterprise-firefox-latest-pkg = { -brand-name-firefox } (senaste) — PKG
+firefox-enterprise-firefox-latest-64-bit = { -brand-name-firefox } (senaste) — 64-bitars
+firefox-enterprise-firefox-latest-arm64 = { -brand-name-firefox } (senaste) — ARM64
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
+firefox-enterprise-firefox-esr-msi = { -brand-name-firefox-esr } — MSI
+firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } — PKG
+firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64-bitars
+firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
 firefox-enterprise-resources = Resurser
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
