@@ -35,6 +35,7 @@ download-a-different-build = Hent en anden version
 
 download-button-linux-32-v2 = Hent til 32-bit Linux
 download-button-linux-64-v2 = Hent til 64-bit Linux
+download-button-linux-arm64 = Hent til Linux ARM64
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
