@@ -34,7 +34,7 @@ firefox-home-swear-off = Odkrižajte se motenj
 # Variables
 #   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
 #   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
-firefox-home-stay-focused = Ostanite osredotočeni z razširitvami, kot sta <a { $tomato_lock_attrs }>Tomato Clock</a> in <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> – priporočene so, kar je naša zlata zvezda za izjemno varnost Uporabi rezervne naprave in funkcionalnosti.
+firefox-home-stay-focused = Ostanite osredotočeni z razširitvami, kot sta <a { $tomato_clock_attrs }>Tomato Clock</a> in <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> – priporočene so, kar je naša zlata zvezda za izjemno varnost Uporabi rezervne naprave in funkcionalnosti.
 firefox-home-your-stuff = Vaše stvari na vseh vaših zaslonih
 firefox-home-get-firefox-mobile = Prenesite { -brand-name-firefox } za mobilne naprave in imejte gesla, zavihke in zgodovino – ter zasebnost in varnost, na kateri se zanašate – s seboj, kamorkoli greste.
 firefox-home-privacy-built-in = Vgrajena zasebnost
