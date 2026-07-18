@@ -15,7 +15,7 @@ features-adblocker-an-ad-blocker-is-a-piece = Un bloqueador de anuncios es un pr
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Estos anuncios pueden consistir en videos ruidosos, anuncios con seguimiento en varios sitios, rastreadores, «cookies» de terceros, entre otros. Para utilizar un bloqueador, puedes buscar complementos que estén disponibles para tu navegador. <a href="{ $firefox }">{ -brand-name-firefox }</a>, por ejemplo, cuenta con <a href="{ $addons }">esta lista de bloqueadores aprobados</a>. Explora esta lista (o busca otros bloqueadores aprobados para tu navegador) y elige el que se ajuste mejor a tus necesidades.
 features-adblocker-find-the-right-ad-blocker = Encuentra el bloqueador de anuncios adecuado
-features-adblocker-there-are-scores-of-content = Existen muchos bloqueadores de contenido, pero te proponemos aquí algunas opciones fantásticas seleccionadas por el equipo de { -brand-name-mozilla }…{ " " }
+features-adblocker-there-are-scores-of-content = Existen muchos bloqueadores de contenido, pero te proponemos aquí algunas opciones fantásticas seleccionadas por el equipo de { -brand-name-mozilla }…
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
 features-adblocker-considered-by-many-to-be-the = Considerado por muchos como el referente entre los bloqueadores de publicidad, <a { $attrs }>uBlock Origin</a> es famoso por su efectividad y eficiencia. Aunque es altamente personalizable, funciona de maravilla con las configuraciones por defecto.
@@ -36,7 +36,7 @@ features-adblocker-create-a-tracker-free = Crea una zona libre de rastreadores c
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = En { -brand-name-firefox }, es posible utilizar las opciones <a href="{ $privacy }">Privacidad</a> y <a href="{ $blocking }">Bloqueo de contenido</a> para obtener aun más control sobre los rastreadores que te envían anuncios.
 features-adblocker-choose-your-level-of-protection = Elige tu nivel de protección
-features-adblocker-to-start-click-on-the-v2 = Para comenzar, haz clic en el ícono de escudo a la izquierda de la barra de direcciones en cualquier sitio web, y selecciona "Ajustes de protección". Esto abrirá en una nueva pestaña el panel de ajustes de Privacidad y Seguridad de { -brand-name-firefox }. En la ventana emergente azul veras las diferentes opciones.{ " " }
+features-adblocker-to-start-click-on-the-v2 = Para comenzar, haz clic en el ícono de escudo a la izquierda de la barra de direcciones en cualquier sitio web, y selecciona "Ajustes de protección". Esto abrirá en una nueva pestaña el panel de ajustes de Privacidad y Seguridad de { -brand-name-firefox }. En la ventana emergente azul veras las diferentes opciones.
 features-adblocker-go-easy-with-standard = Tómalo con calma con el modo estándar
 # Variables:
 #   $url (url) - link to https://www.firefox.com/features/private-browsing/

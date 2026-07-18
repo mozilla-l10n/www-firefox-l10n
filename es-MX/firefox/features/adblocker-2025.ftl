@@ -19,7 +19,7 @@ features-adblocker-ad-blockers-work = Los bloqueadores de anuncios funcionan de 
 # Variables:
 #   $firefox (url) - link to https://www.firefox.com/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
-features-adblocker-using-an-adblocker = Usar un bloqueador de anuncios es muy sencillo. Muchos bloqueadores confiables pueden instalarse como complementos del navegador, por lo que hay opciones para todas las necesidades. <a href="{ $firefox }">{ -brand-name-firefox }</a> ha creado una <a href="{ $addons }">lista de extensiones aprobadas</a> que están diseñadas para optimizar tu experiencia navegando sin comprometer tu privacidad.{ " " }
+features-adblocker-using-an-adblocker = Usar un bloqueador de anuncios es muy sencillo. Muchos bloqueadores confiables pueden instalarse como complementos del navegador, por lo que hay opciones para todas las necesidades. <a href="{ $firefox }">{ -brand-name-firefox }</a> ha creado una <a href="{ $addons }">lista de extensiones aprobadas</a> que están diseñadas para optimizar tu experiencia navegando sin comprometer tu privacidad.
 features-adblocker-finding-the-right = Encuentra el bloqueador de anuncios adecuado para ti
 features-adblocker-there-are-many = Existen muchas herramientas para bloquear anuncios, cada una con funciones que se adaptan a diferentes preferencias. Encontrar la adecuada para ti depende de tus preferencias y hábitos de navegación. Aquí te damos algunos consejos:
 features-adblocker-tip-1 = <strong>Bloqueo de anuncios:</strong> si tu necesidad principal es bloquear anuncios, escoge una herramienta simple y liviana.
