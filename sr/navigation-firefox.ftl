@@ -19,7 +19,7 @@ navigation-ad-tracker-blocking = Блокирање огласа за праће
 navigation-private-browsing = Режим приватног прегледања
 navigation-password-manager = Бесплатан управник лозинки
 navigation-features-all = Погледај све { -brand-name-firefox } могућности
-navigation-about-firefox-features = О Firefox могућностима
+navigation-about-firefox-features = О { -brand-name-firefox } могућностима
 
 ## Resources
 
