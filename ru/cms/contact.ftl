@@ -11,6 +11,8 @@
 contact-form-error-required = Это обязательное поле.
 contact-form-error-sending = При отправке вашего сообщения произошла ошибка. Повторите попытку.
 contact-form-error-empty = Пожалуйста, заполните форму.
+contact-form-error-email = Введите корректный адрес электронной почты.
+contact-form-error-choice = Пожалуйста, выберите корректную опцию.
 contact-form-submit = Отправить
 contact-form-select-option = Выберите вариант
 contact-form-correct-errors = Пожалуйста, исправьте указанные ниже ошибки
