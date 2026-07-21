@@ -28,7 +28,7 @@ firefox-enterprise-select-your-download = 选择下载版本
 firefox-enterprise-firefox-latest = { -brand-name-firefox }（最新版）
 firefox-enterprise-firefox-latest-msi = { -brand-name-firefox }（最新版）— MSI
 firefox-enterprise-firefox-latest-pkg = { -brand-name-firefox }（最新版）— PKG
-firefox-enterprise-firefox-latest-64-bit = { -brand-name-firefox } 最新 — 64 位
+firefox-enterprise-firefox-latest-64-bit = { -brand-name-firefox }（最新版）— 64 位
 firefox-enterprise-firefox-latest-arm64 = { -brand-name-firefox }（最新版）— ARM64
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
