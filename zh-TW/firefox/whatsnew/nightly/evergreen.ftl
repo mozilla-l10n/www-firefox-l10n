@@ -10,7 +10,7 @@
 nightly-whatsnew-youve-just-been = 剛升級到 { -brand-name-firefox-nightly } { $version }！
 nightly-whatsnew-your-firefox-nightly = 已成功更新您的 { -brand-name-firefox-nightly }！
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
-nightly-whatsnew-every-2-to-3-weeks = 每隔 2 到 3 週{ -brand-name-firefox } 就會釋出一個重要的新版本{ -brand-name-nightly } 版本號也會增加。
+nightly-whatsnew-every-2-to-3-weeks = 每隔 2 到 3 週，{ -brand-name-firefox } 就會釋出一個重要的新版本，{ -brand-name-nightly } 測試版的版本號也會增加。
 nightly-whatsnew-this-is-a-good = 這是一個能夠感謝您幫助我們讓 { -brand-name-firefox } 變得更好，並提供一些您可能會有興趣的 { -brand-name-nightly } 相關文件、溝通管道、新聞等網站的好時機。
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
