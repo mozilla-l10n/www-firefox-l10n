@@ -15,3 +15,10 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Nong ngec</a> 
 # Variables:
 #   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Gam</a> layeny pa { -brand-name-firefox } pi nyonyo ni me cing onyo desktop
+# Obsolete string (expires: 2026-06-15)
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Mii</a> bot { -brand-name-mozilla-foundation } me dwoko cen Intanet ki bot kampuni ma dongo me diro.
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-foundation = <a { $donate }>Mii</a> bot { -brand-name-mozilla-foundation } me dwoko cen Intanet ki bot kampuni ma dongo me diro.
