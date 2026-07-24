@@ -10,6 +10,7 @@
 nightly-whatsnew-youve-just-been = Sće runje na { -brand-name-firefox-nightly } { $version } zaktualizował!
 nightly-whatsnew-your-firefox-nightly = Waš { -brand-name-firefox-nightly } je so zaktualizował.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
+nightly-whatsnew-every-2-to-3-weeks = Kóžde 2 do 3 njedźel so nowa kónčna wersija { -brand-name-firefox } wozjewja a tohodla so wersijowe čisło { -brand-name-nightly } tež powyša.
 nightly-whatsnew-this-is-a-good = Při tutej składnosći dźakujemy so za wašu pomoc při polěpšenju { -brand-name-firefox } a pokazujemy was na dokumentaciju, komunikaciske kanale a websydła za nowinki, kotrež so na { -brand-name-nightly } poćahuja a kotrež móhli was zajimować.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
