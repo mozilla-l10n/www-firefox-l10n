@@ -10,7 +10,6 @@
 nightly-whatsnew-youve-just-been = Právě jste aktualizovali { -brand-name-firefox-nightly(case: "acc") } na verzi { $version }!
 nightly-whatsnew-your-firefox-nightly = Váš { -brand-name-firefox-nightly } byl aktualizován.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
-nightly-whatsnew-every-4-to-5-weeks = Každých 4 až 5 týdnů vychází nová hlavní verze { -brand-name-firefox(case: "gen") } a v důsledku toho i nová verze { -brand-name-nightly(case: "gen") }.
 nightly-whatsnew-this-is-a-good = Nyní je správný čas poděkovat vám za pomoc s vylepšováním { -brand-name-firefox(case: "gen") } a nabídnout vám pár odkazů na dokumentaci, komunikační kanály a zpravodaje týkající se { -brand-name-nightly(case: "gen") }.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/

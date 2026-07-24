@@ -10,7 +10,6 @@
 nightly-whatsnew-youve-just-been = تساں ہݨے ہݨے { -brand-name-firefox-nightly }{ $version } تے اپ گریڈ تھئے ہو!
 nightly-whatsnew-your-firefox-nightly = تہاݙی { -brand-name-firefox-nightly } اپ ڈیٹ تھی ڳئی ہے۔
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
-nightly-whatsnew-every-4-to-5-weeks = ہر 4 توں 5 ہفتیاں وِچ، { -brand-name-firefox } دا ہک نیا وݙا ورژن جاری کیتا ویندا ہے تے ایندے نتیجے وِچ، { -brand-name-nightly } ورژن وی ودھدا ہے۔
 nightly-whatsnew-this-is-a-good = { -brand-name-firefox } کوں بہتر بݨاوݨ وِچ اساݙی مدد کرݨ کیتے تہاݙا شکریہ ادا کرݨ تے { -brand-name-nightly } نال متعلق دستاویزات، کمیونیکیشن چینلز تے نیوز سائٹاں کیتے تہاکوں کجھ اشارے ݙیوݨ کیتے ایہ چنڳاں ویلھا ہے جیڑھا تہاݙے کیتے دلچسپی دا حامل تھی سڳدا ہے۔
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/

@@ -10,7 +10,6 @@
 nightly-whatsnew-youve-just-been = Bạn vừa được cập nhật lên { -brand-name-firefox-nightly } { $version }!
 nightly-whatsnew-your-firefox-nightly = { -brand-name-firefox-nightly } của bạn đã được cập nhật.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
-nightly-whatsnew-every-4-to-5-weeks = Cứ sau 4 đến 5 tuần, một phiên bản mới của { -brand-name-firefox } được phát hành và như kết quả, phiên bản của { -brand-name-nightly } cũng tăng theo.
 nightly-whatsnew-this-is-a-good = Đây là thời điểm tốt để cảm ơn bạn vì đã giúp chúng tôi cải thiện { -brand-name-firefox } và cung cấp cho bạn một số gợi ý về tài liệu, kênh liên lạc và trang web tin tức liên quan đến { -brand-name-nightly } có thể khiến bạn quan tâm.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/

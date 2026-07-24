@@ -10,7 +10,6 @@
 nightly-whatsnew-youve-just-been = Ti has gist installà l'actualisaziun a { -brand-name-firefox-nightly } { $version }!
 nightly-whatsnew-your-firefox-nightly = Tes { -brand-name-firefox-nightly } è vegnì actualisà.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
-nightly-whatsnew-every-4-to-5-weeks = Mintga quatter u tschintg emnas cumpara ina nova versiun principala da { -brand-name-firefox } ed en consequenza s'augmenta era il numer da versiun da { -brand-name-nightly }.
 nightly-whatsnew-this-is-a-good = Quai è ina buna occasiun per t'engraziar per tes agid cun meglierar { -brand-name-firefox } e per ta render attent ad insaquantas documentaziuns, chanals da communicaziun e websites cun novitads da { -brand-name-nightly } che pudessan t'interessar.
 # Variables:
 #   $attrs (string) - link href and additional attributes

@@ -10,7 +10,6 @@
 nightly-whatsnew-youve-just-been = ¡Embohekopyahu ramoite { -brand-name-firefox-nightly } { $version }!
 nightly-whatsnew-your-firefox-nightly = Hekopyahúma { -brand-name-firefox-nightly }.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
-nightly-whatsnew-every-4-to-5-weeks = Og̃uahẽvo 4 térã 5 arapokõindy, osẽjeýma { -brand-name-firefox } rembiapokue pyahu ha upekuévo, ko mba’epyahu { -brand-name-nightly } avei oikoiteve.
 nightly-whatsnew-this-is-a-good = Roaguyjeveme’ẽ ore pytyvõ haguére { -brand-name-firefox } iporãve hag̃ua ko’ẽreíre ha ro’e hag̃ua ndéve moõpa ejuhukuaa kuatiaita, ñomongeta renda ha marandu ojokupytýva { -brand-name-nightly } ndive ikatúva eikuaase.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
