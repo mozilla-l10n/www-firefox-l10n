@@ -1,4 +1,3 @@
-
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
@@ -12,7 +11,6 @@ nightly-whatsnew-youve-just-been = Anda baru saja ditingkatkan menjadi { $versio
 nightly-whatsnew-your-firefox-nightly = { -brand-name-firefox-nightly } Anda telah diperbarui.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 
-nightly-whatsnew-every-4-to-5-weeks = Setiap 4 hingga 5 minggu, versi utama dari { -brand-name-firefox } dirilis dan sebagai hasilnya, versi { -brand-name-nightly } juga meningkat.
 
 nightly-whatsnew-this-is-a-good = Ini saat yang tepat untuk berterima kasih karena telah membantu kami membuat { -brand-name-firefox } menjadi lebih baik dan memberi Anda beberapa petunjuk mengenai dokumentasi, kanal komunikasi, dan situs berita terkait { -brand-name-nightly } yang mungkin menarik bagi Anda.
 

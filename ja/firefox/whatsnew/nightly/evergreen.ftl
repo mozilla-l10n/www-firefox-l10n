@@ -1,4 +1,3 @@
-
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
@@ -12,7 +11,6 @@ nightly-whatsnew-youve-just-been = { -brand-name-firefox-nightly } { $version } 
 nightly-whatsnew-your-firefox-nightly = { -brand-name-firefox-nightly } が更新されました。
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 
-nightly-whatsnew-every-4-to-5-weeks = { -brand-name-firefox } の新しいメジャーバージョンは4～5 週間ごとにリリースされ、その結果として { -brand-name-nightly } もバージョンアップされます。
 
 nightly-whatsnew-this-is-a-good = この機会に、皆さんに { -brand-name-firefox } の改善支援に感謝の意を述べるとともに、{ -brand-name-nightly } 関連のドキュメント、連絡チャンネル、ニュースウェブサイトをいくつかご紹介しますので、ご関心のある方はご覧ください。
 
