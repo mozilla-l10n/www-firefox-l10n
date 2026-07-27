@@ -10,6 +10,7 @@
 nightly-whatsnew-youve-just-been = Шумо ҳоло браузери худро ба версияи «{ -brand-name-firefox-nightly } { $version } » такмил додаед!
 nightly-whatsnew-your-firefox-nightly = Браузери «{ -brand-name-firefox-nightly }»-и шумо навсозӣ карда шуд.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
+nightly-whatsnew-every-2-to-3-weeks = Пас аз ҳар 2 ё 3 ҳафта версияи нави браузери асосии «{ -brand-name-firefox }» бароварда мешавад ва дар натиҷа, версияи браузери «{ -brand-name-nightly }» низ меафзояд.
 nightly-whatsnew-this-is-a-good = Мо мехоҳем аз фурсат истифода бурда, ба шумо барои расонидани кумак дар беҳтар кардани «{ -brand-name-firefox }» изҳори сипос намоем. Ҳамчунин, мо мехоҳем чанд пайванди муфид оид ба ҳуҷҷатҳо, василаҳои иртиботӣ ва манбаъҳои хабарӣ дар бораи «{ -brand-name-nightly }» ба шумо дастрас кунем, ки шояд барои шумо ҷолиби диққат бошанд.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
