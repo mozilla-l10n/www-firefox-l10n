@@ -11,6 +11,7 @@ nightly-whatsnew-youve-just-been = لقد تمت ترقيتُك للتو إلى 
 nightly-whatsnew-your-firefox-nightly = لقد تم تحديث { -brand-name-firefox-nightly } الخاص بك
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 
+nightly-whatsnew-every-2-to-3-weeks = يتم إصدار نسخة رئيسية جديدة من { -brand-name-firefox } كل أسبوعين إلى ثلاثة أسابيع، مما يُؤدي بدوره إلى زيادة رقم إصدار { -brand-name-nightly }.
 
 nightly-whatsnew-this-is-a-good = هذا هو الوقت المُناسب لأشكرك على مساعدتنا في جعل { -brand-name-firefox } أفضل وإعطائك بعض المؤشرات عن المستندات وقنوات الاتصال والمواقع الإخبارية ذات الصلة بـ { -brand-name-nightly } والتي قد تهُمك.
 
