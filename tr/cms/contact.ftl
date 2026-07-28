@@ -11,6 +11,8 @@
 contact-form-error-required = Bu alanı doldurmalısınız.
 contact-form-error-sending = Mesajınız gönderilirken bir sorun oluştu. Lütfen yeniden deneyin.
 contact-form-error-empty = Lütfen formu doldurun.
+contact-form-error-email = Lütfen geçerli bir e-posta adresi girin.
+contact-form-error-choice = Lütfen geçerli bir seçenek seçin.
 contact-form-submit = Gönder
 contact-form-select-option = Bir seçenek seçin
 contact-form-correct-errors = Lütfen aşağıdaki hataları düzeltin
