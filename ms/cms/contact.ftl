@@ -9,6 +9,8 @@
 contact-form-error-required = Ruang ini perlu diisi.
 contact-form-error-sending = Ada ralat ketika menghantar mesej anda Sila cuba semula.
 contact-form-error-empty = Sila isikan borang.
+contact-form-error-email = Sila masukkan alamat e-mel yang sah
+contact-form-error-choice = Sila pilih opsyen yang sah.
 contact-form-submit = Hantar
 contact-form-select-option = Pilih opsyen
 contact-form-correct-errors = Sila betulkan ralat di bawah
