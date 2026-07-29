@@ -9,6 +9,8 @@
 contact-form-error-required = この欄は必須です。
 contact-form-error-sending = メッセージの送信中にエラーが発生しました。もう一度お試しください。
 contact-form-error-empty = フォームにご記入ください。
+contact-form-error-email = 有効なメールアドレスを入力してください。
+contact-form-error-choice = 有効な項目を選択してください。
 contact-form-submit = 送信
 contact-form-select-option = オプションを選択
 contact-form-correct-errors = 下のエラーを修正してください
