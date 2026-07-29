@@ -9,6 +9,8 @@
 contact-form-error-required = Ce champ est obligatoire.
 contact-form-error-sending = Une erreur est survenue lors de l’envoi de votre message. Veuillez réessayer.
 contact-form-error-empty = Veuillez remplir le formulaire.
+contact-form-error-email = Veuillez saisir une adresse e-mail valide.
+contact-form-error-choice = Veuillez sélectionner une option valide.
 contact-form-submit = Envoyer
 contact-form-select-option = Sélectionnez une option.
 contact-form-correct-errors = Veuillez corriger les erreurs ci-dessous.
