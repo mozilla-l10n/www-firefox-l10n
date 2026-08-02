@@ -318,3 +318,5 @@
        *[imenovalnik] YouTube
     }
 -brand-name-chromebook = Chromebook
+# Enterprise program name
+-brand-name-firefox-professional-support = Profesionalna podpora za Firefox

@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
+# Page title
+firefox-enterprise-use-firefox-esr-enterprise-browser = Uporabljajte { -brand-name-firefox } ali { -brand-name-esr } kot brskalnik za podjetja za povečanje varnosti
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = Uporabljajte { -brand-name-firefox } kot službeni brskalnik
 firefox-enterprise-your-browser-your-business = Vaš brskalnik, vaši posli
