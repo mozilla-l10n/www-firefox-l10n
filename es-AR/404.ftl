@@ -7,7 +7,7 @@
 
 not-found-page-not-found-page-page-not-found = 404: No se encontró la página
 not-found-page-sorry-we-cant-find-that-page = Disculpá, no podemos encontrar esa página.
-not-found-page-were-all-about-a-healthy-internet = Luchamos por una Internet saludable, pero a veces se producen URL rotas.
+not-found-page-were-all-about-a-healthy-internet = Luchamos por una Internet saludable, pero a veces se aparecen URLs rotas.
 not-found-page-go-back = Retroceder
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
