@@ -20,11 +20,20 @@ firefox-enterprise-install-packages-policies = Com pacotes de instalação e uma
 firefox-enterprise-release-cycles = Ciclos de atualização que se adaptam à sua organização
 firefox-enterprise-choose-firefox-for-features-esr-stability = Escolha o { -brand-name-firefox } para ter acesso aos recursos mais recentes e versões estáveis a cada quatro semanas, ou o { -brand-name-firefox-esr } para estabilidade a longo prazo, atualizações de segurança regulares e uma nova versão principal uma vez por ano.
 firefox-enterprise-enterprise-downloads = Downloads do { -brand-name-enterprise }
+firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-linux = { -brand-name-linux }
 firefox-enterprise-select-your-download = Selecione o que baixar
+# Standard release, updated with the latest features roughly every four weeks.
+firefox-enterprise-firefox-latest = { -brand-name-firefox } (mais recente)
+firefox-enterprise-firefox-latest-msi = { -brand-name-firefox } (mais recente) — MSI
+firefox-enterprise-firefox-latest-pkg = { -brand-name-firefox } (mais recente) — PKG
+firefox-enterprise-firefox-latest-64-bit = { -brand-name-firefox } (mais recente) — 64 bits
+firefox-enterprise-firefox-latest-arm64 = { -brand-name-firefox } (mais recente) — ARM64
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
+firefox-enterprise-firefox-esr-msi = { -brand-name-firefox-esr } — MSI
 firefox-enterprise-resources = Recursos
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
