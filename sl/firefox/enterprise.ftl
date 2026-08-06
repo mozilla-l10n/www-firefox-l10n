@@ -18,6 +18,7 @@ firefox-enterprise-your-browser-your-business = Vaš brskalnik, vaši posli
 firefox-enterprise-deploy-when-and-how-you-want = Uvedite kadar in kako želite
 firefox-enterprise-install-packages-policies = Z namestitvenimi paketi ter širokim naborom skupinskih pravilnikov in funkcij je uvajanje hitrejše in bolj prilagodljivo kot kdajkoli prej – in mačji kašelj za okolja Windows, Linux in macOS.
 firefox-enterprise-release-cycles = Izdajni cikli, ki ustrezajo vaši organizaciji
+firefox-enterprise-choose-firefox-for-features-esr-stability = Izberite { -brand-name-firefox } za najnovejše zmogljivosti in stabilne izdaje vsake štiri tedne ali { -brand-name-firefox-esr } za dolgoročno stabilnost, redne varnostne posodobitve in večje izdaje enkrat letno.
 firefox-enterprise-enterprise-downloads = Prenosi za { -brand-name-enterprise }
 firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
