@@ -11,10 +11,10 @@ not-found-page-were-all-about-a-healthy-internet = Manter a internet íntegra é
 not-found-page-go-back = Voltar
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
-not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Saiba mais</a> sobre a { -brand-name-mozilla }, a organização sem fins lucrativos por trás do { -brand-name-firefox }.
+not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Conheça</a> a { -brand-name-mozilla }, a organização sem fins lucrativos por trás do { -brand-name-firefox }.
 # Variables:
 #   $download (url) - link to https://www.firefox.com/
-not-found-page-download-the-firefox-browser = <a href={ $download }>Baixe</a> o navegador { -brand-name-firefox } para seu dispositivo móvel ou computador
+not-found-page-download-the-firefox-browser = <a href={ $download }>Instale</a> o navegador { -brand-name-firefox } em seu dispositivo móvel ou computador
 # Obsolete string (expires: 2026-06-15)
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
