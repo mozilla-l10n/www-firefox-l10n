@@ -34,12 +34,22 @@ firefox-enterprise-firefox-latest-arm64 = { -brand-name-firefox } (mais recente)
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-esr-msi = { -brand-name-firefox-esr } — MSI
+firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } — PKG
+firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64 bits
+firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
 firefox-enterprise-resources = Recursos
+firefox-enterprise-release-notes-v2 = Notas de atualização do { -brand-name-enterprise }
+# Canonical home for all enterprise deployment and administration documentation.
+firefox-enterprise-documentation = Documentação do { -brand-name-firefox } { -brand-name-enterprise }
+# Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
+firefox-enterprise-policy-templates = Modelos de diretivas
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Notas de atualização
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Baixe o { -brand-name-firefox } ou o { -brand-name-firefox-esr } para <a { $firefox_all }>outro idioma ou plataforma</a>.
+firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
 firefox-enterprise-contact-sales = Fale com nossa equipe de vendas
+firefox-enterprise-support-for-organizations-documentation-v2 = Documentação do { -brand-name-firefox-professional-support }
 firefox-enterprise-support-plan = Plano de suporte
