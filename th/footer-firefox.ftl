@@ -48,6 +48,8 @@ footer-learn = เรียนรู้
 footer-support = การสนับสนุน
 footer-addons = ส่วนเสริม
 footer-blog = บล็อก
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = ร้านขายของที่ระลึก
 
 ## Links to social media
 

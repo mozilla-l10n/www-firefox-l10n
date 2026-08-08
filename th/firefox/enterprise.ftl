@@ -34,4 +34,5 @@ firefox-enterprise-release-notes = บันทึกประจำรุ่น
 firefox-enterprise-download-firefox-or-esr = ดาวน์โหลด { -brand-name-firefox } หรือ { -brand-name-firefox-esr } ใน<a { $firefox_all }>ภาษาหรือแพลตฟอร์มอื่น</a>
 firefox-enterprise-early-access-is-v2 = การเข้าถึงระหว่างพัฒนาถูกเปิดใช้แล้วสำหรับโครงการสนับสนุนใหม่ของเรา ฟังก์ชันนี้สร้างขึ้นสำหรับองค์กรที่ใช้ { -brand-name-firefox } เพื่อรับประกันความปลอดภัย ความยืดหยุ่น และอธิปไตยของข้อมูล โดยให้การสนับสนุนที่เป็นส่วนตัว เชื่อถือได้ และปรับแต่งได้ตามความต้องการสำหรับการใช้งานขนาดใหญ่
 firefox-enterprise-contact-sales = ติดต่อฝ่ายขาย
+firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } เป็นบริการเฉพาะสำหรับองค์กรที่ต้องการการคัดกรองปัญหาอย่างเป็นส่วนตัว การยกระดับปัญหาตามลำดับความสำคัญ ระยะเวลาตอบกลับตามที่ตกลงกัน ทางเลือกในการพัฒนาแบบปรับแต่งเอง และการร่วมมืออย่างใกล้ชิดกับทีมวิศวกรรมและทีมผลิตภัณฑ์ของ { -brand-name-mozilla }
 firefox-enterprise-support-plan = แผนการสนับสนุน
