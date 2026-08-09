@@ -19,4 +19,4 @@ features-fast-all-browsers-had-to-make = Da bi se dobro odrezali na novem testu 
 features-fast-towards-a-faster-web = Hitrejšemu spletu naproti
 # Variables
 #   $link (url) - link to https://www.mozilla.org/about/webvision/full/#performance
-features-fast-theres-been-an-encouraging = { -brand-name-mozilla } je <a { $link }>predan</a> nenehnemu izboljševanju lastnega brskalnika kot tudi celotnega spleta. Zato smo vložili v sodelovanje pri razvoju Speedometera 3, ki je izboljšal delovanje vseh brskalnikov. Ne glede na brskalnik, ki ga izberete, { -brand-name-mozilla } želi, da je hiter.
+features-fast-theres-been-an-encouraging = { -brand-name-mozilla } je <a { $link }>predana</a> nenehnemu izboljševanju lastnega brskalnika kot tudi celotnega spleta. Zato smo vložili v sodelovanje pri razvoju Speedometra 3, ki je izboljšal delovanje vseh brskalnikov. Ne glede na to, kateri brskalnik izberete, { -brand-name-mozilla } želi, da je hiter.
