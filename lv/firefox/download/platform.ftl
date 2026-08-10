@@ -13,3 +13,7 @@ new-platform-need-help = Nepieciešama palīdzība?
 
 # Linux
 
+
+## Mac
+
+new-platform-block-trackers = Liegt izsekotājus
