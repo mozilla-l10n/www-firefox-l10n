@@ -3,7 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 blog-all-topics = Wszystkie tematy
+blog-view-all-topics = Wyświetl wszystkie tematy
 blog-all-articles = Wszystkie artykuły
+blog-read-more = Czytaj dalej
+blog-view-all = Wyświetl wszystko
 blog-back = Wstecz
 blog-related-articles = Powiązane artykuły
 blog-pagination-label = Stronicowanie
