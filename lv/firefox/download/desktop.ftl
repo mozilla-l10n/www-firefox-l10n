@@ -7,4 +7,5 @@
 
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Liegt video un skaņas automātisku atskaņošanu
+firefox-desktop-download-customize-your-browser = Pielāgo pārlūku
 firefox-desktop-download-adjust-search-bar = Pielāgot meklēšanas joslas iestatījumus
