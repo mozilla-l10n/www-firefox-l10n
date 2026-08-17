@@ -43,7 +43,7 @@ firefox-desktop-download-smart-search-suggestions = Slimme zoeksuggesties
 firefox-desktop-download-bookmark-history = Bladwijzer, geschiedenis en open tabblad in resultaten
 firefox-desktop-download-boost-your = Verhoog uw productiviteit
 firefox-desktop-download-works-with-google = Werkt met { -brand-name-google }-producten
-firefox-desktop-download-built-in-screenshot = Ingebouwd hulpmiddel voor schermafdrukken
+firefox-desktop-download-built-in-screenshot = Ingebouwd hulpmiddel voor schermafbeeldingen
 firefox-desktop-download-bookmarks-manager = Bladwijzerbeheerder
 firefox-desktop-download-autosuggest-urls = URL’s automatisch suggereren
 firefox-desktop-download-sync-across-devices = Synchroniseren tussen apparaten
@@ -121,7 +121,7 @@ firefox-desktop-download-as-the-internet = Terwijl het internet groeit en verand
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } is beschikbaar op al uw apparaten; neem uw tabbladen, geschiedenis en bladwijzers mee. Het enige dat u nodig hebt, is een <a { $attrs }>{ -brand-name-mozilla-account }</a>, en u krijgt toegang tot synchronisatie en meer { -brand-name-mozilla }-producten.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
-firefox-desktop-download-grab-a-high = Maak een afbeelding met een hoge resolutie van alles wat online is met ons hulpmiddel voor <a { $attrs }>schermafdrukken</a>, dat rechtstreeks in de browser is ingebouwd
+firefox-desktop-download-grab-a-high = Maak een afbeelding met een hoge resolutie van alles wat online is met ons hulpmiddel voor <a { $attrs }>schermafbeeldingen</a>, dat rechtstreeks in de browser is ingebouwd
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>blokkeert automatisch vele trackers van derden</a> die uw webactiviteit verzamelen en verkopen.
