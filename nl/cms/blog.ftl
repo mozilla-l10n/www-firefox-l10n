@@ -5,7 +5,7 @@
 blog-all-topics = Alle onderwerpen
 blog-view-all-topics = Alle onderwerpen bekijken
 blog-all-articles = Alle artikelen
-blog-read-more = Meer info
+blog-read-more = Meer lezen
 blog-view-all = Alles bekijken
 blog-back = Terug
 blog-related-articles = Gerelateerde artikelen
