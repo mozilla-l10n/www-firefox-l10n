@@ -6,3 +6,6 @@
 ### URL: https://www-dev.springfield.moz.works/404/
 
 not-found-page-not-found-page-page-not-found = 404: Lehekülge ei leitud
+not-found-page-sorry-we-cant-find-that-page = Vabandust, me ei leia seda lehte
+not-found-page-were-all-about-a-healthy-internet = Meile kõigile on oluline töökorras internet, aga vahel juhtub, et URL-id on katki.
+not-found-page-go-back = Mine tagasi
