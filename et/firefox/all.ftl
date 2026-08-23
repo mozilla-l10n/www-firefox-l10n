@@ -5,8 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/download/all/
 
+firefox-all-choose-language = Jätkamiseks vali keel
+firefox-all-change-browser = Vali teine toode
+firefox-all-change-platform = Vali teine platvorm
+firefox-all-change-language = Vali teine keel
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Hangi abi
+firefox-all-recommended = (Soovitatud)
 firefox-all-sorry-we-couldnt-find = Vabandame, me ei leidnud sinu otsitud allaalaadimist. Palun proovi uuesti või vali allalaadimine allolevast nimekirjast.
 firefox-all-the-pre-alpha-version = Alfaversioon teadlikele kasutajatele, keda huvitab krahhide jahtimine ja uute võimaluste testimine nende arendamise ajal.
 firefox-all-64-bit-installers = 64-bitised paigaldajad

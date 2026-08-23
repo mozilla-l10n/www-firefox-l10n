@@ -17,6 +17,9 @@
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-netscape = Netscape
+-brand-name-linkedin = LinkedIn
+-brand-name-spotify = Spotify
 
 ## Firefox browsers
 
@@ -52,10 +55,19 @@
 
 -brand-name-pocket = Pocket
 
+## Fakespot
+
+-brand-name-fakespot = Fakespot
+
 ## Mozilla projects
 
+-brand-name-bugzilla = Bugzilla
+-brand-name-gecko = Gecko
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mozilla-account = Mozilla konto
+-brand-name-mozilla-accounts = Mozilla kontod
+-brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
@@ -76,9 +88,11 @@
 ## Platforms
 
 -brand-name-android = Android
+-brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
+-brand-name-mac-short = Mac
 -brand-name-windows = Windows
 
 ## Apple products
@@ -86,6 +100,7 @@
 -brand-name-app-store = App Store
 -brand-name-ipad = iPad
 -brand-name-iphone = iPhone
+-brand-name-test-flight = TestFlight
 
 ## Facebook products
 
@@ -96,3 +111,6 @@
 -brand-name-chromium = Chromium
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
+-brand-name-chromebook = Chromebook
+# Enterprise program name
+-brand-name-firefox-professional-support = Firefoxi professionaalne tugi
