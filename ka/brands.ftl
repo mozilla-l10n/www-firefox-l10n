@@ -151,4 +151,4 @@
 -brand-name-youtube = YouTube
 -brand-name-chromebook = Chromebook
 # Enterprise program name
--brand-name-firefox-professional-support = Firefox-ის პროფესიონალური მხარდაჭერა
+-brand-name-firefox-professional-support = Firefox-ის საფუძვლიანი მხარდაჭერა

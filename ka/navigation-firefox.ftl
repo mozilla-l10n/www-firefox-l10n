@@ -19,7 +19,7 @@ navigation-ad-tracker-blocking = სარეკლამო მეთვალ�
 navigation-private-browsing = პირადი თვალიერება
 navigation-password-manager = პაროლების უფასო მმართველი
 navigation-features-all = იხილეთ ყველა შესაძლებლობა, რომელთაც { -brand-name-firefox } გთავაზობთ
-navigation-about-firefox-features = { -brand-name-firefox } ფუნქციის შესახებ
+navigation-about-firefox-features = { -brand-name-firefox } – შესაძლებლობები
 
 ## Resources
 

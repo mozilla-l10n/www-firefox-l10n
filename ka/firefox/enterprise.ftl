@@ -8,7 +8,7 @@
 # Page title
 firefox-enterprise-use-firefox-esr-enterprise-browser = გამოიყენეთ { -brand-name-firefox } ან { -brand-name-esr } თქვენი დაწესებულების ბრაუზერად უსაფრთხოების ასამაღლებლად
 # Page description
-firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } არის ღია წყაროს მქონე ბრაუზერი, დაწესებულების დონის დაცვით, პირადულობითა და მოქნილობით. გამოიყენეთ { -brand-name-firefox } უახლესი შესაძლებლობებისთვის ან { -brand-name-esr } ხანგრძლივი მდგრადობისთვის.
+firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } არის ღია წყაროს მქონე ბრაუზერი დაწესებულებების შესაფერისი უსაფრთხოებით, პირადულობითა და მოქნილობით. გამოიყენეთ { -brand-name-firefox } უახლესი შესაძლებლობებისთვის ან { -brand-name-esr } ხანგრძლივი მდგრადობისთვის.
 firefox-enterprise-brand-name = { -brand-name-enterprise }
 firefox-enterprise-use-as-your-enterprise-browser = გამოიყენეთ { -brand-name-firefox } დაწესებულების ბრაუზერად
 firefox-enterprise-secure-at-scale = { -brand-name-firefox } გთავაზობთ დაცულ, მდგრად და პირადულობაზე ორიენტირებული გვერდების მონახულებას. ორგანიზაციის დებულებებით ორივე { -brand-name-firefox }-ში, ან { -brand-name-firefox-extended-support-release }-ში ({ -brand-name-esr }), ორგანიზაციები იღებენ მოქნილობას, მართვასა და გამჭვირვალობას სანდო, ღია წყაროს მქონე ბრაუზერში.
