@@ -50,8 +50,8 @@ firefox-enterprise-release-notes = გამოშვების მონა�
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = ჩამოტვირთეთ { -brand-name-firefox } ან { -brand-name-firefox-esr } <a { $firefox_all }>სხვა ენისა და პლატფორმისთვის.</a>
 firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
-firefox-enterprise-early-access-is-v2 = ადრეული წვდომა უკვე გახსნილია ჩვენი ახალი მხარდაჭერის პროგრამისთვის. შექმნილია ორგანიზაციებისთვის, რომლებიც იყენებენ { -brand-name-firefox }-ს უსაფრთხოების, მდგრადობისა და მონაცემთა სუვერენიტეტის უზრუნველსაყოფად, იგი უზრუნველყოფს პირადულობას, სანდო და სასურველ მხარდაჭერას ფართომასშტაბიანი გამოყენებისთვის.
+firefox-enterprise-early-access-is-v2 = ადრეული წვდომა უკვე ღიაა ჩვენი ახალი მხარდაჭერის პროგრამისთვის. შექმნილია საგანგებოდ დაწესებულებებისთვის, რომელთაც { -brand-name-firefox } ესაჭიროებათ და ადგებათ უსაფრთხოების, მდგრადობისა თუ მონაცემთა დამოუკიდებლად განკარგვისთვის, უზრუნველყოფს რა პირადულობას, საიმედოობასა და მორგებულ პირობებს მოცულობითი გაწყობისთვის.
 firefox-enterprise-contact-sales = დაუკავშირდით გაყიდვებს
 firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } ცნობარი
-firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } საგანგებო შემოთავაზებაა იმ გუნდებისთვის, რომელთაც ესაჭიროებათ პირადი ხარვეზების გამოსწორება და ესკალაცია, რეაგირების დროები, მორგებული შემუშავების პარამეტრები და { -brand-name-mozilla }-ის საინჟინრო და პროდუქტის გუნდთან მჭიდრო თანამშრომლობა.
+firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } საგანგებო შემოთავაზებაა იმ გუნდებისთვის, რომელთაც კერძოდ ესაჭიროებათ ხარვეზების გამოსწორება და დაჩქარებული, განსაზღვრული დრო გამოხმაურებებისთვის, შემუშავების მორგებული პარამეტრები და მჭიდრო თანამშრომლობა ამწყობთა თუ წარმოების გუნდებთან { -brand-name-mozilla }-ში.
 firefox-enterprise-support-plan = მხარდაჭერის გეგმა
