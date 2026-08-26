@@ -11,3 +11,5 @@ blog-back = Назад
 blog-related-articles = Похожие статьи
 blog-pagination-label = Нумерация страниц
 blog-clear-topic-filter = Очистить фильтр тем
+blog-last-updated = Последнее обновление { $date }
+blog-byline = От { $authors }

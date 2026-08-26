@@ -11,3 +11,5 @@ blog-back = 后退
 blog-related-articles = 相关文章
 blog-pagination-label = 分页
 blog-clear-topic-filter = 清空主题过滤条件
+blog-last-updated = 最后更新于 { $date }
+blog-byline = 作者 { $authors }
