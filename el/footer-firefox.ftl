@@ -61,7 +61,7 @@ footer-tiktok = TikTok
 
 ## Legal links
 
-footer-websites-privacy-notice = Σημείωση απορρήτου ιστοτόπου
+footer-websites-privacy-notice = Δήλωση απορρήτου ιστοτόπου
 footer-terms-of-use = Όροι χρήσης
 footer-websites-cookie-policy = Πολιτική cookie
 footer-community-participation-guidelines = Κανόνες συμμετοχής κοινότητας
