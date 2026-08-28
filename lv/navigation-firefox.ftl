@@ -6,3 +6,4 @@
 ## Resources
 
 navigation-add-ons = Papildinājumi
+navigation-all-downloads = Visas lejupielādes
