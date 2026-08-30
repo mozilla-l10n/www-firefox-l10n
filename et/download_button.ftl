@@ -20,3 +20,10 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name
 download-button-firefox-privacy = { -brand-name-firefox }i privaatsus
 download-button-firefox-privacy-notice = { -brand-name-firefox }i privaatsusteade
 download-button-download = Laadi alla
+
+## Linux
+
+download-button-linux-32-v2 = Laadi alla 32-bitisele Linuxile
+download-button-linux-64-v2 = Laadi alla 64-bitisele Linuxile
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Hangi see Microsoftilt

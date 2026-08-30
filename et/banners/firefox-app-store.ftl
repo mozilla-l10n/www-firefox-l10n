@@ -7,3 +7,5 @@
 
 banner-firefox-app-store-free-google-play = Tasuta { -brand-name-google-play } poes
 banner-firefox-app-store-free-app-store = Tasuta { -brand-name-app-store } poes
+# An accessible label used to describe the purpose of the page element.
+banner-firefox-app-store-label = Rakenduste poest allalaadimine

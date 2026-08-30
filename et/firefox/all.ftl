@@ -9,14 +9,23 @@ firefox-all-choose-language = Jätkamiseks vali keel
 firefox-all-change-browser = Vali teine toode
 firefox-all-change-platform = Vali teine platvorm
 firefox-all-change-language = Vali teine keel
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Vali allolevast loendist
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Hangi abi
+firefox-all-language-v3 = Keel
+# Obsolete string (expires: 2026-04-10)
+firefox-all-download = 4. Laadi alla:
+firefox-all-download-v2 = Laadi alla
 firefox-all-recommended = (Soovitatud)
 firefox-all-sorry-we-couldnt-find = Vabandame, me ei leidnud sinu otsitud allaalaadimist. Palun proovi uuesti või vali allalaadimine allolevast nimekirjast.
 firefox-all-the-pre-alpha-version = Alfaversioon teadlikele kasutajatele, keda huvitab krahhide jahtimine ja uute võimaluste testimine nende arendamise ajal.
 firefox-all-64-bit-installers = 64-bitised paigaldajad
 firefox-all-choose-a-64-bit-installer = 64-bitine paigaldaja vali arvutitele, millel on 64-bitine protsessor. See võimaldab neil kasutada rohkem mälu — see on eriti oluline mängudele ja teistele nõudlikumatele rakendustele.
 firefox-all-32-bit-installers = 32-bitised paigaldajad
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Laadi alla { $esr_version }
 firefox-all-check-the-system-requirements = Süsteeminõuete kontrollimine
 firefox-all-release-notes = Väljalaskemärkmed
 firefox-all-source-code = Lähtekood
@@ -43,3 +52,4 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-download-esr-115 = Laadi alla ESR 115

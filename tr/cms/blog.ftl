@@ -11,3 +11,5 @@ blog-back = Geri dön
 blog-related-articles = İlgili yazılar
 blog-pagination-label = Sayfalandırma
 blog-clear-topic-filter = Konu filtresini temizle
+blog-last-updated = Son güncelleme: { $date }
+blog-byline = Yazı: { $authors }
