@@ -127,4 +127,4 @@
 -brand-name-youtube = YouTube
 -brand-name-chromebook = Chromebook
 # Enterprise program name
--brand-name-firefox-professional-support = Apoio profissional do Firefox
+-brand-name-firefox-professional-support = Suporte Profissional do Firefox
