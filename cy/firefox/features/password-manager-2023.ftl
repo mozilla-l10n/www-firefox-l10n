@@ -9,7 +9,7 @@
 password-manager-free-password-manager = Rheolwr cyfrinair am ddim
 # HTML page description
 password-manager-firefox-password-manager-saves-all = Mae Rheolwr Cyfrineiriau { -brand-name-firefox } yn cadw'ch holl gyfrineiriau mewn un lle er mwyn i chi allu mewngofnodi'n awtomatig i wefannau, neu adfer cyfrineiriau sydd wedi'u cadw.
-password-manager-firefox-securely-stores-your = Mae { -brand-name-firefox } yn storio'ch enwau defnyddwyr a'ch cyfrineiriau ar gyfer mynd i wefannau'n ddiogel, yn eu llenwi'n awtomatig i chi y tro nesaf y byddwch yn ymweld â gwefan, ac yn gadael i chi reoli'ch mewngofnodion wedi'u cadw gyda'i nodwedd rheoli cyfrinair mewnol.
+password-manager-firefox-securely-stores-your = Mae { -brand-name-firefox } yn cadw'ch enwau defnyddwyr a'ch cyfrineiriau ar gyfer mynd i wefannau'n ddiogel, yn eu llenwi'n awtomatig i chi y tro nesaf y byddwch yn ymweld â gwefan, ac yn gadael i chi reoli'ch mewngofnodion wedi'u cadw gyda'i nodwedd rheoli cyfrinair mewnol.
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Gyda <a { $fxa }>chyfrif am ddim { -brand-name-mozilla-account }</a> gallwch gydweddu'ch cyfrineiriau'n ddiogel ar draws eich holl ddyfeisiau. Gallwch hefyd gael mynediad at holl gynnyrch eraill { -brand-name-mozilla } sy'n parchu'ch preifatrwydd.

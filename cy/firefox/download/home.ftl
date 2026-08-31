@@ -8,7 +8,7 @@
 
 ## Intro
 
-firefox-home-take-control = Cymerwch reolaeth o'ch rhyngrwyd
+firefox-home-take-control = Cymryd rheolaeth o'ch rhyngrwyd chi
 firefox-home-go-online = Ewch ar-lein gyda llai o darfu, sŵn a straen. Rydyn ni'n chwa o awyr iach.
 firefox-home-set-firefox-as = Gosod { -brand-name-firefox } fel eich arferol.
 
