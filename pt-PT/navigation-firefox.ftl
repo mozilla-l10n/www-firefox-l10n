@@ -41,10 +41,10 @@ navigation-blog = Blogue
 navigation-newsletter = Newsletter
 navigation-compare = Comparar
 navigation-podcast = Podcast
-navigation-data-protection = Proteção de dados
+navigation-data-protection = Proteção de Dados
 navigation-protection = Proteção
 navigation-control = Controlo
-navigation-focus = Focus
+navigation-focus = Foco
 
 ## Download
 
