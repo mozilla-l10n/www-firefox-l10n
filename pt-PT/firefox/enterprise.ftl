@@ -6,19 +6,19 @@
 ### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 # Page title
-firefox-enterprise-use-firefox-esr-enterprise-browser = Utilize o { -brand-name-firefox } ou { -brand-name-esr } como o seu navegador empresarial para segurança em escala
+firefox-enterprise-use-firefox-esr-enterprise-browser = Use o { -brand-name-firefox } ou { -brand-name-esr } como o seu navegador empresarial para segurança em escala
 # Page description
 firefox-enterprise-open-source-browser-with-enterprise-security = O { -brand-name-firefox } é o navegador de código aberto com segurança, privacidade e privacidade de nível empresarial. Use { -brand-name-firefox } para as funcionalidades mais recentes ou { -brand-name-esr } para estabilidade a longo prazo.
 firefox-enterprise-brand-name = { -brand-name-enterprise }
-firefox-enterprise-use-as-your-enterprise-browser = Utilize o { -brand-name-firefox } como o seu navegador empresarial
-firefox-enterprise-secure-at-scale = O { -brand-name-firefox } fornece navegação segura, flexível e focada na privacidade em grande escala. Com políticas empresariais em { -brand-name-firefox } ou { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }), as organizações obtêm privacidade, controlo e transparência num navegador confiável e de código aberto.
-firefox-enterprise-protection-powered-by = Proteção de nível empresarial, suportada por { -brand-name-firefox }
+firefox-enterprise-use-as-your-enterprise-browser = Use o { -brand-name-firefox } como o seu navegador empresarial
+firefox-enterprise-secure-at-scale = O { -brand-name-firefox } fornece navegação segura, resiliente e focada na privacidade em escala. Com políticas empresariais tanto no { -brand-name-firefox } como no { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }), as organizações obtêm privacidade, controlo, e transparência num navegador confiável, e de código aberto.
+firefox-enterprise-protection-powered-by = Proteção de nível empresarial, suportada pelo { -brand-name-firefox }
 firefox-enterprise-open-source-transparency = O { -brand-name-firefox } combina transparência de código aberto com funcionalidades de segurança avançadas e atualizações frequentes para ajudar a proteger os dados da sua organização.
 firefox-enterprise-your-browser-your-business = O seu navegador, o seu negócio
 firefox-enterprise-deploy-when-and-how-you-want = Distribua quando e como quiser
 firefox-enterprise-install-packages-policies = Com pacotes de instalação e uma ampla expansão de políticas e funcionalidades de grupo, a distribuição é mais rápida e flexível do que nunca — e muito fácil para ambientes Windows, Linux e macOS.
-firefox-enterprise-release-cycles = Ciclos de lançamentos que se adequam à sua organização
-firefox-enterprise-choose-firefox-for-features-esr-stability = Escolha { -brand-name-firefox } para as funcionalidades mais recentes e lançamentos estáveis a cada quatro semanas, ou { -brand-name-firefox-esr } para estabilidade a longo prazo, atualizações de segurança regulares e lançamentos principais anuais.
+firefox-enterprise-release-cycles = Ciclos de lançamento que se adequam à sua organização
+firefox-enterprise-choose-firefox-for-features-esr-stability = Escolha o { -brand-name-firefox } para as funcionalidades mais recentes e lançamentos estáveis a cada quatro semanas, ou { -brand-name-firefox-esr } para estabilidade a longo prazo, atualizações de segurança regulares e grandes lançamentos anuais.
 firefox-enterprise-enterprise-downloads = Transferências para o { -brand-name-enterprise }
 firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
