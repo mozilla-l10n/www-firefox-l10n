@@ -13,13 +13,13 @@ navigation-get-firefox = Obter o { -brand-name-firefox }
 
 navigation-features = Funcionalidades
 navigation-close-features-menu = Fechar menu de Funcionalidades
-navigation-top-features = Top de funcionalidades
-navigation-fingerprint-blocking = Bloqueio de identificadores digitais
-navigation-ad-tracker-blocking = Bloqueio de rastreadores de anúncios
-navigation-private-browsing = Modo de navegação privada
-navigation-password-manager = Gestor de palavras-passe gratuito
+navigation-top-features = Top de Funcionalidades
+navigation-fingerprint-blocking = Bloqueio de Identificadores Digitais
+navigation-ad-tracker-blocking = Bloqueio de Rastreadores de Anúncios
+navigation-private-browsing = Modo de Navegação Privada
+navigation-password-manager = Gestor de Palavras-passe Gratuito
 navigation-features-all = Ver todas as funcionalidades do { -brand-name-firefox }
-navigation-about-firefox-features = Sobre { -brand-name-firefox } funcionalidades
+navigation-about-firefox-features = Sobre as funcionalidades do { -brand-name-firefox }
 
 ## Resources
 
