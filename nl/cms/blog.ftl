@@ -11,3 +11,5 @@ blog-back = Terug
 blog-related-articles = Gerelateerde artikelen
 blog-pagination-label = Paginering
 blog-clear-topic-filter = Onderwerpfilter wissen
+blog-last-updated = Laatst bijgewerkt op { $date }
+blog-byline = Door { $authors }
