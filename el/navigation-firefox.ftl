@@ -8,6 +8,10 @@ navigation-landmark-label = Κύριο
 navigation-browser = Πρόγραμμα περιήγησης
 navigation-close-menu = Κλείσιμο μενού
 navigation-get-firefox = Λήψη του { -brand-name-firefox }
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = { -brand-name-firefox } για κινητές συσκευές
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = Αποκτήστε το { -brand-name-firefox } στο τηλέφωνό σας
 
 ## Features
 
