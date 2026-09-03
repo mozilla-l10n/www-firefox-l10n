@@ -8,6 +8,10 @@ navigation-landmark-label = Ana
 navigation-browser = Tarayıcı
 navigation-close-menu = Menüyü kapat
 navigation-get-firefox = { -brand-name-firefox }’u indir
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = Mobil cihazlar için { -brand-name-firefox }
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = { -brand-name-firefox }’u telefonunuza yükleyin
 
 ## Features
 
