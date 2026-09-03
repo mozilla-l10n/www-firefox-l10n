@@ -8,6 +8,10 @@ navigation-landmark-label = עיקרי
 navigation-browser = דפדפן
 navigation-close-menu = סגירת תפריט
 navigation-get-firefox = קבלת { -brand-name-firefox }
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = ‏{ -brand-name-firefox } לנייד
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = קבלת { -brand-name-firefox } לטלפון שלך
 
 ## Features
 
