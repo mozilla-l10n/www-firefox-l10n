@@ -11,3 +11,4 @@ blog-back = Wstecz
 blog-related-articles = Powiązane artykuły
 blog-pagination-label = Stronicowanie
 blog-clear-topic-filter = Wyczyść filtr tematów
+blog-last-updated = Ostatnia aktualizacja: { $date }
