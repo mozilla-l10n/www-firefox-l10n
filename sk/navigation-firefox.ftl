@@ -8,6 +8,10 @@ navigation-landmark-label = Hlavný
 navigation-browser = Prehliadač
 navigation-close-menu = Zavrieť ponuku
 navigation-get-firefox = Získajte { -brand-name-firefox }
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = { -brand-name-firefox } pre mobilné zariadenia
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = Stiahnite si { -brand-name-firefox(case: "acc") } do telefónu
 
 ## Features
 
