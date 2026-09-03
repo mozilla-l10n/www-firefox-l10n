@@ -8,6 +8,10 @@ navigation-landmark-label = Cynradd
 navigation-browser = Porwr
 navigation-close-menu = Cau'r ddewislen
 navigation-get-firefox = Cael { -brand-name-firefox }
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = { -brand-name-firefox } ar gyfer symudol
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = Cael { -brand-name-firefox } ar eich ffôn
 
 ## Features
 

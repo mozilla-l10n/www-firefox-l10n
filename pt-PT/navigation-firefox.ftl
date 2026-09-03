@@ -8,6 +8,10 @@ navigation-landmark-label = Primário
 navigation-browser = Navegador
 navigation-close-menu = Fechar menu
 navigation-get-firefox = Obter o { -brand-name-firefox }
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = { -brand-name-firefox } para dispositivos móveis
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = Obtenha o { -brand-name-firefox } no seu telemóvel
 
 ## Features
 

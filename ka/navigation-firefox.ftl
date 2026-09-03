@@ -8,6 +8,10 @@ navigation-landmark-label = ძირითადი
 navigation-browser = ბრაუზერი
 navigation-close-menu = მენიუს დახურვა
 navigation-get-firefox = გადმოწერეთ { -brand-name-firefox }
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = { -brand-name-firefox } მობილურზე
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = მიიღეთ { -brand-name-firefox } თქვენს ტელეფონზე
 
 ## Features
 

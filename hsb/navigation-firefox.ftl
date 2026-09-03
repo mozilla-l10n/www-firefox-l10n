@@ -8,6 +8,10 @@ navigation-landmark-label = Primarny
 navigation-browser = Wobhladowak
 navigation-close-menu = Meni začinić
 navigation-get-firefox = Wobstarajće sej { -brand-name-firefox }
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = { -brand-name-firefox } za mobilne graty
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = Wužiwajće { -brand-name-firefox } na swojim telefonje
 
 ## Features
 
