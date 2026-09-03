@@ -8,6 +8,10 @@ navigation-landmark-label = Primær
 navigation-browser = Nettlesar
 navigation-close-menu = Lat att meny
 navigation-get-firefox = Last ned { -brand-name-firefox }
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = { -brand-name-firefox } for mobil
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = Få { -brand-name-firefox } på telefonen din
 
 ## Features
 
