@@ -9,9 +9,9 @@ navigation-browser = Navegador
 navigation-close-menu = Cerrar el menú
 navigation-get-firefox = Conseguí { -brand-name-firefox }
 # Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
-navigation-firefox-for-mobile = { -brand-name-firefox } para móviles
+navigation-firefox-for-mobile = { -brand-name-firefox } para dispositivos móviles
 # Descriptive caption under the QR code in the button's dropdown panel.
-navigation-get-firefox-phone = Obtené { -brand-name-firefox } en tu teléfono
+navigation-get-firefox-phone = Conseguí { -brand-name-firefox } en tu teléfono
 
 ## Features
 
