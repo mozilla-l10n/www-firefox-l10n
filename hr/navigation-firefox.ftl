@@ -8,6 +8,10 @@ navigation-landmark-label = Primarni
 navigation-browser = Preglednik
 navigation-close-menu = Zatvori izbornik
 navigation-get-firefox = Preuzmi { -brand-name-firefox }
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = { -brand-name-firefox } za mobilne uređaje
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = Preuzmi { -brand-name-firefox } na svoj mobitel
 
 ## Features
 
