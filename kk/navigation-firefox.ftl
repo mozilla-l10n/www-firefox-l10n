@@ -8,6 +8,10 @@ navigation-landmark-label = Негізгі
 navigation-browser = Браузер
 navigation-close-menu = Мәзірді жабу
 navigation-get-firefox = { -brand-name-firefox } алу
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = { -brand-name-firefox } мобильді нұсқасы
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = Телефоныңызға { -brand-name-firefox } алыңыз
 
 ## Features
 
