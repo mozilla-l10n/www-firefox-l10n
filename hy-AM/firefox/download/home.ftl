@@ -37,6 +37,7 @@ firefox-home-swear-off = Խուսափեք շեղող գործոններից
 firefox-home-stay-focused = Մնացեք կենտրոնացած՝ օգտագործելով <a { $tomato_clock_attrs }>Tomato Clock</a> և <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> նման ընդլայնումները. դրանք խորհուրդ են տրվում, ինչը մեր ոսկե աստղի պես է՝ բացառիկ անվտանգության և գործառնության համար։
 firefox-home-your-stuff = Ձեր իրերը՝ ձեր բոլոր էկրաններին
 firefox-home-get-firefox-mobile = Ստացեք { -brand-name-firefox } բջջային տարբերակը, որպեսզի ձեր գաղտնաբառերը, ներդիրները և պատմությունը, ինչպես նաև գաղտնիությունն ու անվտանգությունը, որոնց վրա հույս եք դնում, ձեզ հետ լինեն՝ ուր էլ որ գնաք։
+firefox-home-privacy-built-in = Ներկառուցված գաղտնիություն
 
 ## Customization
 

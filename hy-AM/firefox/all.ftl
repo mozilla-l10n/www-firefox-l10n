@@ -21,12 +21,16 @@ firefox-all-down-arrow = Ընտրեք ստորև բերված ցանկից
 firefox-all-get-help = Օգնություն ստանալ
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Դիտարկիչ՝
+firefox-all-browser-v3 = Դիտարկիչ
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Հարթակ՝
+firefox-all-platform-v3 = Հարթակ
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Լեզու՝
+firefox-all-language-v3 = Լեզու
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Ներբեռնել՝
+firefox-all-download-v2 = Ներբեռնել
 firefox-all-desktop = Դեսքթոփ (համակարգչային)
 firefox-all-mobile = Բջջային
 firefox-all-recommended = (Խորհուրդ է տրվում)

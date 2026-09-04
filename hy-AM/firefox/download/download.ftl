@@ -35,9 +35,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Եթե տեսնում եք հուշում, որ այն հավելվածը, որը փորձում եք տեղադրել, { -brand-name-microsoft }-ի կողմից ստուգված հավելված չէ, սեղմեք «Տեղադրել միևնույն է» կամ <a { $attrs }>փոխել հավելվածի առաջարկության կարգավորումները</a>:
 firefox-new-visit-support-for-more = Ավելի մանրամասն տեղեկությունների համար այցելեք Աջակցության բաժին
 
-# Not-Required
-
-
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
@@ -46,3 +43,10 @@ firefox-new-fast = Արագ, գաղտնի և անվճար
 firefox-new-from-mozilla = { -brand-name-mozilla }-ից
 firefox-new-desc = { -brand-name-firefox-browser }-ն անվճար վեբ դիտարկիչ է՝ արագ էջերի բեռնմամբ, ավելի քիչ հիշողության օգտագործմամբ և բազմաթիվ հնարավորություններով՝ ոչ առևտրային { -brand-name-mozilla } կազմակերպության նախագիծ։
 firefox-new-download-a-different = Ներբեռնեք այլ հարթակի համար կամ այլ լեզվով
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook

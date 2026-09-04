@@ -35,6 +35,7 @@ download-a-different-build = Ներբեռնեք այլ տարբերակ
 
 download-button-linux-32-v2 = Ներբեռնել Linux 32-բիթանոցի համար
 download-button-linux-64-v2 = Ներբեռնել Linux 32-բիթանոցի համար
+download-button-linux-arm64 = Ներբեռնել Linux ARM64-ի համար
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
