@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = Ներբեռնել { -brand-name-firefox }-ը Android-ի և iOS-ի համար
 whatsnew-page-description = Դեմ դուրս եկեք այն ոլորտի, որը վաճառում է ձեր տվյալները երրորդ կողմերին: Առցանց եղե՛ք խելամիտ և ապահով՝ տեխնոլոգիայով, որը պայքարում է Ձեզ համար:

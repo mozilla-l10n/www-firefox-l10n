@@ -5,6 +5,9 @@
 navigation-firefox-home = { -brand-name-firefox } գլխավոր էջ
 # An accessible label used to describe that the role of the element is the primary website navigation.
 navigation-landmark-label = Առաջնահերթություն
+navigation-browser = Դիտարկիչ
+navigation-close-menu = Փակել ցանկը
+navigation-get-firefox = Ստացեք { -brand-name-firefox }-ը
 
 ## Features
 
@@ -26,12 +29,22 @@ navigation-desktop = Դեսքթոփ (համակարգչային)
 navigation-mobile = Բջջային
 navigation-release-notes = Թողարկման նշումներ
 navigation-support = Աջակցություն
+navigation-extensions-and-themes = Ընդլայնումներ և ոճեր
+navigation-whats-new = Ինչն է նոր
+navigation-whats-next = Ի՞նչ է հաջորդը
 navigation-add-ons = Հավելումներ
+navigation-all-downloads = Բոլոր ներբեռնումները
 navigation-learn = Սովորել
 navigation-blog = Բլոգ
+navigation-newsletter = Լրատու
 navigation-compare = Համեմատել
 navigation-podcast = Պոդկաստ
+navigation-data-protection = Տվյալների պաշտպանություն
+navigation-protection = Պաշտպանություն
+navigation-control = Վերահսկողություն
+navigation-focus = Կենտրոնացում
 
 ## Download
 
 navigation-download = Ներբեռնել
+navigation-download-firefox = Ներբեռնել { -brand-name-firefox }-ը

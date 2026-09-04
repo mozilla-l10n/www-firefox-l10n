@@ -8,6 +8,7 @@ newsletter-form-your-email-address = էլ­. փոստի հասցեն
 newsletter-form-we-are-sorry-but-there = Կներեք, բայց մեր համակարգում խնդիր առաջացավ։ Խնդրում ենք կրկին փորձել ավելի ուշ։
 newsletter-form-please-select-country = Խնդրում ենք ընտրել երկիր կամ տարածաշրջան
 newsletter-form-please-select-language = Խնդրում ենք ընտրել լեզու
+newsletter-form-button-cta = Գրանցվել
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Ընտրեք երկիր կամ տարածաշրջան
@@ -29,6 +30,8 @@ newsletter-form-sign-up-now = Բաժանորդագրվել
 newsletter-form-thanks = Շնորհակալություն:
 newsletter-form-yes = Այո
 newsletter-form-no = Ոչ
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Ուղարկում է.
 multi-newsletter-form-checkboxes-legend = Ես ուզում եմ տեղեկություններ հետևյալի մասին՝
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

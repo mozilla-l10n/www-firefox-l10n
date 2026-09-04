@@ -9,6 +9,7 @@
 footer-download = Ներբեռնել
 footer-download-auto = Ներբեռնել { -brand-name-firefox }-ը
 footer-windows = Windows
+footer-macos = macOS
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux

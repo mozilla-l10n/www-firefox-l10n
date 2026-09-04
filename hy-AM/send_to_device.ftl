@@ -7,6 +7,8 @@ send-to-device-your-download-link = Ներբեռնելու հղումը ուղա
 send-to-device-please-enter-an-email = Նշեք Ձեր էլ. փոստի հասցեն:
 send-to-device-an-error-occured = Սխալ է գրանցվել մեր համակարգում: Փորձեք ավելի ուշ:
 send-to-device-enter-your-email = Գրեք Ձեր էլ. փոստի հասցեն
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = yourname@example.com
 send-to-device-send = Ուղարկել
 send-to-device-intended-recipient-email = Էլ. նամակի ստացողը պետք է համաձայն լինի:
 send-to-device-check-your-device-email = Ստուգեք, թե արդյոք ստացել եք էլ. նամակ
