@@ -8,6 +8,10 @@ navigation-landmark-label = Primari
 navigation-browser = Navigator
 navigation-close-menu = Clauder menu
 navigation-get-firefox = Discarga { -brand-name-firefox }
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = { -brand-name-firefox } pro mobile
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = Installa { -brand-name-firefox } sur tu telephono
 
 ## Features
 
