@@ -8,6 +8,10 @@ navigation-landmark-label = 주요 항목
 navigation-browser = 브라우저
 navigation-close-menu = 메뉴 닫기
 navigation-get-firefox = { -brand-name-firefox } 다운로드
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = 모바일 용 { -brand-name-firefox }
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = 스마트폰에 { -brand-name-firefox } 설치하기
 
 ## Features
 
