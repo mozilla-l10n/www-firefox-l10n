@@ -11,4 +11,5 @@ password-manager-free-password-manager = Besplatan upravljač lozinki
 password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } upravljač lozinki čuva sve tvoje lozinke na jednom mjestu tako da se možeš automatski prijavljivati na stranice ili dohvatiti spremljene lozinke.
 password-manager-password-autofill-for-easy-logins = Automatsko ispunjavanje lozinke za jednostavnu prijavu
 password-manager-import-passwords = Uvezi lozinke
+password-manager-no-more-reusing-your-passwords = Kraj ponovnog korištenja tvojih lozinki
 password-manager-password-security-alerts = Sigurnosna upozorenja za lozinku

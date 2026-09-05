@@ -9,4 +9,5 @@ features-fast-is-firefox-the-fastest-browser = Je li { -brand-name-firefox } naj
 # HTML description
 features-fast-firefox-uses-less-memory-than = { -brand-name-firefox } koristi manje memorije od Chromea, tako da tvoji drugi programi mogu raditi najvećom brzinom.
 features-fast-browse-faster = Pregledavaj brže
+features-fast-multi-tasking-with-multiple-tabs = Multi-tasking s više kartica
 features-fast-faster-gaming = Brže igranje

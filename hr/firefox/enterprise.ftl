@@ -36,11 +36,18 @@ firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } – PKG
 firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) – 64-bit
 firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } – ARM64
 firefox-enterprise-resources = Resursi
+firefox-enterprise-release-notes-v2 = { -brand-name-enterprise } – napomene o izdanju
+# Canonical home for all enterprise deployment and administration documentation.
+firefox-enterprise-documentation = { -brand-name-firefox } { -brand-name-enterprise } – dokumentacija
+# Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
+firefox-enterprise-policy-templates = Predlošci pravila
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Napomene o izdanju
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Preuzmi { -brand-name-firefox } ili { -brand-name-firefox-esr } za <a { $firefox_all }>jedan drugi jezik ili platformu.</a>
+firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
 firefox-enterprise-contact-sales = Kontaktiraj odjel prodaje
+firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } – dokumentacija
 firefox-enterprise-support-plan = Plan podrške
