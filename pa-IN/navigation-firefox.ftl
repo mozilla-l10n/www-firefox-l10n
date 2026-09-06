@@ -8,6 +8,10 @@ navigation-landmark-label = ਪ੍ਰਾਇਮਰੀ
 navigation-browser = ਬਰਾਊਜ਼ਰ
 navigation-close-menu = ਮੇਨੂ ਨੂੰ ਬੰਦ ਕਰੋ
 navigation-get-firefox = { -brand-name-firefox } ਲਵੋ
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = ਮੋਬਾਇਲ ਲਈ { -brand-name-firefox }
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = ਆਪਣੇ ਫ਼ੋਨ ਉੱਤੇ { -brand-name-firefox } ਲਵੋ
 
 ## Features
 
