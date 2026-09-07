@@ -8,6 +8,10 @@ navigation-landmark-label = Асосӣ
 navigation-browser = Браузер
 navigation-close-menu = Пӯшидани меню
 navigation-get-firefox = «{ -brand-name-firefox }»-ро ба даст оред
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = Браузери «{ -brand-name-firefox }» барои дастгоҳи мобилӣ
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = «{ -brand-name-firefox }»-ро барои телефони мобилии худ ба даст оред
 
 ## Features
 
