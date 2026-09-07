@@ -9,4 +9,4 @@
 routing-resolver-preparing = 正在准备您的页面…
 # Link to the canonical page, used in two places: the always-present escape hatch for a
 # visitor whose redirect never happens, and the no-JavaScript fallback.
-routing-resolver-continue = 继续至此页面
+routing-resolver-continue = 继续前往此页面
