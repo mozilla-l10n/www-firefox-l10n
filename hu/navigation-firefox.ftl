@@ -11,7 +11,7 @@ navigation-get-firefox = { -brand-name-firefox } beszerzése
 # Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
 navigation-firefox-for-mobile = { -brand-name-firefox } mobilra
 # Descriptive caption under the QR code in the button's dropdown panel.
-navigation-get-firefox-phone = Szerezzen { -brand-name-firefox } a telefonjára
+navigation-get-firefox-phone = Szerezze be a { -brand-name-firefox }ot a telefonjára
 
 ## Features
 
