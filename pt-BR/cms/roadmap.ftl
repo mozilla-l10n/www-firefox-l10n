@@ -16,6 +16,7 @@ roadmap-status-exploring = Em análise
 roadmap-status-in-progress = Em andamento
 roadmap-status-testing = Em teste
 roadmap-status-coming-soon = Em breve
+roadmap-status-recently-shipped = Lançados recentemente
 
 ## Tag indicating where the feature is available
 
