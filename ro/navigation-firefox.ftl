@@ -8,6 +8,10 @@ navigation-landmark-label = Primar
 navigation-browser = Browser
 navigation-close-menu = Închide meniul
 navigation-get-firefox = Instalează { -brand-name-firefox }
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = { -brand-name-firefox } pentru dispozitive mobile
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = Descarcă { -brand-name-firefox } pe telefon
 
 ## Features
 
