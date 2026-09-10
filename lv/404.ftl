@@ -6,4 +6,5 @@
 ### URL: https://www-dev.springfield.moz.works/404/
 
 not-found-page-not-found-page-page-not-found = 404: Lapa nav atrasta
+not-found-page-sorry-we-cant-find-that-page = Atvainojamies, mēs nevaram atrast šo lapu
 not-found-page-go-back = Doties atpakaļ

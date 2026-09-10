@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/download/all/
 
+firefox-all-plat-mobile = Android un iOS
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
