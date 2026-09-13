@@ -8,6 +8,10 @@ navigation-landmark-label = Chính
 navigation-browser = Trình duyệt
 navigation-close-menu = Đóng menu
 navigation-get-firefox = Tải { -brand-name-firefox }
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = { -brand-name-firefox } dành cho di động
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = Tải { -brand-name-firefox } trên điện thoại của bạn
 
 ## Features
 
