@@ -49,7 +49,7 @@ footer-support = მხარდაჭერა
 footer-addons = დამატებები
 footer-blog = სვეტი
 # Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
-footer-merch-store = საქონლის მაღაზია
+footer-merch-store = შესაძენი ნივთები
 
 ## Links to social media
 
