@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.springfield.moz.works/download/all/
 
+firefox-all-choose-browser = Jāizvēlas pārlūks, lai turpinātu
+firefox-all-choose-platform = Jāizvēlas platforma, lai turpinātu
+firefox-all-choose-language = Jāizvēlas valoda, lai turpinātu
 firefox-all-plat-mobile = Android un iOS
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
