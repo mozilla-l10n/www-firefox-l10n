@@ -55,4 +55,4 @@ firefox-enterprise-contact-sales = Cysylltwch â'n Tîm Gwerthu
 firefox-enterprise-support-for-organizations-documentation-v2 = Dogfennaeth { -brand-name-firefox-professional-support }
 firefox-enterprise-support-for-organizations-is-v2 = Mae { -brand-name-firefox-professional-support } yn gynnig pwrpasol ar gyfer timau sydd angen brysbennu ac uwchgyfeirio materion preifat, amseroedd ymateb diffiniedig, dewisiadau datblygu personol, a chydweithio agos â thimau peirianneg a chynnyrch { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Cynllun Cefnogi
-firefox-enterprise-download-firefox-enterprise = Lawrlwytho { -brand-name-firefox-enterprise }
+firefox-enterprise-download-firefox-enterprise = Llwytho { -brand-name-firefox-enterprise } i lawr
