@@ -40,3 +40,4 @@ firefox-enterprise-contact-sales = יצירת קשר עם המכירות
 firefox-enterprise-support-for-organizations-documentation-v2 = תיעוד של { -brand-name-firefox-professional-support }
 firefox-enterprise-support-for-organizations-is-v2 = ‏{ -brand-name-firefox-professional-support } היא הצעה ייעודית לצוותים הזקוקים למיון והסלמה פרטיים של בעיות, זמני תגובה מוגדרים, אפשרויות פיתוח מותאמות אישית ושיתוף פעולה הדוק עם צוותי ההנדסה והמוצר של { -brand-name-mozilla }.
 firefox-enterprise-support-plan = תוכנית תמיכה
+firefox-enterprise-download-firefox-enterprise = הורדת { -brand-name-firefox-enterprise }
