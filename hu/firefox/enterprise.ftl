@@ -55,4 +55,4 @@ firefox-enterprise-contact-sales = Kapcsolatfelvétel az értékesítéssel
 firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } dokumentáció
 firefox-enterprise-support-for-organizations-is-v2 = A { -brand-name-firefox-professional-support } egy dedikált ajánlat azon csapatok számára, akiknek szükségük van a privát problémák rendezésére és eszkalálására, meghatározott válaszidőkre, egyéni fejlesztési lehetőségekre, és a { -brand-name-mozilla } mérnöki és termékcsapataival való szoros együttműködésre.
 firefox-enterprise-support-plan = Támogatási csomag
-firefox-enterprise-download-firefox-enterprise = { -brand-name-firefox-enterprise } letöltése
+firefox-enterprise-download-firefox-enterprise = A { -brand-name-firefox-enterprise } letöltése
