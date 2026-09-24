@@ -1,0 +1,10 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+
+### Strings for the CMS DownloadPage template (cms/download_page.html).
+### These support template-rendered UI that is not authored as CMS content.
+
+# Alt text for the QR code image inside the modal
+download-qr-code-alt = Zeskanuj ten kod QR
