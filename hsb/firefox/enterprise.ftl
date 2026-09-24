@@ -55,3 +55,4 @@ firefox-enterprise-contact-sales = Rozšěrjenski wotrjad skontaktować
 firefox-enterprise-support-for-organizations-documentation-v2 = Dokumentacija { -brand-name-firefox-professional-support }
 firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } je specialny poskitk za teamy, kotrež priwatne wobchadźenje a rozšěrjenje problemow, definowane wotmołwne časy, swójske wuwiwanske nastajenja a wuske zhromadne dźěło z techniskimi a produktowymi teamami { -brand-name-mozilla } trjebaja.
 firefox-enterprise-support-plan = Plan podpěry
+firefox-enterprise-download-firefox-enterprise = { -brand-name-firefox-enterprise } sćahnyć

@@ -55,3 +55,4 @@ firefox-enterprise-contact-sales = Contact opnemen met verkoop
 firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support }-documentatie
 firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } is een speciaal aanbod voor teams die behoefte hebben aan persoonlijke probleemtriage en escalatie, gedefinieerde reactietijden, aangepaste ontwikkelingsopties en nauwe samenwerking met de technische en productteams van { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Ondersteuningsabonnement
+firefox-enterprise-download-firefox-enterprise = Download { -brand-name-firefox-enterprise }
