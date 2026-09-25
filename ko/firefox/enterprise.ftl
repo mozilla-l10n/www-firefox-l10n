@@ -55,3 +55,4 @@ firefox-enterprise-contact-sales = 영업팀에 문의
 firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } 문서
 firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support }은 비공개 문제 분류 및 에스컬레이션, 명확한 응답 시간, 맞춤 개발 옵션, 그리고 { -brand-name-mozilla }의 엔지니어링 및 제품 팀과의 긴밀한 협업이 필요한 팀을 위한 전용 서비스입니다.
 firefox-enterprise-support-plan = 지원 플랜
+firefox-enterprise-download-firefox-enterprise = { -brand-name-firefox-enterprise } 다운로드
