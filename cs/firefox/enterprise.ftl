@@ -55,3 +55,4 @@ firefox-enterprise-contact-sales = Kontaktujte oddělení prodeje
 firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } - dokumentace
 firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } je specializovaná služba určená pro týmy, které potřebují soukromé třídění a eskalaci problémů, stanovené doby odezvy, možnosti vývoje na míru a úzkou spolupráci s technickými a produktovými týmy společnosti { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Plán podpory
+firefox-enterprise-request-early-access = Požádejte o časný přístup

@@ -55,3 +55,4 @@ firefox-enterprise-contact-sales = დაუკავშირდით გა�
 firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } ცნობარი
 firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } საგანგებო შემოთავაზებაა იმ გუნდებისთვის, რომელთაც კერძოდ ესაჭიროებათ ხარვეზების გამოსწორება და დაჩქარებული, განსაზღვრული დრო გამოხმაურებებისთვის, შემუშავების მორგებული პარამეტრები და მჭიდრო თანამშრომლობა ამწყობთა თუ წარმოების გუნდებთან { -brand-name-mozilla }-ში.
 firefox-enterprise-support-plan = მხარდაჭერის გეგმა
+firefox-enterprise-request-early-access = მოითხოვეთ ადრეული წვდომა

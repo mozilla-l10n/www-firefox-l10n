@@ -55,3 +55,4 @@ firefox-enterprise-contact-sales = 聯絡銷售團隊
 firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } 文件
 firefox-enterprise-support-for-organizations-is-v2 = 「{ -brand-name-firefox-professional-support }」是專為需要非公開的問題進行檢傷與升級處理、有明確回應時間、自訂開發選項，以及與 { -brand-name-mozilla } 的工程與產品團隊緊密合作的團隊所打造的產品。
 firefox-enterprise-support-plan = 支援方案
+firefox-enterprise-request-early-access = 申請搶先體驗
