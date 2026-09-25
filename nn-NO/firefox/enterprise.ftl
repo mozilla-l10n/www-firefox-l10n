@@ -55,3 +55,4 @@ firefox-enterprise-contact-sales = Kontakt sal
 firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } dokumentasjon
 firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } er eit dedikert tilbod for team som treng privat saksbehandling og eskalering, definerte responstider, tilpassa utviklingsmoglegheiter og tett samarbeid med ingeniør- og produktteama hos { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Støtteplan
+firefox-enterprise-download-firefox-enterprise = Last ned { -brand-name-firefox-enterprise }
