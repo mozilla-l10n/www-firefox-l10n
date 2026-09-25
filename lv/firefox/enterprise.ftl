@@ -7,4 +7,3 @@
 
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } lejupielādes
 firefox-enterprise-macos = { -brand-name-mac }
-firefox-enterprise-download-firefox-enterprise = Lejupielādēt { -brand-name-firefox-enterprise }

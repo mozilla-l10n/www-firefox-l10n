@@ -55,4 +55,3 @@ firefox-enterprise-contact-sales = 联系销售团队
 firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } 文档
 firefox-enterprise-support-for-organizations-is-v2 = “{ -brand-name-firefox-professional-support }”专为需要非公开问题会审和升级处理、明确响应时间、定制开发选项、与 { -brand-name-mozilla } 工程和产品团队紧密合作的团队提供服务。
 firefox-enterprise-support-plan = 支持计划
-firefox-enterprise-download-firefox-enterprise = 下载 { -brand-name-firefox-enterprise }
