@@ -55,3 +55,4 @@ firefox-enterprise-contact-sales = Επικοινωνία με το τμήμα �
 firefox-enterprise-support-for-organizations-documentation-v2 = Τεκμηρίωση της { -brand-name-firefox-professional-support(case: "gen") }
 firefox-enterprise-support-for-organizations-is-v2 = Η { -brand-name-firefox-professional-support } είναι μια εξειδικευμένη υπηρεσία για ομάδες που χρειάζονται ιδιωτική διαχείριση και κλιμάκωση ζητημάτων, καθορισμένους χρόνους απόκρισης, προσαρμοσμένες επιλογές ανάπτυξης και στενή συνεργασία με τις ομάδες μηχανικών και προϊόντων της { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Σχέδιο υποστήριξης
+firefox-enterprise-request-early-access = Αίτημα πρώιμης πρόσβασης
