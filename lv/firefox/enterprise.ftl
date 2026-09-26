@@ -7,3 +7,4 @@
 
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } lejupielādes
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-request-early-access = Pieprasīt agrīnu piekļuvi
