@@ -55,3 +55,4 @@ firefox-enterprise-contact-sales = Сату бөліміне хабарласу
 firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } құжаттамасы
 firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } — мәселелерді жеке сұрыптау және эскалациялау, белгіленген жауап беру уақыты, арнайы әзірлеу опциялары және { -brand-name-mozilla } компаниясының инженерлік және өнім топтарымен тығыз ынтымақтастықты қажет ететін командаларға арналған арнайы ұсыныс.
 firefox-enterprise-support-plan = Қолдау жоспары
+firefox-enterprise-request-early-access = Алдын ала қол жеткізуді сұрау
