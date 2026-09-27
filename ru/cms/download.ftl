@@ -14,4 +14,4 @@ download-scan-to-get = Отсканируйте, чтобы загрузить {
 # Alt text for the QR code image inside the modal
 download-qr-code-alt = Просканируйте этот QR-код
 # Text-link alternative to the QR code
-download-open-in-store = Откройте { -brand-name-firefox } в App Store
+download-open-in-store = Открыть { -brand-name-firefox } в App Store
