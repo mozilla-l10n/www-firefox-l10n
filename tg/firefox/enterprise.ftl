@@ -55,3 +55,4 @@ firefox-enterprise-contact-sales = Бо шуъбаи савдо дар тамо�
 firefox-enterprise-support-for-organizations-documentation-v2 = Санадҳои { -brand-name-firefox-professional-support }
 firefox-enterprise-support-for-organizations-is-v2 = «{ -brand-name-firefox-professional-support }» — ин пешниҳоди махсус барои дастаҳои корӣ мебошад, ки ба онҳо хусусиятҳои зерин лозиманд: ҳал кардани мушкилиҳои хусусӣ бо гузаронидани ташхис ва боло бардоштани сатҳи корӣ, вақтҳои муайян барои ҷавоби дастгирӣ, имкониятҳои барномарезии фармоишӣ ва ҳамкории наздик бо дастаҳои техникӣ ва дастаҳои маҳсулоти «{ -brand-name-mozilla }».
 firefox-enterprise-support-plan = Нақшаи дастгирӣ
+firefox-enterprise-request-early-access = Дархости дастрасии барвақт
