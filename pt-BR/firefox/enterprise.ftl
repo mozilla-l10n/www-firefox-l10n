@@ -48,7 +48,7 @@ firefox-enterprise-policy-templates = Modelos de diretivas
 firefox-enterprise-release-notes = Notas de atualização
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
-firefox-enterprise-download-firefox-or-esr = Baixe o { -brand-name-firefox } ou o { -brand-name-firefox-esr } para <a { $firefox_all }>outro idioma ou plataforma</a>.
+firefox-enterprise-download-firefox-or-esr = Baixar o { -brand-name-firefox } ou { -brand-name-firefox-esr } para <a { $firefox_all }>outro idioma ou plataforma</a>.
 firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
 firefox-enterprise-contact-sales = Fale com nossa equipe de vendas
 firefox-enterprise-support-for-organizations-documentation-v2 = Documentação do { -brand-name-firefox-professional-support }
