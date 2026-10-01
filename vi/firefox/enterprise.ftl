@@ -55,3 +55,4 @@ firefox-enterprise-contact-sales = Liên hệ bán hàng
 firefox-enterprise-support-for-organizations-documentation-v2 = Tài liệu { -brand-name-firefox-professional-support }
 firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } mang đến giải pháp chuyên biệt cho các đội ngũ cần quy trình xử lý sự cố riêng tư, cam kết thời gian phản hồi rõ ràng, khả năng phát triển tùy chỉnh và hợp tác trực tiếp với đội ngũ kỹ thuật cùng nhóm sản phẩm của { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Kế hoạch hỗ trợ
+firefox-enterprise-request-early-access = Yêu cầu quyền truy cập sớm
