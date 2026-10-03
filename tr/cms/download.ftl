@@ -9,5 +9,9 @@
 # Button shown to desktop visitors on the iOS download page; opens a modal
 # containing a QR code they can scan with their phone.
 download-get-it-for-mobile = Mobil cihazınıza indirin
+# Heading inside the QR code modal shown to desktop visitors
+download-scan-to-get = { -brand-name-firefox }’u mobil cihazınıza indirmek için kodu okutun
 # Alt text for the QR code image inside the modal
 download-qr-code-alt = Bu QR kodunu tarayın
+# Text-link alternative to the QR code
+download-open-in-store = { -brand-name-firefox }’u App Store’da aç
