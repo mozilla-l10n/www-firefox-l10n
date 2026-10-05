@@ -55,3 +55,4 @@ firefox-enterprise-contact-sales = Kontakt opnimme mei ferkeap
 firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support }-dokumintaasje
 firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } is in spesjaal oanbod foar teams dy’t ferlet hawwe fan persoanlik probleemûndersyk en eskalaasje, definiearre reaksjetiden, oanpaste ûntwikkelingsopsjes en nauwe gearwurking mei de technyske en produktteams fan { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Stipeabonnemint
+firefox-enterprise-request-early-access = Iere tagong oanfreegje
