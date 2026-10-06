@@ -6,7 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/download/all/
 
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox-v2 = Use o { -brand-name-firefox } em português e mais de 90 outros idiomas
+firefox-all-download-the-firefox-v2 = Baixe o { -brand-name-firefox } em português brasileiro e mais de 90 outros idiomas
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Todos merecem ter acesso à internet, seu idioma nunca deve ser um impedimento. É por isso que, com a ajuda de voluntários dedicados no mundo todo, disponibilizamos o { -brand-name-firefox } em mais de 90 idiomas.
 firefox-all-choose-browser = Escolha um navegador para continuar
@@ -36,7 +36,7 @@ firefox-all-mobile = Dispositivos móveis
 firefox-all-recommended = (recomendado)
 firefox-all-lang-multi = Vários idiomas
 firefox-all-plat-mobile = Android e iOS
-firefox-all-sorry-we-couldnt-find = Desculpe, não encontramos o que está procurando. Tente novamente, ou selecione um item na lista abaixo.
+firefox-all-sorry-we-couldnt-find = Desculpe, não encontramos o arquivo baixado que está procurando. Tente novamente, ou selecione um item na lista abaixo.
 firefox-all-the-pre-alpha-version = A versão pré-alfa, para usuários com conhecimento mais avançado que gostam de caçar erros e testar novos recursos à medida que são desenvolvidos.
 firefox-all-64-bit-installers = Instaladores de 64 bits
 firefox-all-choose-a-64-bit-installer = Escolha um instalador de 64 bits para computadores com processadores de 64 bits, que permitem alocar mais memória RAM para cada programa — particularmente importante para jogos e outras aplicações exigentes.
