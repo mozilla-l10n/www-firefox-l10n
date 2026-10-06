@@ -21,12 +21,16 @@ firefox-all-down-arrow = از فهرست زیر انتخاب کنید
 firefox-all-get-help = دریافت راهنمایی
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = ۱. مرورگر:
+firefox-all-browser-v3 = مرورگر
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = ۲. سکو:
+firefox-all-platform-v3 = سکو
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = ۳. زبان:
+firefox-all-language-v3 = زبان
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = ۴. دریافت:
+firefox-all-download-v2 = دریافت
 firefox-all-desktop = رومیزی
 firefox-all-mobile = تلفن همراه
 firefox-all-recommended = (پیشنهاد شده)
@@ -63,6 +67,10 @@ firefox-all-get-a-sneak-peek-at = قبل از انتشار، نیم نگاهی �
 firefox-all-test-your-sites-against = سایت‌های خود را در برابر ویژگی‌های جدید مرورگر { -brand-name-firefox } که به زودی منتشر خواهند شد را با ابزارهای توسعه‌ای قدرتمند و قابل انعطاف که به طور پیش فرض فعال هستند، آزمایش کنید.
 firefox-all-count-on-stability-and = روی ثبات و سهولت استفاده از مرورگر { -brand-name-firefox } برای شرکت‌ها و سازمان‌ها حساب کنید.
 firefox-all-windows-installers-for = نصاب‌های ویندوز برای IT شرکت‌ها که پیکربندی، استقرار و مدیریت مرورگر { -brand-name-firefox-browser } را ساده می‌کنند.
+firefox-all-arm64-installers = نصاب‌های آرم64/AArch64
+firefox-all-arm64-installers-optimized-v2 = نصب‌کننده‌های ARM64/AArch64 بهینه‌شده برای رایانه‌های ویندوزی و لینوکسی.
+firefox-all-testflight = برای آزمایش { -brand-name-firefox } برای iOS با TestFlight ثبت‌نام کنید
+firefox-all-product-send-link = فرستادن یک پیوند بارگیری به تلفن شما
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = برای رایانه‌هایی که دارای پردازنده‌های ۳۲ بیتی هستند - یا برای رایانه‌های قدیمی یا ضعیف‌تر، یک نصاب ۳۲ بیتی را انتخاب کنید. <a href="{ $url }">اگر مطمئن نیستید</a> که یک نصاب ۶۴ بیتی یا ۳۲ بیتی لازم دارید، توصیه می‌کنیم ۳۲ بیتی را انتخاب کنید.
@@ -78,3 +86,6 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = بارگیری ESR 115
+firefox-all-note-unsupported = توجه: اگر از ویندوز ۷، ویندوز ۸، ویندوز ۸٫۱ یا macOS نسخه‌های ۱۰٫۱۲، ۱۰٫۱۳ یا ۱۰٫۱۴ استفاده می‌کنید، برای استفاده از { -brand-name-firefox } لطفاً ESR 115 را بارگیری کنید.

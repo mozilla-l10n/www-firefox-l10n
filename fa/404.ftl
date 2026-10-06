@@ -19,3 +19,6 @@ not-found-page-download-the-firefox-browser = <a href={ $download }>بارگیر
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>کمک مالی کنید</a> به { -brand-name-mozilla-foundation } و اینترنت را از دست فناوری‌های بزرگ بازپس بگیرید.
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-foundation = به { -brand-name-mozilla-foundation } <a { $donate }>کمک مالی کنید</a> و اینترنت را از سلطهٔ شرکت‌های بزرگ فناوری پس بگیرید.

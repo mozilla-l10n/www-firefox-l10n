@@ -16,3 +16,6 @@ features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }> برای یک
 #   $privacy (url) = link to https://www.mozilla.org/privacy/
 features-sync-all-your-data-is-encrypted-on-our = تمام داده‌های شما در سرورهای ما رمزگذاری شده‌اند، بنابراین ما نمی‌توانیم آن‌ها را بخوانیم – تنها شما به آن‌ها دسترسی دارید. ما اطلاعات شما را به تبلیغ‌کنندگان نمی‌فروشیم زیرا این برخلاف <a href="{ $privacy }">تعهد ما به حفظ حریم خصوصی داده‌ها</a> است.
 features-sync-send-tabs-from-one-device-to-another = ارسال زبانه‌ها از یک دستگاه به دستگاه دیگر
+features-sync-the-send-tab-feature-in-firefox = قابلیت «ارسال زبانه» در { -brand-name-firefox } به شما امکان می‌دهد صفحه‌ها را از { -brand-name-firefox } در یک دستگاه به دستگاه‌های دیگر (مثل iPhone، iPad یا دستگاه اندرویدی) بفرستید. هنگام مرور با تلفنتان مقاله‌ای پیدا کرده‌اید که می‌خواهید وقتی پشت میزتان برگشتید بخوانید؟ یا سند مهمی از محل کار که می‌خواهید در خانه ذخیره کنید؟ شاید هم دستور پختی روی لپ‌تاپ پیدا کرده‌اید که می‌خواهید به رایانک آشپزخانه بفرستید. آن زبانه را بفرستید!
+# Used as accessible alternative text for an image
+features-sync-an-image-of-a-firefox-application = تصویر منوی برنامهٔ { -brand-name-firefox } با گزینهٔ برجسته‌شدهٔ «ارسال زبانه به دستگاه».

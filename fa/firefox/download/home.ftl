@@ -37,6 +37,9 @@ firefox-home-swear-off = از حواس‌پرتی‌ها دوری کنید
 firefox-home-stay-focused = با افزونه‌هایی مانند <a { $tomato_clock_attrs }>Tomato Clock</a> و <a { $turn_off_the_lights_attrs }>Turn Off the Lights</a> متمرکز بمانید — این‌ها توصیه‌شده هستند، که مانند ستاره طلایی ما برای امنیت و عملکرد فوق‌العاده است.
 firefox-home-your-stuff = اطلاعات شما، روی همه صفحه‌نمایش‌هایتان
 firefox-home-get-firefox-mobile = نگارش موبایل { -brand-name-firefox } را دریافت کنید تا گذرواژه‌ها، زبانه‌ها و تاریخچه — و همچنین حریم خصوصی و امنیتی که به آن اعتماد دارید — همیشه همراهتان باشد.
+firefox-home-privacy-built-in = حریم خصوصی، از پایه
+firefox-home-personal-data-not-for-sale = داده‌های شخصی شما فروشی نیست. ردیاب‌ها و کوکی‌های شخص ثالث به‌طور پیش‌فرض مسدود می‌شوند تا فقط… مرور کنید.
+firefox-home-learn-data-protection = ببینید { -brand-name-firefox } چطور از داده‌هایتان محافظت می‌کند
 
 ## Customization
 
@@ -59,10 +62,12 @@ firefox-home-firefox-was-created = { -brand-name-firefox } در سال ۱۳۸۳ 
 ## Used as accessible alternative text for images.
 
 firefox-home-firefox-on-desktop = { -brand-name-firefox } در رومیزی و موبایل.
+firefox-home-happy-toggle = کلید شاد.
 firefox-home-multiple-cursors = نشانگرهای متعدد.
 firefox-home-lots-of-open = زبانه‌های باز فراوان.
 firefox-home-shield-and-hand = سپر و دستی که از یک زبانه مرورگر محافظت می‌کند.
 firefox-home-a-human-brain = یک مغز انسان متصل به جهان.
 firefox-home-desktop-laptop-and-phone = رومیزی، لپ‌تاپ و موبایل.
+firefox-home-browser-window-with-lock = پنجرهٔ مرورگر با نمادهای قفل و سپر.
 firefox-home-firefox-in-dark = { -brand-name-firefox } در حالت تیره.
 firefox-home-firefox-on-a-desktop = { -brand-name-firefox } در یک رومیزی.

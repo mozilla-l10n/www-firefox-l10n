@@ -7,6 +7,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } مرورگر بسیار سریعی است که پیشرفته‌ترین ابزار‌های توسعه و آخرین ویژگی‌هایی مانند پشتیبانی از CSS Grid و اشکال‌زدایی چهارچوب را ارائه می‌کند
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = به نسخه جدید مرورگر محبوب خود خوش‌‌ آمدید. آخرین ویژیگی‌ها،‌کارایی سریع و ابزارهای توسعه‌‌ای که برای ساختن وب آزاد  نیاز دارید را دریافت کنید.
 firefox-developer-speak-up = صحبت کنید
 firefox-developer-feedback-makes-us = بازخوردها ما را بهتر می‌کنند. به ما بگویید چطور می‌توانیم مرورگر و ابزارهای توسعه‌دهندگان را بهبود ببخشیم.
@@ -48,6 +49,8 @@ firefox-developer-style-editor = ویرایشگر سبک
 firefox-developer-edit-and-manage = همه صفحه‌های CSSتان را در مرورگر خود ویرایش و مدیریت کنید.
 firefox-developer-learn-more-about-style = در مورد ویرایشگر سبک بیشتر بدانید
 firefox-developer-new-tools = ابزارهای جدید
+firefox-developer-inactive-css = CSS غیرفعال
+firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtools } اکنون اعلان‌های CSS را که تأثیری روی صفحه ندارند خاکستری نشان می‌دهد. وقتی نشانگر را روی نماد اطلاعات نگه دارید، پیامی کاربردی می‌بینید که توضیح می‌دهد چرا آن CSS اعمال نمی‌شود و چطور می‌توانید مشکل را برطرف کنید.
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } جدید قدرتمند است،‌ منعطف است و از همه مهم تر قابل هک شدن و تغییر است. و شامل یکی از بهترین اشکال‌زداهای JavaScript است که می‌تواند چند مرورگر را هدف بگیرد و  توسط React و React ساخته شده است.
 firefox-developer-master-css-grid = استاد شبکه‌های CSS بشوید
@@ -55,5 +58,10 @@ firefox-developer-master-innovative-features = امکانات نوآورانه
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } تنها مرورگری است که ابزارهایی مختص ساخت و طراحی شبکه‌های CSS را فراهم کرده است. این ابزارها به شما امکان می‌دهند که شبکه‌ها را تشخیص دهید، نام قسمت‌های مرتبط را ببینید، پیش‌نمایشی از تغییرات را ببینید و بیشتر.
 firefox-developer-faster-innovation = اطلاعات سریع‌تر
 firefox-developer-fonts-panel = پنل قلم‌ها
+firefox-developer-the-new-fonts-panel = تابلوی جدید قلم‌ها در { -brand-name-firefox-devtools } دسترسی سریعی به همهٔ اطلاعاتی که توسعه‌دهندگان دربارهٔ قلم‌های به‌کاررفته در یک عنصر لازم دارند فراهم می‌کند. این تابلو اطلاعات ارزشمندی مثل منبع قلم، وزن، سبک و موارد دیگر را هم نشان می‌دهد.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } به صورت خودکار بازخوردها را برای { -brand-name-mozilla } ارسال می‌کند.
 firefox-developer-download-the-firefox-browser = مرورگر { -brand-name-firefox } برای توسعه‌دهندگان را دریافت کنید
+firefox-developer-made-for-developers = مرورگری که برای توسعه‌دهندگان ساخته شده است
+firefox-developer-all-the-latest-v2 = همهٔ جدیدترین ابزارهای توسعه در نسخهٔ بتا، به‌علاوهٔ قابلیت‌هایی مثل ویرایشگر چندخطی کنسول و بازرس WebSocket.
+firefox-developer-a-separate-profile = یک <strong>نمایه و مسیر جداگانه</strong> تا بتوانید آن را به‌راحتی در کنار نسخهٔ عادی یا { -brand-name-beta } { -brand-name-firefox } اجرا کنید.
+firefox-developer-preferences-tailored = ترجیحاتی <strong>متناسب با توسعه‌دهندگان وب</strong>: اشکال‌زدایی مرورگر و اشکال‌زدایی از راه دور به‌طور پیش‌فرض فعال‌اند؛ پوستهٔ تیره و دکمهٔ نوارابزار توسعه‌دهنده هم همین‌طور.

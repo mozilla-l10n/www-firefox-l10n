@@ -9,6 +9,7 @@
 footer-download = دریافت
 footer-download-auto = دریافت { -brand-name-firefox }
 footer-windows = ویندوز
+footer-macos = macOS
 footer-ios = iOS
 footer-android = اندروید
 footer-linux = لینوکس
@@ -16,6 +17,8 @@ footer-custom-download = گزینه‌های سفارشی دریافت
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
+# Section title
+footer-latest = آخرین ساخت‌ها
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 
@@ -31,6 +34,7 @@ footer-enterprise = { -brand-name-enterprise }
 footer-community = اجتماع کاربران
 footer-contribute = مشارکت کردن
 footer-developer = توسعه دهنده
+footer-connect = ارتباط
 
 ## Links to resources
 
@@ -38,8 +42,14 @@ footer-developer = توسعه دهنده
 footer-resources = منابع
 footer-compare = مقایسه
 footer-release-notes = یادداشت‌های انتشار
+# Link to learn more, discover info about Firefox. Link points to
+# https://www-dev.springfield.moz.works/more/
+footer-learn = یادگیری
 footer-support = پشتیبانی
+footer-addons = افزودنی‌ها
 footer-blog = وبلاگ
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = فروشگاه کالا
 
 ## Links to social media
 
@@ -53,6 +63,7 @@ footer-tiktok = تیک‌تاک
 
 footer-websites-privacy-notice = نکات حفظ محرمانگی وبگاه
 footer-terms-of-use = شرایط استفاده
+footer-websites-cookie-policy = سیاست کوکی
 footer-community-participation-guidelines = راهنمای مشارکت در اجتماع
 footer-logo-trademark-licensing = مجوز علامت تجاری آرم
 
@@ -60,4 +71,10 @@ footer-logo-trademark-licensing = مجوز علامت تجاری آرم
 
 footer-language = زبان
 footer-go = برو
+footer-ask-question = از ما سؤال کنید!
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+
+footer-powdered-by = با پشتیبانی { -brand-name-mozilla }
+footer-putting-people = از سال ۱۹۹۸ مردم را بر سود مقدم دانسته‌ایم

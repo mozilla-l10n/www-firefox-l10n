@@ -35,6 +35,7 @@ download-a-different-build = دریافت ساختی متفاوت
 
 download-button-linux-32-v2 = دریافت برای گنو/لینوکس ۳۲بیت
 download-button-linux-64-v2 = دریافت برای گنو/لینوکس ۶۴بیت
+download-button-linux-arm64 = بارگیری برای لینوکس ARM64
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated

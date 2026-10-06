@@ -20,3 +20,11 @@ ui-show-less = کم تر نمایش بده
 ui-show-all = نمایش همه
 ui-hide-all = پنهان کردن همه
 ui-learn-more = بیشتر بدانید
+ui-view = نمایش
+ui-pause-animation = توقف پویانمایی
+ui-play-animation = پخش پویانمایی
+ui-edit = ویرایش
+ui-view-all = دیدن همه
+ui-more-features = قابلیت‌های بیشتر
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = تبلیغ

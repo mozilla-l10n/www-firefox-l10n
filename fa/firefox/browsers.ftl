@@ -18,6 +18,7 @@ firefox-browsers-download-for-desktop = بارگیری برای رومیزی
 firefox-browsers-windows = { -brand-name-firefox } برای { -brand-name-windows }
 firefox-browsers-mac = { -brand-name-firefox } برای { -brand-name-mac-short }
 firefox-browsers-linux = { -brand-name-firefox } برای { -brand-name-linux }
+firefox-browsers-custom = گزینه‌های سفارشی دریافت
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = دریافت حفاظت داده بی‌نظیر با چرخه‌های پشتیبانی متناسب با نیازهای شرکت شما.
 firefox-browsers-enterprise-packages = بسته‌های { -brand-name-enterprise }

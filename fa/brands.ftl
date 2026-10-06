@@ -126,3 +126,5 @@
 -brand-name-google-play = Google Play
 -brand-name-youtube = یوتیوب
 -brand-name-chromebook = کروم‌بوک
+# Enterprise program name
+-brand-name-firefox-professional-support = Firefox Professional Support
