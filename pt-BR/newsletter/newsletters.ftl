@@ -16,3 +16,7 @@ newsletter-enterprise-description-note = Nota: Sua assinatura é voluntária e p
 # Consent checkbox label in the enterprise newsletter form
 newsletter-enterprise-form-consent-v3 = Ao enviar este formulário, você permite que a { -brand-name-mozilla } entre em contato com você sobre produtos empresariais, eventos, novidades de produtos e tópicos relacionados a TI, segurança e conformidade.
 newsletter-enterprise-form-consent-details-v3 = Esses emails podem conter informações sobre o { -brand-name-firefox-enterprise }, o { -brand-name-firefox-professional-support }, webinars, eventos, novidades de produtos e atualizações de recursos relacionados a TI, segurança e conformidade. Posso revogar meu consentimento quando quiser, com efeito a partir de então.
+# Privacy notice section below the enterprise newsletter form
+newsletter-enterprise-privacy-statement = A { -brand-name-mozilla } processará as informações que você fornecer para te enviar as comunicações por email selecionadas e documentar seu consentimento. Mais informações estão disponíveis no aviso de privacidade da { -brand-name-mozilla }.
+newsletter-enterprise-privacy-link = Aviso de privacidade
+newsletter-enterprise-legal-link = Informações jurídicas
