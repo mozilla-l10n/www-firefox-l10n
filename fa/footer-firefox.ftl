@@ -31,7 +31,7 @@ footer-enterprise = { -brand-name-enterprise }
 ## Links to community groups.
 
 # Section title
-footer-community = اجتماع کاربران
+footer-community = اجتماع
 footer-contribute = مشارکت کردن
 footer-developer = توسعه دهنده
 footer-connect = ارتباط

@@ -108,7 +108,7 @@ firefox-desktop-download-learn-about-the = در زیر با مرورگر دسک�
 firefox-desktop-download-from-security-to = از امنیت گرفته تا اخبار و بازی، <a { $attrs }>برنامه افزودنی برای همه</a> وجود دارد. هر تعداد که می خواهید اضافه کنید تا زمانی که مرورگر شما آن طور که می خواهید شود.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
-firefox-desktop-download-firefox-was-created = { -brand-name-firefox } را <a { $attrs }>{ -brand-name-mozilla }</a> ساخت تا جایگزینی سریع‌تر و خصوصی‌تر برای مرورگرهایی مثل { -brand-name-ie } و امروز { -brand-name-chrome } باشد. امروز هم شرکت مأموریت‌محور ما و جامعهٔ داوطلبانمان حریم خصوصی شما را بالاتر از هر چیز دیگری قرار می‌دهند.
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } را <a { $attrs }>{ -brand-name-mozilla }</a> ساخت تا جایگزینی سریع‌تر و خصوصی‌تر برای مرورگرهایی مثل { -brand-name-ie } و امروز { -brand-name-chrome } باشد. امروز هم شرکت مأموریت‌محور ما و اجتماع داوطلبانمان حریم خصوصی شما را بالاتر از هر چیز دیگری قرار می‌دهند.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = اینترنت رشد می‌کند و تغییر می‌کند، اما { -brand-name-firefox } همچنان بر حق شما برای داشتن حریم خصوصی تمرکز دارد؛ این همیشه کار ما بوده است. دربارهٔ شیوهٔ برخورد ما با داده‌ها در <a { $attrs }>اطلاعیهٔ حریم خصوصی</a> بیشتر بدانید.
