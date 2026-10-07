@@ -8,7 +8,7 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = O { -brand-name-firefox-developer-edition } é um navegador super rápido que fornece ferramentas inovadoras e últimas funcionalidades como o suporte para a CSS Grid e depuração de frameworks
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-firefox-developer-welcome-to-your-new-favorite = Bem-vindo(a) ao seu novo navegador favorito. Obtenha as funcionalidades mais recentes, desempenho rápido, e as ferramentas de programação que precisa para construir para a web aberta.
+firefox-developer-welcome-to-your-new-favorite = Boas-vindas ao seu novo navegador favorito. Obtenha as funcionalidades mais recentes, desempenho rápido, e as ferramentas de programação que precisa para construir para a web aberta.
 firefox-developer-speak-up = Comunique
 firefox-developer-feedback-makes-us = O feedback ajuda-nos a melhorar. Diga-nos como podemos melhorar as ferramentas de navegação e de programação.
 firefox-developer-join-the-convo = Juntar-se à conversação
