@@ -8,6 +8,10 @@ navigation-landmark-label = Առաջնահերթություն
 navigation-browser = Դիտարկիչ
 navigation-close-menu = Փակել ցանկը
 navigation-get-firefox = Ստացեք { -brand-name-firefox }-ը
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = { -brand-name-firefox } բջջայինի համար
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = Ներբեռնեք { -brand-name-firefox }-ը ձեր հեռախոսի վրա
 
 ## Features
 
@@ -19,6 +23,7 @@ navigation-ad-tracker-blocking = Գովազդի հետագծիչի արգելա�
 navigation-private-browsing = Գաղտնի դիտարկման կերպ
 navigation-password-manager = Գաղտնաբառերի անվճար կառավարիչ
 navigation-features-all = Դիտել { -brand-name-firefox }-ի բոլոր հնարավորությունները
+navigation-about-firefox-features = { -brand-name-firefox }-ի հնարավորությունների մասին
 
 ## Resources
 
@@ -27,6 +32,7 @@ navigation-close-resources-menu = Փակել «Յուրահատկություն�
 navigation-product = Արտադրանք
 navigation-desktop = Դեսքթոփ (համակարգչային)
 navigation-mobile = Բջջային
+navigation-enterprise = Ձեռնարկատիրական
 navigation-release-notes = Թողարկման նշումներ
 navigation-support = Աջակցություն
 navigation-extensions-and-themes = Ընդլայնումներ և ոճեր

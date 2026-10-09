@@ -25,5 +25,6 @@ ui-pause-animation = Դադարեցնել անիմացիան
 ui-play-animation = Նվագարկել շարժումացում
 ui-edit = Խմբագրել
 ui-view-all = Դիտել բոլորը
+ui-more-features = Ավելի շատ հնարավորություններ
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Առաջխաղացում

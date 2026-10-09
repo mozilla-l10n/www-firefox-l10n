@@ -48,6 +48,8 @@ footer-learn = Սովորել
 footer-support = Աջակցում
 footer-addons = Հավելումներ
 footer-blog = Բլոգ
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = Ապրանքների խանութ
 
 ## Links to social media
 
@@ -69,6 +71,7 @@ footer-logo-trademark-licensing = Լոգո ապրանքանիշի լիցենզա
 
 footer-language = Լեզու
 footer-go = Գնալ
+footer-ask-question = Հարց տվեք մեզ:
 footer-firefox = { -brand-name-firefox }
 
 ## Mozilla branding

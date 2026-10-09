@@ -7,3 +7,6 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition }-ը արտակարգ արագ դիտարկիչ է, որը առաջարկում է մուտք առաջնային տեխնոլոգիաներին և ամենվերջին յուրահատկություններ, որոնցից է CSS ցանցի աջակցումը և կառուցվածքի վրիպազերծումը:
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-mdn-blog = { -brand-name-mdn } բլոգ
+firefox-developer-mdn-updates = Թարմացումներ
