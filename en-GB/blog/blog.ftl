@@ -6,9 +6,6 @@
 blog-all-topics = All Topics
 # Button leading to the page that lists every topic.
 blog-view-all-topics = View all topics
-# A button leading to the full list of articles, used next to a
-# section that shows only a few (for example "Latest Articles").
-blog-all-articles = All Articles
 # The heading of the page that lists all articles
 blog-all-articles-heading = All Articles
 # Link text on an article preview card, leading to the full article.
