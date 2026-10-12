@@ -6,6 +6,9 @@
 blog-all-topics = 所有主题
 # Button leading to the page that lists every topic.
 blog-view-all-topics = 查看所有主题
+# Link at the top of blog topic and article pages leading back to
+# the blog home page.
+blog-home = 博客首页
 # The heading of the page that lists all articles
 blog-all-articles-heading = 全部文章
 # Link text on an article preview card, leading to the full article.
