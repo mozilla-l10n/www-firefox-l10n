@@ -6,6 +6,9 @@
 blog-all-topics = Tüm konular
 # Button leading to the page that lists every topic.
 blog-view-all-topics = Tüm konuları göster
+# Link at the top of blog topic and article pages leading back to
+# the blog home page.
+blog-home = Blog Ana Sayfası
 # The heading of the page that lists all articles
 blog-all-articles-heading = Tüm yazılar
 # Link text on an article preview card, leading to the full article.
