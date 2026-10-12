@@ -6,6 +6,9 @@
 blog-all-topics = Alle onderwerpen
 # Button leading to the page that lists every topic.
 blog-view-all-topics = Alle onderwerpen bekijken
+# Link at the top of blog topic and article pages leading back to
+# the blog home page.
+blog-home = Startpagina blog
 # The heading of the page that lists all articles
 blog-all-articles-heading = Alle artikelen
 # Link text on an article preview card, leading to the full article.
