@@ -6,6 +6,9 @@
 blog-all-topics = Todos os tópicos
 # Button leading to the page that lists every topic.
 blog-view-all-topics = Ver todos os tópicos
+# Link at the top of blog topic and article pages leading back to
+# the blog home page.
+blog-home = Página inicial do blog
 # The heading of the page that lists all articles
 blog-all-articles-heading = Todos os artigos
 # Link text on an article preview card, leading to the full article.
