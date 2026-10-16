@@ -9,8 +9,8 @@
 
 ## Company names
 
--brand-name-apple = Apple
--brand-name-creative-commons = Creative Commons
+-brand-name-apple = অ্যাপল
+-brand-name-creative-commons = ক্রিয়েটিভ কমন্স
 -brand-name-facebook = ফেসবুক
 -brand-name-google = গুগল
 -brand-name-microsoft = মাইক্রোসফট
@@ -52,52 +52,79 @@
 -brand-name-facebook-container = ফেসবুক কন্টেইনার
 -brand-name-firefox-devtools = ফায়ারফক্স ডেভটুলস
 -brand-name-firefox-relay = ফায়ারফক্স রিলে
+-brand-name-firefox-translations = ফায়ারফক্স ট্রান্সলেশনস
+
+## Firefox products (short names)
+
+-brand-name-relay = রিলে
+
+## Firefox projects
+
+-brand-name-firefox-labs = ফায়ারফক্স ল্যাবস
 
 ## Pocket
 
--brand-name-pocket = Pocket
+-brand-name-pocket = পকেট
+
+## Fakespot
+
+-brand-name-fakespot = ফেকস্পট
 
 ## Mozilla projects
 
--brand-name-mdn-web-docs = MDN Web Docs
--brand-name-mozilla-vpn = Mozilla VPN
--brand-name-thunderbird = Thunderbird
+-brand-name-bugzilla = বাগজিলা
+-brand-name-gecko = গেকো
+-brand-name-mdn-plus = এমডিএন প্লাস
+-brand-name-mdn-web-docs = MDN ওয়েব ডক্স
+-brand-name-mozilla-monitor = মজিলা মনিটর
+-brand-name-mozilla-vpn = মজিলা ভিপিএন
+-brand-name-mozilla-account = মজিলা অ্যাকাউন্ট
+-brand-name-mozilla-accounts = মোজিলা অ্যাকাউন্টস
+-brand-name-mozilla-ai-v2 = মজিলা.এআই
+-brand-name-mozilla-ventures = মজিলা ভেঞ্চারস
+-brand-name-thunderbird = থান্ডারবার্ড
 
 ## Mozilla projects (short names)
 
--brand-name-common-voice = Common Voice
--brand-name-mdn = MDN
--brand-name-monitor = Monitor
+-brand-name-common-voice = কমন ভয়েস
+-brand-name-mdn = এমডিএন
+-brand-name-monitor = মনিটর
 
 ## Other browsers
 
--brand-name-brave = Brave
--brand-name-chrome = Chrome
--brand-name-edge = Edge
--brand-name-ie = Internet Explorer
--brand-name-opera = Opera
--brand-name-safari = Safari
+-brand-name-brave = ব্রেভ
+-brand-name-chrome = ক্রোম
+-brand-name-edge = এজ
+-brand-name-ie = ইন্টারনেট এক্সপ্লোরার
+-brand-name-opera = অপেরা
+-brand-name-safari = সাফারি
 
 ## Platforms
 
--brand-name-android = Android
--brand-name-ios = iOS
--brand-name-linux = Linux
--brand-name-mac = macOS
--brand-name-windows = Windows
+-brand-name-android = অ্যান্ড্রয়েড
+-brand-name-chromeos = ক্রোম ওএস
+-brand-name-ios = আইওএস
+-brand-name-linux = লিনাক্স
+-brand-name-mac = ম্যাকওএস
+-brand-name-mac-short = ম্যাক
+-brand-name-windows = উইন্ডোজ
 
 ## Apple products
 
--brand-name-app-store = App Store
--brand-name-ipad = iPad
--brand-name-iphone = iPhone
+-brand-name-app-store = অ্যাপ স্টোর
+-brand-name-ipad = আইপ্যাড
+-brand-name-iphone = আইফোন
+-brand-name-test-flight = টেস্টফ্লাইট
 
 ## Facebook products
 
--brand-name-instagram = Instagram
+-brand-name-instagram = ইনস্টাগ্রাম
 
 ## Google products
 
--brand-name-chromium = Chromium
--brand-name-google-play = Google Play
--brand-name-youtube = YouTube
+-brand-name-chromium = ক্রোমিয়াম
+-brand-name-google-play = গুগল প্লে
+-brand-name-youtube = ইউটিউব
+-brand-name-chromebook = ক্রোমবুক
+# Enterprise program name
+-brand-name-firefox-professional-support = ফায়ারফক্স প্রফেশনাল সহায়তা

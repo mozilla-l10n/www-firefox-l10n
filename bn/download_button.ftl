@@ -18,4 +18,21 @@ download-button-firefox-nightly-android = { -brand-name-android } এর জন�
 download-button-firefox-android = { -brand-name-android } এর জন্য <span>{ -brand-name-firefox }</span>
 download-button-firefox-ios = { -brand-name-ios } এর জন্য <span>{ -brand-name-firefox }</span>
 download-button-firefox-privacy = { -brand-name-firefox } গোপনীয়তা
+download-button-firefox-privacy-notice = { -brand-name-firefox } গোপনীয়তা বিজ্ঞপ্তি
 download-button-download = ডাউনলোড
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $os_version } এবং তার নিচের সংস্করণগুলিতে { $channel_name } আর সাপোর্ট করবে না।
+download-button-please-download-esr = { -brand-name-firefox } ব্যবহার করার জন্য অনুগ্রহ করে { -brand-name-firefox-esr } (এক্সটেন্ডেড সাপোর্ট রিলিজ) ডাউনলোড করুন।
+download-firefox-esr = { -brand-name-firefox-esr } ডাউনলোড করুন
+download-firefox-esr-32 = { -brand-name-firefox-esr } ডাউনলোড করুন ৩২-বিট
+download-firefox-esr-64 = { -brand-name-firefox-esr } ডাউনলোড করুন ৬৪-বিট
+download-a-different-build = অন্য একটি বিল্ড ডাউনলোড করুন
+
+## Linux
+
+download-button-linux-32-v2 = লিনাক্স ৩২-বিটের জন্য ডাউনলোড করুন
+download-button-linux-64-v2 = লিনাক্স ৬৪-বিটের জন্য ডাউনলোড করুন
+download-button-linux-arm64 = লিনাক্স ARM64 এর জন্য ডাউনলোড করুন
