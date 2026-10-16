@@ -36,3 +36,13 @@ download-a-different-build = অন্য একটি বিল্ড ডাউ
 download-button-linux-32-v2 = লিনাক্স ৩২-বিটের জন্য ডাউনলোড করুন
 download-button-linux-64-v2 = লিনাক্স ৬৪-বিটের জন্য ডাউনলোড করুন
 download-button-linux-arm64 = লিনাক্স ARM64 এর জন্য ডাউনলোড করুন
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = আপনি কি ডেবিয়ান, উবুন্টু বা ডেবিয়ান-ভিত্তিক কোনো ডিস্ট্রিবিউশন ব্যবহার করছেন?<br> তাহলে আপনি এর পরিবর্তে আমাদের <a { $attrs }>APT রিপোজিটরি</a> সেট আপ করতে পারেন।
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = মাইক্রোসফটের থেকে নিন
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = আপনি কীভাবে { -brand-name-firefox } খুঁজে পেয়েছেন এবং এটি { -brand-name-mozilla }-এর মার্কেটিং প্রযুক্তি অংশীদারদের সাথে ব্যবহারের বিষয়টি শেয়ার করুন। এই তথ্য কখনই বিক্রি করা হয় না বা আপনাকে বিজ্ঞাপন দেখানোর জন্য ব্যবহার করা হয় না। <a { $attrs }>আমরা কীভাবে ডাটা ব্যবহার করি তা জানুন।</a>
