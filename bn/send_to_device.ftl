@@ -7,6 +7,8 @@ send-to-device-your-download-link = আপনার ডাউনলোড ল
 send-to-device-please-enter-an-email = অনুগ্রহ করে আপনার ইমেইল ঠিকানাটি দিন।
 send-to-device-an-error-occured = আমাদের সিস্টেমে একটি ত্রুটি ঘটেছে। পরে আবার চেষ্টা করুন।
 send-to-device-enter-your-email = আপনার ইমেইল লিখুন
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = আপনারনাম@example.com
 send-to-device-send = প্রেরণ করুন
 send-to-device-intended-recipient-email = ইমেইলের প্রাপক অবশ্যই এ ব্যাপারে সম্মত হতে হবে।
 send-to-device-check-your-device-email = ইমেইলের জন্যে আপনার ডিভাইসটি দেখুন!

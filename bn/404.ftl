@@ -15,3 +15,10 @@ not-found-page-learn-about-mozilla-the-non = { -brand-name-firefox } এর ন�
 # Variables:
 #   $download (url) - link to https://www.firefox.com/
 not-found-page-download-the-firefox-browser = আপনার মোবাইল ডিভাইস বা ডেস্কটপের জন্য { -brand-name-firefox } ব্রাউজারটি <a href={ $download }>ডাউনলোড করুন</a>
+# Obsolete string (expires: 2026-06-15)
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = { -brand-name-mozilla-foundation }-কে <a { $donate }>দান করুন</a> এবং বৃহৎ প্রযুক্তি সংস্থাগুলোর হাত থেকে ইন্টারনেট পুনরুদ্ধার করুন।
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-foundation = { -brand-name-mozilla-foundation }-কে <a { $donate }>দান করুন</a> এবং বৃহৎ প্রযুক্তি সংস্থাগুলোর হাত থেকে ইন্টারনেট পুনরুদ্ধার করুন।
