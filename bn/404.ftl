@@ -6,9 +6,9 @@
 ### URL: https://www-dev.springfield.moz.works/404/
 
 not-found-page-not-found-page-page-not-found = 404: পাতাটি খুঁজে পাওয়া যায়নি
-not-found-page-sorry-we-cant-find-that-page = দুঃখিত, আমরা পাতাটি খুঁজে পাইনি
+not-found-page-sorry-we-cant-find-that-page = দুঃখিত, আমরা সেই পৃষ্ঠাটি খুঁজে পাচ্ছি না
 not-found-page-were-all-about-a-healthy-internet = আমরা সবাই একটি সুস্থ ইন্টারনেট ব্যবস্থা চাই, কিন্তু কখনো কখনো ত্রুটিপূর্ণ ইউআরএল দেখা দেয়।
-not-found-page-go-back = ফেরত যান
+not-found-page-go-back = ফিরে যান
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = { -brand-name-firefox } এর নেপথ্যে থাকা অলাভজনক প্রতিষ্ঠান { -brand-name-mozilla } সম্পর্কে <a href="{ $about }">জানুন</a>।
