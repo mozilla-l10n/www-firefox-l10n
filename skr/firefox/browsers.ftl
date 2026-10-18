@@ -7,6 +7,8 @@
 
 # HTML page title
 firefox-browsers-page-title-v2 = ڈیسک ٹاپ کیتے { -brand-name-firefox }
+# HTML page description
+firefox-browsers-page-desc-v2 = ایہہ براؤزر ڈاؤن لوڈ کرو جو تہاݙی پرائیویسی کوں پہلوں رکھیندا ہے - ڈیسک ٹاپ تے Windows, macOS یا Linux کیتے { -brand-name-firefox } گھنو۔
 firefox-browsers-main-heading-v2 = ڈیسک ٹاپ کیتے { -brand-name-firefox }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = اُوہ براؤزر حاصل کرو جہڑا تُہاݙی رازداری کوں پہلاں رکھین٘دا ہِے — اَتے <strong>ہمیشاں</strong> رکھین٘دا ہِے
@@ -16,6 +18,7 @@ firefox-browsers-download-for-desktop = ڈیسک ٹاپ کیتے ڈاؤن لوڈ
 firefox-browsers-windows = { -brand-name-windows } کیتے { -brand-name-firefox }
 firefox-browsers-mac = { -brand-name-mac-short } کیتے { -brand-name-firefox }
 firefox-browsers-linux = { -brand-name-linux } کیتے { -brand-name-firefox }
+firefox-browsers-custom = کسٹم ڈاؤن لوڈ آپشنز
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = اپݨی کمپنی دیاں لوڑاں دے مطابق بݨائے ڳئے سپوٹ چکراں دے نال بے مثال ڈیٹا تحفظ حاصل کرو۔
 firefox-browsers-enterprise-packages = { -brand-name-enterprise } پیکیجز

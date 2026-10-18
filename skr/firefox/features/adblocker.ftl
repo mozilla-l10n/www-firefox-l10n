@@ -15,6 +15,21 @@ features-adblocker-an-ad-blocker-is-a-piece = ایڈ بلاکر سافٹ ویئ�
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = ایہ اشتہارات اُچی آواز وِچ ویڈیو اشہتارات، اینجھے اشتہارات جیڑھے ویب تے تہاݙا پیچھا کریندے ہن، ٹریکرز، تریاکل کوکیاں وغیرہ تھی سڳدے ہن جیڑھے تہاݙے براؤزر وِچ دستیاب ہن۔ <a href="{ $firefox }">{ -brand-name-firefox }</a>، مثال دے طور تے <a href="{ $addons }"> منظور شدہ ایڈ بلاکر ایڈ آنز دی ایہ تندیر ہے </a> ایں تندیر ( یا تہاݙے براؤزر کیتے منظور شدہ ایڈ بلاکرز) تے کلک کرو تے ݙیکھو جو کیڑھا تہاݙیاں لوڑاں دے مطابق ہے۔
 features-adblocker-find-the-right-ad-blocker = آپݨے کیتے ٹھیک مشہوری بلاکر لبھو
+features-adblocker-there-are-scores-of-content = اُتھاں مواد بلاک کرݨ آلے بہوں سارے ہن، پر اتھاں { -brand-name-mozilla } دے چݨے ہوئے کجھ بہترین آپشن ہن۔
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = اشتہار بلاک کرݨ آلاں وچ بہوں سارے لوکاں دی طرفوں گولڈ سٹینڈرڈ سمجھیا ونڄݨ آلا، <a { $attrs }>uBlock Origin</a> اپݨی اثر انگیزی تے کارکردگی کیتے مشہور ہے۔ ایہہ ٻہوں ودھیک کسٹمائز تھی سڳدا ہے، پر “باکس توں باہر” وی شاندار کم کریندا ہے۔
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> ہر جا اشتہار بازی کوں کند کر ڈیندا ہے۔ ایہہ ویب، سوشل میڈیا تے انہاں پریشان کرݨ آلاں پوپ اپز کوں وی بلاک کریندا ہے (پر اگر تساں صرف پوپ اپز دباؤݨ چاہندے ہو، تاں <a { $attrs2 }>Popup Blocker</a> نال تساں غلط نہ تھیسو)۔
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> ہک ٻیا بہترین انتخاب ہے جو نہ صرف اشتہار بلاک کریندا ہے بلکہ ودھیک اینٹی ٹریکنگ فائدے وی ڈیندا ہے۔
+# Variables:
+#   $attrs1 (string) - link to https://www.firefox.com/ with other attributes
+#   $attsr2 (string) - link to https://www.firefox.com/browsers/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = ایہہ ایکسٹینشنز <a { $attrs1 }>{ -brand-name-firefox } for desktop</a> تے <a { $attrs2 }>Android</a> ݙوہیں تے بہترین کم کریندے ہن۔
 features-adblocker-create-a-tracker-free = مواد بلاک کرݨ نال ٹریکر کنوں آزاد زون بݨاؤ
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

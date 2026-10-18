@@ -35,9 +35,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = جے تہاکوں ہک پرامپٹ نظر آندا ہے جیندے وِچ آکھیا ویندا ہے جو تساں جیڑھی ایپ کوں انسٹال کرݨ دی کوشش کریندے پئے ہو او { -brand-name-microsoft }۔ تصدیق شدہ ایپ کائنی، تاں "بہرحال انسٹال کرو" تے کلک کرو یا <a { $attrs }> ایپ دی تجویز دیاں ترتیباں کوں تبدیل کرو </a>۔
 firefox-new-visit-support-for-more = ٻیاں تفصیلاں کیتے سپورٹ تے ون٘ڄو
 
-# Not-Required
-
-
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
@@ -46,3 +43,10 @@ firefox-new-fast = تکھا، نجی تے مفت
 firefox-new-from-mozilla = { -brand-name-mozilla } کنوں
 firefox-new-desc = { -brand-name-firefox-browser } ہک مفت ویب براؤزر ہے جیندے وِچ ورقہ دی تکھی لوڈنگ، گھٹ میموری استعمال، تے ٻہوں ساریاں خصوصیات ہن۔ غیر منافع بخش { -brand-name-mozilla } دا ہک پروجیکٹ۔
 firefox-new-download-a-different = مخلتف پلیٹ فارم یا زبان ڈاؤن لوڈ کرو
+# Download platforms
+firefox-new-platform-windows = Windows
+firefox-new-platform-macos = macOS
+firefox-new-platform-linux = Linux
+firefox-new-platform-android = Android
+firefox-new-platform-ios = iOS
+firefox-new-platform-chromebook = Chromebook

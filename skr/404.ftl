@@ -19,3 +19,6 @@ not-found-page-download-the-firefox-browser = آپݨی موبائل ڈیوائس
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>دان کرو</a> { -brand-name-mozilla-foundation } کوں اَتے وݙّی ٹیک نال انٹرنیٹ دا وَلا دعویٰ کرو۔
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-foundation = { -brand-name-mozilla-foundation } کوں <a { $donate }>عطیہ</a> ݙیو تے بگ ٹیک توں انٹرنیٹ واپس ڳھنو۔

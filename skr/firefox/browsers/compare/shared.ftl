@@ -11,8 +11,12 @@ compare-shared-footer-cta-desc = تِکّھا، ہَولا جیہاں، رازد
 compare-shared-we-also-offer-easy = اساں سوکھاں ورتݨ آلیاں اینجھیاں خصوصیات پیش کریندے ہیں:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox }  دے کول بلٹ ان ٹولز وی ہن جیویں جو:
 # Variables
+# $pdf (url) - link to https://www.firefox.com/features/pdf-editor/
+compare-shared-edit-pdfs-on-the-go = <a { $pdf }>PDFs ایڈٹ کرو</a> اپݨے { -brand-name-firefox } براؤزر ونڈو وچ سفر دے دوران - کوئی وادھو سافٹ ویئر نہیں چاہیدا۔
+# Variables
 # $translate (url) - link to https://www.firefox.com/features/translate/
 compare-shared-translate-a-web-page = مقامی تے نجی طور تے <a { $translate }>ویب ورقے دا ترجمہ کرو</a>۔
 compare-shared-its-easy-to-switch = ایہ سوئچ کرݨ کیتے سوکھی ہے
+compare-shared-since-we-dont-have-to-make = چونکہ ساکوں حصے داراں کوں خوش نہیں رکھݨا پوندا، اساں تہاکوں <strong>خوش</strong> رکھݨ تے تہاݙی پرائیویسی تے سہولت کوں ہمیشہ پہلوں رکھݨ تے دھیان ݙے سگدے ہیں۔
 # Used as a small link to a cited source
 compare-shared-source = ماخذ

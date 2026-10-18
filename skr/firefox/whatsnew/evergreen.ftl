@@ -5,9 +5,13 @@
 
 ### URL: https://www-dev.springfield.moz.works/whatsnew/60.0/
 
+whatsnew-page-title = Android تے iOS کیتے { -brand-name-firefox } ڈاؤن لوڈ کرو
 whatsnew-page-description = ہک اینجھی صنعت دے خلاف اپݨا موقف گھنو جیڑھی تہاݙا ڈیٹا تریجھے فریق کوں ویچیندی پئی ہے۔ تہاݙے کیتے لڑݨ والی ٹیکنالوں دے نال آن لائن ہوشیار تے محفوظ رہو۔
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = تہاݙی { -brand-name-firefox } اپ ڈیٹ تھی ڳئی ہے۔
+whatsnew-download-firefox-for-your = آپݨے سمارٹ فون یا ٹیبلٹ کیتے { -brand-name-firefox } ڈاؤن لوڈ کرو۔
+# An accessible label for a QR code image
+whatsnew-qr-code-alt = ایہ کیو آر کوڈ سکین کرو
 # Variables:
 #   $url (url) - link to https://www.firefox.com/firefox/notes/
 whatsnew-release-notes = تہاݙے{ -brand-name-firefox }براؤزر وِچ نواں کیا ہے ایندے بارے ودھیک ڄاݨݨ کیتے  <a { $url }>  ریلیز نوٹس </a> پڑھو۔

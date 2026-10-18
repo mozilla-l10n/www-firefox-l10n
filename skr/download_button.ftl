@@ -35,9 +35,14 @@ download-a-different-build = ہک مختلف بلڈ ڈاؤن لوڈ کرو
 
 download-button-linux-32-v2 = لائنکس 32 بٹ کیتے ڈاؤن لوڈ کرو
 download-button-linux-64-v2 = لائنکس 64 بٹ کیتے ڈاؤن لوڈ کرو
+download-button-linux-arm64 = لینکس ARM64 کیتے ڈاؤن لوڈ کرو
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = ڈیبیان، یوبنٹو یا ڈیبیان اُتے مبنی کُئی ون٘ڈ استعمال کرین٘دے پئے ہِیوے؟<br>تُساں اِین٘دے کنوں اَن٘ج اَساݙا <a { $attrs }>اے پی ٹی ترتیب ݙے سڳدے ہِیوے</a>۔
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = ایہ مائیکروسافٹ کنوں گھنو
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = ݙسو تساں { -brand-name-firefox } کوں کیویں دریافت کیتا تے ایہہ وی کہ تساں اینکوں { -brand-name-mozilla } دے مارکیٹنگ ٹیکنالوجی شراکتداراں دے نال ورتیندے ہو۔ ایہہ ڈیٹا کݙاہیں وی ویچیا نہیں ویندا تے نہ ایہنوں تہاکوں اشتہار ݙکھاوݨ کیتے ورتیا ویندا ہے۔ <a { $attrs }>سیکھو اساں ڈیٹا کیویں ورتیندے ہاں</a>۔

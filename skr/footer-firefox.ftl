@@ -13,14 +13,19 @@ footer-macos = macOS
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
+footer-custom-download = ڈاؤن لوڈ دے خاص آپشنز
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
+# Section title
+footer-latest = تازہ ترین بِلڈز
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 
 ## Download links for enterprise versions of Firefox.
 
+# Section title
+footer-business = { -brand-name-firefox } کاروبار کیتے
 footer-enterprise = { -brand-name-enterprise }
 
 ## Links to community groups.
@@ -43,9 +48,13 @@ footer-learn = سِکھو
 footer-support = سہارا
 footer-addons = ایڈ ــ آن
 footer-blog = بلاگ
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = مرچ اسٹور
 
 ## Links to social media
 
+# Section title
+footer-follow-us = سانوں فالو کرو
 footer-instagram = Instagram
 footer-youtube = YouTube
 footer-tiktok = TikTok
@@ -54,9 +63,18 @@ footer-tiktok = TikTok
 
 footer-websites-privacy-notice = ویب سائٹ رازداری نوٹس
 footer-terms-of-use = ورتݨ شرطاں
+footer-websites-cookie-policy = کوکی پالیسی
+footer-community-participation-guidelines = کمیونٹی شرکت دے رہنما اصول
+footer-logo-trademark-licensing = لوگو ٹریڈمارک لائسنسنگ
 
 ## Language Switcher
 
 footer-language = زبان
 footer-go = ون٘ڄو
+footer-ask-question = سانوں ہک سوال پُچھو!
 footer-firefox = { -brand-name-firefox }
+
+## Mozilla branding
+
+footer-powdered-by = { -brand-name-mozilla } دی بدولت
+footer-putting-people = 1998 توں منافع توں پہلے لوک

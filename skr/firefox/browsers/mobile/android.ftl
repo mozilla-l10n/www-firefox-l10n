@@ -35,6 +35,7 @@ mobile-android-pop-videos-out = ویڈیوز کوں انہاں دیاں ویب �
 mobile-android-about-mozilla = { -brand-name-mozilla } دا تعارف
 # Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } انٹرنیٹ کوں ہک عوامی وسائل دے طور تے بݨاوݨ کیتے موجود ہے جیڑھا سبھ کیتے قابل رسائی ہے کیوں جو اساں سمجھدے ہیں جو کھلا تے مفت بند تے کنٹرول کنوں بہتر ہے۔ اساں انتخاب، شفافیت تے کنٹرول کوں فروغ ݙیوݨ کیتے { -brand-name-firefox } تے { -brand-name-pocket } جیہاں بݨتراں بݨیندے ہن۔
+mobile-android-mozilla-exists-to-v2 = { -brand-name-mozilla } ایں کیتے ہے جو انٹرنیٹ کوں ساریاں کیتے ہک عوامی وسیلہ بݨاوے، کیوں جو اساں منیندے ہیں جو کھلا تے آزاد بند تے قابو شدہ توں چنگا ہے۔ اساں { -brand-name-firefox } جیہے پروڈکٹس بݨیندے ہیں تاں جو پسند، شفافیت تے کنٹرول کوں ودھاواں۔
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = { -brand-name-android } کیتے { -brand-name-firefox } دے نال انٹرنیٹ کوں شارٹ کرٹ کرو۔
 mobile-android-see-all-your-open-tabs = { -brand-name-android } براؤزر کیتے { -brand-name-firefox } براؤزر دے نال اپݨیاں تمام کھلیاں ٹیباں، حالیہ ڳول تے من بھاوݨیاں سائٹاں سبھ کوں ہکی جاہ تے ݙیکھو۔

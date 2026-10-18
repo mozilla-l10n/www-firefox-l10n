@@ -23,5 +23,8 @@ ui-learn-more = ٻیا سِکھو
 ui-view = نظارہ
 ui-pause-animation = متحرک تصویراں کوں روکو۔
 ui-play-animation = متحرک تصویراں چلاؤ۔
+ui-edit = تبدیلی کرو
+ui-view-all = سارے ݙیکھو
+ui-more-features = مزید خصوصیات
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = پرموشن
