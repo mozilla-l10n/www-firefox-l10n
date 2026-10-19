@@ -8,6 +8,10 @@ navigation-landmark-label = Parësor
 navigation-browser = Shfletues
 navigation-close-menu = Mbylle menunë
 navigation-get-firefox = Merrni { -brand-name-firefox }-in
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = { -brand-name-firefox } për celular
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = Merreni { -brand-name-firefox } në telefonin tuaj
 
 ## Features
 
@@ -32,6 +36,8 @@ navigation-enterprise = Ndërmarrje
 navigation-release-notes = Shënime Hedhjeje Në Qarkullim
 navigation-support = Asistencë
 navigation-extensions-and-themes = Zgjerime & Tema
+navigation-whats-new = Ç’ka të Re
+navigation-whats-next = Po Më Tej?
 navigation-add-ons = Shtesa
 navigation-all-downloads = Krejt Shkarkimet
 navigation-learn = Mësoni

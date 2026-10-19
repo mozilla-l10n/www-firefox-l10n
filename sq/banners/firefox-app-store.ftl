@@ -6,7 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/ (View on an Android or iOS browser)
 
 banner-firefox-app-store-title = { -brand-name-firefox }: Shfletues Privat, i Parrezik
-banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: Shfletuesi i privatësisë
+banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: Shfletuesi me privatësi
 banner-firefox-app-store-mozilla = { -brand-name-mozilla }
 banner-firefox-app-store-free-google-play = Falas – Te { -brand-name-google-play }
 banner-firefox-app-store-free-app-store = Falas – Te { -brand-name-app-store }

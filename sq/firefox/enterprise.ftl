@@ -28,15 +28,30 @@ firefox-enterprise-select-your-download = Përzgjidhni shkarkimin tuaj
 firefox-enterprise-firefox-latest = { -brand-name-firefox } (më i riu)
 firefox-enterprise-firefox-latest-msi = { -brand-name-firefox } (më i riu) — MSI
 firefox-enterprise-firefox-latest-pkg = { -brand-name-firefox } (më i riu) — PKG
+firefox-enterprise-firefox-latest-64-bit = { -brand-name-firefox } (më i riu) — 64-bit
+firefox-enterprise-firefox-latest-arm64 = { -brand-name-firefox } (më i riu) — ARM64
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
+firefox-enterprise-firefox-esr-msi = { -brand-name-firefox-esr } — MSI
+firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } — PKG
+firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64-bit
+firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
 firefox-enterprise-resources = Burime
+firefox-enterprise-release-notes-v2 = Shënime Hedhjeje Në Qarkullim për { -brand-name-enterprise }
+# Canonical home for all enterprise deployment and administration documentation.
+firefox-enterprise-documentation = Dokumentim i { -brand-name-firefox } { -brand-name-enterprise }
+# Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
+firefox-enterprise-policy-templates = Gjedhe rregullash
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = Shënime Versioni
 # Variables:
 #   $firefox_all (url) - link to https://www.firefox.com/download/all/
 firefox-enterprise-download-firefox-or-esr = Shkarkoni { -brand-name-firefox } ose { -brand-name-firefox-esr } për <a { $firefox_all }>gjuhë ose platformë tjetër.</a>
+firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
+firefox-enterprise-early-access-is-v2 = Prova të hershme janë tanimë të hapura për programin tonë të ri të asistencës. Ndërtuar për ente që përdorin { -brand-name-firefox } për të garantuar siguri, qëndrueshmëri dhe sovranitet të dhënash, sjell asistencë private private, të qëndrueshme për instalime të përmasave të mëdha.
 firefox-enterprise-contact-sales = Lidhuni me Degën e Shitjeve
+firefox-enterprise-support-for-organizations-documentation-v2 = Dokumentim i { -brand-name-firefox-professional-support }
 firefox-enterprise-support-plan = Plan Asistence
+firefox-enterprise-request-early-access = Kërkoni Provë të Hershme

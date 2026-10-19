@@ -48,6 +48,8 @@ footer-learn = Mësoni
 footer-support = Asistencë
 footer-addons = Shtesa
 footer-blog = Blog
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = Shitore artikujsh
 
 ## Links to social media
 
