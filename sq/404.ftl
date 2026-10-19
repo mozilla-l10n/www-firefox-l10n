@@ -19,3 +19,6 @@ not-found-page-download-the-firefox-browser = <a href={ $download }>Shkarkoni</a
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Dhuroni</a> për { -brand-name-mozilla-foundation } dhe rimerrni internetin prej “big tech”-ut.
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-foundation = <a { $donate }>Dhuroni</a> për { -brand-name-mozilla-foundation } dhe rimerrni internetin prej “big tech”-ut.

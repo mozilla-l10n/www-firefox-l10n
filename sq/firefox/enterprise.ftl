@@ -20,8 +20,14 @@ firefox-enterprise-install-packages-policies = Me paketa instalimi dhe një shtr
 firefox-enterprise-release-cycles = Cikle hedhjesh në qarkullim që i përshtaten entit tuaj
 firefox-enterprise-choose-firefox-for-features-esr-stability = Zgjidhni { -brand-name-firefox }-in, për veçoritë më të reja dhe hedhjet e qëndrueshme në qarkullim çdo katër javë, ose { -brand-name-firefox-esr } për qëndrueshmëri afatgjatë, përditësime periodike sigurie dhe hedhje të rëndësishme vjetore në qarkullim.
 firefox-enterprise-enterprise-downloads = Shkarkim { -brand-name-enterprise }
+firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-linux = { -brand-name-linux }
 firefox-enterprise-select-your-download = Përzgjidhni shkarkimin tuaj
+# Standard release, updated with the latest features roughly every four weeks.
+firefox-enterprise-firefox-latest = { -brand-name-firefox } (më i riu)
+firefox-enterprise-firefox-latest-msi = { -brand-name-firefox } (më i riu) — MSI
+firefox-enterprise-firefox-latest-pkg = { -brand-name-firefox } (më i riu) — PKG
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
