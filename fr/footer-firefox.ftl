@@ -23,8 +23,10 @@ footer-nightly = { -brand-name-nightly }
 
 ## Download links for enterprise versions of Firefox.
 
-# Section title
+# Obsolete string (expires: 2026-12-19)
 footer-business = { -brand-name-firefox } pour les entreprises
+# Obsolete string (expires: 2026-12-19)
+footer-enterprise = { -brand-name-enterprise }
 
 ## Links to community groups.
 
