@@ -26,8 +26,11 @@ footer-nightly = { -brand-name-nightly }
 
 # Obsolete string (expires: 2026-12-19)
 footer-business = { -brand-name-firefox } pentru afaceri
+# Section title
+footer-for-business = Pentru firme
 # Obsolete string (expires: 2026-12-19)
 footer-enterprise = { -brand-name-enterprise }
+footer-firefox-enterprise = { -brand-name-firefox-enterprise }
 
 ## Links to community groups.
 
