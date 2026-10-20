@@ -27,7 +27,7 @@ footer-nightly = { -brand-name-nightly }
 # Obsolete string (expires: 2026-12-19)
 footer-business = { -brand-name-firefox } 商業版
 # Section title
-footer-for-business = 商業版
+footer-for-business = 針對商業用途
 # Obsolete string (expires: 2026-12-19)
 footer-enterprise = { -brand-name-enterprise }
 footer-firefox-enterprise = { -brand-name-firefox-enterprise }
