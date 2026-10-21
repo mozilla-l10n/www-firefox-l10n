@@ -60,6 +60,7 @@ footer-merch-store = Negozio ufficiale
 # Section title
 footer-follow-us = Seguici
 footer-instagram = Instagram
+footer-facebook = Facebook
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
