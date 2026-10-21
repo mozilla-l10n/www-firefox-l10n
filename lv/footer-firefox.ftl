@@ -3,6 +3,12 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
+## Download links for enterprise versions of Firefox.
+
+# Section title
+footer-for-business = Uzņēmējdarbībai
+footer-firefox-enterprise = { -brand-name-firefox-enterprise }
+
 ## Links to resources
 
 footer-addons = Papildinājumi
