@@ -60,6 +60,7 @@ footer-merch-store = Merch-butik
 # Section title
 footer-follow-us = Följ oss
 footer-instagram = Instagram
+footer-facebook = Facebook
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
