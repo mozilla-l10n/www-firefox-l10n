@@ -60,6 +60,7 @@ footer-merch-store = Ηλεκτρονικό κατάστημα
 # Section title
 footer-follow-us = Ακολουθήστε μας
 footer-instagram = Instagram
+footer-facebook = Facebook
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
