@@ -22,3 +22,4 @@ footer-privacy-notice = निजता सूचना
 footer-donate = { -brand-name-mozilla } को दान दें
 footer-donate-v2 = { -brand-name-mozilla-foundation } को दान दें
 footer-make-good-things = साथ मिलकर उम्दा चीज़ें करें
+
