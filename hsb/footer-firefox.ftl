@@ -60,6 +60,7 @@ footer-merch-store = Tworowy wobchod
 # Section title
 footer-follow-us = Slědujće nam
 footer-instagram = Instagram
+footer-facebook = Facebook
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
