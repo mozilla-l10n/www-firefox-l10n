@@ -60,6 +60,7 @@ footer-merch-store = Siop Merch
 # Section title
 footer-follow-us = Dilyn Ni
 footer-instagram = Instagram
+footer-facebook = Facebook
 footer-youtube = YouTube
 footer-tiktok = TikTok
 

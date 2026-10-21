@@ -60,6 +60,7 @@ footer-merch-store = 周邊商品商店
 # Section title
 footer-follow-us = 關注我們
 footer-instagram = Instagram
+footer-facebook = Facebook
 footer-youtube = YouTube
 footer-tiktok = TikTok
 

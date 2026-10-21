@@ -60,6 +60,7 @@ footer-merch-store = Ajándékbolt
 # Section title
 footer-follow-us = Kövessen minket
 footer-instagram = Instagram
+footer-facebook = Facebook
 footer-youtube = YouTube
 footer-tiktok = TikTok
 

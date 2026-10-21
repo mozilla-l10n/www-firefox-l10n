@@ -60,6 +60,7 @@ footer-merch-store = Obchod s reklamními předměty
 # Section title
 footer-follow-us = Sledujte nás
 footer-instagram = Instagram
+footer-facebook = Facebook
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
