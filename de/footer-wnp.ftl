@@ -22,3 +22,4 @@ footer-privacy-notice = Datenschutzhinweis
 footer-donate = Spende an { -brand-name-mozilla }
 footer-donate-v2 = Spende an { -brand-name-mozilla-foundation }
 footer-make-good-things = Zusammen gute Dinge schaffen
+
