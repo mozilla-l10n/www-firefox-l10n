@@ -60,6 +60,7 @@ footer-merch-store = Negotio official
 # Section title
 footer-follow-us = Seque nos
 footer-instagram = Instagram
+footer-facebook = Facebook
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
