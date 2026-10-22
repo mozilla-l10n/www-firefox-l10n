@@ -12,3 +12,7 @@ footer-firefox-enterprise = { -brand-name-firefox-enterprise }
 ## Links to resources
 
 footer-addons = Papildinājumi
+
+## Links to social media
+
+footer-facebook = Facebook
