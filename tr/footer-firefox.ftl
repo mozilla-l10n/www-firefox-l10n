@@ -60,6 +60,7 @@ footer-merch-store = Ürün mağazası
 # Section title
 footer-follow-us = Bizi Takip Edin
 footer-instagram = Instagram
+footer-facebook = Facebook
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
