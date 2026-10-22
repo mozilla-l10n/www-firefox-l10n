@@ -24,7 +24,7 @@ download-button-download = ডাউনলোড
 #   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
 #   $help_url (url) - link to https://support.mozilla.org/
 #   $os_version (string) - e.g. Windows 8.1, macOS 10.14
-download-button-unsupported-platform = { $os_version } এবং তার নিচের সংস্করণগুলিতে { $channel_name } আর সাপোর্ট করবে না।
+download-button-unsupported-platform = { $os_version } এবং তার নিচের সংস্করণগুলিতে { $channel_name } আর <a href="{ $help_url }">সাপোর্ট করবে না</a>।
 download-button-please-download-esr = { -brand-name-firefox } ব্যবহার করার জন্য অনুগ্রহ করে { -brand-name-firefox-esr } (এক্সটেন্ডেড সাপোর্ট রিলিজ) ডাউনলোড করুন।
 download-firefox-esr = { -brand-name-firefox-esr } ডাউনলোড করুন
 download-firefox-esr-32 = { -brand-name-firefox-esr } ডাউনলোড করুন ৩২-বিট
