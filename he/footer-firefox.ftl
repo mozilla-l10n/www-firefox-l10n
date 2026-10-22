@@ -60,6 +60,7 @@ footer-merch-store = חנות מוצרים
 # Section title
 footer-follow-us = עקבו אחרינו
 footer-instagram = Instagram
+footer-facebook = Facebook
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
