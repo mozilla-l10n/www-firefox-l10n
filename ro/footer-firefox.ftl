@@ -60,6 +60,7 @@ footer-merch-store = Magazin de produse
 # Section title
 footer-follow-us = Urmărește-ne
 footer-instagram = Instagram
+footer-facebook = Facebook
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
