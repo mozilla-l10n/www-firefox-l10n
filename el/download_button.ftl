@@ -24,8 +24,8 @@ download-button-download = Λήψη
 #   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
 #   $help_url (url) - link to https://support.mozilla.org/
 #   $os_version (string) - e.g. Windows 8.1, macOS 10.14
-download-button-unsupported-platform = Το { $channel_name } <a href="{ $help_url }">δεν υποστηρίζεται πλέον</a> στο λειτουργικό σύστημα { $os_version } και παλαιότερα.
-download-button-please-download-esr = Κάντε λήψη του { -brand-name-firefox-esr } (έκδοση εκτεταμένης υποστήριξης) για να χρησιμοποιήσετε το { -brand-name-firefox }.
+download-button-unsupported-platform = Το { $channel_name } <a href="{ $help_url }">δεν υποστηρίζεται πλέον</a> στο λειτουργικό σύστημα { $os_version } ή παλαιότερες εκδόσεις.
+download-button-please-download-esr = Κάντε λήψη του { -brand-name-firefox-esr } (έκδοση εκτεταμένης υποστήριξης) για να συνεχίσετε να χρησιμοποιείτε το { -brand-name-firefox }.
 download-firefox-esr = Λήψη του { -brand-name-firefox-esr }
 download-firefox-esr-32 = Λήψη του { -brand-name-firefox-esr } 32-bit
 download-firefox-esr-64 = Λήψη του { -brand-name-firefox-esr } 64-bit
@@ -39,10 +39,10 @@ download-button-linux-arm64 = Λήψη για Linux ARM64
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
-download-button-using-debian = Χρησιμοποιείτε το Debian, το Ubuntu ή οποιαδήποτε διανομή που βασίζεται στο Debian;<br> Μπορείτε να εγκαταστήσετε το <a { $attrs }>αποθετήριο APT</a> μας.
+download-button-using-debian = Χρησιμοποιείτε Debian, Ubuntu ή κάποια άλλη διανομή που βασίζεται στο Debian;<br> Μπορείτε εναλλακτικά να προσθέσετε το <a { $attrs }>αποθετήριο APT</a> μας.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Λήψη από τη Microsoft
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
 # “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
-download-button-share-how-you-discovered = Μοιραστείτε πώς ανακαλύψατε και πώς χρησιμοποιείτε το { -brand-name-firefox } με τους συνεργάτες τεχνολογίας μάρκετινγκ της { -brand-name-mozilla }. Αυτά τα δεδομένα δεν πωλούνται ούτε χρησιμοποιούνται για την εμφάνιση διαφημίσεων. <a { $attrs }>Μάθετε πώς χρησιμοποιούμε τα δεδομένα</a>.
+download-button-share-how-you-discovered = Κοινοποιήστε στους συνεργάτες τεχνολογίας μάρκετινγκ της { -brand-name-mozilla } πώς ανακαλύψατε το { -brand-name-firefox } και ότι συνεχίζετε να το χρησιμοποιείτε. Αυτά τα δεδομένα δεν πωλούνται ούτε χρησιμοποιούνται ποτέ για την προβολή διαφημίσεων. <a { $attrs }>Μάθετε πώς χρησιμοποιούμε τα δεδομένα</a>.

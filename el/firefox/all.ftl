@@ -6,15 +6,15 @@
 ### URL: https://www-dev.springfield.moz.works/download/all/
 
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox-v2 = Κάντε λήψη του { -brand-name-firefox } στα ελληνικά και σε περισσότερες από 90 άλλες γλώσσες
+firefox-all-download-the-firefox-v2 = Λήψη του { -brand-name-firefox } στα Ελληνικά και σε περισσότερες από 90 άλλες γλώσσες
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access-v2 = Όλοι αξίζουν πρόσβαση στο διαδίκτυο και η γλώσσα σας δεν θα πρέπει ποτέ να αποτελεί εμπόδιο. Για τον λόγο αυτό, με τη βοήθεια αφοσιωμένων εθελοντών από όλο τον κόσμο, διαθέτουμε το { -brand-name-firefox } σε πάνω από 90 γλώσσες.
+firefox-all-everyone-deserves-access-v2 = Όλοι αξίζουν να έχουν πρόσβαση στο διαδίκτυο και η γλώσσα σας δεν θα πρέπει ποτέ να αποτελεί εμπόδιο. Γι’ αυτό, με τη βοήθεια αφοσιωμένων εθελοντών από όλο τον κόσμο, διαθέτουμε το { -brand-name-firefox } σε περισσότερες από 90 γλώσσες.
 firefox-all-choose-browser = Επιλέξτε ένα πρόγραμμα περιήγησης για να συνεχίσετε
 firefox-all-choose-platform = Επιλέξτε μια πλατφόρμα για να συνεχίσετε
 firefox-all-choose-language = Επιλέξτε μια γλώσσα για να συνεχίσετε
-firefox-all-change-browser = Επιλέξτε ένα διαφορετικό προϊόν
-firefox-all-change-platform = Επιλέξτε μια διαφορετική πλατφόρμα
-firefox-all-change-language = Επιλέξτε μια διαφορετική γλώσσα
+firefox-all-change-browser = Επιλέξτε ένα άλλο προϊόν
+firefox-all-change-platform = Επιλέξτε μια άλλη πλατφόρμα
+firefox-all-change-language = Επιλέξτε μια άλλη γλώσσα
 # Used as an accessible label for an image that points down
 firefox-all-down-arrow = Επιλέξτε από την παρακάτω λίστα
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
