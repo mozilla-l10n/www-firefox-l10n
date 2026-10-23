@@ -26,8 +26,11 @@ footer-nightly = { -brand-name-nightly }
 
 # Obsolete string (expires: 2026-12-19)
 footer-business = { -brand-name-firefox } para empresas
+# Section title
+footer-for-business = Para negocios
 # Obsolete string (expires: 2026-12-19)
 footer-enterprise = { -brand-name-enterprise }
+footer-firefox-enterprise = { -brand-name-firefox-enterprise }
 
 ## Links to community groups.
 
@@ -57,6 +60,7 @@ footer-merch-store = Tienda de productos
 # Section title
 footer-follow-us = Síguenos
 footer-instagram = Instagram
+footer-facebook = Facebook
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
