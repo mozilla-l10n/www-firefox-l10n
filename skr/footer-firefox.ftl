@@ -60,6 +60,7 @@ footer-merch-store = مرچ اسٹور
 # Section title
 footer-follow-us = سانوں فالو کرو
 footer-instagram = Instagram
+footer-facebook = Facebook
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
