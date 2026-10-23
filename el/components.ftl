@@ -13,4 +13,4 @@
 block-step-card-step = Βήμα { $number }
 # Download Firefox button
 # Download Firefox button has optional "set as default" checkmark label
-block-set-as-default = Ορίστε το { -brand-name-firefox } ως το προεπιλεγμένο σας πρόγραμμα περιήγησης.
+block-set-as-default = Ορισμός του { -brand-name-firefox } ως προεπιλεγμένου προγράμματος περιήγησης.

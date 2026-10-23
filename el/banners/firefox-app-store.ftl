@@ -8,7 +8,7 @@
 banner-firefox-app-store-title = { -brand-name-firefox }: Ιδιωτικό και ασφαλές
 banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: Ιδιωτική περιήγηση
 banner-firefox-app-store-mozilla = { -brand-name-mozilla }
-banner-firefox-app-store-free-google-play = Δωρεάν – Στο { -brand-name-google-play }
-banner-firefox-app-store-free-app-store = Δωρεάν – Στο { -brand-name-app-store }
+banner-firefox-app-store-free-google-play = Δωρεάν στο { -brand-name-google-play }
+banner-firefox-app-store-free-app-store = Δωρεάν στο { -brand-name-app-store }
 # An accessible label used to describe the purpose of the page element.
 banner-firefox-app-store-label = Λήψη από το App Store

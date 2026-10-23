@@ -6,8 +6,8 @@
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
 consent-banner-fx-heading = Βοηθήστε μας να βελτιώσουμε την εμπειρία σας στο firefox.com
-consent-banner-body-v2 = Πέρα από τα απαραίτητα cookie για τη λειτουργία αυτού του ιστοτόπου, θα θέλαμε την άδειά σας για να αποθηκεύσουμε μερικά ακόμη cookie για να κατανοήσουμε καλύτερα τις ανάγκες περιήγησής σας και να βελτιώσουμε την εμπειρία σας. Μείνετε ήσυχοι: εκτιμούμε το απόρρητό σας.
-consent-banner-button-reject = Απόρριψη όλων των επιπρόσθετων cookie
-consent-banner-button-accept = Αποδοχή όλων των επιπρόσθετων cookie
+consent-banner-body-v2 = Πέρα από τα cookie που είναι απαραίτητα για τη λειτουργία αυτού του ιστοτόπου, θα θέλαμε την άδειά σας για τη χρήση επιπλέον cookie, ώστε να κατανοήσουμε καλύτερα τις ανάγκες σας και να βελτιώσουμε την εμπειρία σας. Μείνετε ήσυχοι· σεβόμαστε πάντοτε το απόρρητό σας.
+consent-banner-button-reject = Απόρριψη όλων των επιπλέον cookie
+consent-banner-button-accept = Αποδοχή όλων των επιπλέον cookie
 consent-banner-settings-link = Ρυθμίσεις cookie
 consent-banner-aria-label = Μήνυμα για cookie
