@@ -60,7 +60,7 @@ footer-merch-store = Магазин мерча
 # Section title
 footer-follow-us = Читайте нас
 footer-instagram = Instagram
-footer-facebook = Фейсбук
+footer-facebook = Facebook
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
