@@ -8,13 +8,13 @@
 # Variables:
 #   $partner (string) - a company name, e.g. Acme
 # $partner is a company name and stays in its original form. If your language changes a name’s ending after ‘from’, rephrase the sentence so the name can stay unchanged.
-partner-download-language-not-available = Toto { -brand-name-firefox } stahování ze serveru { $partner } není dostupné ve vašem jazyce. Stále si můžete stáhnout { -brand-name-firefox } pomocí tlačítka níže.
+partner-download-language-not-available = Tento { -brand-name-firefox } ke stažení od { $partner } není k dispozici ve vašem jazyce. { -brand-name-firefox } si však můžete stáhnout pomocí tlačítka níže.
 # Variables:
 #   $partner (string) - a company name, e.g. Acme
 # $partner is a company name and stays in its original form. If your language changes a name’s ending after ‘from’, rephrase the sentence so the name can stay unchanged.
-partner-download-device-not-available = Stahování za { -brand-name-firefox } ze serveru { $partner } není pro vaše zařízení dostupné. Stále si můžete stáhnout { -brand-name-firefox } pomocí tlačítka níže.
+partner-download-device-not-available = Tento { -brand-name-firefox } ke stažení od { $partner } není pro vaše zařízení k dispozici. { -brand-name-firefox } si však můžete stáhnout pomocí tlačítka níže.
 # firefox.com is a web address. Don’t translate it.
-partner-download-already-using-firefox = Již používáte { -brand-name-firefox }. Pokračujte na firefox.com a podívejte se, co je nového.
+partner-download-already-using-firefox = Již používáte { -brand-name-firefox }. Přejděte na stránku firefox.com a podívejte se, co je nového.
 # firefox.com is a web address. Don’t translate it.
 partner-download-continue = Pokračovat na firefox.com
 # Variables:
