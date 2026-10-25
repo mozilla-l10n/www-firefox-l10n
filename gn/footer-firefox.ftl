@@ -26,8 +26,11 @@ footer-nightly = { -brand-name-nightly }
 
 # Obsolete string (expires: 2026-12-19)
 footer-business = { -brand-name-firefox } mba’apohaguasúpe g̃uarã
+# Section title
+footer-for-business = Mba’apohaguasúpe g̃uarã
 # Obsolete string (expires: 2026-12-19)
 footer-enterprise = { -brand-name-enterprise }
+footer-firefox-enterprise = { -brand-name-firefox-enterprise }
 
 ## Links to community groups.
 
@@ -57,6 +60,7 @@ footer-merch-store = Merchandising ñemuha
 # Section title
 footer-follow-us = Orerapykueho
 footer-instagram = Instagram
+footer-facebook = Facebook
 footer-youtube = YouTube
 footer-tiktok = TikTok
 

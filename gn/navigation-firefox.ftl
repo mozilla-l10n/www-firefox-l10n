@@ -8,6 +8,10 @@ navigation-landmark-label = Ñepyrũgua
 navigation-browser = Kundahára
 navigation-close-menu = Emboty poravorã
 navigation-get-firefox = Erekóke { -brand-name-firefox }
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = { -brand-name-firefox } pumbyrýpe g̃uarã
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = Ereko { -brand-name-firefox } ne pumbyrýpe
 
 ## Features
 
