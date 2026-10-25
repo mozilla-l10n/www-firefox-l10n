@@ -22,6 +22,7 @@ firefox-enterprise-linux = { -brand-name-linux }
 firefox-enterprise-select-your-download = Eiporavo ne ñemboguejy
 # Standard release, updated with the latest features roughly every four weeks.
 firefox-enterprise-firefox-latest = { -brand-name-firefox } (ipaháva)
+firefox-enterprise-firefox-latest-msi = { -brand-name-firefox } (ipyahúva) — MSI
 firefox-enterprise-firefox-latest-pkg = { -brand-name-firefox } (ipaháva) — PKG
 firefox-enterprise-firefox-latest-64-bit = { -brand-name-firefox } (ipaháva) — 64-bit
 firefox-enterprise-firefox-latest-arm64 = { -brand-name-firefox } (ipaháva) — ARM64
