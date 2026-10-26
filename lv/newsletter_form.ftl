@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-newsletter-form-your-email-here = JŪSU EPASTS
+newsletter-form-your-email-here = TAVA E-PASTA ADRESE
 newsletter-form-get-firefox-news = Saņemiet { -brand-name-firefox } ziņas
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
