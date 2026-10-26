@@ -30,3 +30,5 @@ blog-feed-title = Blog { -brand-name-firefox(case: "gen") }
 # Variables:
 #   $topic (String) - the topic name, for example "Privacy & Security".
 blog-feed-topic-title = { $topic } – Blog { -brand-name-firefox(case: "gen") }
+# Description of the blog's RSS feeds, shown in feed readers.
+blog-feed-description = Wiadomości i aktualizacje z { -brand-name-firefox(case: "gen") }
