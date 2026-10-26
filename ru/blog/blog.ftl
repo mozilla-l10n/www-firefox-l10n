@@ -37,6 +37,6 @@ blog-feed-title = Блог { -brand-name-firefox }
 # Title of the RSS feed for one blog topic, shown in feed readers.
 # Variables:
 #   $topic (String) - the topic name, for example "Privacy & Security".
-blog-feed-topic-title = { $topic } – { -brand-name-firefox } Блог
+blog-feed-topic-title = { $topic } – Блог { -brand-name-firefox }
 # Description of the blog's RSS feeds, shown in feed readers.
 blog-feed-description = Новости и обновления от { -brand-name-firefox }
