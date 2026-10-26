@@ -24,3 +24,9 @@ blog-clear-topic-filter = Wyczyść filtr tematów
 #   $date (Date) - the date the article was last modified. Formatted
 #   automatically for the locale.
 blog-last-updated = Ostatnia aktualizacja: { $date }
+# Title of the blog's RSS feed, shown in feed readers.
+blog-feed-title = Blog { -brand-name-firefox(case: "gen") }
+# Title of the RSS feed for one blog topic, shown in feed readers.
+# Variables:
+#   $topic (String) - the topic name, for example "Privacy & Security".
+blog-feed-topic-title = { $topic } – Blog { -brand-name-firefox(case: "gen") }
