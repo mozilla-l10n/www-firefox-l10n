@@ -27,7 +27,7 @@ firefox-home-see-release = ریلیز نوٹس ݙیکھو۔
 ## Features
 
 firefox-home-get-the-browser = اوہ براؤزر گھنو جو تہاݙا کم پورا کرݨ وچ مدد کرے۔
-firefox-home-block-ad-trackers = انگݨی چائے بغیر اشتہار ٹریکرز کوں بند کرو۔
+firefox-home-block-ad-trackers = انڳل چاتے بغیر اشتہار ٹریکرز کوں بند کرو۔
 firefox-home-ad-trackers-make = اشتہار ٹریکرز ویب صفحے ہولی لوڈ کریندے ہن۔ { -brand-name-firefox } نال تہاکوں ایں کوں ٹھیک کرݨ کیتے سیٹنگز وچ گھسݨ دی لوڑ نہ پئے سی، کیوں جو اساں زیادہ تر ٹریکرز کوں خودکار طریقے نال بند کریندے ہیں۔
 # "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
 firefox-home-swear-off = رکاوٹاں کوں خیرباد آکھو۔
