@@ -10,6 +10,10 @@ navigation-landmark-label = プライマリ
 navigation-browser = ブラウザー
 navigation-close-menu = メニューを閉じる
 navigation-get-firefox = { -brand-name-firefox } をダウンロード
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = モバイル版 { -brand-name-firefox }
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = スマートフォンに { -brand-name-firefox } をダウンロード
 
 ## Features
 

@@ -27,6 +27,7 @@ footer-nightly = { -brand-name-nightly }
 footer-business = बिज़नेस के लिए { -brand-name-firefox }
 # Obsolete string (expires: 2026-12-19)
 footer-enterprise = { -brand-name-enterprise }
+footer-firefox-enterprise = { -brand-name-firefox-enterprise }
 
 ## Links to community groups.
 
@@ -56,6 +57,7 @@ footer-merch-store = मर्चेंडाइज स्टोर
 # Section title
 footer-follow-us = हमारा अनुसरण करें
 footer-instagram = Instagram
+footer-facebook = Facebook
 footer-youtube = YouTube
 footer-tiktok = TikTok
 

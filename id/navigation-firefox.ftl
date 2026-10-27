@@ -10,6 +10,10 @@ navigation-landmark-label = Utama
 navigation-browser = Peramban
 navigation-close-menu = Tutup menu
 navigation-get-firefox = Dapatkan { -brand-name-firefox }
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = { -brand-name-firefox } untuk Ponsel
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = Pasang { -brand-name-firefox } di Ponsel Anda
 
 ## Features
 

@@ -10,6 +10,10 @@ navigation-landmark-label = أساسي
 navigation-browser = المتصفح
 navigation-close-menu = أَغلِق القائمة
 navigation-get-firefox = احصل على { -brand-name-firefox }
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = { -brand-name-firefox } للهواتف المحمولة
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = ثبِّت متصفح { -brand-name-firefox } على هاتفك
 
 ## Features
 

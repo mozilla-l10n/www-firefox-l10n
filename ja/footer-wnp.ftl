@@ -23,3 +23,4 @@ footer-donate = { -brand-name-mozilla } にご寄付ください
 footer-donate-v2 = { -brand-name-mozilla-foundation } にご寄付ください
 footer-make-good-things = 力を合わせて良いものを作りましょう
 
+footer-follow-firefox = @{ -brand-name-firefox } をフォロー
