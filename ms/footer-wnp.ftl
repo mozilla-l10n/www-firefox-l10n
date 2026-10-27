@@ -23,3 +23,4 @@ footer-donate = Dermalah ke { -brand-name-mozilla }
 footer-donate-v2 = Dermalah ke { -brand-name-mozilla-foundation }
 footer-make-good-things = Cipta sesuatu yang bermakna bersama
 
+footer-follow-firefox = Ikuti { -brand-name-firefox }
