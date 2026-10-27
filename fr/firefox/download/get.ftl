@@ -9,3 +9,5 @@
 
 
 
+# Button text for a link to a company’s page.
+partner-download-link-learn-more = En savoir plus
