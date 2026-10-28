@@ -11,3 +11,5 @@ blog-back = إلى الخلف
 blog-related-articles = المقالات
 blog-pagination-label = ترقيم الصفحات
 blog-clear-topic-filter = إلغاء فلتر الموضوع
+blog-last-updated = آخر تحديث بتاريخ { $date }
+blog-byline = بقلم { $authors }
