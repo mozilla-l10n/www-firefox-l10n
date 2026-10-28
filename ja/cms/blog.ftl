@@ -11,3 +11,5 @@ blog-back = 戻る
 blog-related-articles = 関連記事
 blog-pagination-label = ページネーション
 blog-clear-topic-filter = トピックフィルターをクリア
+blog-last-updated = 最終更新日: { $date }
+blog-byline = By { $authors }
