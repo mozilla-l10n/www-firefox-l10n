@@ -11,3 +11,5 @@ blog-back = Retour
 blog-related-articles = Articles en lien
 blog-pagination-label = Pagination
 blog-clear-topic-filter = Supprimer le filtre des sujets
+blog-last-updated = Dernière mise à jour le { $date }
+blog-byline = Par { $authors }
