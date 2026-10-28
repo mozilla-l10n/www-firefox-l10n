@@ -66,3 +66,4 @@ firefox-enterprise-contact-sales = Hubungi Wakil Jualan
 firefox-enterprise-support-for-organizations-documentation-v2 = Dokumentasi { -brand-name-firefox-professional-support }
 firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } adalah satu tawaran yang khusus untuk organisasi yang memerlukan pengurusan dan pengagihan peribadi, tempoh respon, pilihan pembangunan tersendiri, serta kolaborasi akrab dengan jurutera dan pasukan produk daripada { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Pelan Bantuan
+firefox-enterprise-request-early-access = Minta Akses Awal
