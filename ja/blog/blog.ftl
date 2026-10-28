@@ -8,6 +8,9 @@ blog-all-topics = すべてのトピック
 # Button leading to the page that lists every topic.
 blog-view-all-topics = すべてのトピックを見る
 
+# Link at the top of blog topic and article pages leading back to
+# the blog home page.
+blog-home = ブログ ホーム
 
 # The heading of the page that lists all articles
 blog-all-articles-heading = すべての記事
@@ -29,9 +32,24 @@ blog-pagination-label = ページネーション
 # shows all articles again.
 blog-clear-topic-filter = トピックフィルターをクリア
 
+# Variables:
+#   $date (Date) - the date the article was last modified. Formatted
+#   automatically for the locale.
+blog-last-updated = 最終更新日: { $date }
 
+# Variables:
+#   $authors (String) - one or more author names, already joined into
+#   a localized list (for example "Ada Lovelace, Grace Hopper, and
+#   Alan Turing"). Can be a single name.
+blog-byline = By { $authors }
 
 # Title of the blog's RSS feed, shown in feed readers.
 blog-feed-title = { -brand-name-firefox } のブログ
 
+# Title of the RSS feed for one blog topic, shown in feed readers.
+# Variables:
+#   $topic (String) - the topic name, for example "Privacy & Security".
+blog-feed-topic-title = { $topic } – { -brand-name-firefox } ブログ
 
+# Description of the blog's RSS feeds, shown in feed readers.
+blog-feed-description = { -brand-name-firefox } からのニュースと最新情報

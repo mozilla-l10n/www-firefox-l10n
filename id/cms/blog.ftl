@@ -11,3 +11,5 @@ blog-back = Kembali
 blog-related-articles = Artikel Terkait
 blog-pagination-label = Paginasi
 blog-clear-topic-filter = Bersihkan filter topik
+blog-last-updated = Terakhir diperbarui pada { $date }
+blog-byline = Oleh { $authors }

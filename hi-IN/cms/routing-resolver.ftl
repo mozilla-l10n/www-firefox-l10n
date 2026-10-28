@@ -4,4 +4,9 @@
 
 ### User Routing — client resolver page strings.
 
+# Shown briefly while the client evaluates routing rules and redirects.
+routing-resolver-preparing = आपका पेज तैयार हो रहा है…
 
+# Link to the canonical page, used in two places: the always-present escape hatch for a
+# visitor whose redirect never happens, and the no-JavaScript fallback.
+routing-resolver-continue = पेज पर आगे बढ़ें

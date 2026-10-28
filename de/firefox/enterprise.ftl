@@ -66,3 +66,4 @@ firefox-enterprise-contact-sales = Vertrieb kontaktieren
 firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } Dokumentation
 firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } ist ein spezielles Angebot für Teams, die eine private Problembehandlung und Eskalation, definierte Reaktionszeiten und individuelle Entwicklungsoptionen benötigen, sowie eine enge Zusammenarbeit mit den Engineering- und Produktteams von { -brand-name-mozilla }.
 firefox-enterprise-support-plan = Support-Abonnement
+firefox-enterprise-request-early-access = Frühen Zugriff anfragen

@@ -11,3 +11,5 @@ blog-back = वापस जाएँ
 blog-related-articles = संबंधित लेख
 blog-pagination-label = पेज नंबरिंग
 blog-clear-topic-filter = विषय फ़िल्टर हटाएं
+blog-last-updated = पिछला अपडेट: { $date } को
+blog-byline = { $authors } द्वारा

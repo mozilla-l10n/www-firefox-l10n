@@ -66,3 +66,4 @@ firefox-enterprise-contact-sales = सेल्स से संपर्क क
 firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } डॉक्यूमेंटेशन
 firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } एक समर्पित सेवा है उन टीमों के लिए जिन्हें प्राइवेट इश्यू ट्राएज और एस्कलेशन, निर्धारित रिस्पॉन्स समय, कस्टम डेवलपमेंट विकल्प, और { -brand-name-mozilla } की इंजीनियरिंग व प्रोडक्ट टीमों के साथ निकट सहयोग की आवश्यकता होती है।
 firefox-enterprise-support-plan = सपोर्ट प्लान
+firefox-enterprise-request-early-access = अर्ली एक्सेस का अनुरोध करें

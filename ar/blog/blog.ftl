@@ -8,6 +8,9 @@ blog-all-topics = كل المواضيع
 # Button leading to the page that lists every topic.
 blog-view-all-topics = عرض جميع المواضيع
 
+# Link at the top of blog topic and article pages leading back to
+# the blog home page.
+blog-home = الصفحة الرئيسية للمدونة
 
 # The heading of the page that lists all articles
 blog-all-articles-heading = جميع المقالات
@@ -29,9 +32,24 @@ blog-pagination-label = ترقيم الصفحات
 # shows all articles again.
 blog-clear-topic-filter = إلغاء فلتر الموضوع
 
+# Variables:
+#   $date (Date) - the date the article was last modified. Formatted
+#   automatically for the locale.
+blog-last-updated = آخر تحديث بتاريخ { $date }
 
+# Variables:
+#   $authors (String) - one or more author names, already joined into
+#   a localized list (for example "Ada Lovelace, Grace Hopper, and
+#   Alan Turing"). Can be a single name.
+blog-byline = بقلم { $authors }
 
 # Title of the blog's RSS feed, shown in feed readers.
 blog-feed-title = مدونة { -brand-name-firefox }
 
+# Title of the RSS feed for one blog topic, shown in feed readers.
+# Variables:
+#   $topic (String) - the topic name, for example "Privacy & Security".
+blog-feed-topic-title = مدونة { $topic } – { -brand-name-firefox }
 
+# Description of the blog's RSS feeds, shown in feed readers.
+blog-feed-description = أخبار وتحديثات من { -brand-name-firefox }

@@ -66,3 +66,4 @@ firefox-enterprise-contact-sales = 営業にお問い合わせ
 firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } ドキュメント
 firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } は、プライベートな問題のトリアージとエスカレーション、明確な応答時間、カスタム開発オプション、{ -brand-name-mozilla } のエンジニアリングチームおよび製品チームとの緊密な連携を求めるチーム専用のサービスです。
 firefox-enterprise-support-plan = サポートプラン
+firefox-enterprise-request-early-access = 早期アクセスに申し込み

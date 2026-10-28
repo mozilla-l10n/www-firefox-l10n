@@ -8,6 +8,9 @@ blog-all-topics = Alle Themen
 # Button leading to the page that lists every topic.
 blog-view-all-topics = Alle Themen ansehen
 
+# Link at the top of blog topic and article pages leading back to
+# the blog home page.
+blog-home = Blog Home
 
 # The heading of the page that lists all articles
 blog-all-articles-heading = Alle Artikel
@@ -29,9 +32,24 @@ blog-pagination-label = Seitennummerierung
 # shows all articles again.
 blog-clear-topic-filter = Themen-Filter löschen
 
+# Variables:
+#   $date (Date) - the date the article was last modified. Formatted
+#   automatically for the locale.
+blog-last-updated = Zuletzt aktualisiert am { $date }
 
+# Variables:
+#   $authors (String) - one or more author names, already joined into
+#   a localized list (for example "Ada Lovelace, Grace Hopper, and
+#   Alan Turing"). Can be a single name.
+blog-byline = Von { $authors }
 
 # Title of the blog's RSS feed, shown in feed readers.
 blog-feed-title = Der { -brand-name-firefox } Blog
 
+# Title of the RSS feed for one blog topic, shown in feed readers.
+# Variables:
+#   $topic (String) - the topic name, for example "Privacy & Security".
+blog-feed-topic-title = { $topic } – { -brand-name-firefox }-Blog
 
+# Description of the blog's RSS feeds, shown in feed readers.
+blog-feed-description = Neuigkeiten und Updates von { -brand-name-firefox }

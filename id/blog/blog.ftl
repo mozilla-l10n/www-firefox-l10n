@@ -8,6 +8,9 @@ blog-all-topics = Semua Topik
 # Button leading to the page that lists every topic.
 blog-view-all-topics = Lihat semua topik
 
+# Link at the top of blog topic and article pages leading back to
+# the blog home page.
+blog-home = Beranda Blog
 
 # The heading of the page that lists all articles
 blog-all-articles-heading = Semua Artikel
@@ -29,9 +32,24 @@ blog-pagination-label = Paginasi
 # shows all articles again.
 blog-clear-topic-filter = Bersihkan filter topik
 
+# Variables:
+#   $date (Date) - the date the article was last modified. Formatted
+#   automatically for the locale.
+blog-last-updated = Terakhir diperbarui pada { $date }
 
+# Variables:
+#   $authors (String) - one or more author names, already joined into
+#   a localized list (for example "Ada Lovelace, Grace Hopper, and
+#   Alan Turing"). Can be a single name.
+blog-byline = Oleh { $authors }
 
 # Title of the blog's RSS feed, shown in feed readers.
 blog-feed-title = Blog { -brand-name-firefox }
 
+# Title of the RSS feed for one blog topic, shown in feed readers.
+# Variables:
+#   $topic (String) - the topic name, for example "Privacy & Security".
+blog-feed-topic-title = { $topic } – Blog { -brand-name-firefox }
 
+# Description of the blog's RSS feeds, shown in feed readers.
+blog-feed-description = Berita dan pembaruan dari { -brand-name-firefox }
