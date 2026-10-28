@@ -8,6 +8,9 @@ blog-all-topics = सभी विषय
 # Button leading to the page that lists every topic.
 blog-view-all-topics = सभी विषय देखें
 
+# Link at the top of blog topic and article pages leading back to
+# the blog home page.
+blog-home = ब्लॉग होम
 
 # The heading of the page that lists all articles
 blog-all-articles-heading = सभी लेख
@@ -29,9 +32,24 @@ blog-pagination-label = पेज नंबरिंग
 # shows all articles again.
 blog-clear-topic-filter = विषय फ़िल्टर हटाएं
 
+# Variables:
+#   $date (Date) - the date the article was last modified. Formatted
+#   automatically for the locale.
+blog-last-updated = पिछला अपडेट: { $date } को
 
+# Variables:
+#   $authors (String) - one or more author names, already joined into
+#   a localized list (for example "Ada Lovelace, Grace Hopper, and
+#   Alan Turing"). Can be a single name.
+blog-byline = { $authors } द्वारा
 
 # Title of the blog's RSS feed, shown in feed readers.
 blog-feed-title = { -brand-name-firefox } ब्लॉग
 
+# Title of the RSS feed for one blog topic, shown in feed readers.
+# Variables:
+#   $topic (String) - the topic name, for example "Privacy & Security".
+blog-feed-topic-title = { $topic } – { -brand-name-firefox } ब्लॉग
 
+# Description of the blog's RSS feeds, shown in feed readers.
+blog-feed-description = { -brand-name-firefox } से समाचार और अपडेट
