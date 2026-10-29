@@ -32,11 +32,8 @@ firefox-new-your-system-may-not = Sisteminiz { -brand-name-firefox }’un gereks
 firefox-new-windows = { -brand-name-windows }
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
-firefox-new-if-you-see-a-prompt = Yüklemeye çalıştığınız uygulamanın { -brand-name-microsoft } tarafından doğrulanmış olmadığını belirten bir ekran görürseniz "Yine de yükle"ye tıklayın veya <a { $attrs }>uygulama öneri ayarlarını değiştirin</a>.
+firefox-new-if-you-see-a-prompt = Yüklemeye çalıştığınız uygulamanın { -brand-name-microsoft } tarafından doğrulanmış olmadığını belirten bir ekran görürseniz “Yine de yükle”ye tıklayın veya <a { $attrs }>uygulama öneri ayarlarını değiştirin</a>.
 firefox-new-visit-support-for-more = Daha fazla bilgi için destek sitemize bakabilirsiniz
-
-# Not-Required
-
 
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
