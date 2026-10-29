@@ -26,8 +26,11 @@ footer-nightly = { -brand-name-nightly }
 
 # Obsolete string (expires: 2026-12-19)
 footer-business = Браузери «{ -brand-name-firefox }» барои соҳибкорӣ
+# Section title
+footer-for-business = Барои тиҷорат
 # Obsolete string (expires: 2026-12-19)
 footer-enterprise = { -brand-name-enterprise }
+footer-firefox-enterprise = { -brand-name-firefox-enterprise }
 
 ## Links to community groups.
 
@@ -57,6 +60,7 @@ footer-merch-store = Дукони тиҷоратӣ
 # Section title
 footer-follow-us = Ба мо обуна шавед
 footer-instagram = Instagram
+footer-facebook = Фейсбук
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
