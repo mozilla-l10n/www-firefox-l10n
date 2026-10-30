@@ -13,7 +13,7 @@ navigation-get-firefox = Dapatkan { -brand-name-firefox }
 # Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
 navigation-firefox-for-mobile = { -brand-name-firefox } untuk mudah alih
 # Descriptive caption under the QR code in the button's dropdown panel.
-navigation-get-firefox-phone = Dapatkan { -brand-name-firefox } pada Telefon anda
+navigation-get-firefox-phone = Dapatkan { -brand-name-firefox } pada telefon anda
 
 ## Features
 
