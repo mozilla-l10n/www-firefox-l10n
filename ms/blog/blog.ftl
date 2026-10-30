@@ -17,7 +17,7 @@ blog-all-articles-heading = Semua Artikel
 
 
 # Link text on an article preview card, leading to the full article.
-blog-read-more = Baca Lagi
+blog-read-more = Baca lagi
 
 # Heading of the article page section that lists related articles
 blog-related-articles = Artikel Berkaitan
