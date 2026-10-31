@@ -20,12 +20,17 @@ firefox-enterprise-install-packages-policies = ด้วยแพคเกจก
 firefox-enterprise-release-cycles = รอบการออกรุ่นที่เหมาะสมกับองค์กรของคุณ
 firefox-enterprise-choose-firefox-for-features-esr-stability = เลือก { -brand-name-firefox } เพื่อรับคุณลักษณะล่าสุดและการออกรุ่นเสถียรทุกสี่สัปดาห์ หรือ { -brand-name-firefox-esr } เพื่อความเสถียรในระยะยาว การอัปเดตความปลอดภัยเป็นประจำ และการอัปเดตรุ่นหลักประจำปี
 firefox-enterprise-enterprise-downloads = การดาวน์โหลด { -brand-name-enterprise }
+firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-linux = { -brand-name-linux }
 firefox-enterprise-select-your-download = เลือกการดาวน์โหลดของคุณ
+# Standard release, updated with the latest features roughly every four weeks.
+firefox-enterprise-firefox-latest = { -brand-name-firefox } (เวอร์ชันล่าสุด)
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-resources = แหล่งข้อมูล
+firefox-enterprise-release-notes-v2 = บันทึกประจำรุ่น { -brand-name-enterprise }
 # Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
 # Obsolete string (expires: 2026-08-18)
 firefox-enterprise-release-notes = บันทึกประจำรุ่น
