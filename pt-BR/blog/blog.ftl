@@ -32,3 +32,11 @@ blog-last-updated = Última atualização em { $date }
 #   a localized list (for example "Ada Lovelace, Grace Hopper, and
 #   Alan Turing"). Can be a single name.
 blog-byline = Por { $authors }
+# Title of the blog's RSS feed, shown in feed readers.
+blog-feed-title = Blog do { -brand-name-firefox }
+# Title of the RSS feed for one blog topic, shown in feed readers.
+# Variables:
+#   $topic (String) - the topic name, for example "Privacy & Security".
+blog-feed-topic-title = { $topic } – Blog do { -brand-name-firefox }
+# Description of the blog's RSS feeds, shown in feed readers.
+blog-feed-description = Notícias e novidades do { -brand-name-firefox }
