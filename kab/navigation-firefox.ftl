@@ -12,6 +12,7 @@ navigation-get-firefox = Awi { -brand-name-firefox }
 ## Features
 
 navigation-features = Timahilin
+navigation-close-features-menu = Mdel umuɣ n tmahilin
 navigation-top-features = Timahilin ifazen
 
 ## Resources
@@ -21,10 +22,14 @@ navigation-close-resources-menu = Mdel umuɣn teɣbula
 navigation-product = Afaris
 navigation-desktop = Tanarit
 navigation-mobile = Aziraz
+navigation-enterprise = Takebbanit
 navigation-release-notes = Iwenniten n lqem
 navigation-support = Tallalt
+navigation-extensions-and-themes = Isiɣzaf akked Yisental
 navigation-whats-new = D acu i d amaynut
+navigation-whats-next = D acu i d-iteddun
 navigation-add-ons = Izegrar
+navigation-all-downloads = Akk isadaren
 navigation-learn = Lmed
 navigation-blog = Ablug
 navigation-compare = Serwes
