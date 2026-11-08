@@ -60,6 +60,7 @@ footer-merch-store = Cửa hàng lưu niệm
 # Section title
 footer-follow-us = Theo dõi chúng tôi
 footer-instagram = Instagram
+footer-facebook = Facebook
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
