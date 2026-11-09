@@ -18,3 +18,4 @@ download-button-firefox-android = <span>{ -brand-name-firefox }</span> { -brand-
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name-ios } ierīcēm
 download-button-firefox-privacy = { -brand-name-firefox } Privātums
 download-button-download = Lejupielādēt
+download-button-please-download-esr = Lūgums lejupielādēt { -brand-name-firefox-esr } (pagarinātā atbalsta laidienu), lai izmantotu { -brand-name-firefox }.
