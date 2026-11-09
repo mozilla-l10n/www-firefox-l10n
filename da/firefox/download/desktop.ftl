@@ -152,3 +152,4 @@ firefox-desktop-download-interrupted = Hentning af din fil blev afbrudt. Men alt
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Dit system opfylder måske ikke kravene til { -brand-name-firefox }, men du kan prøve en af <a href="{ $url }">disse versioner</a>.
+download-chromebook-x86-based-chromebook = *x86-baseret Chromebook med Chrome OS 80 eller nyere

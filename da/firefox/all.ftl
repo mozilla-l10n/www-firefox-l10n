@@ -21,12 +21,16 @@ firefox-all-down-arrow = Vælg fra listen nedenfor
 firefox-all-get-help = Få hjælp
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. Browser:
+firefox-all-browser-v3 = Browser
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. Platform:
+firefox-all-platform-v3 = Platform
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. Sprog:
+firefox-all-language-v3 = Sprog
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. Hent:
+firefox-all-download-v2 = Hent
 firefox-all-desktop = Computer
 firefox-all-mobile = Mobil
 firefox-all-recommended = (Anbefalet)
@@ -62,6 +66,7 @@ firefox-all-the-standard-firefox = Den normale { -brand-name-firefox }-browser �
 firefox-all-get-a-sneak-peek-at = Få et smugkig på de nyeste { -brand-name-firefox }-funktioner inden de bliver udgivet.
 firefox-all-test-your-sites-against = Test dine websteder i forhold til kommende funktioner i { -brand-name-firefox } med vores avancerede og fleksible Udviklerværktøj, der er aktiveret som standard.
 firefox-all-count-on-stability-and = Denne version af { -brand-name-firefox } er udviklet til virksomheder og har fokus på stabilitet og brugervenlighed.
+firefox-all-the-familiar-firefox-browser = Den velkendte { -brand-name-firefox }-browser med yderligere sikkerhedskontroller, kombineret med en administratorkonsol, der hjælper organisationer med at opfylde strenge sikkerheds-, styrings- og compliance-krav.
 firefox-all-windows-installers-for = Windows-installationsprogrammer til IT-miljøer hos virksomheder gør opsætning, udrulning og håndtering af { -brand-name-firefox-browser } simplere.
 firefox-all-arm64-installers = ARM64/AArch64-Installationsprogrammer
 firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64-Installationsprogrammer optimeret til Windows- og Linux-PC'er.
