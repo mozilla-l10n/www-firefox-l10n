@@ -10,6 +10,7 @@ firefox-all-choose-platform = Jāizvēlas platforma, lai turpinātu
 firefox-all-choose-language = Jāizvēlas valoda, lai turpinātu
 firefox-all-lang-multi = Vairākas valodas
 firefox-all-plat-mobile = Android un iOS
+firefox-all-choose-which-firefox = Izvēlieties, kuru { -brand-name-firefox-browser } lejupielādēt savā valodā
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
