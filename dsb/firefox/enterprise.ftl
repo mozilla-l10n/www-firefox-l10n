@@ -3,23 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/#download
 
-# Page title
-firefox-enterprise-use-firefox-esr-enterprise-browser = Wužywajśo { -brand-name-firefox } abo { -brand-name-esr } ako wobglědowak swójogo pśedewześa za wěstotu we wjelikej měrje
-# Page description
-firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } jo wobgłědowak wótwórjonego žrědła ze za pśedewześa comneju wěstotu, priwatnosću a fleksibelnosću. Wužywajśo { -brand-name-firefox } za nejnowše funkcije abo { -brand-name-esr } za dłujkodobnu stabilnosć.
-firefox-enterprise-brand-name = { -brand-name-enterprise }
-firefox-enterprise-use-as-your-enterprise-browser = Wužywajśo { -brand-name-firefox } ako wobglědowak swójogo pśedewześa
-firefox-enterprise-secure-at-scale = { -brand-name-firefox } wěste, póśěžujobne pśeglědowanje z fokusom na priwatnosć we wjelikej měrje bitujo. Z pšawidłami pśedewześa w { -brand-name-firefox } ako teke { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }), organizacije fleksibelnosć, kontrolu a transparencu w dowěry gódnem wobglědowaku wótwórjonego žrědła.
-firefox-enterprise-protection-powered-by = Za pśedewześa comny šćit, pśez { -brand-name-firefox } doprědka spórany
-firefox-enterprise-open-source-transparency = Wubjeŕśo { -brand-name-firefox } za nejnowše funkcije a stabilne wersije kužde styri tyźenje, abo za dłujkodobnu stabilnosć, pšawidłowne wěstotne aktualizacije a lětne głowne wersije.
-firefox-enterprise-your-browser-your-business = Waš wobglědowak, wašo pśekupowanje
-firefox-enterprise-deploy-when-and-how-you-want = Rozdźělśo gdy a kak cośo
-firefox-enterprise-install-packages-policies = Z instalěrowańskimi paketami a wobšyrnym rozšyrjenim kupkowych směrnicow a funkcijow, jo rozdźělenje malsnjejše a fleksibelnjejše ako gdy do togo - a teke źiśece grajkanje za wokoliny Windows, Linux a macOS.
-firefox-enterprise-release-cycles = Wózjawjeńske cykluse, kótarež se k wašej organizaciji góźe
-firefox-enterprise-choose-firefox-for-features-esr-stability = Wubjeŕśo { -brand-name-firefox } za nejnowše funkcije a stabilne wersije kužde styri tyźenje, abo { -brand-name-firefox-esr } za dłujkodobnu stabilnosć, pšawidłowne wěstotne aktualizacije a lětne głowne wersije.
-firefox-enterprise-enterprise-downloads = Ześěgnjenja za { -brand-name-enterprise }
 firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-linux = { -brand-name-linux }
@@ -37,22 +22,5 @@ firefox-enterprise-firefox-esr-msi = { -brand-name-firefox-esr } – MSI
 firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } – PKG
 firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) – 64-bitowy
 firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } – ARM64
-firefox-enterprise-resources = Resurse
-firefox-enterprise-release-notes-v2 = Wersijowe informacije { -brand-name-enterprise }
-# Canonical home for all enterprise deployment and administration documentation.
-firefox-enterprise-documentation = Dokumentacija { -brand-name-firefox } { -brand-name-enterprise }
-# Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
-firefox-enterprise-policy-templates = Pśedłogi pšawidłow
-# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
-# Obsolete string (expires: 2026-08-18)
-firefox-enterprise-release-notes = Wersijowe informacije
-# Variables:
-#   $firefox_all (url) - link to https://www.firefox.com/download/all/
-firefox-enterprise-download-firefox-or-esr = Ześěgniśo { -brand-name-firefox } abo { -brand-name-firefox-esr } za <a { $firefox_all }>drugu rěc abo platformu.</a>
-firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
-firefox-enterprise-early-access-is-v2 = Jěsny pśistup jo něnto za naš program pódpěry k dispoziciji.  Jo za organizacije myslony, kótarež { -brand-name-firefox } wužywaju, aby wěstotu, wobstawnosć a suwerenitu datow zarucyli, bitujo priwatnu, spušćobnu a pśiměrjonu pódpěru za wobšyrne k-dispoziciji-stajenja.
-firefox-enterprise-contact-sales = Rozšyrjeńsku wótźělbu skontaktěrowaś
-firefox-enterprise-support-for-organizations-documentation-v2 = Dokumentacija { -brand-name-firefox-professional-support }
-firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } jo specialny póbitowanje za teamy, kótarež priwatne wobchadanje a rozšyrjenje problemow, definěrowane wótegronowe case, swójske wuwijańske nastajenja a wuske zgromadne źěło z techniskimi a produktowymi teamami { -brand-name-mozilla } trjebaju.
-firefox-enterprise-support-plan = Plan pódpěry
+# Shown on the enterprise release-notes page.
 firefox-enterprise-request-early-access = Wó jěsny pśistup pšosyś

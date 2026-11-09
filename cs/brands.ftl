@@ -560,7 +560,6 @@
        *[nom] Android
     }
     .gender = masculine
--brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux =
     { $case ->
@@ -662,16 +661,5 @@
     .gender = neuter
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
--brand-name-chromebook =
-    { $case ->
-        [gen] Chromebooku
-        [dat] Chromebooku
-        [acc] Chromebook
-        [voc] Chromebooku
-        [loc] Chromebooku
-        [ins] Chromebookem
-       *[nom] Chromebook
-    }
-    .gender = masculine
 # Enterprise program name
 -brand-name-firefox-professional-support = Profesionální podpora Firefoxu

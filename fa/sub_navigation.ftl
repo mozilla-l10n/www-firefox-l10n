@@ -2,10 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-sub-navigation-all-languages = همه‌ زبان‌ها
 sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = مقایسه مرورگرها
-sub-navigation-firefox-for-desktop = { -brand-name-firefox } برای رومیزی
 sub-navigation-release-notes = یادداشت‌های انتشار
 sub-navigation-release-channels = کانال‌های انتشار
 sub-navigation-desktop = رومیزی
@@ -16,11 +14,6 @@ sub-navigation-desktop-beta-and-developer = رومیزی { -brand-name-beta } و
 sub-navigation-desktop-nightly = { -brand-name-nightly } برای رایانه
 sub-navigation-features = ویژگی‌ها
 sub-navigation-more = بیشتر
-sub-navigation-chromebook = { -brand-name-chromebook }
-sub-navigation-windows = { -brand-name-windows }
-sub-navigation-windows-64-bit = { -brand-name-windows } ۶۴ بیتی
-sub-navigation-mac = { -brand-name-mac-short }
-sub-navigation-linux = { -brand-name-linux }
 sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly } و { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-android } { -brand-name-nightly } و { -brand-name-beta }

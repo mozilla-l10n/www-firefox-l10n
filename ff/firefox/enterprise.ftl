@@ -3,15 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/#download
 
-firefox-enterprise-deploy-when-and-how-you-want = Hollir nde njiɗɗaa e no njiɗirɗaa
-firefox-enterprise-enterprise-downloads = Gaawte { -brand-name-enterprise }
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Suɓo gaawtogol maa
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = Bayyinol ({ -brand-name-esr }) { -brand-name-firefox-extended-support-release }
-# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
-# Obsolete string (expires: 2026-08-18)
-firefox-enterprise-release-notes = Konngol bayyinol

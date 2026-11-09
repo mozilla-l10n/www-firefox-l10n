@@ -3,11 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/#download
 
-firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } దింపుకోళ్ళు
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = మీ దింపుకోలును ఎంచుకోండి
-# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
-# Obsolete string (expires: 2026-08-18)
-firefox-enterprise-release-notes = విడుదల విశేషాలు

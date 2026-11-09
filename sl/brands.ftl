@@ -286,7 +286,6 @@
 ## Platforms
 
 -brand-name-android = Android
--brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
@@ -317,6 +316,5 @@
         [orodnik] YouTubom
        *[imenovalnik] YouTube
     }
--brand-name-chromebook = Chromebook
 # Enterprise program name
 -brand-name-firefox-professional-support = Profesionalna podpora za Firefox

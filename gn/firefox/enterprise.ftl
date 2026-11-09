@@ -3,19 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/#download
 
-# Page title
-firefox-enterprise-use-firefox-esr-enterprise-browser = Eiporu { -brand-name-firefox } térã { -brand-name-esr } ne kundahára mba’apohaguávaramo tekorosãverã
-firefox-enterprise-brand-name = { -brand-name-enterprise }
-firefox-enterprise-use-as-your-enterprise-browser = Eiporu { -brand-name-firefox } ne kundahára mba’apohaguávaramo
-firefox-enterprise-protection-powered-by = Ñemo’ã mba’apohaguávarõ, { -brand-name-firefox } rembiporupyahu ndive
-firefox-enterprise-open-source-transparency = { -brand-name-firefox } ombojopyru ayvu juruja tembiapoite hekosakãva tekorosã añetépe ha hekopyahumeme omo’ãkuaa hag̃ua tendaguasu mba’ekuaarãita.
-firefox-enterprise-your-browser-your-business = Ne kundahára, ne ñemuha
-firefox-enterprise-deploy-when-and-how-you-want = Eipyso eipota ha ejaposeháicha
-firefox-enterprise-install-packages-policies = Umi ñemohenda hetaguáva ha avei peteĩ porureko iñasãiva ha tembiapoite atyguáva, pe ñemoinge ipya’eve ha hekohu’ũ araka’eve oĩ’ỹháicha — ha ndahasyiete Windows ha MacOS jerére.
-firefox-enterprise-release-cycles = Ñemoherakuã ojokupytýva nde atyguasu ndive
-firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } ñemboguejy
 firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-linux = { -brand-name-linux }
@@ -33,19 +22,3 @@ firefox-enterprise-firefox-esr-msi = { -brand-name-firefox-esr } — MSI
 firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } — PKG
 firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64-bit
 firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
-firefox-enterprise-resources = Mba’eita
-firefox-enterprise-release-notes-v2 = { -brand-name-enterprise } Jehai Peteĩvare
-# Canonical home for all enterprise deployment and administration documentation.
-firefox-enterprise-documentation = { -brand-name-firefox } { -brand-name-enterprise } kuatiaite
-# Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
-firefox-enterprise-policy-templates = Plantílla porureko rehegua
-# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
-# Obsolete string (expires: 2026-08-18)
-firefox-enterprise-release-notes = Jehaipy rehegua
-# Variables:
-#   $firefox_all (url) - link to https://www.firefox.com/download/all/
-firefox-enterprise-download-firefox-or-esr = Emboguejy { -brand-name-firefox } térã { -brand-name-firefox-esr } <a { $firefox_all }>-pe g̃uarã ambue ñe’ẽ térã pyendavusu.</a>
-firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
-firefox-enterprise-contact-sales = Eñe’ẽ ñevendeha ndive
-firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } kuatiaite
-firefox-enterprise-support-plan = Ñepytyvõ rehegua

@@ -102,7 +102,6 @@
 ## Platforms
 
 -brand-name-android = অ্যান্ড্রয়েড
--brand-name-chromeos = ক্রোম ওএস
 -brand-name-ios = আইওএস
 -brand-name-linux = লিনাক্স
 -brand-name-mac = ম্যাকওএস
@@ -125,6 +124,5 @@
 -brand-name-chromium = ক্রোমিয়াম
 -brand-name-google-play = গুগল প্লে
 -brand-name-youtube = ইউটিউব
--brand-name-chromebook = ক্রোমবুক
 # Enterprise program name
 -brand-name-firefox-professional-support = ফায়ারফক্স প্রফেশনাল সহায়তা

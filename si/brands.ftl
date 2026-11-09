@@ -95,7 +95,6 @@
 ## Platforms
 
 -brand-name-android = ඇන්ඩ්‍රොයිඩ්
--brand-name-chromeos = ක්‍රෝම් ඕඑස්
 -brand-name-ios = අයිඕඑස්
 -brand-name-linux = ලිනක්ස්
 -brand-name-mac = මැක්ඕඑස්
@@ -118,4 +117,3 @@
 -brand-name-chromium = ක්‍රෝමියම්
 -brand-name-google-play = ගූගල් ප්ලේ
 -brand-name-youtube = යූටියුබ්
--brand-name-chromebook = ක්‍රෝම්බුක්

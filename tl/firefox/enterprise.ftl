@@ -3,9 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/#download
 
-firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } downloads
 firefox-enterprise-macos = { -brand-name-mac }
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.

@@ -3,23 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/#download
 
-# Page title
-firefox-enterprise-use-firefox-esr-enterprise-browser = Përdorni { -brand-name-firefox } ose { -brand-name-esr } si shfletuesin e ndërmarrjes tuaj, për siguri në shkallë të madhe
-# Page description
-firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox }-i është shfletuesi me burim të hapët, me siguri, privatësi dhe zhdërvjelltësi në nivel ndërmarrjesh. Për veçoritë më të reja përdorni { -brand-name-firefox }-in, për qëndrueshmëri afatgjatë, { -brand-name-esr }.
-firefox-enterprise-brand-name = { -brand-name-enterprise }
-firefox-enterprise-use-as-your-enterprise-browser = Përdoreni { -brand-name-firefox }-in si shfletuesin e ndërmarrjes tuaj
-firefox-enterprise-secure-at-scale = { -brand-name-firefox }-i lejon shfletim të siguruar, të qëndrueshëm dhe të përqendruar te privatësia dhe të përshkallëzueshëm. Me rregulla ndërmarrjeje te { -brand-name-firefox } ose { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }), entet përfitojnë zhdërvjelltësi, kontroll dhe transparencë, në një shfletues të besuar, me burim të hapët.
-firefox-enterprise-protection-powered-by = Mbrojtje në shkallë ndërmarrjesh, dhënë nga { -brand-name-firefox }-i
-firefox-enterprise-open-source-transparency = { -brand-name-firefox }-i ndërthur transparencë burimi të hapët me veçori të thelluara sigurie dhe përditësime të shpeshta, për t’ju ndihmuar të ruani të dhënat e entit tuaj.
-firefox-enterprise-your-browser-your-business = Shfletuesi juaj, punët tuaja
-firefox-enterprise-deploy-when-and-how-you-want = Aplikojeni kur dhe si të doni
-firefox-enterprise-install-packages-policies = Me paketa instalimi dhe një shtrirje të gjerë rregullash dhe veçorish grupesh, sendërtimi është më i shpejtë dhe më i zhdërvjellët se kurrë — dhe një grimë, për mjedise  Windows, Linux dhe macOS.
-firefox-enterprise-release-cycles = Cikle hedhjesh në qarkullim që i përshtaten entit tuaj
-firefox-enterprise-choose-firefox-for-features-esr-stability = Zgjidhni { -brand-name-firefox }-in, për veçoritë më të reja dhe hedhjet e qëndrueshme në qarkullim çdo katër javë, ose { -brand-name-firefox-esr } për qëndrueshmëri afatgjatë, përditësime periodike sigurie dhe hedhje të rëndësishme vjetore në qarkullim.
-firefox-enterprise-enterprise-downloads = Shkarkim { -brand-name-enterprise }
 firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-linux = { -brand-name-linux }
@@ -37,21 +22,5 @@ firefox-enterprise-firefox-esr-msi = { -brand-name-firefox-esr } — MSI
 firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } — PKG
 firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64-bit
 firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
-firefox-enterprise-resources = Burime
-firefox-enterprise-release-notes-v2 = Shënime Hedhjeje Në Qarkullim për { -brand-name-enterprise }
-# Canonical home for all enterprise deployment and administration documentation.
-firefox-enterprise-documentation = Dokumentim i { -brand-name-firefox } { -brand-name-enterprise }
-# Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
-firefox-enterprise-policy-templates = Gjedhe rregullash
-# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
-# Obsolete string (expires: 2026-08-18)
-firefox-enterprise-release-notes = Shënime Versioni
-# Variables:
-#   $firefox_all (url) - link to https://www.firefox.com/download/all/
-firefox-enterprise-download-firefox-or-esr = Shkarkoni { -brand-name-firefox } ose { -brand-name-firefox-esr } për <a { $firefox_all }>gjuhë ose platformë tjetër.</a>
-firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
-firefox-enterprise-early-access-is-v2 = Prova të hershme janë tanimë të hapura për programin tonë të ri të asistencës. Ndërtuar për ente që përdorin { -brand-name-firefox } për të garantuar siguri, qëndrueshmëri dhe sovranitet të dhënash, sjell asistencë private private, të qëndrueshme për instalime të përmasave të mëdha.
-firefox-enterprise-contact-sales = Lidhuni me Degën e Shitjeve
-firefox-enterprise-support-for-organizations-documentation-v2 = Dokumentim i { -brand-name-firefox-professional-support }
-firefox-enterprise-support-plan = Plan Asistence
+# Shown on the enterprise release-notes page.
 firefox-enterprise-request-early-access = Kërkoni Provë të Hershme

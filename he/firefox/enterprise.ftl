@@ -3,12 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/#download
 
-firefox-enterprise-brand-name = { -brand-name-enterprise }
-firefox-enterprise-use-as-your-enterprise-browser = שימוש ב־{ -brand-name-firefox } כדפדפן הארגוני שלך
-firefox-enterprise-deploy-when-and-how-you-want = פריסה בזמן ובאופן שתרצו
-firefox-enterprise-enterprise-downloads = הורדות ל־{ -brand-name-enterprise }
 firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-linux = { -brand-name-linux }
@@ -26,18 +22,5 @@ firefox-enterprise-firefox-esr-msi = ‏{ -brand-name-firefox-esr } - ‏MSI
 firefox-enterprise-firefox-esr-pkg = ‏{ -brand-name-firefox-esr } - ‏PKG
 firefox-enterprise-firefox-esr-64-bit = ‏{ -brand-name-firefox-extended-support-release } (‏{ -brand-name-esr }) - ‏64 סיביות
 firefox-enterprise-firefox-esr-arm64 = ‏{ -brand-name-firefox-esr } - ‏ARM64
-firefox-enterprise-resources = משאבים
-firefox-enterprise-release-notes-v2 = הערות שחרור של { -brand-name-enterprise }
-# Canonical home for all enterprise deployment and administration documentation.
-firefox-enterprise-documentation = תיעוד של { -brand-name-firefox } { -brand-name-enterprise }
-# Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
-firefox-enterprise-policy-templates = תבניות מדיניות
-# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
-# Obsolete string (expires: 2026-08-18)
-firefox-enterprise-release-notes = הערות שחרור
-firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
-firefox-enterprise-contact-sales = יצירת קשר עם המכירות
-firefox-enterprise-support-for-organizations-documentation-v2 = תיעוד של { -brand-name-firefox-professional-support }
-firefox-enterprise-support-for-organizations-is-v2 = ‏{ -brand-name-firefox-professional-support } היא הצעה ייעודית לצוותים הזקוקים למיון והסלמה פרטיים של בעיות, זמני תגובה מוגדרים, אפשרויות פיתוח מותאמות אישית ושיתוף פעולה הדוק עם צוותי ההנדסה והמוצר של { -brand-name-mozilla }.
-firefox-enterprise-support-plan = תוכנית תמיכה
+# Shown on the enterprise release-notes page.
 firefox-enterprise-request-early-access = בקשת גישה מוקדמת

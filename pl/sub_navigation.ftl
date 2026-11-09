@@ -2,10 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-sub-navigation-all-languages = Wszystkie języki
 sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = Porównaj przeglądarki
-sub-navigation-firefox-for-desktop = { -brand-name-firefox } na komputery
 sub-navigation-release-notes = Informacje o wydaniu
 sub-navigation-release-channels = Kanały wydania
 sub-navigation-desktop = Na komputery
@@ -16,11 +14,6 @@ sub-navigation-desktop-beta-and-developer = { -brand-name-beta } i { -brand-nam
 sub-navigation-desktop-nightly = { -brand-name-nightly } na komputery
 sub-navigation-features = Możliwości
 sub-navigation-more = Więcej
-sub-navigation-chromebook = { -brand-name-chromebook }
-sub-navigation-windows = { -brand-name-windows }
-sub-navigation-windows-64-bit = { -brand-name-windows } (64‑bitowy)
-sub-navigation-mac = { -brand-name-mac-short }
-sub-navigation-linux = { -brand-name-linux }
 sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly } i { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-nightly } i { -brand-name-beta } na { -brand-name-android(case: "acc") }

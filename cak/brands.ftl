@@ -86,7 +86,6 @@
 ## Platforms
 
 -brand-name-android = Android
--brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
@@ -109,4 +108,3 @@
 -brand-name-chromium = Chromium
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
--brand-name-chromebook = Chromebook

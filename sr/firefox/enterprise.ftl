@@ -3,35 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/#download
 
-# Page title
-firefox-enterprise-use-firefox-esr-enterprise-browser = Користите { -brand-name-firefox } или { -brand-name-esr } као ваш пословни прегледач за безбедност у великим размерама
-# Page description
-firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } је прегледач отвореног кода са безбедношћу, приватношћу и флексибилношћу пословног нивоа. Користите { -brand-name-firefox } за најновије функције или { -brand-name-esr } за дугорочну стабилност.
-firefox-enterprise-brand-name = { -brand-name-enterprise }
-firefox-enterprise-use-as-your-enterprise-browser = Користите { -brand-name-firefox } као ваш пословни прегледач
-firefox-enterprise-secure-at-scale = { -brand-name-firefox } пружа безбедно, отпорно и на приватност усмерено прегледање у великим размерама. Са пословним полисама у { -brand-name-firefox } или { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }), организације добијају флексибилност, контролу и транспарентност у поузданом прегледачу отвореног кода.
-firefox-enterprise-protection-powered-by = Заштита пословног нивоа, коју покреће { -brand-name-firefox }
-firefox-enterprise-open-source-transparency = { -brand-name-firefox } комбинује транспарентност отвореног кода са напредним безбедносним функцијама и честим ажурирањима како би помогао у заштити података ваше организације.
-firefox-enterprise-your-browser-your-business = Ваш прегледач, ваш посао
-firefox-enterprise-deploy-when-and-how-you-want = Распоредите када и како желите
-firefox-enterprise-install-packages-policies = Уз инсталационе пакете и широко проширење групних полиса и функција, имплементација је бржа и флексибилнија него икад — и веома једноставна за Windows, Linux и macOS окружења.
-firefox-enterprise-release-cycles = Циклуси издања који одговарају вашој организацији
-firefox-enterprise-choose-firefox-for-features-esr-stability = Изаберите { -brand-name-firefox } за најновије функције и стабилна издања сваке четири недеље, или { -brand-name-firefox-esr } за дугорочну стабилност, редовна безбедносна ажурирања и годишња главна издања.
-firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } преузимања
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Изаберите ваше преузимање
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-resources = Ресурси
-# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
-# Obsolete string (expires: 2026-08-18)
-firefox-enterprise-release-notes = Белешке о издању
-# Variables:
-#   $firefox_all (url) - link to https://www.firefox.com/download/all/
-firefox-enterprise-download-firefox-or-esr = Преузмите { -brand-name-firefox } или { -brand-name-firefox-esr } за <a { $firefox_all }>други језик или платформу.</a>
-firefox-enterprise-early-access-is-v2 = Рани приступ је сада отворен за наш нови програм подршке. Направљен за организације које користе { -brand-name-firefox } како би осигурале безбедност, отпорност и суверенитет података, он пружа приватну, поуздану и прилагођену подршку за велике примене.
-firefox-enterprise-contact-sales = Контактирајте продају
-firefox-enterprise-support-plan = План подршке

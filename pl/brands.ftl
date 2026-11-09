@@ -438,7 +438,6 @@
         [loc] Androidzie
        *[nom] Android
     }
--brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux =
     { $case ->
@@ -500,15 +499,6 @@
         [ins] YouTube’em
         [loc] YouTubie
        *[nom] YouTube
-    }
--brand-name-chromebook =
-    { $case ->
-        [gen] Chromebooka
-        [dat] Chromebookowi
-        [acc] Chromebooka
-        [ins] Chromebookiem
-        [loc] Chromebooku
-       *[nom] Chromebook
     }
 # Enterprise program name
 -brand-name-firefox-professional-support = Profesjonalne wsparcie Firefoksa

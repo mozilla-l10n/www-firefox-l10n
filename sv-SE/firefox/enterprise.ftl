@@ -3,23 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/#download
 
-# Page title
-firefox-enterprise-use-firefox-esr-enterprise-browser = Använd { -brand-name-firefox } eller { -brand-name-esr } som din företagswebbläsare för säkerhet i stor skala
-# Page description
-firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } är en webbläsare med öppen källkod med säkerhet, sekretess och flexibilitet i företagsklass. Använd { -brand-name-firefox } för de senaste funktionerna eller { -brand-name-esr } för långsiktig stabilitet.
-firefox-enterprise-brand-name = { -brand-name-enterprise }
-firefox-enterprise-use-as-your-enterprise-browser = Använd { -brand-name-firefox } som din företagswebbläsare
-firefox-enterprise-secure-at-scale = { -brand-name-firefox } levererar säker, flexibel och sekretessfokuserad surfning i skala. Med företagspolicyer i både { -brand-name-firefox } eller { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }), organisationer får flexibilitet, kontroll och transparens i en tillförlitlig webbläsare med öppen källkod.
-firefox-enterprise-protection-powered-by = Skydd i företagsklass, med stöd av { -brand-name-firefox }
-firefox-enterprise-open-source-transparency = { -brand-name-firefox } kombinerar öppen källkod med avancerade säkerhetsfunktioner och täta uppdateringar för att skydda din organisations data.
-firefox-enterprise-your-browser-your-business = Din webbläsare, ditt företag
-firefox-enterprise-deploy-when-and-how-you-want = Driftsätt när och hur du vill
-firefox-enterprise-install-packages-policies = Med installationspaket och en bred utökning av grupprinciper och funktioner är distributionen snabbare och mer flexibel än någonsin — och mycket enkel för Windows, Linux och macOS-miljöer.
-firefox-enterprise-release-cycles = Versionscykler som passar din organisation
-firefox-enterprise-choose-firefox-for-features-esr-stability = Välj { -brand-name-firefox } för de senaste funktionerna och stabila utgåvorna var fjärde vecka eller { -brand-name-firefox-esr } för långsiktig stabilitet, regelbundna säkerhetsuppdateringar och årliga större släpp.
-firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } hämtningar
 firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-linux = { -brand-name-linux }
@@ -37,22 +22,5 @@ firefox-enterprise-firefox-esr-msi = { -brand-name-firefox-esr } — MSI
 firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } — PKG
 firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64-bitars
 firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
-firefox-enterprise-resources = Resurser
-firefox-enterprise-release-notes-v2 = { -brand-name-enterprise } versionsfakta
-# Canonical home for all enterprise deployment and administration documentation.
-firefox-enterprise-documentation = { -brand-name-firefox } { -brand-name-enterprise } dokumentation
-# Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
-firefox-enterprise-policy-templates = Policymallar
-# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
-# Obsolete string (expires: 2026-08-18)
-firefox-enterprise-release-notes = Versionsfakta
-# Variables:
-#   $firefox_all (url) - link to https://www.firefox.com/download/all/
-firefox-enterprise-download-firefox-or-esr = Hämta { -brand-name-firefox } eller { -brand-name-firefox-esr } på <a { $firefox_all }>ett annat språk eller annan plattform.</a>
-firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
-firefox-enterprise-early-access-is-v2 = Tidig tillgång är nu öppen för vårt nya supportprogram. Byggd för organisationer som använder { -brand-name-firefox } för att säkerställa säkerhet, robusthet och datasuveränitet, ger det privat, pålitlig och anpassad support för storskaliga distributioner.
-firefox-enterprise-contact-sales = Kontakta försäljning
-firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } dokumentation
-firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } är ett dedikerat erbjudande för team som behöver privat problemhantering och eskalering, definierade svarstider, anpassade utvecklingsalternativ och nära samarbete med { -brand-name-mozilla }:s teknik- och produktteam.
-firefox-enterprise-support-plan = Supportplan
+# Shown on the enterprise release-notes page.
 firefox-enterprise-request-early-access = Begär tidig åtkomst

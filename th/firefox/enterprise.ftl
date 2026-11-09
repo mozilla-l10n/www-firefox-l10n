@@ -3,23 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/#download
 
-# Page title
-firefox-enterprise-use-firefox-esr-enterprise-browser = ใช้ { -brand-name-firefox } หรือ { -brand-name-esr } เป็นเบราว์เซอร์สำหรับองค์กรของคุณเพื่อความปลอดภัยในระดับใหญ่
-# Page description
-firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } คือเบราว์เซอร์โอเพนซอร์สที่มีความปลอดภัย ความเป็นส่วนตัว และความยืดหยุ่นระดับองค์กร ใช้ { -brand-name-firefox } สำหรับคุณลักษณะล่าสุด หรือ { -brand-name-esr } สำหรับความเสถียรในระยะยาว
-firefox-enterprise-brand-name = { -brand-name-enterprise }
-firefox-enterprise-use-as-your-enterprise-browser = ใช้ { -brand-name-firefox } เป็นเบราว์เซอร์สำหรับองค์กรของคุณ
-firefox-enterprise-secure-at-scale = { -brand-name-firefox } มอบประสบการณ์การท่องเว็บที่ปลอดภัย ยืดหยุ่น และเน้นความเป็นส่วนตัวในระดับองค์กร ด้วยนโยบายระดับองค์กรทั้งใน { -brand-name-firefox } หรือ { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) องค์กรต่าง ๆ จะได้รับความยืดหยุ่น การควบคุม และความโปร่งใสในเบราว์เซอร์โอเพนซอร์สที่เชื่อถือได้
-firefox-enterprise-protection-powered-by = การปกป้องระดับองค์กร ขับเคลื่อนโดย { -brand-name-firefox }
-firefox-enterprise-open-source-transparency = { -brand-name-firefox } ผสานความโปร่งใสแบบโอเพนซอร์สเข้ากับคุณลักษณะความปลอดภัยขั้นสูงและการอัปเดตอย่างสม่ำเสมอ เพื่อช่วยปกป้องข้อมูลขององค์กรของคุณ
-firefox-enterprise-your-browser-your-business = เบราว์เซอร์ของคุณ ธุรกิจของคุณ
-firefox-enterprise-deploy-when-and-how-you-want = ปรับใช้เมื่อใดก็ได้และอย่างไรก็ได้ที่คุณต้องการ
-firefox-enterprise-install-packages-policies = ด้วยแพคเกจการติดตั้ง รวมถึงนโยบายกลุ่มและคุณลักษณะต่าง ๆ ทำให้การปรับใช้เร็วขึ้นและยืดหยุ่นขึ้นกว่าที่เคยเป็น และง่ายดายสำหรับสภาพแวดล้อม Windows, Linux และ macOS
-firefox-enterprise-release-cycles = รอบการออกรุ่นที่เหมาะสมกับองค์กรของคุณ
-firefox-enterprise-choose-firefox-for-features-esr-stability = เลือก { -brand-name-firefox } เพื่อรับคุณลักษณะล่าสุดและการออกรุ่นเสถียรทุกสี่สัปดาห์ หรือ { -brand-name-firefox-esr } เพื่อความเสถียรในระยะยาว การอัปเดตความปลอดภัยเป็นประจำ และการอัปเดตรุ่นหลักประจำปี
-firefox-enterprise-enterprise-downloads = การดาวน์โหลด { -brand-name-enterprise }
 firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-linux = { -brand-name-linux }
@@ -29,15 +14,3 @@ firefox-enterprise-firefox-latest = { -brand-name-firefox } (เวอร์ช�
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
-firefox-enterprise-resources = แหล่งข้อมูล
-firefox-enterprise-release-notes-v2 = บันทึกประจำรุ่น { -brand-name-enterprise }
-# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
-# Obsolete string (expires: 2026-08-18)
-firefox-enterprise-release-notes = บันทึกประจำรุ่น
-# Variables:
-#   $firefox_all (url) - link to https://www.firefox.com/download/all/
-firefox-enterprise-download-firefox-or-esr = ดาวน์โหลด { -brand-name-firefox } หรือ { -brand-name-firefox-esr } ใน<a { $firefox_all }>ภาษาหรือแพลตฟอร์มอื่น</a>
-firefox-enterprise-early-access-is-v2 = การเข้าถึงระหว่างพัฒนาถูกเปิดใช้แล้วสำหรับโครงการสนับสนุนใหม่ของเรา ฟังก์ชันนี้สร้างขึ้นสำหรับองค์กรที่ใช้ { -brand-name-firefox } เพื่อรับประกันความปลอดภัย ความยืดหยุ่น และอธิปไตยของข้อมูล โดยให้การสนับสนุนที่เป็นส่วนตัว เชื่อถือได้ และปรับแต่งได้ตามความต้องการสำหรับการใช้งานขนาดใหญ่
-firefox-enterprise-contact-sales = ติดต่อฝ่ายขาย
-firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } เป็นบริการเฉพาะสำหรับองค์กรที่ต้องการการคัดกรองปัญหาอย่างเป็นส่วนตัว การยกระดับปัญหาตามลำดับความสำคัญ ระยะเวลาตอบกลับตามที่ตกลงกัน ทางเลือกในการพัฒนาแบบปรับแต่งเอง และการร่วมมืออย่างใกล้ชิดกับทีมวิศวกรรมและทีมผลิตภัณฑ์ของ { -brand-name-mozilla }
-firefox-enterprise-support-plan = แผนการสนับสนุน

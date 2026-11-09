@@ -102,7 +102,6 @@
 ## Platforms
 
 -brand-name-android = اندروید
--brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux = لینوکس
 -brand-name-mac = macOS
@@ -125,6 +124,5 @@
 -brand-name-chromium = کرومیوم
 -brand-name-google-play = Google Play
 -brand-name-youtube = یوتیوب
--brand-name-chromebook = کروم‌بوک
 # Enterprise program name
 -brand-name-firefox-professional-support = Firefox Professional Support
