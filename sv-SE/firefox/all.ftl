@@ -66,6 +66,7 @@ firefox-all-the-standard-firefox = Standard { -brand-name-firefox }-webbläsare 
 firefox-all-get-a-sneak-peek-at = Ta en smygtitt på de senaste { -brand-name-firefox }-webbläsarfunktionerna innan de släpps.
 firefox-all-test-your-sites-against = Testa dina webbplatser mot snart utgivna { -brand-name-firefox }-webbläsarfunktioner med kraftfulla, flexibla DevTools som är aktiverade som standard.
 firefox-all-count-on-stability-and = Räkna med stabilitet och användarvänlighet med denna { -brand-name-firefox }-webbläsare byggd för företag.
+firefox-all-the-familiar-firefox-browser = Den välbekanta webbläsaren { -brand-name-firefox } med utökade säkerhetskontroller och en administratörskonsol som hjälper organisationer att uppfylla strikta krav på säkerhet, styrning och regelefterlevnad.
 firefox-all-windows-installers-for = Windows installerare för företags IT miljöer som förenklar konfigurationen, distributionen och hanteringen av { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = ARM64/AArch64 installationsprogram
 firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 installationsprogram optimerade för Windows och Linux-datorer.

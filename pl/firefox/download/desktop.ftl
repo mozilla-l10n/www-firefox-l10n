@@ -159,3 +159,4 @@ firefox-desktop-download-interrupted = Pobieranie zostało przerwane. Ale nie ws
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Używany system operacyjny może nie spełniać wymagań { -brand-name-firefox(case: "gen") }, można jednak spróbować jedną z <a href="{ $url }">tych wersji</a>.
+download-chromebook-x86-based-chromebook = *Chromebook z procesorem x86 i systemem Chrome OS 80 lub nowszym
