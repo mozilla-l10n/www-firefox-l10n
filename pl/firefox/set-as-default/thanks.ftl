@@ -23,7 +23,7 @@ set-as-default-thanks-get-firefox-for-mobile = Pobierz { -brand-name-firefox(cas
 set-as-default-thanks-travel-the-internet-with = Podróżuj po Internecie z ochroną na wszystkich urządzeniach.
 set-as-default-thanks-download-the-app = Pobierz aplikację
 set-as-default-create-an-account = Utwórz konto
-set-as-default-thanks-sign-up-for-a-free-account-v2 = Załóż bezpłatne { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } i synchronizuj hasła, historię przeglądania i preferencje między swoimi urządzeniami.
+set-as-default-thanks-sign-up-for-a-free-account-v2 = Załóż bezpłatne { -brand-name-mozilla-account(capitalization: "lower", case: "acc") } i synchronizuj hasła, historię przeglądania i preferencje między swoimi urządzeniami.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Załóż konto
 set-as-default-thanks-having-trouble = Masz problem?

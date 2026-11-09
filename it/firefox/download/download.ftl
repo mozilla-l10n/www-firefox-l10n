@@ -35,9 +35,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Se appare un avviso che l’app che stai cercando di installare non è verificata da { -brand-name-microsoft }, fai clic su “Installa comunque” o <a { $attrs }>modifica le impostazioni per l’installazione delle app</a>.
 firefox-new-visit-support-for-more = Per ulteriori informazioni visita la pagina dedicata al supporto
 
-# Not-Required
-
-
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

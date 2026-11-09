@@ -35,9 +35,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Si t’affaccia n’abbisu chi stai pruvannu a nzitari n’applicazzioni chi nun è virificata di { -brand-name-microsoft }, ammacca “Nzita u stissu” o <a { $attrs }>cancia a cunfijurazzioni pû nzitamentu di l’applicazzioni</a>.
 firefox-new-visit-support-for-more = Vai â pàggina di l’assistenza p’aviri cchiù assai minutagghi
 
-# Not-Required
-
-
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

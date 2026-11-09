@@ -23,7 +23,7 @@ set-as-default-thanks-get-firefox-for-mobile = Získat { -brand-name-firefox(cas
 set-as-default-thanks-travel-the-internet-with = Prohlížejte internet bezpečně na každém svém zařízení.
 set-as-default-thanks-download-the-app = Stáhnout aplikaci
 set-as-default-create-an-account = Vytvořit účet
-set-as-default-thanks-sign-up-for-a-free-account-v2 = Zaregistrujte si bezplatný { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }  a synchronizujte všechna svá hesla, historii prohlížení a nastavení napříč svými zařízeními.
+set-as-default-thanks-sign-up-for-a-free-account-v2 = Zaregistrujte si bezplatný { -brand-name-mozilla-account(capitalization: "lower", case: "acc") }  a synchronizujte všechna svá hesla, historii prohlížení a nastavení napříč svými zařízeními.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Vytvořit účet
 set-as-default-thanks-having-trouble = Máte potíže?

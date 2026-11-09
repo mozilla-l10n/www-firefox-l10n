@@ -15,9 +15,6 @@ firefox-new-need-help = ត្រូវការ​ជំនួយ?
 firefox-new-download-select-linux = ជ្រើសរើសជម្រើសទាញយកខាងក្រោម
 firefox-new-windows = { -brand-name-windows }
 
-# Not-Required
-
-
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

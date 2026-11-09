@@ -16,6 +16,3 @@ firefox-new-need-help = મદદની જરૂર છે?
 ## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } બ્રાઉઝર કરતાં વધુ છે.
-
-# Not-Required
-

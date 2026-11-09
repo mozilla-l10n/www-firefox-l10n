@@ -35,9 +35,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Sche ti vesas in'annunzia che pretenda che l'app che ti emprovas dad installar na saja betg ina app verifitgada per { -brand-name-microsoft }, clicca sin il buttun per tuttina installar u <a { $attrs }>mida ils parameters per l'installaziun dad apps</a>.
 firefox-new-visit-support-for-more = Visita l'agid per ulteriurs detagls
 
-# Not-Required
-
-
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

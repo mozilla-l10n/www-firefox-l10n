@@ -35,9 +35,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Als u een melding ziet waarin wordt gesteld dat de app die u probeert te installeren geen door { -brand-name-microsoft } geverifieerde app is, klik dan op ‘Toch installeren’ of <a { $attrs }>wijzig de instellingen voor app-aanbevelingen</a>.
 firefox-new-visit-support-for-more = Bezoek Ondersteuning voor meer details
 
-# Not-Required
-
-
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

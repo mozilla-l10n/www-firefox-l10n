@@ -17,6 +17,3 @@ firefox-new-need-help = Aɗa sokli ballal?
 ## URL: https://www-dev.springfield.moz.works/thanks/?xv=basic
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } diwtii wanngorde
-
-# Not-Required
-

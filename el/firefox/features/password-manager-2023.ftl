@@ -12,7 +12,7 @@ password-manager-firefox-password-manager-saves-all = Η Διαχείριση κ
 password-manager-firefox-securely-stores-your = Το { -brand-name-firefox } αποθηκεύει με ασφάλεια τα ονόματα χρήστη και τους κωδικούς πρόσβασής σας για πρόσβαση σε ιστοτόπους, συμπληρώνει αυτόματα τα διαπιστευτήριά σας όταν επισκέπτεστε έναν ιστότοπο και σας επιτρέπει να διαχειρίζεστε τις αποθηκευμένες σας συνδέσεις με την ενσωματωμένη λειτουργία διαχείρισης κωδικών πρόσβασής του.
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/accounts/
-password-manager-with-a-free-mozilla-account-v2 = Με έναν <a { $fxa }>δωρεάν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }</a>, μπορείτε να συγχρονίσετε με ασφάλεια τους κωδικούς πρόσβασής σας σε όλες τις συσκευές σας. Μπορείτε επίσης να αποκτήσετε πρόσβαση σε όλα τα άλλα προϊόντα της { -brand-name-mozilla }, που σέβονται το απόρρητό σας.
+password-manager-with-a-free-mozilla-account-v2 = Με έναν <a { $fxa }>δωρεάν { -brand-name-mozilla-account(capitalization: "lower", case: "acc") }</a>, μπορείτε να συγχρονίσετε με ασφάλεια τους κωδικούς πρόσβασής σας σε όλες τις συσκευές σας. Μπορείτε επίσης να αποκτήσετε πρόσβαση σε όλα τα άλλα προϊόντα της { -brand-name-mozilla }, που σέβονται το απόρρητό σας.
 password-manager-password-autofill-for-easy-logins = Αυτόματη συμπλήρωση κωδικών πρόσβασης για εύκολη σύνδεση
 password-manager-firefox-can-automatically-fill-in = Το { -brand-name-firefox } μπορεί να συμπληρώσει αυτόματα τα αποθηκευμένα στοιχεία σύνδεσής σας. Εάν διαθέτετε περισσότερες από μία συνδέσεις για έναν ιστότοπο, μπορείτε απλά να επιλέξετε τον λογαριασμό που θέλετε και εμείς θα αναλάβουμε τα υπόλοιπα.
 # Used as an accessible text alternative for an image

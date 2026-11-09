@@ -11,7 +11,7 @@ features-sync-firefox-browser-sync = Synchronizacja w przeglądarce { -brand-nam
 features-sync-access-your-firefox-bookmarks = Korzystaj ze swoich zakładek, haseł i otwartych kart w { -brand-name-firefox(case: "loc") } z dowolnego urządzenia.
 features-sync-with-firefox-you-can-pick-up-where = Dzięki { -brand-name-firefox(case: "dat") } możesz kontynuować pracę od miejsca, w którym ją przerwałeś, gdy przełączasz się z komputera stacjonarnego na telefon komórkowy, a potem na tablet. { -brand-name-firefox } umożliwia przeglądanie zakładek, historii przeglądania, zapisanych haseł i innych danych niezależnie od używanego urządzenia.
 #   $fxa (url) = link to https://www.mozilla.org/accounts/
-features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Zarejestruj się, aby uzyskać bezpłatne { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }</a> i synchronizuj swoje dane wszędzie tam, gdzie używasz { -brand-name-firefox(case: "gen") } i inne produkty { -brand-name-mozilla(case: "gen") }.
+features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Zarejestruj się, aby uzyskać bezpłatne { -brand-name-mozilla-account(capitalization: "lower", case: "acc") }</a> i synchronizuj swoje dane wszędzie tam, gdzie używasz { -brand-name-firefox(case: "gen") } i inne produkty { -brand-name-mozilla(case: "gen") }.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Wszystkie Twoje dane są zaszyfrowane na naszych serwerach, więc nie możemy ich odczytać – tylko Ty masz do nich dostęp. Nie sprzedajemy Twoich informacji reklamodawcom, ponieważ byłoby to sprzeczne z naszą <a href="{ $privacy }">obietnicą prywatności danych</a>.

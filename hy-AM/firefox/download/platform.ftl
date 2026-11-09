@@ -15,9 +15,6 @@ new-platform-2x-faster = Կրկնակի արագ
 new-platform-advanced-install-options = Տեղադրելու լրացուցիչ ընտրանքներ և այլ հարթակներ
 new-platform-download-in-another = Ներբեռնել այլ լեզվով
 new-platform-need-help = Օգնության կարիք ունե՞ք
-
-# Linux
-
 new-platform-download-mozilla-linux = Ներբեռնել { -brand-name-mozilla } { -brand-name-firefox }-ը { -brand-name-linux }-ի համար
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Ներբեռնեք { -brand-name-mozilla } { -brand-name-firefox }-ը { -brand-name-linux }-ի համար, որն անվճար վեբ դիտարկիչ է: { -brand-name-firefox }-ը ստեղծվել է համաշխարհային ոչ առևտրային կազմակերպության կողմից, որը նվիրված է անհատներին առցանց վերահսկողություն տրամադրելուն: Ստացեք { -brand-name-firefox }-ը { -brand-name-linux }-ի համար այսօր:

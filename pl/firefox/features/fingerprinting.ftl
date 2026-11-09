@@ -6,7 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
 # page description
-features-fingerprinting-fingerprinting-is-a-desc = Zbieranie informacji o konfiguracji to rodzaj śledzenia w Internecie, który jest bardziej inwazyjny niż zwykłe śledzenie na podstawie ciasteczek — dlatego { -brand-name-firefox-browser(case: "nom", capitalization: "lower") } je blokuje.
+features-fingerprinting-fingerprinting-is-a-desc = Zbieranie informacji o konfiguracji to rodzaj śledzenia w Internecie, który jest bardziej inwazyjny niż zwykłe śledzenie na podstawie ciasteczek — dlatego { -brand-name-firefox-browser(capitalization: "lower", case: "nom") } je blokuje.
 features-fingerprinting-fingerprint-blocking = Blokowanie śledzenia przez zbieranie informacji o konfiguracji
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blokuje śledzenie przez zbieranie informacji o konfiguracji
 features-fingerprinting-what-is-fingerprinting-body = Czym jest śledzenie przez zbieranie informacji o konfiguracji?

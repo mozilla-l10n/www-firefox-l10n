@@ -21,6 +21,3 @@ firefox-new-need-help = Reikia pagalbos?
 #   $fallback_url (url) - link to https://www.firefox.com/download/all/
 firefox-new-your-firefox-new-should-begin = Jūsų parsisiuntimas netrukus turėtų prasidėti automatiškai. Nepavyko? <a id="{ $id }" href="{ $fallback_url }">Pabandykite parsisiųsti dar kartą</a>.
 firefox-new-firefox-is-more-than-a-browser = „{ -brand-name-firefox }“ – daugiau nei tik naršyklė.
-
-# Not-Required
-

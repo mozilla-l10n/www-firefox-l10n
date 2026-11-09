@@ -35,9 +35,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Ehecháramo ñe’ẽmondo erévo tembiporu’i emohendaséva ndaha’éi tembiporu’i { -brand-name-microsoft } ohechapyréva, eikutu “Mohenda opaicharei” térã <a { $attrs }>ñemboheko moambue tembiporu’i ñe’ẽporãhague</a>.
 firefox-new-visit-support-for-more = Eike Pytyvõme eikuaave hag̃ua
 
-# Not-Required
-
-
 ## URL: https://www-dev.springfield.moz.works/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
