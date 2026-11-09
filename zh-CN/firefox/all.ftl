@@ -66,6 +66,7 @@ firefox-all-the-standard-firefox = 标准版 { -brand-name-firefox } 浏览器�
 firefox-all-get-a-sneak-peek-at = 在 { -brand-name-firefox } 浏览器正式发行前，抢先试用最新版本中的功能。
 firefox-all-test-your-sites-against = 即将发行的 { -brand-name-firefox } 浏览器中默认启用强大而灵活的开发者工具，可使用此版本来测试您的网站。
 firefox-all-count-on-stability-and = 若需要稳定度和易用性，请使用此企业版 { -brand-name-firefox } 浏览器。
+firefox-all-the-familiar-firefox-browser = 在您熟悉的 { -brand-name-firefox } 浏览器中增加了更多安全控制与管理控制台相辅相成可帮助组织满足严格的安全性、治理与合规性要求。
 firefox-all-windows-installers-for = 适用于企业 IT 的 Windows 安装程序，可简化 { -brand-name-firefox-browser }的配置、部署和管理。
 firefox-all-arm64-installers = ARM64/AArch64 安装程序
 firefox-all-arm64-installers-optimized-v2 = 为 Windows 和 Linux PC 优化的 ARM64/AArch64 安装程序。

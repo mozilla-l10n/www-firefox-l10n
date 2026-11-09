@@ -159,3 +159,4 @@ firefox-desktop-download-interrupted = A letöltése megszakadt. De nincs minden
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Rendszere nem biztos, hogy teljesíti a { -brand-name-firefox } követelményeit, de kipróbálhatja <a href="{ $url }">ezen verziók</a> egyikét.
+download-chromebook-x86-based-chromebook = *x86-alapú Chromebook, amely Chrome OS 80-at vagy újabbat futtat

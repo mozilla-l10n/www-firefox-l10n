@@ -66,6 +66,7 @@ firefox-all-the-standard-firefox = Стандартный браузер { -bran
 firefox-all-get-a-sneak-peek-at = Знакомьтесь с новыми функциями { -brand-name-firefox } до их выпуска.
 firefox-all-test-your-sites-against = Тестируйте свои сайты на совместимость с функциями браузера { -brand-name-firefox }, которые скоро будут выпущены, с помощью мощных и гибких инструментов разработчика, включённых по умолчанию.
 firefox-all-count-on-stability-and = Доверьтесь стабильности и простоте использования корпоративного { -brand-name-firefox }.
+firefox-all-the-familiar-firefox-browser = Знакомый браузер { -brand-name-firefox } с дополнительными элементами управления безопасностью в паре с консолью администратора, чтобы помочь организациям соответствовать строгим требованиям безопасности, управления и соответствия.
 firefox-all-windows-installers-for = Windows-установщики для организаций, которые упростят настройку, развёртывание и управление { -brand-name-firefox-browser(case: "instrumental") }.
 firefox-all-arm64-installers = Установщики ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Установщики ARM64/AArch64, оптимизированные для ПК с Windows и Linux.

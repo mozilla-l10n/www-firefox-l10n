@@ -66,6 +66,7 @@ firefox-all-the-standard-firefox = Y porwr { -brand-name-firefox } safonol - yn 
 firefox-all-get-a-sneak-peek-at = Cael golwg ar nodweddion y porwr { -brand-name-firefox } diweddaraf cyn iddyn nhw gael eu rhyddhau.
 firefox-all-test-your-sites-against = Profwch eich gwefannau yn erbyn nodweddion i'w ryddhau'n fuan y porwr { -brand-name-firefox } gyda DevTools pwerus, hyblyg sydd ar gael drwy ragosodiad.
 firefox-all-count-on-stability-and = Gallwch ddibynnu ar sefydlogrwydd a rhwyddineb defnydd gyda'r porwr { -brand-name-firefox } hwn wedi'i adeiladu ar gyfer menter.
+firefox-all-the-familiar-firefox-browser = Y porwr { -brand-name-firefox } cyfarwydd â rheolyddion diogelwch ychwanegol, wedi'i baru â chonsol gweinyddol i helpu sefydliadau i fodloni gofynion diogelwch, llywodraethu a chydymffurfio llym.
 firefox-all-windows-installers-for = Gosodwyr Windows ar gyfer TG corfforaethol sy'n symleiddio'r ffurfweddiad, darpariaeth a rheoli'r { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Gosodwyr ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Gosodwyr ARM64/AArch64 wedi'u optimeiddio ar gyfer cyfrifiaduron Windows a Linux.

@@ -66,6 +66,7 @@ firefox-all-the-standard-firefox = A szokásos { -brand-name-firefox } böngész
 firefox-all-get-a-sneak-peek-at = Kapjon betekintést a legfrissebb { -brand-name-firefox } böngészőfunkciókba, még a kiadásuk előtt.
 firefox-all-test-your-sites-against = Tesztelje a weboldalait a hamarosan kiadásra kerülő { -brand-name-firefox } böngészőfunkciókkal és a hatékony, rugalmas fejlesztői eszközökkel, melyek alapértelmezetten be vannak kapcsolva.
 firefox-all-count-on-stability-and = Stabilitásra és könnyű használatra számíthat ezzel a kifejezetten vállalatok számára készült { -brand-name-firefox } böngészővel.
+firefox-all-the-familiar-firefox-browser = Az ismerős { -brand-name-firefox } böngésző további biztonsági ellenőrzésekkel, felügyeleti konzollal párosítva, hogy segítsen a szervezeteknek megfelelni a szigorú biztonsági, irányítási és megfelelőségi követelményeknek.
 firefox-all-windows-installers-for = Windowsos telepítők a vállalati informatikai részlegek számára, melyek egyszerűsítik a { -brand-name-firefox-browser } beállítását, telepítését és kezelését.
 firefox-all-arm64-installers = ARM64/AArch64 telepítők
 firefox-all-arm64-installers-optimized-v2 = Windowsos és linuxos PC-kre optimalizált ARM64/AArch64 telepítők.

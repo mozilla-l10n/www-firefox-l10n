@@ -159,3 +159,4 @@ firefox-desktop-download-interrupted = თქვენი ჩამოტვი�
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = თქვენი სისტემა შესაძლოა { -brand-name-firefox }-ის მოთხოვნებს ვერ აკმაყოფილებდეს, თუმცა შეგიძლიათ სცადოთ ერთ-ერთი <a href="{ $url }">ამ ვერსიებიდან</a>.
+download-chromebook-x86-based-chromebook = *x86-ზე დაფუძნებული Chromebook, რომელიც მუშაობს Chrome OS 80 ან უფრო ახალ ვერსიაზე

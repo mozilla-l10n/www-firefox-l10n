@@ -66,6 +66,7 @@ firefox-all-the-standard-firefox = ჩვეულებრივი { -brand-na
 firefox-all-get-a-sneak-peek-at = თვალი შეავლეთ ჩვენი უახლესი { -brand-name-firefox }-ბრაუზერის შესაძლებლობებს მის გამოსვლამდე.
 firefox-all-test-your-sites-against = გამოცადეთ საიტები ახლო მომავალში გამოსაშვები { -brand-name-firefox }-ბრაუზერის შესაძლებლობებთან მიმართებით, მძლავრი და მოქნილი DevTools-ით, რომელიც თან მოჰყვება.
 firefox-all-count-on-stability-and = განკუთვნილი მდგრადობისა და მოხერხებულად გამოყენებისთვის, { -brand-name-firefox }-ბრაუზერი საგანგებოდ დაწესებულებებისთვის.
+firefox-all-the-familiar-firefox-browser = ნაცნობი { -brand-name-firefox } ბრაუზერი უსაფრთხოების მართვის დამატებითი საშუალებებით, დაკავშირებულია ადმინისტრატორის კონსოლთან, რომ ორგანიზაციებს დაეხმარონ უსაფრთხოების, მმართველობისა და შესაბამისობის მოთხოვნების მკაცრი დაკმაყოფილებაში.
 firefox-all-windows-installers-for = Windows-ზე დასაყენებლად დაწესებულებებისთვის, { -brand-name-firefox-browser(case: "gen") } ადვილად განთავსების, გაწყობისა და მართვისთვის.
 firefox-all-arm64-installers = ARM64/AArch64 დასაყენებელი
 firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 გამშვები ფაილები საგანგებოდაა მორგებული Windows-სა და Linux-კომპიუტერებზე.

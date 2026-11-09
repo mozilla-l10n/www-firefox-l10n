@@ -159,3 +159,4 @@ firefox-desktop-download-interrupted = 下載已中斷，但已下載的部分�
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = 您的系統可能不符合執行 { -brand-name-firefox } 的最低需求，但還是可以試試<a href="{ $url }">這些版本</a>。
+download-chromebook-x86-based-chromebook = * x86 平台 Chromebook 執行 Chrome OS 80 或更新版本
