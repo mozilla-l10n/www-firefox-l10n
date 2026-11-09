@@ -159,3 +159,4 @@ firefox-desktop-download-interrupted = Waše sćehnjenje je so přetorhnyło. Al
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Waš system najskerje žadanjam { -brand-name-firefox } njewotpowěduje, ale móžeće jednu z <a href="{ $url }">tutych wersijow</a> wupytać.
+download-chromebook-x86-based-chromebook = *Chromebook na zakładźe x86 z Chrome OS 80 abo nowšim
