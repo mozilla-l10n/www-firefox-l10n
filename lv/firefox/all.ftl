@@ -13,6 +13,7 @@ firefox-all-choose-language = Jāizvēlas valoda, lai turpinātu
 firefox-all-lang-multi = Vairākas valodas
 firefox-all-plat-mobile = Android un iOS
 firefox-all-choose-which-firefox = Izvēlieties, kuru { -brand-name-firefox-browser } lejupielādēt savā valodā
+firefox-all-the-familiar-firefox-browser = Pazīstamais { -brand-name-firefox } pārlūks ar papildu drošības vadīklām, apvienots ar pārvaldības konsoli, lai palīdzētu apvienībām ievērot stingrus drošības, pārvaldības un atbilstības prasības.
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
