@@ -66,6 +66,7 @@ firefox-all-the-standard-firefox = Klasický { -brand-name-firefox } - rýchly a
 firefox-all-get-a-sneak-peek-at = Vyskúšajte najnovšie funkcie { -brand-name-firefox(case: "gen") } pred vydaním finálnej verzie.
 firefox-all-test-your-sites-against = Otestujte svoje stránky s ohľadom na pripravované nové funkcie prehliadača { -brand-name-firefox } pomocou výkonných a flexibilných vývojárskych nástrojov, ktoré sú v predvolenom nastavení zapnuté.
 firefox-all-count-on-stability-and = Spoľahnite sa na stabilitu a jednoduché používanie prehliadača { -brand-name-firefox } vytvoreného pre podniky.
+firefox-all-the-familiar-firefox-browser = Dobre známy prehliadač { -brand-name-firefox } s rozšírenými bezpečnostnými prvkami a správcovskou konzolou, ktorá organizáciám pomáha spĺňať prísne požiadavky na bezpečnosť, správu a súlad s predpismi.
 firefox-all-windows-installers-for = Inštalátory systému Windows pre podnikové IT, ktoré zjednodušujú konfiguráciu, nasadenie a správu { -brand-name-firefox-browser(capitalization: "lower", case: "gen") }.
 firefox-all-arm64-installers = Inštalátory ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Inštalačné programy ARM64/AArch64 optimalizované pre počítače so systémom Windows a Linux.

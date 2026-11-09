@@ -159,3 +159,4 @@ firefox-desktop-download-interrupted = Vaše sťahovanie bolo prerušené. Nič 
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Váš systém nemusí spĺňať požiadavky pre { -brand-name-firefox }. Môžete však skúsiť niektorú z <a href="{ $url }">týchto verzií</a>.
+download-chromebook-x86-based-chromebook = *Chromebook s procesorom x86 a systémom Chrome OS 80 alebo novším
