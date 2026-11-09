@@ -66,6 +66,7 @@ firefox-all-the-standard-firefox = مرورگر استاندارد { -brand-name
 firefox-all-get-a-sneak-peek-at = قبل از انتشار، نیم نگاهی به جدیدترین ویژگی‌های مرورگر { -brand-name-firefox } بیاندازید.
 firefox-all-test-your-sites-against = سایت‌های خود را در برابر ویژگی‌های جدید مرورگر { -brand-name-firefox } که به زودی منتشر خواهند شد را با ابزارهای توسعه‌ای قدرتمند و قابل انعطاف که به طور پیش فرض فعال هستند، آزمایش کنید.
 firefox-all-count-on-stability-and = روی ثبات و سهولت استفاده از مرورگر { -brand-name-firefox } برای شرکت‌ها و سازمان‌ها حساب کنید.
+firefox-all-the-familiar-firefox-browser = همان مرورگر آشنای { -brand-name-firefox } با کنترل‌های امنیتی بیشتر، همراه با یک پیشانه مدیریت که به سازمان‌ها کمک می‌کند الزامات سخت‌گیرانهٔ امنیت، حاکمیت و انطباق را برآورده کنند.
 firefox-all-windows-installers-for = نصاب‌های ویندوز برای IT شرکت‌ها که پیکربندی، استقرار و مدیریت مرورگر { -brand-name-firefox-browser } را ساده می‌کنند.
 firefox-all-arm64-installers = نصاب‌های آرم64/AArch64
 firefox-all-arm64-installers-optimized-v2 = نصب‌کننده‌های ARM64/AArch64 بهینه‌شده برای رایانه‌های ویندوزی و لینوکسی.

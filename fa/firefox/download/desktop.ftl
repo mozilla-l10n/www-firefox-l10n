@@ -159,3 +159,4 @@ firefox-desktop-download-interrupted = دانلود شما قطع شد اما ه
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = ممکن است سیستم شما شرایط لازم برای { -brand-name-firefox } را نداشته باشد، اما می‌توانید یکی از <a href="{ $url }">این نسخه‌ها</a> را امتحان کنید.
+download-chromebook-x86-based-chromebook = *Chromebook مبتنی بر x86 با Chrome OS نگارش ۸۰ یا جدیدتر
