@@ -20,7 +20,7 @@ firefox-enterprise-firefox-latest-arm64 = { -brand-name-firefox } (послед�
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-esr-msi = { -brand-name-firefox-esr } — MSI
 firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } — PKG
-firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64-битный
+firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64-разрядный
 firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
 # Shown on the enterprise release-notes page.
 firefox-enterprise-request-early-access = Запросить ранний доступ
