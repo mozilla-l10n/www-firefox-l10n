@@ -159,3 +159,4 @@ firefox-desktop-download-interrupted = Quá trình tải xuống của bạn b�
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Hệ thống của bạn có thể không đáp ứng các yêu cầu của { -brand-name-firefox }, nhưng bạn có thể thử một trong <a href="{ $url }">các phiên bản này</a>.
+download-chromebook-x86-based-chromebook = *Chromebook dùng kiến trúc x86 chạy Chrome OS 80 trở lên

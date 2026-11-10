@@ -66,6 +66,7 @@ firefox-all-the-standard-firefox = Trình duyệt { -brand-name-firefox } tiêu 
 firefox-all-get-a-sneak-peek-at = Hãy xem qua các tính năng mới nhất của trình duyệt { -brand-name-firefox } trước khi chúng được phát hành.
 firefox-all-test-your-sites-against = Kiểm tra các trang web của bạn với các tính năng trình duyệt { -brand-name-firefox } sắp được phát hành với DevTools mạnh mẽ, linh hoạt được bật theo mặc định.
 firefox-all-count-on-stability-and = Dựa vào tính ổn định và dễ sử dụng với trình duyệt { -brand-name-firefox } này được xây dựng cho doanh nghiệp.
+firefox-all-the-familiar-firefox-browser = Trình duyệt { -brand-name-firefox } quen thuộc với các tính năng bảo mật bổ sung, kết hợp với bảng điều khiển quản trị giúp các tổ chức đáp ứng các yêu cầu nghiêm ngặt về bảo mật, quản trị và tuân thủ.
 firefox-all-windows-installers-for = Trình cài đặt Windows cho CNTT doanh nghiệp giúp đơn giản hóa việc cấu hình, triển khai và quản lý { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Trình cài đặt ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Trình cài đặt ARM64/AArch64 được tối ưu cho PC Windows và Linux.
