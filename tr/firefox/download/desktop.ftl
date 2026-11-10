@@ -159,3 +159,4 @@ firefox-desktop-download-interrupted = İndirmeniz kesintiye uğradı.
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Sisteminiz { -brand-name-firefox }’un gereksinimlerini karşılamıyor olabilir ama <a href="{ $url }">şu sürümlerden</a> birini deneyebilirsiniz.
+download-chromebook-x86-based-chromebook = *Chrome OS 80 veya üzerini çalıştıran x86 tabanlı Chromebook

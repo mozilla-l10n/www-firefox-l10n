@@ -66,6 +66,7 @@ firefox-all-the-standard-firefox = Standart { -brand-name-firefox } tarayıcıs�
 firefox-all-get-a-sneak-peek-at = En yeni { -brand-name-firefox } özelliklerini herkesten önce deneyin.
 firefox-all-test-your-sites-against = Hem güçlü ve esnek geliştirici araçlarımızla sitelerinizi test edin hem de yakında çıkacak { -brand-name-firefox } özelliklerini deneyin.
 firefox-all-count-on-stability-and = { -brand-name-firefox } tarayıcısının kurumlara yönelik sürümünde güvenilirlik ve kullanım kolaylığı bir arada.
+firefox-all-the-familiar-firefox-browser = Bildiğiniz { -brand-name-firefox } tarayıcısının yanı sıra kuruluşların katı güvenlik, yönetişim ve uyumluluk gereksinimlerini karşılamasını sağlayan ek güvenlik denetimleri ve yönetici konsolu.
 firefox-all-windows-installers-for = Kurumsal BT departmanları için { -brand-name-firefox-browser }nın yapılandırmasını, dağıtımını ve yönetimini basitleştiren Windows yükleyicileri.
 firefox-all-arm64-installers = ARM64/AArch64 yükleyiciler
 firefox-all-arm64-installers-optimized-v2 = Windows ve Linux bilgisayarlar için optimize edilmiş ARM64/AArch64 yükleyiciler.
