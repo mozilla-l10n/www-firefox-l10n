@@ -159,3 +159,4 @@ firefox-desktop-download-interrupted = Tu discargamento se interrumpeva, ma non 
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Tu systema possibilemente non satisface le requisitos pro exequer { -brand-name-firefox }, ma tu pote probar un de <a href="{ $url }">iste versiones</a>.
+download-chromebook-x86-based-chromebook = Chromebook basate sur *x86 exequente Chrome OS 80 o successive

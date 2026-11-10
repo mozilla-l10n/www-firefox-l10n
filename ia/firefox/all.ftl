@@ -66,6 +66,7 @@ firefox-all-the-standard-firefox = Le navigator { -brand-name-firefox } standard
 firefox-all-get-a-sneak-peek-at = Da un oculata al ultime functionalitates del navigator { -brand-name-firefox } ante que illos es publicate.
 firefox-all-test-your-sites-against = Verifica tu sitos con le nove functionalitates del navigator { -brand-name-firefox } con le potente e flexibile DevTools que es jam active.
 firefox-all-count-on-stability-and = Conta sur le stabilitate e le facilitate de uso de iste navigator { -brand-name-firefox } specific pro interprisa.
+firefox-all-the-familiar-firefox-browser = Le familiar navigator { -brand-name-firefox } con controlos de securitate additional, accopulate con un consola de administrator consola a adjutar te organisationes a discoperir requisitos rigorose de securitate, gestion, e conformitate.
 firefox-all-windows-installers-for = Installatores de Windows pro Technologia de information corporative, que simplifica configuration, displicamento e gestion de { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Programmas de installation ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 installatores optimisate pro PCs Windows e Linux.
