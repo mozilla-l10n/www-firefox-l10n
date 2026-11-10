@@ -178,3 +178,4 @@ firefox-desktop-download-interrupted = Ihr Download wurde unterbrochen. Aber es 
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Möglicherweise erfüllt dein System nicht alle Voraussetzungen für { -brand-name-firefox }. Versuche es mit einer <a href="{ $url }">dieser Versionen</a>.
+

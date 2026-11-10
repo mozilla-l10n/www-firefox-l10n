@@ -178,3 +178,4 @@ firefox-desktop-download-interrupted = انقطعت عملية التنزيل. �
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = قد لا يفي نظامك بمُتطلبات { -brand-name-firefox }، ولكن يُمكنك تجربة أحد <a href="{ $url }">هذه الإصدارات</a>.
+

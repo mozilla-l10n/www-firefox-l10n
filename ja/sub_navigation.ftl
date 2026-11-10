@@ -3,10 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-sub-navigation-all-languages = 全言語
 sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = ブラウザーを比較する
-sub-navigation-firefox-for-desktop = デスクトップ用 { -brand-name-firefox }
 sub-navigation-release-notes = リリースノート
 sub-navigation-release-channels = リリースチャンネル
 sub-navigation-desktop = デスクトップ
@@ -17,11 +15,6 @@ sub-navigation-desktop-beta-and-developer = デスクトップ用 { -brand-name-
 sub-navigation-desktop-nightly = デスクトップ用 { -brand-name-nightly }
 sub-navigation-features = 機能
 sub-navigation-more = 詳しく
-sub-navigation-chromebook = { -brand-name-chromebook }
-sub-navigation-windows = { -brand-name-windows }
-sub-navigation-windows-64-bit = { -brand-name-windows } 64 ビット
-sub-navigation-mac = { -brand-name-mac-short }
-sub-navigation-linux = { -brand-name-linux }
 sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly } と { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-android } { -brand-name-nightly } と { -brand-name-beta }

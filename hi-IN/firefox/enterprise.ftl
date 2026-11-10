@@ -2,27 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
+### URL: https://www-dev.springfield.moz.works/enterprise/#download
 
-# Page title
-firefox-enterprise-use-firefox-esr-enterprise-browser = व्यापक स्तर पर सुरक्षा के लिए { -brand-name-firefox } या { -brand-name-esr } को अपने एंटरप्राइज़ ब्राउज़र के रूप में अपनाएं
-# Page description
-firefox-enterprise-open-source-browser-with-enterprise-security = { -brand-name-firefox } एक ओपन-सोर्स ब्राउज़र है जिसमें एंटरप्राइज़-स्तरीय सुरक्षा, प्राइवेसी और फ़्लेक्सिबिलिटी है। अगर आपको नवीनतम फ़ीचर्स चाहिए तो { -brand-name-firefox } चुनें, और लंबे समय की स्थिरता के लिए { -brand-name-esr } चुनें।
-
-firefox-enterprise-brand-name = { -brand-name-enterprise }
-firefox-enterprise-use-as-your-enterprise-browser = { -brand-name-firefox } को अपने एंटरप्राइज़ ब्राउज़र के रूप में इस्तेमाल करें
-
-firefox-enterprise-secure-at-scale = { -brand-name-firefox } व्यापक रूप से सुरक्षित, भरोसेमंद और निजता-केंद्रित ब्राउज़िंग की सुविधा देता है। { -brand-name-firefox } या { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) दोनों में एंटरप्राइज़ नीतियों के साथ, कंपनियों व संस्थाओं को एक भरोसेमंद ओपन-सोर्स ब्राउज़र में फ़्लेक्सिबिलिटी, कंट्रोल और पारदर्शिता प्राप्त होती है।
-firefox-enterprise-protection-powered-by = एंटरप्राइज़-स्तरीय सुरक्षा, { -brand-name-firefox } द्वारा संचालित
-
-firefox-enterprise-open-source-transparency = { -brand-name-firefox } ओपन-सोर्स की पारदर्शिता के साथ ही साथ एडवांस्ड सुरक्षा फ़ीचर्स और रेगुलर अपडेट मिलने से, आपके ऑर्गनाज़ेशन के डेटा की सुरक्षा सुनिश्चित हो जाती है।
-
-firefox-enterprise-your-browser-your-business = ब्राउज़र आपका, बिज़नेस आपका
-firefox-enterprise-deploy-when-and-how-you-want = निर्धारित करें कि आप कब और कैसे उपयोग करना चाहते हैं
-firefox-enterprise-install-packages-policies = इंस्टॉल पैकेजों तथा समूह नीतियों और फ़ीचर्स की व्यापक रेंज के साथ, इसे इंस्टॉल कर काम में लाना पहले से कहीं ज़्यादा फ़ास्ट और ज़्यादा फ़्लेक्सिबल है — और Windows, Linux तथा macOS वातावरण में यह बहुत आसान है।
-firefox-enterprise-release-cycles = ऐसे रिलीज़ साइकिल, जो आपके ऑर्गनाज़ेशन के अनुरूप होते हैं
-firefox-enterprise-choose-firefox-for-features-esr-stability = हर चार हफ़्ते में मिलने वाले नए फ़ीचर्स और स्टेबल रिलीज़ के लिए { -brand-name-firefox } चुनें, या सालाना प्रमुख रिलीज़, दीर्घकालिक स्थिरता, नियमित सुरक्षा अपडेट के लिए { -brand-name-firefox-esr } चुनें।
-firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } डाउनलोड
 firefox-enterprise-windows = { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-linux = { -brand-name-linux }
@@ -42,28 +23,6 @@ firefox-enterprise-firefox-esr-msi = { -brand-name-firefox-esr } — MSI
 firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } — PKG
 firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64-बिट
 firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
-firefox-enterprise-resources = संसाधन
-firefox-enterprise-release-notes-v2 = { -brand-name-enterprise } रिलीज़ नोट्स
 
-# Canonical home for all enterprise deployment and administration documentation.
-firefox-enterprise-documentation = { -brand-name-firefox } { -brand-name-enterprise } डॉक्यूमेंटेशन
-
-# Downloadable policy templates for Windows, macOS, and Linux (GitHub releases).
-firefox-enterprise-policy-templates = पॉलिसी टेम्पलेट
-
-# Kept as a fallback for firefox-enterprise-release-notes-v2 until it is translated.
-# Obsolete string (expires: 2026-08-18)
-firefox-enterprise-release-notes = रिलीज़ नोट्स
-
-# Variables:
-#   $firefox_all (url) - link to https://www.firefox.com/download/all/
-firefox-enterprise-download-firefox-or-esr = { -brand-name-firefox } या { -brand-name-firefox-esr } डाउनलोड करें - <a { $firefox_all }>किसी अन्य भाषा या प्लेटफ़ॉर्म</a> के लिए।
-
-firefox-enterprise-support-for-organizations-v2 = { -brand-name-firefox-professional-support }
-
-firefox-enterprise-early-access-is-v2 = हमारे नए सपोर्ट प्रोग्राम का अर्ली एक्सेस अब शुरू हो चुका है। यह उन ऑर्गनाइज़ेशन के लिए तैयार किया गया है जो { -brand-name-firefox } का उपयोग इसलिए करते हैं ताकि सुरक्षा, मजबूती और डेटा संप्रभुता सुनिश्चित हो, यह बड़े पैमाने पर डिप्लॉयमेंट के लिए प्राइवेट, विश्वसनीय और कस्टम सपोर्ट प्रदान करता है।
-firefox-enterprise-contact-sales = सेल्स से संपर्क करें
-firefox-enterprise-support-for-organizations-documentation-v2 = { -brand-name-firefox-professional-support } डॉक्यूमेंटेशन
-firefox-enterprise-support-for-organizations-is-v2 = { -brand-name-firefox-professional-support } एक समर्पित सेवा है उन टीमों के लिए जिन्हें प्राइवेट इश्यू ट्राएज और एस्कलेशन, निर्धारित रिस्पॉन्स समय, कस्टम डेवलपमेंट विकल्प, और { -brand-name-mozilla } की इंजीनियरिंग व प्रोडक्ट टीमों के साथ निकट सहयोग की आवश्यकता होती है।
-firefox-enterprise-support-plan = सपोर्ट प्लान
+# Shown on the enterprise release-notes page.
 firefox-enterprise-request-early-access = अर्ली एक्सेस का अनुरोध करें

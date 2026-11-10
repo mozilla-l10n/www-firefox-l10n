@@ -3,10 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-sub-navigation-all-languages = Semua Bahasa
 sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = Bandingkan Peramban
-sub-navigation-firefox-for-desktop = { -brand-name-firefox } untuk Desktop
 sub-navigation-release-notes = Catatan Rilis
 sub-navigation-release-channels = Kanal Rilis
 sub-navigation-desktop = Desktop
@@ -17,11 +15,6 @@ sub-navigation-desktop-beta-and-developer = Desktop { -brand-name-beta } & { -br
 sub-navigation-desktop-nightly = Desktop { -brand-name-nightly }
 sub-navigation-features = Fitur
 sub-navigation-more = Lainnya
-sub-navigation-chromebook = { -brand-name-chromebook }
-sub-navigation-windows = { -brand-name-windows }
-sub-navigation-windows-64-bit = { -brand-name-windows } 64-bit
-sub-navigation-mac = { -brand-name-mac-short }
-sub-navigation-linux = { -brand-name-linux }
 sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly } dan { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-android } { -brand-name-nightly } dan { -brand-name-beta }
