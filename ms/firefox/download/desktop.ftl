@@ -178,3 +178,4 @@ firefox-desktop-download-interrupted = Muat turun anda terganggu. Tapi jangan bi
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Sistem anda mungkin tidak memenuhi syarat untuk { -brand-name-firefox }, tetapi anda boleh cuba salah satu <a href="{ $url }">versi ini</a>.
+
