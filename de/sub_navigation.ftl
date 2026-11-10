@@ -3,10 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-sub-navigation-all-languages = Alle Sprachen
 sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = Browser-Vergleich
-sub-navigation-firefox-for-desktop = { -brand-name-firefox } für Desktop
 sub-navigation-release-notes = Versionshinweise
 sub-navigation-release-channels = Versionskanäle
 sub-navigation-desktop = Desktop
@@ -17,11 +15,6 @@ sub-navigation-desktop-beta-and-developer = { -brand-name-beta } & { -brand-name
 sub-navigation-desktop-nightly = { -brand-name-nightly } für Desktop-PCs
 sub-navigation-features = Funktionen
 sub-navigation-more = Mehr
-sub-navigation-chromebook = { -brand-name-chromebook }
-sub-navigation-windows = { -brand-name-windows }
-sub-navigation-windows-64-bit = { -brand-name-windows } 64-Bit
-sub-navigation-mac = { -brand-name-mac-short }
-sub-navigation-linux = { -brand-name-linux }
 sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly } und { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-android } { -brand-name-nightly } und { -brand-name-beta }
