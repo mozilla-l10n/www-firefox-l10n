@@ -178,3 +178,4 @@ firefox-desktop-download-interrupted = आपका डाउनलोड बा
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = आपका सिस्टम { -brand-name-firefox } के लिए ज़रूरी आवश्यकताओं पर खरा नहीं उतरता, मगर आप <a href="{ $url }">इनमें से कोई एक संस्करण</a> आज़मा सकते हैं।
+
