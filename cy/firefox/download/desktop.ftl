@@ -159,4 +159,4 @@ firefox-desktop-download-interrupted = Cafodd eich llwytho i lawr ei darfu. Ond 
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Efallai nad yw eich system yn cwrdd â gofynion { -brand-name-firefox }, ond mae modd i chi brofi un o'r <a href="{ $url }">rhain</a>:
-download-chromebook-x86-based-chromebook = * Chromebook seiliedig ar x86 yn rhedeg Chrome OS 80 neu ddiweddarach
+download-chromebook-x86-based-chromebook = * Chromebook yn seiliedig ar x86, yn rhedeg Chrome OS 80 neu ddiweddarach
