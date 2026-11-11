@@ -10,3 +10,4 @@
 
 browser-comparison-result-yes = Ja
 browser-comparison-result-no = Nee
+browser-comparison-result-limited = Beperkt

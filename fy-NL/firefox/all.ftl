@@ -66,6 +66,7 @@ firefox-all-the-standard-firefox = De standert { -brand-name-firefox }-browser -
 firefox-all-get-a-sneak-peek-at = Besjoch in foarpriuwke fan de nijste { -brand-name-firefox }-browserfunksjes eardat dizze útjûn wurde.
 firefox-all-test-your-sites-against = Test jo websites tsjin ynkoarten te ferskinen { -brand-name-firefox }-browserfunksjes mei krêftige, fleksibele DevTools dy’t standert ynskeakele binne.
 firefox-all-count-on-stability-and = Rekkenje op stabiliteit en brûksgemak mei dizze { -brand-name-firefox }-browser dy’t boud is foar bedriuwen.
+firefox-all-the-familiar-firefox-browser = De fertroude { -brand-name-firefox }-browser mei ekstra befeiligingsmaatregelen, kombinearre mei in behearconsole, om organisaasjes te helpen te foldwaan oan strange easken op it mêd fan befeiliging, bestjoer en neilibjen.
 firefox-all-windows-installers-for = Windows-ynstallaasjeprogramma’s foar IT-ôfdielingen dy’t de konfiguraasje, ymplemintaasje en it behear fan de { -brand-name-firefox-browser } ferienfâldigje.
 firefox-all-arm64-installers = ARM/AArch64-ynstallaasjeprogramma’s
 firefox-all-arm64-installers-optimized-v2 = ARM64-/AArch64-ynstallaasjeprogramma’s optimalisearre foar Windows- en Linux-pc’s.

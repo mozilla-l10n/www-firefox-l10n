@@ -159,3 +159,4 @@ firefox-desktop-download-interrupted = Uw download is onderbroken. Maar er is no
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Uw systeem voldoet mogelijk niet aan de vereisten voor { -brand-name-firefox }, maar u kunt een van <a href="{ $url }">deze versies</a> proberen.
+download-chromebook-x86-based-chromebook = *x86-gebaseerde Chromebook met Chrome OS 80 of hoger
