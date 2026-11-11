@@ -66,6 +66,7 @@ firefox-all-the-standard-firefox = Стандартты { -brand-name-firefox } 
 firefox-all-get-a-sneak-peek-at = { -brand-name-firefox } браузерінің ең соңғы мүмкіндіктерін шығарар алдында алдын ала қарап шығыңыз.
 firefox-all-test-your-sites-against = Әдепкі бойынша іске қосылған қуатты, икемді әзірлеуші құралдары көмегімен сайттарыңызды жақын арада шығарылатын { -brand-name-firefox } браузер мүмкіндіктерімен сынаңыз.
 firefox-all-count-on-stability-and = Кәсіпорынға арналған осы { -brand-name-firefox } браузерімен тұрақтылық пен пайдаланудың қарапайымдылығына сеніңіз.
+firefox-all-the-familiar-firefox-browser = Ұйымдарға қатаң қауіпсіздік, басқару және сәйкестік талаптарын орындауға көмектесетін әкімшілік консолімен жұптастырылған, қосымша қауіпсіздік басқару элементтері бар таныс { -brand-name-firefox } браузері.
 firefox-all-windows-installers-for = { -brand-name-firefox-browser } конфигурациясын, орналастыруын және басқаруын жеңілдететін корпоративтік IT үшін Windows орнатушылары.
 firefox-all-arm64-installers = ARM64/AArch64 орнатушылары
 firefox-all-arm64-installers-optimized-v2 = Windows және Linux ДК үшін оңтайландырылған ARM64/AArch64 орнатқыштары.

@@ -159,3 +159,4 @@ firefox-desktop-download-interrupted = Жүктеуіңіз үзілді. Бір
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Сіздің жүйеңіз { -brand-name-firefox } талаптарына сай келмеуі мүмкін, сіз <a href="{ $url }">келесі нұсқаларды</a> қолданып көре аласыз.
+download-chromebook-x86-based-chromebook = *Chrome OS 80 немесе одан кейінгі нұсқасында жұмыс істейтін x86 негізіндегі Chromebook
