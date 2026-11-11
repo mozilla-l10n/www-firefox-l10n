@@ -7,3 +7,5 @@
 
 consent-banner-fx-heading = Palīdziet mums uzlabot jūsu pieredzi vietnē firefox.com
 consent-banner-body-v2 = Papildus sīkdatnem, kas nepieciešami šīs vietnes darbībai, mēs vēlētos jūsu atļauju iestatīt dažus papildu sīkdatnes, lai labāk izprastu jūsu pārlūkošanas vajadzības un uzlabotu jūsu pieredzi. Esiet droši — mēs cienām jūsu privātumu.
+consent-banner-button-reject = Noraidīt visus papildu sīkdatnes
+consent-banner-button-accept = Akceptēt visas papildu sīkdatnes
