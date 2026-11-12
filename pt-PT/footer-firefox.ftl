@@ -62,6 +62,7 @@ footer-follow-us = Seguir-nos
 footer-instagram = Instagram
 footer-facebook = Facebook
 footer-youtube = YouTube
+footer-x = X
 footer-tiktok = TikTok
 
 ## Legal links
