@@ -62,6 +62,7 @@ footer-follow-us = ما را پی‌گیری کنید
 footer-instagram = اینستاگرام
 footer-facebook = فیس‌بوک
 footer-youtube = یوتیوب
+footer-x = X
 footer-tiktok = تیک‌تاک
 
 ## Legal links
