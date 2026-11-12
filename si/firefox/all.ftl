@@ -19,12 +19,16 @@ firefox-all-down-arrow = පහත ලැයිස්තුවෙන් තෝ�
 firefox-all-get-help = උදව් ගන්න
 # Obsolete string (expires: 2026-04-10)
 firefox-all-browser-v2 = 1. අතිරික්සුව:
+firefox-all-browser-v3 = අතිරික්සුව
 # Obsolete string (expires: 2026-04-10)
 firefox-all-platform-v2 = 2. වේදිකාව:
+firefox-all-platform-v3 = වේදිකාව
 # Obsolete string (expires: 2026-04-10)
 firefox-all-language-v2 = 3. භාෂාව:
+firefox-all-language-v3 = භාෂාව
 # Obsolete string (expires: 2026-04-10)
 firefox-all-download = 4. බාගන්න:
+firefox-all-download-v2 = බාගන්න
 firefox-all-desktop = වැඩතලය
 firefox-all-mobile = ජංගම
 firefox-all-recommended = (නිර්දේශිත)
