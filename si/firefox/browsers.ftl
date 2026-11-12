@@ -14,6 +14,7 @@ firefox-browsers-download-for-desktop = වැඩතලය සඳහා බා�
 firefox-browsers-windows = { -brand-name-windows } සඳහා { -brand-name-firefox }
 firefox-browsers-mac = { -brand-name-mac-short } සඳහා { -brand-name-firefox }
 firefox-browsers-linux = { -brand-name-linux } සඳහා { -brand-name-firefox }
+firefox-browsers-custom = අභිරුචි බාගැනීම් විකල්ප
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = ඔබගේ සමාගමේ අවශ්‍යතා සඳහා සරිලන සහාය ක්‍රමවේද සමඟ දත්ත වලට අද්විතීය රැකවරණයක් ලබා ගන්න.
 firefox-browsers-enterprise-packages = { -brand-name-enterprise } ඇසුරුම්

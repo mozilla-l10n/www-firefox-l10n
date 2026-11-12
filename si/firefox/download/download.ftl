@@ -43,3 +43,10 @@ firefox-new-fast = වේගවත්, පෞද්ගලික සහ නොම
 firefox-new-from-mozilla = { -brand-name-mozilla } වෙතින්
 firefox-new-desc = { -brand-name-firefox-browser } යනු වේගයෙන් පිටු පූරණය වන, අඩු මතක භාවිතයක් සහිත විශේෂාංග වලින් පිරී තිබෙන නොමිලේ අතිරික්සුවකි - ලාභ නොලබන { -brand-name-mozilla } හි ව්‍යාපෘතියකි.
 firefox-new-download-a-different = වෙනස් වේදිකාවක් හෝ භාෂාවක් බාගන්න
+# Download platforms
+firefox-new-platform-windows = වින්ඩෝස්
+firefox-new-platform-macos = මැක්ඕඑස්
+firefox-new-platform-linux = ලිනක්ස්
+firefox-new-platform-android = ඇන්ඩ්‍රොයිඩ්
+firefox-new-platform-ios = අයිඕඑස්
+firefox-new-platform-chromebook = ක්‍රෝම්බුක්
