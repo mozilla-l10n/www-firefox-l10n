@@ -6,3 +6,4 @@
 ## Links to social media
 
 footer-facebook = Facebook
+footer-x = X
