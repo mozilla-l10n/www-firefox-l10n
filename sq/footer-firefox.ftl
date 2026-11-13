@@ -26,8 +26,11 @@ footer-nightly = { -brand-name-nightly }
 
 # Obsolete string (expires: 2026-12-19)
 footer-business = { -brand-name-firefox } për Biznes
+# Section title
+footer-for-business = Për Biznes
 # Obsolete string (expires: 2026-12-19)
 footer-enterprise = { -brand-name-enterprise }
+footer-firefox-enterprise = { -brand-name-firefox-enterprise }
 
 ## Links to community groups.
 
@@ -57,7 +60,9 @@ footer-merch-store = Shitore artikujsh
 # Section title
 footer-follow-us = Ndiqnani
 footer-instagram = Instagram
+footer-facebook = Facebook
 footer-youtube = YouTube
+footer-x = X
 footer-tiktok = TikTok
 
 ## Legal links
