@@ -2,11 +2,25 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Lūdzu, ievadiet derīgu epasta adresi
+newsletter-form-you-must-agree-to = Jums jāpiekrīt Privātuma paziņojumam
+newsletter-form-your-email-address = Tava epasta adrese
+newsletter-form-we-are-sorry-but-there = Atvainojiet, bet radās problēma ar mūsu sistēmu. Lūdzu, mēģiniet vēlreiz vēlāk!
+newsletter-form-please-select-country = Lūdzu, atlasiet valsti vai reģionu
+newsletter-form-please-select-language = Lūdzu, izvēlieties valodu
+newsletter-form-button-cta = Reģistrēties
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = yourname@example.com
+newsletter-form-select-country-or-region = Izvēlieties valsti vai reģionu
+newsletter-form-select-language = Izvēlieties valodu
 newsletter-form-your-email-here = TAVA E-PASTA ADRESE
 newsletter-form-get-firefox-news = Saņemiet { -brand-name-firefox } ziņas
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Esmu ar mieru lai { -brand-name-mozilla } apietos ar manam datnēm kā noteiks šajā <a href="{ $url }">Privātuma Politikā</a>
+newsletter-form-we-will-only-send-v2 = Mēs jums sūtīsim tikai ar { -brand-name-mozilla } saistītu informāciju. Jūs varat jebkurā laikā atteikties no abonēšanas.
+newsletter-form-we-will-only-send-firefox-v2 = Mēs jums sūtīsim tikai ar { -brand-name-firefox } saistītu informāciju. Jūs varat jebkurā laikā atteikties no abonēšanas.
+newsletter-form-if-you-havent-previously = Ja iepriekš neesat apstiprinājis abonementu { -brand-name-mozilla } saistītam informatīvajam izdevumam, iespējams, tas būs jādara. Lūdzu, pārbaudiet savu iesūtni vai surogātpasta filtru, lai atrastu no mums epastu.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Jūs
 newsletter-form-get-firefox-tips = Iegūstiet { -brand-name-firefox } ieteikumus, triki, jaunumi un vairāk
 newsletter-form-available-languages = Pieejamās valodas
@@ -14,6 +28,8 @@ newsletter-form-select-country = Izvēlieties valsti
 newsletter-form-sign-me-up = Pierakstiet mani
 newsletter-form-sign-up-now = Tagad reģistrēties
 newsletter-form-thanks = Paldies!
+newsletter-form-yes = Jā
+newsletter-form-no = Nē
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
 multi-newsletter-form-checkboxes-error = Lūdzu, atzīmējiet vismaz vienu no informatīvā biļetena iespējām.

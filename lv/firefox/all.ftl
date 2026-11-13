@@ -46,8 +46,38 @@ firefox-all-choose-a-microsoft-store-installer = Šī opcija atvērs { -brand-na
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Lejupielādēt { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Mēs atrodamies pārejas periodā starp galvenajām ESR versijām { $esr_next_major } un { $esr_current_major }.
+firefox-all-esr-when-there-is = Kad notiek būtisks versijas atjauninājums, vienmēr notiek dažu { -brand-name-firefox-esr } punktu laidienu pārklāšanās, lai cilvēki, kuri izmanto veco versiju, varētu sagatavoties pārejai uz jauno.
+firefox-all-esr-if-you-choose = Ja izvēlēsieties lejupielādēt vecāku ESR versiju, pārejas perioda beigās jūs automātiski atjaunināsiet uz jauno versiju.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Uzziniet vairāk par <a { $attrs }>{ -brand-name-firefox-esr } izlaišanas ciklu</a>.
+firefox-all-check-the-system-requirements = Pārbaudiet sistēmas prasības
+firefox-all-release-notes = Laidiena piezīmes
+firefox-all-source-code = Pirmkods
+firefox-all-need-help = Vai nepieciešama palīdzība?
 firefox-all-choose-which-firefox = Izvēlieties, kuru { -brand-name-firefox-browser } lejupielādēt savā valodā
+firefox-all-firefox-privacy-notice = { -brand-name-firefox } Privātuma paziņojums
+firefox-all-learn-about-firefox = Uzziniet par { -brand-name-firefox } pārlūkiem
+firefox-all-the-standard-firefox = Standarta { -brand-name-firefox } pārlūks — ātrs un privāts. Ja neesat pārliecināts, kuru { -brand-name-firefox } izvēlēties, izvēlieties šo.
+firefox-all-get-a-sneak-peek-at = Iepazīstieties ar jaunākajām { -brand-name-firefox } pārlūka funkcijām, pirms tās tiek izlaistas.
+firefox-all-test-your-sites-against = Pārbaudiet savas vietnes, izmantojot drīzumā izlaižamās { -brand-name-firefox } pārlūka funkcijas, izmantojot jaudīgus un pielāgojamus izstrādātāja rīkus (DevTools), kas ir ieslēgti pēc noklusējuma.
+firefox-all-count-on-stability-and = Paļaujieties uz stabilitāti un lietošanas ērtumu, izmantojot šo { -brand-name-firefox } pārlūku, kas izstrādāts uzņēmumiem.
 firefox-all-the-familiar-firefox-browser = Pazīstamais { -brand-name-firefox } pārlūks ar papildu drošības vadīklām, apvienots ar pārvaldības konsoli, lai palīdzētu apvienībām ievērot stingrus drošības, pārvaldības un atbilstības prasības.
+firefox-all-windows-installers-for = Windows instalētāji korporatīvajām IT nodaļām, kas vienkāršo { -brand-name-firefox-browser } konfigurēšanu, izvietošanu un pārvaldību.
+firefox-all-arm64-installers = ARM64/AArch64 uzstādītāji
+firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 uzstādītāji, kas optimizēti Windows un Linux datoriem.
+firefox-all-testflight = Reģistrējieties, lai testētu { -brand-name-firefox } operētājsistēmā iOS, izmantojot TestFlight
+firefox-all-product-send-link = Nosūtiet lejupielādes saiti uz savu tālruni
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
+firefox-all-choose-a-32-bit-installer = Datoriem ar 32 bitu procesoriem vai vecākiem vai mazāk jaudīgiem datoriem izvēlieties 32 bitu uzstādītāju. <a href="{ $url }">Ja neesat pārliecināts</a>, vai izvēlēties 64 bitu vai 32 bitu instalētāju, iesakām izvēlēties 32 bitu versiju.
+firefox-all-msi-installers = MSI uzstādītāji
+firefox-all-select-your-preferred-language = Atlasi savu vēlamo valodu
+firefox-all-learn-about-installers = Uzziniet par uzstādītājiem
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
@@ -56,3 +86,7 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = Lejupielādēt ESR 115
+firefox-all-note-unsupported = Piezīme. Ja izmantojat operētājsistēmu Windows 7, Windows 8, Windows 8.1 vai macOS 10.12, 10.13 vai 10.14, lūdzu, lejupielādējiet ESR 115, lai izmantotu { -brand-name-firefox }.
