@@ -8,6 +8,7 @@
 
 ## Intro
 
+firefox-home-take-control = Pārvaldiet savu interneta pieredzi
 firefox-home-go-online = Dodieties tiešsaistē ar mazāk uzmanības novēršanas, trokšņa un stresa. Uztveriet mūs kā svaiga gaisa malku.
 
 ## What's new
