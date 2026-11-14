@@ -14,3 +14,5 @@ firefox-enterprise-firefox-latest = { -brand-name-firefox } (เวอร์ช�
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
+# Shown on the enterprise release-notes page.
+firefox-enterprise-request-early-access = ขอสิทธิ์เข้าใช้งานก่อนใคร
