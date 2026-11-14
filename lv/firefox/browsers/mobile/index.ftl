@@ -17,3 +17,4 @@ browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } mobilā v
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Iegūstiet uzlabotu izsekošanas aizsardzību un padariet { -brand-name-firefox } par savu noklusējuma, vienmēr izmantojamo pārlūku savā { -brand-name-iphone } un { -brand-name-ipad } ierīcē.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-looking-for-a-streamlined = Meklējat optimizētu, īpaši ātru mobilo ierīču pārlūku ar nākamā līmeņa privātuma funkcijām? { -brand-name-firefox-focus } automātiski dzēš visu jūsu pārlūkošanas vēsturi no brīža, kad atverat pārlūku, līdz brīdim, kad to aizverat.

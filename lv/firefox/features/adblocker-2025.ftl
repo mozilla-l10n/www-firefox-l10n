@@ -6,3 +6,6 @@
 ### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
 features-adblocker-its-important-to-note = Ir svarīgi piebilst, ka dažas tīmekļvietnes balstās uz reklāmām, lai ielādētu saturu vai nodrošinātu funkcionalitāti. Reklāmu aizturēšana var izraisīt dažādu iespēju nedarbošanos, piemēram, video neatskaņošana vai pieteikšanās iespēju nedarbošanās. Jāizvēlas reklāmu aizturētājs, kas tiek pietiekami bieži atjaunināts, un, ja kāds reklāmu aizturētājs rada būtiskas nebūšanas, jāizmēģina cits, lai atrastu labāku līdzsvaru starp veiktspēju un saderību.
+# Variables:
+#   $url (url) - link to https://www.firefox.com/
+features-adblocker-explore-hundreds = Izpētiet simtiem uz privātumu vērstu papildinājumu, kas pieejami pārlūkprogrammai { -brand-name-firefox }, un atrodiet sev piemērotākos rīkus. <a href="{ $url }">Lejupielādējiet { -brand-name-firefox } </a> jau šodien, lai izbaudītu pārlūku, kas izstrādāta, ņemot vērā jūsu privātumu un veiktspēju.

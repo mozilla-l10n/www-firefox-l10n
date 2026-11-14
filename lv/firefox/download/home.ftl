@@ -15,7 +15,8 @@ firefox-home-go-online = Dodieties tiešsaistē ar mazāk uzmanības novēršana
 
 firefox-home-dial-down = Samaziniet troksni
 firefox-home-block-ads = Liegt reklāmas un uzlabot privātumu ar pielāgojamiem iestatījumiem un kaudzi lejupielādējamu paplašinājumu.
-firefox-home-go-into-reading = Pārej lasīšanas skatā, atver video un iegūsti vairāk kārtības ar stateniskām cilnēm un ciļņu kopām!
+firefox-home-multitasking = Vairāku uzdevumu veikšana?
+firefox-home-go-into-reading = Ieslēdz lasīšanas režīmu, skaties video atsevišķā logā un ievies kārtību ar vertikālām cilnēm un ciļņu kopām.
 
 ## Features
 
