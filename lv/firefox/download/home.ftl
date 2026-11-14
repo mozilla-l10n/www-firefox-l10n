@@ -17,6 +17,7 @@ firefox-home-dial-down = Samaziniet troksni
 firefox-home-block-ads = Liegt reklāmas un uzlabot privātumu ar pielāgojamiem iestatījumiem un kaudzi lejupielādējamu paplašinājumu.
 firefox-home-multitasking = Vairāku uzdevumu veikšana?
 firefox-home-go-into-reading = Ieslēdz lasīšanas režīmu, skaties video atsevišķā logā un ievies kārtību ar vertikālām cilnēm un ciļņu kopām.
+firefox-home-keep-tabs-on = Sekojiet līdzi visām cilnēm
 
 ## Features
 
