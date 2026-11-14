@@ -8,6 +8,9 @@
 firefox-channel-desktop = Datoriem
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
+firefox-channel-take-a-browse-on-the-wild-side = Pārlūkojiet tīmekļa mežonīgo pusi.
+firefox-channel-be-among-the-first-to-explore = Esiet starp pirmajiem, kas izpētīs { -brand-name-firefox } nākotnes versijas datoram, { -brand-name-android } un { -brand-name-ios } versijām.
+firefox-channel-see-something-that-isnt-working = Vai kaut kas nedarbojas? Informējiet mūs.
 firefox-channel-tips-for-filing-a-bug = Padomi nepilnību pieteikšanā
 firefox-channel-all-languages-and-platforms = Visas valodas un platformas
 firefox-channel-all-languages-and-builds = Visas valodas un būvējumi

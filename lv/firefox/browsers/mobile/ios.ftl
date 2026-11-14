@@ -29,3 +29,10 @@ mobile-ios-get-to-the-parts = Ātrāk sasniedziet sev svarīgās interneta daļa
 mobile-ios-find-it-all = Atrodi visu ātrāk
 mobile-ios-get-search-suggestions = Saņemiet meklēšanas ieteikumus meklēšanas joslā un ātri piekļūstiet visbiežāk apmeklētajām vietnēm. Ievadiet meklēšanas jautājumu un saņemiet ieteiktos un iepriekš meklētos rezultātus savās iecienītākajos meklētājos.
 mobile-ios-discover-more-of = Atklājiet vairāk no tā, kas jums patīk
+# Obsolete string (expires 26-10-2025)
+mobile-ios-open-a-new = Atveriet jaunu cilni pārlūkā { -brand-name-firefox }, lai skatītu visbiežāk apmeklētās vietnes, jaunākās grāmatzīmes un populāros rakstus pārlūkā { -brand-name-pocket }. { -brand-name-firefox } nodrošina ātru piekļuvi nesen izmantotajām vietnēm, lai palīdzētu jums ātrāk nokļūt galamērķī.
+mobile-ios-open-a-new-v2 = Atveriet jaunu cilni { -brand-name-firefox }, lai skatītu visbiežāk apmeklētās vietnes un nesen izmantotās grāmatzīmes. { -brand-name-firefox } nodrošina ātru piekļuvi nesen izmantotajām vietnēm, lai palīdzētu jums ātrāk nokļūt galamērķī.
+mobile-ios-about-mozilla = Par { -brand-name-mozilla }
+# Obsolete string (expires 26-10-2025)
+mobile-ios-mozilla-exists-to = { -brand-name-mozilla } pastāv, lai veidotu internetu kā publisku resursu, kas pieejams visiem, jo mēs ticam, ka atvērtība un bezmaksas pieeja ir labāka par slēgtību un kontrolētu pieeju. Mēs veidojam tādus produktus kā { -brand-name-firefox } un { -brand-name-pocket }, lai veicinātu izvēles iespējas, pārredzamību un kontroli.
+mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } pastāv, lai veidotu internetu kā publisku resursu, kas pieejams visiem, jo mēs ticam, ka atvērtība un brīvība ir labāka par noslēpumainību un kontroli. Mēs veidojam tādus produktus kā { -brand-name-firefox }, lai veicinātu izvēles iespējas, pārredzamību un kontroli.
