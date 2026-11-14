@@ -66,6 +66,7 @@ firefox-all-the-standard-firefox = { -brand-name-firefox } 일반 브라우저 �
 firefox-all-get-a-sneak-peek-at = 최신 { -brand-name-firefox }의 신규 기능이 출시되기 전에 미리 체험해 보세요.
 firefox-all-test-your-sites-against = 강력하고 유연한 개발자 도구(DevTools)를 통해, 향후  출시할 { -brand-name-firefox } 브라우저 기능에 대해 여러분의 웹 사이트를 테스트해 보세요.
 firefox-all-count-on-stability-and = 기업용으로 제공하는 { -brand-name-firefox } 브라우저를 사용하여 안정성과 사용 편의성을 고려하시기 바랍니다.
+firefox-all-the-familiar-firefox-browser = 친숙한 { -brand-name-firefox } 브라우저가 추가 보안 제어 기능을 제공하고, 관리 콘솔과 결합되어 조직이 엄격한 보안, 거버넌스 및 규정 준수 요구사항을 충족하도록 돕습니다.
 firefox-all-windows-installers-for = 기업 IT용 윈도 설치 관리자를 통해 { -brand-name-firefox-browser }의 구성, 배포 및 관리를 단순화할 수 있습니다.
 firefox-all-arm64-installers = ARM64 / AArch64 설치 프로그램
 firefox-all-arm64-installers-optimized-v2 = Windows와 Linux PC에 최적화된 ARM64/AArch64 설치 프로그램입니다.

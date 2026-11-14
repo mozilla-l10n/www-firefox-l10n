@@ -159,3 +159,4 @@ firefox-desktop-download-interrupted = 다운로드가 중단되었습니다. �
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = 시스템이 { -brand-name-firefox } 설치 요구 사항을 충족하지 않지만 <a href="{ $url }">이 버전</a> 중 하나를 사용할 수 있습니다.
+download-chromebook-x86-based-chromebook = *x86 기반 Chromebook 및 Chrome OS 80 이상
