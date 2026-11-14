@@ -9,6 +9,7 @@ navigation-get-firefox-phone = Iegūsti { -brand-name-firefox } savā tālrunī
 
 ## Resources
 
+navigation-enterprise = Uzņēmumiem
 navigation-support = Atbalsts
 navigation-add-ons = Papildinājumi
 navigation-all-downloads = Visas lejupielādes
