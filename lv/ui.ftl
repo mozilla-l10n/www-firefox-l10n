@@ -20,3 +20,11 @@ ui-show-less = Rādīt mazāk
 ui-show-all = Rādīt visu
 ui-hide-all = Slēpt visu
 ui-learn-more = Uzzināt vairāk
+ui-view = Skats
+ui-pause-animation = Apturēt animāciju
+ui-play-animation = Atskaņot animāciju
+ui-edit = Labot
+ui-view-all = Skatīt visu
+ui-more-features = Vairāk funkciju
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = Izcelšana
