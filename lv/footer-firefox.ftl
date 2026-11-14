@@ -19,3 +19,4 @@ footer-addons = Papildinājumi
 ## Links to social media
 
 footer-facebook = Facebook
+footer-x = X
