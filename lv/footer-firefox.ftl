@@ -7,6 +7,8 @@
 
 # Section title
 footer-for-business = Uzņēmējdarbībai
+# Obsolete string (expires: 2026-12-19)
+footer-enterprise = { -brand-name-enterprise }
 footer-firefox-enterprise = { -brand-name-firefox-enterprise }
 
 ## Links to resources

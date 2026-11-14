@@ -26,3 +26,18 @@ mobile-android-easily-organize-your = Ērti sakārtojiet cilnes
 mobile-android-got-lots-of = Vai jums ir daudz atvērtu cilņu? Nav problēmu, sakārtojiet tās kolekcijās, lai nezaudētu pieredzi. Kolekcijas var arī koplietot vairākās ierīcēs, lai jūs varētu turpināt pārlūkot tās pašas lietas neatkarīgi no tā, kuru ierīci izmantojat.
 mobile-android-supercharge-firefox-with = Uzlādējiet { -brand-name-firefox } ar papildinājumiem
 mobile-android-addons-are-like = Papildinājumi ir kā jaudīgi mazi rīki, ko varat pievienot pārlūkam, lai veiktu tādas darbības kā noklusējuma privātuma iestatījumu palielināšana un pieredzes pielāgošana.
+mobile-android-pick-up-where = Turpiniet no vietas, kur pārtraucāt
+mobile-android-go-from-your = Pārvietojieties no tālruņa uz klēpjdatoru, planšetdatoru un atpakaļ bez jebkādas kavēšanās. Izmantojot { -brand-name-firefox } visās savās ierīcēs, varat ņemt līdzi savas grāmatzīmes, paroles, saglabātos pieteikšanās datus un pārlūkošanas vēsturi, lai kur jūs dotos.
+mobile-android-search-from-your = Meklēšana tālruņa sākuma ekrānā
+mobile-android-no-need-to = Lietotne nav jāatver. Pievienojiet meklēšanas logrīku { -brand-name-firefox } un meklējiet tīmeklī tieši no savas ierīces sākuma ekrāna.
+mobile-android-pin-videos-to = Piespraust videoklipus ekrānam
+mobile-android-pop-videos-out = Izņemiet videoklipus no tīmekļa vietnēm vai atskaņotājiem un piespraudiet tos tālruņa ekrāna augšdaļā, lai skatītos, kamēr pārlūkojat tīmekli un darāt citas darbības. Izklaidējieties, vienlaikus veicot vairākus uzdevumus vienlaikus.
+mobile-android-about-mozilla = Par { -brand-name-mozilla }
+# Obsolete string (expires 26-10-2025)
+mobile-android-mozilla-exists-to = { -brand-name-mozilla } pastāv, lai veidotu internetu kā publisku resursu, kas pieejams visiem, jo mēs ticam, ka atvērtība un bezmaksas pieeja ir labāka par noslēpumainību un kontrolētu pieeju. Mēs veidojam tādus produktus kā { -brand-name-firefox } un { -brand-name-pocket }, lai veicinātu izvēles iespējas, pārredzamību un kontroli.
+mobile-android-mozilla-exists-to-v2 = { -brand-name-mozilla } pastāv, lai veidotu internetu kā publisku resursu, kas pieejams visiem, jo mēs ticam, ka atvērtība un brīvība ir labāka par noslēpumainību un kontroli. Mēs veidojam tādus produktus kā { -brand-name-firefox }, lai veicinātu izvēles iespējas, pārredzamību un kontroli.
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = Paātriniet internetu ar { -brand-name-firefox } priekš { -brand-name-android }
+mobile-android-see-all-your-open-tabs = Skatiet visas atvērtās cilnes, nesen meklētās meklēšanas un iecienītākās vietnes vienuviet, izmantojot { -brand-name-firefox } pārlūku { -brand-name-android }.
+mobile-android-own-your-home = Pielāgo sākuma ekrānu savām vajadzībām
+mobile-android-get-to-the-parts = Ātrāk sasniedziet sev svarīgās interneta daļas. Izvēlieties skatīt visas atvērtās cilnes, nesen veiktās meklēšanas, grāmatzīmes un iecienītākās vietnes vienuviet.
