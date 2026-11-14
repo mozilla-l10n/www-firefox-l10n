@@ -18,7 +18,10 @@ firefox-home-block-ads = Liegt reklāmas un uzlabot privātumu ar pielāgojamiem
 firefox-home-multitasking = Vairāku uzdevumu veikšana?
 firefox-home-go-into-reading = Ieslēdz lasīšanas režīmu, skaties video atsevišķā logā un ievies kārtību ar vertikālām cilnēm un ciļņu kopām.
 firefox-home-keep-tabs-on = Sekojiet līdzi visām cilnēm
+firefox-home-close-duplicates = Aizveriet dublikātus, meklējiet un piespraudiet atvērtās cilnes — gandrīz bezgalīgajam atvērto cilņu skaitam ir gandrīz bezgalīgas iespējas.
+firefox-home-see-release = Skatīt laidiena piezīmes
 
 ## Features
 
+firefox-home-get-the-browser = Izvēlieties pārlūku, ar kuru darbi ritēs raitāk
 firefox-home-block-ad-trackers = Reklāmu izsekotāju liegšana bez pirksta pacelšanas
