@@ -6,6 +6,10 @@
 ### URL: https://www-dev.springfield.moz.works/
 
 
+## Intro
+
+firefox-home-go-online = Dodieties tiešsaistē ar mazāk uzmanības novēršanas, trokšņa un stresa. Uztveriet mūs kā svaiga gaisa malku.
+
 ## What's new
 
 firefox-home-block-ads = Liegt reklāmas un uzlabot privātumu ar pielāgojamiem iestatījumiem un kaudzi lejupielādējamu paplašinājumu.

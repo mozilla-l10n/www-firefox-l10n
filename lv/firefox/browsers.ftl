@@ -5,3 +5,5 @@
 
 ### URL: https://www-dev.springfield.moz.works/browsers/desktop/
 
+# HTML page description
+firefox-browsers-page-desc-v2 = Lejupielādējiet pārlūku, kurai jūsu privātums ir pirmajā vietā — iegūstiet { -brand-name-firefox } operētājsistēmai Windows, macOS vai Linux datorā.

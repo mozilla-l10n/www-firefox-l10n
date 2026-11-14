@@ -30,6 +30,9 @@ newsletter-form-sign-up-now = Tagad reģistrēties
 newsletter-form-thanks = Paldies!
 newsletter-form-yes = Jā
 newsletter-form-no = Nē
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Sūtīšana
+multi-newsletter-form-checkboxes-legend = Es vēlos informāciju par:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
 multi-newsletter-form-checkboxes-error = Lūdzu, atzīmējiet vismaz vienu no informatīvā biļetena iespējām.
