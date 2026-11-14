@@ -46,3 +46,11 @@ navigation-newsletter = Informatīvais biļetens
 navigation-compare = Salīdzināt
 navigation-podcast = Raidieraksts
 navigation-data-protection = Datu aizsardzība
+navigation-protection = Aizsardzība
+navigation-control = Kontrole
+navigation-focus = Fokuss
+
+## Download
+
+navigation-download = Lejupielādēt
+navigation-download-firefox = Lejupielādēt { -brand-name-firefox }
