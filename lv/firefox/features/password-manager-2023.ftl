@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/password-manager
 
+# HTML page description
+password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } Paroļu pārvaldnieks saglabā visas paroles vienuviet, lai varētu automātiski pieteikties vietnēs vai izgūt saglabātās paroles.
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } var automātiski aizpildīt jūsu saglabāto lietotājvārdu un paroli. Ja jums ir vairāki pieteikšanās dati vienai vietnei, varat vienkārši atlasīt vēlamo kontu, un mēs to paveiksim.
 # Variables:
 #   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
