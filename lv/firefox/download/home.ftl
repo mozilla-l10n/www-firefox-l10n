@@ -25,3 +25,13 @@ firefox-home-see-release = Skatīt laidiena piezīmes
 
 firefox-home-get-the-browser = Izvēlieties pārlūku, ar kuru darbi ritēs raitāk
 firefox-home-block-ad-trackers = Reklāmu izsekotāju liegšana bez pirksta pacelšanas
+
+## Customization
+
+firefox-home-work-smarter = Strādājiet gudrāk, atpūtieties ar vērienu
+firefox-home-bye-boring = Atā, garlaicīgais pārlūks
+
+## Final call-out
+
+firefox-home-billionaire-free = Bez miljardiera vairāk nekā 20 gadus
+firefox-home-firefox-was-created = { -brand-name-firefox } tika izveidots 2004. gadā, ko izveidoja { -brand-name-mozilla } kā ātrāku, privātāku un pielāgojamāku alternatīvu pārlūku, piemēram, Internet Explorer. Mūsdienās mēs joprojām esam bezpeļņas organizācija, joprojām nepiederam miljardieriem un joprojām strādājam, lai padarītu internetu — un laiku, ko tajā pavadāt — labāku.
