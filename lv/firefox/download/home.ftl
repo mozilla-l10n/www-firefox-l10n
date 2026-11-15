@@ -25,11 +25,20 @@ firefox-home-see-release = Skatīt laidiena piezīmes
 
 firefox-home-get-the-browser = Izvēlieties pārlūku, ar kuru darbi ritēs raitāk
 firefox-home-block-ad-trackers = Reklāmu izsekotāju liegšana bez pirksta pacelšanas
+firefox-home-privacy-built-in = Iebūvēta privātuma aizsardzība
 
 ## Customization
 
+# asterisks provide playful emphasis, omit or use symbols appropriate in your language
+firefox-home-really-make-it = *Tiešām* padari to par savu
 firefox-home-work-smarter = Strādājiet gudrāk, atpūtieties ar vērienu
+# Variables
+#   $extensions_attrs - link to https://addons.mozilla.org/firefox/extensions/
+firefox-home-explore-the-possibilities = Izpētiet izpētes, iepirkšanās un citas iespējas sadaļā <a { $extensions_attrs }>paplašinājumi</a>.
 firefox-home-bye-boring = Atā, garlaicīgais pārlūks
+# Variables
+#   $theme_attrs - link to https://addons.mozilla.org/firefox/themes/
+firefox-home-the-internet-can = Internets var būt rožaina vieta ar pareizo papildinājuma <a { $theme_attrs }> motīvu </a>.
 
 ## Final call-out
 
