@@ -23,6 +23,10 @@ firefox-channel-all-languages-and-builds = Visas valodas un būvējumi
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#applicability-firefox-version
 firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } ir nestabila testēšanas un izstrādes platforma. Pēc noklusējuma { -brand-name-beta } nosūta datus uz { -brand-name-mozilla } — un dažreiz arī uz mūsu partneriem —, lai palīdzētu mums risināt problēmas un izmēģināt idejas. <a href="{ $link }">Uzziniet, kas tiek koplietots</a>.
+firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } automātiski nosūta atsauksmes uz { -brand-name-mozilla }.
+# Variables:
+#   $feedback (url) - link to https://connect.mozilla.org/
+firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Sniedziet mums atsauksmes</a>, lai palīdzētu mums ieviest pēdējos veiktspējas un funkcionalitātes uzlabojumus stabilā vidē.
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-release-notes = Laidiena piezīmes
 firefox-channel-developer-edition = { -brand-name-developer-edition }
