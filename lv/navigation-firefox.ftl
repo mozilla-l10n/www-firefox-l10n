@@ -17,7 +17,7 @@ navigation-get-firefox-phone = Iegūsti { -brand-name-firefox } savā tālrunī
 
 navigation-features = Iespējas
 navigation-close-features-menu = Aizvērt iespēju izvēlni
-navigation-top-features = Svarīgākās funkcijas
+navigation-top-features = Svarīgākās iespējas
 navigation-fingerprint-blocking = Pirkstu nospiedumu bloķēšana
 navigation-ad-tracker-blocking = Reklāmu izsekotāju bloķēšana
 navigation-private-browsing = Privātās pārlūkošanas režīms

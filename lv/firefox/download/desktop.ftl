@@ -8,6 +8,7 @@
 firefox-desktop-download-download-options = Lejupielāžu iespējas un citas valodas
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } atbalsts
 firefox-desktop-download-search-from-address = Meklēt adrešu joslā
+firefox-desktop-download-spell-check = Pareizrakstības pārbaude
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Liegt video un skaņas automātisku atskaņošanu
 firefox-desktop-download-customize-your-browser = Pielāgo pārlūku
