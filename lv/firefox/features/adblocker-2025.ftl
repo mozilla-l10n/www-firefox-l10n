@@ -10,4 +10,4 @@ features-adblocker-its-important-to-note = Ir svarīgi piebilst, ka dažas tīme
 features-adblocker-beyond-ad-blockers = Papildus reklāmu bloķētājiem { -brand-name-firefox } ietver iebūvētas funkcijas, kas sniedz jums vēl lielāku kontroli pār pārlūkošanu. Šie rīki palīdz aizsargāt jūsu privātumu, vienlaikus ļaujot pielāgot savu pieredzi:
 # Variables:
 #   $url (url) - link to https://www.firefox.com/
-features-adblocker-explore-hundreds = Izpētiet simtiem uz privātumu vērstu papildinājumu, kas pieejami pārlūkprogrammai { -brand-name-firefox }, un atrodiet sev piemērotākos rīkus. <a href="{ $url }">Lejupielādējiet { -brand-name-firefox } </a> jau šodien, lai izbaudītu pārlūku, kas izstrādāta, ņemot vērā jūsu privātumu un veiktspēju.
+features-adblocker-explore-hundreds = Izpēti simtiem uz privātumu vērstu papildinājumu, kas pieejami { -brand-name-firefox }, un atrodi sev piemērotākos rīkus! <a href="{ $url }">Lejupielādē { -brand-name-firefox }</a> jau šodien, lai izbaudītu pārlūku, kas izstrādāts, ņemot vērā privātumu un veiktspēju.

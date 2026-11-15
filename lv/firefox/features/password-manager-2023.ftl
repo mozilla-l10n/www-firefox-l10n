@@ -8,4 +8,4 @@
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } var automātiski aizpildīt jūsu saglabāto lietotājvārdu un paroli. Ja jums ir vairāki pieteikšanās dati vienai vietnei, varat vienkārši atlasīt vēlamo kontu, un mēs to paveiksim.
 # Variables:
 #   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
-password-manager-have-firefox-create-a-strong-unique = Lieciet { -brand-name-firefox } <a { $attrs }>izveidot spēcīgu, unikālu paroli</a> katram jūsu pieteikšanās veidam tīmeklī — tādā veidā, ja kāda no jūsu parolēm tiek uzlauzta drošības pārkāpuma dēļ, tas ietekmēs tikai šo vienu kontu, nevis citus kontus.
+password-manager-have-firefox-create-a-strong-unique = Liec { -brand-name-firefox } <a { $attrs }>izveidot spēcīgu, neatkārtojamu paroli</a> katram pieteikšanās vienumam tīmeklī — tādā veidā, ja kāda no parolēm tiek uzlauzta drošības pārkāpuma dēļ, tas ietekmēs tikai šo vienu kontu, nevis vairākus!

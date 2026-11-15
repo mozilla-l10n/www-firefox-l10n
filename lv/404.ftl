@@ -11,10 +11,10 @@ not-found-page-were-all-about-a-healthy-internet = Mēs visi esam par veselīgu 
 not-found-page-go-back = Doties atpakaļ
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
-not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Uzzināt</a> par { -brand-name-mozilla }, bezpeļņas organizāciju, kas ir aiz { -brand-name-firefox }.
+not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Uzzināt</a> par { -brand-name-mozilla }, bezpeļņas apvienību, kas ir aiz { -brand-name-firefox }.
 # Variables:
 #   $download (url) - link to https://www.firefox.com/
-not-found-page-download-the-firefox-browser = <a href={ $download }>Lejupielādējiet</a> pārlūku { -brand-name-firefox } savai mobilajai ierīcei vai datoram
+not-found-page-download-the-firefox-browser = <a href={ $download }>Lejupielādēt</a> pārlūku { -brand-name-firefox } savai mobilajai ierīcei vai datoram
 # Obsolete string (expires: 2026-06-15)
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
