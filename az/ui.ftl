@@ -7,7 +7,7 @@
 
 ui-back-to-home-page = Ana səhifəyə qayıt
 ui-return-to-top = Başa qayıt
-ui-close = Bağla
+ui-close = Qapat
 ui-previous = Əvvəlki
 ui-next = İrəli
 ui-watch-the-video = Videonu izlə
@@ -17,11 +17,14 @@ ui-menu = Menyu
 ui-please-turn-on-javascript = Bu səhifəni doğru görüntüləmək üçün JavaScript-i aktivləşdirin.
 ui-show-more = Daha çox göstər
 ui-show-less = Daha az göstər
-ui-show-all = Hamısını Göstər
-ui-hide-all = Hamısını Gizlət
-ui-learn-more = Ətraflı Öyrən
+ui-show-all = Hamısını göstər
+ui-hide-all = Hamısını gizlət
+ui-learn-more = Ətraflı öyrən
 ui-view = Görünüş
 ui-pause-animation = Animasiyaya fasilə ver
 ui-play-animation = Animasiyanı oynat
+ui-edit = Düzəlt
+ui-view-all = Hamısına bax
+ui-more-features = Daha çox özəllik
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Tanıtım
