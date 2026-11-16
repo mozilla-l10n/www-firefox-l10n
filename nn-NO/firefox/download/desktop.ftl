@@ -159,3 +159,4 @@ firefox-desktop-download-interrupted = Nedlastinga di vart avbroten. Men alt er 
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Systemet ditt oppfyller kanskje ikkje krava for { -brand-name-firefox }, men du kan prøve ein av <a href="{ $url }">desse versjonane</a>.
+download-chromebook-x86-based-chromebook = *x86-basert Chromebook med Chrome OS 80 eller nyare
