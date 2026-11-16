@@ -7,6 +7,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } çox sürətlidir, müasir tərtibatçı alətləri, CSS Tor (Grid) və framework sazlayıcısı kimi ən son yeniliklərlə gəlir
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Yeni sevimli səyyahınıza xoş gəldiniz. Açıq web üçün ehtiyyacınız olan bütün alətləri, sürətli məhsuldarlığı və ən son özəllikləri əldə edin.
 firefox-developer-speak-up = Dərdinizi danışın
 firefox-developer-feedback-makes-us = Geri dönüşlər bizi daha da yaxşılaşdırır. Səyyahı və Tərtibatçı alətlərini necə yaxşılaşdıra biləcəyimizi deyin.
@@ -48,6 +49,8 @@ firefox-developer-style-editor = Stil Redaktoru
 firefox-developer-edit-and-manage = Bütün CSS stil örtüklərini səyyahınızda redaktə və idarə edin.
 firefox-developer-learn-more-about-style = Stil Redaktoru haqqında ətraflı öyrənin
 firefox-developer-new-tools = Yeni Alətlər
+firefox-developer-inactive-css = Qeyri-aktiv CSS
+firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtools } artıq səhifəyə heç bir təsiri olmayan CSS təyinatlarını boz rəngdə göstərir. Məlumat nişanının üzərinə gəldikdə, problemin necə həll ediləcəyinə dair ipucu da daxil olmaqla, CSS-in niyə tətbiq olunmadığı barədə faydalı bir mesaj görəcəksiniz.
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Yeni { -brand-name-firefox-devtools } güclü, çevik və hər şeydən əsas hack edilə biləndir. Buna fərqli səyyahları hədəfləyə bilən, React və Redux ilə gələn növünün ən yaxşı JavaScript xəta sazlayıcısı da daxildir.
 firefox-developer-master-css-grid = CSS Grid-ə Yiyələnin
@@ -58,3 +61,7 @@ firefox-developer-fonts-panel = Şriftlər Paneli
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools }-da elementdə işlədilən şriftlər haqqında məlumatları asanlıqla ala bilməyiniz üçün yeni şriftlər paneli var. Bununla həmçinin şriftlərin mənbəyi, ağırlığı, stili və daha bir çox məlumatlarını ala bilərsiz.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } avtomatik olaraq { -brand-name-mozilla }-ya əks əlaqə göndərir.
 firefox-developer-download-the-firefox-browser = Tərtibatçılar üçün düzəldilmiş { -brand-name-firefox } səyyahını endir
+firefox-developer-made-for-developers = Tərtibatçılar üçün hazırlanmış səyyah
+firefox-developer-all-the-latest-v2 = Çoxsətirli Konsol Redaktoru və WebSocket İnspektoru kimi özəlliklərə əlavə olaraq beta-da ən son tərtibatçı alətləri.
+firefox-developer-a-separate-profile = Onu Buraxılış və ya { -brand-name-beta } { -brand-name-firefox } ilə yanaşı asanlıqla işlədə bilməyiniz üçün <strong>ayrı profil və yol</strong>.
+firefox-developer-preferences-tailored = <strong>Web tərtibatçıları üçün uyğunlaşdırılmış</strong> nizamlamalar: Səyyah və uzaqdan sazlama, həmçinin qaranlıq mövzu və tərtibatçı paneli düyməsi ilkin vəziyyətdə aktivdir.
