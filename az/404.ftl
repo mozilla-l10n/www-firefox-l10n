@@ -12,3 +12,13 @@ not-found-page-go-back = Geriyə Qayıt
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = { -brand-name-firefox }-un arxasında duran qeyri-kommersiya təşkilatı – { -brand-name-mozilla } haqqında <a href="{ $about }">öyrənin</a>.
+# Variables:
+#   $download (url) - link to https://www.firefox.com/
+not-found-page-download-the-firefox-browser = Mobil cihazınız və ya masaüstünüz üçün { -brand-name-firefox } səyyahını <a href={ $download }>endirin</a>
+# Obsolete string (expires: 2026-06-15)
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = { -brand-name-mozilla-foundation }-a <a { $donate }>ianə edin</a> və interneti böyük texnologiya şirkətlərindən geri alın.
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-foundation = { -brand-name-mozilla-foundation }-a <a { $donate }>ianə edin</a> və interneti böyük texnologiya şirkətlərindən geri alın.
