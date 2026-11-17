@@ -17,3 +17,6 @@ features-fast-firefox-is-powered-by-the-world = { -brand-name-firefox } darbina 
 #   $link (url) - link to https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/
 features-fast-all-browsers-had-to-make = Visām pārlūkiem bija jāveic uzlabojumi, lai labi nokārtotu jaunos Speedometer 3 testus. Īpaši ievērojamus panākumus guva { -brand-name-firefox }, <a { $link }>kļūstot ievērojami ātrākam</a> mūsu lietotājiem šī darba tiešā rezultātā. { -brand-name-firefox } ir ātrāks nekā jebkad agrāk, un ātrumu var patiešām sajust, tostarp ātrāku lapu ielādi un vienmērīgāku mijiedarbību.
 features-fast-towards-a-faster-web = Ceļā uz ātrāku tīmekli
+# Variables
+#   $link (url) - link to https://www.mozilla.org/about/webvision/full/#performance
+features-fast-theres-been-an-encouraging = { -brand-name-mozilla } ir <a { $link }>apņēmies</a> nepārtraukti uzlabot gan savu pārlūku, gan visu tīmekli. Tāpēc mēs ieguldījām līdzekļus sadarbībā, lai izstrādātu Speedometer 3, kas savukārt ir uzlabojis visu pārlūku veiktspēju. Tātad, neatkarīgi no tā, kādu pārlūku izvēlaties, { -brand-name-mozilla } vēlas, lai tā būtu ātra.

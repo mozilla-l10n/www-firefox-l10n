@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/adblocker/
 
+features-adblocker-how-to-stop-seeing-too = Kā samazināt reklāmu daudzumu un neļaut uzņēmumiem izsekot jūsu darbībām internetā. Tīmekļa pārlūka { -brand-name-firefox } ceļvedis par reklāmu bloķēšanu.
 features-adblocker-the-ad-blocker-a-secret = Reklāmu bloķētājs — slepens ierocis cīņā pret kaitinošām reklāmām.
 features-adblocker-so-many-ads-so-little = Tik daudz reklāmu, tik maz pacietības… Ir pienācis laiks apturēt šo neprātu.
 features-adblocker-the-average-person-sees = Vidēji cilvēks dienā redz vidēji 4000 reklāmu. Ja domājat, ka tas ir par daudz, reklāmu bloķētājs ir jūsu jaunais labākais draugs.
