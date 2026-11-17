@@ -159,3 +159,4 @@ firefox-desktop-download-interrupted = ການດາວໂຫຼດຂອງ�
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = ລະບົບຂອງທ່ານອາດຈະບໍ່ຕອບສະໜອງໄດ້ຂໍ້ກຳນົດຂອງ { -brand-name-firefox }, ແຕ່ທ່ານສາມາດລອງໃຊ້ <a href="{ $url }">ເວີຊັນເຫຼົ່ານີ້</a>.
+download-chromebook-x86-based-chromebook = *Chromebook ທີ່ໃຊ້ສະຖາປັດຕະຍະກຳ x86 ແລະ ໃຊ້ Chrome OS 80 ຫຼື ໃໝ່ກວ່າ

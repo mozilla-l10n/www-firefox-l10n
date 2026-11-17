@@ -38,6 +38,8 @@ firefox-home-stay-focused = Saglabājiet koncentrēšanos ar tādiem paplašinā
 firefox-home-your-stuff = Jūsu lietas visos jūsu ekrānos
 firefox-home-get-firefox-mobile = Iegūstiet { -brand-name-firefox } mobilo versiju, lai jūsu paroles, cilnes un vēsture, kā arī jūsu paļautais privātums un drošība būtu jums līdzi, lai kur jūs dotos.
 firefox-home-privacy-built-in = Iebūvēta privātuma aizsardzība
+firefox-home-personal-data-not-for-sale = Jūsu personas dati nav pārdošanā. Izsekotāji un trešo pušu sīkdatnes pēc noklusējuma tiek bloķēti, tāpēc varat vienkārši … pārlūkot.
+firefox-home-learn-data-protection = Uzziniet, kā { -brand-name-firefox } aizsargā jūsu datus
 
 ## Customization
 

@@ -124,3 +124,5 @@
 -brand-name-chromium = Chromium
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
+# Enterprise program name
+-brand-name-firefox-professional-support = ບໍລິການຊ່ວຍເຫຼືອລະດັບມືອາຊີບຂອງ Firefox

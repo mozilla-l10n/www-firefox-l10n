@@ -66,6 +66,7 @@ firefox-all-the-standard-firefox = ຕົວທ່ອງເວັບມາດຕ
 firefox-all-get-a-sneak-peek-at = ລອງເບິ່ງຄຸນສົມບັດຂອງຕົວທ່ອງເວັບຂອງ { -brand-name-firefox } ຫຼ້າສຸດກ່ອນທີ່ພວກມັນຈະຖືກປ່ອຍອອກມາ.
 firefox-all-test-your-sites-against = ທົດສອບເວັບໄຊຂອງທ່ານຕໍ່ກັບຄຸນສົມບັດຂອງບຣາວເຊີ { -brand-name-firefox } ທີ່ກຳລັງຈະປ່ອຍອອກມາໃນໄວໆນີ້ດ້ວຍ DevTools ທີ່ມີປະສິດທິພາບ, ປ່ຽນແປງໄດ້ໂດຍຄ່າເລີ່ມຕົ້ນ.
 firefox-all-count-on-stability-and = ຄິດໄລ່ຄວາມໝັ້ນຄົງ ແລະການນຳໃຊ້ງ່າຍດ້ວຍບຣາວເຊີ { -brand-name-firefox } ທີ່ສ້າງຂຶ້ນສຳລັບອົງກອນ.
+firefox-all-the-familiar-firefox-browser = ບຣາວເຊີ { -brand-name-firefox } ທີ່ຄຸ້ນເຄີຍ ມາພ້ອມການຄວບຄຸມຄວາມປອດໄພເພີ່ມເຕີມ ແລະ ຄອນໂຊນສຳລັບຜູ້ດູແລລະບົບ ເພື່ອຊ່ວຍໃຫ້ອົງກອນຕ່າງໆສາມາດປະຕິບັດຕາມຂໍ້ກຳນົດອັນເຂັ້ມງວດດ້ານຄວາມປອດໄພ, ການກຳກັບດູແລ ແລະ ການປະຕິບັດຕາມ.
 firefox-all-windows-installers-for = ຕົວຕິດຕັ້ງ Windows ສໍາລັບ IT ອົງກອນທີ່ງ່າຍໃນການຕັ້ງຄ່າ, ການນຳໃຊ້ ແລະການຈັດການຂອງ { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = ຕົວຕິດຕັ້ງ ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = ຕົວຕິດຕັ້ງ ARM64/AArch64 ປັບປຸງໃຫ້ເໝາະສົມກັບຄອມພິວເຕີ Windows ແລະ Linux.

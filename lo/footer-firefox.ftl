@@ -26,8 +26,11 @@ footer-nightly = { -brand-name-nightly }
 
 # Obsolete string (expires: 2026-12-19)
 footer-business = { -brand-name-firefox } ສໍາລັບທຸລະກິດ
+# Section title
+footer-for-business = ສຳລັບອົງກອນທຸລະກິດ
 # Obsolete string (expires: 2026-12-19)
 footer-enterprise = { -brand-name-enterprise }
+footer-firefox-enterprise = { -brand-name-firefox-enterprise }
 
 ## Links to community groups.
 
@@ -49,13 +52,17 @@ footer-learn = ຮຽນຮູ້
 footer-support = ສະຫນັບສະຫນູນ
 footer-addons = Add-ons
 footer-blog = ບົດຄວາມ
+# Link to Mozilla's merch store. Link points to https://shop.mozilla.com/
+footer-merch-store = ຮ້ານສິນຄ້າ
 
 ## Links to social media
 
 # Section title
 footer-follow-us = ຕິດຕາມພວກເຮົາ
 footer-instagram = Instagram
+footer-facebook = Facebook
 footer-youtube = YouTube
+footer-x = X
 footer-tiktok = TikTok
 
 ## Legal links

@@ -5,4 +5,7 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/block-fingerprinting/
 
+# page description
+features-fingerprinting-fingerprinting-is-a-desc = Pirkstu nospiedumu noņemšana ir tiešsaistes izsekošanas veids, kas ir invazīvāks nekā parastā uz sīkdatnēm balstīta izsekošana — tāpēc { -brand-name-firefox-browser } to bloķē.
+features-fingerprinting-fingerprint-blocking = Pirkstu nospiedumu bloķēšana
 features-fingerprinting-if-you-have = Ja Tev ir izplatīts klēpjdators, galddators vai viedtālrunis, var būt grūtāk neatkārtojami noteikt ierīci ar lietotāju nosakošu datu vākšanu. Tomēr jo vairāk ir atšķirīgu papildinājumu, fontu un iestatījumu, jo vienkāršāk Tevi būs noteikt. Uzņēmumi var izmantot šo neatkārtojamo informācijas apvienojumu, lai izveidotu Tavu pirkstu nospiedumu. Tieši tādēļ { -brand-name-firefox } liedz zināmu lietotāju nosakošu datu vākšanu, lai Tu joprojām varētu izmantot savus iecienītos paplašinājumus, izskatus un pielāgojumus bez reklāmu izsekošanas.

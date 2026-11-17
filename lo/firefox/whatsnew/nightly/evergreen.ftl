@@ -10,6 +10,7 @@
 nightly-whatsnew-youve-just-been = ທ່ານຫາກໍ່ໄດ້ຮັບການອັບເກຣດເປັນ { -brand-name-firefox-nightly } { $version }!
 nightly-whatsnew-your-firefox-nightly = { -brand-name-firefox-nightly } ຂອງທ່ານໄດ້ຖືກອັບເດດແລ້ວ.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
+nightly-whatsnew-every-2-to-3-weeks = ທຸກໆ 2 ຫາ 3 ອາທິດ ຈະມີການອອກເວີຊັ່ນຫຼັກໃໝ່ຂອງ { -brand-name-firefox } ເຊິ່ງເຮັດໃຫ້ໝາຍເລກເວີຊັ່ນຂອງ { -brand-name-nightly } ເພີ່ມຂຶ້ນເຊັ່ນກັນ.
 nightly-whatsnew-this-is-a-good = ນີ້ແມ່ນເວລາທີ່ດີທີ່ຈະຂໍຂອບໃຈທ່ານສໍາລັບການຊ່ວຍພວກເຮົາເຮັດໃຫ້ { -brand-name-firefox } ດີຂຶ້ນ ແລະໃຫ້ບາງຈຸດແກ່ເຈົ້າກ່ຽວກັບເອກະສານ, ຊ່ອງທາງການສື່ສານ ແລະເວັບໄຊຂ່າວທີ່ກ່ຽວຂ້ອງກັບ { -brand-name-nightly } ທີ່ອາດຈະມີຄວາມສົນໃຈ. ໃຫ້​ເຈົ້າ.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/

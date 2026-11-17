@@ -5,6 +5,16 @@
 
 ### URL: https://www-dev.springfield.moz.works/get/
 
+# Variables:
+#   $partner (string) - a company name, e.g. Acme
+# $partner is a company name and stays in its original form. If your language changes a name’s ending after ‘from’, rephrase the sentence so the name can stay unchanged.
+partner-download-language-not-available = ການດາວໂຫຼດ { -brand-name-firefox } ຈາກ { $partner } ນີ້ບໍ່ຮອງຮັບພາສາຂອງທ່ານ. ແຕ່ທ່ານຍັງສາມາດດາວໂຫຼດ { -brand-name-firefox } ໄດ້ໂດຍໃຊ້ປຸ່ມດ້ານລຸ່ມ.
+# Variables:
+#   $partner (string) - a company name, e.g. Acme
+# $partner is a company name and stays in its original form. If your language changes a name’s ending after ‘from’, rephrase the sentence so the name can stay unchanged.
+partner-download-device-not-available = ການດາວໂຫຼດ { -brand-name-firefox } ຈາກ { $partner } ນີ້ບໍ່ຮອງຮັບອຸປະກອນຂອງທ່ານ. ແຕ່ທ່ານຍັງສາມາດດາວໂຫຼດ { -brand-name-firefox } ໄດ້ໂດຍໃຊ້ປຸ່ມດ້ານລຸ່ມ.
+# firefox.com is a web address. Don’t translate it.
+partner-download-already-using-firefox = ທ່ານໃຊ້ { -brand-name-firefox } ຢູ່ແລ້ວ. ໄປທີ່ firefox.com ເພື່ອເບິ່ງສິ່ງໃໝ່ໆ.
 # firefox.com is a web address. Don’t translate it.
 partner-download-continue = ສືບຕໍ່ໄປຍັງ firefox.com
 # Variables:

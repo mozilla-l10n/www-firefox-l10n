@@ -8,6 +8,10 @@ navigation-landmark-label = ສ່ວນຫຼັກ
 navigation-browser = ໂປຣແກຣມທ່ອງເວັບ
 navigation-close-menu = ປິດເມນູ
 navigation-get-firefox = ດາວໂຫຼດ { -brand-name-firefox }
+# Compact label for the header button shown to Firefox desktop users (paired with a phone icon).
+navigation-firefox-for-mobile = { -brand-name-firefox } ສຳລັບມືຖື
+# Descriptive caption under the QR code in the button's dropdown panel.
+navigation-get-firefox-phone = ຮັບ { -brand-name-firefox } ໄວ້ໃນໂທລະສັບຂອງທ່ານ
 
 ## Features
 
@@ -32,6 +36,8 @@ navigation-enterprise = ອົງກອນ
 navigation-release-notes = ບັນທຶກປະຈຳລຸ້ນ
 navigation-support = ສະຫນັບສະຫນູນ
 navigation-extensions-and-themes = Extensions & Themes
+navigation-whats-new = ຂ່າວໃໝ່
+navigation-whats-next = ຂັ້ນຕອນຕໍ່ໄປ
 navigation-add-ons = Add-ons
 navigation-all-downloads = ດາວໂຫຼດທັງໝົດ
 navigation-learn = ຮຽນຮູ້
