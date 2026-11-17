@@ -32,3 +32,5 @@ password-manager-password-security-alerts = Paroļu drošības brīdinājumi
 #   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
 # "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
 password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>brīdina, ja datu noplūdē ir atklāta jūsu parole</a>, lai jūs varētu to nomainīt, pirms hakeri pagūst, piemēram, ar jūsu maksājumu karti iznomāt Lamborghini.
+# Used as an accessible text alternative for an image
+password-manager-image-of-the-firefox-password-manager = Attēls, kurā redzams { -brand-name-firefox } paroļu pārvaldnieks ar brīdinājuma ziņojumu “Šī parole ir izmantota citā kontā, kas, iespējams, ir bijis datu noplūdes upuris. Atkārtota piekļuves datu izmantošana apdraud visus jūsu kontus. Mainiet šo paroli.”

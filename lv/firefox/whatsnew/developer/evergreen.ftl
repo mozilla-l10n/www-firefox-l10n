@@ -19,3 +19,4 @@ firefox-developer-mdn-write-test-and-share = Raksti, testē un kopīgo savu kodu
 firefox-developer-mdn-blog = { -brand-name-mdn } emuārs
 firefox-developer-mdn-unlock-the-world = Atklājiet tīmekļa izstrādes pasauli ar { -brand-name-mdn } emuāru — jūsu galveno centru, kur atrast ekspertu atziņas, jaunākos tīmekļa standartus un kodēšanas padomus.
 firefox-developer-mdn-updates = Atjauninājumi
+firefox-developer-mdn-the-web-doesnt-have = Tīmeklī nav izmaiņu žurnāla, taču { -brand-name-mdn } var palīdzēt. Saderības izmaiņas var personalizēt un filtrēt, pamatojoties uz pārlūkiem vai tehnoloģiju kategoriju, kas jūs interesē, piemēram, JavaScript, CSS utt.

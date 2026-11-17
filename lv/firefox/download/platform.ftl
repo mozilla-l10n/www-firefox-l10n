@@ -35,8 +35,25 @@ new-platform-download-mozilla-firefox-mac = Lejupielādēt { -brand-name-mozilla
 new-platform-download-mozilla-firefox-desc-mac = Lejupielādējiet { -brand-name-mozilla } { -brand-name-firefox } priekš { -brand-name-mac-short } — bezmaksas tīmekļa pārlūkus. { -brand-name-firefox } ir izveidojusi globāla bezpeļņas organizācija, kuras mērķis ir nodrošināt indivīdiem kontroli tiešsaistē. Iegūstiet { -brand-name-firefox } priekš { -brand-name-mac-short } jau šodien!
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = Lejupielādējiet visu laiku ātrāko { -brand-name-firefox } operētājsistēmai { -brand-name-mac-short }
+# /firefox/mac/ social sharing description
+new-platform-faster-page-loading-mac = Ātrāka lapu ielāde, mazāks atmiņas patēriņš un daudz funkciju — jaunā { -brand-name-firefox } pārlūks { -brand-name-mac-short } ir klāt.
+new-platform-privacy-comes-first = Privātums ir pirmajā vietā
+new-platform-firefox-doesnt-spy = { -brand-name-firefox } neizseko meklēšanas vaicājumus. Mēs apturam trešo pušu izsekošanas sīkdatnes un sniedzam jums pilnīgu kontroli.
+new-platform-get-speed-and-security = Iegūstiet ātrumu un drošību. { -brand-name-firefox } ir ātrs { -brand-name-mac-short }, jo mēs nesekojam līdzi jūsu pārvietošanās procesiem.
 new-platform-block-trackers = Liegt izsekotājus
+new-platform-be-the-master-of-your = Esiet sava domēna saimnieks ar stingru satura bloķēšanu. Atslēdziet visus sīkdatnes un izsekotājus.
 
 ## Windows
 
 new-platform-download-mozilla-windows = Lejupielādēt { -brand-name-mozilla } { -brand-name-firefox } operētājsistēmai { -brand-name-windows }
+# /firefox/windows/ HTML page description
+new-platform-download-mozilla-desc-windows = Lejupielādējiet { -brand-name-mozilla } { -brand-name-firefox } operētājsistēmai { -brand-name-windows } — bezmaksas tīmekļa pārlūku. { -brand-name-firefox } ir izveidojusi globāla bezpeļņas organizācija, kuras mērķis ir nodrošināt indivīdiem kontroli pār tiešsaistē. Iegūstiet { -brand-name-firefox } operētājsistēmai { -brand-name-windows } jau šodien!
+# /firefox/windows/ social sharing title
+new-platform-download-the-fastest-windows = Lejupielādējiet visu laiku ātrāko { -brand-name-firefox } operētājsistēmai { -brand-name-windows }
+# /firefox/windows/ social sharing description
+new-platform-faster-page-loading-windows = Ātrāka lapu ielāde, mazāks atmiņas patēriņš un daudz funkciju — jaunā { -brand-name-firefox } operētājsistēmai { -brand-name-windows } ir klāt.
+new-platform-firefox-moves-fast = { -brand-name-firefox } darbojas ātri un rūpīgi apstrādā jūsu datus — bez reklāmu izsekošanas un palēnināšanās.
+new-platform-common-sense-privacy = Veselā saprāta privātums
+new-platform-live-your-life = Dzīvo savu dzīvi, { -brand-name-firefox } tevi neskatās. Izvēlies, ko un kad kopīgot.
+new-platform-seamless-setup = Ērta iestatīšana
+new-platform-easy-migration = Vienkārša preferenču un grāmatzīmju migrācija, lejupielādējot { -brand-name-firefox } operētājsistēmai { -brand-name-windows }.
