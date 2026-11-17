@@ -10,9 +10,12 @@
 
 firefox-home-take-control = Pārvaldiet savu interneta pieredzi
 firefox-home-go-online = Dodieties tiešsaistē ar mazāk uzmanības novēršanas, trokšņa un stresa. Uztveriet mūs kā svaiga gaisa malku.
+firefox-home-set-firefox-as = Iestatīt { -brand-name-firefox } kā noklusējuma pārlūku.
 
 ## What's new
 
+# accessible section heading
+firefox-home-latest-features = Jaunākās { -brand-name-firefox } iespējas
 firefox-home-dial-down = Samaziniet troksni
 firefox-home-block-ads = Liegt reklāmas un uzlabot privātumu ar pielāgojamiem iestatījumiem un kaudzi lejupielādējamu paplašinājumu.
 firefox-home-multitasking = Vairāku uzdevumu veikšana?
@@ -25,6 +28,15 @@ firefox-home-see-release = Skatīt laidiena piezīmes
 
 firefox-home-get-the-browser = Izvēlieties pārlūku, ar kuru darbi ritēs raitāk
 firefox-home-block-ad-trackers = Reklāmu izsekotāju liegšana bez pirksta pacelšanas
+firefox-home-ad-trackers-make = Reklāmu izsekotāji palēnina tīmekļa lapu ielādi. Izmantojot { -brand-name-firefox }, jums nebūs jāmeklē iestatījumos, lai to labotu, jo mēs automātiski bloķējam lielāko daļu izsekotāju.
+# "swear off" means to make a decision to stop doing something, usually something bad (in this case, being distracted)
+firefox-home-swear-off = Atbrīvojieties no uzmanības novēršanas
+# Variables
+#   $tomato_clock_attrs - link to https://addons.mozilla.org/firefox/addon/tomato-clock/
+#   $turn_off_the_lights_attrs - link to https://addons.mozilla.org/firefox/addon/turn-off-the-lights/
+firefox-home-stay-focused = Saglabājiet koncentrēšanos ar tādiem paplašinājumiem kā <a { $tomato_clock_attrs }>Tomātu pulkstenis</a> un <a { $turn_off_the_lights_attrs }>Izslēdziet gaismas</a> — tie ir ieteicamie, kas ir kā mūsu zelta zvaigzne par izcilu drošību un funkcionalitāti.
+firefox-home-your-stuff = Jūsu lietas visos jūsu ekrānos
+firefox-home-get-firefox-mobile = Iegūstiet { -brand-name-firefox } mobilo versiju, lai jūsu paroles, cilnes un vēsture, kā arī jūsu paļautais privātums un drošība būtu jums līdzi, lai kur jūs dotos.
 firefox-home-privacy-built-in = Iebūvēta privātuma aizsardzība
 
 ## Customization
