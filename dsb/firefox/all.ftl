@@ -66,6 +66,7 @@ firefox-all-the-standard-firefox = Standardny wobglědowak { -brand-name-firefox
 firefox-all-get-a-sneak-peek-at = Póglědniśo na nejnowše funkcije wobglědowaka { -brand-name-firefox }, nježli až se wózjawiju.
 firefox-all-test-your-sites-against = Testujśo planowane funkcije wobglědowaka { -brand-name-firefox } nowego wózjawjenja z mócnymi, fleksibelnymi wuwijarskimi rědami, kótarež su zmóžnjone pó standarźe.
 firefox-all-count-on-stability-and = Spušććo se na stabilnosć a lažke wužywanje z toś tym wobglědowakom { -brand-name-firefox } za pśedewześa.
+firefox-all-the-familiar-firefox-browser = Znaty wobglědowak { -brand-name-firefox } z pśidatnymi wěstotnymi wóźenskimi elementami, z konsolu administratora, aby organizacijam pomagał, striktne pominanja wěstoty, wóźenja a konformity z pšawidłami docyniś.
 firefox-all-windows-installers-for = Instalěrowaki Windows za IT pśedewześow, kótarež konfiguraciju, pśewóstajenje a zastojanje { -brand-name-firefox-browser } wólažcuju.
 firefox-all-arm64-installers = Instalěrowaki ta ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Instalaciske programy ARM64/AArch64 su za PC Windows a Linux optiměrowane.
