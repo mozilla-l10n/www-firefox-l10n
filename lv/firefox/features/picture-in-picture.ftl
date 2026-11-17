@@ -9,3 +9,5 @@ features-pip-repeat-steps-1-3-to-have = <strong>Atkārtojiet 1.–3. darbību</
 features-pip-3-more-ways-to-use-picture = Vēl 3 veidi, kā izmantot attēlu attēlā
 features-pip-3-ways-to-use-picture = 3 veidi, kā izmantot attēlu attēlā
 features-pip-watch-a-lecture-or-meeting = Skatieties lekciju vai sanāksmi, vienlaikus pierakstot piezīmes
+features-pip-keep-a-tutorial-video-open = Gatavošanas laikā turiet atvērtu pamācības video ar recepti
+features-pip-entertain-cats-dogs-and-kids = Izklaidējiet kaķus, suņus un bērnus, kamēr veicat darbu
