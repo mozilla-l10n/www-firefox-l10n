@@ -7,6 +7,8 @@ send-to-device-your-download-link = Lejupielādes saite ir nosūtīta.
 send-to-device-please-enter-an-email = Lūgums ievadīt e-pasta adresi.
 send-to-device-an-error-occured = Mūsu sistēmā notikusi kļūda. Lūdzu mēģiniet vēlreiz vēlāk.
 send-to-device-enter-your-email = Ievadi savu e-pasta adresi
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = yourname@example.com
 send-to-device-send = Nosūtīt
 send-to-device-intended-recipient-email = Paredzētajam e-pasta saņēmējam ir iepriekš jāpiekrīt.
 send-to-device-check-your-device-email = Ierīcē jāpārbauda e-pasts.

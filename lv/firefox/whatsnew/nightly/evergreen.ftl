@@ -23,3 +23,4 @@ nightly-whatsnew-want-to-know-which = Vēlies uzzināt, kuras platformas iespēj
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Vai rodas avārijas? Neparedzēta uzvedība? Tīmekļa saderības regresijas? Mēs labprāt iesniegtu tās mapē <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a>, lai pārliecinātos, ka tās netiek izlaistas līdz galīgajai versijai (papildu karma, ja saviem kļūdu ziņojumiem pievienosi atslēgvārdu <em>{ -brand-name-nightly }-community</em>).
+nightly-whatsnew-go-community = Dodieties uz kopienu!
