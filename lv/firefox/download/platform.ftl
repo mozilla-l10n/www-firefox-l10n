@@ -9,6 +9,7 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Bezmaksas tīmekļa pārlūks
+new-platform-download-the-fastest = Lejupielādējiet visu laiku ātrāko { -brand-name-firefox }
 new-platform-need-help = Nepieciešama palīdzība?
 
 ## Mac

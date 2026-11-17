@@ -60,8 +60,55 @@ firefox-desktop-download-share-links = Kopīgot saites
 firefox-desktop-download-protect-your-privacy = Aizsargājiet savu privātumu
 firefox-desktop-download-third-party-cookie = Trešo pušu sīkdatņu aizturēšana
 firefox-desktop-download-fingerprinter-blocking = Pirkstu nospiedumu bloķēšana
+firefox-desktop-download-cryptominer-blocking = Kriptovalūtu ieguvēju bloķēšana
+firefox-desktop-download-private-browsing-mode = Privātās pārlūkošanas režīms
+firefox-desktop-download-individual-protections-report = Individuālās aizsardzības ziņojums
+firefox-desktop-download-secure-your-personal = Aizsargājiet savu personisko informāciju
+firefox-desktop-download-breached-website-alerts = Brīdinājumi par ielaušanos vietnēs
+firefox-desktop-download-built-in-password = Iebūvēts paroļu pārvaldnieks
+firefox-desktop-download-clear-history = Notīrīt vēsturi
+firefox-desktop-download-form-autofill = Veidlapas automātiskā aizpilde
+firefox-desktop-download-automatic-updates = Automātiskie atjauninājumi
 firefox-desktop-download-customize-your-browser = Pielāgo pārlūku
+firefox-desktop-download-themes = Motīvi
+firefox-desktop-download-dark-mode = Tumšais režīms
+firefox-desktop-download-library-of-extensions = Paplašinājumu bibliotēka
 firefox-desktop-download-adjust-search-bar = Pielāgot meklēšanas joslas iestatījumus
+firefox-desktop-download-change-new-tab = Mainīt jaunās cilnes izkārtojumu
+firefox-desktop-download-make-firefox-your = Padariet <strong>{ -brand-name-firefox } </strong> par savu
+firefox-desktop-download-extensions-for-every = Paplašinājumi katrai interesei
+firefox-desktop-download-change-up-your = Mainiet savu izskatu
+firefox-desktop-download-go-from-light = Pārslēdzieties no gaišā režīma uz tumšo režīmu atkarībā no noskaņojuma vai vēlmēm vai atdzīviniet lietas ar pielāgotu tēmu (piemēram, varavīksnes vienradzis).
+firefox-desktop-download-tweak-your-settings = Pielāgojiet savus iestatījumus
+firefox-desktop-download-theres-no-need = Nav nepieciešams samierināties. Mainiet jauno cilnes lapu, meklēšanas joslu, grāmatzīmes un citas funkcijas, lai izpētītu internetu tā, kā vēlaties.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Atbalsta <strong>bezpeļņas</strong> organizācija, kas cilvēkus liek pirmajā vietā
+firefox-desktop-download-challenging-the-status = Status quo apstrīdēšana kopš 1998. gada
+firefox-desktop-download-your-privacy-comes = Tavs privātums ir pirmajā vietā
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Saglabājiet visas savas iecienītākās pārlūka funkcijas un <strong>atklājiet</strong> jaunas.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Visi jūsu iecienītākie { -brand-name-google } rīki (piemēram, Gmail un Dokumenti) nevainojami darbojas { -brand-name-firefox-browser }.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Lejupielādējiet šo pārlūka paplašinājumu</a>, lai apturētu { -brand-name-facebook } (un { -brand-name-instagram }) izsekošanu tīmeklī.
+firefox-desktop-download-sync-your-devices = Vienādojiet savas ierīces
+firefox-desktop-download-screenshots = Ekrānattēli
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Uzlabota izsekošanas aizsardzība (ETP)
+firefox-desktop-download-from-watching-a = No tīmekļa pamācības skatīšanās līdz sekošanai iecienītākajai komandai video seko Tev, kamēr vienlaicīgi veic dažādus uzdevumus.
+firefox-desktop-download-get-firefox-android = Iegūstiet { -brand-name-firefox-browser } priekš <strong>{ -brand-name-android } </strong>
+firefox-desktop-download-get-firefox-ios = Iegūsti { -brand-name-firefox-browser } <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Lejupielādējiet { -brand-name-firefox } mobilo pārlūku, lai nodrošinātu automātisku aizsardzību visās savās ierīcēs.
+firefox-desktop-download-learn-about-the = Uzzini vairāk par { -brand-name-firefox } darbvirsmu pārlūku zemāk
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = No drošības līdz ziņām un spēlēm — ikvienam ir savs <a { $attrs }>paplašinājums</a>. Pievieno tik daudz paplašinājumu, cik vēlies, līdz pārlūks ir tieši tāds, kādu Tev vajag!
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } izveidoja <a { $attrs }>{ -brand-name-mozilla }</a> kā ātrāku un privātāku alternatīvu tādiem pārlūkiem kā { -brand-name-ie } un tagad arī { -brand-name-chrome }. Mūsdienās mūsu mērķa virzītais uzņēmums un brīvprātīgo kopiena turpina privātumu likt augstāk par visu.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Internetam augot un mainoties, { -brand-name-firefox } turpina pievērsties tiesībām uz privātumu — tas vienmēr ir bijis mūsu uzdevums. Vairāk par mūsu darbu ar datiem var uzzināt mūsu <a { $attrs }>Privātuma paziņojumā</a>.
@@ -69,6 +116,18 @@ firefox-desktop-download-as-the-internet-v2 = Internetam augot un mainoties, { -
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/
 firefox-desktop-download-as-the-internet = Internetam attīstoties un mainoties, { -brand-name-firefox } turpina pievērst uzmanību jūsu tiesībām uz privātumu — mēs to saucam par <a { $attrs }>Personas datu solījumu</a>: Paņemiet mazāk. Glabājiet tos drošībā. Nekādu noslēpumu. Jūsu dati, jūsu aktivitātes tīmeklī, jūsu dzīve tiešsaistē ir aizsargāta ar { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } ir pieejams visās Tavās ierīcēs; paņem līdzi cilnes, vēsturi un grāmatzīmes. Viss, kas nepieciešams, ir <a { $attrs }>{ -brand-name-mozilla-account }</a>, un Tu iegūsi piekļuvi vienādošanai un citiem { -brand-name-mozilla } produktiem.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Uzņem augstas izšķirtspējas attēlu ar jebko tiešsaistē ar mūsu tieši pārlūkā iebūvēto <a { $attrs }>ekrānuzņēmumu</a> rīku!
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automātiski <a { $attrs }>liedz daudzus trešo pušu izsekotājus</a>, lai tie nevarētu ievākt un pārdot Tavas darbības tīmeklī.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Jautājumi? <a { $attrs }>{ -brand-name-mozilla } atbalsts</a> ir gatavībā palīdzēt.
 
 ## URL: https://www-dev.springfield.moz.works/thanks/
 

@@ -58,3 +58,16 @@ firefox-home-the-internet-can = Internets var būt rožaina vieta ar pareizo pap
 
 firefox-home-billionaire-free = Bez miljardiera vairāk nekā 20 gadus
 firefox-home-firefox-was-created = { -brand-name-firefox } tika izveidots 2004. gadā, ko izveidoja { -brand-name-mozilla } kā ātrāku, privātāku un pielāgojamāku alternatīvu pārlūku, piemēram, Internet Explorer. Mūsdienās mēs joprojām esam bezpeļņas organizācija, joprojām nepiederam miljardieriem un joprojām strādājam, lai padarītu internetu — un laiku, ko tajā pavadāt — labāku.
+
+## Used as accessible alternative text for images.
+
+firefox-home-firefox-on-desktop = { -brand-name-firefox } galddatoros un mobilajās ierīcēs.
+firefox-home-happy-toggle = Priecīgu pārslēgšanu.
+firefox-home-multiple-cursors = Vairāki kursori.
+firefox-home-lots-of-open = Daudz atvērtu cilņu.
+firefox-home-shield-and-hand = Vairogs un roka aizsargā pārlūka cilni.
+firefox-home-a-human-brain = Cilvēka smadzenes, kas savienotas ar pasauli.
+firefox-home-desktop-laptop-and-phone = Galddators, klēpjdators un tālrunis.
+firefox-home-browser-window-with-lock = Pārlūka logs ar slēdzenes un vairoga ikonām.
+firefox-home-firefox-in-dark = { -brand-name-firefox } tumšajā režīmā.
+firefox-home-firefox-on-a-desktop = { -brand-name-firefox } uz darbvirsmas.
