@@ -25,7 +25,7 @@ firefox-desktop-set-as-default = Iestatīt { -brand-name-firefox } kā noklusēj
 firefox-desktop-download-download-options = Lejupielāžu iespējas un citas valodas
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } atbalsts
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do-v2 = Dariet to, ko darāt tiešsaistē.<br> { -brand-name-firefox-browser } ir par visu parūpējies.
+firefox-desktop-download-do-what-you-do-v2 = Dariet to, ko darāt tiešsaistē.<br> { -brand-name-firefox-browser } ir par visu <strong>parūpējies</strong>.
 firefox-desktop-download-we-block-the-ad = Mēs bloķējam reklāmu izsekotājus. Jūs ātrāk pārlūkojat internetu.
 firefox-desktop-download-ads-are-distracting = Reklāmas novērš uzmanību un palēnina tīmekļa lapu ielādi, savukārt to izsekotāji uzrauga katru Tavu darbību tiešsaistē. { -brand-name-firefox-browser } automātiski aiztur lielāko daļu izsekotāju, tāpēc nav nepieciešams iedziļināties drošības iestatījumos.
 firefox-desktop-download-see-your-report = Skatiet savu aizsardzības pārskatu
