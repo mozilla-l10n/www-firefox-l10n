@@ -6,6 +6,7 @@
 ### URL: https://www-dev.springfield.moz.works/enterprise/#download
 
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-select-your-download = Atlasi lejupielādi
 # Extended Support Release. Spelled out on the first ESR entry in each platform's
 # list, abbreviated on the rest.
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })

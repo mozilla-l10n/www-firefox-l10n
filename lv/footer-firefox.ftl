@@ -3,6 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
+## Download links for stable versions of Firefox across multiple platforms.
+
+# Section title
+footer-download = Lejupielādēt
+footer-download-auto = Lejupielādēt { -brand-name-firefox }
+footer-custom-download = Pielāgotas lejupielādes opcijas
+
 ## Download links for enterprise versions of Firefox.
 
 # Section title
