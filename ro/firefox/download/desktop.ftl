@@ -159,3 +159,4 @@ firefox-desktop-download-interrupted = Descărcarea s-a întrerupt. Dar nu-i bai
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Este posibil ca sistemul să nu îndeplinească cerințele minime pentru { -brand-name-firefox }, dar poți încerca una din <a href="{ $url }">aceste versiuni</a>.
+download-chromebook-x86-based-chromebook = *Chromebook pe x86 care rulează Chrome OS 80 sau o versiune ulterioară

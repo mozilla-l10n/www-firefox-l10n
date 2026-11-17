@@ -66,6 +66,7 @@ firefox-all-the-standard-firefox = Browserul standard { -brand-name-firefox } �
 firefox-all-get-a-sneak-peek-at = Aruncă o privire la cele mai recente funcții ale browserului { -brand-name-firefox } înainte de a fi lansate.
 firefox-all-test-your-sites-against = Testează comportamentul site-urilor tale în raport cu funcțiile browserului { -brand-name-firefox } ce vor fi lansate în curând cu instrumente puternice, flexibile și implicit active pentru dezvoltatori.
 firefox-all-count-on-stability-and = Contează pe stabilitatea și ușurința la utilizare cu acest browser { -brand-name-firefox } creat pentru întreprinderi.
+firefox-all-the-familiar-firefox-browser = Browserul { -brand-name-firefox } familiar, cu controale suplimentare de securitate, însoțit de o consolă de administrare pentru a ajuta organizațiile să îndeplinească cerințe stricte de securitate, guvernanță și conformitate.
 firefox-all-windows-installers-for = Programe de instalare Windows pentru departamentele IT ale întreprinderilor, care fac mai simple configurarea, lansarea și gestionarea { -brand-name-firefox-browser(case: "genitive-or-dative") }.
 firefox-all-arm64-installers = Programe de instalare ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Programe de instalare ARM64/AArch64 optimizate pentru Windows și Linux.

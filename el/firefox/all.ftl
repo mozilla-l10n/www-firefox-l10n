@@ -66,6 +66,7 @@ firefox-all-the-standard-firefox = Το τυπικό πρόγραμμα περι
 firefox-all-get-a-sneak-peek-at = Ρίξτε μια ματιά στις νέες λειτουργίες του { -brand-name-firefox } πριν κυκλοφορήσουν.
 firefox-all-test-your-sites-against = Αξιοποιήστε τα ενσωματωμένα, πανίσχυρα και ευέλικτα εργαλεία ανάπτυξης για να ελέγξετε τη συμβατότητα των ιστοτόπων σας με τις επερχόμενες λειτουργίες του { -brand-name-firefox }.
 firefox-all-count-on-stability-and = Βασιστείτε στη σταθερότητα και την ευκολία χρήσης του προγράμματος περιήγησης { -brand-name-firefox } που έχει σχεδιαστεί για επιχειρήσεις.
+firefox-all-the-familiar-firefox-browser = Το ήδη οικείο { -brand-name-firefox } με επιπλέον στοιχεία ελέγχου ασφαλείας, σε συνδυασμό με μια κονσόλα διαχειριστή βοηθά οργανισμούς να πληρούν τις αυστηρές απαιτήσεις ασφάλειας, διακυβέρνησης και συμμόρφωσης.
 firefox-all-windows-installers-for = Προγράμματα εγκατάστασης για Windows, για τα εταιρικά τμήματα πληροφορικής, που απλοποιούν τη ρύθμιση παραμέτρων, τη διανομή και τη διαχείριση του { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Προγράμματα εγκατάστασης ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Προγράμματα εγκατάστασης ARM64/AArch64 βελτιστοποιημένα για υπολογιστές Windows και Linux.
