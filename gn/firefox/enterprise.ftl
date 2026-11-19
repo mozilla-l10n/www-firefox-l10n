@@ -22,3 +22,5 @@ firefox-enterprise-firefox-esr-msi = { -brand-name-firefox-esr } — MSI
 firefox-enterprise-firefox-esr-pkg = { -brand-name-firefox-esr } — PKG
 firefox-enterprise-firefox-esr-64-bit = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) — 64-bit
 firefox-enterprise-firefox-esr-arm64 = { -brand-name-firefox-esr } — ARM64
+# Shown on the enterprise release-notes page.
+firefox-enterprise-request-early-access = Ejerure ñemoneĩ oiko mboyve
