@@ -66,6 +66,7 @@ firefox-all-the-standard-firefox = Shfletuesi standard { -brand-name-firefox } �
 firefox-all-get-a-sneak-peek-at = Krijoni një ide mbi veçoritë më të reja të shfletuesit { -brand-name-firefox }, përpara se të hidhen në qarkullim për këdo.
 firefox-all-test-your-sites-against = Provoni sajtet tuaj kundrejt veçorive të shfletuesit { -brand-name-firefox } që do të hidhen së shpejti në qarkullim, me mjete të fuqishme, të zhdërvjellëta, zhvilluesish, të aktivizuara paraprakisht.
 firefox-all-count-on-stability-and = Lërjani qëndrueshmërinë dhe lehtësinë e përdorimit këtij shfletuesi { -brand-name-firefox } të montuar për ndërrmarje.
+firefox-all-the-familiar-firefox-browser = Shfletuesi i njohur { -brand-name-firefox }, me kontrolle shtesë sigurie, çiftuar me një konsolë përgjegjësi për të ndihmuar entet të plotësojnë domosdoshmëri strikte sigurie, drejtimi dhe pajtueshmërie.
 firefox-all-windows-installers-for = Instalues Windows për TI korporatash, që thjeshtojnë formësimin, vënien në punë dhe administrimin e shfletuesit { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Instalues për platforma ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Instalues për ARM64/AArch64 të optimizuar për PC Windows dhe Linux.

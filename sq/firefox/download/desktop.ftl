@@ -159,3 +159,4 @@ firefox-desktop-download-interrupted = Shkarkimi juaj u ndërpre. Por jo gjithç
 # Variables:
 #   $url (url) - link to https://www.firefox.com/download/all/
 firefox-desktop-download-your-system-may-not = Sistemi juaj mund të mos i plotësojë domosdoshmëritë e { -brand-name-firefox }-it, por mund të provoni një nga <a href="{ $url }">këto versione</a>.
+download-chromebook-x86-based-chromebook = Chromebook me bazë *x86 që xhiron Chrome OS 80, ose të mëvonshëm
