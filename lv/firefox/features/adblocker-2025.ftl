@@ -14,7 +14,7 @@ features-adblocker-meta-title = Par reklāmu bloķētājiem — { -brand-name-fi
 # HTML page description
 features-adblocker-meta-desc = Uzziniet, kā darbojas reklāmu bloķētāji, ko tie var jūsu labā darīt un kā { -brand-name-firefox } aizsargā jūs no izsekotājiem un sīkdatnēm.
 features-adblocker-the-ad-blocker-a-tool = Reklāmu bloķētājs — rīks personalizētai un koncentrētai pārlūkošanas pieredzei.
-features-adblocker-in-todays-digital-world = Mūsdienu digitālajā pasaulē tīmeklis var būt pārpildīts un pārblīvēts. Reklāmu bloķētāji ir jaudīgi rīki, kas ļauj jums kontrolēt pārlūkošanas pieredzi, ļaujot jums izlemt, kas tiek rādīts jūsu ekrānā.
+features-adblocker-in-todays-digital-world = Mūsdienu ciparu pasaulē tīmeklis var būt pārpildīts un juceklīgs. Reklāmu aizturētāji ir jaudīgi rīki, kas ļauj pārvaldīt pārlūkošanas pieredzi, ļaujot izlemt, kas tiek rādīts ekrānā.
 features-adblocker-ad-blockers-work = Reklāmu bloķētāji darbojas divos galvenajos veidos: neļaujot ielādēt saturu, piemēram, reklāmas, un bloķējot vietņu sadaļas, kurās tiek mitināti šie elementi. Tas var ietvert videoreklāmas, personalizētas reklāmas, kas seko jums visā tīmeklī, un pat trešo pušu izsekotājus.
 # Variables:
 #   $firefox (url) - link to https://www.firefox.com/
