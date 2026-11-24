@@ -14,3 +14,4 @@ block-step-card-step = الخطوة { $number }
 # Download Firefox button
 # Download Firefox button has optional "set as default" checkmark label
 block-set-as-default = عيّن { -brand-name-firefox } كمتصفح افتراضي خاص بك.
+
