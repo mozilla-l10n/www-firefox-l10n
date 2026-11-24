@@ -14,3 +14,15 @@ block-step-card-step = Krok { $number }
 # Download Firefox button
 # Download Firefox button has optional "set as default" checkmark label
 block-set-as-default = Nastaviť { -brand-name-firefox(case: "acc") } ako predvolený prehliadač.
+# Code block: a code sample, an AI prompt, or the text an AI model returned
+# Button above the sample that copies it.
+block-code-copy = Kopírovať
+# Replaces block-code-copy for a moment after the sample has been copied.
+block-code-copied = Skopírované
+# Label above a sample that shows the exact text (the prompt) given to an AI model.
+block-code-prompt = Zadanie
+# Label above a sample that shows the text an AI model returned.
+block-code-output = Výsledok
+# Accessibility label for a sample with no programming language shown. Read by
+# screen readers; not shown visually.
+block-code = Kód
