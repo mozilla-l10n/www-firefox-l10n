@@ -43,7 +43,7 @@ footer-connect = Pieslēgties
 ## Links to resources
 
 # Section title
-footer-resources = Resursi
+footer-resources = Avoti
 footer-compare = Salīdzināt
 footer-release-notes = Laidiena piezīmes
 # Link to learn more, discover info about Firefox. Link points to
@@ -58,7 +58,7 @@ footer-merch-store = Preču veikals
 ## Links to social media
 
 # Section title
-footer-follow-us = Sekojiet mums
+footer-follow-us = Seko mums
 footer-instagram = Instagram
 footer-facebook = Facebook
 footer-youtube = YouTube

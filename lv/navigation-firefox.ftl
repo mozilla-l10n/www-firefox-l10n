@@ -27,7 +27,7 @@ navigation-about-firefox-features = { -brand-name-firefox } funkciju pārskats
 
 ## Resources
 
-navigation-resources = Resursi
+navigation-resources = Avoti
 navigation-close-resources-menu = Aizvērt resursu izvēlni
 navigation-product = Produkts
 navigation-desktop = Darbvirsma
