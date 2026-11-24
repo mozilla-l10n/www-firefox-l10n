@@ -19,6 +19,8 @@ block-set-as-default = { -brand-name-firefox } als uw standaardbrowser instellen
 block-code-copy = Kopiëren
 # Replaces block-code-copy for a moment after the sample has been copied.
 block-code-copied = Gekopieerd
+# Label above a sample that shows the exact text (the prompt) given to an AI model.
+block-code-prompt = Vraag
 # Label above a sample that shows the text an AI model returned.
 block-code-output = Resultaat
 # Accessibility label for a sample with no programming language shown. Read by

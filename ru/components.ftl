@@ -20,9 +20,9 @@ block-code-copy = Копировать
 # Replaces block-code-copy for a moment after the sample has been copied.
 block-code-copied = Скопировано
 # Label above a sample that shows the exact text (the prompt) given to an AI model.
-block-code-prompt = Приглашение
+block-code-prompt = Запрос
 # Label above a sample that shows the text an AI model returned.
-block-code-output = После встречи
+block-code-output = Результат
 # Accessibility label for a sample with no programming language shown. Read by
 # screen readers; not shown visually.
 block-code = Код
