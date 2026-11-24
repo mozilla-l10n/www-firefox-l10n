@@ -14,3 +14,4 @@ block-step-card-step = स्टेप { $number }
 # Download Firefox button
 # Download Firefox button has optional "set as default" checkmark label
 block-set-as-default = { -brand-name-firefox } को अपने डिफ़ॉल्ट ब्राउज़र के रूप में सेट करें।
+
