@@ -20,9 +20,9 @@ block-code-copy = 複製
 # Replaces block-code-copy for a moment after the sample has been copied.
 block-code-copied = 已複製！
 # Label above a sample that shows the exact text (the prompt) given to an AI model.
-block-code-prompt = 提示
+block-code-prompt = 提示詞
 # Label above a sample that shows the text an AI model returned.
-block-code-output = 產出
+block-code-output = 輸出
 # Accessibility label for a sample with no programming language shown. Read by
 # screen readers; not shown visually.
 block-code = 程式碼
