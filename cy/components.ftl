@@ -25,4 +25,4 @@ block-code-prompt = Anogiad
 block-code-output = Allbwn
 # Accessibility label for a sample with no programming language shown. Read by
 # screen readers; not shown visually.
-block-code = Codio
+block-code = Cod
