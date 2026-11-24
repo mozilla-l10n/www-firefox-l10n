@@ -22,7 +22,7 @@ block-code-copied = Copiado
 # Label above a sample that shows the exact text (the prompt) given to an AI model.
 block-code-prompt = Prompt
 # Label above a sample that shows the text an AI model returned.
-block-code-output = Saída
+block-code-output = Resultado
 # Accessibility label for a sample with no programming language shown. Read by
 # screen readers; not shown visually.
 block-code = Código
