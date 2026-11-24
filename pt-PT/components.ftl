@@ -14,3 +14,15 @@ block-step-card-step = Passo { $number }
 # Download Firefox button
 # Download Firefox button has optional "set as default" checkmark label
 block-set-as-default = Definir o { -brand-name-firefox } como o seu navegador predefinido.
+# Code block: a code sample, an AI prompt, or the text an AI model returned
+# Button above the sample that copies it.
+block-code-copy = Copiar
+# Replaces block-code-copy for a moment after the sample has been copied.
+block-code-copied = Copiado
+# Label above a sample that shows the exact text (the prompt) given to an AI model.
+block-code-prompt = Confirmação
+# Label above a sample that shows the text an AI model returned.
+block-code-output = Saída
+# Accessibility label for a sample with no programming language shown. Read by
+# screen readers; not shown visually.
+block-code = Código
