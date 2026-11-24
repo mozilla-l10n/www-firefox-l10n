@@ -20,7 +20,7 @@ block-code-copy = Kopírovat
 # Replaces block-code-copy for a moment after the sample has been copied.
 block-code-copied = Zkopírováno
 # Label above a sample that shows the exact text (the prompt) given to an AI model.
-block-code-prompt = Výzva
+block-code-prompt = Zadání
 # Label above a sample that shows the text an AI model returned.
 block-code-output = Výstup
 # Accessibility label for a sample with no programming language shown. Read by
