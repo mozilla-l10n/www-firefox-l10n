@@ -11,7 +11,7 @@ firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = Ātrāka lapu ielāde, mazāks atmiņas patēriņš un daudz funkciju — jaunā { -brand-name-firefox } versija ir klāt.
 firefox-new-get-the-latest-firefox = Iegūstiet jaunāko { -brand-name-firefox } pārlūku.
 firefox-new-free-web-browser = Bezmaksas tīmekļa pārlūks
-firefox-new-advanced-install-options = Papildu instalēšanas opcijas un citas platformas
+firefox-new-advanced-install-options = Paplašinātas uzstādīšanas iespējas un citas platformas
 firefox-new-download-in-another-language = Lejupielādēt citā valodā
 firefox-new-need-help = Vai nepieciešama palīdzība?
 

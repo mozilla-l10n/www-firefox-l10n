@@ -13,7 +13,7 @@ footer-macos = macOS
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
-footer-custom-download = Pielāgotas lejupielādes opcijas
+footer-custom-download = Pielāgotas lejupielādes iespējas
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
