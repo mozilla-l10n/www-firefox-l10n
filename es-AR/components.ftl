@@ -18,9 +18,9 @@ block-set-as-default = Establecé { -brand-name-firefox } como tu navegador pred
 # Button above the sample that copies it.
 block-code-copy = Copiar
 # Replaces block-code-copy for a moment after the sample has been copied.
-block-code-copied = Copiada
+block-code-copied = Copiado
 # Label above a sample that shows the exact text (the prompt) given to an AI model.
-block-code-prompt = Preguntarme
+block-code-prompt = Prompt
 # Label above a sample that shows the text an AI model returned.
 block-code-output = Salida
 # Accessibility label for a sample with no programming language shown. Read by
