@@ -14,3 +14,4 @@ block-step-card-step = Étape { $number }
 # Download Firefox button
 # Download Firefox button has optional "set as default" checkmark label
 block-set-as-default = Choisissez { -brand-name-firefox } comme navigateur par défaut.
+
