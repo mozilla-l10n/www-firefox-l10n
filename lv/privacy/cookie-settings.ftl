@@ -27,7 +27,7 @@ cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } iz
 
 ## Preference cookies section
 
-cookie-settings-category-preference-heading = Iestatījumi
+cookie-settings-category-preference-heading = Izvēle
 cookie-settings-category-preference-what-are-subheading = Kas ir priekšroku sīkdatnes?
 cookie-settings-category-preference-what-are-desc = Šīs tehnoloģijas tiek izmantotas, lai atcerētos jūsu iepriekšējās tīmekļa vietnes apmeklējuma laikā veiktās izvēles. Piemēri var ietvert jūsu vēlamo lasīšanas valodu vai iecienītāko krāsu tēmu.
 cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } izmanto priekšroku sīkdatnes, lai ievērotu jūsu preferences un uzlabotu jūsu pieredzi, apmeklējot mūsu tīmekļa vietnes. Tie netiek izmantoti analītikas nolūkos. Priekšroku sīkdatnes atbalsta funkcijas līdzīgi kā obligātās sīkdatnes, tomēr tīmekļa vietne joprojām var darboties bez tām. Tādēļ jūs varat izvēlēties atteikties no to izmantošanas.
