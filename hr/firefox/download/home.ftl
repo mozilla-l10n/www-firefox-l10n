@@ -9,6 +9,7 @@
 ## Intro
 
 firefox-home-take-control = Preuzmi kontrolu nad svojim internetom
+firefox-home-go-online = Radi online s manje ometanja, buke i stresa. Zamisli nas kao dašak svježeg zraka.
 firefox-home-set-firefox-as = Postavi { -brand-name-firefox } kao standardni preglednik.
 
 ## What's new
