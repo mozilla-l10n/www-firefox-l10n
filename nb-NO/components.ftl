@@ -14,3 +14,8 @@ block-step-card-step = Trinn { $number }
 # Download Firefox button
 # Download Firefox button has optional "set as default" checkmark label
 block-set-as-default = Sett { -brand-name-firefox } som standard nettleser.
+# Code block: a code sample, an AI prompt, or the text an AI model returned
+# Button above the sample that copies it.
+block-code-copy = Kopier
+# Replaces block-code-copy for a moment after the sample has been copied.
+block-code-copied = Kopiert
