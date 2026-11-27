@@ -5,5 +5,8 @@
 
 ### URL: https://www-dev.springfield.moz.works/newsletter/?geo=de
 
+consent-banner-body-v2 = මෙම අඩවිය ක්‍රියා කිරීමට වුවමනා දත්තකඩ වලට අමතරව, ඔබගේ පිරික්සුම් මනාප හොඳින් තේරුම් ගැනීමට සහ අත්දැකීම් වැඩිදියුණුවට අතිරේක දත්තකඩ කිහිපයක් සැකසීමට අවසරය ඉල්ලා සිටින්නෙමු.
+consent-banner-button-reject = සියලු අතිරේක දත්තකඩ ප්‍රතික්‍ෂේප කරන්න
+consent-banner-button-accept = සියලු අතිරේක දත්තකඩ පිළිගන්න
 consent-banner-settings-link = දත්තකඩ සැකසුම්
 consent-banner-aria-label = දත්තකඩ පතාකය
