@@ -135,7 +135,7 @@ firefox-desktop-download-visit-support-for-more = වැඩි විස්ත�
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.firefox.com/download/all/
-firefox-desktop-download-your-firefox-new-should-begin = ඔබගේ බාගැනීම ස්වයංක්‍රීයව ආරම්භ විය යුතුය. නැද්ද? <a id="{ $id }" href="{ $fallback_url }">යළි උත්සාහ කරන්න.</a>
+firefox-desktop-download-your-firefox-new-should-begin = ඔබගේ බාගැනීම ස්වයංක්‍රියව ආරම්භ විය යුතුය. නැද්ද? <a id="{ $id }" href="{ $fallback_url }">යළි උත්සාහ කරන්න.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } යනු අතිරික්සුවකට වඩා දෙයකි
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = ඔබගේ බාගැනීමට බාධා විය. නමුත් සියල්ල අහිමි වී නැත.

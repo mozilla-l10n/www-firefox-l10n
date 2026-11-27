@@ -14,3 +14,15 @@ block-step-card-step = Adım { $number }
 # Download Firefox button
 # Download Firefox button has optional "set as default" checkmark label
 block-set-as-default = { -brand-name-firefox }’u varsayılan tarayıcım yap.
+# Code block: a code sample, an AI prompt, or the text an AI model returned
+# Button above the sample that copies it.
+block-code-copy = Kopyala
+# Replaces block-code-copy for a moment after the sample has been copied.
+block-code-copied = Kopyalandı
+# Label above a sample that shows the exact text (the prompt) given to an AI model.
+block-code-prompt = Komut
+# Label above a sample that shows the text an AI model returned.
+block-code-output = Çıktı
+# Accessibility label for a sample with no programming language shown. Read by
+# screen readers; not shown visually.
+block-code = Kod
