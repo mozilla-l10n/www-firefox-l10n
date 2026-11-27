@@ -9,7 +9,7 @@
 firefox-browsers-page-title-v2 = වැඩතලය සඳහා { -brand-name-firefox }
 firefox-browsers-main-heading-v2 = වැඩතලය සඳහා { -brand-name-firefox }
 firefox-browsers-desktop = වැඩතලය
-firefox-browsers-seriously-private-browsing = නිත්‍ය පෞද්ගලික පිරික්සීමකට. අන්තර්ජාල ක්‍රියාකාරකම් ගැන තොරතුරු රැස් කරන මාර්ගගත ලුහුබැඳීම් 2000+ ස්වයංක්‍රීයව { -brand-name-firefox } මගින් අවහිර කරයි.
+firefox-browsers-seriously-private-browsing = නිත්‍ය පෞද්ගලික පිරික්සීමකට. අන්තර්ජාල ක්‍රියාකාරකම් ගැන තොරතුරු රැස් කරන මාර්ගගත ලුහුබැඳීම් 2000+ ස්වයංක්‍රියව { -brand-name-firefox } මගින් අවහිර කරයි.
 firefox-browsers-download-for-desktop = වැඩතලය සඳහා බාගන්න
 firefox-browsers-windows = { -brand-name-windows } සඳහා { -brand-name-firefox }
 firefox-browsers-mac = { -brand-name-mac-short } සඳහා { -brand-name-firefox }
