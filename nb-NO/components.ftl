@@ -19,3 +19,10 @@ block-set-as-default = Sett { -brand-name-firefox } som standard nettleser.
 block-code-copy = Kopier
 # Replaces block-code-copy for a moment after the sample has been copied.
 block-code-copied = Kopiert
+# Label above a sample that shows the exact text (the prompt) given to an AI model.
+block-code-prompt = Instruks
+# Label above a sample that shows the text an AI model returned.
+block-code-output = Resultat
+# Accessibility label for a sample with no programming language shown. Read by
+# screen readers; not shown visually.
+block-code = Kode
