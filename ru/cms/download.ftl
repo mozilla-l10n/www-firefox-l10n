@@ -10,7 +10,7 @@
 # containing a QR code they can scan with their phone.
 download-get-it-for-mobile = Загрузить для мобильных устройств
 # Heading inside the QR code modal shown to desktop visitors
-download-scan-to-get = Отсканируйте, чтобы загрузить { -brand-name-firefox } на ваше мобильное устройство
+download-scan-to-get = Отсканируйте, чтобы скачать { -brand-name-firefox } на ваше мобильное устройство
 # Alt text for the QR code image inside the modal
 download-qr-code-alt = Просканируйте этот QR-код
 # Text-link alternative to the QR code
